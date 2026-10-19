@@ -96,7 +96,13 @@ session.headers.update({"User-Agent": UA, "Accept-Language": "sk,cs;q=0.8"})
 
 
 def get(url, stream=False):
-    r = session.get(url, timeout=TIMEOUT, allow_redirects=True, stream=stream)
+    try:
+        r = session.get(url, timeout=TIMEOUT, allow_redirects=True, stream=stream)
+    except requests.exceptions.SSLError:
+        # malé obce mávajú pokazený certifikát – skúsime nešifrované http
+        if not url.startswith("https://"):
+            raise
+        r = session.get("http://" + url[8:], timeout=TIMEOUT, allow_redirects=True, stream=stream)
     r.raise_for_status()
     return r
 
