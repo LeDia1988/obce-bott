@@ -1,0 +1,18 @@
+name: Test zdrojov
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: { ref: probe-data }
+        continue-on-error: true
+      - uses: actions/checkout@v4
+        with: { path: src }
+      - run: pip install -q requests && python src/tools/probe.py
+      - run: |
+          git init -q out && cp -r probe out/ && cd out
+          git config user.name obce-bot && git config user.email obce-bot@users.noreply.github.com
+          git checkout -q -b probe-data && git add -A && git commit -qm probe
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" probe-data
