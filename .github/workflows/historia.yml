@@ -1,0 +1,19 @@
+name: História CRZ (jednorazovo)
+on: { workflow_dispatch: {} }
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests beautifulsoup4 lxml
+      - run: python tools/historia.py
+      - run: |
+          git config user.name "obce-bot"
+          git config user.email "obce-bot@users.noreply.github.com"
+          git add data/historia_crz.csv
+          git commit -m "História CRZ" || echo "bez zmien"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push && break; sleep 5; done
