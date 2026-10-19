@@ -1,11 +1,9 @@
 nazov,typ,hladat,poznamka
 Miloš Hájnik Architekti,projektant,Hájnik Architekti,projektant pre MČ Košice KVP a Dargovských hrdinov
-Stavprojekt Prešov,projektant,Stavprojekt,projektant – často pracuje s Playstem
-Playstem,konkurencia,Playstem,výrobca ihrísk
+Stavprojekt Prešov,projektant,Stavprojekt,projektant – často pracuje s Playsystem
 Ing. arch. Peter Tavel,projektant,Tavel,Michalovce – PD pre mesto Michalovce (CRZ)
 Studio21,projektant,Studio21,projekt pre obec Topoľovka (CRZ)
 Ateliér BAAR,projektant,BAAR,projekt pre Spišskú Novú Ves (CRZ)
-FUN & PLAY,konkurencia,FUN & PLAY,dodávateľ ihrísk (CRZ)
 EXTREME SPORT,konkurencia,EXTREME SPORT,dodávateľ športovísk (CRZ)
 ENJOY THE RIDE,konkurencia,ENJOY THE RIDE,pumptracky/skateparky (CRZ)
 SPORTESA,konkurencia,SPORTESA,športoviská (CRZ)
@@ -14,4 +12,12 @@ Octago,konkurencia,Octago,dodávateľ (CRZ)
 Buglo,konkurencia,Buglo,výrobca ihrísk
 Petra Sukovská,konkurencia,Sukovsk,dodávateľka ihrísk
 Bonita,konkurencia,Bonita,dodávateľ ihrísk (pozor – názov môžu mať aj iné firmy)
-Šport & Play,konkurencia,Šport & Play,dodávateľ ihrísk/športovísk
+Playsystem,konkurencia,Playsystem,výrobca/dodávateľ ihrísk
+Playsystem,konkurencia,Play system,výrobca/dodávateľ ihrísk
+Playsystem,konkurencia,Play-system,výrobca/dodávateľ ihrísk
+Sport&Play,konkurencia,Sport&Play,výrobca/dodávateľ ihrísk
+Sport&Play,konkurencia,Sport & Play,výrobca/dodávateľ ihrísk
+Sport&Play,konkurencia,Šport & Play,výrobca/dodávateľ ihrísk
+Sport&Play,konkurencia,Šport&Play,výrobca/dodávateľ ihrísk
+Fun&Play,konkurencia,Fun&Play,výrobca/dodávateľ ihrísk
+Fun&Play,konkurencia,Fun & Play,výrobca/dodávateľ ihrísk
