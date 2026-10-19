@@ -1,0 +1,1217 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msapplication-config" content="none" />
+    
+
+
+        
+
+    <meta name="keywords" content="elektronizacia obstaravania, verejne obstaravanie, VO, EKS, obchod" />
+    <meta name="eks-version" content="3.8.1.75 19.08.2026 09:45" />
+    
+    <title> Elektronický kontraktačný systém</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400&amp;subset=latin-ext" rel="stylesheet">
+    <!--[if IE 9]>
+      <link href="/Content/css_files/IE9/style-ie9.css" rel="stylesheet" type="text/css">
+    <![endif]-->
+    <link rel="apple-touch-icon" href="/Content/iconified/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/iconified/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/iconified/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/iconified/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/iconified/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/iconified/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/iconified/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/iconified/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link href="/Content/css?v=OeUhOsbrUQ6DKf-QJf_DWxP2Byo_Ba5E-WwNYWUc8VY1" rel="stylesheet"/>
+
+    <link href="/Content/ButtonProgress?v=d-JC4JmOqy7AancNCPwwCKoWbkuqmaaKgzckljEFnsQ1" rel="stylesheet"/>
+
+    
+    
+    
+    <link href="/Content/Index2018?v=2-azqbdfKJEHlvKPsevZL8m-EdoMJMvDk4re9C_m_J81" rel="stylesheet"/>
+
+
+
+    <script src="/bundles/jquery?v=GIdk4Z7ptDtxYuD-L05URqJUsdfP3penjRRfxFcO6001"></script>
+
+    <script src="/bundles/bootstrap?v=T0QlPGQ2uPv8HuXO-ExdjHzc-9tqXYJ3GQARCSYdcJQ1"></script>
+
+    <script src="/bundles/calendar?v=kS1sCf4n2FrBexnFhubQI9S6T2b_eHM0XjTHnCIMIBc1"></script>
+
+    <script src="/Scripts/DefaultConfiguration.js"></script>
+
+    <script src="/Scripts/Helpers.js"></script>
+
+    <script src="/Scripts/globalize.js"></script>
+
+
+    <link href="/EKSLayout/Style/all?v=KywG9myIk6GMSJ-cGtl5641rsO5OdSiachFsxgeJsZk1" rel="stylesheet"/>
+
+    <link href="/EKSLayout/Style/toastr?v=bUMX5PdhipTCZJVvmdqKc60mrvySkxFZQUqXQRjL8kI1" rel="stylesheet"/>
+
+    
+
+        
+
+    <script defer type='application/javascript' src='/EKSLayout/Component/Klaro/eks-config.js?v=1.0'></script>
+
+    <script defer type='application/javascript' src='/EKSLayout/Component/Klaro/klaro.js?v=0.7.18'></script>
+
+</head>
+<body>
+    
+    
+    <div class="eks-spinner"></div>
+
+
+
+    <div id="head">
+
+
+        
+    
+<nav id="layout--header-new">
+  
+
+
+<div class="container-fluid">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a id="menuLnkStaticEKS" class="navbar-brand" href="https://www.eks.sk/">
+            
+        </a>
+    </div>
+
+    
+    
+
+
+
+<div class="navbar-sub pull-left">
+    <div class="navbar-collapse collapse eks-main-menu">
+        <ul class="nav navbar-nav">
+                            <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="eks-icon eks-icon-prehlady-registre"> </i>
+                        Prehľady a registre <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                                        <li>
+                    <a href="https://eo.eks.sk/Prehlady/ZakazkyVerejnost" id="menuLnkPrehladZakaziek">
+                            <i class="eks-icon eks-icon-zakazka"> </i>
+                        Prehľad z&#225;kaziek
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/Reporty/Home/StatistikyObchodovania" id="menuLnkEtStatistikyObchodovania">
+                            <i class="eks-icon eks-icon-statistiky"> </i>
+                        Štatistiky a &#250;daje ET
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaPonuk/Ponuky/VerejnyPrehladPonuk" id="menuLnkEtKatalogPonuk">
+                            <i class="eks-icon eks-icon-katalog-ponuk"> </i>
+                        Katal&#243;g pon&#250;k ET
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaZakaziek/Zmluvy/Prehlad" id="menuLnkEtCRZT">
+                            <i class="eks-icon eks-icon-centralny-register-zmluv"> </i>
+                        Centr&#225;lny register zml&#250;v trhoviska
+                    </a>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaZakaziek/Zakazky/ObchodnePrilezitosti" id="menuLnkEtObchodnePriletzitosti">
+                            <i class="eks-icon eks-icon-zahranicne-zakazky"> </i>
+                        Zahraničn&#233; z&#225;kazky
+                    </a>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaObjednavatelov/VerejnyProfilObjednavatela/Prehlad" id="menuLnkEtObjednavatelia">
+                            <i class="eks-icon eks-icon-register-objednavatelov"> </i>
+                        Register objedn&#225;vateľov
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaDodavatelov/VerejnyProfilDodavatela/Prehlad" id="menuLnkEtDodavatelia">
+                            <i class="eks-icon eks-icon-register-dodavatelov"> </i>
+                        Register dod&#225;vateľov
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaZakaziek/ReferenciaDodavatela/Prehlad" id="menuLnkEtReferencieNaDodavatelov">
+                            <i class="eks-icon eks-icon-register-referencii"> </i>
+                        Register referenci&#237; ET
+                    </a>
+                </li>
+
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="eks-icon eks-icon-kniznica"> </i>
+                        Knižnica a n&#225;stroje <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                                        <li>
+                    <a href="https://portal.eks.sk/SpravaKniznice/OpisneFormulareKniznice/VerejnyPrehlad" id="menuLnkEtKniznicaOpisnychFormularov">
+                            <i class="eks-icon eks-icon-kniznica-opisny-formular"> </i>
+                        Knižnica opisn&#253;ch formul&#225;rov
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaKniznice/OpisneFormulareKniznice/KarantenaVerejnyPrehlad" id="menuLnkEtKarantenaOpisnychFormularov">
+                            <i class="eks-icon eks-icon-karantena-opisny-formular"> </i>
+                        Karant&#233;na opisn&#253;ch formul&#225;rov a z&#225;kaziek
+                    </a>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="https://jed.eks.sk" id="menuLnkJED">
+                            <i class="eks-icon eks-icon-jed"> </i>
+                        Jednotn&#253; eur&#243;psky dokument
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/Reporty/OtvoreneUdaje" id="menuLnkOtvoreneUdajeET">
+                            <i class="eks-icon eks-icon-jed"> </i>
+                        Otvoren&#233; &#250;daje ET
+                    </a>
+                </li>
+
+                    </ul>
+                </li>
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                            <i class="eks-icon eks-icon-informacie"> </i>
+                        Inform&#225;cie <b class="caret"></b>
+                    </a>
+                    <ul class="dropdown-menu">
+                                        <li>
+                    <a href="https://www.eks.sk//Stranka/Zakon" id="menuLnkZakon">
+                            <i class="eks-icon eks-icon-zakon"> </i>
+                        Z&#225;kon
+                    </a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail" id="menuLnkOpet">
+                            <i class="eks-icon eks-icon-opet"> </i>
+                        Obchodn&#233; podmienky EP/ET
+                    </a>
+                </li>
+                <li>
+                    <a href="https://eo.eks.sk/ZmluvaEO/ZmluvnePodmienkyAPrilohy" id="menuLnkDokumentyEO">
+                            <i class="eks-icon eks-icon-opet"> </i>
+                        Dokumenty elektroniz&#225;cie obstar&#225;vania
+                    </a>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="https://www.eks.sk//Stranka/OchranaOsobnychUdajov" id="menuLnkOchranaOsobnychUdajov">
+                            <i class="eks-icon eks-icon-ochrana-osobnych-udajov"> </i>
+                        Ochrana osobn&#253;ch &#250;dajov
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.eks.sk//Stranka/CertifikatyAPodpisy" id="menuLnkCertifikatyPodpisy">
+                            <i class="eks-icon eks-icon-certifikaty-podpisy"> </i>
+                        Certifik&#225;ty a podpisy
+                    </a>
+                </li>
+                <li>
+                    <a href="javascript: klaro.show();" id="menuLnkCookies">
+                            <i class="eks-icon eks-icon-cookies"> </i>
+                        Cookies
+                    </a>
+                </li>
+                <li class="divider"></li>
+                <li>
+                    <a href="https://www.eks.sk//UvodnaStranka/Index#podpora" id="menuLnkPodpora">
+                            <i class="eks-icon eks-icon-podpora"> </i>
+                        Podpora
+                    </a>
+                </li>
+                <li>
+                    <a href="https://www.eks.sk//Stranka/Kontakty" id="menuLnkKontakty">
+                            <i class="eks-icon eks-icon-centrum-podpory"> </i>
+                        Kontakty
+                    </a>
+                </li>
+
+                    </ul>
+                </li>
+
+        </ul>
+    </div>
+</div>
+
+
+    <div class="navbar-sub pull-right">
+        <div class="navbar-collapse collapse">
+            
+
+
+    <ul class="nav navbar-nav eks-login-navbar eks-login-navbar-with-icons">
+        
+        
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <i class="eks-icon eks-icon-registracia">&nbsp;</i>Registr&#225;cia<b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a id="menuLnkRegistraciaDodavatel" href="https://portal.eks.sk/SpravaDodavatelov/RegistraciaDodavatela/RegistraciaDodavatela">Dod&#225;vateľ</a>
+                </li>
+                <li>
+                    <a id="menuLnkRegistraciaSkupinaDodavatelov" href="https://portal.eks.sk/SpravaDodavatelov/SkupinaDodavatelov/RegistrujSkupinu">Skupina dod&#225;vateľov</a>
+                </li>
+                <li>
+                    <a id="menuLnkRegistraciaObjednavatel" href="https://portal.eks.sk/SpravaObjednavatelov/RegistraciaObjednavatela/ZiadostORegistraciu">Objedn&#225;vateľ</a>
+                </li>
+                <li>
+                    <a id="menuLnkRegistraciaVerejnost" href="https://portal.eks.sk/IAM/Ucet/Registracia">Verejnosť</a>
+                </li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="https://iam.eks.sk/Account/Login?ReturnUrl=http%3a%2f%2fwww.eks.sk%2f" id="menuLnkPrihlasenie">
+                <i class="eks-icon eks-icon-prihlasenie">&nbsp;</i>Prihl&#225;senie
+            </a>
+        </li>
+    </ul>
+
+        </div>
+    </div>
+</div>
+  
+</nav>
+
+    </div>
+
+    <div class="new-body-wrapper">
+            <div class="wrapper-for-footer">
+                
+    <div style="display: none;">
+        
+    </div>
+
+        <div>
+            
+
+<script>
+    $(".alert__slideDown").slideDown(400);
+    $(".toast__success").each(function (i, e) {
+        toastr.success($(e).html());
+        $(e).remove();
+    });
+    $(".toast__warning").each(function (i, e) {
+        toastr.warning($(e).html());
+        $(e).remove();
+    });
+    $(".toast__error").each(function (i, e) {
+        toastr.error($(e).html());
+        $(e).remove();
+    });
+</script>
+
+            
+
+
+
+<div id="eks-new-homepage">
+
+    <!-- FIXED CIRCLE - PODPORA -->
+    <div class="fixed-support-panel text-center">
+        <a href="#podpora" class="none-decoration">
+            <div class="support-circle">
+                <i class="eks-icon-podpora"></i>
+                <p>Podpora</p>
+            </div>
+        </a>
+    </div>
+
+    <!-- SLIDER -->
+
+    <div class="section-slider">
+        <div id="HomePageCarousel" class="carousel slide" data-ride="carousel">
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+                    <div class="item">
+                        <div class="col-lg-9 mx-auto">
+                            <div class="row">
+                                <div class="col-md-7">
+                                    <h1 class="text-white">Povinnosť pre dodávateľov</h1>
+                                    <p class="text-white">
+                                        Pre možnosť obchodovania na Elektronickom trhovisku sú dodávatelia povinní mať platný zápis v zozname hospodárskych subjektov, ktorý vedie Úrad pre verejné obstarávanie. 
+                                    </p>
+                                    <a class="btn btn-sm slider-btn" href="https://www.uvo.gov.sk/index.php?eID=dumpFile&t=f&f=33179&token=ea5982834477221e67ce761e1464c88ad942094f"_blank">
+  <span class="glyphicon glyphicon-info-sign">&nbsp;</span>Viac informácií</a>
+                                </div>
+                                <div class="col-md-5">
+                                    <div class="slider-img-fixed-height">
+                                        <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAEsCAYAAAA1u0HIAAAQAElEQVR4Aex9B4AkR3X2Vz2b93LOQRd0J+mURZSIQgRhAw5gbGMM2CYasLGN0+9IsMHkDA4EY5tgkxEIECCCBEI5Xdbpctrb3du8k/7vq56a7ZmdmZ3Zndmd2a3e/rqqXr169ep1Vb2q7pnZIO0PbwFvAW8BbwFvAW+BRrVACpkjyIQ+8BbwFvAW8BbwFvAWaGAL1NahN7BhvOreAt4C3gLeAt4CjWQB79Ab6W55Xb0FvAW8BbwFvAWKWKCRHXqRJnmyt4C3gLeAt4C3wNyzgHfoc++e+xZ7C3gLeAt4C8xCC3iHXuymerq3gLeAt4C3gLdAA1nAO/QGulleVW8BbwFvAW8Bb4FiFvAOvZhlakv30r0FvAW8BbwFvAWqagHv0KtqTi/MW8BbwFvAW8BbYGYs4B36zNi9trV66d4C3gLeAt4Cc84C3qHPuVvuG+wt4C3gLeAtMBst4B36bLyrtW2Tl+4t4C3gLeAtUIcW8A69Dm+KV8lbwFvAW2C2WaCndwSf/PR9+Nt/uBXv++Ad+J/PP4Tv/+BRPPTwWXR1Dc225s5Ie7xDnxGz+0qLWsBneAt4C8w6C3SdG8JHP34XPveFh/HzO07gW98+iE995n684123401/9j389u9+Fc/+pc9VHc99/ufx0ld8bRxe9vtfx1/9zQ/w5a/unVW29g59Vt1O3xhvAW8Bb4H6s8DQYBz3P3B62hVLJtM4fXpwHE6eHMBdd5/Cf372Adz8nUemXa9aVegdeq0s6+XWowW8Tt4C3gIzYIEEHeu5c8MzUHPpKtNpYJCLjdJcjZPrHXrj3CuvqbeAt4C3gLdAFS0Q0AMuWdJWRYkzK4rNmVkFfO3eArPGAr4h3gLeAjW3wMqVnXj3e5+OxYun7ohNYDBvXmvNdZ6uCrxDny5L+3q8BbwFvAW8BapigWQqje7uqT/CN8agrS1WFZ3qQYh36PVwF7wO3gITW8BzeAt4C9AC2lXHuLOuxg49xYVBf/8opc6O0zv02XEffSu8BbwFvAVmhQUWLWrFa193Jd7xL0/FX/zV4/Fnf/44/N4fXIaXveJS/NbvXIx/fudTsHRZO/7uH6/FJbuW48IdS7B+w3wsXdqOjs7mymyQTmN4OFFZmTrmDupYN6+at4C3wHRZwNfjLVAnFhgaSuDnPz+BQ4/0YsvWxWhpjSEWM1i1qhNbtyzOarloURv+9M2PxV/+9RPwlrc9Ge9+39PxkY89E5/6z+fiXXzHnmWcQ5FgDrXVN9VbwFvAW8BboM4tMDKSxOFHz+PiXcvQ2zuC+fNb8LGP3IO3v/U2vO0tP8UH33+n/arZFz6/Gy/97a9bvPbVN+O2nx6DHqEf3N+DN73xe3Xeytqo5x16bezqpXoLeAuMWcDHvAUqskDAd+R9faN45z/dnlMuHk9ZZ9/fH8fXv7o/m9fe1oTtFy7BP/zdT7CAj+yzGRNE9OG6M2cHJ+BqnGzv0BvnXnlNvQW8BbwFZr0F9C78d1++yz5yTyRSGBqK49deeGHRdrfRmV9zzWq7Oz9/fgRNTQGe8MS1RfmjGQYGsWD2uMHZ0xL4w1vAW2BOWsA3elZZQO/M9X784x+9B/p1uc988gE85jFrirZx/oIWPPM5F+AjH7obfedH8fn/eRi/+us7ivJHM+TL/Q/LRC3i494C3gLeAt4C3gJVsICc8w3P3Iz+gVG749Y78YGBOPShuEJfU4vFAqxY0YF4PIkD+7sxOprE7t1d3HcDAR/bT6iSMWhujk3I1igMfofeKHfK6+kt4C0wExbwdU6jBebNa8HTnr4RW7cutp9W1yfW//lfnopFi9vs19byVdHu+o//5DFYvrwjy//u9z4dnZ3NeMlLL8lnH5eW01+40P9S3DjDeEJlFhgcHERvby96eno8vA18H/B9oG76QF9fX2WTWRW5k3xn3tU1NE6iPvn+4INnxtFFCLjLVhhFU3OAJUvboqSCcUOqPlDHYFacfoc+K26jb4S3gLdAQ1rAK51jgdOnB/HOf/oZUsl0lq7H7qdODuDbNz2SpbnIuXND+Ke33eaS2VBfd/vAe+/MpotFTGCgpwLF8huN7h16o90xr6+3gLeAt8AstsCJE/142Uu/Yb9fru+Zv+x3voG//9sf2xYvWNCKF754J997B9iyZRGSdPx79pzD615zM27+9iHc+sMj+MqX9uGP3/A96BPytlCJi3boej9fgqWhsrxDb6jb5ZX1FvAW8BYo2wKzinHlqk584MPPwNVXr7L/ae1P3vxYPPeXt9o26tPtn/3MA/i3T9yL//vfPZZWzkXv0JcsaS+HtSF4vENviNvklfQW8BbwFpi7FtB3yzs6mvHVr+zDj249gp/+5Kj9gZn16+fPXaMUaLl36AWMMutJXeeQ3ncA6Yf3WGAg95eS0oePWrry0d0DpFKz3iS+gd4C3gIVWmCa2OXIn/LUDdi1aznOnhnCQw+exe23Hbc78W9+/YDdrU+TKnVfjXfodX+LaqDg0iXA/34Z+Kd3hfjRT4DB0KnL0eMT/xHS3/V+4MRJIPDdpAZ3wYv0FvAWmMAC+rra695wlf0K2q/++oV4+e9dile++groq2r6pyz/8NYn4b0fuB7/8p6nTSBpbmQHc6OZvpX5FjAvewlwwSZLTv/3F4BDh20cX/oqcPiIjZs3vha4aAfe/dXDePkHH8rB/Y/2471fC+n3Heq3/P/945N43Sd24//99wHsPzGID910BK/40Fi5uw/O3NdhrIL+4i3gLdAoFrB6trXGsHPHUhv3l4kt4B36xDaanRwrVwCbNwPt4QdC0h/+BNKv/SNgd+YDJc+7EdiwDl+94ywOnx1Gc5PBos4mLJ3fbKF01DDiOXBiCIMjKfzq41dADn/v8UE0xwJcsmEelsxrjrL7uLeAt4C3wIQWOHlyANFPvOtT74XwJ390y4Sy5gKDd+hz4S4XaaP5nRfTqW8Mc/VjEv0DQJLvy+fNg7n4IvQ1d+ChI/04P5jAHz5nPd79su1450u3WexY2xmWy1y/dPtpHDw1hFc+cy120YEf6RpB31ASz7lqKX7/GWvxL7+7DVdcMD/D7QNvAW8Bb4Hpt0D2N2hYdRAYLF3WztjsOb1Dnz33clItMa/5fWBb+NUPJ8C85veAC7fh4985Bu2ytTP/8s/P4J+/dCgLOW/H/6FvHeGOfABX0mGvX9qGGAfKE3csxJrFrfjyz87gDf+2x4ZaGLgyPvQW8BbwFphuC6THfq8G+v75mtXzpluFmtYX1FS6F17/FpjPXXNzU0k9ewYSOHhyCHuODWYxMJzMlokn0khxpOzaOM8+jlfGVVsW4NlXLcPKhS1K8tH9Gdx0Vxe6++M27S/eAt4C3gIzaQHt0Gv0HfQZa5Z36DNm+vqoOP3uD/C9+d4cZdL/+xXog3FPvmgxVi1qQWtTgD99/kb8++suykLO2xV62q4lWLe0FZ/6/gk8fIyP7TMZ2qW//SVb7SN3yfn2PV145PRwJtcH3gLVs0AylcZIIoWh0SRf9SQqhspxTVpQIdHjyTSG4ykMjkxefkHhJGoxbHWPT062dJIMiqrbs7k5QL3thq1DX9xWtzabjGLeoU/GarOkTPqntwPHTwD6nvmypUBra9iyA48Ax07g6o3tWEGHPsr36j/bdx4HuEs/ez4OYZS78pAZuJQ7843L2+0H5/79u8f53n0AH/zmEXztjrOcWJP2W2/GGOhRPAP4w1ug2hboGYxj97E+HDg1gEfPDlaMU70jiLOfF9KrbziB/Sf7LQ6enpz80+dHCom2tL6hBB4+St1PTk720XNDHGcJK6teL2tWz8df/+W1aG8v/TSwXvWvK71KKBOUyPNZs9kCo3z0/YMfA2fO2laaV7wU5u/+Etic+SrbR/8V2LMPr79xPS5a14lbH+zGW7/4CP7s0/ss9kR24hLwiuvXWL5+Poq/++B5nKHj/9LPTtv35x/79jGc6B7Bb1y3CjspS/we3gLVtMDSeS24bONCXLJ+waSwaXkHWvgkqpBOC+iEdq6dPym5Tp+NyzoKiba0hR3NuHzT5HXfzvfAkmGF1elFC/nNbOP/ff5XcdPXXlQUX/vSr+PfP3EjPvGRZ+Nv/vpaPOHxa6vSIu3Gl+V9AK6trQk3XH9BVeTXixDv0OvlTky3Hi3NMH/5JzCf+rgFLtoBPhMDVq0EmputNun/+wqCw0fwqmetwztfug3v+J0xXLi2Ey9/+hpL25Fx0q95VvhJ+GdesQx/9WubiM32K2y/8rgV0KP3p+9ajDY+erPC/cVbwFvAWyDPAk1cVK1eNQ/r1i3AJi7QHn64K48jTOqftPzpHz226MIgf9Hwja+8EJ/5j1/O4f+vTz8P8+e3hAJnyTWYeju8hNlkAfOqVwDbt4VN0qP34yfRGaTsh92WLWiGQ0uTwYKOJptWXAWaSdMn4sXTwoG5ZVU7brxqGZ579diH48Tn4S3gLeAtUMoCPT3D+MxnH0A3w3y+dXxaImf8tKeFTxPz8+dy2jv0OXj309/4FtKf+GRB4NEjwC8/G1i/zlomrUfvu/fiyNlh/N/tp/FvfEc+Waj8qZ5RK9dfvAW8BbwFClkgHk/i4d1d+P4PHs3J7uCriRf9+k584qPPgb5ylpPpE9YCde/QrZb+UlULmBufBfP7v1sQ2LgeZseFwIplQCzsHukvfw3rB05Dj871rnyyUPmVi1qq2hYvzFvAW2B2WeDkqQH8w1t/nNOolSs78bEPPRu/+zuX5tB9ItcC4YydS/MpbwGY178G2Mn36rLF/oPAqTNAIqmUh7eAt4C3QE0scIrO/B8jzryJr+6uunIVPvmvz0X+h9pqokCDC53jDr3B716N1Te/xEfvz74BuPYJSN97P3DyZI1r9OK9BbwF5qoFentH8Pn/fRhHjob/xGnFik584D034C1//+S5apKK2+0desUmm0MF+Ojd/MavZR/NY111vkIyhyzom+ot4C1QhgXiiRT27OvCN286gJaWGJ74hHX41L89F5s2LSyjtGdxFvAO3VmiBqEX6S3gLeAt4C0wsQVOnujH3/79j7B69Tz7eP2v/+KJExfyHOMs4B36OJN4greAt4C3gLfAdFmg69wQvvntA/joB5+Ff//4jVg8y36OdbrsqHq8Q5cVZgBNza2ItbYTHZOELxdr9TbwNvB9oNp9IGhum9YZcemSdrzy967Axo3+8fpUDe8d+lQtOMnyyXQK6VQa6bSHt4HvA74P1E8fmOSU5ovVgQW8Q6+Dm1CPKnidvAW8BbwFvAUaywLeoTfW/fLaegt4C3gLeAt4CxS0gHfoBc3iibW1gJfuLeAt4C3gLVBtC3iHXm2LenneAt4C3gLeAt4CM2AB79BnwOi+ytpawEv3FvAW8BaYixbwDn0u3nXfZm8BbwFvAW+BWWcB79Bn3S31DaqtBbx0bwFvAW+B+rSAd+j1eV+8Vt4C3gLeAt4C3gIVWcA79IrM5Zm9+g2YwAAAEABJREFUBWprAS/dW8BbwFtgshbwDn2ylvPlvAW8BcZZIJ0GUrxEoV+BG8dIQoq8g6NpnB1M4fRAMovD55PYfTaBh84UxwOnE7jnVBx3n8zFL47HcdvR0VmJnx0bzbb3Xra9lH1cnuwUtdGdJ+K4fQL7/PTIMG492D8l3PboIA50jSCum8x77c/psYB36NNjZ1+Lt0AdWKC2KtCPW2euMArN6UleHOTsj51PQI7jrpMjdN6j2NsVz+JwTxxdQwn0jiSJVARJnM/Q+kZTGIqnMZzIxWx2IDRhtr2DbHvvSNQ2heOyU9RGo8k0uI4q2RFUzxDtOhXoPu3vGsUPDvTjnhNDJevzmdWzQMM49Dg74gPsGPccG0QpPHhyCA8R+84MYz/xaPcIDhMnzsdxkugaTOAcoQ7Xz8lhKJ7CaCKEJqHqmdZL8haYWxaYyFE4a/TREXUPp1yyYKixGC4AUkimQqToaUQvWMAT69ICvGUY5OKrLpWbhUo1jEMfGE1OuLLU/ZHj1yp0gJ2on+geTNKBJ3Gqjw6dONI9Sgc/ioNnR7Cf2HN6GA+dCnHv8dKLhfyFxDAXAqrTw1tgLltATjaZSqPYo/V822jnN8BH7fn0UmnDzMDwKjCuXb7AqD+9BbwFMhZoGIee0dcH3gLeAnVkATnzSh1rjE45VuHMo91/kpWl0ykYLu0pwv6nwhR378jQpEeSaYV1ZCKvirfAtFmgwmE1bXr5irwFvAXq1AJyrnKaST5PVTg9aoa1sEokeEkRokgXvo2ztDQdvjEGdicPf3gLzD0LNIxDH02koQE7925R7VrM+Q8Hj/fgrr0n8Ys9Jzy8DcrqA3fSTuozd+87iQPHuzE0kqhdJ61AsjHGOnM+mLdzxXQvNuAPb4EZtkDDOPQZttMsrT6NeDJpP5k8Sxvom1VjC8QTSYzEK3PoWpinuK0W6Hn5CB0WmOIhuUk+ck8QoTMPNwGiTyTa53sLzAYLNIxDjyfHmzueSOCBg4fw0COP4sDR43j0xCkcO3MWp7t70Ns/gL7BQQyPjnLO0IO58eXnOsUYgwvXL8VVF6728DaouA9cuX01dmxYhkXz2lDJoSdDemKuUZlMAUk69yQJCu2jdDJol81X5ZWIHcdLMXaxKueepJOPIsV0OvPuncNgXFlP8BZoRAs0jENHidE9MDyMrvPncaq72zr0QydOYs/hI3j40GHct/8g7nh4D37+0O6ycfeefbh3/4HsQuFsT6/96kwj3uBydNbk6QG7S/R2qMAONNZknCF9Nx0tsoccu5wvxWUemRvmkypClqu6EUpnHbDv3hNcVcjZp+jg01QkGy8x51Smjef2FpgeCzSMQ+cr9HHDq7mpCZdcsAnX7LwQj7loR9m4asd2XL5tC3Zu2ogt69Zg0+pVWLdiOZYvWsTdxjy0tbbS+gZuoXD09Bkk+GiRRH96C3gLOAvQK9L/uVTZIYuBG/NwARVx2qIn6e0TBDfQSNkwbUM7+MmQJm0ydZajnOSmdCGzAtWfpCJCiqE2FUFGXwWKG6sYCxQ4JUsokOVJ3gI1sUDDOPQUB7KzgFbRKQ4wwdEqCWNBgJbmZszvaMfSBQuwYvEirFm2FJvXrML2Devo6Dfgsq0XZBcKl2/fitaWZvjDW8BbYOoW0FDWrjjOMayxLEeZFDFPtJyqQ4r5cp4BvaghnwOj03JyLcGndGnEM7v5BHVXPEG9kow7pBhPZ3b66YzyNqyhltMlOs12qX2qL8228VbY15mu7QpFd6H4PKbXAg3j0BMcKAm+MxeS+iAX0+pcSstk6kgKPbwFvAUawwL0CXSQcpJyl6HO6SI7XnHod5wS7n07HSnPsFCRa8D3AU2BQfM0QvXpe/bNnFnn8dLZEqCtyVjMY3x5RwwrOnOxal4TNixqnlFsWtyMC5aE2Lq0GZeuasXj1rfj6rVtWL+wGTQl74yWVFx+ybHz5mlBk/8EwqXdfKyFV5Hb48k1sAC7XQ2k1kBkssDoHY3HsfvRI3jw4CHsO3IMB44dhx6P60Nx58734fzAIIZHRsNHdjXQyYv0FpiLFpBz1cQtTKb9Ki/klk3bHbAc9pKhU3hC149xbdetWDt0JIdtLZ3LMy+cj+fsWIBnM3zW9vkohhu2zcP1W+fh6TOAp26Zh2s3d+LaTZ14EsPrNnXg8RvacfmaNly2Ohe76DwvXNaCmcS2pS3YsiTE5sUtWMlFxvzWAIvbY7hweQuuot7OSReYinPukRK6v0luurQRS5VTQIU8pmyBhnHoXBByaZjbXmPC9d8IHXtPfz+6es/j+Nku6ENx+48eo7M/jPsOHMQvdlf2obhf7N6Lu/eFH4qTnDMFPhQX1pyrT6Ol+gZH8eChM/DfQT/hbbCnfBtEv4d+/GzfJLq9pvvcYprztUBYN3IMl/Xfj87kANqTQ1iY6AM32FnmU30JPHBiGN1DSQzGUxbnR5I4O5CwONkXx+Ge0XE42huHUCjP0Y70juLY+XjVcIR1Hjg3iv1dIznYd3YEu8+M4OEIHjg9jLuOD80YfnFsCD99dBA/fKTf4vsH+3Hzvj58a28fvk387Mhg9h74SP1aoGEcepyP2tw0oIE/zMfuTU1N2LFxPS7dshlX8j23Qzkfkrt821a+K9+I7evX4YI1q7MfilvCd+rz2ts5iRgMjYxAO/0TXCQkWF/0NjbHDPQXpTVafGB4FAm+E2w0vb2+9WMBjUW3c8vXSjszIZ/OZ7d2N65yJpLZkRrCosR5NKXHvqMaSycQS8azXJoH5HR/emgA39/fb/GjgwP42eFBizuPDuF+Ovx83EtnKeTTo+n7jg/jXjq2+8mrRcODJ4etLFfO5jPvftHLwIOnhiHnrf86FoWc/KHuUTwawdGeOE73J2YMWhBpYTQUT9v/YjeSSEOLrKzhaxTxYqtrgYZx6Gr2KB/hDNGxjjBMk6DJhMG4M0meFHnGZUQILc1N9kNxi+bPw7JFC7Mfitu6bo1dJOhDcfo0vD49f+nWC9Da3BwpDehdWeYBQQ69kRKrlszDpResxNUXrvbwNqioD1y1fTWu3LYK65YvgDFRtwx7pOgN5LCFJBeNStsMXsQe48XAMDV2Lh89iw3DR8cIjMURwxARp4wkZbIYqcXPaL6e6qn+4tzjczSvcO9gv84WZ0R1So7mGslSPCk6oTYpPV7K7KLk3qXK2qaysegjlsqKe+4KLRBUyD9j7IvaY+Pqdg7eflo2LzcVcegaiHnZ9tOZ+bRK0uEOvZIS9ckbnQDrU0OvVT1awPYbexnTTuNM405QljGazsN85QlKyQnqH63ISSoUvT01wsfsg8rOYihoR29sHsdqSBJ/3Dr2FGlyvSE9rS2/QME8FbNPAPSOrilm+LQNUz4kV0JinDElMya5dFRmrInKbgxkTBfVPYgsrjR1qr0KLcgfI7PJ8KRTyMRA2xrU7zH3NAsapclxrojZr8apG+f789FEAiPclefn6xPwgnbsCgXFNeEo1EQyTmCZBA1s9vEyuT2bt8DssoAmfDd+3DhIcQcd0oEwnjsilRe1gsoZugZxrRg9jU3Dh6PZONOyFIfb1ufQlGA11mFr9yyoLtHoZyCnn6DTtyGJw3zPrrlD5aYK6UmRsCuGqQqbofL2HrAhhvVzyoR12DRcgg1zcWZxwaRrCJWRDWVr68zpNWhiWzaheZnlQ05/nWkL8NbMtArl1Z9gD9LA1SSSYs8Tes6fx8Gjx7Hn0GE8dOAR3L13P+6aAHfu2Qd96O1+8uvT8frZ2H1HjuLIqdM42XUO+gCcfjZWn45PJJI5HTuqaaDZKErwcW+BOWIBTfAah665+ekxuuH4kesQ6AfJmNQ4ZigKA8u6MNmPpfFzNu4u2p2f5+7cpfND+iTIaWsYaizK2SgtPtEUOoie4JwR1dnlVRpKdlrKV1pwBvkNF01svtVANpf/pf8m1ZLKugQmZLN2pwAlYxmiaRgvErahWtd6lNMwtyLNZbGcuCYEGTLFHjmvoxPbNq7Hzi2bs7h02xZcQVy0eSMu2rQB29etxaZVK7F26RKsWrIYSxfMt+/Om2IxJLhE1a/Bdff14wSd+WE69UeOn4B+Nlafjr9r7z7c8fBu+5Ox+k141evQHDMVDQhXzofeArPBAprYi7fDOXLAmMKcoso5gseieA9WcYfOaPYstjuf3xZgy7JWbFvehp0r23DxqjZcRFy6ph27VrfbtEKloxBNfCpzEcvlY+eKNmxf3loS25i/eUkrNi5uKYpNzLtgSQu2Li0OfUVsB2Xtot75uILteMLGTlQTj9/YAX2FTjIVCk/c1Iknbu60dKWjePIFnXjG9nkW15FnzYJmLp4AzbkCp2KdXKylodcP2ZuWiZhM6IPpt0DDOPRhruxNZkVoO1XWVoYdjUvGTFrv0zmLsKPFYJqa0NTagsV04ivo0NcsW4r1K1dgG538Tjp7/WysnL/7dLwLr4n8lKyLt7W0ZGqA7ci+02bN4SNVtMCdd+7GH77undi+9dewcP7TsG3Lr+J1r30n7rl7bxVrqb4o7fwKSU0X2s7Km5OZa3KsHTmGHUP7mRo7Tzcvw6HW9SEhnYbGmrBpSQuevnUBdq2i46ZTvpBO/QI62MrQgs2Uk48L6IC3aaFQAtuZJ0e8k864GJQvvq1LW+nUC2ML8+T41y5oRj70/e8FrQFmEp0tQfbHePRd9E1LmqFDv9IncAbku3NA9y/BR+5u969Q4FQtdo8pWWByhRvGoeuxWUq9he00RsObEXtywOekAX2lDaS1BgFaCDl50fTpeEGflJc8fSBHdJu2ssJLkjv3BN/LC9G40oJoyYwuYYnGveoxpOya5Cj0SGEmbBCPJ/DWt34Sq1c9B097ymvw6U/dhFOnztlOdfp0Nz7z6Zvw5Ce9Cq951Ttw8MCxGdHR2WUknsTQSBwjowkoLjpXuNQ1TYydHH7ZBH0yWQzTAhgPMS85gGV81N6cTjAvPOOmCd2xBegNOiFuPdZVH00z+9C5UXztoR7cvPc8btnfh+9VGZL79Yd7EcU3dp/Ht/f04Tt7Qyj+TdKEm/act9/Rvon59YhvUS99h/xm6u4g/QXp6/IVv2l3+H1z8Slf4bdI+/pD5/HjgwNI0XvrPvDBJHRPkkzzlmTPWTIdZtvTqJGGcejD8bSdCGRodSyFgjqaJpVUXo+SE5ejlgOX47a8mlkUIUTXp+Q1UcSMsR+qE7/jJUvJUx8SiYgryVuvmbLj3qPncNe+U7h7v8dM2ODD/34Tnnjtq/COf/o0BgeGS3aVz372W7jxuX+Cd33oSzN2v+4/eBoPPXo2xKEzuI/po2f6wrHJ3XiaUCPSHFgcVorChaJB+fLUzFmWOId1oycZGzuPt6zE/vbNdgdIEUjw4Rs3gdkPwWncDY6m0DeSRH+VMRRPZeuRw5K+miATdF6jVEJQXHRBU442Bmqf0hpPmaaNNWi6YzSadAh0YTyeSGM0AtlPSLI9CQ5Sz7YAABAASURBVEL5iqu9iotX+QrV1qj6aiOLgOaw5JSL2NTYRXWLd4ziY9NlAfXXcuqqex51LqGYoknuQLUTSiSSUKjB18ZH8q1EOx+nN/OdusaAnLwcO8cCLNgzExy5io9w5668BGk8i1XVMHRjDBbPa0N7axMnXbW+YVSfFYp+8qNfxD/+xQew56GDE7bn5c+5GJ/9m2fjktVt+OC/fAZf+9/vTVhmOhg6WpvR2R4+koVJsx+BCEM3RjTWwMP2MPKIvnHkKC4e2kfq2MlSSCEg+BotDetc5TDHOADJkMNQKDmo0SH5Ep2g05L+JpwNRMoBpwY+MaGyzDcm5MphmO4EFbfa8KK1Ex9QVlWDFO0h5+9sr7QQrYQsfAQjioG1DxdlSnnU3gIN49A1qCYyR4q9J2V7Uy5nwj4+T7JzpTn4UnY3McpHhucHhxEzgZ0kjDGIOnbt4PU4fpgy4+y9irt+yTFjy+TW0pipFYs7cfGm5bhq+yr4H5hZPS02uHTTMnzuE1/EZ/71SxgZGS2r43T3j2D7uiX4ytufh4+8/lo88os7cej+h6dF32i/UD+5YutKOEinBR36d8NjzUiljB1jYxSNmHCOT9PLrIifxcbhowj0HagxJhxvWYH9bZsilPFRDW/tIIU0neh4jupQjDH20XLA0Bi2x454hSh80IEql6yF82tEVX16wujEy9KiyU5JbqdTbtJyDJkwIGMsyCTygiQLCeXaN6Aw1UmRYNRKoznsfKuwnLnbFvKXKVugyC2dstzKBJTBHYupu0zMmGJnHN+Bcsu6fIWjdPb9wyN2YhWXaOqEHc3NaIrF4Hbu0Zo1RsQTpfm4t0A5Fjh29DRe85p34OMf+1I57FmeHjr03sERm37BdVvx0dc+Dk/Y1IG+vtwfY7EMNbrYsZEu1fPp0vKyo59yt5M+35d3xs9jfnL8b8CPpJvQn27mYiAUoqr0WDhJ76Sy0WYpHfAiTuWnyBPNn2pcTwbifKqnkNVkxZlsLDciPaSCdM7NqW3K1dcUGLvkkL0SfMQ+kT2kr54+qH1OQ9GSnD9jlNXM+TYWbbhjKhCqLrt4oDKKC+mMMSiqhsuuAsrMcVLDOHT2swlvlTHG8hhjoB24Hq2PjsaR5MC0GQUuA3Lm9sdpknYiaacj72xpwSgfr7fRoeuxvDGhXFc8QWWYBTuC4A9vgfIscPfde/D6P3wXvvD575VXoATXonmt2JQ6hUV9uT+VWqLINGSlIQcuIDONp7kjj1bc3HUYLcd3R0k23hNbgNMty+yu2Bhjd3dyNs1Nhrs+AzkpLSjAg9mWT1XIcciZaZfIrEmfcmLzWmJY1tmMNQtasli9oBkr5jVh5fwQqxg6iL6cefqE/GPW66th82C/DqavhBGi6Stu0reYYq5NhfLTadg5qVCepTE/yV14nPObPvvDJMqxg3beCZbRrBZklJOtU5rXAsN7aPi6w9aQvYhNYHaWlh8J9YW9N0aMLCC/bvIZfbpmFmgYh/6EzYtw5YaFuGJ9iItXz8dFxJblnbiAWL+4A2sWtmHF/FYsbGvCUoZLOOkt7GxFW1uz7aQocGgALO7sxPz2NjtxaFCITY5c8WHu4EsNOvF6eAtMZIEf//he/PVffhTf/e4dE7GWn88Z1Az0wAyeL7/MFDiNMdBfVARJMMZESTYukhy7g4ix/rNo6j6u6Dh0BQtwLFiKOB3UaCKFBD1BkhiJp0hLQQ6LWdi8pBW/smsxnnfxIjzvkkV4AeO/rPgU8dydC/H0bfOtQ76Gztnh6nUdiOIqph3EI6et77DLsed/1WxpRwwXrWjF5avbualIZ5FSQ3TvaAVjDPTmQY5ZUJ6bb5glDpDVIkV7iEeLGE3copPB5mnBozzxiFYKAQXzBMUhSScOroxE03wnmnX2ZFA8K4eVKa0PGweZ251muRgVySQtq2QkySgdo3Sb6S81twBvR83rqFoFC+mYF7U3Q5DjXkmnvWFxOzYSW5d3YPsKvg+mk790zXxcvnaBxdVcAFy7eTFamwo39fEXLMGV6zvx2E0LcMW6TlyxtgNXMryc4cWr2rFzZTvldmDjkjasmt+ClfNCLOlotivRqjXOC5q1Frjjjofwznd8BnLqk22kduQL895VS1Zw7jiC7hOKTgs0YedXpAk+oAPIp7t0mrt0ZQdceMT6zzlyNhw2LRgM2rLpUhF90nyYTr4YT5oKDnNB0DucRLk4N5jAkZ5R7D49jIdPj2DPmRD6b2sPnRqG4OJ7yCO++08O4RdHBrO47dAAvrevP4ub9/RBX/kSxBfVlypaZwp6PJ6IxQxf7xloc2HsNGUgxywEZGA2NxsgxAOoHJsI7apRxqH6klw16B6IXQ47YEUBCUEQ2MWTZDUxLprlp6M3dNiBUQm5fKNqqUNgF1jKi7G8Fl9y7I4rDMGS4GKBkng6mg9rbwHbfWpfzczXMK81xs5YmR5aBGgRsYI7/Q2L2rGNTwK0aBA6WmK2g6MykZ57jlng0KET+OAHvoAffP+uKbW8vaUJbexzKHCETj33618F2KZM0s5RyBfEDVlJ58J5H81nHkHLsYfyi9r00aZl2NO8zsZLXeTgHukaxpfu78bn7jmH/72vG1+8dwz/x/RXH+zBTQ+fxy37zuP7+/sY9uG7e8/jO3vO2/CWfX2WrjyHWw/2486jg9ah7z87jANn6dDpuPcxvvfMMPYxffDcqKUrvo8O/2DXKE6cj+M4cbIvga7BJPS1Ny02Ruht4zJKicZo4aFddYK79Tj5Fap99KNQqKIBDSe6nloo1M43zKfDlAAxFYEhnf6ZV9h5KkYHriLyryYwCAjwEF+OI6fjJ9k6ZLUhzkfzcthy+AqTVEAykhSmsgF1NKzB0QITlo4xIqi/KE9Uj9pbIKh9FfVRw4YlHVwF5zZ3zaI2NLHj1YeGXovZZgH9KMzb3/ZJfPlLP5xy05ZxQblkQVtBOWawl4/dewvmTQdRQyjQxE4Uqi/WdxrN547AZJxFlGfUNGPItNrHxqLLcSST4edZlJZ/CHgJTK5bkNPT7jAZcZyKxukg5XiMYSEKUCDHEmSGvhyMvJXqYfa4U/JG6cRy8um80tRdH4a1rwJsOo0UBUk3CZGDS9DZJcin8gkqI43T5A01EVeINMuJHqYKX1ks3OFmsqVPgvJVT4aUE0imkVxCbQ7rBlLUJ8qYZjqgA1Y7JU9IUi5YLs1KeUbZSYXVI8WMJNvkMhUdoZ2kjwVlkAVxhtq5x5VHJunhyviw9hYIal9FfdSwpLOFO/TcobV5WSeaY3VtgvownteiYgv09vbjH/7+X/E///2dissWKrBsYTuKOXTwCM4dg3bqjNbs1IRdTLicSKE8kxhF7PxZBHzXH83XRC8ndLR5hf2qmhbWAV1kjEPUGENHFHLI0SQyziFanixoIrMcaug86G4zCtKnIEHH7iBHFNCJxVjIGBM+Yia78pUXlVsoLk3om7joUGyMQ9UlmJFghXKGyhEtDNN0hCnI2cnJicdBdcpBujLih3WdYcxd06Q5HrVTO2m1Qfljn00QF2gvsC6gmYwB2ypq0uqlvFAX0YwxbH8KypMcQa1KsB3SSelKES2n9svRg7onWL/yqFKlIj3/JC0QTLJcQxZricX42LIFxhg005Fz7mjIdnil69sC+irZX//VR+1Ptk6XpvpgnBka/1WwatQvp5KkU1Xo5GnijqbpDziHp+3YcjwKm84dRcup/YqOw+nYQhwKlkE7be1qR+mE5ZzlBCQ7wTpdOskKUqkk5PRBx68depz8CdIlWIGcJ+hIOLxFykK6ik9yOew59g1i9DICAxggC/GqLoXIO8QX40Vl8rIqTqZZIkVdE3R6IdLW0YbxVBhn+7nusAsJtY9FWEIfEkzyPXbaIsGMJGXIXmqfPj+gH8BKks6T/KCzT9tQNEFyKoHVNWMQ1TGRDMvDQk18LMLA1l1JfZ538haYUw59+YJWaCegjnbpuoVobYpN3nKzoaRvQ9Ut0NPTjz9/84fw6U99s+qyJxIoh26G+ydiq0q+nKYx9G4ZaXJyAS88EWToem/eWuS9OehCe80CnAkWIXrIUSfooKI0F5eDktNP0JHLgbnas6Gt11gHaKOuYCaUc5FoyZGXkeORn5KDEk35Kqc5QqEtRqKe9ksvLSBGEmkuQOh8qYNoKi9YXl7ITmecxgjfi4c7c/KTl1nUCwgXHUrBpsPY2FXlpZf44lQqzUfkKSlLjPJVRII0LUSy+tmidNhRJSyt/Ivsp3unEhRvH5s7+UqrLapXdpL9pZvlVaYi42AwysVIQsam3ukp6DZOtCeUtEBQMneWZa5e0GJX5k3cqbc3x+A67Sxrpm/ODFlA78z/9E/ej//8zE0zooHpOQnTfbLqdRtjOFZM2XLllJp6TqD59COFvRYl7Y+txt3NmxlLcweZ4iPyFEYTSTpD7kkpIHQCjNAhkCnnpDrUR6LTdIrkz/DI4YROxEB/OYWYkF9J0AmJT05JadUgBxkYUIc0lBenA5azJgkURAeXpo4Yd6isdBEPxWKU5ZzzUx59GtujsmnoMbRoMRaQo2YwTp5oarfkyKk3x0ymZWFbtdAIyMRqrJ7iESTXOeRxQikhTdi2MFPtG5VijOtUWemTpPN1doiZIPyAHxcljlftE5/KKK4nAaOM2DAiT/lUEU26MCEb6wkMo/6cBgvMKYfe1kwnTqPOb4shCBjxZy0tMKdkP/LIcbzpj9+Hz3/uu1Vvd0dbM/R7+xMJNskEDB9LT8Q3mfzM/DxhUTkIM9wHOfRgZKAg/9HYUuyJraGjhHWikEdE7iFHlaTDoJ9BkhdDp+Q45CSSzEuSLsfLqMuigwcfRafoSFN8UgBI74AXg8KHZMmBC+JQWqFkiqanAUqneUkwUwsBRu0pHjm8NCP0vbY+m1HgwqJ0+CnIASouH6jFheDYKcZG5biVr/pFkw7OiVuHT0cb1UPyBOkguwnik7ARFqSZMMQyWmyoHZIf0CDiE0+M9hnhk4eB0aTVT20SvRxITnMsgHPuI1Q8SaXl/NVWta+zxU+25diyGjxz0tL6znoLO2E1DOhleAvoe+ZveP278dWv3FoTY1y2dRku2rS0JrKrLpSLiqZzxyAUlB3E0B90ohttkJOWQ5DzoU+hQzR8vx1YBFxxx5jZFDN8qhYgTW4UOoyIaaTotQTJFEVORY5JoRyXlUV5MVUkBkJ0QaSAFytKdNXGBElMhWfAdLRsmuSoUx2l45TzInnCU3WO0vGJX5DjE0bodEcjcugXuTBJQ3oIaUomi92MRHUhGZIpJ6q4IF7RtFN2dNFUn+oYjKe4wEhDdcoJq8xkIB0lI6UIBWhhoToYzZ7G0HjZlI/U0gJzzqFfvXEBOop8n7eWhq4n2e0tTZjHXV9Do070/+bXf4Q/esN78MMfTO175qX6x+VbV5Tt0Fuagprc2/ntLVjY2ToOeuqFzKFJPXb6EFpO7M1QxgejSzeJ2wDyAAAQAElEQVRiZM0OmyEfoMlfTleQA4rT0dlH7zZM0enokTog2Uk5bXoMxa0AXpjkDp4OnRE5LMkkmYsAg7amGGIGNl/1SLZ22Sk6bK4X6BgNJF0OL8F31WnyJihHMiw/I0rLcTNK3jRLAo6mekTX7lQ8SlcbVIc2SNPxpm2oegIY0O9bPUrVJ93UtlI8Pm92WSCYXc3xrZnIAk2xAH7BPJGVyst/17v/G2984/tw//0HyiswSa41yzqxaknHJEvXtlhzcwwtdJxyPE2nD6L4h+DoCBesQHzpeizraMbaBS0odsgxa9eufPpYBdb5KpKgo5dDFl39WLyiCyojlyt6kt5sKJ60TlALhYRdDADJTDjKR8xy8ConkB0JXZQgcuQyLUeqNjI6o6d0kJPWoiYGY59qgId18Bn9FWgXrvboyYJ/GkkDzZEzmCPt9M3MWEA7Fk2GmaQPCltgQuqb3vQB/NVffxynTp2bkHe2M6S5b42d2o/Wow8WbyoftafaF0JY0BbDNevn4fkXL8FzdyzGDdsW5uCZ25nO4OlbF+ApF8yzUPwG0q/P0J68eR6eyrwonrypE9du7MB1G9sZtuO6TYwT127owBMtrQPXbmi3uI58165vx3VMl4J46gnSVW143Lo2XLOmFY9d24YnMP5EtkXxxzMuHiGktU7YRvE6PJl2uWHrfDznwoV43iWLJ43n71qMX7l0CR63cV7xfuFzqmoB79Cras76F2ZMAGO8S5/snUpxh/ea1/4L3vv+z0P/zW+ycsot18bXI63NTeWyTzufgUGLduZHC/+sq1No1D5q3+mS2bCJK8wOvgKLop27/s6WACFimTCaJq2VyPB0MMxBs+FrtQAdlNPRrFBpgvH2JoVEC5Hha+NrCqGd6WjYRt4wHaBdZesE0qkaUHsLQbZc1NkMoZP3ZrLooP2b9Igge7d9pNYWCGpdgZdfXxbwvnzy9+ORQyfwwhf9P3zs41+ZvBCVrABPumwtHnvRKtTjsXtPF770qR9h90/uK6lecv5yJBavK8kTzTRMpPlCW2A0chr7KfY0n4dzXcW4OKMYY02zvFJp8qYZF5RW/1d8DKIC+uU1RA7xAZKNaTtUpzBtFdqKpreNtkp/qZkFvEOvmWm94NlkgU9/5lu48bl/gi99uTafZC9mq+vo0B+zszyHbuYvgVBMVrXoR4/14V3v/Tne9Ge34N++dBJv/m/gY98DhuPja0jHWpCYvwzJztwfkBnPOUahDx5L8HH+WCI3J3R+ovGhv4KsAx7vpMZ4x/JCGhB15i6etvJQ9JAUbT6djKKMZWSoTgFs60T1liGubBa1QXWWXcAz1r0FvEOv+1vkFZxpC7zpTz6AV77qHdiz5/BMq1Ky/mDpagRLVpXkmWrmgw+dxYc/ehdu+f6jOaK+dS/wx58Bvp/3Gj2+ZB1GV27L4Z1sQg5Ijs8h6oxEc+moUxRdCPMkAdaByxGLL8zDuMPRFYo3ymDThosIOmDJFU80v3S80EpBegmgbhh3KMfWOS6nNEFl9E9tFIpTodNVYSFNxOfRuBbwDr1x753XvMYW6OrqxW+/5O/x3vd9HqOjBbafNa5/7bJ5WLWkE/VyfO+WQ3jHv9yOe+87XVClEz3A+78d7tZHE0B8+SaMrttpnZScScFCGaIcTAiQP50FIkc6Ei8VDeWkrYxcvjSTAgM6Y/Eplg9j5EIRKZ9mHNlDCwEBEJ/AGB285OUDmUMiBdgyvLJYyAse6QwYZPQay9OSgSBLSEtDchz0lMDB5ZPb8oTSwqvyRFcqjCuWi4CCJLcphmx5+KOhLOAdekPdLq/sdFngs/91M5781Nfhv/+n+r/8Vm4brr96A564a01Z7LG12xBbs7Us3kqZ5Ly++L+78d73/wJnu4YmLK7d+icfWoP4yi2A0RSThpyJHIkDCfbMT4vPZmQu9DFoihn7vfIYE8bQEyI8ItGQUMFVZZ0Dyy+mr7/l06SX0zUMxRG2S7FiCHkdX9o6StUteWGZdBgUvKbJPwZAnyFQ+9MIy4dPCdyVRHuOyRefJY270JTWprKt4mEZWNo4Zk9oGAtotDWMsl5Rb4FaW0CfYn/1a96J333ZW/Dww4dqXV1J+dvWL8bm1QtL8igztnYrYht3As0tSlYVhx7txT+94zb8x6fvh77PXa7wk11JHDmdsA4ioLcIDOAgxxwEaZBsxYkumpyLg0vL6YpJvEIsgHXw4ouxoGDIEATI0qN5AXmCADl5Lp9ZVj+XlnyKsnpJrujFEKgwmYMA42SrTEBhVi9eGA1lcmHSFBO/YGzdABkwdojX1S0ZyhFHwEssAMuM2U28guhNVrZhvrF2duliYUCBKgseiseY5smUPxvZAuwijay+191boHoW+Olt9+Ppz3gDPv6JryKlX+eonuiaSDLt89C087GIbb0CaG6tah3JZBqf/+LDeP0ffQc//unRimUPDsbR1zcKOY0gAAJ6CwfR5ECarHMzNk80AHBHNK24MYayQjgehSQjRmcWKCJCBkoKgQEdnMlQiwfiDXUyUKg0ShyS21SgXlckYJutXmSUPCFfC9XRlLFBE2UJli/DKBmWxryAcsSvUDyWTprixmQKsHJFxcOoP+egBdjt5mCr53CT9fh0Dje/aNP/6E3vx/XPeCNuvfWeojzTmbF0QRsWzSvspIOFy9F82ZPR/JhnI1ixAdU+vst35a945Tfwqc88ADn2ycjfsmUxdu1akXXCxphJxwGD6GGMgTEmSio77ooZM7nyE1VkjJm0bhPJbvR8/TLf8e5BTAWneocQxdm+YfQMjKBvKI7BkcQ46GeEG91ulejvHXol1poFvHo/6J362I386U/vx1Of9jq8//1fwMjI6FjGDMduuGYTrrt0bUEtzLxFMJ0TP4ovWLgIUY77m986gJf87tfwnvfdgTNnJn5XXkQUrr56FZ72tI3FsqtGNyZ0ngFDwZgwbUyRkHQgzAMPY8K4MeNDZmdPY4yN62qMgTFmXNoYk6Ur0xijwCNjAc07o/rPMpn0ZIMkn5xFIZmDo0n0DcfRMzg6Dmf7RuwCYLL1NVo579Ab7Y5NUV/9Dnb4gZopCpoFxV/3h+/G057+h7j1R/fWXWsuvmAptvMdOvIO3b/h43sw/Mh9SI8M5uVWnty79xz+7h9+jF/+lS/iQx+5C+e6hysXEimxdGk7Lr10Bdatmx+h1jaapniBQdVOY4x10MYYK9MYhoJNhRdbp18dh8aY4CpbNcJrrAmaUffZ3qHX/S2qroJaKWtwVVdqY0n76ld/jKuueTk+8tEvIZ5I1r3yCZPCsElajDKeRBqjJw9g+IEfI9V1vGL9jx7tw7ve83PrxP/oT7+HO+48UbGMQgWamgJce+063HDD5kLZs4pmDB28WpQJACjlUcICc33eKWGaqmV5h141UzaGIGMMTGOoWnUtU6kUfu/3/wm/+ut/iXvu2Vd1+dUSOK+jGZ1tzYgeAe9aSzpAWzqWRay/F4kHfoL4z29C6lTpH705dKjXflpdO/FXvvZbuOUHj076/XhUr2j8mc/cjBe/+KIoaVbHjdFIEsJm2sUyd+wuDKn+ai1Aby672Li/1MwCQc0ke8F1aYE030FxbNWlbrVU6jvf+TmeeO2r8B+f/Ebdf4L9N6/fgV964gXWHLpXQpA2COjUUeBID/UjsftnGP3hF9D7w69j/8/uw49/cgSf+sz9eM0ffhs3Pu8LeO0bbsaPfnK06k7cqaNd+QtfuNMl52RojIExpjZt91K9BcqwQFAGj2eZRRZIyKHLQ8yiNk3UlDf80fvwgl/9S/z8jocnYq2L/I0rF0C/Eidl5B6auDNvgmKijGFwBLh9H/C3XwRe+D7gBe8GfvPdQ3jD2/bg7e+4HZ//4m48evj8WIEaxS6/fAWe8pQNaG2N1aiG+her3adQ/5rOjIaacuLJJBfTqZlRYI7U6h36HLnRc7GZ+vemv/PSf8QHP/hFDA3R+zWAEeTIVy7pyNE0ZdKII4VHu9L4t+8DL/9Y6Lx/60PAP38NuI9P2+Mz9FGAZcs6cPXVq3HBBYtydJ5rCWPCBVeDOvVpuV1y6vpxoiRffSk+LZXOsUq8Q59jN3yuNPfUqXP4jRf/DfQTro3U5t977i78+lMvxMke4Au3A6/5d+DX3mXwwncHeOOnDL5+N9A9UB8t0ofgnnTdOtzwjNn/IbiJLO4d+UQWAp8xjS16egeG8M279uLrv9idxTfu3IPv3XcA37//IG7bcxi37z2Cex45gXsPncTe42ex70QXjpztxdGu8+jqG8S5/iEMjsQxpH8cAH/IAt6hywoes8oCJ06cxate8058+Ss/aqh2GWPwP7fH8KL3B3g1Hfl//RQ4Qcder4345eduw++8ZFe9qjetehljYIyZ1jobpjIqKsvI2YzyUVIimUKMttq4bAGWzGvH4s42tLc0obUpoHOOY2Bk1Drss+cH6Lx76cR7rEPfc+wMnfsJOvnj1uH/dPejuOX+A1wE7M9ZFNxGOquck6dsPCcbPpcbnU7P3tbLmb/6te+CvprWaK28YMs12LCxMRzkc5+zFb+lT7SzL/FsNFPXTF9jjHXsxpia1dGIgtVHkildwffoacSCAFtXLcVjtq3DY7evx5Mv3oynXHIBnnXFtoK48aoL8ewrt9u852TCKO+zWe65V++A+B6/Y2MjmqgqOgdVkeKFNJQFkukUZuMjwuHhUfzJn34IX/vajxvqfkjZpqZWtLV1IhbL/bqa8uoN1/Cd+Q3Xb6K+TfWmWl3pY4ypK31mXpl0zrwjBx/njj1FRz/RJiOp9+4ZJr2Hj7TFRrVUSCSTcEiRX0hmaJZpDly8Q58DNzm/ibP1q2t/8Mp/xv987rv5zW2I9Jat12D9hvrfna9Y0YHHPXYN9FvtDWHYGVRyNi6aJ2tO2SJBJ5vMOGUnR45YzhplrH3kyBN8XC9InkQlmXayoqF4BcnXP7CJ5s3muHfos/nuurap5zuQpijU0xmfLecb3vg+fOnLtzZkc9au3YGVKy+oe93bWpvwzOs341k31L+uM21MOZyZ1qHe6te8I7skuGuWsxWko+jaqev9epK7dZ6IJ1JIcgGgX3KUAxdSzFB5lUkynmS+prEknbrLV14Ujj9KqyjeYMzeoTfYDatYXY4WdfosmNYqWemKZdVpgT17D0MYHJza75DPRPNaWtqweMladHQuQr0fz71xK37jRRfVu5p1oZ8xZWw560LT6VFC800iqSvsXqJvaAQ/ePAR3PLAwRx85979uPmeffje/Qfw3fsO4se7D+Mnux/Fz/cfxZ0Hj+OBw6fx4JHTOHDyHA6e6sbxc3043t2P7v4hnOsfRD9fuyXo4OXsFdLvoyk2d9zc3Gnp9PTbuqlFK1OLAhqJHg6rApkNSHrLWz4J/RJcA6oOfRBu3fqL6171FzxvO37nt6uv5+meQfxiz8lZiTv3nkKt8OChLvT0N8ZvK7jOHV3iWmgZYQAAEABJREFUtDU3Ydf6ldi8YjE2Ll+ElQs7LRZ1tmFhRyuU30JHPBJPQF9LOz84Yp32qd5+nOjuwyOnu+nQz+Gho6fp4GlnOvtfHDhO53/YOn7uW6BDdeo/8Sleh6i6St6hV92kMytQzlqYWS2mr/Y779yDo0fPTF+FVaxpx87rsGnzFVWUWBtR27Yuxq5LliPGCbbaNbQ2x9CR97v11a5jNsrTGHePrBuhfXKssZiuobZBYLBoXhs2LFtoceGaZbiYDv7KzWtwBfHYbevwuO3r8ZSLN+O6nRsnxJMu2oTrL92CpzC8cvNq6NAjej0o0VfilJ4LCOZCI2dNG7XsJDSYi2HWtLXMhrz3fZ/DrT+6p0zu+mFrFGcui11+2Uo89jFrFC0I1xcLZk5AXNjZios2LsXVF66aU7hq+0pMBZdsXoYl89smsG4dZRvABBh3aFHCLMSCwD6KT/D9ujHGxpWnR+cqpLge2AtKjwPnxSQftYsuR664+qXSMS4eFM4F5Jh4LjS40dqoTpkFlS/aoZnnz/q3QHNzGy7Z9fSG2JnLmk9/2kY898Ytik6IbD/l5Doh8xxmkJ3mWvPVJRKJ4rOXchJ05rKLnHghG8nxp/RBOAkT4wQwxsAYg+bY3HFzc6elE9z8eswu1KnrUc+Z0unOO3c31OP2jZsux7VP+i00wjtz3VPOhVi6pB3LlnYoWRHUd4WKCs0BZm+T8TdZzlxOXFA8UMcbz2Z37SJrt65Q/C5ujBEpi/D1UBry/cbk5mWZZmFkGh36LLReDZvkB/7Exr31R/fi4CPHJ2acQY6OjoW4eNfTcP0Nr8bOi56E1tbOGdSmsqqf9cwteMHzL5ywkDHG7oTEmN9vlXZQvoNxEYbKZzAnTmOiLZ8TTbaNVLObmkq3XY5cTno0kaAjlmuH/eqanLb6iHbnVljkIokq53hcVpKP3+XMZ9OHf13bSoXeoZeyzgzlqfPWomoNiFRKq1ahFjVMr8z77tsP/dTr9NYKrFu3HC9/2Y14+StejWc95w+J1xfFk57yUqxffwmampqnW80p1zd/XjMWzG+ZUI76lCbQJPsWT/vTnqIV78dpuAnY8SgUJqxsFjAYIzc0CxpSQRMMDJoKvUTPyNC9lwuPBQE5Q6JoctZCSBm7JvnoPRaQl7ZUXzLMMkZXRjJnEBgYYzKpuREEs6WZs6Ud6sTVaoudVCksxc7vvpOpzq9Jl+SGP/VjFHIktW6IHPjb3vpKHD3yZSTjP8Kjj/wfrrrqmThxUk56dk4Yj3/cWjz5SRvKMm3UApo/NTGroHZI0f6seAjlFkaY7yQU5vHUxrNAjM51fnvhxWE4J4X3XI5aMUdTXLT8FgfqaPnETFqOXI/cjYn2zEzmLA+8Q6+DG+wmMYXVUscOgkx/1qColtx6kqOvwRiTaWSVFVu6dAHe/e4/RHfXt6wDf/Of/TZWr1pqa/nwR+/C1765n48FbXJWXtavm49NGxeW1Tb1L0HMcuI21IVQWmC0olNjQaioUJ0wS2+hTtSpGzXaWpqwc91S7Fi7BFtWLsKG5QuwftkCrFk8D2s53lYs7LDfRV/Q3prdWRezozEG7ogxHgtCV2aMyZZ1+XMpDK0wl1o8qbbWrlCxDltOjcXKanWrSTTFrbh2sIqXI6/ReJLJNJ2qcyXV0f4FL3gS7vrFv+P0yW/gDX/4QixY0Jkj+MMfuwvf/NaBHNpsS2zcsAAXbF406WYZlsydWCZ/j9THHSi2oU6nt8KGUrzGyhpj0NIcQ2drM+a1NWPxvDYs7mzF8gUdWE6nLuTbrIkOe93S+bhkw3ILLQwctnOBsG3NYghbVy/CBSsXZrFh2XzMpSOYS42tt7bSHU1ZpfyOr7QwZcENIODFL74eV1yxvSqa/vmbX4ITx76KL37+rbjssm0FZX5EzvymA1xEFMyeNcTHXLMGT3zCurLao76W5MJRi0dXQO47xYRCBtZeyhfEL1oUWoAODMdxtncoBye6BrDvaDceeOSsxf0Hz6AR4PSNhvl6R/Mqie85cg7n+hrvJ46j97tUfCSexIGT3TksrU0xXLh2KfQrcjkZPjHOAt6hjzPJ9BDsrjkz4022RmOMLapJ0iGcNC151l9ufM4TsHPHxkm3M+Cq/+1vfZV9rP7Wt/wBVqxYXFTWhz5yF77+zdnvzGUAYwyCIOxbKHGoz7ls+nQk+MRE/c/RFE7UxTUOzvYMYffhc3j01PkcHO/qx/nBUWiS90haO/QPxdHFhY9sO9swkkhCv8/u2qU+uHR+O3feS/gY3VF9WMoC3qGXsk695XH20yQq2G0Pwj2+dkiaODWZKqw3tWupz3XXXYbNm9dUVEVHeys+8P4/xvmem/Fnf/Zb4x6r5wuTM5/tj9ldm9fx3fnGjQtcsmCo/ifkZ2oNoEk4nx7tk+zCsP2UEZ7sxmksX9SOy7Ysh34xbufGJdCvoCk9lV9Sm81lt61bjNl2qE/0DY1Cc5na1sJd+bbVi7Ga79eV9ijPAt6hl2enuuDSxGiM4WrVADw1ITJAjDOpJljlY9xRHsGWp8BoWF7JmeX6g99/Hl70oqdj8eKJ35Vdcfl2fPumd6O35zt4zatfgHY69lLaa5L5wIfunPXvzKM2eMLj1uEpJT7drv4R5Y/G3S5dk3Khvsium2VnV2M8DUdTH25vbUJHazP0++5NMT810UBz4kyzlcPxBLr6htBMR76E79S3r1mC5liMOf6sxAJ+1FRirRnmNcbYHY1+LEETot49SiU5HqUVLxeamKMoVC6aH40X4p1J2lv/8Q/w4P3/id988Q1opUNwujQ3N+HZz3ocfvj9D2F48Af4xR3/huuvv6asx8nxeArvpzP/1s0HnbiKwxf+2k684XVXY8sFiyouW48F1AdK6cV1JZpiBgH7qUHuoUlbDl+hoFz1WQelPeamBeJ81H6kqw8tTTFsXbUYa5ZMvDifm5aauNXeoU9soxnliE6iLq5JUEpp4rTOXIlphPRwmMZqS1a1cuUSfObT/w+D/bfY74rr++LDg9/H17/2Tlx77aVobi5/tS+b6gNw3/nuIyXrLJX5vF/aZn8D/alP2YgdO8Kvu5Xir4e8DesXYPOmwl9V0/2eSEc5bL1H1w5doexYrIxz6i5ffVr8rh6lXdzx+HD2WSCeTOF07yAfrXdi84qF9mnj7Gvl9LXIO/Tps/WkajIm3JXnT26a/NwOfVKCq1RIeglVElcXYj700bvw7e9M3pk/51lb8Pznbbe/g97cHHDX2hjD7KorV+Gxj1ltnwLpnkaBaTrkyNW3Vfc0VemrmUELNPPVir6OtmCC118zqGJDVd0YM02VTXr27CAefOgMbvn+IWgXdvCRbiQS+qJNlSuahDhNZAJn1XGl7WTHi53wmMso8nc6JJc8uSBG5p8aleSrNNPqXGmhCfmnn+FzX3gYt912bNIV6/vbj33MGqxYPvYPTZYubcfCBa2TljldBZtbArS0xKpSHdeh0AvyYotOm4/Sh+3fupRm87neAt4CGQvUhUN/57tvxy+94At49i99blrwkpd9DX/y5lvwznf/DO9+38/x2tffjPvuP10XTt0Yk7k1fFPOySzqKG1WmvQsR2WRFNcsFDlhIdUZxYQFMgwqk4k2ZHCGC739B7rRe35kUvrrFcgzn7EZV1+1Kqf8L924FU984rocmjFG/i6HNpMJLTgWL2yrmgqGkthEGP4xOu4spx+qkPgavV+pHTMGGjC0nyYOwm4BXDhjWvmKa2SBunDod/zixIw705/fcRxDw4kambl8seHgK+609bWgWFBsmsytJ3ynCSSSIZR2HHLudqevsZ0hurozyVkf5Dfwvz/3MH46hd35773iMtz4nK35Yu2ut7kpd6jJ1pxrx/HOFOHqq1fjcY9bW7R66Vs0s0CG+lqaFzn1AtkVkWQn9VWhUj0qqqgGzNOnb5oP9Qog0ybZUEPdhowozGT5YBZZIHeWmUUNa7ymhIOxlN6aHPSBI4FjshSrzTO8NvEJaqFJNeCdN0YcXDxwdEs22e2koFAgWYGlKV+whFl4+fZ3DuJ+PqWZbNOuf/omuzPPmHScmG1bF0O/jz4uowQh4MKNZwmO6mUtXdqG5cvaswJ1rwURFMqZJvm+RqFL27gY8qBepUWn9Hd9KI8lmxSvEsX6s+wpOQ7GuBIqNTlo/JTzQzXDownoF+z6h0ZxfmAEZ3oGcaKrH8fPhlC8GI6e6cMjJ3txkNh7tBvC7sNd9hfvyvlluPsOnsGde0/l4N4DZ3DsbF/OeNS9CFG5LcJy4byTG9ecULk8X2LmLRDMvArla9DSGsN73nc9PvWfzy2Kj37iWVi8uPJHh3G9Qy82q5SvYsWcYwOpnKITT2baebtmcINkd+fFJtVwbtSALl53flnpW5xbE4GrvRRX/eXt2XMOx0/0T0qxjo5mXHLRcqxdE/26Ta4ofdr9qitX5xInSMlh6h5OwFazbN1758RdJbr/0kuhQO+C/EWHeoCcpt6fh33Mlc4Nxdc7OIo9dHj37D+Nuwvgrn2nc5xavpObTFp1leNUHzzUZX/Bbs+Rbuw71oPDp/twvGsAJ86FULwYTnUP4tz5YfT0jaCPbRQG+ASwnIWEeOx8lGsujuUUBkdm/ilinlo+WUcWaCiH/q53Pw0/u/0Y/uovbsWb3vg9i5f9zjfw0t/+usWHPnCn/RWqf/6Xp1Ts1Ht7R5CUN5ymm5PmuyyhnOo0MSY5syssxq/J10EfetNjdqWL8aup4cQccjhehUJIDa/j09Q8nxiy2qud6G1s5i/ToctLf/sSPOP6TRM2Vs5NmJCxRgyq25ixRaGL6nvy27cuoW8O76ts5lAjVbJik+xHCe78s4QKI9q5tzTH7I/R6AdpHPQjNfM7WlAICztbsWRBWxbLFrZj9ZLOLNYum4dNqxaMw5bVi7B93eKiuHD9Yly0cQku3rQ0i10XLMOV21ZUDVvXzI7fNIA/amKBoCZSayj0Z7cfx/FjfTh7dshCTslVd+7csHXovT0jeOe7noYlSyrfqTtZtQ4N3N/ENQWcec0EbGQBfT6XCRMwMlu8rJ6xsdPSxpI2JpoD511Li1406UfT0XipvChfLeKq20HyXbxkKMZJ4KUv2UVnvrmskpddtgLbti0pi3cipkL5uleF6I6meygbRNOKX3Lxclx26XJFLUI+G53aRVvwCSQsonO9aONSXLF1RUkUc4qXb1mOSyIO1DnTnRuWYNvaRQWxZc1CbFpJh53BhhXzsXppZxYrF3dgyfy2cVg4rwXz2puLorOtGW0tTTmLi+ZYAH94C0yXBWZlb3v7W2/Dffedxju5o1+ydOy9YCmjaoeeSpYxA5USMpm8iWZhytSipRzNNHeUIY4Sx5/5k7hLu1AlXFyh0oIchKB4PkQX8um1SKseh8nIf8Lj1tLZLh5X1BgDnuPojtDRwQmcr4JculR4zVWrcdGOZaVYppQXvS+FBBkSjdtgoSYAABAASURBVNGVkcjZ1hZDW1tThDK1qGqIBcb+Il85/Vb8KHJIXSGaPVE7o7w+7i0wlyzQcA69iY/Xit2ggwd6oO+Tv+f91+Oqq1ehqSngO/enY2kZTn2E76ZmaqLIn7Bc+/SIXY/aJ5oUpXc5j9md3EpDPogdV0R1RolyptF0NK48IUqrRlwyHaYq7+qrVtn34K1538MO5ReX/rWv78ftPztWnKGOctSP1J5SKum+ptPiLMVVOk+l1W8TXCDrk+6luEs58/xyoW4oucCCP7wF5rAFGs6hL1jQYlf+he6ZdrJ//Ibv4R///if40z++BXrP3tMzXIh1HG1oOMlH1ulx9OkhFJnWylTHLgiKiCikf8C77tjlrCeCZBTkoX6aZJUvTOwsWECMZULySqGQmFL8+Xn55V/xskvxvOdtQ0dHc35W0fRRvv65/4Gz0OueokyRjMWLWjF/fkuEMrNRfZBv/boFVgndS9nIJkpc1BdKZGezuEmn8zXQuJTsbEYkoh7hECFno66cC7MZPuIt4C0wzgKc2sfRGpqgyWP/vm6cPj0YvmPnLqGcBm3futh+X7gc3qrycKbKn0SVVjtMGRXp80T23blmxTL4c1kmVSgrIl3gjb10zzIUiCi/XBQobknR8paQuYieiZYViD8fL/nNi/G2f3wSLuf77rKEkOnLX92Lz/zXA2V9Sv65N27FddeuZ6n6OHdcuAQ7dyzNON3c/mBtw3ucSqfsB+akse65pbPfKp1iGOcY045c6SjUL5VvjKFjH8spFovWrrggXlZBLRQDDOr3kJ4TaSceYSI+n+8tMBkLNJRD7+oawiLucAIu/YWt2xZj16XL8YQnrsW1163DLz9/G57/K9vxnBsvqPidoHZNkjkZI06uTLpgMTlyN+ALc+QWi/EOapITcnMKp1Ika/LlFJ2dJEma1GmKTK+a8CcSWA5PVIb4HcqhOx7ZUiiWdvRoqE99v+Xvn4Qbn7Ol6NOgKL/iN3/nEXzww3fioYfPKlkUeled/1i/KPM0ZOh11LJl7YVrMiHZGMO+QldOQxrec2MMM9JI0dGnSGMm04VPm61L4exxVPV5IT8jrBGlqsovMn1pKuyaqDAKp4SjKW3Np4iHt0CVLUB3UGWJ0yTuiitX4k1/+hj8wauuwK/9+oV4AR35rl3LsXPnUmzctAixmJkmTSZbTagf54KsgJS2NEyJ5sDkhKcmi4B3MpQ4nt1+NYhMCUITsGSP5wopcpqpFN09eUXJT4vmkOb0Kkimg5OtcqUgGaXy8/PE7yDVhPy0aA4uz02ejq60oHxHU6h0FKr/Vb9/OV7/2qtKfr88Wube+07j0//5AO5/4HSUPC6+65Ll0A/NjMuoEsEYA54VSQvvYyrjpMNQNnCQMMdjaSI4mNDRFrKjWNStU7ooUSHUnxzKK1pFLlasNgklpbL9xeytsoLyHUrK8pneAlOwAN3AFEpPc9GhoQQf/YWV3vmLk3j1H3wbf/vXt+Jtb7kN733PHfjiF3bjS/+3Fz/9yVGMjiZDxjKvvedHMNlJp8wqxrFxvrB1ql7BMXB+gODSpULNk4IevUtelNc58nx6lCc/bozhrnSsWxhjYAx3aJyVNJFjgkM8cu5kz+FUOopoZpSueKE8R3NtCZ1LGrauzMIiHQlFd6iErvoFV/apT92Av//bJ+Lxj1vrVCgZ3v/AGe7SuzBsP2TptM0ton/eoq+K5VKrl9I9UBsqkci7bO9zJWUcr+pSH4zzoqc/jh4NxSO9orRK4obMFrowXu4Z1htyu7jCkMKFSOFbZOeZIlk2z5WfKOTQoV0n4iqcLz2Fwrme6i0w3gJjM/f4vLqjyKHra2iGj9yvumoVPvKxZ0KfaH/Xe5+Ot7ztyfjLv34C/uKvHo/ffsnFFX2wCTo0egXFpwVpTgwFKjRjlUeiY8RMjJto6Mdj6MMylDDQI3XtxIUC0kOmMq7GjNVujEHARwDGjNGQOTRJC5lkNmDrrLN1jlHpKBxdYZSuuGgOSkuoJjbRVJejiR6FzRNjlFhhXLKFaLHlyzvwqj+4HE8q8923dumf/a8H0dMzYu9xIb30GwkLF7ZGq5mRuHRL2UfnKatrrZRQXxQKyZcOPf3D2He0Gw8/2mV/nU1hFA+RLujX2/Lx8KPnIJp+aU6/LBeFaIJoCh2UFpRWmA/Ro3D5CkVXmA/R85HPU0naybrnwBk8euo8708h63mat8CYBYKxaGPF7ryTO/RXftv+Qpz7pTiFr3v1zXjLP/wUfX2jFTVIP7WYP5FXJGASzAV9T2TWi0QLSo/FYFf/UTeryRFFDtWnhUD+IsCxu7IujNJFE1IUICiufGMMdTCK1gy6L0KxCqSLYEyoh+IO0lVwaYVOTjTuaMVCfXbjj994NZ51Q+EfkclUnS1++FAXTp/szaYVUX0Oz/ulbXjqkzeIPGNYuaITq1Z1VrV+LSiT7LgpdjYGOU6IXccu8vIr7B0YtT+pqt9N18+e6jfUFZaLodEExMsq80XPirT6jL4CGG1MtK2KC9F8H5+bFmgoh97VNYTOzmb729G7Ll2BD3OHnv+77h/8yA14/4eeAU3AldzSs2cHkdRMVEmhKfByU8TSmvL42I+x/DPMyaeOpeVAUnyrkP+oPcaM0K2N8SqmAa8JVWEh2Zo0opATdIjSJUsQzeXnh8oTTy0g2YXqc3SFUTgdojRXXrRo3PEWCw2fDL2SO/VnPfOCcSyyqyMumw88eW0XtrSdARJxR84JA8rS1+PaWpty6NOZaO9o4pOs6tYvO+ixO5++26awO9oweynQ+RbNa4V+Le7yrStQDPaX5LattPk2Tt56C6+c8k+8rij4E7Fqp37dLmpLF5e9FReyNvaROWuBhnLoukvNzVTZAPffdxqvKbBD1y5dKPd7wZI5EzBsBsCGAJkrxg6SeY6lC8Q0kLVDp1/IydV78+icKSeuH51RmMMoARGCMQbGGO6ooqUjDBVEo47SOUwXKq+QKNHFo7BQvmjKExSvNiTX1R+N59cjR/zK378MhZy6eNtbgBc9Drj2QiB1+GGkTj0qckG86Nd34IZnbCqYNx1E/Xe1Fcs7q16V+mSMF1NAshy9du8FskqS1Ct1XwrJLFlwGjM1pIRCVYouuLxoPEorRHf5hUIO2ULksmmV1le2YM84IxawbmVGap5EpfG4HuiFBTdtXoAPcTeev0OfzH9aCyVO77XYQAonLhR7Kp5VUgsC7c41QTpiIWderB56b1esKk48K2yCiCZlOc58qJgx4YJCeeITFHdQWny1hKsjCAKaqLD7COisXv3Ky/GcZ+fu1PUjhi99EnD9rjENk4cfQurkoTFCJBaLBdAOXb9oGCFPW3TzpkXYsmVRTepTP9YDr/z+FwTgEzZTlTqjUth1qiKzWkLy2y25UR2jceUJogmKTwWF6pa8QqhGfYXketrMWIDDa2Yqnkytei8uhx1wQj30yHm8lu/LtRuPort7eDKisePCpdP7wzKa8fLctiVNoL122u7DcDQD3KSmsgFHp0tPIAZpCnLOS7xymtG0aNMJ1S24OhUXXHo6Q9Vbjj1e+fuX4xUvu9T+E6DVi4A/fg7wzEvzNI2PIj3Qi/ToWL+UfMf1Oy+5BHqfzlvnSA0fapGpd762nSavOeqoJIknpQvjlZwqLqiMCxUvJko8gnhcqHgtoHsoyKEqjNahtOhRWqG4eIS8qWEcq+UhVaHAaPZ0deXTsww+Mmst0FAOfTbdBe2wkXXHQDSKEkfAO6YBq9254CYpPcaM7tA1mIViogwFGRPuiO3EW4xxDtNllxQXPoLihUzxy7+0Fe9/z/V49x9vwOO2FeIAUsf2IfXoQ0gPDcDJUejQ1GTs/x0oXLp21DS9hnSoXQ0lJLPjygnrcyv2nbsSJdijWW6NQBFsASyUXygtuqA8FyouKF1NaLwJkqlQUNyBw81F2Q+oN5UQTxRZBtfILGGMXyQny4WiCU6W4spTWnEhGle6uvDS6sECQT0ooV+qCoICPThPuZ/86Ag2blqID3/0mch/1F4s3TmvmYOHIydPVt0lK1BxYkuFg79UG7VDL+WoSpWda3nGhBaX8xPy269fGey45GqYNVvys7Lp1ImDSJ3m+/RUIktzkbVr50OfOHfpRgplmYx5xqlt8/Ko8tvavWsBqix1ezmaEEqJOtZ/RU+xkBDmMI8Rx6lQC9toPrOzTl7xfDi9VDY/r5rpYnZRHcrLh+iC6AqjkB2i6Whc/MoXHF00xV2YH1c6i1obIluRj9TaAnXh0Fcs60S04xVr9Pnzo9DX0qKP2CeK/8ErvlX2P84oVm+t6EHE+pWMKZWL2kuTY7S8BrZQK73nklxjDPumyTbZmLF4lpiJBBdcXtqp60NyBd6nb964EGvWzMtIaawg4EI8CArrrHfoo7zot97VRwtzhVT1XzlmOXtB/OrDMnfAOgzh8qPOW3cjxvqN0dMmgL4ftjwjKm/lhFVkr6pLEEGhg9KVgFWybyAHyBzKy0THB6pwPDUrp0BW8bw8WapXKCSjKE1GjGbmyYxmzVTc11ueBTgUymOsJdfyFR3QoK1lHfUuO39MldKXT4H51GGMwxgDk0naSWzss4MZal7gB2yeQcKkMYb9MMiBMaFljTEwxqDYYWBsVuyCyxAU26nT7qkD99pH8JY5c1m/fn7Vvw+eEV0yMNTZGFOSZ6LMkUQKw5EPq0b5YxTdREfManL6a5SnWFz9WI/i5ZyFNB20HHcThRpj7FdM5djFF4LGpTBVJx7NJ2RDwAvVYE7psxyefAmq19FcnNVBcPRoKB4BRSqzedECjOfTorJtXp4sS2O5KZ15MqckyxeeVgvUh0Nf1gFjZrYXLV3aAU0E02p9VqaJh0HZJ+c1uwuJFojuQsoZ0COJNLoHUugbTmFgJIXB0TBUfKYhXWYKAyNJ9A8ncpBP6x2M41x/HF0ZnBuI05aE6AOjOCP68p0YWVboB2hCpxM/eRjnTxyjDPL3jaJ7KAHtZKP3dDriw3TGvYMJ2w/Osy/0DiVxfphg2Mewj7SewSTODSTG4Wx/Amf64rRVMuusAw5hOfCYIpkGKNrMS5SWySoaaCqIcWbSeHSIjhObT8cumuKCixcVWiKDapfIHZ+l+oRoTn46mufi4hFcWmNVcGnlRdOii6ZQUJ6guODyRHNxFyp/spC8yZZtzHKzR2sOm9nTmKm05MorVqJ1Bn/ko2zdQ5+Qw+4Gcf7OPYcpL6FFwFDGkfdz4q4HR66dnpy5dBnMLDSUnknIoUfr12IowVWVdo+Cdo96pDxK56hQND5lRt+aizFU0KkDscEetD16D4KzRyH+u+/ei69++bO49YefxqFDd2N0dDDvblUnmUolceb0Ifz8Z/+Hb9/0Qeze/VOMUO/heNL+0praMMLddkhLceedRJzPuaVjPgp9loBmgWyjvtXEmSVGR16p5ipijLGL1npzLFTLNsfp5dIh0V4ruqi8EC2rS48MAAAQAElEQVSUn87PK5RfiBYtV2m82vIqrd/zT94CHHaTL1ytkosWtdlHY9WSV64c/evIx16zBv/01qdgw/qFfNRqyi1aE75yag94x5pioK5jKrgJRnmaEMdyGiemNtB32N2enVBM4+heTNOBEk49iA+j4/Q+tPSexFf+7/u45bs/x+BAD3Y/9CPG/xXf+ub7cyAH/P1b/g23/fRzuPvOr+P++76Tg7vv+ibu+NmX8LPbvoAf3/pZfO87H2f5DxDvz+Lmb30Id/7iqzjXdZR2TuGeu/bgrl88xKdjIAwMJj50b8RnjK4hvzEGct7N3DW3ENqRB6ShgiPKHlC05EVpFYiqiJVVVcafKaD+mlMwQ8+hMSG+yYBF7amyNsKL4gKjBc+i9iqwCSgowBNrYoHpFEr3MJ3VFa7rhus340tf/FXc9LUXlcRHPvgsvOPtT8U/v+2p+PAHnomPffjZWLK4raDQxz12LT73Xy8oKe8/P/nL+Lu/uQ6XXboS9hfoCkqaXmKReWGcEpr05MCVEeNIduUM76h+QY4kZXnMsAVKOfXYSD+aCIS/A1xS0zR5RoYH0NtzCqdOHcSxow/n4NTJ/ejqOoLu7hPo7+9CnAsGlPysN/DooeN45OBx1pvpPew0xhi7uM5QYIzJAWB4EgCMMdaRqy+Gu3PYnTXKONR3AxUkr6QZmFBWhoYaHYZyqTavlZ/Omaq84CQ4ukuXG0pGPlxZJ1P5jibdFXd5+XGlC8IVzGROVD6anynigwaxAKf/BtGUam7auBC7LlmBS3etgH7lasP6Bfjsp5+H33jhTrS15f4m9e0/O4Z77j3FiS3FkvV9atAGulSoZmAAV0xOXTdTIckImCjk2MWvfGQOxxcNxePSkpGNU6bK2nxGFGbElAzEJ0iO1TnCnaVTtvKVjmRXLSq5VDnHWUm46E4n5ct+SitPCMjQFBiEu05RJgaLQLLEqfgQd+rDy7cASiD3aDvxMNrOPJJLnKbUmTPdfAR/jjZBFoZ12w0ddTXGWHoT702MGTyhQyFNAoVu8idrmCaDnDuDgqf4tPsOGFH5mGRTeC3vvVNE9dk4GxgwwdMmy7lQXQiFeIvRnW0KlREtmm/j1EuyHMSTAypcMI/lcvgmSEhGMRbpUSq/WDlPnykL5NbL4ZRLaMTUS19yKT75r88dt1t/+z//FOfODdV9k4zRSB1Tk6mxxAQxTYj2ETwLBZTDAEK0WEACs6yT18QZxAA5akF08bpQ+ZLp0tE8CbZl2WsMYXkpq4lrKclSehwMIFmCJgsonSkrXtHBg2Rex5/GGDSxAU0KCTlWmyZNcYH+QGLB7DFe5oseYygeW55x0VReNEH0GAuKJpAFSitPiFExnlaxmPiIwALW2bEpYWgAntARMKZ6Jc/KDwxG1l6EkQJOPaAsY1xJlZ4+DA4M8zH/ENsL2g05YcyAixhYmqFKAS9NASxNofJjAWzbbdwgVwYLkMSS4ckkmsgYY8Q1V6ExUa6QdzJXSRFcWcUFpRUKikehqoUorVjc9t1MZjSeIRUMKpZdSMmCkseIto4S5aSrMFYiN2bLR0j56UiWjzaABYIG0LEsFRcubLW7df2EqyYNV+h3f+/rOHNm0CXrNtRXcKLKaYwKUVqpuJxjUwx2gjXGcCI2YADRAzuRgjSE+cg9xBfjxTofGPIZKF4MjtflG+4QOE8jxt4UM2BobD2iBbw0CZSvfEZtvpxlFDFmRNMu3mRAjQiFBHgoEBi1Z0DZrg7RmbRlRKdKlqdaF8m2bWQkJgTG2ktx6SC9SbL1SxdEjuE1OzG8YhvSQSxCnemotDRIp8NQ2kj/GJPG8CJCEShXvMpWXKGgHbo+RKfiuq8KRa8FsvVmIgoEV1c07mgK0+yzLhSPdCwG8SlPoRCNKx2FkxulTRSXPGEivmrILiQjn5afnkgvn18/Fqj2fDfjLXvPv1yPv/jzx0O/3uWU+erX92FwMO6SDRXayaYCjQPe0Wb6C020MbqVJs4UTRSiDyvJ4QSkxSzNcLdl0ELGJqZjAcacsEEYJ010gWxFtQhYPqBcCxtH1snFDJhDMIwxTwgw/mD2eCIpLAIhIIMDo8yBpbs48g7xuqcGxXiiRaJ15MejfIq7fIWC6nJ1yP5aWDkorTIKRUuuuxCJ5RtFqgs4vaRbCBPupGOGCy9k4wEbGQRAjPQmImAakcMwLlKMF+UL4pF9RFOcLFU5JVOCVGc2zDhopcuFHJeV5QQVKWh5mCd+BiVPxyumifijvOK3KNGOQvyqQ7BlJ7jk87l0vtz89ARifXYdWYBDtI60qZIqT3z8enz+v16A7duWcIdq8MX/240HHjiDRKJ+36dPNOFpzhHKNVGMd7YpBk7IgOIapEGAbFp5ootmQwPaKg8GodNkKD6VyYfK5tOiaeWrbvBwIaP2LCYzv7xkiNchFmmX4sqXbIWurHiptl2YiMfRo2GUrrIqI+THo2UUd/kKBVsmoxP9mW2bLtJJaZVRqLQxBvE1O5BYVj9OXbqWgrNjQN0VF2/ASBMde4wRGzIeME4WZdcWdHqsftJ1qKz0FAoJkaOLwvEU43f50VDlo2nFVT4K0cZByo0jliYYoycsIU+0XhdXKJDNjueQE5E4K6VNxSPAHw1rgaChNK9Q2fe9+xl421ueAj2O/9t//FGdvU/nIIIw1qjpmhA1sMdqnVpsIlnK5zxvFxUx9ramjONTKPrUag9Lqw7JVhhSyrvmWr+8MuVyGWNgjOEiaQzGiAYYfehAwMwfp0924eSJszBUxYHRsk82qWzeyTA6naLhZOTklJGwHEJuQm2KIjc3N1XMAap8lDM/Hc0rFpdsoVi+6JKbjjApLbpQKC5WQfkKBejbELRJIOjCUPkejWcBTrGNp3QlGl+2awX+5z+fj+uuXY83vfkWnD1bP+/TC42bcIAVb6HKRFGcs3BOdJAX5qg+VXUKxSTrfWs8kcRovDSGRhIYGIrXHKpnIl1K5SeSKb6T1paHLVbAm6pJN4pUczvSzW0YZptG2G5yzsi5d98RPPjQIfvDMtJDiN4L6TcdNi9WRz/vdzkYGI7DYXCY/SSSHmB8kHZWKEwkr4919vEVnYXiGQxQ7jDvVRSyl2Bpo0kMO5BvhH3aweaTpnBoNIF+6mTryciOxrP6kWeQdcb5ZJHdKNs/2J2ycUU0tgTFCyGap7ggGQq1iQjjnFVEoADGkIky5c9GssCsd+juZvzlm5+Az/zHL2HZsg5Hyg/rKq2BJkyklB18ZMqGijCtU1EhJ86Zobd/BA8/2oV79p+uC9x/8AwePNSFh6hTKew5cg77jnXXHKqnlB4T5T3wyFlr17v2nYJw977TyMe+c3H0p5pwsnsQXb0z902MffuO4sc/35Nj++i92D1NNp/qfd17tBsOe46ey8azNLbDxScK91FWVh/FM7D9Qv00CvZZay/RGM/2DaWL4OFHqd+Rbth6MrKjcaefaGrL/exPe8g/xMWCHctuUCtRBuSwHZvighy2MaGgcuYZV96H9W2BOePQ6/U2GBMOKqefBpegtHZ0CpXO5RK1COiwxSs4jmhctLaWGDrbmrGwswWL5rV6zIAN5rW1oInvCeTMe7jA0n2ZCXSf68Xg+T7fB2agD5Q79hZ2tmJ+ezPaOW7VR+SQBcUd8tOOrjA6xSgewijLY5ZZIJhl7anf5kxCM2OMfQcLHvTTvI6dzOJjMcN308aG4FGIRrI9XZ4SbS1N2LhyAS5YvQibVy2cNDaxbKOgnHbKHiEW0jahXZTesmYRqo01i1rQFkujd2AUesSKGTwWz2+z7VNb3f3cvDpsv0tPR2jrZL2uLqUVv4C0qG6iCcovdF9Et/mZ/ql0Ib5q00I9w75TzfiWNQuxdtm8bA8Jx3I2aSOi2UgZF2NMDpfbOOQQfaIhLRA0pNazTGljcgdYoeZplx6FMYaO3H6cxYbKM2Y8TXTBmDBP8ShigbGfBEelh6m0wMzwS02hnNqzE1tm9SQ70WzlFK2YJ7VgOVLzluC2B47z8fyZisvXooDaGuhC4XbHR8PZ/hEY28dIzjnFavMVyckZnxCLEPBiywTG9jvFHQLmCS7NWqFD32tXT1deYGAXuWSFdNTnL6LQ7zkYGBXTR71sONMXY0J9KtUj0w3LKiZb5DOKJji6jRcQakyufmKxvK6gDxvGAt6h18mtMiZ3UFWo1qTZNXjBuuW8oiCppEwNeGlcDCUL52UWq0uy81iLJsVbCEULRDKMMTJBlmLoNYwx2XQtIummFrz5E7fhLZ/+GQaH47WoomyZvb396Onpt/xqtnOogRKkyhKKCyKNyyeDoxULVVZQeYoEi8AYXZUqDGWrjHKdUzfGwJAgusCoTZOsqHXiaXsFRLN9WhHU9sguBgtUUyqvAHuWpHZmE2VENCaLsbk8O96LMXl6w1vAO/Q6uoXGVDqESytvjOGklg+QhgkPYwzsZBiMhSTBHcZFioTKj8KxRWkurvnXxVWHi6uM4gqFaNylRROUngyMMdYexhjbXgaYa8ee3Y/ioQcPTths2SbQZULO6jGoOrdIMMbkCmbSkhjKYQUMxRuQ6EKScsvUKGXMdNVUXgNkD8cpzaJj2dGLheKvs+YUU9XT8yzgHXqeQWY6aYyhg3GAjaOCg8VtGWNMkVKiG5giuQXJGaIxxjo9Nzlo0owiKCFUWQImOgpsIVROUFGFDkpPFdo96TFtdAIsJFN8IQrlNjbtYTr0Bx+cmX8QMxXLqR8E6pOE+qExokxF4tTKGjND9WfGTLR6xQWNVSgytab50g1iAe/Q6/pGhROEMYZjcjzyVTfGkCQwmODUHCAnFjopPqRkotJ4imWikEypIExQPfRd7VLf5S6UNzScqNl30PsHR9FHKBT0vWh9WE3xEHH0DwqjDCMYikPfWx8ZTcBBbYvaUgsGfbdbj9b7I3Xo+8UT2Wk68s+c7sax42ey+rt2RMMhvhaI6l5WnLaRHR1smaFRa78+fRgwYgvHUyy0ZSP8xdIqrzyFguK5iCO/7tz8UL/J0mydbLftO1MMJWsk81U1DrXiXYFDPn/MGWPsnFG8kM+ZjRbwDr2B76oxBnaHEjAMyruVcjR7j5zD3XtP4Z59wmmG1ce9+0+jFB585Kz9LvzDj3aVHe49eg77j3XXDpHvBMtG+2gnfRdYiNardBbk2a3vH0e+c3z/gTM5NpUdHjh4FnsOn8v57nF33zDq5TjbO4SHIm3Ij+/O0z3b/ojNxtFoG9nRweYf6bY2kD1tOlPe8RQLo7yl4iqvfIWC4rk4Z/tPLi3UqVq0/WxTNSB99HsR6j+HTvZmu4p17lo9ZyljEWO8Ix+zxtyLlecF5p5dGqbF4bg2Vl9jjF2VG5Mb2szMxRiDRZ2t6GhrRmtzzGMGbaDHxKiTo4kLwrneH/R1To0LhfVkC32tUF+9M8bY3qLAcBFvjMmOdyCMwx9z2gLBnG79LGi8MWbCVhhjYEwIMa9Y5Lz49AAAEABJREFU0okdG5fi4guWVwWXRORctHkZ6gp1rM/She2ol+P8uW60JIen3B/q6d5fzHsf7ZsT9XfprnGhsBiv8qYbG1cttONXfcUYk40r7UCyi/pwDlvAO/QGuvmGuhpj7IA2JgxJqug0JixnzPiwIkER5vApQUgwZkxuoHhInvErVSlLB/EJUWZjxtpkjLGvOQzGDmNM9p64NhszRhvjHIv1dPehr69+/q/Agw8cxL337BtTcJIxY3LbbYxLhwKNcenCYcg1/mrMGL9yjTEKCkI5xvBKRPtmQeYKicYY3msQBv7wFqg3C3iHXm93JKKPMcZOHMYYS9XkpHfggiVU+WKMgamiTKtvFeVFRRkTamrMWGiMgTGFARSmG5NLF59gzBgdeYfahTCfgcnJdXlRojHG8hkzFnadOw99/zvKN5PxvXsP4+GHD1VVBWNMRJ6xNogQCkaNCfmMMQXzRTTGIDoGjDFWtjFhyITYaghjZRsThjbhL94CdWAB79Dr4CYUUiE6V0Qnr0K8VaWxYmMM50RTVbHlCDMmrNMYY+s3pngoecYYBZbXRhrocq6rF72ZH3NpILWnVVVjjL23xphx9RpjiuaNY64hwRhTQ+letLdAZRbwDr0ye00btz7JKkcuuEqNMZzEQBhMx2GMsXUZE4bROg0TAgN7RuOWELkYE+YaE4bKMsbkyA6CMB0EQQ5dvLMRZ872oLunr3TTfK63gLeAt0AFFggq4PWsM2wBOXfn6GdCFWNCp2uMAb2uhTGGUZMTN8ZYmjEG1kEDNg0egaMxNGaMDzAodBhjYIwplNXQtK4q7NBf/Zpfxctf8UtVs0MXFxn6TnrVBE5BUNjX7QuMsqRUyl+W0LKYytexLHGeyVtgChbwDn0KxpuposbkvkOcjB49fcM4frYPR8+cL4hDJ3pw8Hh3dUBZj2RwkGG+XH1fePfhLpTCniPnUG089GgX7j94Zkbw8IGT3KGHv58+mfunMomgCc/8lWfghhuvU7JSjOO/4669+Mq3fzEj9rg/7z488MhZCPn0YmnxCsXya0cP9VTdtcCDh7qw/1gPunqHxt0vT/AWyLeAd+j5FqnztDHhbtWYMJysuie7B3DsbD9OdA0UxBlOIF3nhzEd6B0Ysb/Spl9qm07ol9tG4knMBHrOncdA/9Q+5Z5MprF0xVLsumIHVq5aNtmukC23f8+jePCBAzNij5m4B41Q5/BoAhofh06dtz/Ik71ZPuItUMAC3qEXMEo9k9yjxam5c+CCNYuwc+NS7NiwpO5w4frxOok2mzCvrQmJRHJKXW3ZonbIJm983a/gN178jCnJUuGRkVF0tgRWpuTmYjHpIVyfyc1fwvwIeA/Ly5fM4uVU14XrxeMgXsUVVorF2FG2XpXKHs8f6u7o0pn1R8abs0/IF+bntjWkKf+Szcuwbd1i3SYPb4GiFgiK5viMuraAfkNdzh36V2WT0LSlKYZ57S2Y39Fad1jQWUgn6Tp70NIcw1QP/ZrZ/I4W3r8W7LpkM7ZtW4+pHuoXTmZuOHZP1G+E3PwWq0flNMktXjaspzXSV1sy8ZbK6mtvJj/lZOxVuZ4V1sd6Qt1bqC/rzow10RycDi5dLOzM/Koj/OEtMIEFvEOfwED1n23qX0WvYc0t8MvPexJuvPGJNa9npiowZqyfG2MqVyNSvvLCUythDHUXpibGl/YWmNAC3qFPaKL6ZtAufSqo79aNaWeMsZ92NyYMx3LmZqytrQWtrS3Zxre0NKO5pSmbnmzk8KMncfDgsckW9+UmaQFjzCRLVr9Y+E2a6sv1EmtvAe/Qa2/juq5Bi4HJPrafqYaFOufWrvnQGJN1+rm5sy+1fPliLFu2sOoNO3ToBA7sn+MOvepWnVhgoT49campc7h6TUaUS2eSPmgwC3iH3mA3rBbqhivytP05zUYY0MaYrOM2RvHxVjFG9BDjcxufIme+ZEmuQ8/ftU+mlY9yh/7II96hT8Z2ky0zU2PO1aswTeUVMvBnA1vAO/QGvnm1Ul0DW6iV/OrLNRQpMChwGmPsAqBA1oyQuHSa5EcZx9Rdu3YFVq9eOkZg7KKLLsDOnZsYm/x55kw3Tp48N3kBVSopB6MPfgqN1RcnNMA4BmPMOFotCLKjUEh2MXohXk+rXwt4h15n90YDS5NYLdXS92+7+4ZxtneoJM70DGImcaKrv+CP3hT7MZx8+qGTPThwvNtCP16z/1g39MM2h072Um4fTnUP2PadONePR0/1Yh/zq/3jNYXk7T3SDf2wz1TuccfC+RhIN+X82E5s3nwsX718KmJt2XN9QzlyC7Wh1rS9R85h39Fui70MXX1HTp/H0EjC6ukv5VtA84q43dLBpUXzmD0W8A69ju6lHLl2JlJJcUFpDT7FBeWVgnjEX4xH+XJoB473QGE94+iZvoI/enOiyI/h5NPP9Azh3PlhC/04R0//iI1rIXPy3ACOnO6jIz+PY2f66diH0Mv86fphm9H41L6DPm/BfDS1teX8IM+Slcuwijv3Yve+XPpoPJUjd7psUk49p7oHoYXZGS42y21PI/AZY6rzFKlAY6PzgZtPCrB50iywgHfoM3wT5WClQrrIQ1gNRg1C8eh30F1aNMVFFxR3sowxIuVA/CJIxgWrF2Hr2sXYtGqhxebVCzER9EM0HovsD/IUs5Xs4/I20ab5cHkKF8xr1e2YNBbPbyt4zxbNa5u0TFdwIXWTjvWIC9YsxJa1i7B8UYdT14clLKB5oUS2z5plFghmWXsarjlysBp0+mDaRMrLYcsxh/zhEkA0QXRXXul8qIxoCpubAizipL10QRuWLmzH0gUe1bDBEjpZJ2cZbZoPl6ewfYpfMetoayp439pbp/7VNekmHesRS+a3o6O1Gf4oZgHOC5xMNM6FYlyTpPtidW4B79Bn7AaFLliDLoxNjyKqS3C1GReZILR6cqKYgG3WZ8sOxhiYSEuNMTDGRCiwaWNMJsS0HdX4pLt+AnZ4eHTadPYVjVnAGDOWKDOmPjmGMgt5tllpAe/QZ+i2yqmm+Jhd4XSrYAc/KzWm/MnDGGOdE4vN2VN2M8aE7WdojClqE/EKYq72OkjfQV+6dJFEj8PFl2zBxRdvHkevhKB/7Xr6dHclRbK8xhS3SZbJR4pawPWZogx5GZXyq7jmnGQqjRShdD70JC+fNi1pX8mULeAd+pRN2JgCNBFoYJejvTGmHLZZz2NMaTsYY6yDNxlLGBPGMkGGCvT09KGvbzCbrjSyfft6XLBlTcFil1xyAS6aokPv7u5D97nzYVvylS9Ya0g0JmxvmPLXyVjAmPJsaMfvJFeKqkGv+kxgYB075WguyMaVmIzyvsyMW8A79Bm/BbVRQAN+IsniKWfsim8iWT4/YgFOysaY7A/1cL7MZpIMPpghyrF8tlhOZOdFm3HhhRtzaC6xdu1yrFkzta+unaMzP3O2x+ovucaYks7dmDBfvA7GGBf1YUUWmKBfsDNVZTzy9miHzgAB75XCWGDCuBKYdcecaJB36LPhNnOQc/ZFOvIIzRg/Kmf61hpjso7QmDCuW9XNHfr5KezQ16xZhlWrlo6TrfYaE9aj+GRxho/bT506Z+XnyzDG5JDyknl5ubw5mT5R0ALqHwUzMsQJ3H2GKzfQI3Qh3IFzLclsOXMGdm0pehQT6aByHvVpAe/QZ+q+pDiwIg54nBoauRxZWo0LOfmis6wcuAV5SbIsNh3NY1wZna3NWNDeMg7z25oxrwx0tjahEnSQv1Zob4mhENqaY2h1aIqhpSnIQXMsQFMNEeMORwjo5XjSIcICkcMYg9HROOLx6v84ijEmUtPko9qhd3GHXkyCMYbtCgEY+KNaFuBArpaojBxJ1NwgiKS5xDlzpT2qZIE6ERPUiR5zUg1jikyGHIUaeHYQMq5ldI6jFq0Ci5nIpCuZWq0LYR0VCiuzXkM+Bzm4aiIWBIgF4yFnLadtYZ15jA59DHL2cvq1gr7uJWgh08kFlEP+gilNZx4fiWOyR0tTrOQi7OortmPXri2TFY/z5wcw2D9Yso78NhVLz+cicrZBbe3kIljo4H3WPXdoa25CJXDlFKq/zKO95rW1QDZTKFnGaCRxA6DBi8oOlQwCXQGJMSaMwx+z0gLeoc/gbbUOlTtoOWunhuKiu3R1wvATrXqsFjpyTQ4ENLgNRNOqXXA8olXL1as9+ahOuxpTSvjIfWBSynd0tKG9vbVk2auv3oGrrrywJI/PnLwFjDH2XXPAUE9ktJB00G88VAJXTmEQBKHcwMAY1sGwpTnGp1FN0PjBJA6NY41rFdV6YLJyVN5jxixQdsXeoZdtqtoyypGrBmOMgnGYykC0Azki0Q5ybvuTqRSSzOTJlBx8yGTT9OaaCJJccEShsswKGadwVXscpiBmzhW95OLN2Lmj8AfinDE2bFgJwaV9OHcsoLEbHa9Kz53W+5Z6hz7DfUBfHRGkhpy6nJzi+ZATlTPNpyutPIXKFxTPRRrJVBLxZBIJOnHxyFkrTDLtaNEycvSiO30UhgBUNpnn6F1aMjWJCDaeEWrLZuL5gc1jARfm58+2tN5Rnz8/ua+t6b+pbdu2fraZxLdnihbQHKDxJkxRlC/ewBaYlENv4PbWnerWidM5llIsOkg1cPN55QijPIoLWT4WSmc+hCdeux1npuICoxC/HLgDn/GJDBbjYiAFOXhBfMnMIkC8Nk1nrFAFGLWylLZxti1J8IRbCIgu3mKQTkKx/Eanj/L9eTw+uXfocuYXXFD4O+hRu7TwXa4Qpfn47LKAxpHGVDjW0m7Izq5G+tZUZAHv0CsyV/WYE/RwPMsSGEQew1fi6DTQhTSf4kuEMYzQuafokFPJFNxiQnEHyRdUTnzJRNI6YpefZFmKyOotPsefYJ7S2UxGlOZUw9jYKVqKjdeEJIzl5MYk1yE3p7FTAwNDGBoaqWkjrrnmIlxzzc5J16H7k+L9nLQAX7D2FuBwBqExJFRSocaVW9hHy6U4LjU+K5UXleHjM2eBOnToM2eM6aw5Qa+Y5OBhMGG1GmBRJqWjiOYVistxi1+DWCjE42jidXADPqcMFc7Pd2UVqh459iSdgUKyIzo5SJZ4tPO3ITOTtIPi4pWMQlC5fBTiawRaT+8A+vuHaqrq4x53MR772IsnXceRo6dx6NGTky7vC9beAvTl9Oe6Vl6XMWE568A5/jSmJSUIjP1gXiYb/mgsC3iHPkP3q5WWjxGg15zIkeWrGA7FfOr0pKNONUWnrZ27pWlSoHN2WqSUzkDOWlA7BcWTKhvhV1RlkizD0z4VEM3JKxTaeidiKlRwhmkptV2NrKEe8+a1Q5hsFSdPduHYsTOTLe7L1dgC6vbhWNGImlxlGoeupKSk2CcFjStH92FjWcC6lMZSeWra1ltpDUwNIA0uQQMrqqMx4913Pk+UfybiWt2rDQrl4AWlpYsNqbDaJihtjEGMUFzv5ZnNXXzkwTyNIpr4OccwDxpRvMoAABAASURBVCUPySnJUGeZ+q10fde7UrXWr1+BtWuXVVpsUvxHj57Bo36HPinbVbtQsf7NIYRYZkc9mTq1Gy9UTmOPQ7BQlqfVuQW8Q6+zG6TBGzoyObg0FJ+MihqQcoaCBmic78wFyS9H3kgihb6RBHqG4ugejONM/yiO947gaPewxRGFPcOWJnoxDI4mkOSONFsvZyHFnSOXLinmK622SldBdEG8CieC+ISJ+Bo5f8uWddi0cXXZTVi5cgmEsgtEGI8fP4sjR05HKD46ExZQn07zKV6husMxztHCNT+HVSGWHFqKk4HkiejCYk5dPB6NZwHv0Kt6z6orTAO2Eokc2nSesODYtTtbyRC9ORZAkKM+0zeKB0704ft7u/DNB0/jGw+Mx3d3n8Wt+87htgPduP1gN35xqAf3HunF/cfOWzyg8Oh5SxPd4b6jvXjweJ/F/cy/dV83bn7oLL71wBl8875TFjfdfxoOot3E+r/38Fncd+Q8DpwewMneYQzFk1Z/8JCjT7JBDoySWvjUROVQmKNxqdu3rcfmMj7h7lr4mMfsxGMm+cE4fXCvv39yX61z9fuwdhaQA49xd274Fj101KXrMswWPwO95bNjS+UES/OXWWEB79BnxW0EuMm1KNScs31x/JDOWY77e3u68PNHe/Bo1xAGR8ecZqFyotkPrymiGUHhBNACIsGnAUKSSqWIiRysyozyicDR7iE8zIXGHVw8fPehM/j6fSfxtXtDfJtO/2dcWMjh9w/HISc/gSqctNIWE/E1Sv7Gjauwft2KstW9/LJtuIwou4BnbAgLaLwkuaoVSo0D8WXBlonXGFPW2CG7PxvQAt6hN9BNK1dV7cgdL8e9fXSeSEapLrf8UHLk3PWITl+DU1xQXFJEN6aw13cO3fDRYWEOSSiNUS4STveN4CE6/Fv49OCr95zEl+8+YR3+HYe6cW5gtOhE5eovXcPsyw2CAEFsshafffaYSy2SI9dwdEhxAIumcC7ZYa611Tv0Br/j3ADbR+zOXafoYdPEWLMMYrEAGtiowpFIadc7JijNiuXYRVcdJgDddogxrjCmHUWSCqcikLMNcyd3TVKfY3yffytfH8jJf+WeE/j5I93o5bv/fIlTrStfnk97C0y3Bex406VIxcpKcUxoBKq/Ky4UYffkWWYBTr+zrEVzqDn0i9Z5qsn0q9yhju3GUnTqgs1jJk9FcxCTB6aEVCoJgzTGSuewFUxoshCimXLq3EhToqYTwPAdn4TK4adR+AhlFMstXKYUVRPa8Z5hfJ+7eO3gf8Dw1PkR2iYspfqEMDX7rxvWr4Q+HT+Zlvb09kOfyJ9MWV+mNhYwHKTG8FJEvLICjTvlV29YSZpHA1jAO/QGuElORTlwOUyH6HgtPsRd6bFQgz5FYaOJBFKpNIIghsAEiAXkoUdMMS8f+Y/Lw/qkgQD5beQf2j1TvCVbrrCQTUcvKTKlWGctHK0+pX/bgXP4KnfuP97XZR/Nq27VJSjeCGhpaUZLS1PFql5x+XZcecX2isupQPhJ91OKetSJBThUsp8L4VBlPFRMfTnFTAebF2b56xyygKbwOdTcxmgqx2VW0RR32nLgcoiCnLHLVF4640pd6PKiYTqVtlvmbFmN9gyDJoJkMgk595F4ko/vU5wk0uOQoBIJ8tnFP51vkpCYGJ10E3uRFgNZ+RnZ0UBxqwaZtIOIsSCjImchXVKUK+QvILJMU4ic7R+FHs1/he/fHz7RD33iX3VGMQXxNS16weY10G670kouvXQLdu3aWmkxyx86dP/VNWuMOrlwuGU10fgRRDDGQOOKAfwxdy3AqXjuNr5eWi7HKGcnSCcNSvpPOldYpOjU6eeURUdrAz7Wjg5t+mv67DCn8FVOMpGgw6ZTlnOWEyvMWZoalwwpTDbJGE2koIWA4OQnWYeA8D/ChMqxjPgFPZqP2w/pGbBp9h/ApCjPGAOejIHtThMpiN8SqniRzD0n+3DT/afsp+rVBideeflwedEwnyeajvJVK7558+pJ/UvUIAgQcPE0GT3k0A8f8Tv0ydiuWmU0rDUXKNSn1IVCsjm87NM2hYXyPW1uWMA79Bm6z2kY1iwAcmLa+Qpy3AIyR2DSfByetinr2OUBbSq8aACLHqYquxozVn8aBunKik/InUyl6ZSFFApNRPoxGekvLdQRQ6eYK1Y0evVc4rjU5Al7TvbjWw+cxuGu4t+5lg75KFVjJbyl5ETzNnOHvn7Dyiip5nE59CPeodfcziUr4KBMcRwJGiuOV3HRHNTnXJ4P564FNI/O3dbPYMtD98nRmtFBTtytxDOkcUHG/9I5svRY0XF8hQiurOrgk3WMJsFHzmkbprhI0GIisEwG8RQsnZvvor5UTlibbE0sqk/qqLwxyhElF5pwUmok9+PUnosUcAkBe6gsq2QON/OZ4sYY8LT5Wgyktduv+pLDiqc907jrcC9+tO8suvhYPqRW75qmkfJRqfS1a5dj9aqllRaz/B3tbejoaLNxf2ksC/DlF8egRkeu3hobxphcok/NeQt4hz5DXSAlL0bIx8nJMlpQkxSdrcuQI3TxSkM5W/1SnMrl1+WmBT0GH6WXpv8RGx0dLKL8kiNPK5r45PylfywwIoOzT0m3m6T8BAvE9eiej+bl5Fk0LMtaJVPTl929w5ASnqKXFByyTena1R+nU+/Cj/efg963ayEhCFGHbNOsSTZgYM9svk3V9uLqitZSiObyL7l4MwSXrmXo9HBhtC5Hc2E0z8VdnkJHm8uh+n0qFe1pc9kavu0TWcA79IksVKN8DVH6tgl9lBbh6YxjS0Wce6VqDSfSGBhNQXXml5UT1649zQxNIAKj9hS/8rSjFyRnlLIUT6kAucQzHE9jiJCDR0Zf8EhH4kxmz4ANM0bdzyBBAXLdQpaBEes4yceoPW06qpylVv9ytm8E+kT83dy1948kbAVpXh2sntRDTkc6CS4vn8ZiVTrTXCuFcAJVl0Mhmsu75JLJfzDOyXWhk1ksdHwujPI5mgujeS7u8hQ6mkKlhWhc6bkAN86ibWX3s/0hh8YEewiv/pyrFtCMOlfbXjftTtNRpzKIKiUnoV15mhHlR/OqFTeGNVC+3nfraYHqEgxMwSoM6dYZF8yF3dGHO/3wsX2x3UXoBFlxRo6cunRQ3THqxNPmaAI3hrUam7STWIqKCkyExBpdj5wbwi36jfmjvfZncl010lpw6WKhdFc785Fbtljp6tHXrVsOYTISdT/UDofJyKhGmWj9xeLVqKfeZajtqRTdtm4MlVVfEjgsdZJiOAYthXF/zjULeIc+w3dc41LDTx9+kyopOnaFQprxaFq0yUKvoCXPlQ+dMgd/SpNDSKXfhKAUydw5g6B2PMWfZijnFDpflOVPufmmOJOVy4Q9rXw+W09RsTRh+KzCMCfNSuJ8JM8klCaJTxVYMVNON9GEFHnTLEtNlKwZDp0dwvcePmP/cUyCTyc0oTpQhWy9aSai9DAOKNSrBmZneSuJLFjQiXnzOqD2CrJGJeWnwnv6dDdOnDibI0L1Wz0KNEh5Ynah4rWC7O1kK54Pl9fIoewoW6sPCQVMbvuFFsP2NRUZbJlGbrTXfdIW8A590qabesE0nZSQ76iAyd8WDX666Bzl0kwFFBkzci6A4ULBTgDyqgCaAmaQqYmPwFtiAZqZZmB/aCagcmnqKbnIOzh3gJtlamsy/98c1smrDCXCHXqkryfXqk7QI3x94M45cfFJfirinKP6KV+TFf2/ojkI64rWlpNdtYTaqv8id/NDp/EIHbxdc6TB9qdDcOUiW4hPlcq5GGMguweBQaHv3aPMY/v29dDX1sTuWir5KVYmKE5VtAYSSw6mmtDX1g4cPA7VI6gu6RCwbRAyFdj6qU8maQNLs7HCF+UrR6HkKi4orXCqkMxCmKrcaS1PYzizMmoXtxoLDronUX3EY+9PlOjjc8YCwZxpaZ01NA26s3RGKYYpOlmlNBg1SF1atIIgYyoyhatMgh5FAz2RSiPOuKC0JoQ4HY5+SEWOcpTeSLtsskFp0VVG/7JU/4FNvMpXnpAgf5w70wRlMGond8nUpK45XWWVdnpKF8l2aReGPFScp2jiCWlKhdAETMvQOmE63JWkoQWGiqVINsaAJ2Ow+ifZ1lQGtrwBeKIWh9r64PHzuOmBU7iT79jPDyfsIoa3MFud2iSk2EDtzAWlpVsYj3JnixWNbNO/Td28xuarpOQotAReFLc0VhLanouMvPiqVUuxevUycld26mtrjzxyPFtIdbk6VGc0rjxHU+ggHsUlxPEornvk0grFJ4jXheJTWmG1IHlCteTVVg4tw3tZSR0sYceoxr7g0vkyRM+n+XRjW8A79Bm6f5qwEhyoGlSCU0PxJHeqcsZRh6180ZWfpiNP0LMm6TDEJyQzssSX5uJAUFz1GJMu6OA0qaXT4sqFZEl2oTyVCShNDlWyxUd1IEcnfsEwPxYY6+hCBwZSDLgeyPLFKCAWAGQjDRZOFclN0QZpBzrrOLf0CQkgk9WPIZupqhE90lQgSdsojNJrEdf/bf/Rvi58k879vmPnMaBPCkYqkg5Uk+1OI8k2UDU70SqMsE0Y3bplHTZuXG3tOSFzEYZLL9uCyy+v/Bfj9F30w0fCX4vTQq93KIGTvSM4dHYQ+04NQN/jj2L/6QE82jUIff7gRO+w/bZA92DcfkVStnA2SdEIgtJFVLb31vKQQaHg+J2sKI1sFZ2SVQgVCakxs9qZpCVsn9d4T2bGijJK1K1sYwzHHUIwLprsBR4K1XYrl/dCoWjMYj8Tp6CURyNZgFNqI6k7e3TVcOE4ymkQx5xNaxgGTCi0BHdRIcY18DJRpjInvVvIbzIEcCAbDk4DfSpdZVDk0MDOZlGwYUn6H2iH6XRURzEZJg3+JCcXQflKK8xk03mlw3fvlKN2CKpfoRy55KiMHr2PcIIKSGiJGevc02wHVUDOQVuAssBDcqSXwGJ8pM02MpImjzEmwwWID5wIBcmneO7ymW8opMpnmgrLgf1gz1l8+8HT2He6H3raEaeN4lxcSA0FbtFDckUatLS633FPQ+1WfQqjGKMVFn3F5dshFM4tTh0YGMY9B85A/8lOv6z3Q7ZR/83uvqPn8fCJvnEO/aHjfbj3yHnoGwJ3PNKDn+4/hx/t7cK3uOj5yt0nrBzJcvjaPSfxnQfPQLz7TvXbBYC1WRGVaGro3qrPKi42haIJ0bjSUShP/BPByqZBo+FEZWqZT1VyxbMhWttq/Ahc66qL0S7s7cxzzFZ/JjTWnB2UnbLc4HgzdrxobMc0dgjxiofF/NmAFtC9bEC1G1/lgEMp4ADSoEvQe+pRslqltBt8omuAkRUJ7lbFI1pBh2AwbkDn8yXkVexgDoes6tLOd5QzwghnhtFE0j6qd3yaSOQ0kpw94kSCUFx6RqF2BIHqT1tnLkcfUB+wLtUkGUqqXWqPaNHyxigX1N+wnWkuQqJ7Q+GeAAAQAElEQVS5YFo0tT63pPSJU3eaxvJIdioUZQWoXiHBdscFti/JkMz2nX+mWstbrUuCRt97agD6n+0/pCPTjrV/lI/lbQVcfNiw8kt4L2QLgnUYdQqKEV3QPdR353ef7IOcrnOYLvzmA2dwgO/+WaSuTt1RLX60m9fv62sBcNP9p63jd7p/56Ez0ALiTN+I7V+FGmBINIb2lTEYL3Sqv6sPCqpXKMRXiKayUbrSUUTzqhlXc3i7wW5uIdnSW3TFBcWTXBgrThMoKAnxS4bsYIyBMcbyqz024i8NawFOww2re0MrnqKz04CSE9LgStKp23fbHG1Ku8aJR86IZEeyYTqtQSgoqYlMYXFowhd3krOD4nLgCTropphBc1NgB3WaFVsHSF1UZ4Ih3QdULio5yXLidTTpOBpPIcVJRf8IRnnym6pLceVbXspXWnHV4+JxytP32xWKpsnLGGN3EIgcmnDS9N5sLfOQ1UvynTyVl2kEw1UFxSD/EH+cM2CSSqbYxrQK5TNVIS07P8JH0z/edw43c+euXerPHulG9+BoRdJHaNuT50ewlzvYOw714GY6uK/ddxJfv+8UvnF/CD0ZuP1gN7SA0GPxiiqoc+YhvsrQI/7bDnTjG2yzHL3s+SBfc/QOxBGnfcK+xg5WZlt0zwX1hXJLid8hvxrR82lVSWcG32S66ETtUr7arzlIULoqOnshM2aBYMZq9hVPyQJyVHaQ03PZsAxpCTpzzQ8xOjo5aiFBp2Z3uUWEqAz3xzkOVFWlKIu+EGGYhjFyswwpm1Fox656BMCA7DDGEECSDjxNvTWZcF2D6MG1ha1rVDzMYBGyGIKJzKlySVaeyjh38TSpXnJJH8kX1C42z/6krPb3QlrMGTku0GSckrwItIsvwOqKTDrs4fvkvuHwx2rKEdIxrwMnh1K489EePsofwGnuUkfVqHIK5/EsW7UMQh65IZPDdOIHzgzih/u6cBMXS3oisu9kPwZp25Q624StGmOw9z+dZh8NofRYbvmxicopXyhfIjnToF4M8051AddMwzyygd2Xu3gDPmzjkwxAdPhjTlnAO/QGvN2GQ1UTgyCHnOToVrxYU+jrWCLMdQOf8xdSvLhJQblpOkSFAT2ZHDEDJTlJpCEnEgSGztbAHaqTIuT7oEnUxZUvZ6pdu/RTWvnascYTabg6xe/i4hG0OxdNeSPk1eSkuKWRwRiT0ZIJnrYNnMni2nEzTNPJw3KopWBdrI+FVX+IVNbBg7KMMVx8GEURPSRXdk1Rpm1gNLOCeED5egoSGIAnRaUtUOaxbvNarF6/CjGO1HDRAivHyUPkCFiX6gh4aSK/LMUo71nItH3Xduy49MIwMcuu+nbGw3To39191u7if7inC8fODSHODpVWB6qgveo5uv/5KEeOeIrBqVAsP58ufukSqm/Yl2EdNbuz7Q+6z+KxC1Uy8szpW0or32PuWIDDfu40tpFbmuIoTnLXqlCTlIurTXK04aPuwkNYVDdZxPUeWc/G6fT4tN1O9knKFn37yvmY39YEPX6zO3MVVAUZjNiymj4A+g7IWSDvcPSAkVhgOAmlLfJEhTQSw7rFkycok6RqdkGBtGrT7iMNOXk+haWeBmlqkc7wGmMol06chcL2SlflCiGTJkfZUNLEk6DDToifcowx4MnJ0th37MgcdmInXyoPKh9wBLGZ5EzDSBsDu0AQLc3FRYILjVEqrIVNkuXTUoDc5Z6r16/G8tUroHs+mrG/5Dh5UZ1Ul8sbpSNLsl1J1ile8a3mwmDNxvDrb+XW34h8aSrdOxS3Xyu86YHT+O7DZ6Hd+/BIErJFpfeA4uwpubYv8B66UDSbGblIfiQ56aiVw7pCAWk7VtU/ReIa3vZ1Wz8vootPoRZz6n/sjiJ5zCELcDqaQ61tpKZykDp1NYAdOD87ck7o2DUJJDnaxe8YEpzcRUfeCJcjk5NI0/GI98FjvTg3MIoUHUEeq7ItQmefsjsBV6fN4CXNSjXRBZxVeEJxkmDlMb/UmbSLleIckqV37FLNcSWZEAxdKZsMxQMDqG5kDulEEuRslScbiCZewemniT5OIVTD7uDjzKB4G09RViFQqG1bkuXURslTPEHHK3kUwZJTO9duWotV61ZOTcgUS/d09aDrdBfbmrLgzbfORfZs5qqwiREGpMnSYBjC2TrFTisY6hFEbo7SDvl03SOViULyjFEJCuIZMKp6dW9DAMrWExHp5aDFjXbvNz98Bt+jc3/g6Hn0sp9roZXUDcfER35fdyWsnrzR6p8O4nVxhUo7/smG6ovsZjJ9VgSr5f2QVbIkm++apPyxnNIx8QqluXxuvVvAO/QZukOGo5zzEQckd6ccgTmDiXlOLdFTHM0KHS0/VL5oCoWA20ZNbKJNhBhnRcFkekKMob63njtNjJcifeTcNWG53CYWVrs0gQqiSw9j2FK1SYVELALpnsPCMgbG7pZjQYDWplj4q3YYO2gavg5IgybkZKZpHXQoxjIErJenXZtIbpKORROw2haGli17sfxMyRlLF7VNIUnUgqUoRGmBZhIBqr+Qsy9EA5XhKXFlgyYouagoVE+UpvK2TppE8cVLF2LR0kVl1y/G87196OnqVdRCdpGNhBE+fdCiUIuhBJ9GpGhj0YUUjRO1s+zveFLkU9ohnx4tZyvlJUV5yUwdKZZP0MOp3qToFikkSZOjll4OcS6wxC8MjSZw4MwAfrD3LL7Fd+8/3h99NM9K8k7ecvuESHUonpddVlJtkc3yIbpDMUG6Z2wa+3aUIzcuvdhs2xeVY9MsqDGtuGgTQX2G637wdvIphu3aExXx+XVoATsv1aFes14lPSJPWS8UNtWlRUtpBIdkKO4GpSYEaGLO7KgzLBzsHL0uwTDFyc6VYdKe+WkR5cA0EcSpB4uIxMGctogzQ3IsscBFzly7I9WcYGFBj+RHWY6+F3LuKqY6OD1AuqtZ+XqwOWKzsLKoS1zvzgXFKS+cTNPQBB0nTQ5K5awsFbKlQacePo4fZlk9kleon5ylCECFoFIGhjOdAbhQAEROUTHBOgjOaoqDhyZbBlA61EGpEAmWkS4qE+qRtnyG2QEvtix1Y9TeH8kQJIdFyVXeKTkqpzoCKit5SheCXblQrDHkYt3iUX3SlWTeE4OdV+7ERVdepGTZ6D8/gD46dWMMgsDYaijehnIEDqJZg4IHeR3dhS5foTEGhrKieZItGAMopJSanbKn7NPNnfodh7rt7wfce6QXcd5/2TxasWFCTyGkF6PQ/dO9l22VdihGd/n5oezgEI4P9iEq5uI2jxeS8ovmpKUfTcmFLKz5Y0xobHIdA/V96YUSB6vQEEUsBlse/mhYC3iHXqe3TpNNko4pOpg1UFN0nlGaG/xJ0SNtEZ92K4ImKE1GAyNx7jY0hYaMKhuwB2iyauYMIB7lBIwISc4E4mESmjSUF4UchWRHaYqPclKU85XTpwg7WYguOdxkc7IGYewEhMihOk0mbYyx+UpLD8mULuCh9UyKggXlJenk2Xxbj/itpyGfO60e5DdsheqQHKpod/YJlnV8LpR9JduF+m172UhlFRoy2nbbmRCc4DURk8hTukimyjLJCTUN6au46qUailYM1Zfg7Kz2Fits5bOCJPkUd3zSJcF26utvK9auRqXv0YcGhtDXN0CzpsHbYhcGxmQce5rtZ53ST3YRSOKiMAXZ0EELVumR5I2SbkKS5aQjRVGusbYSLUOGCUz26QQo2BhdWIKherHqCRgXSJ3SmaDNDp0dwDfuO4kf7D6L4+eG7G6fd4/tBsdNGtJLfV46usrUJrVF6YDqaYxKL/EpFH2ykE3LlUEzQHD68HYjxrGt8W1pMlgBRZTHhx62bQqVLsDmSQ1iAd7yBtF0jqgZHcAaoNFma3LUgBNPMjMxBmSKBQEHbwDOJ1H2cfHO1mY0kVcZdnLSqGdCce04JFsOq4nOPRYYtDbHoH/WEmMdcoqaYFDJQUVVhoEtJflxLlISFilO+mk7iatdgiZV6SJmOYAk9VMZpZXPJkOh5AXUj2opy0L1JFlYPIpbPjEyVzL0q20jnLSH6cnVVpUNmKfJWHkZVjgjKt/Zc4RltKBIUrjVkfVIpsoqDMgckDlgCB6iSYcsL2nKsvmsSHkkTXjK8a5cG74/1/0IWMdYoTRtkYJ0GKMBqgdVPrQ77+85D1Wf4D3RwiBJW9p2sLGiK64+Eic9QYgmfQWpw2YzSHORZsAi2fuu+6x7pTJJ2tVB9o7T7sqzHlW1832O7KA2xliB+kCKmXKeqjvFGiYLiQ9lG+gDdT/nrv07D53GnhN9SGb0kG7SndXYk+pmHb3ug/LUXo2hgEomaKt4BiprC9XgIttKF9Uv8QrVtwPaiGpACERQZj4yPOJtioHzSD6DTzeSBYrd5kZqw6zQVQNSDdHAUqi0oLiQojPRwFXcQZOo4NKVhGlOhNoBaaLRZOTKanLUZCq5CU7McUK0gLNCEBjHVjLUxNjSFNjJuyRjgUzVm2LDWR1aW2KQHPCQTE1UNAO0401wolSaWTmn2mJMqKfkFOJRAbVplPXwVNJOzHLsbC6kg7WLzQkvxlAmbwDPkJC5pqjQKJ9txqlPQoVJj3FUkdtOpEzSDoDSSfKChzFKMTLBuW7TWqxeq6+syQmm7QJIdYSwd5ALNBPKp0jpHafzYRTg/Q35UkixkbKLSy9cuhhLli8hT3lnb3cvzp4+B/ULOfJQPqxc1SmbyM6qR2lJVX1J1iuIJiguHRQH9VN3UllXztElX3nN9NpNipBXeTQzX7uk7GNx2VttTdDuqsvWyfq0QBCvZOaDYsBbY++veFw94pMcLdwSvEf6QoX0Go6n7E/b3rL7DPaf6keK91flVFcUajuzoEWFQummtkZ5qJrtYwqVJ95ovmQI42gqECUWiausY1U8UEPJ69rIaOGTDRW/ysq+0r8wY7WoXk4tLZC57bWswssuZgE3kDSY3BwvmvhdWnGHQpMJIowF813hnNCglS/MNNgN+GdyMm0iQaU41m3cXZxuLh0NA+qhybdZ3owZnBd5nfypSW+YL8KHCE22miQlTW4szllHtGL6qKzyYnQIAdvGEwH1UygZjCrIgfg14cs58AECQCbFNfHakA1SXLIVikYWshmLGBOBAUS3usFk67Rl6HhUh/LLvU+btm/E2s1roA95yZmqLCKH5IguyLmpHmU7+yjuIP1iUpAEfR/9wst2MFbeKUcmiFt9QnoILi09FBdogrDdioiQAc1j6ZkknSogfV1Zxy6aZCu07eK9VjzBMMV7IH7B8GZlmoN82QbGVqOreJQvguSqX7Notv4k74vLF4+Qsn2fPY0CAgoYIc9uOvSbHjyFuw/32AWFFg6yiXRRGcHdX8ULweWrPsNVQ5xypY/ooqmMaEKCebafiVgmJIdmstzJ6G8gW0ruRfeRaz8uEgHVzWaCzfU7dDT2ETS2+o2tvRtIbjBFW6PB6dIptt12dwAADHZJREFUTWQukRcqL8l8QROWQg3WPLa8ZJq7hRQnWNgBrMleuuQx2Qk3nkxZJ5Wfl59W3ZqcFEr3BHVSPJ9vKumAvdVw2pFjaooZBDScQfFDk7V0ERKcvTRJancvuoPyJEHtl1yKRTPlCk0klpTPiV9t1KSu9iaYTksYIVqSaUgGhaTkRUhXHQFpjE54mlgT0kEsU3JC9qIM0lG6SDeqgrUb12Dtpsq+j56VQYPxtH1DMvMhG6jPyNbRPKVFl10CKuFMoFCQqcRfqBFkpxl1BUOwzxoAxuogeSkWTrCf2jiVS/Mmqw61V3qnSdN9VSnFHc3FVR60coz9K6BcsoPdF+oj0tl6fwpT+nj3ML5Fx66f8NXrG+fY5dyjEJ0ikX9INlWFnLXybJoX6aK0A6uz1bp0pWEs4IKEQrTrpvhsccVHE8DwaNq2r7kJcPYnO6QbGviY66oHc90AjdD+IAigyahcXVOcjTQ4Hf8wR7UGbluzHoM76lioyUUDPeDI5pnN0G+866tiytOEl80oEdGkrJ16a1Ooc1i2RIEKshLctWgyVh0qFvBijClpG/EKzh4qn6NTJiNFpyA+BtCjd03WeiTPKgvNy6y58KmJWXU4JHkvkhSqOkWTg1C6cOnaUVW32qjmKi59JlMbmwKVn0xZlVF5tV/1S47uqaC48kVXfhRaJCToaURL8IYkGBe/bK0yTqbyBaUlR/lhCC5g00X1NsZwkRCAt4p8KTrStIX6V4x5Gh+2PgAKDY14tn8E399zBvcfP09q7skiEGBy6cVS0pHrTdZNwcWYKqBLHh9sQaC5qPNYYenVQife0hQqpxrF3xQDlAceCmOxMJ9JfzaQBdRnG0jd2aOq3g+3NcdQDB2tMXRm0NESw7z2ZsxvKwHmL8hAfPMyZSXjig2L8ZjNy7BzzSJctHYxLl2/GJdvXIxd6xcRi3HVpqW4ctMSS1N49eYluIq4dN0iXLJuIa4k7+WUcfmGRSgHF61dgO2r5uPC1QuI+TautMPm5Z1Yu7gdqxe1VYx1S9ohrFrYhuULWrGCWMm40pVi9SLqsLjN6mJlUp98WSslf0EbVlYRHa1NKOdY1NGMDUs7JsayTmyoECuXzkNbe2s5alge9a1K6yjGv24p7/+SDqxnWIynFN2Vd+F62Ujtz8hbS9mr2b/Ux9YxXgprF3dA93zpvBYbilc0ydzIfqpw64p5dhyo7z9my1Jcc8ESXMPxcTXHzKqF7ejnu/bWliaMoRnN9JAteWiOBWgiYkHABYThE7IxxILA5olH5fSBVGFhRws2r5xfETaRf+Py+di0IsS6ZfOxekkuRNu0cgHWkK74qsXzsJ58G1hu1eJO6hfAH/kWqP+0v2szdI/koFdw0lnFCacgNNFkYPMZt2GZ/CvJH8VOOudrL1yOp160Ak/euQLXXbgCT9m5kliBJ+1YbsOnkP7kHUqvgELxCdcx/1qWrQQqp7oK4YZdq/DcK9bgl69cWzFuvHwNqoXnXLYaz9q1Gs+4eBVuuCSMKx3Fsy9dg2eS54YqYhOdz0TdbvXqZXjsxRt4H1ZODN7LJ1eIX3/mVXjsNeV/H30DnWWldUw7P/tuTp07VuJJtEspqJ8/jePg6RetwlMZile067avwOO2LLO4evNS7OL42blmIS5YPg+b8yCnLgfuIKetuMIoRBtz1k1o4yLAQc5beeJRmVgQWKdqjMF0HHo6Nx31+DpqawHv0GtrXy/dW2BSFti5YyO2blk7qbLlFLryygtxzTU7y2G1PKOjcQg24S/eAt4CVbdANQR6h14NK3oZ3gJVtsAOOvQtNXToCxZ0QihX7dOnu3H8+Nly2T2ft4C3wAxYwDv0GTC6r9JbYCILbNiwEmvWLJuIbdryu7v70BX5Pfdpq9hX5C3gLVC2BYo79LJFeEZvAW+B2W6B3vMDkFOf7e307fMWaGQLeIfeyHfP6+4tMAULLFkyH0uWLChLQm9vP85xl14Ws2fyFvAWmBELzJRDn5HG+kq9BbwFxiywceMqbN68ZoxQItbb63foJczjs7wF6sIC3qHXxW3wSngLjFkgCAIIY5TaxEKHvros4b3coXd3j/8RlbIKeyZvAW+BabHA7HTo02I6X4m3QG0ssGnTKqxbt7w2wiNSN27gDn1TeQ79PN+h9/T0R0r7qLeAt0C9WcA79Hq7I16fOW+BdWtXYNXKpTW3g762tmDBvJrX4yvwFvAWmB4LeIdeuZ19CW+Bmlpg1aolWLZ8UU3r8MK9BbwFZp8FvEOffffUt6jBLWC/g766fr6D3uDm9Op7C8wZC3iHXm+32usz5y2wfPliLF1a3tfJpmqsZUsXYvmyRbh481L83csej5997DfRe9NrMfTd12fR89O/Q9+xL+Cf3v7qqVbny3sLeAvU0ALeodfQuF60t0C9W+BVr3o+Tp/6Bu753j/hzb91DS7dsgwtzbEctduYbG/KIfmEt4C3QB1awDv0OrwpNVTJi/YWKGgB09IO09pRMC/ddw6J/fcgcfwA0qmk5fn8F27B9h0vgok9MQdtHU/BX/71xyyPv3gLeAtMrwW8Q59ee/vavAXw9v/3W7jtc3+El994CZYvas9aJAgMfvNFT8dzn/O4LG26IqZzAYRi9aWH+pDY8wuM/PCLGP7+53Dglm9j376j49hHRuIYHhoZR/cEbwFvgdpbwDv02tt47tTgW1qWBZo75+GqXRvxoT96Gg5/8fez76oHbv5DfPIfXoCd29aWJaeaTKZ9HkzH/LJFNjcF4x7Nq/C1116KG298gqIe3gLeAtNsAe/Qp9ngvjpvAdPUwsfUzQUNYR99t7QVzKsl0TS3wpRR7w/uPoLr/+iL+NMP34rRePj43el1zTU78ed/9hI8/WlXO5IPvQW8BabRAt6hT6OxfVVTssCcKJw4cC8Sh3fXTVuHRhL4xm2P4Olv/CLar38/nv2nX8JP7j+eo19razP+8i9+B7f/9ON+d55jGZ/wFpheC3iHPr329rV5C0xoATn10ft+hFTfOfzgh3fj5a94G1704r/Bm//8w3j1a96JnRe/GNt3/Ab+53PfnVBWJQxneobwD5+8Hauf/zHrvOXAl9z4Yfza//safvrA8XGi9M7/lX/wfBw/+lW89S2vnJbfnx+nhCd4C3gLZC3gHXrWFD4ypy1QZ41PdR3H6C++g298/JP4j09+A5///Pfwjnd+Fh/92Jexe/dh7Nt3BAcOHKuq1v/+jQfw9v/8OXr6S3+obcGCTrsj7zl3Mz76kT/FkiULqqqHF+Yt4C0wOQt4hz45u/lS3gKTtkA6MYp0Il60fO/AKD53yx488TX/g3/5n18U5ZvOjPb2Vrz21b+CY0e+gt7um+2OfP78julUwdflLeAtMIEFvEOfwEA+21ugChbIEfEQd9if//a9eNtnfo4X/903sPMln8T8Z34g+5h71fM+it9927dx197TOeWiiT9/82/jDa9/YZQ05bgctHbfUUHXXXcZvvfd92Ow/xZ88INvwpo1y6LZPu4t4C1QRxbwDr2OboZXZW5Y4N8/eRN++4//A//4qdvx5R8fwKET55FIpstq/Px57XjPu17PHfKrMI/xsgqVyfT6P/x1/OjWj+DrX30njh7+MtLJn+DWH3wYT3vqVWVK8GzeAt4CM2kB79Bn0vq+bm+BMi1w441PxM9/9q843/tdvPGNL4I+kJYtWsXIpbu22E+qr127vIpSvShvAW+B/8+eHas0DEVhAD6P4FCcCq51capTB4d2FrpUH0AfRAcHN1/CIoiC6KKLgy8iTuJL2KRTySKhuSa5XyGBhPTce79z4adNCgGBnkLZGARqCEwmB/H2elP+Un5+uo7D8X6NKr5CgEAuAgI9l05bZ2sEzs+OYz4/2pjPcLgbpyezuFtexs/3SxniH6u/v2fT8cZzLggQIFAVWN8R6GsHZwLJBEajvXi4vypDu3hPXRxfn4+xvL2IxWIag8FOsrkYiACB/ggI9P700koIECBAIGOBpgI9Y1JLJ0CAAAEC6QUEenpzIxIgQIAAga0LdDPQt86gIAECBAgQ6LaAQO92/8yeAAECBAiUAgK9ZNg4uSBAgAABAp0TEOida5kJEyBAgACBqoBAr5o0e0d1AgQIECDQgIBAbwBVSQIECBAgkFpAoKcWb3Y81QkQIEAgUwGBnmnjLZsAAQIE+iUg0PvVz2ZXozoBAgQItFZAoLe2NSZGgAABAgT+LlAE+vvqcUcEg/814M/fHrAH7IF6eyCKzy8AAAD//zSG2mwAAAAGSURBVAMAeE/u27LT/N4AAAAASUVORK5CYII=" class="img-responsive img" align="right">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                <!-- Indicators -->
+                <ol class="carousel-indicators">
+                        <li data-target="#HomePageCarousel" data-slide-to="0"></li>
+                </ol>
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#HomePageCarousel" data-slide="prev">
+                <img src="/EKSLayout/Images/Homepage/left-arrow.svg" class="slider-arrows left" width="60" style="" />
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#HomePageCarousel" data-slide="next">
+
+                <img src="/EKSLayout/Images/Homepage/right-arrow.svg" class="slider-arrows right" width="60" />
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+
+    <!-- CIRCLES -->
+    <div class="container-fluid statistics">
+        <div class="col-lg-9 mx-auto">
+            <div class="row">
+                <div class="col-md-4">
+                    <a href="https://portal.eks.sk/SpravaObjednavatelov/VerejnyProfilObjednavatela/Prehlad">
+                        <div class="circle">
+                            <div class="circle__inner">
+                                <div class="circle__wrapper">
+                                    <div class="circle__content">
+                                        <i class="eks-icon-register-objednavatelov text-blue"></i>
+                                        <h3 class="text-blue">Objednávatelia</h3>
+                                        <div class="number text-blue odometer" id="odmPocetObjednavatelov"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="https://portal.eks.sk/SpravaDodavatelov/VerejnyProfilDodavatela/Prehlad">
+                        <div class="circle">
+                            <div class="circle__inner">
+                                <div class="circle__wrapper">
+                                    <div class="circle__content">
+                                        <i class="eks-icon-register-dodavatelov text-blue"></i>
+                                        <h3 class="text-blue">Dodávatelia</h3>
+                                        <div class="number text-blue" id="odmPocetDodavatelov"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col-md-4">
+                    <a href="https://eo.eks.sk/Prehlady/ZakazkyVerejnost">
+                        <div class="circle">
+                            <div class="circle__inner">
+                                <div class="circle__wrapper">
+                                    <div class="circle__content">
+                                        <i class="eks-icon-zakazka text-blue"></i>
+                                        <h3 class="text-blue">Zákazky</h3>
+                                        <div class="number text-blue" id="odmPocetZakaziek">
+                                            <div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container-fluid">
+            <div class="col-lg-10 mx-auto">
+                <div class="row d-flex justify-center">
+
+                    <!-- ELEKTRONIZACIA VEREJNEHO OBSTARAVANIA -->
+                    
+
+                    <!-- ZAKON A DOKUMENTY -->
+                    
+
+                    <!-- OZNAMY -->
+                    <div class="col-md-6">
+                        <h1 class="text-center">Oznamy</h1>
+                        <!-- foreach loop pre 4 posledne oznamy -->
+                        <div class="col-lg-11 mx-auto">
+                            
+
+
+
+
+
+
+<div class="widget-container">
+
+    <style>
+    #oznamy .card-announcement{background:inherit;width:100%;border:1px solid #ddd;font-size:16px;margin:1.3rem 0;}#oznamy .card-announcement h3{font-size:19px;color:#000 !important;margin-bottom:5px;margin-top:11px;}#oznamy .card-announcement h3.card-date{font-size:2.5rem;margin-top:2.5rem;}#oznamy .card-announcement h3.card-header{padding:0 !important;}#oznamy .card-announcement .card-content{display:flex;height:10rem;overflow:hidden;}#oznamy .card-announcement .card-content .col{padding:1rem;}#oznamy .card-announcement .card-content p{font-size:14px;padding:0 !important;}@media only screen and (max-width:767px){#oznamy .card-announcement .card-content h3.card-header{text-align:left !important;}}.announcement-list-item{margin:35px 0;}.announcement-list-item a{color:#0266b3;text-decoration:none;}.announcement-list-item a:hover{color:#035796;}.announcement-list-item h2{margin:5px 0 10px 0;}.announcement-list-item .body{line-height:1.4;max-height:calc(1em*1.4*3);}.continue-reading{margin-top:10px;}.continue-reading a{background:#f1f1f1;color:#000;}.continue-reading a:hover,.continue-reading a:focus{color:#fff;background-color:#0266b3;}.announcement-detail h2{margin-bottom:10px;}.announcement-detail hr{margin-top:10px;}
+</style>
+
+</div>
+
+<div id="oznamy">
+             <a href="/cms/obchodovanie-na-trhovisku">
+    <div class="card-announcement text-black">
+        <div class="card-content">
+            <div class="col" style="flex:1;background-color: #f0f9ff;">
+                <h3 class="card-date text-center">28.10.</h3>
+            </div>
+            <div class="col" style="flex:5; overflow: hidden;">
+                <h3 class="card-header text-left line-clamp line-clamp-1">Obchodovanie na trhovisku</h3>
+                <p class="line-clamp line-clamp-2">Od 3.11.2022  môžete na trhovisku bežne dostupné tovary a služby obstarať už za 120 hodín!</p>
+            </div>
+        </div>
+    </div>
+</a>
+             <a href="/cms/zmeny-na-elektronickom-trhovisku">
+    <div class="card-announcement text-black">
+        <div class="card-content">
+            <div class="col" style="flex:1;background-color: #f0f9ff;">
+                <h3 class="card-date text-center">27.10.</h3>
+            </div>
+            <div class="col" style="flex:5; overflow: hidden;">
+                <h3 class="card-header text-left line-clamp line-clamp-1">Zmeny na elektronickom trhovisku</h3>
+                <p class="line-clamp line-clamp-2">dňa 3.11.2022 nadobudnú účinnosť nové&nbsp;Obchodné podmienky Elektronickej platformy (OPEP)</p>
+            </div>
+        </div>
+    </div>
+</a>
+             <a href="/cms/trhovisko-pokracuje-ako-sucast-elektronickej-platformy-aj-po-30-6-2022">
+    <div class="card-announcement text-black">
+        <div class="card-content">
+            <div class="col" style="flex:1;background-color: #f0f9ff;">
+                <h3 class="card-date text-center">01.07.</h3>
+            </div>
+            <div class="col" style="flex:5; overflow: hidden;">
+                <h3 class="card-header text-left line-clamp line-clamp-1">Trhovisko pokračuje ako súčasť elektronickej platformy aj po 30.6.2022!</h3>
+                <p class="line-clamp line-clamp-2">Elektronické trhovisko (ET), ktoré je súčasťou Elektronickej platformy v správe Úradu vlády, je plne funkčné aj po 30.6.2022. </p>
+            </div>
+        </div>
+    </div>
+</a>
+             <a href="/cms/nove-financne-limity-vo-verejnom-obstaravani">
+    <div class="card-announcement text-black">
+        <div class="card-content">
+            <div class="col" style="flex:1;background-color: #f0f9ff;">
+                <h3 class="card-date text-center">01.01.</h3>
+            </div>
+            <div class="col" style="flex:5; overflow: hidden;">
+                <h3 class="card-header text-left line-clamp line-clamp-1">Nové finančné limity vo verejnom obstarávaní</h3>
+                <p class="line-clamp line-clamp-2">s&nbsp;účinnosťou od 01.01.2022 ako aj s účinnosťou od&nbsp;31.03.2022 dochádza k&nbsp;zmenám finančných limitov.</p>
+            </div>
+        </div>
+    </div>
+</a>
+    
+    <div class="text-center">
+        <a href="/cms/ZoznamClankov" class="text-underline color-gray-dark">Zobraziť všetky oznamy</a>
+    </div>
+</div>
+
+            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- STATISTIKY A UDAJE ET -->
+
+    <div class="section bg-pattern-1">
+        <div class="container-fluid">
+            <h1 class="text-center">Štatistiky a otvorené údaje<br>elektronického trhoviska</h1>
+
+            <div class="col-lg-9 mx-auto">
+                <div class="row equal">
+
+                    <a href="https://portal.eks.sk/reporty/Home/StatistikyObchodovania">
+                        <div class="col-md-6">
+                            <div class="card-blue">
+                                <div class="row">
+                                    <div class="col-md-4 text-center">
+                                        <i class="eks-icon-statistiky icon-large"></i>
+                                        <h4>Štatistiky elektronického trhoviska</h4>
+                                    </div>
+                                    <div class="col-md-8 larger-p">
+                                        <p>
+                                            Cez Elektronické trhovisko bolo od jeho vzniku zazmluvnených takmer 100.000 obchodov v celkovej sume prevyšujúcej <span class="text-nowrap">1 miliardu Eur.</span> Pozrite si štatistiky elektronického trhoviska.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                    <a href="https://portal.eks.sk/Reporty/OtvoreneUdaje">
+                        <div class="col-md-6">
+                            <div class="card-blue">
+                                <div class="row">
+                                    <div class="col-md-4 text-center">
+                                        <i class="eks-icon-otvorene-udaje icon-large"></i>
+                                        <h4>Otvorené<br>údaje</h4><br />
+                                    </div>
+                                    <div class="col-md-8 larger-p">
+                                        <p>
+                                            Stiahnite si historické údaje obchodov elektronického trhoviska vo formáte CSV a vytvorte si štatistiky a porovnania aké potrebujete.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </a>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="container-fluid">
+            <h1 class="text-center">Napojenie na európske projekty</h1>
+            <div class="col-lg-10 mx-auto text-black">
+
+                <a href="https://jed.eks.sk">
+                    <div class="col-md-4">
+                        <div class="col-lg-7 mx-auto">
+                            <img src="/EKSLayout/Images/Homepage/espd.png" class="img-responsive mx-auto img-responsive-logo">
+                        </div>
+                        <p class="mt-5 text-center">
+                            Využite možnosť vytvoriť jednotný európsky dokument a odpovede naň prostredníctvom systému EKS.
+                        </p>
+                    </div>
+                </a>
+
+                <a href="https://portal.eks.sk/SpravaZakaziek/Zakazky/ObchodnePrilezitosti">
+                    <div class="col-md-4">
+                        <div class="col-lg-7 mx-auto">
+                            <img src="/EKSLayout/Images/Homepage/tenders-for-all.png" class="img-responsive mx-auto img-responsive-logo">
+                        </div>
+                        <p class="mt-5 text-center">
+                            Uľahčite si prácu pri vyhľadávaní verejných obstarávaní v rámci EU. Vďaka projektu automatických prekladov máte zahraničné zákazky na dosah.
+                        </p>
+                    </div>
+                </a>
+
+                <a href="https://www.eks.sk//content/files/euronovinky/e_certis_SK.pdf">
+                    <div class="col-md-4">
+                        <div class="col-lg-7 mx-auto">
+                            <img src="/EKSLayout/Images/Homepage/ecertis.png" class="img-responsive mx-auto img-responsive-logo">
+                        </div>
+                        <p class="mt-5 text-center">
+                            Nástroj na identifikáciu potvrdení vystavených v súvislosti s postupmi verejného obstarávania naprieč EÚ.
+                        </p>
+                    </div>
+                </a>
+
+            </div>
+        </div>
+    </div>
+
+
+    <!-- PODPORA -->
+    <div class="section bg-pattern-2" id="podpora">
+        <div class="container-fluid">
+            <h1 class="text-center">Podpora</h1>
+
+            <div class="col-lg-6 mx-auto">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card-blue podpora-card">
+
+                            <h3>
+                                <i class="eks-icon-podpora"></i>
+                                <span class="text-nowrap">Centrum podpory</span> EKS
+                            </h3>
+                            <div class="larger-p-support">
+                                <br /><br />
+                                <p class="text-center">
+                                    <b>Telefón</b><br />+421 2 200 95 200
+                                </p><br />
+                                <p class="text-center">
+                                    <b>Email</b><br /><a href="mailto:etrhovisko@vicepremier.gov.sk">etrhovisko@vicepremier.gov.sk</a>
+                                </p><br />
+                                <p class="text-center">
+                                    <b>Adresa</b><br />
+                                    Tomášikova 14366/64A<br />
+									831 04 Bratislava
+                                </p>
+                                <br /><br /><br />
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6">
+                        <a href="https://www.eks.sk//Stranka/VideoPrehlad" class="none-decoration">
+                            <div class="card-blue">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <h3><i class="eks-icon-videa"></i></h3>
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <h3 class="text-left">
+                                            Videá
+                                        </h3>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </a>
+                        <a href="https://www.eks.sk//Stranka/OtazkyAOdpovede" class="none-decoration">
+                            <div class="card-blue">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <h3><i class="eks-icon-otazky-odpovede"></i></h3>
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <h3 class="text-left">
+                                            Otázky a odpovede
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        <a href="https://www.eks.sk//Stranka/BasicInformation" class="none-decoration">
+                            <div class="card-blue">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <h3><i class="eks-icon-english-information"></i></h3>
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <h3 class="text-left">
+                                            English information
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+                        
+                        <a href="https://www.eks.sk//Stranka/Novinky" class="none-decoration">
+                            <div class="card-blue">
+                                <div class="row">
+                                    <div class="col-sm-3">
+                                        <h3><i class="eks-icon-novinky"></i></h3>
+                                    </div>
+                                    <div class="col-sm-9">
+                                        <h3 class="text-left">
+                                            Novinky
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        //inicializacia aktivneho slide
+        $(".item:first").addClass("active");
+        $(".carousel-indicators li:first").addClass("active");
+    });
+
+	$('a[href*="#podpora"]')
+		.click(function (event) {
+			// On-page links
+			if (
+				location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '')
+				&&
+				location.hostname == this.hostname
+			) {
+				// Figure out element to scroll to
+				var target = $(this.hash);
+				target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+				// Does a scroll target exist?
+				if (target.length) {
+					// Only prevent default if animation is actually gonna happen
+					event.preventDefault();
+					$('html, body').animate({
+						scrollTop: target.offset().top
+					}, 1000, function () {
+					});
+				}
+			}
+		});
+
+	$("#menu-toggle").click(function (e) {
+		$(".circle__content i").toggleClass("w_sidebar");
+		$(".circle__content .number").toggleClass("w_sidebar");
+		$(".circle__content h3").toggleClass("w_sidebar");
+	});
+    var odmPocetObjednavatelov = new Odometer({ el: $('#odmPocetObjednavatelov')[0], value: 0, animation: 'count', theme: 'default', format: '( ddd).dd' });
+    var odmPocetDodavatelov = new Odometer({ el: $('#odmPocetDodavatelov')[0], value: 0, animation: 'count', theme: 'default', format: '( ddd).dd' });
+    var odmPocetZakaziek = new Odometer({ el: $('#odmPocetZakaziek')[0], value: 0, animation: 'count', theme: 'default', format: '( ddd).dd' });
+	odmPocetObjednavatelov.update(6801);
+    odmPocetDodavatelov.update(21320);
+    odmPocetZakaziek.update(235525);
+</script>
+        </div>
+
+            </div>
+
+    
+    <div class="modal fade" id="mdlChybyValidacie" tabindex="-1" role="dialog" aria-labelledby="lblModalChybyValidacie" aria-hidden="true">
+  <div class="modal-dialog" id="mdlDlgChybyValidacie">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Zatvoriť</span></button>
+        <h4 class="modal-title">Zoznam chýb</h4>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-danger phZoznamChyb" style=" margin-bottom:0;">
+        </div>
+        <div class="alert alert-warning phZoznamVarovani eks-topspace-lg" style=" margin-bottom:0; display: none;">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Zatvoriť</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script>
+  var ModalChybyValidacie = (function () {
+
+    function ModalChybyValidacie(elementId) {
+      this.elementId = elementId || "#mdlChybyValidacie";
+    }
+
+    ModalChybyValidacie.prototype.ClearErrors = function () {
+      $(this.elementId).find('.phZoznamChyb').empty().hide();
+      $(this.elementId).find('.phZoznamVarovani').empty().hide();
+    }
+
+    ModalChybyValidacie.prototype.ShowErrors = function (errorList) {
+      $(this.elementId).find('.phZoznamChyb').empty().show();
+      this.ShowMessages(errorList, '.phZoznamChyb');
+    }
+
+    ModalChybyValidacie.prototype.ShowWarnings = function (messageList) {
+      $(this.elementId).find('.phZoznamVarovani').empty().show();
+      this.ShowMessages(messageList, '.phZoznamVarovani');
+    }
+
+    ModalChybyValidacie.prototype.ShowMessages = function (errorList, containerSelector) {
+      var mdl = $(this.elementId);
+      var ph = $(mdl).find(containerSelector);
+
+      if (typeof errorList === 'string') {
+        ph.html(errorList);
+      }
+      else {
+        var ul = $('<ul />');
+
+        $.each(errorList, function (index, msg) {
+
+          var li = $('<li />')
+            .css('padding-bottom', "5px")
+            .html(msg);
+
+          ul.append(li);
+        });
+
+        ph.append(ul);
+      }
+
+      mdl.modal('show');
+    }
+
+
+    return ModalChybyValidacie;
+
+  })();
+
+  window.ModalChybyValidacie = new ModalChybyValidacie("#mdlChybyValidacie");
+</script>
+    </div>
+
+    <script src="/bundles/ekslayout/toastr?v=S7RpAX9EFIzmIk3aDamimt68jCbGwoJ3LiY4B1VLOT01"></script>
+
+    <script src="/bundles/ekslayout/footer?v=pNFGsi0tFki6r1GOQOVGAQ1yDxHGpZifE7TUGjvb1K41"></script>
+
+
+    
+    <script src="/bundles/ButtonProgress?v=vjNS8CGHS0SAFmMcMjUNLKP6jqXAxWlUxFgJd9M8Gf41"></script>
+
+
+    <script>
+        var eksWebURL = 'https://www.eks.sk/';
+        var GlobalRootPath = 'https://www.eks.sk/';
+    </script>
+
+    <script>
+        var DisplayDateTimeFormat = "dd.MM.yyyy HH:mm";
+
+        function format(o, t) {
+            if (o === undefined || o === null || o === '') {
+                return '';
+            }
+            return Globalize.format(o, t);
+        };
+
+    </script>
+
+    
+    
+
+    <script type="text/plain" data-type="application/javascript" data-name="analytics">
+        function getCookie(cname) {
+            var name = cname + "=",
+            ca = document.cookie.split(';'),
+            i,
+            c,
+            ca_length = ca.length;
+            for (i = 0; i < ca_length; i += 1) {
+                c = ca[i];
+                while (c.charAt(0) === ' ')
+                { c = c.substring(1); }
+                if (c.indexOf(name) !== -1)
+                { return c.substring(name.length, c.length); }
+            }
+            return "";
+        }
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-52322426-1', 'auto');
+        var dimensionValue = getCookie('eks_subject_typ');
+        ga('send', 'pageview',{ 'dimension1': dimensionValue });
+    </script>
+
+
+
+    
+
+<div id="modal__elektronizacia" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="guid__BwU9pfyEDU6bOs5geAUreg" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="guid__BwU9pfyEDU6bOs5geAUreg" style="color: #0266b3;"><img src="/EKSLayout/Images/EKS_Logo2.png" alt="EKS" style="width: 70px;" />&nbsp;&nbsp;Elektronizácia verejného obstarávania</h4>
+            </div>
+            <div class="modal-body" style="color: #333;">
+                <p>
+                    Vážený používateľ,
+                </p>
+                <p>
+                    v súvislosti s povinnosťou elektronizácie verejného obstarávania od 18.10.2018 a zároveň s cieľom vylepšenia používateľského komfortu sme pre vás pripravili novú verziu systému EKS, ktorá so sebou prináša:
+                </p>
+                <ul>
+                    <li>
+                        Elektronizáciu verejného obstarávania
+                    </li>
+                    <li>
+                        Nový dizajn systému EKS
+                    </li>
+                    <li>
+                        Nové funkcionality systému EKS
+                    </li>
+                </ul>
+                <div class="text-center" style="margin-top: 15px; margin-bottom: -15px;">
+                    <button type="button" id="btn__elektronizacia-info" class="btn btn-sm btn-success ladda-button"><span class="ladda-label"><i class="glyphicon glyphicon-new-window"></i>&nbsp;Zobraziť podrobnosti</span></button>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="text-center" style="margin-bottom: 1px;">
+                    <button style="margin-top: 1px;" type="button" id="btn__elektronizacia-nepripominat" class="btn btn-sm btn-default"><i class="glyphicon glyphicon-ban-circle"></i>&nbsp;Nepripomínať</button>
+                    <button style="margin-top: 1px;" type="button" id="btn__elektronizacia-neskor" class="btn btn-sm btn-default ladda-button"><span class="ladda-label"><i class="glyphicon glyphicon-time"></i>&nbsp;Pripomenúť neskôr</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).on("click", "#btn__elektronizacia-info", function (event) {
+        EKSLayout.LayoutCookie.ConfirmLayoutReminder("https://eo.eks.sk/Rozcestnik/Elektronizacia");
+        EKSLayout.Helpers.StartLadda(event.target);
+    });
+    $(document).on("click", "#btn__elektronizacia-neskor", function (event) {
+        EKSLayout.LayoutCookie.ConfirmLayoutReminder();
+    });
+    $(document).on("click", "#btn__elektronizacia-nepripominat", function () {
+        EKSLayout.LayoutCookie.CancelLayoutReminder();
+    });
+</script>
+    
+
+<style>
+    h2, h4 {
+        color: #0266b3;
+    }
+
+    body {
+        color: #333;
+    }
+
+    .bootbox-autentifikacia .modal-body:first-child {
+        padding: 0px
+    }
+</style>
+<script type="text/template" id="modal__autentifikacia">
+    <div class="modal-header" style="padding: 8px;min-height: 70px;">
+        <div class="col-lg-3">
+            <img src="/EKSLayout/Images/EKS_Logo2.png" alt="EKS" style="width: 100px;">
+        </div>
+        <div class="col-lg-9">
+            <h4 class="modal-title" id="339b36b6-9b20-4df9-87b1-4ca2a42b8b53" style="font-size: 20px;">Prihlásenie v systéme EKS vypršalo</h4>
+
+            <p>
+                Prihláste sa prosím znovu a môžete pokračovať v práci.
+            </p>
+        </div>
+    </div>
+    <div class="modal-body">
+        <form id="login_form" method="post">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="form-group">
+                        <label class="eks-required">Používateľské meno</label>
+                        <input type="text" class="form-control" id="UserName" name="UserName" data-msg="Povinný údaj" value="" required>
+                    </div>
+                    <div class="form-group">
+                        <label class="eks-required">Heslo</label>
+                        <input type="password" class="form-control" id="Password" name="Password" data-msg="Povinný údaj" value="" required>
+                    </div>
+                </div>
+
+            <div class="clearfix"></div>
+            <div class="text-center" style="margin-bottom: 1px; margin-top: 10px;">
+                <button type="button" class="btn btn-md btn-default" data-dismiss="modal">Zatvoriť</button>
+                <button type="submit" id="btn_Prihlasit_Modal" class="btn btn-md btn-primary ladda-button" data-style="zoom-in">
+                    <span class="ladda-label">
+                        Prihlásiť sa
+                    </span>
+                </button>
+            </div>
+            <div class="text-center">
+                <a href="https://iam.eks.sk/Account/ForgotPassword" class="btn btn-link">Zabudol som heslo</a>
+            </div>
+        </form>
+    </div>
+</script>
+
+<script>
+    $(document).ready(function () {
+        var url = 'https://iam.eks.sk';
+
+        $(document).on("submit", "#login_form", function (event) {
+            event.preventDefault();
+
+            if ($("#login_form").valid()) {
+                $.ajax({
+                    type: 'POST',
+                    url: url + "/Account/LoginFromModal",
+                    data: $("#login_form").serialize(),
+                    beforeSend: function() {
+                        if (typeof Ladda === "object") {
+                            Ladda.create(document.getElementById("btn_Prihlasit_Modal")).start();
+                        }
+                    },
+                    success: function (data) {
+                        if (data && data.Errors && data.Errors.length > 0) {
+                            toastr.error(data.Errors[0]);
+                        }
+                        else if (data && data.Toastr && data.Toastr.length > 0) {
+                            data
+                                .Toastr
+                                    .filter(function(x) { return x.IsError; })
+                                    .map(function(x) { toastr.error(x.Message); });
+                        }
+                        else {
+                            var subjectPartyId = 0;
+                            var pocetSubjektov = 0;
+                            var pouzivatelHasId = false;
+                            
+                            if ((subjectPartyId != 0) || ((pocetSubjektov == 0) && (pouzivatelHasId))) {
+                                $(".bootbox-autentifikacia").modal("hide");
+                            }
+                            else {
+                                window.location.href = url + "/Account/SubjectChoice";
+                            }
+                        }
+                    },
+                    error: function (data) {
+                        toastr.error("Nesprávne používateľské meno alebo heslo.");
+                    },
+                    complete: function () {
+                        if (typeof Ladda === "object") {
+                            Ladda.create(document.getElementById("btn_Prihlasit_Modal")).stop();
+                        }
+                    }
+                });
+            }
+            return false;
+        });
+    });
+</script>
+
+
+
+    <script>
+        EKSLayout.Config = {
+            EksBaseDomain: ".eks.sk",
+            IdPouzivatel: "0"
+        };
+
+        $.ajaxSetup({
+            xhrFields: {
+                withCredentials: true
+            },
+            headers: { "X-Requested-With": "XMLHttpRequest" }
+        });
+
+		// ZATVARANIE MENU KED SA KLIKNE MIMO MENU
+		$('.new-body-wrapper').click(function (e) {
+			if ($('.eks-main-menu').hasClass('in')) {
+				e.preventDefault();
+				$('#layout--header-new .navbar-collapse').collapse('hide')
+			}
+		});
+
+        function setMenuCookie(value) {
+		    $.cookie('menu', value, { path: '/', domain: '.eks.sk' });
+	    }
+
+	    if (!$.cookie('menu')) {
+		    if (window.matchMedia('(max-width: 767px)').matches) {
+			    setMenuCookie(0);
+		    } else {
+			    setMenuCookie(1);
+		    }
+	    }
+
+	    if ($.cookie('menu') == 0) {
+		    $('.hideable-text').hide();
+	    } else {
+		    if ($('#sidebar a').hasClass('active')) {
+			    $('#sidebar a.active').parents('ul').collapse();
+            }
+            //ak sme v kontexte zakazky
+            $('.nav--zakazka ul').filter(function(i,e) { return $(e).prev().is(".active") || $(e).find(".active").length > 0 }).collapse('show');
+        }
+
+        //odsadenie menu
+        if ($('#new-wrapper').length) {
+            if (!$('#new-wrapper').hasClass('toggled')) {
+                //$('.navbar-header').css('width', '234px');
+                $('.container-body').css('margin-left', '16rem');
+
+            } else {
+                //$('.navbar-header').css('width', '364px');
+                $('.container-body').css('margin-left', '4rem');
+            }
+        }
+
+	    $("#menu-toggle").click(function (e) {
+            e.preventDefault();
+
+		    $("#new-wrapper").toggleClass("toggled");
+		    $("#sidebar-menu-fix").toggleClass("layout-menu-div-fix-open");
+		    $('.hideable-text').toggle();
+
+		    if (!$('#new-wrapper').hasClass('toggled')) {
+			    setMenuCookie(0);
+                $('#sidebar ul ul.in').collapse('hide');
+                //$('.navbar-header').css('width', '234px');
+                $('.container-body').css('margin-left', '16rem');
+
+		    } else {
+			    setMenuCookie(1);
+			    if ($('#sidebar a').hasClass('active')) {
+				    $('#sidebar a.active').parents('ul').collapse();
+			    }
+			    //ak sme v kontexte zakazky
+                $('.nav--zakazka ul').filter(function (i, e) { return $(e).prev().is(".active") || $(e).find(".active").length > 0 }).collapse('show');
+                //odsadenie menu
+                //$('.navbar-header').css('width', '364px');
+                $('.container-body').css('margin-left', '4rem');
+		    }
+	    });
+
+	    $("#menu-toggle-mobile").click(function (e) {
+		    e.preventDefault();
+		    $("#new-wrapper").toggleClass("toggled");
+		    $("#sidebar-menu-fix").toggleClass("layout-menu-div-fix-open");
+		    $('.hideable-text').toggle();
+	    });
+
+	    $('#sidebar > ul > li > a, .new-subjekt > ul > li > a').click(function (e) {
+            $('#sidebar ul ul.in').collapse('hide')
+        });
+
+	    $('#sidebar li').click(function (e) {
+		    if (!$('#new-wrapper').hasClass('toggled')) {
+			    $("#new-wrapper").addClass("toggled");
+			    $("#sidebar-menu-fix").addClass("layout-menu-div-fix-open");
+                //$('.navbar-header').css('width', '364px');
+                $('.container-body').css('margin-left', '4rem');
+			    $('.hideable-text').show();
+			    setMenuCookie(1);
+		    }
+	    });
+
+        
+	    
+
+        //Potvrdenie alertu pre odstavku systemu
+        if ($("#odstavka-alert").length) {
+            $('.new-body-wrapper').css('top', '120px');
+            $('.menu-fixed-button').css('top', '120px');
+        }
+
+        //$('#btn-close-alert').click(function (e) {
+        //   $('.new-body-wrapper').css('top', '80px');
+        //   setOdstavkaCookie(1);
+        //});
+
+        
+    
+    </script>
+
+
+
+</body>
+</html>

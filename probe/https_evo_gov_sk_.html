@@ -1,0 +1,197 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"  "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta name="robots" content="noindex">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" href="/evo/ethics.nsf/client/evo/public.css" type="text/css">
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+<script>var path2ethics = ''</script>
+<link rel="stylesheet" type="text/css" href="/evo/ethics.nsf/tableSorter.css">
+<title>Portál EVO</title>
+
+<link rel="stylesheet" href="/evo/ethics.nsf/client/evo/public.css" type="text/css">
+<script type="text/javascript">var lang = "sk"</script>
+<script type="text/javascript">var browserRedirect = "notsupportedPublic?ReadForm&nosupport=browser"</script>
+<script type="text/javascript">var paging = "200"</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+$(document).ready(function () {	//First remove the text that says that this browser does not support javascript	$('#ViewBody2').html('');		var t = Math.random();	var url = 'getPublicTenders2?openagent&lang=' + lang + '&text=' + gup("text") + '&tt=' + t;		var done = function() {		if (!window.attachEvent || window.addEventListener) {		//if (!($.browser.msie && parseFloat($.browser.version) < 9.0)) {			$("#ViewContent").tablesorter({				dateFormat : "ddmmyyyy", // set the default date format 				headers: { 					0: { 						// disable it by setting the property sorter to false 						sorter: false 					},					1: { sorter:"text" },					4: { sorter:"text" },					8: { sorter:"shortDate"}				},				textExtraction: function(node) {                   		return node.innerHTML;                	} 			});		}	}		if (paging) {		var page = 0;		success = function(data, status, jqXHR) {			var status = jqXHR.getResponseHeader("X-Page-Status");			if (status == "1") {				done();			} else {				$('#ViewBody2').append(data);				page = page + 1;				$.get(url + "&page=" + page + "&pageSize=" + paging, { } , success);			}		};		$.get(url + "&page=" + page + "&pageSize=" + paging, { } , success);	} else {		$.get(url, { } , function(data, status, jqXHR) {			$('#ViewBody2').html(data);			done();		});	}});
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+jQuery(document).ready(function () {	$("#public_legend").click(function() { $(".legend").toggle(); });})
+
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+var showRows = new Array();function Search(form, id, q , afterDate , beforeDate, dateType) {	var cTime = new Date();	var url;	var counter = 0;	$(id).hide();	//dateType = (dateType == '') ? 'DeadlineSearch' : dateType;	var dateTypeBefore = '&' + dateType + 'Before=';	var dateTypeAfter = '&' + dateType + 'After=';	$('#headerRow').show();	//url = 'searchTenders?OpenAgent&form=' + form + '&q=' + q + '&deadlineBefore=' + beforeDate + '&deadlineAfter=' + afterDate + '&t=' + cTime;	url = 'searchTenders?OpenAgent&form=' + form + '&q=' + q + '&dateType=' + dateType + '&dateAfter=' + afterDate + '&dateBefore=' + beforeDate + '&t=' + cTime;	//alert(url);		$.ajax({		url: url,		dataType: "script",		cache: false,		async: false,		success: function(data){			if (showRows[0] == 'No documents found') {				//alert($('#noDocumentsFound').text());				$('#resultLength').text($('#noDocumentsFound').text()).css({'color' : 'red' , 'font-weight' : 'bold'});				$('#showResultLength').show();				$(id).hide();				$('#resetButton').show();			} else {				$.each(showRows, function(index, value) { 					id = "#" + value;					if ($(id).text() != '') {						counter += 1;						$(id).show();					}				});				$('#resetButton').show();				$('#resultLength').text(counter + ' ' + $('#resultLengthText').text()).css({'color' : 'black' , 'font-weight' : 'bold'});				$('#showResultLength').show();			}		}	});}function ResetSearch(id) {	$(id).show();	$('#resultLength').text('');	$('#dateBefore').val('');	$('#dateAfter').val('');	$('#searchField').val('');		$('#showResultLength').hide();}$(document).ready(function() {	if ( $('#formToSearch').text() == "Auction") {$('.hideFromAuctions').hide();}	$('#searchFields').hide();	$('#hideSearchFields').hide();	$("#searchField").keyup(function(event){		if(event.keyCode == 13){     		$("#searchButton").click();    		}	});	$("#dateBefore").keyup(function(event){		if(event.keyCode == 13){     		$("#searchButton").click();    		}	});	$("#dateAfter").keyup(function(event){		if(event.keyCode == 13){     		$("#searchButton").click();    		}	});	$('#showSearchFields a').click(function(event) {		event.preventDefault();		$('#searchFields').show();		$('#resetButton').hide();		$('#showSearchFields').hide();		$('#hideSearchFields').show();		$('#showResultLength').hide();	});	$('#hideSearchFields a').click(function(event) {		event.preventDefault();		$('#ViewContent tr').show();		$('#dateBefore').val('');		$('#dateAfter').val('');		$('#searchField').val('');		$('#searchFields').hide();		$('#resetButton').hide();		$('#showSearchFields').show();		$('#hideSearchFields').hide();			});})
+
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" onload="/*	if (redirectTo != '') {		if (redirectTo.indexOf('http') == -1) {			redirectTo = 'http://' + redirectTo;		}		window.location.href =  redirectTo ;		return;	}*/">
+<!-- Setup: evo\user.nsf -->
+<!-- HTTP_Accept_Language:  -->
+<!-- Lang: sk -->
+<!-- UserNamesList: Anonymous
+* -->
+<!--UNID: 88C74D0FAC32AFD5C1258E9500794EE9-->
+<div id="header" class="container_12 clearfix" style="width:100%">
+  <div id="topleft" class="grid_3">&nbsp; </div>
+  <div id="servicemenu" class="grid_9 autoWidth">
+</div>
+</div>
+<div id="content" class="container_12 clearfix" style="width:100%">
+  <div id="menucontainer" class="grid_3">
+  <div id="logo"> </div>
+  <ul id="menu" class="InsideMenuColumn">
+  <li id="MenuInternalETHICS" class="mainMenuInactive"><a href="/evo/ethics.nsf/homepage">Interný systém EVO</a></li>
+  <li id="MenuNetTendering" class="mainMenuInactive"><a href="/evo/ethics.nsf/public_tenders2!OpenView">Portál EVO</a></li>
+  <li id="MenuAuctionOverview" class="mainMenuInactive"><a href="/evo/ethics.nsf/public_auctions?OpenView">Prehľad eAukcií</a></li>
+  <li id="MenuNews" class="mainMenuInactive"><a href="http://www.uvo.gov.sk/verejny-obstaravatel-obstaravatel/oznamy-evo-472.html">Oznamy</a></li>
+  <li id="MenuRegistration" class="mainMenuInactive"><a href="https://evo.gov.sk/RegistraciaEX.html">Ako sa zaregistrovať</a></li>
+  <li id="MenuUserGuidesC" class="mainMenuInactive"><a href="http://www.uvo.gov.sk/verejny-obstaravatel-obstaravatel/portal-systemu-evo-/prirucky-a-odporucania-pre-system-evo-3e7.html">Príručky pre VO/O </a></li>
+  <li id="MenuUserGuidesV" class="mainMenuInactive"><a href="http://www.uvo.gov.sk/zaujemcauchadzac/portal-systemu-evo-/prirucky-a-odporucania-pre-system-evo-3e8.html">Príručky pre Z/U</a></li>
+  <li id="MenuFAQ" class="mainMenuInactive"><a href="http://www.uvo.gov.sk/zaujemcauchadzac/portal-systemu-evo-/faq-3ea.html">FAQ</a></li>
+  <li id="MenuerrorReport" class="mainMenuInactive"><a href="http://www.uvo.gov.sk/verejny-obstaravatel-obstaravatel/portal-systemu-evo-/instrukcie-pre-hlasenie-chyb-a-poruch-systemu-evo-4ab.html">Hlásenie porúch</a></li>
+  </ul>
+<script type="text/javascript"><!--
+if (document.getElementById) {
+	var element = document.getElementById('MenuHomePage');
+	if (element != null) {
+		element.className=element.className.replace('Inactive', 'Active');
+	}
+}
+// --></script>
+  </div>
+    
+  <div id="contentcontainer" class="grid_9 autoWidth">
+    <h1><span class="tendername">ETHICS</span><br/>Portál EVO</h1>
+<p><span class="contextlinks"><a href="/evo/ethics.nsf/public_tenders2!OpenView&amp;text=true" id="vpublic_tenders.menu.text">Textový mód</a>&nbsp;</span></p>
+<script language="JavaScript" type="text/javascript">
+<!--
+$(document).ready(function () {
+	if (window.attachEvent && !window.addEventListener) {
+		window.location = browserRedirect;
+	}
+});
+// -->
+</script>
+<div id="Guidance1div"><a name='Guidance1'></a><div><p><span style="color: #ff0000; font-size: medium;"><strong>UPOZORNENIE:</strong></span></p>
+<p><span style="color: #ff0000; font-size: small;"><strong>Zákazky vyhlásené v IS EVO po 18. 10. 2018 nájdete na adrese <a href="https://www.uvo.gov.sk/vyhladavanie-zakaziek-4dd.html">https://www.uvo.gov.sk/vyhladavanie-zakaziek-4dd.html</a>.</strong></span></p>
+<p><span style="color: #ff0000; font-size: small;"><strong>Účty vytvorené v IS EVO ver. 11.01 (staršia verzia) nie je možné použiť v IS EVO ver. 18.0. Je potrebné si vytvoriť nový účet: <a href="https://www.uvo.gov.sk/registracia">https://www.uvo.gov.sk/registracia</a>. Pre podrobnejšie informácie <a href="https://www.uvo.gov.sk/extdoc/2547/prve_povinne_kroky_pred_odoslanim_ponuky_alebo_ziadosti_o_ucast">kliknite sem</a>. </strong></span></p>
+<p> </p>
+<p>Vitajte na portáli EVO!</p>
+<p>Portál EVO zobrazuje prehľad uskutočnených zákaziek.</p>
+<p><span style="text-decoration: underline;"><a href="#instrukcie2"><span style="color: #0066cc; text-decoration: underline;">Pre viac informácií kliknite sem.</span></a></span></p>
+<p><strong>Použité skratky </strong></p>
+<p>PO - Predbežné oznámenie                                 NL - Nadlimitná zákazka</p>
+<p>PIO - Pravidelné informatívne oznámenie             PL -  Podlimitná zákazka</p>
+<p>VO - Verejné obstarávanie                                  PP - Podprahová zákazka</p></div></div>
+<div id="public_legend"  style="position:fixed; right:20px; top:50px; background-color:white; border:1px solid black; cursor:pointer;">
+<div id="legendHeader" style="background-color:#333; color:#fff; padding:0 10px; text-transform:uppercase">Legenda<span class="legend" style="float:right; display:none">[X]</span></div>
+<table class="legend noborder" cellpadding="0" cellspacing="0" border="0" summary="" style="display:none">
+<tr valign="middle"><td style="border: solid 0 #e9e9e9; border-bottom-width:1px;"><img src="PublicIndicativeNotice.png" width="32" height="32" alt="PIN"/></td><td style="border: solid 0 #e9e9e9; border-bottom-width:1px;">&nbsp; = PO/PIO bez výzvy</td></tr>
+<tr valign="middle"><td><img src="PublicPrequalification.png" width="32" height="32" alt="CN"/></td><td>&nbsp; = Predkladanie dokladov (užšia súťaž/RKsZ)</td></tr>
+<tr valign="middle"><td><img src="PublicQS.png" width="32" height="32" alt="CN"/></td><td>&nbsp;  = Kvalifikačný systém (KS)</td></tr>
+<tr valign="middle"><td><img src="PublicDPS.png" width="32" height="32" alt="CN"/></td><td>&nbsp;  = Dynamický nákupný systém (DNS)</td></tr>
+<tr valign="middle"><td style="border: solid 0 #e9e9e9; border-top-width:1px;"><img src="PublicCallForCompetitionNotice.png" width="32" height="32" alt="PIN"/></td><td style="border: solid 0 #e9e9e9; border-top-width:1px;">&nbsp;  = PIO s výzvou na súťaž </td></tr>
+<tr valign="middle"><td><img src="PublicOpenProcedure.png" width="32" height="32" alt="CN"/></td><td>&nbsp;  = Predkladanie ponúk (verejná sútaž/podlimitná zákazka)</td></tr>
+<tr valign="middle"><td><img src="PublicRestrictedProcedure.png" width="32" height="32" alt="CN"/></td><td>&nbsp; = Predkladanie ponúk (užšia súťaž) </td></tr>
+<tr valign="middle"><td><img src="PublicNegotiatedProcedure.png" width="32" height="32" alt="CN"/></td><td>&nbsp;  = Predkladanie ponúk (RKsZ)</td></tr>
+<tr valign="middle"><td><img src="PublicCompetitiveDialogue.png" width="32" height="32" alt="CN"/></td><td>&nbsp;  = Súťažný dialóg</td></tr>
+<tr valign="middle"><td><img src="PublicQSRestrictedProcedure.png" width="32" height="32" alt="NA"/></td><td>&nbsp; = Predkladanie ponúk (Užšia súťaž/KS) </td></tr>
+<tr valign="middle"><td><img src="PublicQSNegotiatedProcedure.png" width="32" height="32" alt="NAN"/></td><td>&nbsp;  = Predkladanie ponúk (RKsZ/KS)</td></tr>
+<tr valign="middle"><td><img src="PublicDPSRestrictedProcedure.png" width="32" height="32" alt="CNN"/></td><td>&nbsp;  = Predkladanie ponúk (užšia súťaž/DNS)</td></tr>
+<tr valign="middle"><td style="border: solid 0 #e9e9e9; border-top-width:1px;"><img src="PublicAwardedContract.png" width="32" height="32" alt="CANN"/></td><td style="border: solid 0 #e9e9e9; border-top-width:1px;">&nbsp;  = Oznámenie o výsledku VO/Informácia o výsledku verejného obstarávania</td></tr>
+<tr valign="middle"><td><img src="PublicCanceledContract.png" width="32" height="32" alt="CORR/CT"/></td><td>&nbsp;  = Oznámenie o zrušení</td></tr>
+</table>
+</div>
+<h2><b>Najnovšie správy</b></h2><iframe class="announcement" src='https://evo.gov.sk/evo/announcement.html' width='100%' height='65px' frameBorder='0'></iframe><div style="float: left;">Inštrukcie: Kliknite na správu pre zobrazenie detailov</div><div style="float: right"><a target="_blank" href="http://www.uvo.gov.sk/verejny-obstaravatel-obstaravatel/oznamy-evo-472.html">Ďalšie správy...</a></div><br><br>
+<div id="formToSearch" style="display: none">TendersAndSystems</div>
+<div id="noDocumentsFound" style="display: none">Nenašli sa žiadne zhody - Prosím, skúste zopakovať vyhľadávanie..</div>
+<div id="showSearchFields" style="float: right"><a href="#">Zobraziť voľby vyhľadávania..</a></div>
+<div id="hideSearchFields" style="float: right; display: none;"><a href="#">Skryť voľby vyhľadávania..</a></div>
+<div id="resultLengthText" style="display: none">nájdené zhody</div>
+<div id="searchFields" style="display: none">
+<table><tr><td>
+<div style="margin-top: 5px; margin-left: 5px;">
+<div style="float: left; margin-left: 2px; width: 422px"><b>VYHĽADÁVANIE</b></div>
+<div class="hideFromAuctions" style="float: left; margin-left: 0px;"><b>LEHOTA</b></div>
+</div>
+<div style="clear: both; margin-top: 25px; margin-left: 5px;">
+<div style="float: left; margin-left: 2px; width: 422px">Kritériá textového vyhľadávania:</div>
+<div class="hideFromAuctions" style="float: left; margin-left: 0px; width: 136px">Po:</div>
+<div class="hideFromAuctions" style="float: left; margin-left: 0px;">Pred:</div>
+</div>
+<div style="clear:both; margin-top: 45px; margin-left: 5px;">
+<div style="float: left; width: 415px"><input type="text" name="Search" id="searchField" size="55"></div>
+<div style="float: left; margin-left: 7px; width: 116px">
+<input id="dateAfter" name="TenderDateAfter" value="" style="width: 110px;" size="14">
+</div>
+<div style="float: left; margin-left: 20px;">
+<input id="dateBefore" name="TenderDateBefore" value="" style="width: 110px;" size="14">
+</div>
+</div>
+<div style="clear:both; margin-top: 55px; margin-left: 5px;">
+<div style="float: left; margin-left: 423px; width: 117px; font-size: 80%"><i>Formát: 10/20/2026</i></div>
+<div style="float: left; margin-left: 20px; font-size: 80%"><i>Formát: 10/20/2026</i></div>
+</div>
+<div style="clear: both; height: 35px; margin-left: 5px;">
+<div style="float: left;"><button id="searchButton" type="button" onClick="Search('TendersAndSystems' , '#ViewContent tr' , 
+$('#searchField').val() , 
+$('#dateAfter').val() , $('#dateBefore').val() , 
+'DeadlineSearch'
+);">Vyhľadať</button></div>
+<div style="float: left;"><button id="resetButton" type="button" onClick="ResetSearch('#ViewContent tr');">Vynulovať</button></div>
+<div id="showResultLength" style="float: left; margin-left: 30px; margin-top: 2px"><span id="resultLength"></span></div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<br>
+<table border="0" cellpadding="0" cellspacing="0" id="ViewContent" class="tablesorter" summary="">
+<thead>
+<tr id="headerRow">
+<th colspan="4"> Stav</th>
+<th>
+Verejný obstarávateľ/Obstarávateľ
+</th>
+<th style="padding:0 3px">Limit</th>
+<th style="padding:0 3px">Č.zákazky</th>
+<th style="padding:0 3px">Názov zákazky </th>
+<th style="padding:0 3px">Lehota na registráciu </th>
+</tr>
+</thead>
+<tbody id="ViewBody2"><tr><td></td></tr>
+</tbody>
+</table>
+<div id="Guidance2div"><a name='Guidance2'></a><h2>Inštrukcie</h2><div><div id="instrukcie2">
+<p>Kliknutím na ikonku pri zákazke si môžete prečítať text súvisiaceho formuláru oznámenia a taktiež sa v prípade kliknutia na ikonku "<strong><span style="color: #333399;">Predkladanie dokladov (užšia súťaž/RKsZ)</span></strong>", "<strong><span style="color: #333399;">Predkladanie ponúk (verejná súťaž/podlimitná zákazka)</span></strong>", "<strong><span style="color: #333399;">Dynamický nákupný systém (DNS)</span></strong>" alebo "<strong><span style="color: #333399;">Kvalifikačný systém (KS)</span></strong>" môžete zaregistrovať a následne po schválení verejným obstarávateľom/obstarávateľom prihlásiť do zadávania zákazky.</p>
+<p>Kliknutím na ikonku "<strong><span style="color: #333399;">Predkladanie ponúk (užšia súťaž)</span></strong><span style="color: #000000;">", "<span style="color: #333399;"><strong>Predkladanie ponúk (RKsZ)</strong></span></span>", "<strong><span style="color: #333399;">Predkladanie ponúk (DNS)</span></strong>", "<span style="color: #333399;"><strong>Predkladanie ponúk (užšia súťaž/KS)</strong><span style="color: #000000;">"</span></span>, resp. "<strong><span style="color: #333399;">Predkladanie ponúk (RKsZ/KS)</span></strong>"  je možné sa <strong><span style="text-decoration: underline;">len prihlásiť</span></strong> do zadávania zákazky, v tejto fáze postupu zadávania zákazky už <span style="text-decoration: underline;"><strong>nie je možná registrácia</strong></span>. V prípade zákaziek zadávaných v rámci dynamického nákupného systému alebo kvalifikačného systému je potrebné sa zaregistrovať do dynamického nákupného systému, resp. kvalifikačného systému a v prípade splnenia podmienok na zaradenie do dynamického nákupného/kvalifikačného systému je možná účasť v zadávaní zákaziek v rámci dynamického nákupného/kvalifikačného systému. </p>
+<p>Pre správne zobrazenie portálu odporúčame používateľom použiť novšie verzie prehliadača Microsoft Internet Explorer (aspoň verziu 8) a nepoužívať nastavenie režimu kompatibilného zobrazenia so staršími verziami. <span style="text-decoration: underline;"><a href="http://www.evo.gov.sk/IEinfoEX.html"><span style="color: #0066cc;">Inštrukcie pre vypnutie režimu kompatibilného zobrazenia.</span></a></span></p>
+<p>Inštrukcie pre používanie Portálu EVO nájdete na stránke: <span style="text-decoration: underline;"><a href="http://www.uvo.gov.sk/zaujemcauchadzac/portal-systemu-evo-/prirucky-a-odporucania-pre-system-evo-3e8.html"><span style="color: #0066cc;">Príručky pre Z/U</span></a></span></p>
+<p>Informácie o ohlasovaní porúch systému používateľmi sú uvedené na stránke: <span style="text-decoration: underline;"><a href="http://www.uvo.gov.sk/verejny-obstaravatel-obstaravatel/portal-systemu-evo-/instrukcie-pre-hlasenie-chyb-a-poruch-systemu-evo-3eb.html"><span style="color: #0066cc;">Hlásenie porúch</span></a></span></p>
+</div></div></div>
+</div>
+</div>
+<div id="footer" class="container_12 clearfix"  style="width:100%; background-size:contain">
+    <div id="footercolumn1" class="grid_3 footercolumn"><img src="/evo/ethics.nsf/ethics_poweredby.png" alt="Site is powered by the ETHICS tendering engine"> 
+<p>Ver.<span class="version">11.01</span> developed by<br> <a href="http://www.innovasion.dk/" target="_blank">© [inno:vasion]</a></p>
+</div>
+    <div id="footercolumn2" class="grid_3 footercolumn"><!--<h2>Need help?</h2>--></div>
+    <div id="footercolumn3" class="grid_3 footercolumn"><!--<h2>Support</h2>--></div>
+    <div id="footercolumn4" class="grid_3 footercolumn"><!--<h2>Copyright</h2>--></div>
+</div>
+<script type="text/javascript" src="/evo/ethics.nsf/jquery.cookie.js"></script>
+<script type="text/javascript" src="/evo/ethics.nsf/jquery.tablesorter.min.js"></script>
+<script type="text/javascript" src="/evo/ethics.nsf/commonFunctions.js"></script>
+
+</body>
+</html>

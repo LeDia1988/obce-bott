@@ -1,0 +1,762 @@
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="msapplication-config" content="none" />
+    <meta name="keywords" content="elektronizacia obstaravania, verejne obstaravanie, VO, EKS, obchod" />
+    <meta name="eks-version" content="1.0.31.19 16.07.2026 08:51" />
+    <title>Prehľad z&#225;kaziek - Elektronický kontraktačný systém</title>
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400&amp;subset=latin-ext" rel="stylesheet">
+    <!--[if IE 9]>
+      <link href="~/Content/css_files/IE9/style-ie9.css" rel="stylesheet" type="text/css" >
+    <![endif]-->
+    <link rel="apple-touch-icon" href="/EKS/Layout/Content/iconified/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/EKS/Layout/Content/iconified/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/EKS/Layout/Content/iconified/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="/EKS/Layout/Content/iconified/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/EKS/Layout/Content/iconified/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="/EKS/Layout/Content/iconified/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/EKS/Layout/Content/iconified/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="/EKS/Layout/Content/iconified/apple-touch-icon-152x152.png" />
+    <link rel="icon" type="image/icon" href="/EKS/Layout/favicon.ico" />
+    <link href="/EKS/Layout/Content/css_all_2018?v=onz2RnMIEKOB60MQEvyPt8ycIuvGM-0h8SdGmSku6Zg1" rel="stylesheet"/>
+
+    <script src="/bundles/header?v=IE-qRl22-3SAZvKC3bS7uFrvpXJMsOcZe3qlhmmpvs41"></script>
+
+    
+    
+    <link rel="stylesheet" type="text/css" href="/ppvo2/component/datatablestiles/D17BB63216DA1C2A9D83A4F001F395E6.css?r=DE541E95E45C83407AE5406EE6C3E03B" />
+    
+    <script defer type='application/javascript' src='/EKS/EKSLayout/Component/Klaro/eks-config.js?v=1.0'></script>
+
+    <script defer type='application/javascript' src='/EKS/EKSLayout/Component/Klaro/klaro.js?v=0.7.18'></script>
+
+</head>
+<body>
+    <div class="eks-spinner"></div>
+
+
+    <div id="head">
+
+
+        
+    
+
+<nav id="layout--header-new">
+	
+
+
+<div class="container-fluid">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a id="menuLnkStaticEKS" class="navbar-brand" href="https://www.eks.sk">
+            
+        </a>
+    </div>
+
+    
+    
+
+
+
+<div class="navbar-sub pull-left">
+	<div class="navbar-collapse collapse eks-main-menu">
+		<ul class="nav navbar-nav" data-sm-skip="true">
+							<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<i class="eks-icon eks-icon-prehlady-registre"> </i>
+						Prehľady a registre <b class="caret"></b>
+					</a>
+					<ul class="dropdown-menu">
+										<li>
+					<a href="https://eo.eks.sk/Prehlady/ZakazkyVerejnost" id="menuLnkPrehladZakaziek">
+							<i class="eks-icon eks-icon-zakazka"> </i>
+						Prehľad z&#225;kaziek
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/Reporty/Home/StatistikyObchodovania" id="menuLnkEtStatistikyObchodovania">
+							<i class="eks-icon eks-icon-statistiky"> </i>
+						Štatistiky a &#250;daje ET
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaPonuk/Ponuky/VerejnyPrehladPonuk" id="menuLnkEtKatalogPonuk">
+							<i class="eks-icon eks-icon-katalog-ponuk"> </i>
+						Katal&#243;g pon&#250;k ET
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaZakaziek/Zmluvy/Prehlad" id="menuLnkEtCRZT">
+							<i class="eks-icon eks-icon-centralny-register-zmluv"> </i>
+						Centr&#225;lny register zml&#250;v trhoviska
+					</a>
+				</li>
+				<li class="divider"></li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaZakaziek/Zakazky/ObchodnePrilezitosti" id="menuLnkEtObchodnePriletzitosti">
+							<i class="eks-icon eks-icon-zahranicne-zakazky"> </i>
+						Zahraničn&#233; z&#225;kazky
+					</a>
+				</li>
+				<li class="divider"></li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaObjednavatelov/VerejnyProfilObjednavatela/Prehlad" id="menuLnkEtObjednavatelia">
+							<i class="eks-icon eks-icon-register-objednavatelov"> </i>
+						Register objedn&#225;vateľov
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaDodavatelov/VerejnyProfilDodavatela/Prehlad" id="menuLnkEtDodavatelia">
+							<i class="eks-icon eks-icon-register-dodavatelov"> </i>
+						Register dod&#225;vateľov
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaZakaziek/ReferenciaDodavatela/Prehlad" id="menuLnkEtReferencieNaDodavatelov">
+							<i class="eks-icon eks-icon-register-referencii"> </i>
+						Register referenci&#237; ET
+					</a>
+				</li>
+
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<i class="eks-icon eks-icon-kniznica"> </i>
+						Knižnica a n&#225;stroje <b class="caret"></b>
+					</a>
+					<ul class="dropdown-menu">
+										<li>
+					<a href="https://portal.eks.sk/SpravaKniznice/OpisneFormulareKniznice/VerejnyPrehlad" id="menuLnkEtKniznicaOpisnychFormularov">
+							<i class="eks-icon eks-icon-kniznica-opisny-formular"> </i>
+						Knižnica opisn&#253;ch formul&#225;rov
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaKniznice/OpisneFormulareKniznice/KarantenaVerejnyPrehlad" id="menuLnkEtKarantenaOpisnychFormularov">
+							<i class="eks-icon eks-icon-karantena-opisny-formular"> </i>
+						Karant&#233;na opisn&#253;ch formul&#225;rov a z&#225;kaziek
+					</a>
+				</li>
+				<li class="divider"></li>
+				<li>
+					<a href="https://jed.eks.sk" id="menuLnkJED">
+							<i class="eks-icon eks-icon-jed"> </i>
+						Jednotn&#253; eur&#243;psky dokument
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/Reporty/OtvoreneUdaje" id="menuLnkOtvoreneUdajeET">
+							<i class="eks-icon eks-icon-jed"> </i>
+						Otvoren&#233; &#250;daje ET
+					</a>
+				</li>
+
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							<i class="eks-icon eks-icon-informacie"> </i>
+						Inform&#225;cie <b class="caret"></b>
+					</a>
+					<ul class="dropdown-menu">
+										<li>
+					<a href="https://www.eks.sk/Stranka/Zakon" id="menuLnkZakon">
+							<i class="eks-icon eks-icon-zakon"> </i>
+						Z&#225;kon
+					</a>
+				</li>
+				<li>
+					<a href="https://portal.eks.sk/SpravaOpet/Opet/VerejnyDetail" id="menuLnkOpet">
+							<i class="eks-icon eks-icon-opet"> </i>
+						Obchodn&#233; podmienky EP/ET
+					</a>
+				</li>
+				<li>
+					<a href="https://eo.eks.sk/ZmluvaEO/ZmluvnePodmienkyAPrilohy" id="menuLnkDokumentyEO">
+							<i class="eks-icon eks-icon-opet"> </i>
+						Dokumenty elektroniz&#225;cie obstar&#225;vania
+					</a>
+				</li>
+				<li class="divider"></li>
+				<li>
+					<a href="https://www.eks.sk/Stranka/OchranaOsobnychUdajov" id="menuLnkOchranaOsobnychUdajov">
+							<i class="eks-icon eks-icon-ochrana-osobnych-udajov"> </i>
+						Ochrana osobn&#253;ch &#250;dajov
+					</a>
+				</li>
+				<li>
+					<a href="https://www.eks.sk/Stranka/CertifikatyAPodpisy" id="menuLnkCertifikatyPodpisy">
+							<i class="eks-icon eks-icon-certifikaty-podpisy"> </i>
+						Certifik&#225;ty a podpisy
+					</a>
+				</li>
+				<li>
+					<a href="javascript: klaro.show();" id="menuLnkCookies">
+							<i class="eks-icon eks-icon-cookies"> </i>
+						Cookies
+					</a>
+				</li>
+				<li class="divider"></li>
+				<li>
+					<a href="https://www.eks.sk/UvodnaStranka/Index#podpora" id="menuLnkPodpora">
+							<i class="eks-icon eks-icon-podpora"> </i>
+						Podpora
+					</a>
+				</li>
+				<li>
+					<a href="https://www.eks.sk/Stranka/Kontakty" id="menuLnkKontakty">
+							<i class="eks-icon eks-icon-centrum-podpory"> </i>
+						Kontakty
+					</a>
+				</li>
+
+					</ul>
+				</li>
+
+		</ul>
+	</div>
+</div>
+
+
+    <div class="navbar-sub pull-right">
+        <div class="navbar-collapse collapse">
+            
+
+
+
+    <ul class="nav navbar-nav eks-login-navbar eks-login-navbar-with-icons" data-sm-skip="true">
+        
+        <li class="dropdown">
+            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                <i class="eks-icon eks-icon-registracia">&nbsp;</i>Registr&#225;cia<b class="caret"></b>
+            </a>
+            <ul class="dropdown-menu">
+                <li>
+                    <a href="https://portal.eks.sk/SpravaDodavatelov/RegistraciaDodavatela/RegistraciaDodavatela">Dod&#225;vateľ</a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaDodavatelov/SkupinaDodavatelov/RegistrujSkupinu">Skupina dod&#225;vateľov</a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/SpravaObjednavatelov/RegistraciaObjednavatela/ZiadostORegistraciu">Objedn&#225;vateľ</a>
+                </li>
+                <li>
+                    <a href="https://portal.eks.sk/IAM/Ucet/Registracia">Verejnosť</a>
+                </li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="https://iam.eks.sk/Account/Login?ReturnUrl=http%3a%2f%2feo.eks.sk%2fPrehlady%2fZakazkyVerejnost" id="menuLnkPrihlasenie">
+                <i class="eks-icon eks-icon-prihlasenie">&nbsp;</i>Prihl&#225;senie
+            </a>
+        </li>
+    </ul>
+
+        </div>
+    </div>
+</div>
+
+
+	
+	
+</nav>
+
+    </div>
+
+    <div class="new-body-wrapper">
+            <div class="wrapper-for-footer">
+                
+
+<div class="container-fluid">
+    
+
+
+
+
+        <div class="container-body">
+            
+
+
+            
+
+
+
+
+
+
+
+
+
+
+<h2 class="pull-left">
+	Prehľad z&#225;kaziek
+</h2>
+
+<div class="clearfix"></div>
+
+<div style="margin-top:10px;margin-bottom:10px">
+	<a href="https://portal.eks.sk/SpravaZakaziek/Zakazky/Prehlad" class="prehlad--link"><i class="fa fa-list-alt fa-lg">&nbsp;</i>Elektronické trhovisko</a>
+	<a href="/Prehlady/ZakazkyVerejnost?postup=eo" class="prehlad--link "><i class="fa fa-list-alt fa-lg">&nbsp;</i>Ostatné postupy</a>
+</div>
+
+<div id="filter1">
+	<form class="eks-form">
+		<div class="eks-card" style="padding-bottom:10px;">
+			<div class="row">
+				<div class="col-lg-6">
+					<div>
+						<input type="text" id="Query_Vyhladavanie" class="form-control maxlength-counter" value="" name="Query.Vyhladavanie" placeholder='Zadajte identifikátor alebo názov zákazky prípadne opisného formulára&hellip;' maxlength=255 data-maxlength=255  /><small class="pull-right maxlength-counter-focus"><span class="maxlength-counter-text"></span></small>
+					</div>
+					<div>
+						<label class="font-weight-normal">
+							Len z&#225;kazky v lehote na predkladanie pon&#250;k / žiadost&#237;&nbsp;
+							
+
+<label class="checkbox checkbox-inline">
+  <input type="checkbox" id="idyzxeqmfaykqswewojliigw" name="Query.ZakazkyVLehoteNaPredkladaniePonuk" value="true" class=""    />
+  
+  <label for="idyzxeqmfaykqswewojliigw">&nbsp;</label>
+</label>
+
+						</label>
+					</div>
+				</div>
+				<div class="col-lg-6">
+					<div class="margin-bottom-10 hidden-lg"></div>
+					<div class="pull-right">
+						<button id="advancedFilterButton" 
+        type="button" 
+        class="btn btn-filter btn-transparent collapsed" 
+        data-toggle="collapse"
+        href="#filterExtendedPanel"
+        title="Rozšírené vyhľadávanie"
+        onclick="EKS.DataTablesButton.AdvancedFilterClick(this)">
+    <span id="advancedFilterIcon" class="glyphicons glyphicons-filter">&nbsp;</span>Filter&nbsp;
+    <small id="expandedFilterIcon" class="glyphicon glyphicon-chevron-down"></small>
+</button>&ensp;
+						<div id="dtswitch" class="btn-group text-center" data-toggle="buttons">
+    <label class="btn btn-filter btn-transparent switch-tiles" title="Zobraziť dlaždice">
+        <input type="radio" name="options">
+        <i class="glyphicon glyphicon-th-large"></i>
+    </label>
+    <label class="btn btn-filter btn-transparent switch-table" title="Zobraziť tabuľku">
+        <input type="radio" name="options">
+        <i class="fa fa-table"></i>
+    </label>
+</div>&ensp;
+						<button id="resetFilterButton" 
+        type="button" 
+        class="reset btn btn-default btn-filter"
+        onclick="EKS.DataTablesButton.ClearAdvancedFilterIcon()">
+    <span class="glyphicons glyphicons-refresh">&nbsp;</span>Obnoviť
+</button>
+						<button id="searchFilterButton" 
+        type="submit" 
+        class="search cancel btn btn-primary btn-filter"
+        onclick="EKS.DataTablesButton.ShowAdvancedFilterIcon()">
+    <span class="glyphicons glyphicons-search">&nbsp;</span>Hľadať
+</button>
+					</div>
+				</div>
+			</div>
+			<div id="filterExtendedPanel" class="margin-top-20 collapse ">
+				<div class="row">
+					<div class="col-lg-6">
+						<dl>
+							<dt>
+								<label for="CpvPicker" style="font-weight:bold;display:inline">CPV : </label>&nbsp;
+								<label style="display: inline">
+									Hľadať len medzi hlavn&#253;mi CPV&nbsp;
+									
+
+<label class="checkbox checkbox-inline">
+  <input type="checkbox" id="idkfhpn7cpkgmc1vvqufuva" name="Query.CpvHlavne" value="true" class=""    />
+  
+  <label for="idkfhpn7cpkgmc1vvqufuva">&nbsp;</label>
+</label>
+
+								</label>
+								<label style="display: inline">
+									CPV presne&nbsp;
+									
+
+<label class="checkbox checkbox-inline">
+  <input type="checkbox" id="idpcqyvjkceuclwnsnsofceq" name="Query.CpvPresne" value="true" class=""    />
+  
+  <label for="idpcqyvjkceuclwnsnsofceq">&nbsp;</label>
+</label>
+
+								</label>
+							</dt>
+							<dd>
+								
+
+
+
+<div class="cpvPicker eks-bottom-buffer-sm " id="CpvPicker" data-prefix="CpvPicker">
+
+    
+    <input class="data" disabled="disabled" id="CpvPicker_data" name="CpvPicker.data" type="hidden" value="{&quot;Hso&quot;:null,&quot;Dso&quot;:null,&quot;HsoRequired&quot;:true,&quot;DsoRequired&quot;:true,&quot;IsNull&quot;:true}" />
+    <input class="isDisabled" data-val="true" data-val-required="The Boolean field is required." disabled="disabled" id="CpvPicker_isDisabled" name="CpvPicker.isDisabled" type="hidden" value="False" />
+
+    
+    
+    <div class="hsoSelectDiv eks-required2">
+            <div class="eks-top-buffer-xs">
+                <span class="field-validation-valid" data-valmsg-for="CpvPicker.Hso" data-valmsg-replace="true"></span>
+            </div>
+            <input type="text"
+                   class="form-control select2 hsoSelect cpv"
+                   placeholder="Zadajte CPV kódy"
+                   id=CpvPicker_Hso name=CpvPicker.Hso
+                   value="" />
+<span class="connect vcenter"></span><input type="button" id="ZadatKodyCPV2" value="Zadať kódy CPV" disablevalidation="true" class="zobrazCpvStrom btn btn-default btn-xs eks-top-buffer-xs" data-toggle="modal" data-target='#CpvPicker_cpvModal' />
+
+
+<!-- Modal -->
+<div class="modal fade modal__cpvtree" id='CpvPicker_cpvModal' tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content form-horizontal" role="form">
+            <div class="modal-header">
+                <button type="button" id="btn_Close1" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="myModalLabel">Vyberte položky</h4>
+            </div>
+            <div class="modal-body">
+                <div class="input-group">
+                    <input class="form-control cpvtree-filter" placeholder="Hľadať ...">
+                    <div class="input-group-btn">
+                        <button class="btn btn-default cpvtree-filter-reset" id="btn_Close2" type="button">&times;</button>
+                    </div>
+                </div>
+                <hr />
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="cpvtree" id='CpvPicker_cpvTree'>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button type="button" id="btn_Zrus_PVO" class="btn btn-sm btn-default cpvstrom-zrusit" data-dismiss="modal">Zrušiť</button>
+                <button type="button" id="btn_Zadaj_PVO" class="btn btn-sm btn-primary cpvstrom-ulozit" data-dismiss="modal">Pridať</button>
+            </div>
+        </div>
+    </div>
+</div>    </div>
+    
+    
+    <div class="dsoDiv" style=display:none>
+        <div class="col-sm-12 eks-bottom-buffer-sm eks-top-buffer-sm">
+			<h5 class="accordion-heading accordion-toggle" data-toggle="collapse" href="#dsoRowContainer" aria-expanded="true" aria-controls="dsoRowContainer" style="margin: 0px;">
+				Doplnkový slovník obstarávania
+			</h5>
+        </div>
+        <div class="panel-collapse collapse in" id="dsoRowContainer" aria-expanded="true">
+            
+        </div>
+    </div>
+
+    
+
+    
+    <div class="mainHsoLabelDiv" style="display: none">
+        
+    </div>
+
+    
+    <div class="otherHsoLabelDiv" style="display: none">
+        
+    </div>
+
+    
+    <script type="text/template" id="dsoRowTemplate">
+        <div class="dsoRowTemplate eks-required2">
+            <div class="dsoRowDiv col-sm-12 eks-bottom-buffer-sm" data-hsoid="$hsoId">
+                
+                <label>$hsoDescription</label>
+
+                    <div class="eks-top-buffer-xs">
+                        <span class="field-validation-valid" data-valmsg-for="CpvPicker.Dso[0]" data-valmsg-replace="true"></span>
+                    </div>
+
+                <div class="dsoSelectDiv">
+                    
+
+                    <input id=CpvPicker_Dso_$index_ name="CpvPicker.Dso[$index]" type="text" class="form-control select2 dsoSelect" value="$dsoValue" placeholder="Zadajte doplnkové CPV kódy"  />
+<span class="connect vcenter"></span><input type="button" id="ZadatKodyCPV2" value="Zadať kódy CPV" disablevalidation="true" class="zobrazCpvStrom btn btn-default btn-xs eks-top-buffer-xs" data-toggle="modal" data-target='#CpvPicker_cpvModal' />
+                                            <button class="hsoDeleteButton btn btn-xs btn-danger eks-top-buffer-xs" data-hsoid="$hsoId" >Vymazať</button>
+                                            <button class="hsoPromoteButton btn-xs btn btn-warning eks-top-buffer-xs" style="display: none" data-hsoid="$hsoId" >Nastaviť ako hlavný</button>
+                </div>
+            </div>
+        </div>
+    </script>
+</div>
+							</dd>
+						</dl>
+					</div>
+					<div class="col-lg-6 margin-top-10">
+						<dl>
+							<dt>
+								<label for="Query_PostupObstaravania">Postup obstar&#225;vania</label>
+							</dt>
+							<dd>
+								
+<select id="Query_PostupObstaravania" name="Query.PostupObstaravania" class="multiple-select" multiple  >
+<option value='-1' selected  >Elektronické trhovisko</option><option value='-2' selected  >Nadlimitné elektronické trhovisko</option><option value='10' selected  >Verejná súťaž - dvojobálková</option><option value='13' selected  >Verejná súťaž</option><option value='12' selected  >Verejná súťaž - super reverzná</option><option value='11' selected  >Verejná súťaž - reverzná</option><option value='20' selected  >Užšia súťaž</option><option value='40' selected  >Priame rokovacie konanie</option><option value='120' selected  >Priame rokovacie konanie - podlimitná zákazka</option><option value='30' selected  >Rokovacie konanie so zverejnením</option><option value='50' selected  >Súťažný dialóg</option><option value='110' selected  >Prieskum trhu</option><option value='80' selected  >Podlimitná zákazka</option><option value='81' selected  >Podlimitná zákazka - reverzná</option><option value='60' selected  >Dynamický nákupný systém - užšia súťaž</option><option value='70' selected  >Dynamický nákupný systém - konkrétna zákazka</option><option value='90' selected  >Opätovné otvorenie súťaže</option><option value='150' selected  >Zákazka s nízkou hodnotou - zaevidovanie</option><option value='130' selected  >Zákazka s nízkou hodnotou bez zverejnenia</option><option value='140' selected  >Zákazka s nízkou hodnotou so zverejnením</option><option value='160' selected  >Prípravné trhové konzultácie</option><option value='170' selected  >Inovatívne partnerstvo</option><option value='180' selected  >Súťaž návrhov</option><option value='100' selected  >Vlastný názov</option>
+</select>
+
+
+								<label style="display: inline;" class="font-weight-normal">
+									R&#225;mcov&#225; dohoda&nbsp;
+									
+
+<label class="checkbox checkbox-inline">
+  <input type="checkbox" id="idk6yyeupeokozj46gmtaj3g" name="Query.JeRamcovaDohoda" value="true" class=""    />
+  
+  <label for="idk6yyeupeokozj46gmtaj3g">&nbsp;</label>
+</label>
+
+								</label>
+							</dd>
+						</dl>
+					</div>
+				</div>
+			</div>
+		</div>
+	</form>
+</div>
+
+<table id="dt1" class="table table-layout-fixed width-100pc_important" style="min-width: 1000px; margin-top:30px !important; display:none;">
+	<thead>
+		<tr>
+			<th>
+				Zákazka
+				<div class="visible-sorting" style="display: none;">
+					<small><i>Zoradené podľa dátumu vyhlásenia / zverejnenia</i></small>
+				</div>
+			</th>
+			<th>Dátum vyhlásenia</th>
+			<th>Lehota&nbsp;na&nbsp;predkladanie ponúk / žiadostí</th>
+			<th>Lehota plnenia</th>
+			<th>Hodnota zákazky</th>
+		</tr>
+	</thead>
+</table>
+
+ 
+
+
+<div id="modal__Sledovane" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modal-kdns-label">
+	<div class="modal-dialog modal-md" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+				<h4 class="modal-title" id="modal__Sledovane_title">Sledovanie zázazky</h4>
+			</div>
+				<div class="modal-body">
+					<div id="modal__Sledovane_content">Pre sledovanie zákazky je potrebné aby ste sa prihlásili alebo zaregistrovali.</div>
+				</div>
+				<div class="modal-footer">
+					<a href="https://iam.eks.sk/Account/Login" id="menuLnkPrihlasenie" class="btn btn-sm btn-primary">
+						Prihl&#225;senie
+					</a>
+					<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Zatvoriť</button>
+				</div>
+		</div>
+	</div>
+</div>
+
+<div id="modal__SledovanePotvrdit" class="modal fade" tabindex="-1" role="dialog">
+	<div class="modal-dialog modal-md" role="document">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+					<span aria-hidden="true">&times;</span>
+				</button>
+				<h4 class="modal-title">Zrušenie sledovania zákazky</h4>
+			</div>
+			<div class="modal-body">
+				<div id="modal__Sledovane_content">Prosím potvrďte zrušenie sledovania zákazky. Zrušením sledovania sa zákazka odstráni z kalendára a zo zoznamu Moje zákazky.</div>
+			</div>
+			<div class="modal-footer">
+				<button type="button" id="btnSledovanePotvrdit" class="btn btn-sm btn-primary" data-dismiss="modal">Potvrdiť</button>
+				<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Zatvoriť</button>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+        </div>
+    </div>
+
+            </div>
+            <div class="hidden">
+                
+
+    <div id="footer">
+	<span class="fixedBottomRight" style="z-index: 1;">
+		1.0.31.19
+		<span style="color: transparent;">
+			16.07.2026 08:51
+		</span>
+	</span>
+</div>
+
+            </div>
+
+        
+
+<div id="modal__elektronizacia" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="iduztr3xkyceezzhw3jez9q" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="iduztr3xkyceezzhw3jez9q" style="color: #0266b3;"><img src="/EKS/EKSLayout/Images/EKS_Logo2.png" alt="EKS" style="width: 70px;" />&nbsp;&nbsp;Elektronizácia verejného obstarávania</h4>
+            </div>
+            <div class="modal-body" style="color: #333;">
+                <p>
+                    Vážený používateľ,
+                </p>
+                <p style="text-align: justify;">
+                    dovoľujeme si Vás informovať, že ku dňu 1.5.2019 bude v systéme EKS ukončené prechodné obdobie, kedy je možné ľubovoľne prepínať medzi novým a starým dizajnom stránky. Po tomto termíne zostane nový dizajn automaticky aktívny všetkým používateľom a starý dizajn bude vypnutý.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <div style="margin-bottom: 1px;">
+                    <button style="margin-top: 1px;" type="button" id="btn__elektronizacia-neskor" class="btn btn-sm btn-default">Zavrieť</button>
+                    <button style="margin-top: 1px;" type="button" id="btn__novy_layout" class="btn btn-sm btn-primary ladda-button"><span class="ladda-label">Zapnúť nový dizajn</span></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).on("click", "#btn__elektronizacia-neskor", function (event) {
+        EKSLayout.LayoutCookie.ConfirmLayoutReminder();
+    });
+
+    $(document).on("click", "#btn__novy_layout", function (event) {
+        EKSLayout.LayoutCookie.SetNewLayout();
+    });
+</script>
+        
+
+<style>
+    .bootbox-autentifikacia .modal-body:first-child {
+        padding: 0px
+    }
+</style>
+
+<script type="text/template" id="modal__autentifikacia">
+    <div class="modal-header" style="padding: 8px;min-height: 70px;">
+        <div class="col-lg-3">
+            <img src="/EKS/EKSLayout/Images/EKS_Logo2.png" alt="EKS" style="width: 100px;">
+        </div>
+        <div class="col-lg-9">
+            <h4 class="modal-title" id="idc4w3tsljhkiyfaltzxlj5q" style="font-size: 20px;">Prihlásenie v systéme EKS vypršalo</h4>
+
+            <p>
+                Prihláste sa prosím znovu a môžete pokračovať v práci.
+            </p>
+        </div>
+    </div>
+    <div class="modal-body">
+        <form id="login_form">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="form-group">
+                        <label class="eks-required">Používateľské meno</label>
+                        <input  id="UserName" class="autofocus form-control" value="" name="UserName" type=text  /><span class="field-validation-valid" data-valmsg-for="UserName" data-valmsg-replace="true"></span>
+                    </div>
+                    <div class="form-group">
+                        <label class="eks-required">Heslo</label>
+                        <input  id="Password" class="form-control" value="" name="Password" type=password  /><span class="field-validation-valid" data-valmsg-for="Password" data-valmsg-replace="true"></span>
+                    </div>
+                </div>
+
+            <div class="clearfix"></div>
+            <div class="text-center" style="margin-bottom: 1px; margin-top: 10px;">
+                <button type="button" class="btn btn-md btn-default" data-dismiss="modal">Zatvoriť</button>
+                <button type="submit" id="btn_Prihlasit_Modal" class="btn btn-md btn-primary ladda-button">
+                    <span class="ladda-label">
+                        Prihlásiť sa
+                    </span>
+                </button>
+            </div>
+            <div class="text-center">
+                <a href="https://iam.eks.sk/Account/ForgotPassword" class="btn btn-link">Zabudol som heslo</a>
+            </div>
+        </form>
+    </div>
+</script>
+
+
+
+
+    </div>
+
+    <div class="modal fade" id="mdlChybyValidacie" tabindex="-1" role="dialog" aria-labelledby="lblModalChybyValidacie" aria-hidden="true" style="z-index: 1051;" data-backdrop="static" data-keyboard="false">
+  <div class="modal-dialog" id="mdlDlgChybyValidacie">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Zatvoriť</span></button>
+        <h4 class="modal-title">Zoznam ch&#253;b</h4>
+      </div>
+      <div class="modal-body">
+        <div class="alert alert-danger phZoznamChyb" style=" margin-bottom:0;">
+        </div>
+        <div class="alert alert-warning phZoznamVarovani eks-topspace-lg" style=" margin-bottom:0; display: none;">
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Zatvoriť</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+    <script src="/bundles/footer?v=FFGP-azGXO8-x-tX_5g1TDM5wvHq2QrrbVZ9Htrll4A1"></script>
+
+
+    
+    
+
+    <script type="text/javascript" src="/assets/EA0AFC83ACD3D3D22289E2C5468FC565.js?r=47BC1535772B3ECF88BB205D0EA2377B"></script>
+
+    <script>
+        EKS.GlobalApplicationContext.Locale = "sk";
+        Globalize.culture(EKS.GlobalApplicationContext.Locale);
+        $.ajaxSetup({
+            crossDomain: true,
+            xhrFields: {
+                withCredentials: true
+            },
+            headers: { "X-Requested-With": "XMLHttpRequest" }
+        });
+    </script>
+
+    
+
+
+
+    <script>function SledovatZakazku(){$("#modal__Sledovane").modal("show")}function SledovatZakazkuAjax(n){$.ajax({type:"POST",url:"/Prehlady/SledovanieZakazky",data:{id:n},success:function(t){t.Errors.length>0?$("#modal__Sledovane_content").html("Opakujte prosím operáciu"):$("#followtag-"+n).hasClass("text-orange")?($(".followtag-"+n).removeClass("text-orange"),$(".followtag-"+n).removeClass("eks-icon-sledovane-solid"),$(".followtag-"+n).addClass("eks-icon-sledovane"),$(".followtag-"+n).parent().attr("data-original-title","Kliknite pre zaevidovanie sledovania zákazky")):($("#modal__Sledovane_title").html("Sledovanie zákazky zapnuté"),$("#modal__Sledovane_content").html("Sledovanie vybranej zákazky bolo úspešne zapnuté. Sledovanú zákazku nájdete v kalendári a v zozname Moje zákazky spolu s ostatnými zákazkami, o ktoré sa uchádzate."),$("#modal__Sledovane").modal("show"),$(".followtag-"+n).removeClass("eks-icon-sledovane"),$(".followtag-"+n).addClass("text-orange"),$(".followtag-"+n).addClass("eks-icon-sledovane-solid"),$(".followtag-"+n).parent().attr("data-original-title","Kliknite pre zrušenie sledovania zákazky"))}})}function setMenuCookie(n){var t=new Date((new Date).getTime()+432e6);$.cookie("menu",n,{path:"/",domain:".eks.sk",expires:t})}function setOdstavkaCookie(n){var t=new Date((new Date).getTime()+432e6);$.cookie("eks_odstavka_systemu",n,{path:"/",domain:EKSLayout.Config.EksBaseDomain,expires:t})}$(".alert__slideDown").slideDown(400);$(".toast__success").each(function(n,t){toastr.success($(t).html());$(t).remove()});$(".toast__info").each(function(n,t){toastr.info($(t).html());$(t).remove()});$(".toast__warning").each(function(n,t){toastr.warning($(t).html());$(t).remove()});$(".toast__error").each(function(n,t){toastr.error($(t).html());$(t).remove()});EKS.AjaxAction.AjaxActionOptionsStorage["#btn_Prihlasit_Modal"]=$.extend({},{url:"https://iam.eks.sk/Account/LoginFromModal",liveValidationUrl:"https://iam.eks.sk/Account/LoginValidacia",formSelector:"#login_form",ajaxaction_success:function(){window.location.href="https://iam.eks.sk/Account/SubjectChoice"}});var ModalChybyValidacie=function(){function n(n){this.elementId=n||"#mdlChybyValidacie"}return n.prototype.ClearErrors=function(){$(this.elementId).find(".phZoznamChyb").empty().hide();$(this.elementId).find(".phZoznamVarovani").empty().hide()},n.prototype.ShowErrors=function(n){$(this.elementId).find(".phZoznamChyb").empty().show();this.ShowMessages(n,".phZoznamChyb")},n.prototype.ShowWarnings=function(n){$(this.elementId).find(".phZoznamVarovani").empty().show();this.ShowMessages(n,".phZoznamVarovani")},n.prototype.ShowMessages=function(n,t){var r=$(this.elementId),u=$(r).find(t),i;typeof n=="string"?u.html(n):(i=$("<ul />"),$.each(n,function(n,t){var r=$("<li />").css("padding-bottom","5px").html(t);i.append(r)}),u.append(i));r.modal("show")},n}();window.ModalChybyValidacie=new ModalChybyValidacie("#mdlChybyValidacie");EKSLayout.Config={EksBaseDomain:".eks.sk",WebRootUrl:"https://www.eks.sk",IdPouzivatel:"0"};$(".new-body-wrapper").click(function(n){$(".eks-main-menu").hasClass("in")&&(n.preventDefault(),$("#layout--header-new .navbar-collapse").collapse("hide"))});$.cookie("menu")||(window.matchMedia("(max-width: 767px)").matches?setMenuCookie(0):setMenuCookie(1));$.cookie("menu")==0?$(".hideable-text").hide():($("#sidebar a").hasClass("active")&&$("#sidebar a.active").parents("ul").collapse(),$(".nav--zakazka ul").collapse("show"));$("#new-wrapper").length&&($("#new-wrapper").hasClass("toggled")?$(".container-body").css("margin-left","4rem"):$(".container-body").css("margin-left","16rem"));$("#menu-toggle").click(function(n){n.preventDefault();$("#new-wrapper").toggleClass("toggled");$("#sidebar-menu-fix").toggleClass("layout-menu-div-fix-open");$(".hideable-text").toggle();$("#new-wrapper").hasClass("toggled")?(setMenuCookie(1),$("#sidebar a").hasClass("active")&&$("#sidebar a.active").parents("ul").collapse(),$(".nav--zakazka ul").collapse("show"),$(".container-body").css("margin-left","4rem")):(setMenuCookie(0),$("#sidebar ul ul.in").collapse("hide"),$(".container-body").css("margin-left","16rem"))});$("#menu-toggle-mobile").click(function(n){n.preventDefault();$("#new-wrapper").toggleClass("toggled");$("#sidebar-menu-fix").toggleClass("layout-menu-div-fix-open");$(".hideable-text").toggle()});$("#sidebar > ul > li > a, .new-subjekt > ul > li > a").click(function(){$("#sidebar ul ul.in").collapse("hide")});$("#sidebar li").click(function(){$("#new-wrapper").hasClass("toggled")||($("#new-wrapper").addClass("toggled"),$("#sidebar-menu-fix").addClass("layout-menu-div-fix-open"),$(".container-body").css("margin-left","4rem"),$(".hideable-text").show(),setMenuCookie(1))});$("#odstavka-alert").length&&($(".new-body-wrapper").css("top","120px"),$(".menu-fixed-button").css("top","120px"));$(function(){$("form, input, textarea").attr("autocomplete","off");$(document).trigger("eksinit",document)});EKS.AktivnaKontrolaPrihlasenia.OptionsStorage[""]=$.extend({},{jePrihlaseny:!1,cookieExpirationMinutes:60,kontrolaPrihlaseniaUrl:"/EKS2Global/KontrolaPrihlasenia",prihlasenieModal:"#modal__autentifikacia"});EKS.GoogleAnalytics.GoogleAnalyticsOptionsStorage["*"]=$.extend({},{GoogleAnalyticsKey:"UA-52322426-7"})</script><script>function DataTableAfterDraw(){$(".tooltip-always").tooltip();$(".tooltip-overflow").each(function(n,t){$(t).isTextOverflow()&&$(t).tooltip()})}function VratLehotuNaPredkladaniePonuk(n,t){var i=n&&t.length>1?'<i class="glyphicons glyphicons-message-plus fa-icon-tooltip"><\/i>':'<i class="fa fa-envelope fa-icon-tile"><\/i>',r=t.map(function(n){return n.Lehota}).map(EKS.Format.DateTime).join("<br />"),u='<div data-toggle="tooltip" data-original-title="'+r+'" data-html="true" class="tooltip-always">'+i+EKS.Format.DateTime(n)+"<\/div>",f="<div>"+i+EKS.Format.DateTime(n)+"<\/div>",e="<div>"+i+'<i class="text-muted">nezadané<\/i><\/div>';return n&&t.length>1?u:n?f:e}function VratFormatDatum(n,t){var i="<div>";return t!=null&&(i+="<i class='fa "+t+" fa-icon-tile'><\/i>"),i+=n!=null?EKS.Format.Date(n):"<i class='text-muted'>nezadané<\/i>",i+"<\/div>"}function VratFormatCena(n){var t="<div>";return t+="<i class='fa fa-euro fa-icon-tile'><\/i>",t+=n!=null?"<b>"+EKS.Format.Decimal2(n)+"<\/b>":"<i class='text-muted'>nezadané<\/i>",t+"<\/div>"}function VratZmluvaUrlLink(n,t,i,r){var u=""+(i||"&nbsp;");return r>1&&(u+=" ["+r+"]"),0&&r>0?'<a class="btn-link zmluva_subory-modal" data-ajaxaction=\'{"id": "'+t+'", "src": "'+n+"\"}'>"+u+"<\/a>":'<span style="color:#333">'+u+"<\/span>"}function DetailZakazkyUrlLink(n,t,i){var u=arguments.length>3&&arguments[3]!==undefined?arguments[3]:!1,f=arguments.length>4&&arguments[4]!==undefined?arguments[4]:!1,r="";if(u!=!0&&(u=!1),f!=!0&&(f=!1),0&&i==!0)switch(n){case"ET":r="https://portal.eks.sk/SpravaZakaziek/ZakazkyObjednavatela/ZmenaZakazkyElektronickehoTrhoviska/";break;case"NET":case"PPVO":r="https://kernel.eks.sk/VO/Detail/Dashboard/";break;case"PPVO2":r="https://eo.eks.sk/ElektronickaTabula/Sukromna/"}else switch(n){case"ET":r="https://portal.eks.sk/SpravaZakaziek/Zakazky/Detail/";break;case"NET":case"PPVO":r="https://kernel.eks.sk/ETabula/ETabula/Detail/";break;case"PPVO2":r="https://eo.eks.sk/ElektronickaTabula/Detail/"}return r!=""&&(r+=t),r}$("#Query_Vyhladavanie").keypress(function(n){n.which==13&&(n.preventDefault(),$(n.target).closest("form").submit())});$("input[name='Query.ZakazkyVLehoteNaPredkladaniePonuk'], input[name='Query.LenMojeZakazky'], input[name='Query.JeRamcovaDohoda'], input[name='Query.ZobrazitNakupyLeteniekKdeMamPristupLenNaCitanie']").change(function(n){$(n.target).closest("form").submit()});$("#dt1").on("datatables:reset",function(){$(".prehlad--link")!=undefined&&($(".prehlad--link").removeClass("active"),$(".prehlad--link-x").remove())})</script><script>(function(){function t(n,t){var i=function(n){return $.extend(n,{url:DetailZakazkyUrlLink(n.Src,n.Id,!1,n.ZverejneneSutaznePodklady),name:$("<div/>").html(n.Nazov).text(),padding_nazov:n.PostupObstaravaniaSkratka.length*23+"px",DatumVyhlaseniaHtml:VratFormatDatum(n.DatumVyhlasenia,"fa-bullhorn"),LehotaPlneniaHtml:VratFormatDatum(n.LehotaPlnenia,"fa-truck"),LehotaNaPredkladaniePonukHtml:VratLehotuNaPredkladaniePonuk(n.LehotaNaPredkladaniePonuk,n.ZoznamLehot),PredpokladanaCenaPlneniaHtml:VratFormatCena(n.PredpokladanaCenaPlnenia),sledovanaClass:n.Sledovane?"eks-icon-sledovane-solid text-orange":"eks-icon-sledovane",sledovanaText:n.Sledovane?"Sledovaná":"Sledovať",sledovanaTooltip:n.Sledovane?"Kliknite pre zrušenie sledovania zákazky":"Kliknite pre zaevidovanie sledovania zákazky"})};jsx.rerender(document.getElementById(n.TilesId),m("ul",{"class":"row list-unstyled"},t.json.aaData.map(i).map(function(n){return m("li",{"class":"col-md-6 col-lg-4"},m("div",{"class":"dataTablesTiles-container"},m("div",{"class":"dataTablesTiles-content"},m("h4",{"class":"margin-top-0"},m("a",{href:n.url,"class":"text-ellipsis display-block tooltip-overflow",style:{"padding-right":n.PostupObstaravaniaSkratka.length*30+"px"},"data-title":n.Nazov},n.name)),m("div",{"class":"",style:"position: absolute; top: 0; right: 0;"},m("span",{"class":"label label-primary tooltip-always",style:"padding:5px","data-toggle":"tooltip","data-title":n.PostupObstaravania},n.PostupObstaravaniaSkratka),m("span",{onClick:"SledovatZakazku("+n.IdVirtual+")",id:"btn-sledovat-zakazku","class":"tooltip-always cursor-pointer","data-id":n.IdVirtual,"data-toggle":"tooltip","data-original-title":n.sledovanaTooltip},m("i",{"class":"eks-icon followtag-"+n.IdVirtual+" "+n.sledovanaClass,id:"followtag-"+n.IdVirtual}))),m("div",null,m("span",{"class":"text-muted"},n.Identifikator)," ",m("span",{"class":"text-muted"},n.Stav)),m("div",{"class":"text-ellipsis display-block tooltip-overflow","data-title":n.PredmetPlnenia},n.PredmetPlnenia),m("div",{style:"position:absolute;bottom:0;left:0;"},jsx.raw(n.DatumVyhlaseniaHtml),jsx.raw(n.LehotaPlneniaHtml)),m("div",{style:"position:absolute;bottom:0;right:0;"},jsx.raw(n.LehotaNaPredkladaniePonukHtml),jsx.raw(n.PredpokladanaCenaPlneniaHtml)))))})))}var n={TableId:"dt1",TilesId:"tiles_id",SwitchId:"dtswitch",RenderAllTiles:t,IsTableViewEnabled:!1,AfterDrawFunction:DataTableAfterDraw};EKS.DataTables.DataTablesFilterOptionsStorage["#filter1"]=$.extend({},{stateSave:!1,datatablesSelector:"#dt1"});EKS.DataTables.DataTablesOptionsStorage["#dt1"]=$.extend({},{lengthMenu:[[12,24,60,120],[12,24,60,120]],pageLength:12,order:[[0,"desc"]],ajax:{url:"/Prehlady/ZakazkyVerejnost/",method:"post"},columns:[{data:"DatumZverejnenia",className:"width-50pc_important",createdCell:function(n,t,i){$(n).css("max-width","500px");$.extend(i,{url:DetailZakazkyUrlLink(i.Src,i.Id,!1,i.ZverejneneSutaznePodklady),name:$("<div/>").html(i.Nazov).text(),sledovanaClass:i.Sledovane?"eks-icon-sledovane-solid text-orange":"eks-icon-sledovane",sledovanaText:i.Sledovane?"Sledovaná":"Sledovať",sledovanaTooltip:i.Sledovane?"Kliknite pre zrušenie sledovania zákazky":"Kliknite pre zaevidovanie sledovania zákazky"});jsx.render(n,m("div",{"class":"position-relative"},m("h4",{"class":"margin-top-0"},m("a",{href:i.url,"class":"text-ellipsis display-block tooltip-overflow",style:{"padding-right":i.PostupObstaravaniaSkratka.length*35+"px"},"data-title":i.Nazov},i.name)),m("div",{"class":"",style:"position: absolute; top: 0; right: 0;"},m("span",{"class":"label label-primary tooltip-always",style:"padding:5px","data-title":i.PostupObstaravania},i.PostupObstaravaniaSkratka),m("span",{onClick:"SledovatZakazku("+i.IdVirtual+")",id:"btn-sledovat-zakazku","class":"tooltip-always cursor-pointer","data-id":i.IdVirtual,"data-toggle":"tooltip","data-original-title":i.sledovanaTooltip},m("i",{"class":"eks-icon followtag-"+i.IdVirtual+" "+i.sledovanaClass,id:"followtag-"+i.IdVirtual}))),m("div",null,m("span",{"class":"text-muted"},i.Identifikator)," ",m("span",{"class":"text-muted"},i.Stav)),m("div",{"class":"text-ellipsis display-block tooltip-overflow","data-title":i.PredmetPlnenia},i.PredmetPlnenia)))}},{data:"DatumVyhlasenia",render:EKS.Format.Date,className:"width-10pc_important"},{data:"LehotaNaPredkladaniePonuk",className:"width-15pc_important",render:function(n,t,i){for(var r="",u=0;u<i.ZoznamLehot.length;u++)r!=""&&(r+="<br />"),r+="<span style:'white-space:nowrap'>"+EKS.Format.DateTime(i.ZoznamLehot[u].Lehota)+"<\/span>";return r}},{data:"LehotaPlnenia",render:EKS.Format.Date,className:"width-10pc_important"},{data:"PredpokladanaCenaPlnenia",className:"text-right text-nowrap width-15pc_important",render:EKS.Format.Currency}],fnDrawCallback:function(t){DataTablesTiles.Draw(n,t);$(".btn-sledovat-zakazku").click(function(){$("#modal__Sledovane").modal("show")})}})})()</script>
+</body>
+</html>

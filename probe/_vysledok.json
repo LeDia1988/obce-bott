@@ -1,0 +1,52 @@
+{
+ "crz_predmet": [
+  200,
+  "https://www.crz.gov.sk/2171273-sk/centralny-register-zmluv/?art_predmet=ihrisk&art_datum_zverejnene_od=01.09.2026",
+  36707
+ ],
+ "crz_dodavatel": [
+  200,
+  "https://www.crz.gov.sk/2171273-sk/centralny-register-zmluv/?art_zs2=Hajn%C3%ADk",
+  47286
+ ],
+ "crz_detail": [
+  200,
+  "https://www.crz.gov.sk/zmluva/12955200/",
+  37663
+ ],
+ "uvo_search": [
+  200,
+  "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek?nazovZakazky=ihrisko",
+  122842
+ ],
+ "uvo_vestnik_det": [
+  200,
+  "https://www.uvo.gov.sk/vestnik-a-registre/vestnik",
+  100212
+ ],
+ "eks_list": [
+  200,
+  "https://eo.eks.sk/Prehlady/ZakazkyVerejnost",
+  43061
+ ],
+ "jos_list": [
+  200,
+  "https://josephine.proebiz.com/sk/public-tenders/list",
+  73994
+ ],
+ "mckvp_zmluvy": [
+  200,
+  "https://www.mckvp.sk/",
+  204506
+ ],
+ "grantexpert": [
+  200,
+  "https://www.grantexpert.sk/granty-a-dotacie-mate-na-dosah-vdaka-portalu-grantexpert/",
+  73755
+ ],
+ "mincrs_dot": [
+  200,
+  "https://www.mincrs.sk/",
+  99184
+ ]
+}
