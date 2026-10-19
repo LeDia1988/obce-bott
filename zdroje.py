@@ -26,15 +26,21 @@ PREP = os.path.join(DATA, "prepojenia.csv")
 # hľadané výrazy pre vyhľadávače (ÚVO, CRZ)
 QUERIES = ["ihrisk", "ihrisko", "športovisk", "workout", "fitnes", "oplotenie", "mobiliár", "lavič",
            "zastávk", "prístrešok", "altán", "park", "oddychov", "revitaliz", "náučn", "turistick",
-           "cyklo", "rozhľad", "edukačn", "pumptrack", "skatepark", "multifunkčn", "verejného priestranstva",
-           "dopadov", "hracie prvky", "hracích prvkov"]
+           "cyklo", "rozhľad", "edukačn", "pumptrack", "skatepark", "multifunkčn", "dopadov", "hracie prvky",
+           "hracích prvkov", "projektová dokumentácia", "štúdia", "architektonick"]
 # relevantnosť názvu zákazky/zmluvy (normalizovaný text)
 REL = re.compile(
     r"ihrisk|sportovisk|workout|fitnes|oploten|\bplot(u|y|om)?\b|mobiliar|lavic|zastavk|pristres|altan|"
-    r"\bpark|oddychov|revitaliz|nauc\w* chodnik|turistick|cyklotras|cyklochodnik|rozhladn|edukacn\w* tabul|"
+    r"\bpark(u|om|y|ov|e)?\b|oddychov|revitaliz|nauc\w* chodnik|turistick|cyklotras|cyklochodnik|rozhladn|edukacn\w* tabul|"
     r"pumptrack|skatepark|multifunkcn|verejn\w* priestranstv|hraci\w* prv|dopadov\w* ploch|detsk\w* (kut|hrac)|"
     r"exterierov\w* ucebn|vonkajs\w* ucebn|sportov\w* (are|plo|zari|infra|park)|vychodisk\w* (ihr|hrac)")
-PROJECT = re.compile(r"projekt|stud(ia|ie|iu|ii)|dokumentaci|architekt|urbanist|dizajn|navrh")
+PROJECT = re.compile(r"projektov\w* (dokument|prac|cinnost)|projekt (pre|stavby)|projekcn|\bstud(ia|ie|iu|ii)\b|dokumentaci\w* (pre|stavby)|"
+                     r"architekt|urbanist|vypracovan\w* (pd|projekt|dokument|stud)|\bpd\b|\bdsp\b|\bdrs\b|\bdur\b")
+# dodávateľ, ktorý je projektant (podľa názvu firmy)
+PROJ_FIRM = re.compile(r"architekt|projekt|atelier|studio|design|dizajn|projekcia|urbanist|\bing\. arch|\bakad")
+# šum: nájmy, poistenie, právne služby, priemyselné parky, parkoviská
+NEG = re.compile(r"\bnaj(om|mu|me|omn)\w*|uzivani|poisten|vecn\w* bremen|pravn\w* sluz|mandatn|priemyseln\w* park|industrial park|"
+                 r"parkovis|parkovac|\bdodatok\b|zrusen|stravovan|\bdodavk\w* (strav|elektr|plyn)")
 # kraje
 EAST = re.compile(r"kosick|presovsk|sk04|kosice|presov")
 GRANT = re.compile(r"vyzv|dotaci|grant|prispev|nenavratn|podpor|program|schema|fond|nfp|zoznam schvalen|vysledk", re.I)
@@ -125,7 +131,7 @@ def uvo(seen):
             o = match_obec(obst)
             if not (EAST.search(norm(nuts)) or o):
                 continue
-            if not REL.search(norm(nazov)):
+            if not REL.search(norm(nazov)) or NEG.search(norm(nazov)):
                 continue
             try:
                 d = datetime.datetime.strptime(akt[:10], "%d.%m.%Y").date()
@@ -162,7 +168,7 @@ def josephine(seen):
             o = match_obec(re.sub(r"\s+SK\w*$", "", obst))
             if not (EAST.search(norm(obst)) or o):
                 continue
-            if not REL.search(norm(nazov)):
+            if not REL.search(norm(nazov)) or NEG.search(norm(nazov)):
                 continue
             found.append({"zdroj": "Josephine", "nazov": nazov, "obstaravatel": obst, "obec": o["nazov"] if o else "",
                           "okres": o["okres"] if o else "", "hodnota": cells[5], "lehota": cells[6] if len(cells) > 6 else "",
@@ -246,10 +252,11 @@ def crz(seen):
             if uid in seen:
                 continue
             seen.add(uid)
-            o = match_obec(z["objednavatel"]) or match_obec(z["dodavatel"])
-            if not o or not REL.search(norm(z["nazov"])):
+            o = match_obec(z["objednavatel"])
+            if not o or not REL.search(norm(z["nazov"])) or NEG.search(norm(z["nazov"])):
                 continue
-            z.update({"obec": o["nazov"], "okres": o["okres"], "projekcia": bool(PROJECT.search(norm(z["nazov"])))})
+            z.update({"obec": o["nazov"], "okres": o["okres"],
+                      "projekcia": bool(PROJECT.search(norm(z["nazov"])) or PROJ_FIRM.search(norm(z["dodavatel"])))})
             zmluvy.append(z)
             if z["projekcia"]:
                 prepojenia.append({**z, "typ": "projektant (z CRZ)", "firma": z["dodavatel"]})
