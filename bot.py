@@ -36,7 +36,7 @@ SECTION_WORDS = [
     "uradna tabula", "uradna-tabula", "uradnatabula", "oznam", "aktualit", "zastupitel",
     "uznesen", "zapisnic", "pozvank", "rozpocet", "rozpoct", "zasadnut", "samosprav",
     "dokument", "zverejnovan", "verejne obstaravan", "verejne-obstaravan", "zakazk",
-    "vyzv", "dotaci", "projekt", "novinky", "spravy",
+    "vyzv", "dotaci", "projekt", "novinky", "spravy", "zmluv", "objednav", "faktur",
 ]
 
 # témy, ktoré vieme zabezpečiť  ->  (názov, regex nad normalizovaným textom)
@@ -48,6 +48,8 @@ TOPICS = [
     ("Mobiliár", r"\bmobiliar\w*|\blavic\w*|\bodpadkov\w* kos\w*|\bstojan\w* na bicyk\w*|\baltan\w*|\bpergol\w*"),
     ("Zastávka", r"\bzastavk\w*|\bautobusov\w* zastav\w*|\bprist\w*resk\w*"),
     ("Park / oddych", r"\boddychov\w* (zon|are|park)\w*|\bverejn\w* priestranstv\w*|\brevitaliz\w*|\bvolnocas\w*"),
+    ("Turistická infraštruktúra", r"\bturistick\w* (infra|chodn|tras|odpoc|prist|smer|tabul|ciel)\w*|\bnaucn\w* chodnik\w*|\bcyklotras\w*|\bcyklochodnik\w*|\bcyklo ?(odpoc|stojan|servis)\w*|\brozhladn\w*|\bvyhliadk\w*|\bodpocivadl\w*"),
+    ("Edukačné tabule", r"\bedukacn\w* (tabul|panel|prv)\w*|\bnaucn\w* (tabul|panel)\w*|\binformacn\w* tabul\w*|\bkresliac\w* tabul\w*|\bexterierov\w* ucebn\w*|\bvonkajs\w* ucebn\w*|\bzelen\w* ucebn\w*"),
     ("Dotácia / výzva", r"\bihrisko pre kazde dieta\b|\benvirofond\w*|\bregionaln\w* prispev\w*|\bmirri\b|"
                         r"\bnenavratn\w* financn\w* prispev\w*|\bziadost\w* o (dotaci|nfp|poskytnut)\w*|\bfond na podporu sportu\b|"
                         r"\bprogram obnovy dediny\b|\bdotaci\w* (ksk|psk|z kosick|z presov)\w*|\bspolufinancovan\w*"),
@@ -63,6 +65,23 @@ DOCTYPES = [
     ("Návrh VZN / zámer", r"\bvzn\b|zamer\w*|navrh\w*"),
 ]
 DOCTYPE_RE = [(n, re.compile(p)) for n, p in DOCTYPES]
+
+PROJ_RE = re.compile(r"projektov\w* dokumentaci\w*|architektonick\w* stud\w*|pripadov\w* stud\w*|urbanistick\w* stud\w*|"
+                     r"stud\w* (realizovatel|uskutocnitel)\w*|projekt pre (stavebne|uzemne) |dokumentaci\w* pre (stavebne|realiz)")
+
+
+def _load_firmy():
+    p = os.path.join(ROOT, "firmy.csv")
+    out = []
+    if os.path.exists(p):
+        for f in csv.DictReader(open(p, encoding="utf-8")):
+            if f.get("hladat"):
+                f["_rx"] = re.compile(r"\b" + re.escape(norm(f["hladat"])))
+                out.append(f)
+    return out
+
+
+FIRMY = _load_firmy()
 
 DOC_EXT = (".pdf", ".doc", ".docx", ".odt", ".rtf", ".xls", ".xlsx")
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".rar", ".mp4", ".mp3")
@@ -255,12 +274,17 @@ def check(obec, src, seen_urls, baseline):
                 topics = sorted(set(topics) | set(t2), key=[n for n, _ in TOPICS].index)
                 types = sorted(set(types) | set(ty2), key=[n for n, _ in DOCTYPES].index)
         if not topics:
-            continue
+            full0 = norm(head + " " + body)
+            if not any(f["_rx"].search(full0) for f in FIRMY):
+                continue
         sn = []
         for n, rx in TOPIC_RE:
             if n in topics:
                 sn += snippets(body or head, rx, 2)
+        full = norm(head + " " + body)
         findings.append({
+            "projekcia": bool(PROJ_RE.search(full)),
+            "firmy": [f["nazov"] for f in FIRMY if f["_rx"].search(full)],
             "obec": obec["nazov"], "statut": obec["statut"], "okres": obec["okres"], "kraj": obec["kraj"],
             "kod": obec["kod"], "title": it["title"], "url": it["url"], "zdroj": it["page"],
             "temy": topics, "typ": types, "sumy_eur": money(body) if body else [],

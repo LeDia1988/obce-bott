@@ -17,6 +17,9 @@ jobs:
       - run: sudo apt-get install -y -qq poppler-utils
       - run: pip install -q requests beautifulsoup4 lxml
       - run: python bot.py
+      - name: Obstarávania, výzvy, zmluvy
+        run: python zdroje.py
+        continue-on-error: true
       - name: Uložiť výsledky
         run: |
           git config user.name "obce-bot"
