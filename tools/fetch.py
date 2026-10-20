@@ -19,7 +19,11 @@ for p in pages:
             try:
                 d = get(l["url"]).content
                 fn = f"{out}/doc_{n}.pdf"; open(fn, "wb").write(d)
-                t = subprocess.run(["pdftotext", "-layout", fn, "-"], capture_output=True).stdout.decode("utf-8", "ignore")
+                if d[:4] == b"%PDF":
+                    t = subprocess.run(["pdftotext", "-layout", fn, "-"], capture_output=True).stdout.decode("utf-8", "ignore")
+                else:
+                    from bs4 import BeautifulSoup
+                    t = BeautifulSoup(d, "lxml").get_text("\n", strip=True)
                 open(f"{out}/doc_{n}.txt", "w").write(l["text"] + "\n" + l["url"] + "\n\n" + t)
             except Exception as e:
                 open(f"{out}/_err.txt", "a").write(f"{l['url']} {e}\n")
