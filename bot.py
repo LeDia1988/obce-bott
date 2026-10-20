@@ -86,7 +86,7 @@ FIRMY = _load_firmy()
 DOC_EXT = (".pdf", ".doc", ".docx", ".odt", ".rtf", ".xls", ".xlsx")
 SKIP_EXT = (".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".zip", ".rar", ".mp4", ".mp3")
 # typické odkazy, ktoré sú na každej stránke a nie sú oznamom
-NOISE = re.compile(r"facebook|instagram|youtube|twitter|google\.|mailto:|tel:|javascript:|#$|cookie|gdpr|"
+NOISE = re.compile(r"fotogaler|/galer|/gallery|/foto/|/photo|/directory/|/album|facebook|instagram|youtube|twitter|google\.|mailto:|tel:|javascript:|#$|cookie|gdpr|"
                    r"vyhlasenie-o-pristupnosti|mapa-stranky|sitemap|login|prihlas", re.I)
 
 
@@ -258,13 +258,16 @@ def check(obec, src, seen_urls, baseline):
             all_urls.add(u)
             if u in seen_urls or baseline:
                 continue
-            # nové len to, čo vyzerá ako oznam/dokument (nie menu)
+            # nové len to, čo vyzerá ako oznam/dokument (nie menu, galéria)
+            if re.search(r"^(zobrazit galeriu|dalej|viac|citat viac|l_events|foto|galeria)", norm(l["text"])):
+                continue
             head = l["text"] + " " + l["ctx"]
             is_doc = urlparse(u).path.lower().endswith(DOC_EXT) or "download" in u.lower() or "subor" in u.lower()
             if not is_doc and not same_site(u, src.get("base", obec["web"])):
                 continue
             new_items.append({"url": u, "title": l["text"], "ctx": l["ctx"], "page": page, "is_doc": is_doc})
-    # vyhodnotenie nových
+    # vyhodnotenie nových (každý odkaz raz)
+    new_items = list({it["url"]: it for it in new_items}.values())
     findings = []
     checked = 0
     for it in new_items:
