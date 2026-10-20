@@ -17,7 +17,7 @@
  },
  "513806": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: ConnectionError"
  },
  "513831": {
   "base": "https://www.klinnadbodrogom.sk/",
@@ -36,8 +36,12 @@
   "status": "ok"
  },
  "513849": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://obecstanca.szm.com/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://obecstanca.szm.com/"
+  ],
+  "status": "ok"
  },
  "513857": {
   "base": "https://www.budahaza.eu/",
@@ -666,8 +670,15 @@
   "status": "ok"
  },
  "519383": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obeckozany.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obeckozany.webnode.sk/obecne-zastupitelstvo/",
+   "https://obeckozany.webnode.sk/oznamy/",
+   "https://obeckozany.webnode.sk/faktury/",
+   "https://obeckozany.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "519391": {
   "base": "https://kracunovce.sk/",
@@ -691,7 +702,7 @@
  },
  "519413": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "519421": {
   "base": "https://www.kruzlov.sk/",
@@ -907,12 +918,36 @@
   "status": "ok"
  },
  "519596": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecmicakovce.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecmicakovce.webnode.sk/obecne-zastupitelstvo/",
+   "https://obecmicakovce.webnode.sk/obecne-zastupitelstvo2/",
+   "https://obecmicakovce.webnode.sk/program-hospodarskeho-a-socialneho-rozvoja-obce/",
+   "https://obecmicakovce.webnode.sk/povinne-zverejnovanie/",
+   "https://obecmicakovce.webnode.sk/objednavky/",
+   "https://obecmicakovce.webnode.sk/zmluvy/",
+   "https://obecmicakovce.webnode.sk/faktury/",
+   "https://obecmicakovce.webnode.sk/verejne-obstaravanie/",
+   "https://obecmicakovce.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "519600": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.obecmikulasova.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.obecmikulasova.sk/eut.php",
+   "http://www.obecmikulasova.sk/zmluvy 2026.php",
+   "http://www.obecmikulasova.sk/zmluvy 2025.php",
+   "http://www.obecmikulasova.sk/zmluvy 2024.php",
+   "http://www.obecmikulasova.sk/zmluvy 2023.php",
+   "http://www.obecmikulasova.sk/zmluvy 2022.php",
+   "http://www.obecmikulasova.sk/zmluvy 2021.php",
+   "http://www.obecmikulasova.sk/zmluvy 2020.php",
+   "http://www.obecmikulasova.sk/"
+  ],
+  "status": "ok"
  },
  "519618": {
   "base": "http://www.obecmokroluh.sk/verify?redirect=/",
@@ -1088,8 +1123,12 @@
   "status": "ok"
  },
  "519758": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.resov.ocu.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.resov.ocu.sk/"
+  ],
+  "status": "ok"
  },
  "519766": {
   "base": "https://www.richvald.sk/",
@@ -1583,12 +1622,21 @@
   "status": "ok"
  },
  "520136": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.cukalovce.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.cukalovce.sk/zverejnovanie/",
+   "http://www.cukalovce.sk/"
+  ],
+  "status": "ok"
  },
  "520152": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.dedacov.ocu.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.dedacov.ocu.sk/"
+  ],
+  "status": "ok"
  },
  "520161": {
   "base": "https://www.dlhenadcirochou.sk/",
@@ -1757,8 +1805,20 @@
   "status": "ok"
  },
  "520284": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecjalova38.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecjalova38.webnode.sk/uradna-tabula/",
+   "https://obecjalova38.webnode.sk/news/uradna-tabula/",
+   "https://obecjalova38.webnode.sk/obecne-zastupitelstvo/",
+   "https://obecjalova38.webnode.sk/news/pozvanka/",
+   "https://obecjalova38.webnode.sk/zverejnovanie/",
+   "https://obecjalova38.webnode.sk/zmluvy-2016/",
+   "https://obecjalova38.webnode.sk/objednavky-2016/",
+   "https://obecjalova38.webnode.sk/faktury-2017/",
+   "https://obecjalova38.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "520292": {
   "base": "https://www.jankovce.sk/",
@@ -1836,8 +1896,20 @@
   "status": "ok"
  },
  "520365": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.obecklenova.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.obecklenova.sk",
+   "http://www.obecklenova.sk/?page_id=200",
+   "http://www.obecklenova.sk/?page_id=12",
+   "http://www.obecklenova.sk/?page_id=7433",
+   "http://www.obecklenova.sk/?page_id=7435",
+   "http://www.obecklenova.sk/?page_id=7436",
+   "http://www.obecklenova.sk/?page_id=7437",
+   "http://www.obecklenova.sk/?page_id=7049",
+   "http://www.obecklenova.sk/"
+  ],
+  "status": "ok"
  },
  "520373": {
   "base": "https://www.kochanovce.sk/",
@@ -1903,8 +1975,19 @@
   "status": "ok"
  },
  "520411": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://oukrasnybrod.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://oukrasnybrod.sk/samosprava/obecne-zastupitelstvo/",
+   "http://oukrasnybrod.sk/pozvanka-na-futbal/",
+   "http://oukrasnybrod.sk/zverejnovanie/zmluvy/",
+   "http://oukrasnybrod.sk/zverejnovanie/faktury/",
+   "http://oukrasnybrod.sk/zverejnovanie/objednavky/",
+   "http://oukrasnybrod.sk/zverejnovanie/projektove-dokumnentacie/",
+   "http://oukrasnybrod.sk/volby-do-organov-samospravy/",
+   "http://oukrasnybrod.sk/"
+  ],
+  "status": "ok"
  },
  "520438": {
   "base": "https://obecladomirov.sk/",
@@ -2119,8 +2202,12 @@
   "status": "bez webu"
  },
  "520594": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.osadne.ocu.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.osadne.ocu.sk/"
+  ],
+  "status": "ok"
  },
  "520616": {
   "base": "https://www.palota.sk/",
@@ -2302,11 +2389,20 @@
  },
  "520764": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "520772": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://slovenska-volova.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://slovenska-volova.webnode.sk/volby-do-organov-samospravy-obci-24-10-2026/",
+   "https://slovenska-volova.webnode.sk/dokumenty-obce/",
+   "https://slovenska-volova.webnode.sk/samosprava/",
+   "https://slovenska-volova.webnode.sk/farske-oznamy2/",
+   "https://slovenska-volova.webnode.sk/volby-do-organov-samospravnych-krajov-24-10-2026/",
+   "https://slovenska-volova.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "520781": {
   "base": "http://www.slovenskekrive.sk/verify?redirect=/",
@@ -2333,8 +2429,20 @@
   "status": "ok"
  },
  "520811": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecstakcinskaroztoka.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/obecne-zastupitelstva/pozvanky-na-obecne-zastupitelstvo/",
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/obecne-zastupitelstva/zapisnice-z-rokovani-obecneho-zastupitelstva/",
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/obecne-zastupitelstva/",
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/obecne-zastupitelstva/materialy-na-obecne-zastupitelstvo/",
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/oznamenia-o-ulozeni-zasielky/",
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/",
+   "https://obecstakcinskaroztoka.webnode.sk/uradna-tabula/vseobecne-zavazne-nariadenia-a-mernice/",
+   "https://obecstakcinskaroztoka.webnode.sk/zverejnovanie/zmluvy/",
+   "https://obecstakcinskaroztoka.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "520829": {
   "base": "https://www.stakcin.eu/",
@@ -2840,8 +2948,14 @@
   "status": "ok"
  },
  "521256": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://bunetice.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://bunetice.webnode.sk/zastupitelstvo/",
+   "https://bunetice.webnode.sk/oznamy/",
+   "https://bunetice.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "521264": {
   "base": "https://obecbuzica.sk/",
@@ -2860,8 +2974,12 @@
   "status": "ok"
  },
  "521272": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://cestice.ezaz.eu/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://cestice.ezaz.eu/"
+  ],
+  "status": "ok"
  },
  "521281": {
   "base": "https://www.cakanovce.eu/",
@@ -3603,8 +3721,20 @@
   "status": "ok"
  },
  "521841": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.opina.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.opina.sk/index.php/aktuality/aktuality-a-projekty-2019",
+   "http://opina.sk/index.php/volby",
+   "http://www.opina.sk/index.php",
+   "http://www.opina.sk/index.php/aktuality",
+   "http://www.opina.sk/index.php/aktuality/rok-2022",
+   "http://www.opina.sk/index.php/aktuality/rok-2021",
+   "http://www.opina.sk/index.php/aktuality/rok-2018",
+   "http://www.opina.sk/index.php/aktuality/rok-2017",
+   "http://www.opina.sk/"
+  ],
+  "status": "ok"
  },
  "521850": {
   "base": "https://www.obecpanovce.sk/",
@@ -4100,8 +4230,20 @@
   "status": "ok"
  },
  "522244": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obeczlataidka.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obeczlataidka.sk/uradna-tabula/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ab36ef25d9afc68437ec963",
+   "https://obeczlataidka.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obeczlataidka.sk/"
+  ],
+  "status": "ok"
  },
  "522252": {
   "base": "https://www.zarnov.sk/",
@@ -4370,8 +4512,12 @@
   "status": "ok"
  },
  "522422": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.fekisovce.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.fekisovce.sk/"
+  ],
+  "status": "ok"
  },
  "522431": {
   "base": "http://www.hatalov.sk/verify?redirect=/",
@@ -5185,8 +5331,12 @@
   "status": "ok"
  },
  "523011": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.ruskabystra.lekosonline.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.ruskabystra.lekosonline.sk/"
+  ],
+  "status": "ok"
  },
  "523020": {
   "pages": [],
@@ -5319,8 +5469,13 @@
   "status": "ok"
  },
  "523127": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecstretavka.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecstretavka.webnode.sk/dokumenty/",
+   "https://obecstretavka.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "523135": {
   "base": "https://www.obecsuche.sk/",
@@ -5819,8 +5974,17 @@
   "status": "ok"
  },
  "523500": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obechradisko.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obechradisko.webnode.sk/obecne-zastupitelstvo/",
+   "https://obechradisko.webnode.sk/zmluvy-faktury-objednavky/",
+   "https://obechradisko.webnode.sk/volby-do-organov-samospravy-a-volby-do-organov-samospravnych-krajov/",
+   "https://obechradisko.webnode.sk/vzn-o-miestnych-daniach-a-poplatkoch/",
+   "https://obechradisko.webnode.sk/vzn-o-podmienkach-poskytovania-dotacii-z-prostriedkov-obce-hradisko/",
+   "https://obechradisko.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "523518": {
   "base": "https://www.hranovnica.sk/",
@@ -5954,8 +6118,20 @@
   "status": "ok"
  },
  "523615": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.lechnica.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.lechnica.sk/kategorie/%C3%BAradn%C3%A1-tabu%C4%BEa",
+   "http://www.lechnica.sk/pozv%C3%A1nka-na-zasadnutie-obecn%C3%A9ho-zastupite%C4%BEstva-d%C5%88a-782026",
+   "http://www.lechnica.sk/zoznam-zaregistrovan%C3%BDch-kandid%C3%A1tov-pre-vo%C4%BEby-do-obecn%C3%A9ho-zastupite%C4%BEstva-obce-lechnica-24102026",
+   "http://www.lechnica.sk/obecne-zastupitelstvo-dokumenty",
+   "http://www.lechnica.sk/obecn%C3%A9-zastupite%C4%BEstvo",
+   "http://www.lechnica.sk/pozv%C3%A1nka-na-spolo%C4%8Dn%C3%A9-posedenie-s-kult%C3%BArnym-programom-27102026",
+   "http://www.lechnica.sk/starosta",
+   "http://www.lechnica.sk/kategorie/verejn%C3%A9-obstar%C3%A1vanie",
+   "http://www.lechnica.sk/"
+  ],
+  "status": "ok"
  },
  "523623": {
   "base": "https://www.lendak.sk/",
@@ -6073,8 +6249,15 @@
   "status": "ok"
  },
  "523771": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.obec-osturna.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.obec-osturna.sk/?uradna_tabula",
+   "http://www.obec-osturna.sk/?samosprava",
+   "http://www.obec-osturna.sk/?zverejnovanie",
+   "http://www.obec-osturna.sk/"
+  ],
+  "status": "ok"
  },
  "523780": {
   "base": "https://www.maldur.sk/",
@@ -6806,8 +6989,13 @@
   "status": "ok"
  },
  "524328": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.obecdaletice.wbl.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.obecdaletice.wbl.sk/Dokumenty.html",
+   "http://www.obecdaletice.wbl.sk/"
+  ],
+  "status": "ok"
  },
  "524336": {
   "base": "http://www.obecdemjata.sk/verify?redirect=/",
@@ -7449,12 +7637,24 @@
   "status": "ok"
  },
  "524808": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.lucina.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.lucina.sk/?page_id=134",
+   "http://www.lucina.sk/?page_id=265",
+   "http://www.lucina.sk/?page_id=132",
+   "http://www.lucina.sk/?page_id=90",
+   "http://www.lucina.sk/?page_id=250",
+   "http://www.lucina.sk/?page_id=172",
+   "http://www.lucina.sk/?page_id=226",
+   "http://www.lucina.sk/?page_id=573",
+   "http://www.lucina.sk/"
+  ],
+  "status": "ok"
  },
  "524816": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "524824": {
   "base": "http://www.lutina.sk/verify?redirect=/",
@@ -8418,8 +8618,15 @@
   "status": "ok"
  },
  "525570": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecbrdarka.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecbrdarka.webnode.sk/samosprava/",
+   "https://obecbrdarka.webnode.sk/aktuality/",
+   "https://obecbrdarka.webnode.sk/zverejnovanie-udajov/",
+   "https://obecbrdarka.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "525596": {
   "base": "https://www.obecciernalehota.sk/",
@@ -8540,7 +8747,7 @@
  },
  "525693": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "525707": {
   "base": "https://www.gocovo.sk/",
@@ -8590,7 +8797,7 @@
  },
  "525731": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "525740": {
   "base": "https://www.hrhov.sk/",
@@ -8657,8 +8864,20 @@
   "status": "ok"
  },
  "525839": {
-  "pages": [],
-  "status": "web nedostupný: ConnectionError"
+  "base": "https://www.kobeliarovo.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://www.kobeliarovo.sk/zverejnovanie/1553/uradna-tabula",
+   "https://www.kobeliarovo.sk/novinka/139540/zoznam-zaregistrovanych-kandidatov",
+   "https://www.kobeliarovo.sk/26290/obecne-zastupitelstvo",
+   "https://www.kobeliarovo.sk/11499/zmluvy-faktury-objednavky",
+   "https://www.kobeliarovo.sk/31347/volby-do-organov-uzemnej-samospravy-2026",
+   "https://www.kobeliarovo.sk/novinka/140551/druhe-zasadnutie-volebnej-komisie",
+   "https://www.kobeliarovo.sk/novinka/139130/prve-zasadnutie-volebnej-komisie",
+   "https://www.kobeliarovo.sk/novinky/9978/novinky",
+   "https://www.kobeliarovo.sk/"
+  ],
+  "status": "ok"
  },
  "525847": {
   "base": "https://www.kocelovce.sk/",
@@ -8772,7 +8991,7 @@
  },
  "525952": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "525961": {
   "base": "https://www.meliata.sk/",
@@ -8978,7 +9197,7 @@
  },
  "526223": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "526231": {
   "base": "https://www.silickabrezova.sk/",
@@ -9016,8 +9235,15 @@
   "status": "ok"
  },
  "526274": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecslavoska.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecslavoska.webnode.sk/aktuality/",
+   "https://obecslavoska.webnode.sk/samosprava/",
+   "https://obecslavoska.webnode.sk/zverejnovanie-udajov/",
+   "https://obecslavoska.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "526282": {
   "base": "https://www.slavosovce.sk/",
@@ -9379,8 +9605,18 @@
   "status": "ok"
  },
  "526550": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.henclova.ocu.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.henclova.ocu.sk/index.php?ids=3",
+   "http://www.henclova.ocu.sk/index.php?ids=4",
+   "http://www.henclova.ocu.sk/index.php?ids=7",
+   "http://www.henclova.ocu.sk/index.php?ids=13",
+   "http://www.henclova.ocu.sk/index.php?ids=12",
+   "http://www.henclova.ocu.sk/index.php?ids=14",
+   "http://www.henclova.ocu.sk/"
+  ],
+  "status": "ok"
  },
  "526568": {
   "base": "https://obechincovce.sk/",
@@ -9881,8 +10117,20 @@
   "status": "ok"
  },
  "526908": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.mniseknadpopradom.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.mniseknadpopradom.sk/-uradna-tabula",
+   "http://www.mniseknadpopradom.sk/--23-336-zoznam-zaregistrovanych-kandidatov-pre-volby-starostu-obce-a-do-obecneho-zastupitelstva",
+   "http://www.mniseknadpopradom.sk/-obecne-zastupitelstvo",
+   "http://www.mniseknadpopradom.sk/-uznesenia-oz",
+   "http://www.mniseknadpopradom.sk/-rozpocet-a-vzn",
+   "http://www.mniseknadpopradom.sk/-aktuality",
+   "http://www.mniseknadpopradom.sk/-samosprava",
+   "http://www.mniseknadpopradom.sk/-zmluvy",
+   "http://www.mniseknadpopradom.sk/"
+  ],
+  "status": "ok"
  },
  "526916": {
   "base": "https://www.nizneruzbachy.sk/",
@@ -10299,8 +10547,20 @@
   "status": "ok"
  },
  "527220": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.cigla.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.cigla.sk/dokumenty/faktury-2026.html",
+   "http://www.cigla.sk/dokumenty/faktury-2025.html",
+   "http://www.cigla.sk/dokumenty/faktury-2024.html",
+   "http://www.cigla.sk/dokumenty/dok-,-faktury-2023.html",
+   "http://www.cigla.sk/dokumenty/dokumenty,-faktury-2017.html",
+   "http://www.cigla.sk/dokumenty/dokumenty-faktury-2016.html",
+   "http://www.cigla.sk/dokumenty/faktury-2023.html",
+   "http://www.cigla.sk/dokumenty/faktury-2022.html",
+   "http://www.cigla.sk/"
+  ],
+  "status": "ok"
  },
  "527238": {
   "pages": [],
@@ -10487,8 +10747,19 @@
   "status": "ok"
  },
  "527394": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obeckorejovce.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obeckorejovce.webnode.sk/zoznam-zaregistrovanych-kandidatov-pre-volby-do-obecneho-zastupitelstva-obce-korejovce-a-pre-volby-starostu-obce-korejovce-24-10-2026/",
+   "https://obeckorejovce.webnode.sk/uznesenia-/",
+   "https://obeckorejovce.webnode.sk/navrh-rozpoctu-obce-korejovce-na-roky-2026-2027-2028/",
+   "https://obeckorejovce.webnode.sk/ucelova-dotacia-a-riesenie-potravinovej-dostupnosti/",
+   "https://obeckorejovce.webnode.sk/faktury/",
+   "https://obeckorejovce.webnode.sk/zmluvy/",
+   "https://obeckorejovce.webnode.sk/zverejnenie-vyzvy-na-predkladanie-cenovych-ponuk/",
+   "https://obeckorejovce.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "527408": {
   "base": "https://www.korunkova.sk/",
@@ -10518,8 +10789,13 @@
   "status": "ok"
  },
  "527432": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://krajnapolana.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://krajnapolana.webnode.sk/novinky/",
+   "https://krajnapolana.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "527441": {
   "base": "https://www.krajnaporubka.dcom.sk/",
@@ -10711,8 +10987,14 @@
   "status": "bez webu"
  },
  "527602": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecmlynarovce.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecmlynarovce.webnode.sk/news/pozvanka/",
+   "https://obecmlynarovce.webnode.sk/oznamy/",
+   "https://obecmlynarovce.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "527611": {
   "pages": [],
@@ -10750,8 +11032,14 @@
   "status": "ok"
  },
  "527645": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://niznapisana.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://niznapisana.webnode.sk/news/volby-do-nr-sr-2023-zapisnica/",
+   "https://niznapisana.webnode.sk/news/projekt/",
+   "https://niznapisana.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "527653": {
   "base": "https://obecniznykomarnik.sk/",
@@ -10786,8 +11074,12 @@
   "status": "ok"
  },
  "527670": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.niznyorlik.eu/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.niznyorlik.eu/"
+  ],
+  "status": "ok"
  },
  "527688": {
   "pages": [],
@@ -10888,8 +11180,17 @@
   "status": "ok"
  },
  "527785": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.roztoky.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.roztoky.sk/zmluvy.html",
+   "http://www.roztoky.sk/samosprava.html",
+   "http://www.roztoky.sk/index.html",
+   "http://www.roztoky.sk/verejne.html",
+   "http://www.roztoky.sk/o2023.html",
+   "http://www.roztoky.sk/"
+  ],
+  "status": "ok"
  },
  "527793": {
   "base": "https://krucov.sk/",
@@ -10908,8 +11209,19 @@
   "status": "ok"
  },
  "527807": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.sobos.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.sobos.sk/faktury-objednavky/",
+   "http://www.sobos.sk/zverejnovanie-zmluv/",
+   "http://www.sobos.sk/volby-do-organov-samospravy-obci-a-vuc-2026/",
+   "http://www.sobos.sk/vyzvy/",
+   "http://www.sobos.sk/publicita-k-nfp/",
+   "http://www.sobos.sk/aktuality/",
+   "http://www.sobos.sk/aktuality-2/",
+   "http://www.sobos.sk/"
+  ],
+  "status": "ok"
  },
  "527815": {
   "pages": [],
@@ -11095,8 +11407,12 @@
   "status": "ok"
  },
  "527963": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecvapenik.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecvapenik.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "527971": {
   "base": "https://varechovce.sk/",
@@ -11351,8 +11667,12 @@
   "status": "ok"
  },
  "528161": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.bol.ocu.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.bol.ocu.sk/"
+  ],
+  "status": "ok"
  },
  "528170": {
   "base": "https://www.obecborsa.sk/",
@@ -11737,8 +12057,20 @@
   "status": "bez webu"
  },
  "528447": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://www.kralovskychlmec.org/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://www.kralovskychlmec.org/samosprava/mestske-zastupitelstvo/uznesenia-msz/pozvanky/",
+   "https://www.kralovskychlmec.org/urad/uradna-tabula/oznamospenazovani2-1791452603895asice-616.html",
+   "https://www.kralovskychlmec.org/urad/uradna-tabula/vyzva-na-vykon-jesennej-celoplosnej-deratizacieruvz-tv-612.html",
+   "https://www.kralovskychlmec.org/urad/uradna-tabula/",
+   "https://www.kralovskychlmec.org/urad/uradna-tabula/upovedomenie-o-zacati-spravneho-konania-vyrub-drevin-phdr-berta-robert-mba-617.html",
+   "https://www.kralovskychlmec.org/urad/uradna-tabula/vyberove-veduci-mestske-sluzby-613.html",
+   "https://www.kralovskychlmec.org/samosprava/mestske-zastupitelstvo/",
+   "https://www.kralovskychlmec.org/samosprava/mestske-zastupitelstvo/poslanci-mestskeho-zastupitelstva/",
+   "https://www.kralovskychlmec.org/"
+  ],
+  "status": "ok"
  },
  "528455": {
   "base": "https://www.kravany.eu/",
@@ -12029,8 +12361,20 @@
   "status": "ok"
  },
  "528650": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.svatuse.eu/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.svatuse.eu/uradna-tabula/zoznam-zaregistrovanych-kandidatov-volby-do-obecneho-zastupitelstva-obce-svatuse-24-oktobra-2026.html",
+   "http://www.svatuse.eu/uradna-tabula/pozvanka-zhromazdenie-vlastnikov-polovnych-pozemkov.html",
+   "http://www.svatuse.eu/pre-obcana/uradna-tabula/faktury-zmluvy.html",
+   "http://www.svatuse.eu/uradna-tabula/zoznam-zaregistrovanych-kandidatov-volby-starostu-obce-svatuse-24-oktobra-2026.html",
+   "http://www.svatuse.eu/uradna-tabula/vyzva-prenajom-pozemkov.html",
+   "http://www.svatuse.eu/uradna-tabula/",
+   "http://www.svatuse.eu/pre-obcana/uradna-tabula/",
+   "http://www.svatuse.eu/pre-obcana/uradna-tabula/volby.html",
+   "http://www.svatuse.eu/"
+  ],
+  "status": "ok"
  },
  "528668": {
   "base": "https://www.obecpolany.sk/",
@@ -12285,8 +12629,12 @@
   "status": "ok"
  },
  "528838": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://nicsell.com/en",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://nicsell.com/en"
+  ],
+  "status": "ok"
  },
  "528846": {
   "base": "https://www.maladomasa.sk/",
@@ -12305,8 +12653,13 @@
   "status": "ok"
  },
  "528854": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://matiaska.wordpress.com/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://matiaska.wordpress.com/category/oznamy-ocu/",
+   "https://matiaska.wordpress.com/"
+  ],
+  "status": "ok"
  },
  "528862": {
   "base": "https://medzianky.sk/",
@@ -12402,8 +12755,20 @@
   "status": "ok"
  },
  "528927": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.niznykrucov.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.niznykrucov.sk/obecne_zastupitelstvo.html",
+   "http://www.niznykrucov.sk/obecne-zastupite-stvo-2026.html",
+   "http://www.niznykrucov.sk/obecne-zastupitelstvo-2025.html",
+   "http://www.niznykrucov.sk/obecne-zastupitelstvo-2024.html",
+   "http://www.niznykrucov.sk/obecne-zastupitelstvo-2023.html",
+   "http://www.niznykrucov.sk/obecne-zastupitelstvo-2022.html",
+   "http://www.niznykrucov.sk/obecne-zastupite-stvo-2021.html",
+   "http://www.niznykrucov.sk/obecne-zastupite-stvo-2020.html",
+   "http://www.niznykrucov.sk/"
+  ],
+  "status": "ok"
  },
  "528935": {
   "base": "https://novakelca.sk/",
@@ -12529,8 +12894,20 @@
   "status": "bez webu"
  },
  "529028": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obec-prosacov.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obec-prosacov.webnode.sk/oznamy2/",
+   "https://obec-prosacov.webnode.sk/zasupielsvo/",
+   "https://obec-prosacov.webnode.sk/povinne-zverejnovanie2/",
+   "https://obec-prosacov.webnode.sk/samosprava/",
+   "https://obec-prosacov.webnode.sk/oznamy/",
+   "https://obec-prosacov.webnode.sk/povinne-zverejnovanie/",
+   "https://obec-prosacov.webnode.sk/schvalene-dokumenty/",
+   "https://obec-prosacov.webnode.sk/faktury/",
+   "https://obec-prosacov.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "529036": {
   "base": "https://www.obecradvanovce.sk/",
@@ -12599,8 +12976,17 @@
   "status": "ok"
  },
  "529087": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://ruska-kajna.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://ruska-kajna.webnode.sk/elektronicka-uradna-tabula/",
+   "https://ruska-kajna.webnode.sk/obecne-zastupitelstvo/",
+   "https://ruska-kajna.webnode.sk/novinky/",
+   "https://ruska-kajna.webnode.sk/news/vyzva-na-predkladanie-ponuk/",
+   "https://ruska-kajna.webnode.sk/news/vyzvi-srdce-k-pohybu-/",
+   "https://ruska-kajna.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "529095": {
   "base": "https://ruskaporuba.sk/",
@@ -12674,8 +13060,20 @@
   "status": "ok"
  },
  "529141": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.sedliska.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.sedliska.sk/uznesenie_oz.html",
+   "http://www.sedliska.sk/verejne-obstaravanie.html",
+   "http://www.sedliska.sk/informacie-o-projekte.html",
+   "http://www.sedliska.sk/oznamenie-o-urovni-vytriedenia-a-vyzbieranych-mnozstvach.html",
+   "http://www.sedliska.sk/faktury.html",
+   "http://www.sedliska.sk/objednavky.html",
+   "http://www.sedliska.sk/zmluva-2026.html",
+   "http://www.sedliska.sk/zmluva-2025.html",
+   "http://www.sedliska.sk/"
+  ],
+  "status": "ok"
  },
  "529150": {
   "base": "https://www.obecskrabske.sk/",
@@ -12861,8 +13259,14 @@
   "status": "ok"
  },
  "529273": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obeczavada.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obeczavada.webnode.sk/samosprava/",
+   "https://obeczavada.webnode.sk/dokumenty/",
+   "https://obeczavada.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "529281": {
   "base": "https://www.obeczlatnik.eu/",
@@ -12967,8 +13371,20 @@
   "status": "ok"
  },
  "543195": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://obecjamnik.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://obecjamnik.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecjamnik.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecjamnik.sk/dokument/zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-do-zastupitelstva-kosickeho-samospravneho-kraja/",
+   "https://obecjamnik.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecjamnik.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obecjamnik.sk/uradna-tabula/",
+   "https://obecjamnik.sk/aktuality/nezaradene/oznam-o-verejnom-predstaveni-kandidatov-na-starostu-obce-a-poslancov-obecneho-zastupitelstva/",
+   "https://obecjamnik.sk/samosprava/obecne-zastupitelstvo/",
+   "https://obecjamnik.sk/"
+  ],
+  "status": "ok"
  },
  "543209": {
   "base": "https://kalava.sk/",
@@ -13745,8 +14161,12 @@
   "status": "bez webu"
  },
  "543772": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.obecsomotor.tym.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.obecsomotor.tym.sk/"
+  ],
+  "status": "ok"
  },
  "543781": {
   "pages": [],
@@ -13904,8 +14324,14 @@
   "status": "ok"
  },
  "543900": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "http://www.velkyhores.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "http://www.velkyhores.sk/fakturak",
+   "http://www.velkyhores.sk/jovahagyasra-varo-dokumentumok",
+   "http://www.velkyhores.sk/"
+  ],
+  "status": "ok"
  },
  "543918": {
   "base": "https://velkykamenec.sk/",
@@ -14331,8 +14757,13 @@
   "status": "bez webu"
  },
  "544205": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://girovce.webnode.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://girovce.webnode.sk/volby-do-samospravy-obci/",
+   "https://girovce.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "544213": {
   "base": "https://www.hanusovce.sk/",
@@ -14462,8 +14893,18 @@
   "status": "ok"
  },
  "559644": {
-  "pages": [],
-  "status": "web nedostupný: SSLError"
+  "base": "https://gruzovce.weblahko.sk/",
+  "discovered": "2026-10-20",
+  "pages": [
+   "https://gruzovce.weblahko.sk/Obecne-zastupitelstvo.html",
+   "https://gruzovce.weblahko.sk/Zmluvy.html",
+   "https://gruzovce.weblahko.sk/Faktury.html",
+   "https://gruzovce.weblahko.sk/Dotacie.html",
+   "https://gruzovce.weblahko.sk/Oznamenia.html",
+   "https://gruzovce.weblahko.sk/Verejne-obstaravanie.html",
+   "https://gruzovce.weblahko.sk/"
+  ],
+  "status": "ok"
  },
  "559652": {
   "base": "https://www.maskovce.sk/",
@@ -14729,7 +15170,7 @@
  },
  "580368": {
   "pages": [],
-  "status": "web nedostupný: SSLError"
+  "status": "web nedostupný: HTTPError"
  },
  "580601": {
   "base": "https://www.dukovce.sk/",
