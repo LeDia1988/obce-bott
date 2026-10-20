@@ -1,0 +1,85 @@
+nazov,okres,kraj,rok,suma
+Helcmanovce,Gelnica,Košický kraj,2025,50000
+Stará Voda,Gelnica,Košický kraj,2026,50000
+Veľký Folkmar,Gelnica,Košický kraj,2026,50000
+Belža,Košice,Košický kraj,2026,50000
+Hosťovce,Košice,Košický kraj,2026,46000
+Kechnec,Košice,Košický kraj,2026,45000
+Kokšov - Bakša,Košice,Košický kraj,2025,50000
+Košice - Barca,Košice,Košický kraj,2025,47680
+Košice - Juh,Košice,Košický kraj,2025,50000
+Košice - Šaca,Košice,Košický kraj,2026,49300
+Košická Polianka,Košice,Košický kraj,2026,50000
+Kráľovce,Košice,Košický kraj,2026,35200
+Ploské,Košice,Košický kraj,2026,50000
+Slanské Nové Mesto,Košice,Košický kraj,2026,50000
+Vyšný Klátov,Košice,Košický kraj,2025,50000
+Bajany,Michalovce,Košický kraj,2026,50000
+Bracovce,Michalovce,Košický kraj,2026,47000
+Iňačovce,Michalovce,Košický kraj,2026,50000
+Ložín,Michalovce,Košický kraj,2026,49400
+Malčice,Michalovce,Košický kraj,2026,50000
+Moravany,Michalovce,Košický kraj,2025,50000
+Poruba Pod Vihorlatom,Michalovce,Košický kraj,2025,49000
+Rakovec Nad Ondavou,Michalovce,Košický kraj,2026,50000
+Zemplínska Široká,Michalovce,Košický kraj,2026,28900
+Dobšiná,Rožňava,Košický kraj,2025,50000
+Gemerská Hôrka,Rožňava,Košický kraj,2026,49500
+Krásnohorské Podhradie,Rožňava,Košický kraj,2026,50000
+Horňa,Sobrance,Košický kraj,2026,45000
+Jenkovce,Sobrance,Košický kraj,2026,50000
+Remetské Hámre,Sobrance,Košický kraj,2025,33000
+Sobrance,Sobrance,Košický kraj,2026,50000
+Chrasť Nad Hornádom,Spišská Nová Ves,Košický kraj,2025,50000
+Hrabušice,Spišská Nová Ves,Košický kraj,2026,49000
+Kaľava,Spišská Nová Ves,Košický kraj,2026,50000
+Markušovce,Spišská Nová Ves,Košický kraj,2026,50000
+Poráč,Spišská Nová Ves,Košický kraj,2025,50000
+Bačkov,Trebišov,Košický kraj,2026,50000
+Brezina,Trebišov,Košický kraj,2026,25800
+Čeľovce,Trebišov,Košický kraj,2026,42400
+Leles,Trebišov,Košický kraj,2026,50000
+Nový Ruskov,Trebišov,Košický kraj,2026,50000
+Parchovany,Trebišov,Košický kraj,2026,50000
+Poľany,Trebišov,Košický kraj,2026,40200
+Sečovce,Trebišov,Košický kraj,2025,49960
+Bardejov,Bardejov,Prešovský kraj,2026,50000
+Malcov,Bardejov,Prešovský kraj,2026,35600
+Osikov,Bardejov,Prešovský kraj,2025,50000
+Richvald,Bardejov,Prešovský kraj,2025,50000
+Hudcovce,Humenné,Prešovský kraj,2025,50000
+Košarovce,Humenné,Prešovský kraj,2026,44800
+Koškovce,Humenné,Prešovský kraj,2026,50000
+Lieskovec,Humenné,Prešovský kraj,2026,49900
+Ľubiša,Humenné,Prešovský kraj,2025,43200
+Maškovce,Humenné,Prešovský kraj,2026,46100
+Turcovce,Humenné,Prešovský kraj,2025,43200
+Udavské,Humenné,Prešovský kraj,2026,50000
+Vyšná Sitnica,Humenné,Prešovský kraj,2026,45000
+Kežmarok,Kežmarok,Prešovský kraj,2025,50000
+Klčov,Levoča,Prešovský kraj,2026,50000
+Nemešany,Levoča,Prešovský kraj,2025,50000
+Radvaň Nad Laborcom,Medzilaborce,Prešovský kraj,2025,49500
+Štrba,Poprad,Prešovský kraj,2026,50000
+Bretejovce,Prešov,Prešovský kraj,2025,50000
+Chmeľov,Prešov,Prešovský kraj,2026,45100
+Kapušany,Prešov,Prešovský kraj,2026,50000
+Kojatice,Prešov,Prešovský kraj,2026,50000
+Široké,Prešov,Prešovský kraj,2025,50000
+Trnkov,Prešov,Prešovský kraj,2025,50000
+Župčany,Prešov,Prešovský kraj,2026,49500
+Krivany,Sabinov,Prešovský kraj,2026,50000
+Ruský Potok,Snina,Prešovský kraj,2025,50000
+Stakčín,Snina,Prešovský kraj,2026,50000
+Zboj,Snina,Prešovský kraj,2026,45000
+Hromoš,Stará Ľubovňa,Prešovský kraj,2025,46140
+Šarišské Jastrabie,Stará Ľubovňa,Prešovský kraj,2026,50000
+Giraltovce,Svidník,Prešovský kraj,2026,50000
+Krajná Bystrá,Svidník,Prešovský kraj,2025,50000
+Mestisko,Svidník,Prešovský kraj,2026,50000
+Rakovčík,Svidník,Prešovský kraj,2025,50000
+Valkovce,Svidník,Prešovský kraj,2026,50000
+Ďapalovce,Vranov nad Topľou,Prešovský kraj,2026,50000
+Poša,Vranov nad Topľou,Prešovský kraj,2026,50000
+Sedliská,Vranov nad Topľou,Prešovský kraj,2025,50000
+Slovenská Kajňa,Vranov nad Topľou,Prešovský kraj,2026,40400
