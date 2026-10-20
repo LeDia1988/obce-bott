@@ -19,6 +19,7 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
 SOURCES = os.path.join(DATA, "sources.json")   # obec -> zoznam sledovaných podstránok
 SEEN = os.path.join(DATA, "seen.json")         # obec -> už videné odkazy
+PAGES = os.path.join(DATA, "pages.json")       # obec -> stránka -> odtlačky riadkov textu
 WORKERS = 24
 TIMEOUT = 20
 MAX_DOC_BYTES = 15 * 1024 * 1024
@@ -36,7 +37,8 @@ SECTION_WORDS = [
     "uradna tabula", "uradna-tabula", "uradnatabula", "oznam", "aktualit", "zastupitel",
     "uznesen", "zapisnic", "pozvank", "rozpocet", "rozpoct", "zasadnut", "samosprav",
     "dokument", "zverejnovan", "verejne obstaravan", "verejne-obstaravan", "zakazk",
-    "vyzv", "dotaci", "projekt", "novinky", "spravy", "zmluv", "objednav", "faktur",
+    "vyzv", "dotaci", "projekt", "novinky", "spravy", "zmluv", "objednav", "faktur", "zamer", "investic", "rozvoj", "aktivit", "participativ",
+    "pripravovan", "planovan", "revitaliz", "ihrisk", "verejne priestor",
 ]
 
 # témy, ktoré vieme zabezpečiť  ->  (názov, regex nad normalizovaným textom)
@@ -163,9 +165,11 @@ def discover(obec):
             score += 3
         if "rozpoc" in key:
             score += 2
+        if "zamer" in key or "projekt" in key or "investic" in key or "pripravovan" in key or "revitaliz" in key:
+            score += 2
         if score:
             cand[u] = max(cand.get(u, 0), score)
-    pages = [u for u, _ in sorted(cand.items(), key=lambda x: -x[1])[:8]]
+    pages = [u for u, _ in sorted(cand.items(), key=lambda x: -x[1])[:14]]
     if base not in pages:
         pages.append(base)  # aj titulka (aktuality bývajú tam)
     return {"status": "ok", "pages": pages, "base": base,
@@ -242,21 +246,54 @@ def classify(text):
 
 
 # ---------------------------------------------------------------- jedna obec
-def check(obec, src, seen_urls, baseline):
+def page_lines(s):
+    for t in s(["script", "style", "nav", "header", "footer", "noscript"]):
+        t.decompose()
+    lines = []
+    for el in s.find_all(["p", "li", "h1", "h2", "h3", "h4", "td", "div"]):
+        if el.find(["p", "li", "div", "td"]):
+            continue
+        t = " ".join(el.get_text(" ", strip=True).split())
+        if 25 <= len(t) <= 1500:
+            lines.append(t)
+    return list(dict.fromkeys(lines))
+
+
+def check(obec, src, seen_urls, baseline, old_lines=None):
     new_items = []
     all_urls = set()
+    old_lines = old_lines or {}
+    page_state = {}
+    changes = []
     for page in src.get("pages", []):
         try:
             r = get(page)
         except Exception:
             continue
         s = soup_of(r)
+        page_new = page not in old_lines   # nová sledovaná podstránka = len zapamätať
+        try:
+            import hashlib
+            lines = page_lines(BeautifulSoup(str(s), "lxml"))
+            hs = [hashlib.md5(norm(x).encode()).hexdigest()[:10] for x in lines]
+            prev = old_lines.get(page)
+            page_state[page] = hs[:600]
+            if prev is not None and not baseline:
+                prevset = set(prev)
+                added = [x for x, h in zip(lines, hs) if h not in prevset]
+                txt = " \n ".join(added)
+                if added:
+                    t, ty = classify(txt)
+                    if t:
+                        changes.append({"page": page, "text": txt[:20000], "temy": t, "typ": ty})
+        except Exception:
+            pass
         for l in links_of(s, r.url):
             u = l["url"]
             if u.lower().endswith(SKIP_EXT):
                 continue
             all_urls.add(u)
-            if u in seen_urls or baseline:
+            if u in seen_urls or baseline or page_new:
                 continue
             # nové len to, čo vyzerá ako oznam/dokument (nie menu, galéria)
             if re.search(r"^(zobrazit galeriu|dalej|viac|citat viac|l_events|foto|galeria)", norm(l["text"])):
@@ -299,7 +336,21 @@ def check(obec, src, seen_urls, baseline):
             "temy": topics, "typ": types, "sumy_eur": money(body) if body else [],
             "ukazky": list(dict.fromkeys(sn))[:5],
         })
-    return findings, all_urls
+    for ch in changes:
+        sn = []
+        for n, rx in TOPIC_RE:
+            if n in ch["temy"]:
+                sn += snippets(ch["text"], rx, 2)
+        full = norm(ch["text"])
+        findings.append({
+            "projekcia": bool(PROJ_RE.search(full)),
+            "firmy": [f["nazov"] for f in FIRMY if f["_rx"].search(full)],
+            "obec": obec["nazov"], "statut": obec["statut"], "okres": obec["okres"], "kraj": obec["kraj"],
+            "kod": obec["kod"], "title": "Nový text na stránke", "url": ch["page"], "zdroj": ch["page"],
+            "temy": ch["temy"], "typ": ch["typ"], "sumy_eur": money(ch["text"]), "zmena_stranky": True,
+            "ukazky": list(dict.fromkeys(sn))[:5],
+        })
+    return findings, all_urls, page_state
 
 
 # ---------------------------------------------------------------- main
@@ -328,6 +379,7 @@ def main():
         obce = obce[:limit]
     sources = load(SOURCES, {})
     seen = load(SEEN, {})
+    pages_db = load(PAGES, {})
     today = datetime.date.today()
 
     # 1) discovery (nové obce, alebo raz za týždeň)
@@ -359,11 +411,13 @@ def main():
             baseline = o["kod"] not in seen   # prvý beh pre obec = len zapamätať
             if baseline:
                 stats["baseline"] += 1
-            futs[ex.submit(check, o, src, set(seen.get(o["kod"], [])), baseline)] = o
+            futs[ex.submit(check, o, src, set(seen.get(o["kod"], [])), baseline, pages_db.get(o["kod"], {}))] = o
         for f in as_completed(futs):
             o = futs[f]
             try:
-                fnd, urls = f.result()
+                fnd, urls, pstate = f.result()
+                # stránka, ktorú vidíme prvýkrát, sa len zapamätá
+                pages_db[o["kod"]] = {**pages_db.get(o["kod"], {}), **pstate}
             except Exception as e:
                 print("chyba", o["nazov"], e)
                 stats["chyba"] += 1
@@ -374,6 +428,7 @@ def main():
             merged = list(dict.fromkeys(list(urls) + old))[:3000]
             seen[o["kod"]] = merged
     save(SEEN, seen)
+    save(PAGES, pages_db)
 
     findings.sort(key=lambda x: (x["kraj"], x["okres"], x["obec"]))
     report = {

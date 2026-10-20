@@ -2,7 +2,11 @@ name: Denná kontrola obcí
 on:
   schedule:
     - cron: "15 3 * * *"   # 5:15 v zime / 6:15 v lete (SK čas)
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      rediscover:
+        description: Nanovo nájsť podstránky obcí
+        default: "false"
 permissions:
   contents: write
 concurrency: obce-bot
@@ -16,7 +20,7 @@ jobs:
         with: { python-version: "3.12" }
       - run: sudo apt-get install -y -qq poppler-utils
       - run: pip install -q requests beautifulsoup4 lxml
-      - run: python bot.py
+      - run: python bot.py ${{ github.event.inputs.rediscover == 'true' && '--rediscover' || '' }}
       - name: Obstarávania, výzvy, zmluvy
         run: python zdroje.py
         continue-on-error: true
