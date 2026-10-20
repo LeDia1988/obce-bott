@@ -63,17 +63,32 @@ def obce_names():
 OBCE = obce_names()
 
 
+ADJ = {"horna", "dolna", "nizna", "vysna", "mala", "velka", "nova", "stara", "spisska", "spissky", "spisske",
+       "zemplinska", "zemplinske", "male", "velke", "horne", "dolne", "nizne", "vysne", "novy", "stary", "maly", "velky",
+       "horny", "dolny", "nizny", "vysny", "sarisske", "sarissky", "sarisska", "bardejovska", "bardejovske"}
+OK_NEXT = {"okres", "ico", "psc", "sk", "slovensko", "slovenska", "republika", "ul", "ulica", "namestie", "nam", "c", "cislo"}
+
+
 def match_obec(text):
     """Nájde obec/mesto z našich krajov v názve obstarávateľa/objednávateľa."""
     t = norm(text).replace(" - ", "-")
     t = re.sub(r"\b(obec|mesto|mestska cast|obecny urad|mestsky urad|statutarne mesto)\b", " ", t)
-    t = " ".join(t.replace(",", " ").split())
-    if t in OBCE:
-        return OBCE[t]
-    # najdlhší názov obce, ktorý je celý v texte
+    t = " ".join(re.sub(r"[,;()\"]", " , ", t).split())
+    if t.strip(" ,") in OBCE:
+        return OBCE[t.strip(" ,")]
     best = None
     for n, o in OBCE.items():
-        if len(n) >= 4 and re.search(r"(^|\s)" + re.escape(n) + r"(\s|$)", t):
+        if len(n) < 4:
+            continue
+        for m in re.finditer(r"(^|\s)" + re.escape(n) + r"(?=\s|$)", t):
+            before = t[:m.start()].split()
+            after = t[m.end():].split()
+            prev = before[-1] if before else ""
+            nxt = after[0] if after else ""
+            if prev in ADJ:
+                continue          # "Horná Breznica" nie je "Breznica"
+            if not before and nxt and nxt != "," and not nxt.isdigit() and nxt not in OK_NEXT and re.match(r"^[a-z]", nxt):
+                continue          # "Horná Streda" nie je "Horňa"
             if not best or len(n) > len(norm(best["nazov"])):
                 best = o
     return best

@@ -19,3 +19,8 @@ Denný e-mailový sumár z neho robí naplánovaná úloha v Claude.
 
 Doplnenie projektanta alebo konkurenta: pridať riadok do `firmy.csv`
 (`hladat` = časť názvu, ako je v CRZ).
+
+## Register zámerov – `data/register.csv`
+Trvalý zoznam projektov (ID KE-Z-xxx / PO-Z-xxx, priorita A/B/C, stav, suma, projektant,
+míľnik, zdroj, kontakt, krok). Ranný report pridáva nové zámery a aktualizuje existujúce;
+hlási len nové záznamy a podstatné zmeny. Stĺpec `stav_obchodu` je pre vlastné poznámky.
