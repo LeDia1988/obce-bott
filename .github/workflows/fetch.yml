@@ -1,0 +1,21 @@
+name: Stiahnuť dokumenty (pomôcka)
+on:
+  workflow_dispatch:
+    inputs:
+      urls: { description: "URL stránok oddelené čiarkou" }
+      pattern: { description: "regex na odkazy", default: "." }
+permissions: { contents: write }
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: sudo apt-get install -y -qq poppler-utils && pip install -q requests beautifulsoup4 lxml
+      - run: python tools/fetch.py "${{ github.event.inputs.urls }}" "${{ github.event.inputs.pattern }}"
+      - run: |
+          git init -q o && cp -r fetch_out o/ && cd o && rm -f fetch_out/*.pdf
+          git config user.name obce-bot && git config user.email obce-bot@users.noreply.github.com
+          git checkout -q -b fetch-data && git add -A && git commit -qm fetch
+          git push -f "https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}" fetch-data
