@@ -915,8 +915,26 @@
   "status": "ok"
  },
  "519405": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://krive.estranky.sk/",
+  "discovered": "2026-10-21",
+  "pages": [
+   "https://krive.estranky.sk/clanky/samosprava/uradna-tabula/",
+   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/obecne-zastupitelstvo/",
+   "https://krive.estranky.sk/clanky/oznamy/pozvanka-na-schodzu-oz-29.12.2025.html",
+   "https://krive.estranky.sk/clanky/oznamy/zamer-prevodu-akcii-vvs-a.s..html",
+   "https://krive.estranky.sk/clanky/oznamy/oznamenie-o-urceni-poctu-poslancov-do-samospravy-obci.html",
+   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/faktury/",
+   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/objednavky/",
+   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/zmluvy/",
+   "https://krive.estranky.sk/clanky/oznamy/vyzva-na-uplatnenie-predkupneho-prava-k-akciam-vvs-a.s.html",
+   "https://krive.estranky.sk/clanky/samosprava/",
+   "https://krive.estranky.sk/clanky/samosprava/samosprava-obce-krive/",
+   "https://krive.estranky.sk/clanky/samosprava/obecny-urad/",
+   "https://krive.estranky.sk/clanky/samosprava/uradne-hodiny/",
+   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/",
+   "https://krive.estranky.sk/"
+  ],
+  "status": "ok"
  },
  "519413": {
   "pages": [],
@@ -11630,7 +11648,7 @@
  },
  "525731": {
   "pages": [],
-  "status": "web nedostupný: HTTPError"
+  "status": "web nedostupný: ReadTimeout"
  },
  "525740": {
   "base": "https://www.hrhov.sk/",
@@ -15102,8 +15120,14 @@
   "status": "ok"
  },
  "528005": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://vladica.estranky.sk/",
+  "discovered": "2026-10-21",
+  "pages": [
+   "https://vladica.estranky.sk/clanky/uradne-oznamy-obce/",
+   "https://vladica.estranky.sk/clanky/aktuality.html",
+   "https://vladica.estranky.sk/"
+  ],
+  "status": "ok"
  },
  "528013": {
   "base": "https://www.vojtovce.dcom.sk/",
@@ -18713,8 +18737,26 @@
   "status": "ok"
  },
  "543781": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://www.stankovce.sk/",
+  "discovered": "2026-10-21",
+  "pages": [
+   "https://www.stankovce.sk/clanky/obec/zapisnice-a-uznesenia/",
+   "https://www.stankovce.sk/clanky/obec/rozpocet-obce/",
+   "https://www.stankovce.sk/clanky/povinne-zverejnovanie/objednavky/",
+   "https://www.stankovce.sk/clanky/povinne-zverejnovanie/zmluvy/",
+   "https://www.stankovce.sk/clanky/povinne-zverejnovanie/faktury/",
+   "https://www.stankovce.sk/clanky/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://www.stankovce.sk/clanky/verejne-obstaravanie/podlimitne-zakazky/",
+   "https://www.stankovce.sk/clanky/verejne-obstaravanie/zakazky-podla---9-ods.-9/",
+   "https://www.stankovce.sk/clanky/uvod/detske-ihrisko---areal-obecneho-uradu-obec-stankovce.html",
+   "https://www.stankovce.sk/clanky/samosprava/",
+   "https://www.stankovce.sk/clanky/samosprava/organy-obce/",
+   "https://www.stankovce.sk/clanky/samosprava/kontakt/",
+   "https://www.stankovce.sk/clanky/samosprava/komisie/",
+   "https://www.stankovce.sk/clanky/obec/dokumenty-obce/",
+   "https://www.stankovce.sk/"
+  ],
+  "status": "ok"
  },
  "543799": {
   "base": "https://www.strazne.sk/",
@@ -20527,7 +20569,25 @@
   "status": "ok"
  },
  "599981": {
-  "pages": [],
-  "status": "web nedostupný: ReadTimeout"
+  "base": "https://www.kosice.sk/",
+  "discovered": "2026-10-21",
+  "pages": [
+   "https://www.kosice.sk/clanky/skupina/uradna-tabula",
+   "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo",
+   "https://www.kosice.sk/clanok/komunalne-volby-2026-zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-mestskeho-zastupitelstva",
+   "https://www.kosice.sk/clanky/skupina/projekty-mesta",
+   "https://static.kosice.sk/files/manual/noviny/Vizie_investicie_vysledky/index.html",
+   "https://static.kosice.sk/files/manual/noviny/VysledkyPreKosice_brozura/index.html",
+   "https://www.kosice.sk/clanok/projekt-virtualne-centrum-celozivotneho-vzdelavania-pre-dekarbonizaciu-priemyslu",
+   "https://www.kosice.sk/obcan/uzemne-planovanie",
+   "https://www.kosice.sk/mesto/regionalny-rozvoj",
+   "https://www.kosice.sk/mesto/programove-obdobie-2021-2027-udrzatelny-mestsky-rozvoj",
+   "https://www.kosice.sk/mesto/samosprava",
+   "https://www.kosice.sk/obcan/verejne-obstaravania",
+   "https://www.kosice.sk/transparentne-mesto/oznamovanie-protispolocenskej-cinnosti-zakon-c-54-2019-z-z-",
+   "https://www.kosice.sk/transparentne-mesto/dotacie-a-granty",
+   "https://www.kosice.sk/"
+  ],
+  "status": "ok"
  }
 }
