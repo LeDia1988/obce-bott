@@ -1,67 +1,18 @@
 {
- "datum": "2026-10-21",
- "obstaravania": [
-  {
-   "cpv": "",
-   "datum": "20.10.2026",
-   "nazov": "Rodinný oddychový areál pod Ehrenheimovou kúriou Trnava pri Laborci",
-   "nuts": "",
-   "obec": "Trnava Pri Laborci",
-   "obstaravatel": "Obec Trnava pri Laborci",
-   "okres": "Michalovce",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/567079?cHash=ddd9713d806552b3ad8e104ab44ea586",
-   "zdroj": "ÚVO"
-  }
- ],
- "prepojenia": [
-  {
-   "datum": "20. Október 2026",
-   "dodavatel": "PLAYSYSTEM s.r.o.",
-   "firma": "Playsystem",
-   "nazov": "Zmluva o dielo č. 29/2026 DOO_028_2026",
-   "obec": "Košice - Šaca",
-   "objednavatel": "Mestská časť Košice - Šaca",
-   "okres": "Košice",
-   "relevantne": false,
-   "suma": "56 229,45 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/12958092/"
-  }
- ],
+ "datum": "2026-10-22",
+ "obstaravania": [],
+ "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "ministerstvo",
-   "nazov": "Za tri roky na úroveň OECD. FinQ ukazuje výsledky zmien, na ktorých stojí aj kurikulárna reforma",
-   "temy": [],
-   "url": "https://www.minedu.sk/za-tri-roky-na-uroven-oecd-finq-ukazuje-vysledky-zmien-na-ktorych-stoji-aj-kurikularna-reforma/",
-   "zdroj": "Ministerstvo školstva (MŠVVaM)",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "vláda",
-   "nazov": "Ďalších 151 bytov pribudne do systému štátom podporovaného nájomného bývania",
-   "temy": [],
-   "url": "https://www.vlada.gov.sk/tlacove-spravy/dalsich-151-bytov-pribudne-do-systemu-statom-podporovaneho-najomneho-byvania/",
-   "zdroj": "Úrad vlády SR",
-   "zhoda_tem": false
-  },
-  {
    "kategoria": "kraj",
-   "nazov": "20. 10. 2026 – Školstvo Podpora duševného zdravia v praxi, PSK otvára ďalšie mentoringové priestory na školách Prešovský samosprávny kraj úspešne rozvíja program mentoringu a tútoringu aj budovaním nových špecializovaných mentoringových miestností. Najnovšie pribudli v Spojenej škole v Starej Ľubovn",
-   "temy": [],
-   "url": "https://psk.sk/podpora-dusevneho-zdravia-v-praxi-psk-otvara-dalsie-mentoringove-priestory-na-skolach/",
+   "nazov": "21. 10. 2026 – Doprava V prešovskom regióne sa vďaka župným eurofondom budujú nové cyklotrasy Prešovský samosprávny kraj pokračuje v systematickom rozvoji cyklistickej infraštruktúry. V rámci integrovaných územných investícií má v oblasti cyklodopravy a cykloturistiky pripravených 26 projektov za ta",
+   "temy": [
+    "Turistická infraštruktúra"
+   ],
+   "url": "https://psk.sk/v-presovskom-regione-sa-vdaka-zupnym-eurofondom-buduju-nove-cyklotrasy/",
    "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "kraj",
-   "nazov": "20. 10. 2026 – Doprava Cesta medzi Richvaldom a Kružlovom je vďaka eurofondom vo výške 1,2 mil. eur kvalitnejšia a bezpečnejšia",
-   "temy": [],
-   "url": "https://psk.sk/cesta-medzi-richvaldom-a-kruzlovom-je-vdaka-eurofondom-vo-vyske-12-mil-eur-kvalitnejsia-a-bezpecnejsia/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
+   "zhoda_tem": true
   }
  ],
  "zmluvy": []

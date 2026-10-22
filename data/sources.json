@@ -11648,7 +11648,7 @@
  },
  "525731": {
   "pages": [],
-  "status": "web nedostupný: ReadTimeout"
+  "status": "web nedostupný: HTTPError"
  },
  "525740": {
   "base": "https://www.hrhov.sk/",
