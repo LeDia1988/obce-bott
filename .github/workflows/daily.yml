@@ -18,7 +18,14 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
-      - run: sudo apt-get install -y -qq poppler-utils
+      - name: Inštalácia poppler-utils (pdftotext)
+        continue-on-error: true   # bez PDF textu radšej beh dokončiť, než celý zlyhať
+        run: |
+          for i in 1 2 3; do
+            sudo apt-get update -qq && sudo apt-get install -y -qq --fix-missing poppler-utils && break
+            echo "apt pokus $i zlyhal, opakujem o 20 s"; sleep 20
+          done
+          command -v pdftotext || echo "::warning::pdftotext nie je k dispozícii – PDF sa tento beh nespracujú"
       - run: pip install -q requests beautifulsoup4 lxml
       - run: python bot.py ${{ github.event.inputs.rediscover == 'true' && '--rediscover' || '' }}
       - name: Obstarávania, výzvy, zmluvy
