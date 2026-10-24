@@ -1,0 +1,95 @@
+{
+ "datum": "2026-10-24",
+ "obstaravania": [
+  {
+   "hodnota": "Prieskum trhu",
+   "lehota": "27.10.2026 23:59:00 Prebiehajúca",
+   "nazov": "Modernizácia strojového parku živočíšnej výroby 16500000-0",
+   "obec": "Honce",
+   "obstaravatel": "AGROSPOL Honce, s. r. o. SK",
+   "okres": "Rožňava",
+   "projekcia": false,
+   "url": "https://josephine.proebiz.com/sk/tender/83555/summary",
+   "zdroj": "Josephine"
+  }
+ ],
+ "prepojenia": [
+  {
+   "datum": "23. Október 2026",
+   "dodavatel": "FUN & PLAY s.r.o.",
+   "firma": "Fun&Play",
+   "nazov": "Zmluva o dielo 2016/017",
+   "obec": "Poša",
+   "objednavatel": "Obec Poša",
+   "okres": "Vranov nad Topľou",
+   "relevantne": false,
+   "suma": "55 949,05 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/12974122/"
+  }
+ ],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "kraj",
+   "nazov": "TOP správa 16.10.2026 Starostlivosť o krajinu dostane svoju hodnotu: Košická župa spúšťa výzvu na prírodné kredity V dotačnej výzve s názvom KRAJ KRAJINE, KRAJINA KRAJU rozdelí župa 500-tisíc eur. Prihlásiť sa možno do 31.12.2026.",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/smart-region/aktuality/starostlivost-o-krajinu-dostane-svoju-hodnotu-kosicka-zupa-spusta-vyzvu-na-prirodne-kredity-a22-16212",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "- Výsledky kontrol",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/samospravny-kraj/kontrola/vysledky-kontrol",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "- Programové obdobie 2028 - 2034",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/programove-obdobie-2028-2034",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "- Programové obdobie 2021 - 2027",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/uradna-tabula/projekty/po-2021-2027",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "- Programové obdobie 2014 – 2020",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/uradna-tabula/projekty/po-2014-2020",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "- Programové obdobie 2007 – 2013",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/uradna-tabula/projekty/po-2007-2013",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": [
+  {
+   "datum": "24. Október 2026",
+   "dodavatel": "MEDIINVEST Consulting, s.r.o.",
+   "nazov": "Zmluva o poskytovaní služieb - verejné obstarávanie a riadenie projektu: Ihrisko pri kultúrnom dome Smižany ZPS_004/2026",
+   "obec": "Smižany",
+   "objednavatel": "Obec Smižany",
+   "okres": "Spišská Nová Ves",
+   "projekcia": false,
+   "suma": "10 086,00 €",
+   "url": "https://www.crz.gov.sk/zmluva/12979136/"
+  }
+ ]
+}
