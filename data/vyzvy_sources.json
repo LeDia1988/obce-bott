@@ -1,6 +1,6 @@
 {
  "https://ekopolis.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://ekopolis.sk/",
    "https://ekopolis.sk/vyzvy/eea-vyzva-c-1-na-male-granty/",
@@ -12,14 +12,16 @@
   ]
  },
  "https://psk.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://psk.sk/",
-   "https://psk.sk/nova-okruzna-krizovatka-v-spisskom-stvrtku-za-12-mil-eur-uz-sluzi-motoristom/"
+   "https://psk.sk/v-presovskom-regione-sa-vdaka-zupnym-eurofondom-buduju-nove-cyklotrasy/",
+   "https://psk.sk/podpora-dusevneho-zdravia-v-praxi-psk-otvara-dalsie-mentoringove-priestory-na-skolach/",
+   "https://psk.sk/cesta-medzi-richvaldom-a-kruzlovom-je-vdaka-eurofondom-vo-vyske-12-mil-eur-kvalitnejsia-a-bezpecnejsia/"
   ]
  },
  "https://www.apa.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.apa.sk/",
    "https://www.apa.sk/aktualne-vyzvy/projektove-podpory-aktualne",
@@ -31,7 +33,7 @@
   ]
  },
  "https://www.employment.gov.sk/sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.employment.gov.sk/sk/",
    "https://www.employment.gov.sk/sk/ministerstvo/poskytovanie-dotacii/",
@@ -43,19 +45,19 @@
   ]
  },
  "https://www.envirofond.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://envirofond.sk/",
+   "https://envirofond.sk/2026/10/23/vyzva-mof-3-2025-od-1-hodnotiaceho-kola-vyroba-energie-z-oze-od-2-hodnotiaceho-kola-vyroba-energie-z-oze-vyzva-mof-5-2026-hybridna/",
    "https://envirofond.sk/2026/10/15/vyzva-mof-8-2026-usmernenie-c-8-2026-3-k-vyzve/",
    "https://envirofond.sk/aktualne-vyzva-a-specifikacie/",
    "https://envirofond.sk/vody-vyzva-c-b1-2026/",
    "https://envirofond.sk/modernizacny-fond-vyzva-mof-8-2026-ee-v-podnikoch/",
-   "https://envirofond.sk/modernizacny-fond-vyzva-mof-7-2026/",
-   "https://envirofond.sk/modernizacny-fond-vyzva-mof-6-2026/"
+   "https://envirofond.sk/modernizacny-fond-vyzva-mof-7-2026/"
   ]
  },
  "https://www.eurofondy.gov.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.eurofondy.gov.sk/",
    "https://eurofondy.gov.sk/narodne-kohezne-forum-reflexia-20-rokov-vyuzivania-eurofondov-a-vyzvy-noveho-programoveho-obdobia/",
@@ -67,7 +69,7 @@
   ]
  },
  "https://www.fnps.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.fnps.sk/",
    "https://www.fnps.sk/moznosti-podpory",
@@ -77,7 +79,7 @@
   ]
  },
  "https://www.grantexpert.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.grantexpert.sk/",
    "https://www.grantexpert.sk/granty-na-ai-prehlad-otvorenych-grantovych-vyziev-a-dotacii/",
@@ -89,16 +91,16 @@
   ]
  },
  "https://www.kosickazupa.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.kosickazupa.sk/"
   ]
  },
  "https://www.mincrs.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.mincrs.sk/",
-   "https://www.mincrs.sk/financovanie",
+   "https://mincrs.sk/financovanie",
    "https://www.mincrs.sk/vyzvy-na-poskytnutie-prispevku-odboru-podpory-cr",
    "https://www.mincrs.sk/vyzvy-na-poskytnutie-dotacii-pre-oocr-kocr-odbor-destinacneho-manazmentu",
    "https://www.mincrs.sk/vyzvy",
@@ -106,7 +108,7 @@
   ]
  },
  "https://www.minedu.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.minedu.sk/",
    "https://www.minedu.sk/29012-sk/vyzvy/",
@@ -118,7 +120,7 @@
   ]
  },
  "https://www.mirri.gov.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://mirri.gov.sk/",
    "https://mirri.gov.sk/projekty/projekty-esif/",
@@ -130,18 +132,18 @@
   ]
  },
  "https://www.nadaciapontis.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.nadaciapontis.sk/",
    "https://www.nadaciapontis.sk/vyzvy/",
    "https://www.nadaciapontis.sk/transparentnost-a-etika/ako-sme-financovani/",
    "https://www.nadaciapontis.sk/nadacne-fondy-a-darcovske-programy/",
-   "https://www.nadaciapontis.sk/novinky/vecer-na-dosah-spojil-filantropiu-s-prirodou-najcennejsia-je-podpora-ktora-vydrzi-zaznelo-v-diskusii/",
-   "https://www.nadaciapontis.sk/projekty/via-bona-slovakia/o-via-bone/"
+   "https://www.nadaciapontis.sk/novinky/fond-pre-transparentne-slovensko-prinasa-inovativny-model-podpory-pre-obcianske-organizacie/",
+   "https://www.nadaciapontis.sk/novinky/najnovsi-prieskum-dve-percenta-podporuje-vyrazna-vacsina-verejnosti-prinasaju-ludom-uzitocnu-pomoc/"
   ]
  },
  "https://www.nadaciaspp.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.nadaciaspp.sk/",
    "https://www.nadaciaspp.sk/nadacia-spp-opat-podpori-dusevne-zdravie-deti-grantovym-programom-sppravmeto-pre-nase-deti/",
@@ -153,14 +155,15 @@
   ]
  },
  "https://www.vlada.gov.sk/": {
-  "d": "2026-10-19",
+  "d": "2026-10-26",
   "pages": [
    "https://www.vlada.gov.sk/",
    "https://www.vlada.gov.sk/plan-obnovy/vyzvy-na-podporu-vyskumu-vyvoja-a-inovacii-z-planu-obnovy-a-odolnosti/",
    "https://www.vlada.gov.sk/urad/dotacie/",
    "https://www.vlada.gov.sk/vlada-sr/podpora-regionov/",
-   "https://www.vlada.gov.sk/informacny-servis/projekty-podporene-z-fondov-eu/",
-   "https://www.vlada.gov.sk/webove-sidlo/technicka-podpora-a-spravca-obsahu/"
+   "https://www.vlada.gov.sk/tlacove-spravy/vlada-v-dubovom-podporila-rozvoj-regionov-turca-oravy-a-severneho-slovenska-sumou-viac-ako-2-3-miliona-eur/",
+   "https://www.vlada.gov.sk/tlacove-spravy/dalsich-151-bytov-pribudne-do-systemu-statom-podporovaneho-najomneho-byvania/",
+   "https://www.vlada.gov.sk/informacny-servis/projekty-podporene-z-fondov-eu/"
   ]
  }
 }

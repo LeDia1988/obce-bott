@@ -1,0 +1,30 @@
+{
+ "datum": "2026-10-26",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "25.10.2026",
+   "nazov": "Ihrisko pre každé dieťa v obci Poša",
+   "nuts": "",
+   "obec": "Poša",
+   "obstaravatel": "Obec Poša",
+   "okres": "Vranov nad Topľou",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/565361?cHash=9876286afa7b2d67bae1968b980f39af",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "agregátor",
+   "nazov": "TOP Nová výzva Dotácie na medzinárodnú kultúrnu spoluprácu (2026) Výzva podporuje medzinárodnú spolutvorbu na tému odolnosti medzi ukrajinskými a ďalšími európskymi kultúrnymi organizáciami. Výška dotácie 25 000 € Miera dotácie 90 % Ostáva dní 39 Od 19.10.2026 Do 4.12.2026",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacie-na-medzinarodnu-kulturnu-spolupracu-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": []
+}
