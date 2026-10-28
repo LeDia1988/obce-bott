@@ -898,7 +898,7 @@
  },
  "519405": {
   "base": "https://krive.estranky.sk/",
-  "discovered": "2026-10-21",
+  "discovered": "2026-10-28",
   "pages": [
    "https://krive.estranky.sk/clanky/samosprava/uradna-tabula/",
    "https://krive.estranky.sk/clanky/povinne-zverejnovanie/obecne-zastupitelstvo/",
@@ -10108,8 +10108,21 @@
   "status": "ok"
  },
  "524808": {
-  "pages": [],
-  "status": "web nedostupný: ConnectionError"
+  "base": "http://www.lucina.sk/",
+  "discovered": "2026-10-28",
+  "pages": [
+   "http://www.lucina.sk/?page_id=134",
+   "http://www.lucina.sk/?page_id=265",
+   "http://www.lucina.sk/?page_id=573",
+   "http://www.lucina.sk/?page_id=132",
+   "http://www.lucina.sk/?page_id=90",
+   "http://www.lucina.sk/?page_id=250",
+   "http://www.lucina.sk/?page_id=172",
+   "http://www.lucina.sk/?page_id=226",
+   "http://www.lucina.sk/?page_id=576",
+   "http://www.lucina.sk/"
+  ],
+  "status": "ok"
  },
  "524816": {
   "pages": [],
@@ -15085,7 +15098,7 @@
  },
  "528005": {
   "base": "https://vladica.estranky.sk/",
-  "discovered": "2026-10-21",
+  "discovered": "2026-10-28",
   "pages": [
    "https://vladica.estranky.sk/clanky/uradne-oznamy-obce/",
    "https://vladica.estranky.sk/clanky/aktuality.html",
@@ -18699,7 +18712,7 @@
  },
  "543781": {
   "base": "https://www.stankovce.sk/",
-  "discovered": "2026-10-21",
+  "discovered": "2026-10-28",
   "pages": [
    "https://www.stankovce.sk/clanky/obec/zapisnice-a-uznesenia/",
    "https://www.stankovce.sk/clanky/obec/rozpocet-obce/",
@@ -20532,15 +20545,15 @@
  },
  "599981": {
   "base": "https://www.kosice.sk/",
-  "discovered": "2026-10-21",
+  "discovered": "2026-10-28",
   "pages": [
    "https://www.kosice.sk/clanky/skupina/uradna-tabula",
    "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo",
-   "https://www.kosice.sk/clanok/komunalne-volby-2026-zoznam-zaregistrovanych-kandidatov-pre-volby-poslancov-mestskeho-zastupitelstva",
+   "https://www.kosice.sk/clanok/projekt-mobilita-vyuzivajuca-intervencie-na-podporu-fyzickej-aktivity-smerom-k-zdravsiemu-zivotnemu-stylu",
    "https://www.kosice.sk/clanky/skupina/projekty-mesta",
    "https://static.kosice.sk/files/manual/noviny/Vizie_investicie_vysledky/index.html",
    "https://static.kosice.sk/files/manual/noviny/VysledkyPreKosice_brozura/index.html",
-   "https://www.kosice.sk/clanok/projekt-virtualne-centrum-celozivotneho-vzdelavania-pre-dekarbonizaciu-priemyslu",
+   "https://www.kosice.sk/clanok/komunalne-volby-2026-vysledky-volieb-do-organov-samospravy-mesta-kosice",
    "https://www.kosice.sk/obcan/uzemne-planovanie",
    "https://www.kosice.sk/mesto/regionalny-rozvoj",
    "https://www.kosice.sk/mesto/programove-obdobie-2021-2027-udrzatelny-mestsky-rozvoj",

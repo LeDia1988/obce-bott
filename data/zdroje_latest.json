@@ -1,31 +1,76 @@
 {
- "datum": "2026-10-27",
- "obstaravania": [],
- "prepojenia": [
+ "datum": "2026-10-28",
+ "obstaravania": [
   {
-   "datum": "26. Október 2026",
-   "dodavatel": "OCTAGO, a.s.",
-   "firma": "Octago",
-   "nazov": "Zmluva o dodaní tovarov s montážou 789/2026",
-   "obec": "",
-   "objednavatel": "Mesto Šala",
-   "okres": "",
-   "relevantne": false,
-   "suma": "10 635,81 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/12986609/"
+   "cpv": "Stavebné práce na stavbe cyklistických trás",
+   "datum": "27.10.2026",
+   "nazov": "Podpora výstavby cyklotrás v obci Štrba – SO 03 Úsek Štrba - Šuňava",
+   "nuts": "Prešovský kraj",
+   "obec": "Štrba",
+   "obstaravatel": "Obec Štrba",
+   "okres": "Poprad",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/567693?cHash=ec958b9c88dd8bc48a34733a5a9b0344",
+   "zdroj": "ÚVO"
+  },
+  {
+   "datum": "2026-10-28",
+   "nazov": "Slovensko – Kontajnery a nádoby na odpad a odpadky – Dobšiná – zavedenie systému množstvového zberu",
+   "obec": "Dobšiná",
+   "obstaravatel": "Mesto Dobšiná",
+   "okres": "Rožňava",
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/749033-2026",
+   "zdroj": "TED (EÚ)"
   }
  ],
+ "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "kraj",
-   "nazov": "26. 10. 2026 – Iné Samosprávne voľby 2026 v PSK: výsledky, zoznam zvolených poslancov aj interaktívna aplikácia Obyvatelia Prešovského kraja si v sobotných voľbách 24. októbra 2026 zvolili predsedu Prešovského samosprávneho kraja a nové krajské zastupiteľstvo. Na čele kraja bude aj v nasledujúcom vo",
+   "kategoria": "fond",
+   "nazov": "Výzva MoF – 3/2025 od 2. hodnotiaceho kola („Výroba energie z OZE“)",
    "temy": [],
-   "url": "https://psk.sk/samospravne-volby-2026-v-psk-vysledky-zoznam-zvolenych-poslancov-aj-interaktivna-aplikacia/",
+   "url": "https://envirofond.sk/2026/10/27/vyzva-mof-3-2025-od-2-hodnotiaceho-kola-vyroba-energie-z-oze-4/",
+   "zdroj": "Environmentálny fond",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "27. 10. 2026 – Školstvo PSK posilňuje pripravenosť škôl na krízové situácie Stredné školy v Prešovskom kraji absolvovali odborné školenie na zvládanie krízových situácií a možných útokov v školskom prostredí. Workshop zorganizoval Prešovský samosprávny kraj v spolupráci s odborníkmi na psychologickú",
+   "temy": [],
+   "url": "https://psk.sk/psk-posilnuje-pripravenost-skol-na-krizove-situacie/",
    "zdroj": "Prešovský samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "TOP granty z nadácií a súkromných zdrojov 19.11.2026 10:00 – 11:00",
+   "temy": [],
+   "url": "https://www.grantexpert.sk/webinar/top-granty-z-nadacii-a-sukromnych-zdrojov/",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na prezentáciu nehmotného kultúrneho dedičstva (2026) Dotácia podporuje aktivity spojené s prezentáciou nehmotného kultúrneho dedičstva UNESCO a Reprezentatívneho zoznamu Slovenska. Určená je subjektom pôsobiacim v kultúrno-umeleckej oblasti. Výška dotácie 50 000 € Miera dotácie 9",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-prezentaciu-nehmotneho-kulturneho-dedicstva-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
    "zhoda_tem": false
   }
  ],
- "zmluvy": []
+ "zmluvy": [
+  {
+   "datum": "27. Október 2026",
+   "dodavatel": "Valaliky Industrial Park, s.r.o.",
+   "nazov": "Zmluva o uzavretí budúcej zmluvy a odovzdaní a prevzatí objektov vyvolanej investície do vlastníctva a trvalej správy č. PARK-15-050/2026 Zmluva o uzavretí budúcej zmluvy č. PARK-15-050/2026",
+   "obec": "Geča",
+   "objednavatel": "Obec Geča",
+   "okres": "Košice",
+   "projekcia": false,
+   "suma": "1,00 €",
+   "url": "https://www.crz.gov.sk/zmluva/12991329/"
+  }
+ ]
 }
