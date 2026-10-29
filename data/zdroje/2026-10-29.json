@@ -1,0 +1,62 @@
+{
+ "datum": "2026-10-29",
+ "obstaravania": [
+  {
+   "cpv": "Zariadenie ihrísk",
+   "datum": "28.10.2026",
+   "nazov": "Ihrisko pre každé dieťa",
+   "nuts": "Košický kraj",
+   "obec": "Bačkov",
+   "obstaravatel": "Obec Bačkov",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/561928?cHash=7d19d9e72749add705c524f49cda4065",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "",
+   "datum": "28.10.2026",
+   "nazov": "Multifunkčné ihrisko v obci Bánovce nad Ondavou",
+   "nuts": "",
+   "obec": "Bánovce Nad Ondavou",
+   "obstaravatel": "Obec Bánovce nad Ondavou",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/553509?cHash=24bad730a201562dbf5c815c7473fc81",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "kraj",
+   "nazov": "28. 10. 2026 – Región Župné eurofondy menia školy v kraji, bardejovská škola je modernejšia za 2,8 mil. eur Rada partnerstva Prešovského samosprávneho kraja má v oblasti školstva pripravených na realizáciu 40 projektov v celkovom objeme presahujúcom 60 miliónov eur. Prvé investície zo župných eurofo",
+   "temy": [],
+   "url": "https://psk.sk/zupne-eurofondy-menia-skoly-v-kraji-bardejovska-skola-je-modernejsia-za-28-mil-eur/",
+   "zdroj": "Prešovský samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "nadácia",
+   "nazov": "Zodpovedné podnikanie Naše Mesto dosiahlo významný míľnik na ceste k udržateľnosti. Rekordný špeciálny grant pomôže prvému reuse centru 28. 10. 2026",
+   "temy": [],
+   "url": "https://www.nadaciapontis.sk/novinky/nase-mesto-dosiahlo-vyznamny-milnik-na-ceste-k-udrzatelnosti-rekordny-specialny-grant-pomoze-prvemu-reuse-centru/",
+   "zdroj": "Nadácia Pontis",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": [
+  {
+   "datum": "28. Október 2026",
+   "dodavatel": "ESTA s.r.o.",
+   "nazov": "Zmluva o dielo - Futbalové ihrisko s príslušenstvom v lokalite Roveň v Pečovskej Novej Vsi - I. etapa, SO 07 - preložka VN 586/2026",
+   "obec": "Pečovská Nová Ves",
+   "objednavatel": "Obec Pečovská Nová Ves",
+   "okres": "Sabinov",
+   "projekcia": false,
+   "suma": "60 517,34 €",
+   "url": "https://www.crz.gov.sk/zmluva/12999965/"
+  }
+ ]
+}

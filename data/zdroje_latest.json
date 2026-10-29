@@ -1,76 +1,62 @@
 {
- "datum": "2026-10-28",
+ "datum": "2026-10-29",
  "obstaravania": [
   {
-   "cpv": "Stavebné práce na stavbe cyklistických trás",
-   "datum": "27.10.2026",
-   "nazov": "Podpora výstavby cyklotrás v obci Štrba – SO 03 Úsek Štrba - Šuňava",
-   "nuts": "Prešovský kraj",
-   "obec": "Štrba",
-   "obstaravatel": "Obec Štrba",
-   "okres": "Poprad",
+   "cpv": "Zariadenie ihrísk",
+   "datum": "28.10.2026",
+   "nazov": "Ihrisko pre každé dieťa",
+   "nuts": "Košický kraj",
+   "obec": "Bačkov",
+   "obstaravatel": "Obec Bačkov",
+   "okres": "Trebišov",
    "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/567693?cHash=ec958b9c88dd8bc48a34733a5a9b0344",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/561928?cHash=7d19d9e72749add705c524f49cda4065",
    "zdroj": "ÚVO"
   },
   {
-   "datum": "2026-10-28",
-   "nazov": "Slovensko – Kontajnery a nádoby na odpad a odpadky – Dobšiná – zavedenie systému množstvového zberu",
-   "obec": "Dobšiná",
-   "obstaravatel": "Mesto Dobšiná",
-   "okres": "Rožňava",
+   "cpv": "",
+   "datum": "28.10.2026",
+   "nazov": "Multifunkčné ihrisko v obci Bánovce nad Ondavou",
+   "nuts": "",
+   "obec": "Bánovce Nad Ondavou",
+   "obstaravatel": "Obec Bánovce nad Ondavou",
+   "okres": "Michalovce",
    "projekcia": false,
-   "url": "https://ted.europa.eu/sk/notice/-/detail/749033-2026",
-   "zdroj": "TED (EÚ)"
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/553509?cHash=24bad730a201562dbf5c815c7473fc81",
+   "zdroj": "ÚVO"
   }
  ],
  "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "fond",
-   "nazov": "Výzva MoF – 3/2025 od 2. hodnotiaceho kola („Výroba energie z OZE“)",
-   "temy": [],
-   "url": "https://envirofond.sk/2026/10/27/vyzva-mof-3-2025-od-2-hodnotiaceho-kola-vyroba-energie-z-oze-4/",
-   "zdroj": "Environmentálny fond",
-   "zhoda_tem": false
-  },
-  {
    "kategoria": "kraj",
-   "nazov": "27. 10. 2026 – Školstvo PSK posilňuje pripravenosť škôl na krízové situácie Stredné školy v Prešovskom kraji absolvovali odborné školenie na zvládanie krízových situácií a možných útokov v školskom prostredí. Workshop zorganizoval Prešovský samosprávny kraj v spolupráci s odborníkmi na psychologickú",
+   "nazov": "28. 10. 2026 – Región Župné eurofondy menia školy v kraji, bardejovská škola je modernejšia za 2,8 mil. eur Rada partnerstva Prešovského samosprávneho kraja má v oblasti školstva pripravených na realizáciu 40 projektov v celkovom objeme presahujúcom 60 miliónov eur. Prvé investície zo župných eurofo",
    "temy": [],
-   "url": "https://psk.sk/psk-posilnuje-pripravenost-skol-na-krizove-situacie/",
+   "url": "https://psk.sk/zupne-eurofondy-menia-skoly-v-kraji-bardejovska-skola-je-modernejsia-za-28-mil-eur/",
    "zdroj": "Prešovský samosprávny kraj",
    "zhoda_tem": false
   },
   {
-   "kategoria": "agregátor",
-   "nazov": "TOP granty z nadácií a súkromných zdrojov 19.11.2026 10:00 – 11:00",
+   "kategoria": "nadácia",
+   "nazov": "Zodpovedné podnikanie Naše Mesto dosiahlo významný míľnik na ceste k udržateľnosti. Rekordný špeciálny grant pomôže prvému reuse centru 28. 10. 2026",
    "temy": [],
-   "url": "https://www.grantexpert.sk/webinar/top-granty-z-nadacii-a-sukromnych-zdrojov/",
-   "zdroj": "GrantExpert – prehľad výziev",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na prezentáciu nehmotného kultúrneho dedičstva (2026) Dotácia podporuje aktivity spojené s prezentáciou nehmotného kultúrneho dedičstva UNESCO a Reprezentatívneho zoznamu Slovenska. Určená je subjektom pôsobiacim v kultúrno-umeleckej oblasti. Výška dotácie 50 000 € Miera dotácie 9",
-   "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-prezentaciu-nehmotneho-kulturneho-dedicstva-2026",
-   "zdroj": "GrantExpert – prehľad výziev",
+   "url": "https://www.nadaciapontis.sk/novinky/nase-mesto-dosiahlo-vyznamny-milnik-na-ceste-k-udrzatelnosti-rekordny-specialny-grant-pomoze-prvemu-reuse-centru/",
+   "zdroj": "Nadácia Pontis",
    "zhoda_tem": false
   }
  ],
  "zmluvy": [
   {
-   "datum": "27. Október 2026",
-   "dodavatel": "Valaliky Industrial Park, s.r.o.",
-   "nazov": "Zmluva o uzavretí budúcej zmluvy a odovzdaní a prevzatí objektov vyvolanej investície do vlastníctva a trvalej správy č. PARK-15-050/2026 Zmluva o uzavretí budúcej zmluvy č. PARK-15-050/2026",
-   "obec": "Geča",
-   "objednavatel": "Obec Geča",
-   "okres": "Košice",
+   "datum": "28. Október 2026",
+   "dodavatel": "ESTA s.r.o.",
+   "nazov": "Zmluva o dielo - Futbalové ihrisko s príslušenstvom v lokalite Roveň v Pečovskej Novej Vsi - I. etapa, SO 07 - preložka VN 586/2026",
+   "obec": "Pečovská Nová Ves",
+   "objednavatel": "Obec Pečovská Nová Ves",
+   "okres": "Sabinov",
    "projekcia": false,
-   "suma": "1,00 €",
-   "url": "https://www.crz.gov.sk/zmluva/12991329/"
+   "suma": "60 517,34 €",
+   "url": "https://www.crz.gov.sk/zmluva/12999965/"
   }
  ]
 }
