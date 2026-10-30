@@ -1,62 +1,78 @@
 {
- "datum": "2026-10-29",
+ "datum": "2026-10-30",
  "obstaravania": [
   {
-   "cpv": "Zariadenie ihrísk",
-   "datum": "28.10.2026",
-   "nazov": "Ihrisko pre každé dieťa",
+   "cpv": "Oprava a údržba osobných motorových vozidiel",
+   "datum": "29.10.2026",
+   "nazov": "Komplexný servis, opravy a údržba vozového parku (kategórie M1, N1, N2, N3, L1, T) pre VVS, a.s.",
    "nuts": "Košický kraj",
-   "obec": "Bačkov",
-   "obstaravatel": "Obec Bačkov",
-   "okres": "Trebišov",
+   "obec": "",
+   "obstaravatel": "Východoslovenská vodárenská spoločnosť, a.s.",
+   "okres": "",
    "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/561928?cHash=7d19d9e72749add705c524f49cda4065",
-   "zdroj": "ÚVO"
-  },
-  {
-   "cpv": "",
-   "datum": "28.10.2026",
-   "nazov": "Multifunkčné ihrisko v obci Bánovce nad Ondavou",
-   "nuts": "",
-   "obec": "Bánovce Nad Ondavou",
-   "obstaravatel": "Obec Bánovce nad Ondavou",
-   "okres": "Michalovce",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/553509?cHash=24bad730a201562dbf5c815c7473fc81",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566664?cHash=395bb8f09d7b434ab3b6784dc9488418",
    "zdroj": "ÚVO"
   }
  ],
- "prepojenia": [],
+ "prepojenia": [
+  {
+   "datum": "29. Október 2026",
+   "dodavatel": "SPORT PLAY s.r.o.",
+   "firma": "Sport&Play",
+   "nazov": "Dodatok č.1 Dodatok č.1",
+   "obec": "Slanec",
+   "objednavatel": "Obec Slanec",
+   "okres": "Košice",
+   "relevantne": false,
+   "suma": "0,00 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13006147/"
+  },
+  {
+   "datum": "21. Október 2026",
+   "dodavatel": "SPORT PLAY s.r.o.",
+   "firma": "Sport&Play",
+   "nazov": "Zmluva o dielo 345/027/2026",
+   "obec": "Trnava Pri Laborci",
+   "objednavatel": "Obec Trnava pri Laborci",
+   "okres": "Michalovce",
+   "relevantne": false,
+   "suma": "66 016,19 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/12963630/"
+  },
+  {
+   "datum": "23. Október 2026",
+   "dodavatel": "FUN & PLAY s.r.o.",
+   "firma": "Fun&Play",
+   "nazov": "Darovacia zmluva 17/2026",
+   "obec": "Lieskovec",
+   "objednavatel": "Obec Lieskovec",
+   "okres": "Humenné",
+   "relevantne": false,
+   "suma": "2 000,00 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/12968738/"
+  }
+ ],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "kraj",
-   "nazov": "28. 10. 2026 – Región Župné eurofondy menia školy v kraji, bardejovská škola je modernejšia za 2,8 mil. eur Rada partnerstva Prešovského samosprávneho kraja má v oblasti školstva pripravených na realizáciu 40 projektov v celkovom objeme presahujúcom 60 miliónov eur. Prvé investície zo župných eurofo",
+   "kategoria": "agregátor",
+   "nazov": "OZE ZELENÉ DOTÁCIE Zelená domácnostiam: najčastejšie otázky a odpovede Slovenská inovačná a energetická agentúra (SIEA) otvorila 26. októbra 2026 registráciu žiadostí v projekte Zelená domácnostiam II.",
    "temy": [],
-   "url": "https://psk.sk/zupne-eurofondy-menia-skoly-v-kraji-bardejovska-skola-je-modernejsia-za-28-mil-eur/",
-   "zdroj": "Prešovský samosprávny kraj",
+   "url": "https://www.grantexpert.sk/zelena-domacnostiam-najcastejsie-otazky-a-odpovede/",
+   "zdroj": "GrantExpert – prehľad výziev",
    "zhoda_tem": false
   },
   {
-   "kategoria": "nadácia",
-   "nazov": "Zodpovedné podnikanie Naše Mesto dosiahlo významný míľnik na ceste k udržateľnosti. Rekordný špeciálny grant pomôže prvému reuse centru 28. 10. 2026",
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na deep tech startupy pre podnikateľov (2026) Medzinárodná súťaž pre deep tech startupy ponúka ocenenie, prístup k investorom a možnosť získať equity cenu vo výške 200 000 €. Podporuje projekty založené na nových technológiách riešiacich priemyselné, spoločenské alebo environment…",
    "temy": [],
-   "url": "https://www.nadaciapontis.sk/novinky/nase-mesto-dosiahlo-vyznamny-milnik-na-ceste-k-udrzatelnosti-rekordny-specialny-grant-pomoze-prvemu-reuse-centru/",
-   "zdroj": "Nadácia Pontis",
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-deep-tech-startupy-pre-podnikatelov-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
    "zhoda_tem": false
   }
  ],
- "zmluvy": [
-  {
-   "datum": "28. Október 2026",
-   "dodavatel": "ESTA s.r.o.",
-   "nazov": "Zmluva o dielo - Futbalové ihrisko s príslušenstvom v lokalite Roveň v Pečovskej Novej Vsi - I. etapa, SO 07 - preložka VN 586/2026",
-   "obec": "Pečovská Nová Ves",
-   "objednavatel": "Obec Pečovská Nová Ves",
-   "okres": "Sabinov",
-   "projekcia": false,
-   "suma": "60 517,34 €",
-   "url": "https://www.crz.gov.sk/zmluva/12999965/"
-  }
- ]
+ "zmluvy": []
 }
