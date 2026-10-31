@@ -22,8 +22,26 @@
   "status": "ok"
  },
  "513806": {
-  "pages": [],
-  "status": "web nedostupný: HTTPError"
+  "base": "https://velkatrna.webnode.sk/",
+  "discovered": "2026-10-31",
+  "pages": [
+   "https://velkatrna.webnode.sk/samosprava2/uradna-tabula/",
+   "https://velkatrna.webnode.sk/samosprava2/uradna-tabula/volby-do-nr-sr/",
+   "https://velkatrna.webnode.sk/samosprava2/uradna-tabula/vzn/",
+   "https://velkatrna.webnode.sk/samosprava2/obecne-zastupitelstvo/",
+   "https://velkatrna.webnode.sk/zverejnovanie-zmluv-faktur-a-objednavok/vyzvy/",
+   "https://velkatrna.webnode.sk/zverejnovanie-zmluv-faktur-a-objednavok/",
+   "https://velkatrna.webnode.sk/zverejnovanie-zmluv-faktur-a-objednavok/zmluvy/",
+   "https://velkatrna.webnode.sk/zverejnovanie-zmluv-faktur-a-objednavok/faktury/",
+   "https://velkatrna.webnode.sk/zverejnovanie-zmluv-faktur-a-objednavok/objednavky/",
+   "https://velkatrna.webnode.sk/obec/projekty/",
+   "https://velkatrna.webnode.sk/news/strategia-rozvoja-dopravy-a-cykloturistiky-kosickeho-kraja-2022-2027-2030/",
+   "https://velkatrna.webnode.sk/home/",
+   "https://velkatrna.webnode.sk/samosprava2/",
+   "https://velkatrna.webnode.sk/samosprava2/vzn/",
+   "https://velkatrna.webnode.sk/"
+  ],
+  "status": "ok"
  },
  "513831": {
   "base": "https://www.klinnadbodrogom.sk/",

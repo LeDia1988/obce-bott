@@ -1,78 +1,45 @@
 {
- "datum": "2026-10-30",
+ "datum": "2026-10-31",
  "obstaravania": [
   {
-   "cpv": "Oprava a údržba osobných motorových vozidiel",
-   "datum": "29.10.2026",
-   "nazov": "Komplexný servis, opravy a údržba vozového parku (kategórie M1, N1, N2, N3, L1, T) pre VVS, a.s.",
-   "nuts": "Košický kraj",
-   "obec": "",
-   "obstaravatel": "Východoslovenská vodárenská spoločnosť, a.s.",
-   "okres": "",
+   "cpv": "",
+   "datum": "30.10.2026",
+   "nazov": "VÝSTAVBA DETSKÉHO INKLUZÍVNEHO IHRISKA V OBCI VEĽKÝ FOLKMAR",
+   "nuts": "",
+   "obec": "Veľký Folkmar",
+   "obstaravatel": "Obec Veľký Folkmar",
+   "okres": "Gelnica",
    "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566664?cHash=395bb8f09d7b434ab3b6784dc9488418",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566924?cHash=19d98d89df842391efc3a79cf399f047",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "",
+   "datum": "30.10.2026",
+   "nazov": "Ihrisko pre každé dieťa",
+   "nuts": "",
+   "obec": "Poľany",
+   "obstaravatel": "Obec Poľany",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/561507?cHash=11b4f53e6215356fba3b5477c41674f5",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "",
+   "datum": "30.10.2026",
+   "nazov": "„RYBNÍKY SLOVENSKÁ VOLOVÁ (INFRAŠTRUKRÚRA REKREAČNÁ)“ Objekt: SO 01 PRÍSTUPOVÁ KOMUNIKÁCIA K REKREAČNEJ OBLASTI, SO 02 NÁUČNÝ CHODNÍK",
+   "nuts": "",
+   "obec": "Slovenská Volová",
+   "obstaravatel": "Obec Slovenská Volová",
+   "okres": "Humenné",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/567184?cHash=5ff1928acbe1094bce2b285c9f5038a4",
    "zdroj": "ÚVO"
   }
  ],
- "prepojenia": [
-  {
-   "datum": "29. Október 2026",
-   "dodavatel": "SPORT PLAY s.r.o.",
-   "firma": "Sport&Play",
-   "nazov": "Dodatok č.1 Dodatok č.1",
-   "obec": "Slanec",
-   "objednavatel": "Obec Slanec",
-   "okres": "Košice",
-   "relevantne": false,
-   "suma": "0,00 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13006147/"
-  },
-  {
-   "datum": "21. Október 2026",
-   "dodavatel": "SPORT PLAY s.r.o.",
-   "firma": "Sport&Play",
-   "nazov": "Zmluva o dielo 345/027/2026",
-   "obec": "Trnava Pri Laborci",
-   "objednavatel": "Obec Trnava pri Laborci",
-   "okres": "Michalovce",
-   "relevantne": false,
-   "suma": "66 016,19 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/12963630/"
-  },
-  {
-   "datum": "23. Október 2026",
-   "dodavatel": "FUN & PLAY s.r.o.",
-   "firma": "Fun&Play",
-   "nazov": "Darovacia zmluva 17/2026",
-   "obec": "Lieskovec",
-   "objednavatel": "Obec Lieskovec",
-   "okres": "Humenné",
-   "relevantne": false,
-   "suma": "2 000,00 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/12968738/"
-  }
- ],
+ "prepojenia": [],
  "prvy_beh": false,
- "vyzvy": [
-  {
-   "kategoria": "agregátor",
-   "nazov": "OZE ZELENÉ DOTÁCIE Zelená domácnostiam: najčastejšie otázky a odpovede Slovenská inovačná a energetická agentúra (SIEA) otvorila 26. októbra 2026 registráciu žiadostí v projekte Zelená domácnostiam II.",
-   "temy": [],
-   "url": "https://www.grantexpert.sk/zelena-domacnostiam-najcastejsie-otazky-a-odpovede/",
-   "zdroj": "GrantExpert – prehľad výziev",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na deep tech startupy pre podnikateľov (2026) Medzinárodná súťaž pre deep tech startupy ponúka ocenenie, prístup k investorom a možnosť získať equity cenu vo výške 200 000 €. Podporuje projekty založené na nových technológiách riešiacich priemyselné, spoločenské alebo environment…",
-   "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-deep-tech-startupy-pre-podnikatelov-2026",
-   "zdroj": "GrantExpert – prehľad výziev",
-   "zhoda_tem": false
-  }
- ],
+ "vyzvy": [],
  "zmluvy": []
 }

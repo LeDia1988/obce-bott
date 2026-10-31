@@ -1,0 +1,45 @@
+{
+ "datum": "2026-10-31",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "30.10.2026",
+   "nazov": "VÝSTAVBA DETSKÉHO INKLUZÍVNEHO IHRISKA V OBCI VEĽKÝ FOLKMAR",
+   "nuts": "",
+   "obec": "Veľký Folkmar",
+   "obstaravatel": "Obec Veľký Folkmar",
+   "okres": "Gelnica",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566924?cHash=19d98d89df842391efc3a79cf399f047",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "",
+   "datum": "30.10.2026",
+   "nazov": "Ihrisko pre každé dieťa",
+   "nuts": "",
+   "obec": "Poľany",
+   "obstaravatel": "Obec Poľany",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/561507?cHash=11b4f53e6215356fba3b5477c41674f5",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "",
+   "datum": "30.10.2026",
+   "nazov": "„RYBNÍKY SLOVENSKÁ VOLOVÁ (INFRAŠTRUKRÚRA REKREAČNÁ)“ Objekt: SO 01 PRÍSTUPOVÁ KOMUNIKÁCIA K REKREAČNEJ OBLASTI, SO 02 NÁUČNÝ CHODNÍK",
+   "nuts": "",
+   "obec": "Slovenská Volová",
+   "obstaravatel": "Obec Slovenská Volová",
+   "okres": "Humenné",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/567184?cHash=5ff1928acbe1094bce2b285c9f5038a4",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [],
+ "zmluvy": []
+}
