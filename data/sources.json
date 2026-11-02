@@ -74,8 +74,18 @@
   "status": "ok"
  },
  "513857": {
-  "pages": [],
-  "status": "web nedostupný: ConnectionError"
+  "base": "https://www.budahaza.eu/",
+  "discovered": "2026-11-02",
+  "pages": [
+   "https://www.budahaza.eu/samosprava/",
+   "https://www.budahaza.eu/novinky/",
+   "https://www.budahaza.eu/dokumenty/",
+   "https://www.budahaza.eu/faktury/",
+   "https://www.budahaza.eu/objednavky/",
+   "https://www.budahaza.eu/zmluvy/",
+   "https://www.budahaza.eu/"
+  ],
+  "status": "ok"
  },
  "514578": {
   "base": "https://www.obec-bretka.eu/",
@@ -195,8 +205,26 @@
   "status": "ok"
  },
  "518590": {
-  "pages": [],
-  "status": "web nedostupný: HTTPError"
+  "base": "https://www.obeclubotice.sk/",
+  "discovered": "2026-11-02",
+  "pages": [
+   "https://www.obeclubotice.sk/zverejnovanie/1684/uradna-tabula",
+   "https://www.obeclubotice.sk/novinky/17231/zasadnutia-obecneho-zastupitelstva",
+   "https://www.obeclubotice.sk/novinka/139730/zoznam-zaregistrovanych-kandidatov-pre-volby-starostu-obce-lubotice-a-pre-volby-do-obecneho-zastupitelstva-obce-lubotice-24102026",
+   "https://www.obeclubotice.sk/novinka/142296/9-zasadnutie-ocz-dna-19102026",
+   "https://www.obeclubotice.sk/novinka/141628/pozvanka-medzigeneracne-dialogy-5",
+   "https://www.obeclubotice.sk/novinka/138731/8-zasadnutie-ocz-dna-2482026",
+   "https://www.obeclubotice.sk/novinka/137149/7-zasadnutie-ocz-dna-2272026",
+   "https://www.obeclubotice.sk/29733/projekty-v-obci",
+   "https://www.obeclubotice.sk/16379/investicie",
+   "https://www.obeclubotice.sk/novinka/142969/zapisnica-miestnej-volebnej-komisie-v-luboticiach-o-vysledku-volieb-samospravy-obce-z-24102026",
+   "https://www.obeclubotice.sk/novinky/16339/aktuality",
+   "https://www.obeclubotice.sk/novinka/143335/slovenska-posta-oznamenie-trvalej-zmeny-hodin-pre-verejnost-od-1112026",
+   "https://www.obeclubotice.sk/novinka/142317/elektronicka-fakturacia-zakladne-informacie",
+   "https://www.obeclubotice.sk/novinka/140333/zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-a-poslancov-psk-24102026",
+   "https://www.obeclubotice.sk/"
+  ],
+  "status": "ok"
  },
  "518964": {
   "base": "https://www.obecvaniskovce.sk/",
@@ -1968,8 +1996,26 @@
   "status": "ok"
  },
  "520004": {
-  "pages": [],
-  "status": "web nedostupný: HTTPError"
+  "base": "https://www.humenne.sk/",
+  "discovered": "2026-11-02",
+  "pages": [
+   "https://www.humenne.sk/forward.php?adr=aHR0cHM6Ly9lZ292Lmh1bWVubmUuc2svZGVmYXVsdC5hc3B4P05hdmlnYXRpb25TdGF0ZT02MTA6MDo=&page=s03&go1=7&go2=1369",
+   "https://www.humenne.sk/Samosprava-mesta/Mestske-zastupitelstvo/Komisie-MsZ/Register-dotacii-schvalenych-komisiami-MsZ/",
+   "https://www.humenne.sk/Samosprava-mesta/Projekty-financovane-EU-a-dotacie/Infrastruktura-pre-pohybove-a-volnocasove-aktivity-v-Humennom/",
+   "https://www.humenne.sk/Samosprava-mesta/Mestske-zastupitelstvo/",
+   "https://www.humenne.sk/Samosprava-mesta/Projekty-financovane-EU-a-dotacie/Modernizacia-kryteho-plaveckeho-bazena-v-Humennom/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/",
+   "https://www.humenne.sk/Podnikatel/Zamer-mesta-Humenne/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/TENISOVA-OBNOVA-Nafukovacka-uz-na-kurtoch/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VYLUKA-Humenne-Koskovce-na-trati-Humenne-Medzilaborce-spat-29-10/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/HUMENNE-a-DUSICKY-Ako-na-cintorine-Dopravne-obmedzenia-od-30-10-Dbajme-na-EKOlogiu/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VYLUKA-Strazske-Nizny-Hrabovec-na-trati-Humenne-Presov-spat-27-a-28-10/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VOLBY-26-Primatorom-mesta-Humenne-je-MILOS-MERICKO-Aktualizovane-3-pocty-v-okrskoch/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VOLBY-2026-zakladne-informacie/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Prerusenie-distribucie-elektriny-Laborecka-19-10/",
+   "https://www.humenne.sk/"
+  ],
+  "status": "ok"
  },
  "520012": {
   "base": "https://obecadidovce.sk/",
@@ -17895,8 +17941,22 @@
   "status": "ok"
  },
  "543314": {
-  "pages": [],
-  "status": "web nedostupný: HTTPError"
+  "base": "https://www.obec-lucka.sk/",
+  "discovered": "2026-11-02",
+  "pages": [
+   "https://www.obec-lucka.sk/dokumenty-obce/",
+   "https://www.obec-lucka.sk/nezaradene/",
+   "https://www.obec-lucka.sk/samosprava-obce/",
+   "https://www.obec-lucka.sk/dokumenty-obce-2/",
+   "https://www.obec-lucka.sk/zverejnovanie/",
+   "https://www.obec-lucka.sk/faktury-2/",
+   "https://www.obec-lucka.sk/zmluvy/",
+   "https://www.obec-lucka.sk/objednavky-2/",
+   "https://www.obec-lucka.sk/zapisnica-obce/",
+   "https://www.obec-lucka.sk/verejne-obstaravanie/",
+   "https://www.obec-lucka.sk/"
+  ],
+  "status": "ok"
  },
  "543322": {
   "base": "https://www.margecany.sk/",
