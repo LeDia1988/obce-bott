@@ -1,8 +1,56 @@
 {
- "datum": "2026-11-02",
- "obstaravania": [],
+ "datum": "2026-11-03",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "02.11.2026",
+   "nazov": "Modernizácia ihriska Medúlik",
+   "nuts": "",
+   "obec": "Košice - Šaca",
+   "obstaravatel": "Mestská časť Košice-Šaca",
+   "okres": "Košice",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/564576?cHash=0c42a62c53d4c952a167e5c268b2dd4b",
+   "zdroj": "ÚVO"
+  },
+  {
+   "datum": "2026-11-03",
+   "nazov": "Slovensko – Prístroje na vyhodnotenie jadrového žiarenia – Návrh opatrení pre zavedenie inteligentného zberu ZKO v Meste Trebišov",
+   "obec": "Trebišov",
+   "obstaravatel": "Mesto Trebišov",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/762975-2026",
+   "zdroj": "TED (EÚ)"
+  }
+ ],
  "prepojenia": [],
  "prvy_beh": false,
- "vyzvy": [],
+ "vyzvy": [
+  {
+   "kategoria": "nadácia",
+   "nazov": "Sociálne inovácie Od vzdelávania mladých po dostupnejšiu kultúru pre ľudí so znevýhodnením. Program Marc podporí 12 organizácií 02. 11. 2026",
+   "temy": [],
+   "url": "https://www.nadaciapontis.sk/novinky/od-vzdelavania-mladych-po-dostupnejsiu-kulturu-pre-ludi-so-znevyhodnenim-program-marc-podpori-12-organizacii/",
+   "zdroj": "Nadácia Pontis",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "GRANTY TOP databázy grantov a dotácií na Slovensku v roku 2027 – porovnanie Aké sú najlepšie databázy grantov a dotácií na Slovensku? V článku sme prehľadne zhrnuli grantové zdroje.",
+   "temy": [],
+   "url": "https://www.grantexpert.sk/top-databazy-grantov-a-dotacii-na-slovensku-v-roku-2027-porovnanie/",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na rozvoj startup nápadov pre jednotlivcov a tímy (2026) Súťaž podporuje inovatívne nápady formou 6-mesačného akceleračného programu. Účastníci získajú mentoring, pomoc s biznis modelom, kontakty, priestory a prístup k expertom a laboratóriám. Výška dotácie nie je určená Miera dot",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-rozvoj-startup-napadov-pre-jednotlivcov-a-timy-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
  "zmluvy": []
 }
