@@ -1,54 +1,53 @@
 {
- "datum": "2026-11-03",
- "obstaravania": [
+ "datum": "2026-11-04",
+ "obstaravania": [],
+ "prepojenia": [
   {
-   "cpv": "",
-   "datum": "02.11.2026",
-   "nazov": "Modernizácia ihriska Medúlik",
-   "nuts": "",
-   "obec": "Košice - Šaca",
-   "obstaravatel": "Mestská časť Košice-Šaca",
-   "okres": "Košice",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/564576?cHash=0c42a62c53d4c952a167e5c268b2dd4b",
-   "zdroj": "ÚVO"
-  },
-  {
-   "datum": "2026-11-03",
-   "nazov": "Slovensko – Prístroje na vyhodnotenie jadrového žiarenia – Návrh opatrení pre zavedenie inteligentného zberu ZKO v Meste Trebišov",
-   "obec": "Trebišov",
-   "obstaravatel": "Mesto Trebišov",
-   "okres": "Trebišov",
-   "projekcia": false,
-   "url": "https://ted.europa.eu/sk/notice/-/detail/762975-2026",
-   "zdroj": "TED (EÚ)"
+   "datum": "3. November 2026",
+   "dodavatel": "Martin Boháč",
+   "firma": "Ing. arch. Ivan Boháč",
+   "nazov": "Dohoda o použití súkromného cestného motorového vozidla 81.k-95/2026-49",
+   "obec": "",
+   "objednavatel": "Ministerstvo obrany SR",
+   "okres": "",
+   "relevantne": false,
+   "suma": "838,64 €",
+   "typ": "projektant",
+   "url": "https://www.crz.gov.sk/zmluva/13019920/"
   }
  ],
- "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "nadácia",
-   "nazov": "Sociálne inovácie Od vzdelávania mladých po dostupnejšiu kultúru pre ľudí so znevýhodnením. Program Marc podporí 12 organizácií 02. 11. 2026",
+   "kategoria": "ministerstvo",
+   "nazov": "Interreg - nadnárodné a medziregionálne programy",
    "temy": [],
-   "url": "https://www.nadaciapontis.sk/novinky/od-vzdelavania-mladych-po-dostupnejsiu-kulturu-pre-ludi-so-znevyhodnenim-program-marc-podpori-12-organizacii/",
-   "zdroj": "Nadácia Pontis",
+   "url": "https://mirri.gov.sk/aktuality/interreg-nadnarodne-medziregionalne-programy/",
+   "zdroj": "MIRRI – regionálny rozvoj",
    "zhoda_tem": false
   },
   {
-   "kategoria": "agregátor",
-   "nazov": "GRANTY TOP databázy grantov a dotácií na Slovensku v roku 2027 – porovnanie Aké sú najlepšie databázy grantov a dotácií na Slovensku? V článku sme prehľadne zhrnuli grantové zdroje.",
+   "kategoria": "ministerstvo",
+   "nazov": "Pracovná ponuka v programe Interreg NEXT: Hľadá sa manažér programu a komunikácie v Budapešti",
    "temy": [],
-   "url": "https://www.grantexpert.sk/top-databazy-grantov-a-dotacii-na-slovensku-v-roku-2027-porovnanie/",
-   "zdroj": "GrantExpert – prehľad výziev",
+   "url": "https://mirri.gov.sk/aktuality/interreg/pracovna-ponuka-v-programe-interreg-next-hlada-sa-manazer-programu-a-komunikacie-v-budapesti/",
+   "zdroj": "MIRRI – regionálny rozvoj",
    "zhoda_tem": false
   },
   {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na rozvoj startup nápadov pre jednotlivcov a tímy (2026) Súťaž podporuje inovatívne nápady formou 6-mesačného akceleračného programu. Účastníci získajú mentoring, pomoc s biznis modelom, kontakty, priestory a prístup k expertom a laboratóriám. Výška dotácie nie je určená Miera dot",
+   "kategoria": "kraj",
+   "nazov": "TOP správa 26.10.2026 VOĽBY 2026 - VÝSLEDKY: Županom sa po tretí raz stal Rastislav Trnka, volebná účasť presiahla 42,5 % Pozrite si výsledky volieb do orgánov samosprávnych krajov 2026 v Košickom kraji.",
    "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-rozvoj-startup-napadov-pre-jednotlivcov-a-timy-2026",
-   "zdroj": "GrantExpert – prehľad výziev",
+   "url": "https://www.kosickazupa.sk/smart-region/aktuality/volby-2026-vysledky-zupanom-sa-po-treti-raz-stal-rastislav-trnka-volebna-ucast-presiahla-425--a22-16230",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "28.10.2026 Kraj čaká 20. novembra 2026 ustanovujúce zastupiteľstvo, noví poslanci aj predseda zložia sľub Výsledky volieb určili zloženie krajského zastupiteľstva, ktoré bude tvoriť spolu 59 poslancov z Gemera, Spiša,...",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/smart-region/aktuality/kraj-caka-20-novembra-2026-ustanovujuce-zastupitelstvo-novi-poslanci-aj-predseda-zlozia-slub-a22-16232",
+   "zdroj": "Košický samosprávny kraj",
    "zhoda_tem": false
   }
  ],
