@@ -20613,7 +20613,25 @@
   "status": "ok"
  },
  "599981": {
-  "pages": [],
-  "status": "web nedostupný: ReadTimeout"
+  "base": "https://www.kosice.sk/",
+  "discovered": "2026-11-05",
+  "pages": [
+   "https://www.kosice.sk/clanky/skupina/uradna-tabula",
+   "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo",
+   "https://www.kosice.sk/clanok/projekt-mobilita-vyuzivajuca-intervencie-na-podporu-fyzickej-aktivity-smerom-k-zdravsiemu-zivotnemu-stylu",
+   "https://www.kosice.sk/clanky/skupina/projekty-mesta",
+   "https://static.kosice.sk/files/manual/noviny/Vizie_investicie_vysledky/index.html",
+   "https://static.kosice.sk/files/manual/noviny/VysledkyPreKosice_brozura/index.html",
+   "https://www.kosice.sk/clanok/komunalne-volby-2026-vysledky-volieb-do-organov-samospravy-mesta-kosice",
+   "https://www.kosice.sk/obcan/uzemne-planovanie",
+   "https://www.kosice.sk/mesto/regionalny-rozvoj",
+   "https://www.kosice.sk/mesto/programove-obdobie-2021-2027-udrzatelny-mestsky-rozvoj",
+   "https://www.kosice.sk/mesto/samosprava",
+   "https://www.kosice.sk/obcan/verejne-obstaravania",
+   "https://www.kosice.sk/transparentne-mesto/oznamovanie-protispolocenskej-cinnosti-zakon-c-54-2019-z-z-",
+   "https://www.kosice.sk/transparentne-mesto/dotacie-a-granty",
+   "https://www.kosice.sk/"
+  ],
+  "status": "ok"
  }
 }

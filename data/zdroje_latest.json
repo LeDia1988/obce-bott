@@ -1,55 +1,88 @@
 {
- "datum": "2026-11-04",
- "obstaravania": [],
+ "datum": "2026-11-05",
+ "obstaravania": [
+  {
+   "cpv": "Stavebné práce",
+   "datum": "04.11.2026",
+   "nazov": "Revitalizácia Lesoparku Kalvária v Bardejove",
+   "nuts": "Prešovský kraj",
+   "obec": "Bardejov",
+   "obstaravatel": "Mesto Bardejov",
+   "okres": "Bardejov",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/547550?cHash=48a44a9187c4cece925d2f67c9386ac0",
+   "zdroj": "ÚVO"
+  }
+ ],
  "prepojenia": [
   {
-   "datum": "3. November 2026",
-   "dodavatel": "Martin Boháč",
-   "firma": "Ing. arch. Ivan Boháč",
-   "nazov": "Dohoda o použití súkromného cestného motorového vozidla 81.k-95/2026-49",
+   "datum": "4. November 2026",
+   "dodavatel": "OCTAGO CORPORATION, j.s.a.",
+   "firma": "Octago",
+   "nazov": "Zmluva o dielo DIE_019/2026",
    "obec": "",
-   "objednavatel": "Ministerstvo obrany SR",
+   "objednavatel": "Mesto Galanta",
    "okres": "",
    "relevantne": false,
-   "suma": "838,64 €",
-   "typ": "projektant",
-   "url": "https://www.crz.gov.sk/zmluva/13019920/"
+   "suma": "12 478,69 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13032150/"
+  },
+  {
+   "datum": "4. November 2026",
+   "dodavatel": "PLAYSYSTEM s.r.o.",
+   "firma": "Playsystem",
+   "nazov": "Zmluva o dielo PLAYSYSTEM s.r.o. detské ihrisko 2026/020",
+   "obec": "",
+   "objednavatel": "Obec Háj - Košice okolie",
+   "okres": "",
+   "relevantne": true,
+   "suma": "11 989,11 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13029312/"
   }
  ],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "ministerstvo",
-   "nazov": "Interreg - nadnárodné a medziregionálne programy",
-   "temy": [],
-   "url": "https://mirri.gov.sk/aktuality/interreg-nadnarodne-medziregionalne-programy/",
-   "zdroj": "MIRRI – regionálny rozvoj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "ministerstvo",
-   "nazov": "Pracovná ponuka v programe Interreg NEXT: Hľadá sa manažér programu a komunikácie v Budapešti",
-   "temy": [],
-   "url": "https://mirri.gov.sk/aktuality/interreg/pracovna-ponuka-v-programe-interreg-next-hlada-sa-manazer-programu-a-komunikacie-v-budapesti/",
-   "zdroj": "MIRRI – regionálny rozvoj",
-   "zhoda_tem": false
-  },
-  {
    "kategoria": "kraj",
-   "nazov": "TOP správa 26.10.2026 VOĽBY 2026 - VÝSLEDKY: Županom sa po tretí raz stal Rastislav Trnka, volebná účasť presiahla 42,5 % Pozrite si výsledky volieb do orgánov samosprávnych krajov 2026 v Košickom kraji.",
+   "nazov": "4. 11. 2026 – Región Cezhraničný Program Interreg prináša nové impulzy pre rozvoj pohraničia Poľsko-slovenské pohraničie patrí medzi územia s mimoriadnym prírodným a kultúrnym bohatstvom. Jeho ochranu, rozvoj a sprístupnenie dlhodobo podporuje Program Interreg Poľsko – Slovensko 2021 – 2027, ktorý p",
    "temy": [],
-   "url": "https://www.kosickazupa.sk/smart-region/aktuality/volby-2026-vysledky-zupanom-sa-po-treti-raz-stal-rastislav-trnka-volebna-ucast-presiahla-425--a22-16230",
-   "zdroj": "Košický samosprávny kraj",
+   "url": "https://psk.sk/cezhranicny-program-interreg-prinasa-nove-impulzy-pre-rozvoj-pohranicia/",
+   "zdroj": "Prešovský samosprávny kraj",
    "zhoda_tem": false
   },
   {
-   "kategoria": "kraj",
-   "nazov": "28.10.2026 Kraj čaká 20. novembra 2026 ustanovujúce zastupiteľstvo, noví poslanci aj predseda zložia sľub Výsledky volieb určili zloženie krajského zastupiteľstva, ktoré bude tvoriť spolu 59 poslancov z Gemera, Spiša,...",
+   "kategoria": "agregátor",
+   "nazov": "TOP Nová výzva Vzorový projekt Dotácia na obnovu kultúrnych pamiatok v roku 2027 Dotácia podporuje systematickú obnovu, ochranu a rozvoj národných kultúrnych pamiatok, najmä v havarijnom stave, vrátane sanácie vlhkosti a protipožiarnej ochrany. Výška dotácie 100 000 € Miera dotácie 95 % Ostáva dní 2",
    "temy": [],
-   "url": "https://www.kosickazupa.sk/smart-region/aktuality/kraj-caka-20-novembra-2026-ustanovujuce-zastupitelstvo-novi-poslanci-aj-predseda-zlozia-slub-a22-16232",
-   "zdroj": "Košický samosprávny kraj",
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-obnovu-kulturnych-pamiatok-v-roku-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
    "zhoda_tem": false
   }
  ],
- "zmluvy": []
+ "zmluvy": [
+  {
+   "datum": "4. November 2026",
+   "dodavatel": "MULLDEX sro",
+   "nazov": "Výstavba šatní pre multifunkčné ihrisko v obci Peder 2026_111",
+   "obec": "Peder",
+   "objednavatel": "OBEC PEDER",
+   "okres": "Košice",
+   "projekcia": false,
+   "suma": "241 516,98 €",
+   "url": "https://www.crz.gov.sk/zmluva/13032711/"
+  },
+  {
+   "datum": "4. November 2026",
+   "dodavatel": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
+   "nazov": "Zmluva o poskytnutí dotácie na projekt \"Striežka pred vstupom do budovy obecného úradu a prístrešok pred vchodom do domu smútku\" 2026/29",
+   "obec": "Oreské",
+   "objednavatel": "Obec Oreské",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "suma": "0,00 €",
+   "url": "https://www.crz.gov.sk/zmluva/13031793/"
+  }
+ ]
 }
