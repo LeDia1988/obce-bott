@@ -1,88 +1,80 @@
 {
- "datum": "2026-11-05",
- "obstaravania": [
-  {
-   "cpv": "Stavebné práce",
-   "datum": "04.11.2026",
-   "nazov": "Revitalizácia Lesoparku Kalvária v Bardejove",
-   "nuts": "Prešovský kraj",
-   "obec": "Bardejov",
-   "obstaravatel": "Mesto Bardejov",
-   "okres": "Bardejov",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/547550?cHash=48a44a9187c4cece925d2f67c9386ac0",
-   "zdroj": "ÚVO"
-  }
- ],
+ "datum": "2026-11-06",
+ "obstaravania": [],
  "prepojenia": [
   {
-   "datum": "4. November 2026",
+   "datum": "5. November 2026",
    "dodavatel": "OCTAGO CORPORATION, j.s.a.",
    "firma": "Octago",
-   "nazov": "Zmluva o dielo DIE_019/2026",
+   "nazov": "DODATOK č. 1 k Zmluve o dielo č. 5 - 2026 DODATOK č. 1 k Zmluve 5 - 2026",
    "obec": "",
-   "objednavatel": "Mesto Galanta",
+   "objednavatel": "Obec Smolenice",
    "okres": "",
    "relevantne": false,
-   "suma": "12 478,69 €",
+   "suma": "0,00 €",
    "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13032150/"
+   "url": "https://www.crz.gov.sk/zmluva/13037699/"
   },
   {
-   "datum": "4. November 2026",
+   "datum": "5. November 2026",
+   "dodavatel": "OCTAGO CORPORATION, j.s.a.",
+   "firma": "Octago",
+   "nazov": "DODATOK č. 1 k Zmluve o dielo č. 4 - 2026 DODATOK č. 1 k Zmluve o dielo č.",
+   "obec": "",
+   "objednavatel": "Obec Smolenice",
+   "okres": "",
+   "relevantne": false,
+   "suma": "0,00 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13037689/"
+  },
+  {
+   "datum": "5. November 2026",
    "dodavatel": "PLAYSYSTEM s.r.o.",
    "firma": "Playsystem",
-   "nazov": "Zmluva o dielo PLAYSYSTEM s.r.o. detské ihrisko 2026/020",
-   "obec": "",
-   "objednavatel": "Obec Háj - Košice okolie",
-   "okres": "",
-   "relevantne": true,
-   "suma": "11 989,11 €",
+   "nazov": "Dodatok č. 1 k zmluve o dielo č. 31/OV/2026 1091/2026",
+   "obec": "Poprad",
+   "objednavatel": "Mesto Poprad",
+   "okres": "Poprad",
+   "relevantne": false,
+   "suma": "74 745,34 €",
    "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13029312/"
+   "url": "https://www.crz.gov.sk/zmluva/13035907/"
+  },
+  {
+   "datum": "5. November 2026",
+   "dodavatel": "SPORT PLAY s. r. o.",
+   "firma": "Sport&Play",
+   "nazov": "Zmluva o dielo 872/2026",
+   "obec": "Sokoľany",
+   "objednavatel": "Obec Sokoľany",
+   "okres": "Košice",
+   "relevantne": false,
+   "suma": "262 393,44 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13034498/"
   }
  ],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "kraj",
-   "nazov": "4. 11. 2026 – Región Cezhraničný Program Interreg prináša nové impulzy pre rozvoj pohraničia Poľsko-slovenské pohraničie patrí medzi územia s mimoriadnym prírodným a kultúrnym bohatstvom. Jeho ochranu, rozvoj a sprístupnenie dlhodobo podporuje Program Interreg Poľsko – Slovensko 2021 – 2027, ktorý p",
-   "temy": [],
-   "url": "https://psk.sk/cezhranicny-program-interreg-prinasa-nove-impulzy-pre-rozvoj-pohranicia/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
+   "kategoria": "ministerstvo",
+   "nazov": "VYHODNOTENIE: Výzva na predkladanie žiadostí o poskytnutie dotácie v rámci programu „Iniciatívnosť a podnikavosť 2026“",
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "url": "https://www.minedu.sk/vyhodnotenie-vyzva-na-predkladanie-ziadosti-o-poskytnutie-dotacie-v-ramci-programu-iniciativnost-a-podnikavost-2026/",
+   "zdroj": "Ministerstvo školstva (MŠVVaM)",
+   "zhoda_tem": true
   },
   {
    "kategoria": "agregátor",
-   "nazov": "TOP Nová výzva Vzorový projekt Dotácia na obnovu kultúrnych pamiatok v roku 2027 Dotácia podporuje systematickú obnovu, ochranu a rozvoj národných kultúrnych pamiatok, najmä v havarijnom stave, vrátane sanácie vlhkosti a protipožiarnej ochrany. Výška dotácie 100 000 € Miera dotácie 95 % Ostáva dní 2",
+   "nazov": "Nová výzva Dotácia na výstavy vizuálneho umenia v Starom Meste (2026) Otvorená výzva poskytuje za zvýhodnených nekomerčných podmienok výstavné priestory v Pistoriho a Zichyho paláci pre výstavy vizuálneho umenia. Výška dotácie nie je určená Miera dotácie nie je určená Ostáva dní 21 Od 3.11.2026 Do 2",
    "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-obnovu-kulturnych-pamiatok-v-roku-2027",
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vystavy-vizualneho-umenia-v-starom-meste-2026",
    "zdroj": "GrantExpert – prehľad výziev",
    "zhoda_tem": false
   }
  ],
- "zmluvy": [
-  {
-   "datum": "4. November 2026",
-   "dodavatel": "MULLDEX sro",
-   "nazov": "Výstavba šatní pre multifunkčné ihrisko v obci Peder 2026_111",
-   "obec": "Peder",
-   "objednavatel": "OBEC PEDER",
-   "okres": "Košice",
-   "projekcia": false,
-   "suma": "241 516,98 €",
-   "url": "https://www.crz.gov.sk/zmluva/13032711/"
-  },
-  {
-   "datum": "4. November 2026",
-   "dodavatel": "Ministerstvo investícií, regionálneho rozvoja a informatizácie Slovenskej republiky",
-   "nazov": "Zmluva o poskytnutí dotácie na projekt \"Striežka pred vstupom do budovy obecného úradu a prístrešok pred vchodom do domu smútku\" 2026/29",
-   "obec": "Oreské",
-   "objednavatel": "Obec Oreské",
-   "okres": "Michalovce",
-   "projekcia": false,
-   "suma": "0,00 €",
-   "url": "https://www.crz.gov.sk/zmluva/13031793/"
-  }
- ]
+ "zmluvy": []
 }
