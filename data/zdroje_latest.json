@@ -1,78 +1,46 @@
 {
- "datum": "2026-11-06",
- "obstaravania": [],
- "prepojenia": [
+ "datum": "2026-11-07",
+ "obstaravania": [
   {
-   "datum": "5. November 2026",
-   "dodavatel": "OCTAGO CORPORATION, j.s.a.",
-   "firma": "Octago",
-   "nazov": "DODATOK č. 1 k Zmluve o dielo č. 5 - 2026 DODATOK č. 1 k Zmluve 5 - 2026",
-   "obec": "",
-   "objednavatel": "Obec Smolenice",
-   "okres": "",
-   "relevantne": false,
-   "suma": "0,00 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13037699/"
-  },
-  {
-   "datum": "5. November 2026",
-   "dodavatel": "OCTAGO CORPORATION, j.s.a.",
-   "firma": "Octago",
-   "nazov": "DODATOK č. 1 k Zmluve o dielo č. 4 - 2026 DODATOK č. 1 k Zmluve o dielo č.",
-   "obec": "",
-   "objednavatel": "Obec Smolenice",
-   "okres": "",
-   "relevantne": false,
-   "suma": "0,00 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13037689/"
-  },
-  {
-   "datum": "5. November 2026",
-   "dodavatel": "PLAYSYSTEM s.r.o.",
-   "firma": "Playsystem",
-   "nazov": "Dodatok č. 1 k zmluve o dielo č. 31/OV/2026 1091/2026",
-   "obec": "Poprad",
-   "objednavatel": "Mesto Poprad",
-   "okres": "Poprad",
-   "relevantne": false,
-   "suma": "74 745,34 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13035907/"
-  },
-  {
-   "datum": "5. November 2026",
-   "dodavatel": "SPORT PLAY s. r. o.",
-   "firma": "Sport&Play",
-   "nazov": "Zmluva o dielo 872/2026",
-   "obec": "Sokoľany",
-   "objednavatel": "Obec Sokoľany",
+   "cpv": "",
+   "datum": "06.11.2026",
+   "nazov": "Výstavba šatní pre Multifunkčné ihrisko v obci Peder",
+   "nuts": "",
+   "obec": "Peder",
+   "obstaravatel": "Obec Peder",
    "okres": "Košice",
-   "relevantne": false,
-   "suma": "262 393,44 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13034498/"
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566306?cHash=d93de467f605c9035caeb65edc5d5c8d",
+   "zdroj": "ÚVO"
   }
  ],
+ "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
    "kategoria": "ministerstvo",
-   "nazov": "VYHODNOTENIE: Výzva na predkladanie žiadostí o poskytnutie dotácie v rámci programu „Iniciatívnosť a podnikavosť 2026“",
+   "nazov": "MIRRI: Odmeny pre eurofondových odborníkov sú investíciou do kvalitného riadenia eurofondov, nie nadštandardným benefitom",
    "temy": [
     "Dotácia / výzva"
    ],
-   "url": "https://www.minedu.sk/vyhodnotenie-vyzva-na-predkladanie-ziadosti-o-poskytnutie-dotacie-v-ramci-programu-iniciativnost-a-podnikavost-2026/",
-   "zdroj": "Ministerstvo školstva (MŠVVaM)",
+   "url": "https://mirri.gov.sk/aktuality/ministerstvo/mirri-odmeny-pre-eurofondovych-odbornikov-su-investiciou-do-kvalitneho-riadenia-eurofondov-nie-nadstandardnym-benefitom/",
+   "zdroj": "MIRRI – regionálny rozvoj",
    "zhoda_tem": true
   },
   {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na výstavy vizuálneho umenia v Starom Meste (2026) Otvorená výzva poskytuje za zvýhodnených nekomerčných podmienok výstavné priestory v Pistoriho a Zichyho paláci pre výstavy vizuálneho umenia. Výška dotácie nie je určená Miera dotácie nie je určená Ostáva dní 21 Od 3.11.2026 Do 2",
+   "kategoria": "ministerstvo",
+   "nazov": "Príspevok na pomoc pri odkázanosti",
    "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vystavy-vizualneho-umenia-v-starom-meste-2026",
-   "zdroj": "GrantExpert – prehľad výziev",
+   "url": "https://www.employment.gov.sk/sk/rodina-socialna-pomoc/prispevok-pomoc-pri-odkazanosti/",
+   "zdroj": "MPSVR SR (Ihrisko pre každé dieťa)",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "nadácia",
+   "nazov": "Stiahnuť aktuálne výsledky",
+   "temy": [],
+   "url": "https://www.nadaciaspp.sk/wp-content/uploads/2026/11/Podporeni_REG_26_27_web.xlsx",
+   "zdroj": "Nadácia SPP",
    "zhoda_tem": false
   }
  ],
