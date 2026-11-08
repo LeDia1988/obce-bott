@@ -1,48 +1,8 @@
 {
- "datum": "2026-11-07",
- "obstaravania": [
-  {
-   "cpv": "",
-   "datum": "06.11.2026",
-   "nazov": "Výstavba šatní pre Multifunkčné ihrisko v obci Peder",
-   "nuts": "",
-   "obec": "Peder",
-   "obstaravatel": "Obec Peder",
-   "okres": "Košice",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566306?cHash=d93de467f605c9035caeb65edc5d5c8d",
-   "zdroj": "ÚVO"
-  }
- ],
+ "datum": "2026-11-08",
+ "obstaravania": [],
  "prepojenia": [],
  "prvy_beh": false,
- "vyzvy": [
-  {
-   "kategoria": "ministerstvo",
-   "nazov": "MIRRI: Odmeny pre eurofondových odborníkov sú investíciou do kvalitného riadenia eurofondov, nie nadštandardným benefitom",
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "url": "https://mirri.gov.sk/aktuality/ministerstvo/mirri-odmeny-pre-eurofondovych-odbornikov-su-investiciou-do-kvalitneho-riadenia-eurofondov-nie-nadstandardnym-benefitom/",
-   "zdroj": "MIRRI – regionálny rozvoj",
-   "zhoda_tem": true
-  },
-  {
-   "kategoria": "ministerstvo",
-   "nazov": "Príspevok na pomoc pri odkázanosti",
-   "temy": [],
-   "url": "https://www.employment.gov.sk/sk/rodina-socialna-pomoc/prispevok-pomoc-pri-odkazanosti/",
-   "zdroj": "MPSVR SR (Ihrisko pre každé dieťa)",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "nadácia",
-   "nazov": "Stiahnuť aktuálne výsledky",
-   "temy": [],
-   "url": "https://www.nadaciaspp.sk/wp-content/uploads/2026/11/Podporeni_REG_26_27_web.xlsx",
-   "zdroj": "Nadácia SPP",
-   "zhoda_tem": false
-  }
- ],
+ "vyzvy": [],
  "zmluvy": []
 }
