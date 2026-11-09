@@ -1,26 +1,26 @@
 {
  "https://ekopolis.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://ekopolis.sk/",
    "https://ekopolis.sk/vyzvy/eea-vyzva-c-1-na-male-granty/",
    "https://ekopolis.sk/vyzvy/",
    "https://ekopolis.sk/vyzvy",
+   "https://ekopolis.sk/2026/dalsich-13-obcianskych-projektov-ziskalo-podporu-eea-civil-society-fund-slovakia/",
    "https://ekopolis.sk/nase-programy/",
-   "https://ekopolis.sk/programy/eea-civil-society-fund-slovakia/",
-   "https://ekopolis.sk/programy/pre-podu/"
+   "https://ekopolis.sk/programy/eea-civil-society-fund-slovakia/"
   ]
  },
  "https://psk.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://psk.sk/",
-   "https://psk.sk/zupne-eurofondy-menia-skoly-v-kraji-bardejovska-skola-je-modernejsia-za-28-mil-eur/",
-   "https://psk.sk/vytvorili-motyliu-zahradu-sili-vrecuska-zo-zaclon-spajali-generacie-za-svoje-projekty-ziskali-narodne-ocenenie/"
+   "https://psk.sk/cezhranicny-program-interreg-prinasa-nove-impulzy-pre-rozvoj-pohranicia/",
+   "https://psk.sk/projektovy-manazer-projektova-manazerka-podtatranske-muzeum-v-poprade/"
   ]
  },
  "https://www.apa.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.apa.sk/",
    "https://www.apa.sk/aktualne-vyzvy/projektove-podpory-aktualne",
@@ -32,19 +32,19 @@
   ]
  },
  "https://www.employment.gov.sk/sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.employment.gov.sk/sk/",
    "https://www.employment.gov.sk/sk/ministerstvo/poskytovanie-dotacii/",
    "https://www.employment.gov.sk/sk/rodina-socialna-pomoc/podpora-rodinam-detmi/penazna-pomoc/rodicovsky-prispevok/",
    "https://www.employment.gov.sk/sk/praca-zamestnanost/podpora-zamestnanosti/strategicke-dokumenty/",
    "https://www.employment.gov.sk/sk/rodina-socialna-pomoc/podpora-rodinam-detmi/",
-   "https://www.employment.gov.sk/sk/uvodna-stranka/informacie-media/aktuality/parlament-schvalil-balik-socialnych-zakonov-podporu-rodin-detmi-odkazanych-ludi.html",
-   "https://www.employment.gov.sk/sk/uvodna-stranka/informacie-media/aktuality/rezort-prace-predstavuje-dalsie-opatrenia-podporu-odkazanych-ludi.html"
+   "https://www.employment.gov.sk/sk/rodina-socialna-pomoc/prispevok-pomoc-pri-odkazanosti/",
+   "https://www.employment.gov.sk/sk/uvodna-stranka/informacie-media/aktuality/parlament-schvalil-balik-socialnych-zakonov-podporu-rodin-detmi-odkazanych-ludi.html"
   ]
  },
  "https://www.envirofond.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://envirofond.sk/",
    "https://envirofond.sk/2026/10/23/vyzva-mof-3-2025-od-1-hodnotiaceho-kola-vyroba-energie-z-oze-od-2-hodnotiaceho-kola-vyroba-energie-z-oze-vyzva-mof-5-2026-hybridna/",
@@ -56,7 +56,7 @@
   ]
  },
  "https://www.eurofondy.gov.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.eurofondy.gov.sk/",
    "https://eurofondy.gov.sk/narodne-kohezne-forum-reflexia-20-rokov-vyuzivania-eurofondov-a-vyzvy-noveho-programoveho-obdobia/",
@@ -68,7 +68,7 @@
   ]
  },
  "https://www.fnps.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.fnps.sk/",
    "https://www.fnps.sk/moznosti-podpory",
@@ -78,25 +78,31 @@
   ]
  },
  "https://www.grantexpert.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.grantexpert.sk/",
    "https://www.grantexpert.sk/granty-na-ai-prehlad-otvorenych-grantovych-vyziev-a-dotacii/",
    "https://www.grantexpert.sk/vysehradsky-fond-2026-nove-grantove-vyzvy/",
+   "https://www.grantexpert.sk/top-databazy-grantov-a-dotacii-na-slovensku-v-roku-2027-porovnanie/",
    "https://app.grantexpert.sk/grantove-vyzvy",
    "https://www.grantexpert.sk/prehlad-novych-vyziev-pre-narodnostne-mensiny-terminy-a-priprava-ziadosti/",
-   "https://www.grantexpert.sk/najbizarnejsie-granty-a-dotacie-sveta/",
    "https://app.grantexpert.sk/grantove-vyzvy?param1=253&param2=0&param3=0&param4=0&param5=0&param6=0&stav=0&typ=0"
   ]
  },
  "https://www.kosickazupa.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
-   "https://www.kosickazupa.sk/"
+   "https://www.kosickazupa.sk/",
+   "https://www.kosickazupa.sk/uradna-tabula/povinne-informacie/dotacie",
+   "https://www.kosickazupa.sk/uradna-tabula/projekty/projekty-a-zamery-rok-2024",
+   "https://www.kosickazupa.sk/uradna-tabula/projekty/ukoncene-projekty-rok-2023",
+   "https://www.kosickazupa.sk/uradna-tabula/projekty",
+   "https://www.kosickazupa.sk/transparentny-kraj/projekty-a-investicie",
+   "https://www.kosickazupa.sk/projekty"
   ]
  },
  "https://www.mincrs.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.mincrs.sk/",
    "https://mincrs.sk/financovanie",
@@ -107,19 +113,19 @@
   ]
  },
  "https://www.minedu.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.minedu.sk/",
+   "https://www.minedu.sk/vyhodnotenie-vyzva-na-predkladanie-ziadosti-o-poskytnutie-dotacie-v-ramci-programu-iniciativnost-a-podnikavost-2026/",
    "https://www.minedu.sk/29012-sk/vyzvy/",
    "https://www.minedu.sk/vyhodnotenie-vyzva-na-predkladanie-ziadosti-na-zapisanie-do-zoznamu-inovatorov/",
    "https://www.minedu.sk/30088-sk/vyzvy/",
    "https://www.minedu.sk/financovanie-skolstva/",
-   "https://podporneopatrenia.minedu.sk/",
-   "https://www.minedu.sk/implementacny-manual-narodnych-projektov-msvvam-pre-uzivatelov/"
+   "https://podporneopatrenia.minedu.sk/"
   ]
  },
  "https://www.mirri.gov.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://mirri.gov.sk/",
    "https://mirri.gov.sk/projekty/projekty-esif/",
@@ -131,18 +137,18 @@
   ]
  },
  "https://www.nadaciapontis.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.nadaciapontis.sk/",
    "https://www.nadaciapontis.sk/vyzvy/",
+   "https://www.nadaciapontis.sk/novinky/od-vzdelavania-mladych-po-dostupnejsiu-kulturu-pre-ludi-so-znevyhodnenim-program-marc-podpori-12-organizacii/",
    "https://www.nadaciapontis.sk/novinky/nase-mesto-dosiahlo-vyznamny-milnik-na-ceste-k-udrzatelnosti-rekordny-specialny-grant-pomoze-prvemu-reuse-centru/",
    "https://www.nadaciapontis.sk/transparentnost-a-etika/ako-sme-financovani/",
-   "https://www.nadaciapontis.sk/nadacne-fondy-a-darcovske-programy/",
-   "https://www.nadaciapontis.sk/novinky/fond-pre-transparentne-slovensko-prinasa-inovativny-model-podpory-pre-obcianske-organizacie/"
+   "https://www.nadaciapontis.sk/nadacne-fondy-a-darcovske-programy/"
   ]
  },
  "https://www.nadaciaspp.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.nadaciaspp.sk/",
    "https://www.nadaciaspp.sk/nadacia-spp-opat-podpori-dusevne-zdravie-deti-grantovym-programom-sppravmeto-pre-nase-deti/",
@@ -154,15 +160,15 @@
   ]
  },
  "https://www.vlada.gov.sk/": {
-  "d": "2026-11-02",
+  "d": "2026-11-09",
   "pages": [
    "https://www.vlada.gov.sk/",
    "https://www.vlada.gov.sk/plan-obnovy/vyzvy-na-podporu-vyskumu-vyvoja-a-inovacii-z-planu-obnovy-a-odolnosti/",
    "https://www.vlada.gov.sk/urad/dotacie/",
    "https://www.vlada.gov.sk/vlada-sr/podpora-regionov/",
    "https://www.vlada.gov.sk/tlacove-spravy/vlada-v-dubovom-podporila-rozvoj-regionov-turca-oravy-a-severneho-slovenska-sumou-viac-ako-2-3-miliona-eur/",
-   "https://www.vlada.gov.sk/tlacove-spravy/dalsich-151-bytov-pribudne-do-systemu-statom-podporovaneho-najomneho-byvania/",
-   "https://www.vlada.gov.sk/informacny-servis/projekty-podporene-z-fondov-eu/"
+   "https://www.vlada.gov.sk/informacny-servis/projekty-podporene-z-fondov-eu/",
+   "https://www.vlada.gov.sk/webove-sidlo/technicka-podpora-a-spravca-obsahu/"
   ]
  }
 }

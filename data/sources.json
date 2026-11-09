@@ -75,7 +75,7 @@
  },
  "513857": {
   "base": "https://www.budahaza.eu/",
-  "discovered": "2026-11-02",
+  "discovered": "2026-11-09",
   "pages": [
    "https://www.budahaza.eu/samosprava/",
    "https://www.budahaza.eu/novinky/",
@@ -206,7 +206,7 @@
  },
  "518590": {
   "base": "https://www.obeclubotice.sk/",
-  "discovered": "2026-11-02",
+  "discovered": "2026-11-09",
   "pages": [
    "https://www.obeclubotice.sk/zverejnovanie/1684/uradna-tabula",
    "https://www.obeclubotice.sk/novinky/17231/zasadnutia-obecneho-zastupitelstva",
@@ -214,7 +214,6 @@
    "https://www.obeclubotice.sk/novinka/142296/9-zasadnutie-ocz-dna-19102026",
    "https://www.obeclubotice.sk/novinka/141628/pozvanka-medzigeneracne-dialogy-5",
    "https://www.obeclubotice.sk/novinka/138731/8-zasadnutie-ocz-dna-2482026",
-   "https://www.obeclubotice.sk/novinka/137149/7-zasadnutie-ocz-dna-2272026",
    "https://www.obeclubotice.sk/29733/projekty-v-obci",
    "https://www.obeclubotice.sk/16379/investicie",
    "https://www.obeclubotice.sk/novinka/142969/zapisnica-miestnej-volebnej-komisie-v-luboticiach-o-vysledku-volieb-samospravy-obce-z-24102026",
@@ -222,6 +221,7 @@
    "https://www.obeclubotice.sk/novinka/143335/slovenska-posta-oznamenie-trvalej-zmeny-hodin-pre-verejnost-od-1112026",
    "https://www.obeclubotice.sk/novinka/142317/elektronicka-fakturacia-zakladne-informacie",
    "https://www.obeclubotice.sk/novinka/140333/zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-a-poslancov-psk-24102026",
+   "https://www.obeclubotice.sk/16337/rozvoj",
    "https://www.obeclubotice.sk/"
   ],
   "status": "ok"
@@ -1995,22 +1995,22 @@
  },
  "520004": {
   "base": "https://www.humenne.sk/",
-  "discovered": "2026-11-02",
+  "discovered": "2026-11-09",
   "pages": [
    "https://www.humenne.sk/forward.php?adr=aHR0cHM6Ly9lZ292Lmh1bWVubmUuc2svZGVmYXVsdC5hc3B4P05hdmlnYXRpb25TdGF0ZT02MTA6MDo=&page=s03&go1=7&go2=1369",
    "https://www.humenne.sk/Samosprava-mesta/Mestske-zastupitelstvo/Komisie-MsZ/Register-dotacii-schvalenych-komisiami-MsZ/",
    "https://www.humenne.sk/Samosprava-mesta/Projekty-financovane-EU-a-dotacie/Infrastruktura-pre-pohybove-a-volnocasove-aktivity-v-Humennom/",
    "https://www.humenne.sk/Samosprava-mesta/Mestske-zastupitelstvo/",
    "https://www.humenne.sk/Samosprava-mesta/Projekty-financovane-EU-a-dotacie/Modernizacia-kryteho-plaveckeho-bazena-v-Humennom/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Zasadnutie-MsZ-v-Humennom-11-11-2026/",
    "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/",
    "https://www.humenne.sk/Podnikatel/Zamer-mesta-Humenne/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/TENISOVA-OBNOVA-Nafukovacka-uz-na-kurtoch/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VYLUKA-Humenne-Koskovce-na-trati-Humenne-Medzilaborce-spat-29-10/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/HUMENNE-a-DUSICKY-Ako-na-cintorine-Dopravne-obmedzenia-od-30-10-Dbajme-na-EKOlogiu/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VYLUKA-Strazske-Nizny-Hrabovec-na-trati-Humenne-Presov-spat-27-a-28-10/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VOLBY-26-Primatorom-mesta-Humenne-je-MILOS-MERICKO-Aktualizovane-3-pocty-v-okrskoch/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VOLBY-2026-zakladne-informacie/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Prerusenie-distribucie-elektriny-Laborecka-19-10/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Prerusenie-distribucie-elektriny-Csl-armady-Pugacevova-Sturova-9-11/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/KURZY-KORCULOVANIA-26-Prva-zazila-Olympiadu-MS-Osloboditelov/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/TENISOVA-OBNOVA-Nafukovacka-pred-dokoncenim-na-rade-treningova-stena/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VYLUKA-Humenne-Dlhe-n-Cir-na-trati-Humenne-Stakcin-spat-6-11/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/XXIX-HUMENSKE-VIANOCNE-TRHY-info-pre-predajcov/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/UPLNA-UZAVIERKA-zeleznicneho-priecestia-5-11-Laborecka-Sevcenkova/",
    "https://www.humenne.sk/"
   ],
   "status": "ok"
@@ -17934,7 +17934,7 @@
  },
  "543314": {
   "base": "https://www.obec-lucka.sk/",
-  "discovered": "2026-11-02",
+  "discovered": "2026-11-09",
   "pages": [
    "https://www.obec-lucka.sk/dokumenty-obce/",
    "https://www.obec-lucka.sk/nezaradene/",

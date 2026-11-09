@@ -1,8 +1,25 @@
 {
- "datum": "2026-11-08",
+ "datum": "2026-11-09",
  "obstaravania": [],
  "prepojenia": [],
  "prvy_beh": false,
- "vyzvy": [],
+ "vyzvy": [
+  {
+   "kategoria": "nadácia",
+   "nazov": "Ďalších 13 občianskych projektov získalo podporu EEA Civil Society Fund Slovakia…",
+   "temy": [],
+   "url": "https://ekopolis.sk/2026/dalsich-13-obcianskych-projektov-ziskalo-podporu-eea-civil-society-fund-slovakia/",
+   "zdroj": "Nadácia Ekopolis",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na vybavenie verejných knižníc (2027) Dotácia podporuje skvalitnenie a modernizáciu verejných knižníc, najmä nábytkové vybavenie menšieho rozsahu, modernizáciu služieb a nákup techniky pre používateľov. Výška dotácie 10 000 € Miera dotácie 90 % Ostáva dní 28 Od 8.11.2026 Do 7.12.2",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vybavenie-verejnych-kniznic-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
  "zmluvy": []
 }

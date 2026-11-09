@@ -1,6 +1,48 @@
 {
- "datum": "2026-11-08",
+ "datum": "2026-11-09",
  "nalezy": [
+  {
+   "firmy": [],
+   "kod": "543365",
+   "kraj": "Košický kraj",
+   "obec": "Mníšek Nad Hnilcom",
+   "okres": "Gelnica",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Turistická infraštruktúra"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [],
+   "ukazky": [
+    "…2026 ne 29 nov 09:00 Turistika na Kloptaň Poďte sa pozrieť na zrekonštruovanú drevenú rozhľadňu 09:00 Kloptaň (1153 m n.m.) Organizátor OZ Rudohorská 100 Občianske združenie Rudohorská 100 Odkaz na stránku organizátora https://sk-sk.facebook.com/story.php…"
+   ],
+   "url": "https://mnisek.sk/",
+   "zdroj": "https://mnisek.sk/",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "521370",
+   "kraj": "Košický kraj",
+   "obec": "Geča",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [],
+   "ukazky": [
+    "…Meniny má Teodor , Orest, Teo, Teodorik, Teodoz, Deodata, Tea, Teodora, Teodózia Futbalové ihrisko-príprava na oslavy 760.výročie obce Geča…"
+   ],
+   "url": "https://www.obecgeca.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-faktury-objednavky-do-konca-roka-2013/zmluvy/",
+   "zdroj": "https://www.obecgeca.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-faktury-objednavky-do-konca-roka-2013/zmluvy/",
+   "zmena_stranky": true
+  },
   {
    "firmy": [],
    "kod": "521493",
@@ -60,6 +102,330 @@
   },
   {
    "firmy": [],
+   "kod": "521841",
+   "kraj": "Košický kraj",
+   "obec": "Opiná",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Park / oddych"
+   ],
+   "title": "uprava prostr oddych. zóny 2024",
+   "typ": [],
+   "ukazky": [
+    "…Úprava priestranstva oddychovej zóny 2024…"
+   ],
+   "url": "http://opina.sk/images//Dokumenty/2026/Cinnost_OcU/Zona_2024.pdf",
+   "zdroj": "http://www.opina.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "521841",
+   "kraj": "Košický kraj",
+   "obec": "Opiná",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Mobiliár"
+   ],
+   "title": "Altanok na oddych zone 2025",
+   "typ": [],
+   "ukazky": [
+    "…Altanok na oddych zone 2025 Altanok na oddych zone 2025…"
+   ],
+   "url": "http://opina.sk/images//Dokumenty/2026/Cinnost_OcU/Altanok_2025.pdf",
+   "zdroj": "http://www.opina.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "521841",
+   "kraj": "Košický kraj",
+   "obec": "Opiná",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Oplotenie"
+   ],
+   "title": "Oprava oplotenia OcU",
+   "typ": [],
+   "ukazky": [
+    "…Oprava oplotenia OcU Oprava oplotenia OcU…"
+   ],
+   "url": "http://opina.sk/images//Dokumenty/2026/Cinnost_OcU/Oplotenie_2026.pdf",
+   "zdroj": "http://www.opina.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "521841",
+   "kraj": "Košický kraj",
+   "obec": "Opiná",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Mobiliár"
+   ],
+   "title": "Oprava okien a lavičiek 2026",
+   "typ": [],
+   "ukazky": [
+    "…Oprava okien a lavičiek 2026 Oprava okien a lavičiek 2026…"
+   ],
+   "url": "http://opina.sk/images//Dokumenty/2026/Cinnost_OcU/Oprava_2026.pdf",
+   "zdroj": "http://www.opina.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "521841",
+   "kraj": "Košický kraj",
+   "obec": "Opiná",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Oplotenie",
+    "Mobiliár",
+    "Park / oddych"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [],
+   "ukazky": [
+    "…i cintoríne 2024 uprava prostr oddych. zóny 2024 Zrezanie brezy pri cintoríne 2024 Altanok na oddych zone 2025 jubilanti a dôchodcovia 2025 Oplotenie oddychovej zóny Oprava okien a lavičiek 2026…",
+    "…chodcovia 2023 Jubilanti a dôchodcovia 2024 parkovisko pri cintoríne 2024 uprava prostr oddych. zóny 2024 Zrezanie brezy pri cintoríne 2024 Altanok na oddych zone 2025 jubilanti a dôchodcovia 2025 Oplotenie oddychovej zóny Oprava okien a lavičiek 2026…",
+    "…ny 2024 Zrezanie brezy pri cintoríne 2024 Altanok na oddych zone 2025 jubilanti a dôchodcovia 2025 Oplotenie oddychovej zóny Oprava okien a lavičiek 2026…",
+    "…e 2024 uprava prostr oddych. zóny 2024 Zrezanie brezy pri cintoríne 2024 Altanok na oddych zone 2025 jubilanti a dôchodcovia 2025 Oplotenie oddychovej zóny Oprava okien a lavičiek 2026…"
+   ],
+   "url": "http://www.opina.sk/",
+   "zdroj": "http://www.opina.sk/",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "522198",
+   "kraj": "Košický kraj",
+   "obec": "Vyšná Myšľa",
+   "okres": "Košice",
+   "projekcia": true,
+   "statut": "OBEC",
+   "sumy_eur": [
+    488025.49,
+    463624.0,
+    12350.0,
+    12100.0,
+    2670.4
+   ],
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "title": "Zápisnica zo zasadnutia OZ 14.10.2026 | 0.4 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… výške 463 624,00 EUR (v súlade s bodom č. 1) na financovanie Projektu; 3. zabezpečenie finančných prostriedkov z vlastných zdrojov obce na spolufinancovanie Projektu, a to minimálne vo výške 5 % z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z Envi…",
+    "…edkov z vlastných zdrojov obce na spolufinancovanie Projektu, a to minimálne vo výške 5 % z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z Environmentálneho fondu formou dotácie – priebežné plnenie, uznesenie č. 228 – Obecné zastupiteľstvo obce Vyšn…"
+   ],
+   "url": "https://www.vysnamysla.sk/files/2026-10-16-230415-Z__pisnica_zo_zasadnutia_Obecn__ho_zastupite__stva_14.10.2026.pdf",
+   "zdroj": "https://www.vysnamysla.sk/zapisnice-oz"
+  },
+  {
+   "firmy": [],
+   "kod": "522198",
+   "kraj": "Košický kraj",
+   "obec": "Vyšná Myšľa",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [
+    488025.49,
+    463624.0,
+    12350.0,
+    12100.0,
+    5000.0
+   ],
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "title": "Zápisnica zo zasadnutia OZ 02.07.2026 | 0.34 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…mienok financovania Zastupujúci starosta obce informoval, že k súčasnému projektu „Modernizácia vodojemu v obci Vyšná Myšľa“ je vypracovaná žiadosť o poskytnutie podpory formou z Environmentálneho fondu a prebehol proces prieskumu trhu na realizáciu procesu verejného obstarávania na zákazku „Modernizácia vodojemu v obci…",
+    "… výške 463 624,00 EUR (v súlade s bodom č. 1) na financovanie Projektu; 3. zabezpečenie finančných prostriedkov z vlastných zdrojov obce na spolufinancovanie Pro- jektu, a to minimálne vo výške 5 % z oprávnených nákladov Projektu a ich použitie na spo- lufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z …"
+   ],
+   "url": "https://www.vysnamysla.sk/files/2026-07-06-202824-Z__pisnica_zo_zasadnutia_Obecn__ho_zastupite__stva_02.07.2026.pdf",
+   "zdroj": "https://www.vysnamysla.sk/zapisnice-oz"
+  },
+  {
+   "firmy": [],
+   "kod": "522198",
+   "kraj": "Košický kraj",
+   "obec": "Vyšná Myšľa",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [
+    519203.25,
+    493243.0,
+    34126.35,
+    33785.0,
+    5000.0
+   ],
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "title": "Zápisnica zo zasadnutia OZ 19.05.2026 | 0.44 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…o výške 33 785,00 EUR (v súlade s bodom č. 1) na financovanie Projektu; 3. zabezpečenie finančných prostriedkov z vlastných zdrojov obce na spolufinancovanie Projektu, a to minimálne vo výške 1 % z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z Envi…",
+    "…edkov z vlastných zdrojov obce na spolufinancovanie Projektu, a to minimálne vo výške 1 % z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z Environmentálneho fondu formou dotácie – priebežné plnenie, uznesenie č. 212 - Obecné zastupiteľstvo obce Vyšn…"
+   ],
+   "url": "https://www.vysnamysla.sk/files/2026-05-24-021427-Z__pisnica_zo_zasadnutia_Obecn__ho_zastupite__stva_19.05.2026.pdf",
+   "zdroj": "https://www.vysnamysla.sk/zapisnice-oz"
+  },
+  {
+   "firmy": [],
+   "kod": "522198",
+   "kraj": "Košický kraj",
+   "obec": "Vyšná Myšľa",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [
+    47999.99,
+    2316.6,
+    2053.75
+   ],
+   "temy": [
+    "Športovisko",
+    "Dotácia / výzva"
+   ],
+   "title": "Zápisnica zo zasadnutia OZ 19.11.2025 | 0.48 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… na komunikačný systém - Rozhlasový systém ROZaNA – splnené, uznesenie č. 180 - Obecné zastupiteľstvo obce Vyšná Myšľa schvaľuje obstaranie multifunkčného zariadenia formou operatívneho lízingu od spoločnosti Konica Minolta Slovakia, spol. s r. o. Dunajská 7, Košice na obdobie 5 rokov – splnené. BOD 5 – Rozpočtov…",
+    "…e vstupnej časti vchodu, výroba a montáž vstupnej brány a časti Bufet – rekonštrukcia, premiestnenie stavby, presun na úpravu priestranstva športového areálu na uskutočnené podujatí, na reprezentačné výdavky na podujatia: Furmanské preteky a 700 výročie obce, splátka úveru k projektu: „Rekonštrukcia čerpacej stanice…",
+    "…i Vyšná Myšľa“. Presuny vo výdavkovej časti sa týkali splátok istiny a úrokov úveru, na ostatné služby - vypracovanie projektového zámeru a žiadosti o NFP na projekt \"Rekonštukcia obecnej budovy na komunitný dom\", vypracovanie projektového zámeru a žiadosti o NFP \"Predchádzanie vzniku BRKO v obci Vyšná Myšľa\". Ma…",
+    "…acovanie projektového zámeru a žiadosti o NFP na projekt \"Rekonštukcia obecnej budovy na komunitný dom\", vypracovanie projektového zámeru a žiadosti o NFP \"Predchádzanie vzniku BRKO v obci Vyšná Myšľa\". Malé presuny sa uskutočnili za nákup všeobecného materiálu (údržba výpočtovej techniky, palivo). Väčšie presuny…"
+   ],
+   "url": "https://www.vysnamysla.sk/files/2025-11-24-003207-Z__pisnica_zo_zasadnutia_Obecn__ho_zastupite__stva_19.11.2025.pdf",
+   "zdroj": "https://www.vysnamysla.sk/zapisnice-oz"
+  },
+  {
+   "firmy": [],
+   "kod": "522244",
+   "kraj": "Košický kraj",
+   "obec": "Zlatá Idka",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [
+    2175.02,
+    1500.0
+   ],
+   "temy": [
+    "Mobiliár",
+    "Park / oddych"
+   ],
+   "title": "NOVÉ KOŠE NA SEPAROVANÝ ZBER ODPADU V OBECNÝCH P… NOVÉ KOŠE NA SEPAROVANÝ ZBER ODPADU V OBCI ZLATÁ IDKA Obec Zlatá Idka úspešne zrealizovala projekt zameraný na zlepšenie čistoty verejných priestranstiev a podporu triedenia odpadu… 8. novembra 2026 18:51",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…arovaný zber odpadu, ktoré boli rozmiestnené v obecných parkoch a oddychových zónach. Doteraz sa v týchto priestoroch nenachádzali žiadne odpadkové koše. Financovanie projektu: Celkové náklady: 2 175,02 € Dotácia Košického samosprávneho kraja: 1 500,00 € Vlastné zdroje obce: 675,02 € Projekt bol realizovaný s fin…",
+    "…padu. V rámci projektu bolo zakúpených a osadených 5 nových košov na separovaný zber odpadu, ktoré boli rozmiestnené v obecných parkoch a oddychových zónach. Doteraz sa v týchto priestoroch nenachádzali žiadne odpadkové koše. Financovanie projektu: Celkové náklady: 2 175,02 € Dotácia Košického samosprávneho kraja: 1 …"
+   ],
+   "url": "https://obeczlataidka.sk/mobilny-rozhlas/?message=6af0c4b29c46898dfd553e6a",
+   "zdroj": "https://obeczlataidka.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "522244",
+   "kraj": "Košický kraj",
+   "obec": "Zlatá Idka",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [
+    2175.02,
+    1500.0
+   ],
+   "temy": [
+    "Mobiliár",
+    "Park / oddych"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…arovaný zber odpadu, ktoré boli rozmiestnené v obecných parkoch a oddychových zónach. Doteraz sa v týchto priestoroch nenachádzali žiadne odpadkové koše. Celkové náklady: 2 175,02 € Dotácia Košického samosprávneho kraja: 1 500,00 € Vlastné zdroje obce: 675,02 € Projekt bol realizovaný s finančnou podporou Košické…",
+    "…padu. V rámci projektu bolo zakúpených a osadených 5 nových košov na separovaný zber odpadu, ktoré boli rozmiestnené v obecných parkoch a oddychových zónach. Doteraz sa v týchto priestoroch nenachádzali žiadne odpadkové koše. Celkové náklady: 2 175,02 € Dotácia Košického samosprávneho kraja: 1 500,00 € Vlastné zdroje…"
+   ],
+   "url": "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ae2210024ba014a5169e778",
+   "zdroj": "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ae2210024ba014a5169e778",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "522244",
+   "kraj": "Košický kraj",
+   "obec": "Zlatá Idka",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [
+    2175.02,
+    1500.0
+   ],
+   "temy": [
+    "Mobiliár",
+    "Park / oddych"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…arovaný zber odpadu, ktoré boli rozmiestnené v obecných parkoch a oddychových zónach. Doteraz sa v týchto priestoroch nenachádzali žiadne odpadkové koše. Celkové náklady: 2 175,02 € Dotácia Košického samosprávneho kraja: 1 500,00 € Vlastné zdroje obce: 675,02 € Projekt bol realizovaný s finančnou podporou Košické…",
+    "…padu. V rámci projektu bolo zakúpených a osadených 5 nových košov na separovaný zber odpadu, ktoré boli rozmiestnené v obecných parkoch a oddychových zónach. Doteraz sa v týchto priestoroch nenachádzali žiadne odpadkové koše. Celkové náklady: 2 175,02 € Dotácia Košického samosprávneho kraja: 1 500,00 € Vlastné zdroje…"
+   ],
+   "url": "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ab36ef25d9afc68437ec963",
+   "zdroj": "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ab36ef25d9afc68437ec963",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
    "kod": "525871",
    "kraj": "Košický kraj",
    "obec": "Krásnohorské Podhradie",
@@ -73,15 +439,36 @@
    "title": "Zasadnutie obecného zastupiteľstva",
    "typ": [
     "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…ia o havarijnom stave objektu súpisné číslo 199 6. Schválenie z čerpanie z úveru 7. MOaPS nová výzva – informácia 8. Environmentálny fond – žiadosť o dotáciu, oblasť: Program obnovy dediny (POD) – zmena uznesenia v zmysle výzvy 9. Interpelácia poslancov 10. Záver Štefan KÚN starosta obce ––––––––––––––––––––––––––––…",
-    "…tu súpisné číslo 199 6. Schválenie z čerpanie z úveru 7. MOaPS nová výzva – informácia 8. Environmentálny fond – žiadosť o dotáciu, oblasť: Program obnovy dediny (POD) – zmena uznesenia v zmysle výzvy 9. Interpelácia poslancov 10. Záver Štefan KÚN starosta obce –––––––––––––––––––––––––––––––––––––––––––––––––––––––––––…"
+    "…udka – Zmluva o prenájme 12. Zámer vytvorenia sociálneho podniku (s.r.o.) – nové uznesenie pre zmenu legislatívy 13. Environmentálny fond – žiadosť o dotáciu, oblasť: Program obnovy dediny (POD) 14. Vysporiadanie pozemku pod objektom MŠ (Pačanská 684) par. číslo KN-C 2606/9 15. Slovenská pošta, a.s – Žiadosť o súhla…",
+    "…. Zámer vytvorenia sociálneho podniku (s.r.o.) – nové uznesenie pre zmenu legislatívy 13. Environmentálny fond – žiadosť o dotáciu, oblasť: Program obnovy dediny (POD) 14. Vysporiadanie pozemku pod objektom MŠ (Pačanská 684) par. číslo KN-C 2606/9 15. Slovenská pošta, a.s – Žiadosť o súhlas so zriadením ON LINE zberne T…"
    ],
-   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2026-09-18-064315-Pozv__nka_OZ_na__21_.9.2026.pdf",
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2026-06-10-224936-Pozv__nka_OZ_na___15.6.2026.pdf",
    "zdroj": "https://www.obeckrasnohorskepodhradie.sk/pozvanky-na-zasadnutie-oz"
+  },
+  {
+   "firmy": [],
+   "kod": "525871",
+   "kraj": "Košický kraj",
+   "obec": "Krásnohorské Podhradie",
+   "okres": "Rožňava",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "title": "Zmluva o poskytnutí nenávratného finančného príspevku",
+   "typ": [],
+   "ukazky": [
+    "…Zmluva o poskytnutí nenávratného finančného príspevku Zmluva o poskytnutí nenávratného finančného príspevku…"
+   ],
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2023-07-13-174110-Zmluva_o_poskytnut___fin_prispevku_01.pdf",
+   "zdroj": "https://www.obeckrasnohorskepodhradie.sk/archiv-zmluv-faktur-a-objednavok"
   },
   {
    "firmy": [],
@@ -137,6 +524,49 @@
    "url": "https://www.sirnik.sk/uradna-tabula-archiv",
    "zdroj": "https://www.sirnik.sk/uradna-tabula-archiv",
    "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "519235",
+   "kraj": "Prešovský kraj",
+   "obec": "Hertník",
+   "okres": "Bardejov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Zastávka"
+   ],
+   "title": "Raslavice – Kapušany pri Prešove 13.11.2026",
+   "typ": [],
+   "ukazky": [
+    "…lavice 13:00 – Kapušany pri Os 9217 Prešov 12:25 – Kapušany pri Prešove 12:36 Raslavice Prešove 13:21 – Prešov 13:33 12:57 – Bardejov 13:30 Zastávky NAD Železničná stanica/zastávka Miesto zastavenia NAD Raslavice pred ŽST Demjata obec autobusová zastávka „Demjata“ Tulčík autobusová zastávka „Tulčík, kostol“…",
+    "…217 Prešov 12:25 – Kapušany pri Prešove 12:36 Raslavice Prešove 13:21 – Prešov 13:33 12:57 – Bardejov 13:30 Zastávky NAD Železničná stanica/zastávka Miesto zastavenia NAD Raslavice pred ŽST Demjata obec autobusová zastávka „Demjata“ Tulčík autobusová zastávka „Tulčík, kostol“ Fulianka autobusová zastávka „F…"
+   ],
+   "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Raslavice-Kapusany-pri-Presove_13.11.26.pdf",
+   "zdroj": "https://obechertnik.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "520276",
+   "kraj": "Prešovský kraj",
+   "obec": "Jabloň",
+   "okres": "Humenné",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "title": "D O H O D A č. 26/35/010/30",
+   "typ": [
+    "Rozpočet / zmena rozpočtu"
+   ],
+   "ukazky": [
+    "…nosti mimo územia obce, a to v súlade so zmluvou podľa § 20a zákona o obecnom zriadení, ktorá je povinnou prílohou žiadosti o príspevok. 5. Žiadosť o poskytnutie príspevku predkladá úradu organizátor, ktorý prepravu zabezpečil a to najneskôr do 10. dňa kalendárneho mesiaca nasledujúceho po skončení kalendárneho mesiaca,…"
+   ],
+   "url": "https://www.obecjablon.sk/wp-content/uploads/2026/11/Dohoda-c.26-35-010-30.pdf",
+   "zdroj": "https://www.obecjablon.sk/"
   },
   {
    "firmy": [],
@@ -231,72 +661,6 @@
   },
   {
    "firmy": [],
-   "kod": "524042",
-   "kraj": "Prešovský kraj",
-   "obec": "Vlková",
-   "okres": "Kežmarok",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Meniny má Bohumír , Bohumíra Zajtra má meniny Teodor , Orest, Teo, Teodorik, Teodoz, Deodata, Tea, Teodora, Teodózia Detské ihrisko - IBV Park Panorama…"
-   ],
-   "url": "https://www.vlkova.sk/zverejnovanie/uradna-tabula/rozpocet-na-roky-2022-2024-18.html",
-   "zdroj": "https://www.vlkova.sk/zverejnovanie/uradna-tabula/rozpocet-na-roky-2022-2024-18.html",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "524581",
-   "kraj": "Prešovský kraj",
-   "obec": "Janov",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Vybreženie toku rieky Svinka pri futbalovom ihrisku Dnes je nedeľa , 8.11.2026 , 5:26:32…"
-   ],
-   "url": "https://www.obecjanov.sk/",
-   "zdroj": "https://www.obecjanov.sk/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "525162",
-   "kraj": "Prešovský kraj",
-   "obec": "Seniakovce",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    4450.0
-   ],
-   "temy": [
-    "Zastávka"
-   ],
-   "title": "FA-1_2025-5.pdf",
-   "typ": [
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…46919805 Stupava polatky 14.1.2025 21.1.2025 135,30 € zmluva 29mm1 Kamenná 202/40, Lutina 3. 250101 L-DEN Slovakia 54084491 966 22 2x autob.zastávka 16.1.2025 21.1.2025 4.450,00 € objednávka 2024025 4 202510067 IKARO s.r.o. 31656544 Okružná 32, PO valec do tlačiarne 22.1.2025 22.1.2025 171,95 € nákup 5 8660…"
-   ],
-   "url": "https://seniakovce.sk/wp-content/uploads/2025/03/FA-1_2025-5.pdf",
-   "zdroj": "https://seniakovce.sk/rozpocet/"
-  },
-  {
-   "firmy": [],
    "kod": "525146",
    "kraj": "Prešovský kraj",
    "obec": "Sabinov",
@@ -317,7 +681,7 @@
    "ukazky": [
     "…aný za realizovateľný. 5. Projekt môže byť zameraný na: a) úpravy verejného priestoru, zlepšenie životného prostredia a jeho zveľadenie, b) voľnočasové aktivity zamerané na kultúrne a pohybové aktivity, záujmové a tvorivé aktivity, c) infraštruktúru, občiansku vybavenosť a aktivity na zlepšenie sociálnych väzi…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=9f5ab258314963039b3463eec93dc78e",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=a29cc8f32f53bf17b4313cab2ad2f37a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -341,7 +705,7 @@
    "ukazky": [
     "…kať viac informácií o svojich právach: www.sabinov.sk. Označte iba jednu elipsu. áno nie 7. HLASOVANIE: * Označte iba jednu elipsu. Jožkova lavička Virtuálne prehliadky histórie Sabinova Virtuálna galéria obrazov Teodora Csontváryho-Kostku 8. Ďakujeme za Váš hlas. Zároveň na tomto mieste môžete uviesť podn…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=9f5ab258314963039b3463eec93dc78e",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=a29cc8f32f53bf17b4313cab2ad2f37a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -359,7 +723,7 @@
    "title": "jozkova-lavicka.jpg",
    "typ": [],
    "ukazky": [],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=9f5ab258314963039b3463eec93dc78e",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=a29cc8f32f53bf17b4313cab2ad2f37a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -384,8 +748,37 @@
    "ukazky": [
     "…aný za realizovateľný. 5. Projekt môže byť zameraný na: a) úpravy verejného priestoru, zlepšenie životného prostredia a jeho zveľadenie, b) voľnočasové aktivity zamerané na kultúrne a pohybové aktivity, záujmové a tvorivé aktivity, c) infraštruktúru, občiansku vybavenosť a aktivity na zlepšenie sociálnych väzi…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=9f5ab258314963039b3463eec93dc78e",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=a29cc8f32f53bf17b4313cab2ad2f37a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
+  },
+  {
+   "firmy": [],
+   "kod": "525235",
+   "kraj": "Prešovský kraj",
+   "obec": "Šarišské Michaľany",
+   "okres": "Sabinov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…haľany Vyvesené: 22. 11. 2019 Dátum zvesenia: 8. 12. 2019 Rozhodnutie o zamietnutí odvolania a potvrdení stavebného povolenia „Multifunkčné ihrisko“ – zverejnenie verejnou vyhláškou Vyvesené: 15. 11. 2019 Dátum zvesenia: 1. 12. 2019 Oznámenie o začatí konania o predĺžení platnosti územného rozhodnutia na s…",
+    "…yhláškou Vyvesené: 6. 9. 2019 Dátum zvesenia: 22. 9. 2019 Upovedomenie o podaní odvolania vo veci stavebného povolenia stavby „Multifunkčné ihrisko“- zverejnenie verejnou vyhláškou Vyvesené: 19. 8. 2019 Dátum zvesenia: 4. 9. 2019 Plán práce hlavného kontrolóra obce na II. polrok 2019 – zverejnenie Vyvesené…",
+    "…u prenájmu majetku obce - Packeta Slovakia s. r. o. -automat k vydávaniu zásielok Zverejnenie zámeru prenájmu majetku obce -FK, OŠSK, DHZ - športový areál Verejná vyhláška - kolaudácia bytového domu Vyvesené: 10. 9. 2021 Dátum zvesenia: 26. 9. 2021 Vyvesené: 6. 9. 2021 Dátum zvesenia: 22. 9. 2021 Vyvesené: 18. 8.…",
+    "… Šarišské Michaľany Vyvesené: 22. 11. 2019 Dátum zvesenia: 8. 12. 2019 Rozhodnutie o zamietnutí odvolania a potvrdení stavebného povolenia „Multifunkčné ihrisko“ – zverejnenie verejnou vyhláškou Vyvesené: 15. 11. 2019 Dátum zvesenia: 1. 12. 2019 Oznámenie o začatí konania o predĺžení platnosti územného rozhodnu…"
+   ],
+   "url": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/",
+   "zdroj": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/",
+   "zmena_stranky": true
   },
   {
    "firmy": [],
@@ -462,56 +855,8 @@
    "ukazky": [
     "…Fico - Otváranie multifunkčného ihriska…"
    ],
-   "url": "https://www.obecbukovce.sk/zapisnice-a-uznesenia-oz",
-   "zdroj": "https://www.obecbukovce.sk/zapisnice-a-uznesenia-oz",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "527181",
-   "kraj": "Prešovský kraj",
-   "obec": "Bukovce",
-   "okres": "Stropkov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Fico - Otváranie multifunkčného ihriska…"
-   ],
-   "url": "https://www.obecbukovce.sk/projekty",
-   "zdroj": "https://www.obecbukovce.sk/projekty",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "544213",
-   "kraj": "Prešovský kraj",
-   "obec": "Hanušovce Nad Topľou",
-   "okres": "Vranov nad Topľou",
-   "projekcia": false,
-   "statut": "MESTO",
-   "sumy_eur": [
-    224883.84
-   ],
-   "temy": [
-    "Športovisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica"
-   ],
-   "ukazky": [
-    "….883,84 Eur „Projekt je financovaný z prostriedkov Fondu na podporu cestovného ruchu“ Ministerstvo cestovného ruchu a športu ,,Skvalitnenie športovej infraštruktúry v areáli ZŠ\" Schválené prostriedky zo štátneho rozpočtu v roku 2025: Výška príspevku zo štátneho rozpočtu: Mierová 333/3 094 31 Hanušovce nad Topľou Telefón: 0…"
-   ],
-   "url": "https://www.hanusovce.sk/samosprava-a-urad/mestske-zastupitelstvo-1/zasadania-msz/",
-   "zdroj": "https://www.hanusovce.sk/samosprava-a-urad/mestske-zastupitelstvo-1/zasadania-msz/",
+   "url": "https://www.obecbukovce.sk/faktury",
+   "zdroj": "https://www.obecbukovce.sk/faktury",
    "zmena_stranky": true
   }
  ],
@@ -609,6 +954,6 @@
  "obci_prvy_beh": 0,
  "obci_skontrolovanych": 1038,
  "obci_spolu": 1126,
- "trvanie_s": 2272,
- "vygenerovane": "2026-11-08T04:40:47"
+ "trvanie_s": 1662,
+ "vygenerovane": "2026-11-09T04:36:45"
 }
