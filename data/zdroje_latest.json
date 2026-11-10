@@ -1,25 +1,78 @@
 {
- "datum": "2026-11-09",
- "obstaravania": [],
- "prepojenia": [],
+ "datum": "2026-11-10",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "09.11.2026",
+   "nazov": "„Prírodovisko - ekologický park pre deti.“",
+   "nuts": "",
+   "obec": "Sobrance",
+   "obstaravatel": "Mesto Sobrance",
+   "okres": "Sobrance",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566364?cHash=24e40915ceedbe2f1a4cd95868de999d",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "Stavebné práce",
+   "datum": "09.11.2026",
+   "nazov": "Vybudovanie a rekonštrukcia cykloinfraštruktúry na vybraných úsekoch cyklotrás v okrese Prešov (Veľký Šariš)",
+   "nuts": "Prešovský kraj",
+   "obec": "",
+   "obstaravatel": "Prešovský samosprávny kraj",
+   "okres": "",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/552089?cHash=d99e26d5577a7d706bb10d1c0d7b9e6d",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [
+  {
+   "datum": "9. November 2026",
+   "dodavatel": "3linea,spol.s.r.o.",
+   "firma": "3linea",
+   "nazov": "Zmluva o poskytnutí služieb uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov 46/2026",
+   "obec": "",
+   "objednavatel": "Krajské múzeum v Prešove",
+   "okres": "",
+   "relevantne": false,
+   "suma": "7 355,40 €",
+   "typ": "projektant",
+   "url": "https://www.crz.gov.sk/zmluva/13046351/"
+  }
+ ],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "nadácia",
-   "nazov": "Ďalších 13 občianskych projektov získalo podporu EEA Civil Society Fund Slovakia…",
-   "temy": [],
-   "url": "https://ekopolis.sk/2026/dalsich-13-obcianskych-projektov-ziskalo-podporu-eea-civil-society-fund-slovakia/",
-   "zdroj": "Nadácia Ekopolis",
-   "zhoda_tem": false
+   "kategoria": "fond",
+   "nazov": "mof@envirofond.sk",
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "url": "mailto:mof@envirofond.sk",
+   "zdroj": "Environmentálny fond",
+   "zhoda_tem": true
   },
   {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na vybavenie verejných knižníc (2027) Dotácia podporuje skvalitnenie a modernizáciu verejných knižníc, najmä nábytkové vybavenie menšieho rozsahu, modernizáciu služieb a nákup techniky pre používateľov. Výška dotácie 10 000 € Miera dotácie 90 % Ostáva dní 28 Od 8.11.2026 Do 7.12.2",
+   "kategoria": "kraj",
+   "nazov": "Projektový špecialista – Spoločný sekretariát Programu Interreg Poľsko – Slovensko 2021 – 2027 (uzávierka žiadostí 16.11.2026) 9. 11. 2026 – voľné pracovné miesto",
    "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vybavenie-verejnych-kniznic-2027",
-   "zdroj": "GrantExpert – prehľad výziev",
+   "url": "https://psk.sk/projektovy-specialista-spolocny-sekretariat-programu-interreg-polsko-slovensko-2021-2027/",
+   "zdroj": "Prešovský samosprávny kraj",
    "zhoda_tem": false
   }
  ],
- "zmluvy": []
+ "zmluvy": [
+  {
+   "datum": "9. November 2026",
+   "dodavatel": "SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik",
+   "nazov": "k.ú. Haniska - NZaZoBZoZVB na časť parcely KNC č. 582/1 za účelom realizácie stavby „Obytný park Haniska“, v rozsahu stavebného objektu „SO 521 - Rozšírenie verejného vodovodu pre pripravovaný zámer v rámci stavby: „OBYTNÝ PARK HANISKA“ 1257/2026-KE",
+   "obec": "Haniska",
+   "objednavatel": "Nájomca: DJL Development, s.r.o., Budúci oprávnený z vecného bremena: Obec Haniska",
+   "okres": "Prešov",
+   "projekcia": false,
+   "suma": "250,00 €",
+   "url": "https://www.crz.gov.sk/zmluva/13049923/"
+  }
+ ]
 }
