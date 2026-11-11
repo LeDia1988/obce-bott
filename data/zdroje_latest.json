@@ -1,78 +1,76 @@
 {
- "datum": "2026-11-10",
+ "datum": "2026-11-11",
  "obstaravania": [
   {
-   "cpv": "",
-   "datum": "09.11.2026",
-   "nazov": "„Prírodovisko - ekologický park pre deti.“",
-   "nuts": "",
-   "obec": "Sobrance",
-   "obstaravatel": "Mesto Sobrance",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/566364?cHash=24e40915ceedbe2f1a4cd95868de999d",
-   "zdroj": "ÚVO"
-  },
-  {
-   "cpv": "Stavebné práce",
-   "datum": "09.11.2026",
-   "nazov": "Vybudovanie a rekonštrukcia cykloinfraštruktúry na vybraných úsekoch cyklotrás v okrese Prešov (Veľký Šariš)",
+   "cpv": "Stavebné práce na stavbe cyklistických trás",
+   "datum": "11.11.2026",
+   "nazov": "Cyklochodník na ulici Wolkerovej, II. Etapa",
    "nuts": "Prešovský kraj",
-   "obec": "",
-   "obstaravatel": "Prešovský samosprávny kraj",
-   "okres": "",
+   "obec": "Prešov",
+   "obstaravatel": "Mesto Prešov",
+   "okres": "Prešov",
    "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/552089?cHash=d99e26d5577a7d706bb10d1c0d7b9e6d",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/568664?cHash=f5ab41957701c0e519d2855f32879e00",
    "zdroj": "ÚVO"
   }
  ],
  "prepojenia": [
   {
-   "datum": "9. November 2026",
-   "dodavatel": "3linea,spol.s.r.o.",
-   "firma": "3linea",
-   "nazov": "Zmluva o poskytnutí služieb uzatvorená podľa § 269 ods. 2 zákona č. 513/1991 Zb. Obchodný zákonník v znení neskorších predpisov 46/2026",
-   "obec": "",
-   "objednavatel": "Krajské múzeum v Prešove",
-   "okres": "",
+   "datum": "10. November 2026",
+   "dodavatel": "Ing. arch. Róbert Lajčiak - ABACUS",
+   "firma": "Ing. arch. Róbert Lajčiak",
+   "nazov": "Úprava projektovej dokumentácie pre stavbu - \"Zníženie energetickej náročnosti budovy a rekonštrukcia vnútorných priestorov MŠ Osloboditeľov 1632/1 v Humennom\" 677/2026",
+   "obec": "Humenné",
+   "objednavatel": "Mesto Humenné",
+   "okres": "Humenné",
    "relevantne": false,
-   "suma": "7 355,40 €",
+   "suma": "9 778,50 €",
    "typ": "projektant",
-   "url": "https://www.crz.gov.sk/zmluva/13046351/"
+   "url": "https://www.crz.gov.sk/zmluva/13054633/"
   }
  ],
  "prvy_beh": false,
  "vyzvy": [
   {
+   "kategoria": "ministerstvo",
+   "nazov": "Slovensko a Česko splnili európsky záväzok na rok 2027 už dnes: Cezhraničná spolupráca prináša výsledky, ktoré vidia ľudia v regiónoch",
+   "temy": [],
+   "url": "https://mirri.gov.sk/aktuality/interreg/slovensko-a-cesko-splnili-europsky-zavazok-na-rok-2027-uz-dnes-cezhranicna-spolupraca-prinasa-vysledky-ktore-vidia-ludia-v-regionoch/",
+   "zdroj": "MIRRI – regionálny rozvoj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Prihláška na webinár k zákonu č. 406/2026 o príspevku na pomoc pri odkázanosti – vyplniť formulár",
+   "temy": [],
+   "url": "https://forms.cloud.microsoft/e/6GbTarDQAT",
+   "zdroj": "MPSVR SR (Ihrisko pre každé dieťa)",
+   "zhoda_tem": false
+  },
+  {
    "kategoria": "fond",
-   "nazov": "mof@envirofond.sk",
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "url": "mailto:mof@envirofond.sk",
-   "zdroj": "Environmentálny fond",
-   "zhoda_tem": true
+   "nazov": "Vyše 7,5 milióna eur na podporu významných súťaží",
+   "temy": [],
+   "url": "https://www.fnps.sk/aktuality/vyse-75-miliona-eur-na-podporu-vyznamnych-sutazi",
+   "zdroj": "Fond na podporu športu",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "fond",
+   "nazov": "OBCE 2 - Usmernenie k vyúčtovaniu príspevku na projekt podpory športu v rámci výzvy č. 2025/001",
+   "temy": [],
+   "url": "https://www.fnps.sk/sites/default/files/2026-11/2026_10_23_Usmernenie%20k%20vy%C3%BA%C4%8Dtovaniu%20pr%C3%ADspevku%20v%20r%C3%A1mci%20v%C3%BDzvy%20%C4%8D.%202025_001_obce%202.pdf",
+   "zdroj": "Fond na podporu športu",
+   "zhoda_tem": false
   },
   {
    "kategoria": "kraj",
-   "nazov": "Projektový špecialista – Spoločný sekretariát Programu Interreg Poľsko – Slovensko 2021 – 2027 (uzávierka žiadostí 16.11.2026) 9. 11. 2026 – voľné pracovné miesto",
+   "nazov": "10. 11. 2026 – Doprava Pravidelná autobusová linka PSK medzi kúpeľnými mestečkami premáva až trikrát denne Cezhraničná linka Prešovského samosprávneho kraja na trase Bardejovské Kúpele – Bardejov – Krynica už štvrtý rok podporuje dopravu a cestovný ruch v pohraničí. Cestujúcich do kúpeľných miest pr",
    "temy": [],
-   "url": "https://psk.sk/projektovy-specialista-spolocny-sekretariat-programu-interreg-polsko-slovensko-2021-2027/",
+   "url": "https://psk.sk/pravidelna-autobusova-linka-psk-medzi-kupelnymi-mesteckami-premava-az-trikrat-denne/",
    "zdroj": "Prešovský samosprávny kraj",
    "zhoda_tem": false
   }
  ],
- "zmluvy": [
-  {
-   "datum": "9. November 2026",
-   "dodavatel": "SLOVENSKÝ VODOHOSPODÁRSKY PODNIK, štátny podnik",
-   "nazov": "k.ú. Haniska - NZaZoBZoZVB na časť parcely KNC č. 582/1 za účelom realizácie stavby „Obytný park Haniska“, v rozsahu stavebného objektu „SO 521 - Rozšírenie verejného vodovodu pre pripravovaný zámer v rámci stavby: „OBYTNÝ PARK HANISKA“ 1257/2026-KE",
-   "obec": "Haniska",
-   "objednavatel": "Nájomca: DJL Development, s.r.o., Budúci oprávnený z vecného bremena: Obec Haniska",
-   "okres": "Prešov",
-   "projekcia": false,
-   "suma": "250,00 €",
-   "url": "https://www.crz.gov.sk/zmluva/13049923/"
-  }
- ]
+ "zmluvy": []
 }

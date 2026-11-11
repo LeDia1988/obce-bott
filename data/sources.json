@@ -941,26 +941,8 @@
   "status": "ok"
  },
  "519405": {
-  "base": "https://krive.estranky.sk/",
-  "discovered": "2026-11-04",
-  "pages": [
-   "https://krive.estranky.sk/clanky/samosprava/uradna-tabula/",
-   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/obecne-zastupitelstvo/",
-   "https://krive.estranky.sk/clanky/oznamy/pozvanka-na-schodzu-oz-29.12.2025.html",
-   "https://krive.estranky.sk/clanky/oznamy/zamer-prevodu-akcii-vvs-a.s..html",
-   "https://krive.estranky.sk/clanky/oznamy/oznamenie-o-urceni-poctu-poslancov-do-samospravy-obci.html",
-   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/faktury/",
-   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/objednavky/",
-   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/zmluvy/",
-   "https://krive.estranky.sk/clanky/oznamy/vyzva-na-uplatnenie-predkupneho-prava-k-akciam-vvs-a.s.html",
-   "https://krive.estranky.sk/clanky/samosprava/",
-   "https://krive.estranky.sk/clanky/samosprava/samosprava-obce-krive/",
-   "https://krive.estranky.sk/clanky/samosprava/obecny-urad/",
-   "https://krive.estranky.sk/clanky/samosprava/uradne-hodiny/",
-   "https://krive.estranky.sk/clanky/povinne-zverejnovanie/",
-   "https://krive.estranky.sk/"
-  ],
-  "status": "ok"
+  "pages": [],
+  "status": "web nedostupný: ConnectTimeout"
  },
  "519413": {
   "pages": [],
@@ -1733,8 +1715,26 @@
   "status": "ok"
  },
  "519871": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obectarnov.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obectarnov.sk/uradna-tabula/",
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obectarnov.sk/dokument/pozvanka-na-oz-24092025/",
+   "https://obectarnov.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obectarnov.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obectarnov.sk/samosprava/projekty/",
+   "https://obectarnov.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obectarnov.sk/dokumenty/financie/rozpocty/",
+   "https://obectarnov.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://obectarnov.sk/"
+  ],
+  "status": "ok"
  },
  "519880": {
   "base": "https://www.trocany.eu/",
@@ -2711,8 +2711,26 @@
   "status": "ok"
  },
  "520489": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecmichajlov.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecmichajlov.sk/uradna-tabula/",
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecmichajlov.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecmichajlov.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obecmichajlov.sk/dokumenty/financie/rozpocty/",
+   "https://obecmichajlov.sk/dokument/navrh-rozpoctu-na-rok-2027-s-vyhladom-na-roky-2028-2029/",
+   "https://obecmichajlov.sk/dokument/zapisnica-z-volieb-do-samospravy-obce-24-10-2026/",
+   "https://obecmichajlov.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://obecmichajlov.sk/dokumenty/verejne-obstaravanie/podlimitne-zakazky/",
+   "https://obecmichajlov.sk/"
+  ],
+  "status": "ok"
  },
  "520497": {
   "base": "https://modranadcirochou.sk/",
@@ -3877,8 +3895,26 @@
   "status": "ok"
  },
  "521264": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecbuzica.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecbuzica.sk/dokument/zoznam-zaregistr-kandidatov-pre-volby-do-obecneho-zastupitelstva/",
+   "https://obecbuzica.sk/uradna-tabula/",
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obecbuzica.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecbuzica.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecbuzica.sk/dokument/oznamenie-obce-o-zamere-predaja-nehnutelnosti/",
+   "https://obecbuzica.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obecbuzica.sk/dokumenty/financie/rozpocty/",
+   "https://obecbuzica.sk/projekty/",
+   "https://obecbuzica.sk/"
+  ],
+  "status": "ok"
  },
  "521272": {
   "base": "http://cestice.ezaz.eu/",
@@ -4179,8 +4215,26 @@
   "status": "ok"
  },
  "521426": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://hodkovce.eu/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://hodkovce.eu/uradna-tabula/",
+   "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://hodkovce.eu/dokument/pozvanka-na-ustanovujuce-zasadnutie-oz/",
+   "https://hodkovce.eu/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/",
+   "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://hodkovce.eu/mobilny-rozhlas/?message=6ae99c4924ba014a516a6af0",
+   "https://hodkovce.eu/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://hodkovce.eu/dokumenty/financie/rozpocty/",
+   "https://hodkovce.eu/dokument/zapisnica-miestnej-volebnej-komisie-o-vysledku-volieb-v-obci-vo-volbach-do-organov-samospravy-obci-konanych-24-10-2026/",
+   "https://hodkovce.eu/aktuality/oznam/vyzva-obcanom-zapojte-sa-do-dokumentovania-zivota-v-nasej-obci-%f0%9f%93%b8%f0%9f%8e%a5/",
+   "https://hodkovce.eu/"
+  ],
+  "status": "ok"
  },
  "521442": {
   "base": "https://hrasovik.sk/",
@@ -5236,8 +5290,26 @@
   "status": "ok"
  },
  "522040": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecsvinica.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecsvinica.sk/uradna-tabula/",
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecsvinica.sk/dokument/pozvanka-na-ustanovujuce-zasadnutie-oz/",
+   "https://obecsvinica.sk/samosprava/obecne-zastupitelstvo/",
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky/",
+   "https://obecsvinica.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecsvinica.sk/mobilny-rozhlas/?message=6af19f3d9c46898dfd554ba5",
+   "https://obecsvinica.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obecsvinica.sk/dokumenty/financie/rozpocty/",
+   "https://obecsvinica.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://obecsvinica.sk/"
+  ],
+  "status": "ok"
  },
  "522066": {
   "base": "https://www.semsa.sk/",
@@ -5546,8 +5618,26 @@
   "status": "ok"
  },
  "522244": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obeczlataidka.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ae2210024ba014a5169e778",
+   "https://obeczlataidka.sk/uradna-tabula/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obeczlataidka.sk/mobilny-rozhlas/?message=6ab36ef25d9afc68437ec963",
+   "https://obeczlataidka.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obeczlataidka.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obeczlataidka.sk/aktuality/nezaradene/pozvanka-na-koncertny-cyklus-musica-abbatialis-ktory-pokracuje-koncertom-v-sobotu-12-septembra-o-17-00-hod-v-opatskom-chrame-sv-jana-krstitela-v-jasove-na-ktorom-sa-predstavi-cesky-organista-va/",
+   "https://obeczlataidka.sk/samosprava/projekty/",
+   "https://obeczlataidka.sk/dokumenty/rozne/zamery-predaja-majetku/",
+   "https://obeczlataidka.sk/"
+  ],
+  "status": "ok"
  },
  "522252": {
   "base": "https://www.zarnov.sk/",
@@ -6653,8 +6743,26 @@
   "status": "ok"
  },
  "522830": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecorechova.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecorechova.sk/uradna-tabula/",
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obecorechova.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecorechova.sk/aktuality/pozvanka/obecny-urad-pozyva-vsetkych-obcanov-na-oslavu-mesiaca-ucty-k-starsim/",
+   "https://obecorechova.sk/aktuality/nezaradene/pozvanka-na-oslavu-mdd-2/",
+   "https://obecorechova.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obecorechova.sk/dokumenty/financie/rozpocty/",
+   "https://obecorechova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://obecorechova.sk/"
+  ],
+  "status": "ok"
  },
  "522848": {
   "base": "https://obecoreske.sk/",
@@ -6760,8 +6868,26 @@
   "status": "ok"
  },
  "522902": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecpnl.eu/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecpnl.eu/uradna-tabula/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecpnl.eu/dokument/ustanovujuce-zasadnutie-obecneho-zastupitelstva/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obecpnl.eu/mobilny-rozhlas/?message=6acdfb3d7b6e9407f37d7625",
+   "https://obecpnl.eu/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecpnl.eu/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecpnl.eu/mobilny-rozhlas/?message=6af1f7789c46898dfd558690",
+   "https://obecpnl.eu/obec/narodny-projekt-rozvojove-timy-i/",
+   "https://obecpnl.eu/obec/narodny-projekt-rozvojove-timy-i/informacie-o-projekte/",
+   "https://obecpnl.eu/"
+  ],
+  "status": "ok"
  },
  "522911": {
   "base": "https://www.pinkovce.sk/",
@@ -6811,8 +6937,26 @@
   "status": "web nedostupný: ConnectionError"
  },
  "522945": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://poruba.eu/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://poruba.eu/uradna-tabula/",
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://poruba.eu/samosprava/obecne-zastupitelstvo/",
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/",
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://poruba.eu/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://poruba.eu/aktuality/pozvanka/pozvanka-na-slavnostny-obed-pri-prilezitosti-mesiaca-ucty-k-starsim/",
+   "https://poruba.eu/aktuality/pozvanka/vylet-lubovniansky-hrad-a-stara-lubovna/",
+   "https://poruba.eu/mobilny-rozhlas/?message=6af184ed9c46898dfd5549fd",
+   "https://poruba.eu/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://poruba.eu/dokumenty/financie/rozpocty/",
+   "https://poruba.eu/"
+  ],
+  "status": "ok"
  },
  "522953": {
   "base": "https://www.porubka-so.sk/",
@@ -8127,7 +8271,7 @@
  },
  "523739": {
   "base": "https://www.mlynceky.com/",
-  "discovered": "2026-11-04",
+  "discovered": "2026-11-11",
   "pages": [
    "https://www.mlynceky.com/"
   ],
@@ -8450,8 +8594,26 @@
   "status": "ok"
  },
  "523950": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecsvabovce.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecsvabovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecsvabovce.sk/uradna-tabula/",
+   "https://obecsvabovce.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecsvabovce.sk/mobilny-rozhlas/?message=6ad6227f650cb9a190fd4028",
+   "https://obecsvabovce.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obecsvabovce.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obecsvabovce.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecsvabovce.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecsvabovce.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obecsvabovce.sk/dokumenty/financie/rozpocty/",
+   "https://obecsvabovce.sk/dokument/volby-do-organov-samospravy-obci-2026-zverejnenie-zapisnice/",
+   "https://obecsvabovce.sk/dokumenty/povinne-zverejnovanie/faktury/",
+   "https://obecsvabovce.sk/dokumenty/povinne-zverejnovanie/objednavky/",
+   "https://obecsvabovce.sk/dokumenty/povinne-zverejnovanie/zmluvy/",
+   "https://obecsvabovce.sk/"
+  ],
+  "status": "ok"
  },
  "523976": {
   "base": "https://www.toporec.sk/",
@@ -9971,7 +10133,7 @@
  },
  "524808": {
   "base": "http://www.lucina.sk/",
-  "discovered": "2026-11-04",
+  "discovered": "2026-11-11",
   "pages": [
    "http://www.lucina.sk/?page_id=134",
    "http://www.lucina.sk/?page_id=265",
@@ -11126,8 +11288,26 @@
   "status": "ok"
  },
  "525511": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://zupcany.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://zupcany.sk/uradna-tabula/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://zupcany.sk/samosprava/projekty/",
+   "https://zupcany.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://zupcany.sk/samosprava/obecny-urad/komisie-obecneho-zastupitelstva/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/hlavny-kontrolor/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://zupcany.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://zupcany.sk/aktuality/nezaradene/pozvanka-hasicsky-ples/",
+   "https://zupcany.sk/dokument/verejna-vyhlaska-rozhodnutie-o-stavebnom-zamere-zupcany-miestna-cesta-na-p-c-609-187/",
+   "https://zupcany.sk/"
+  ],
+  "status": "ok"
  },
  "525529": {
   "base": "https://www.roznava.sk/",
@@ -12548,8 +12728,26 @@
   "status": "ok"
  },
  "526568": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obechincovce.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obechincovce.sk/uradna-tabula/",
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obechincovce.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obechincovce.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obechincovce.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obechincovce.sk/dokumenty/financie/rozpocty/",
+   "https://obechincovce.sk/obec/projekty/",
+   "https://obechincovce.sk/dokumenty/povinne-zverejnovanie/faktury/",
+   "https://obechincovce.sk/dokumenty/povinne-zverejnovanie/objednavky/",
+   "https://obechincovce.sk/"
+  ],
+  "status": "ok"
  },
  "526576": {
   "base": "https://www.obechnilcik.sk/",
@@ -12815,12 +13013,48 @@
   "status": "ok"
  },
  "526703": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obechajtovka.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obechajtovka.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obechajtovka.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obechajtovka.sk/dokument/zapisovatel-kom-volby-a-psk-2026/",
+   "https://obechajtovka.sk/uradna-tabula/",
+   "https://obechajtovka.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obechajtovka.sk/dokument/program-zasadania-19-3-2026/",
+   "https://obechajtovka.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obechajtovka.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obechajtovka.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obechajtovka.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obechajtovka.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obechajtovka.sk/dokumenty/financie/rozpocty/",
+   "https://obechajtovka.sk/dokument/predaj-podielu-pozemku-na-kn-c-155/",
+   "https://obechajtovka.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://obechajtovka.sk/"
+  ],
+  "status": "ok"
  },
  "526711": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obechaligovce.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obechaligovce.sk/aktuality/oznamy/pozvanka-na-podujatie-zamagurske-ostatky-a-vyzva-pre-lokalnych-remeselnikov-stankarov/",
+   "https://obechaligovce.sk/uradna-tabula/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obechaligovce.sk/aktuality/oznamy/4520/",
+   "https://obechaligovce.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/smernice/",
+   "https://obechaligovce.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obechaligovce.sk/samosprava/projekty/",
+   "https://obechaligovce.sk/dokumenty/rozne/zamery-predaja-majetku/",
+   "https://obechaligovce.sk/"
+  ],
+  "status": "ok"
  },
  "526720": {
   "base": "https://www.hniezdne.sk/",
@@ -13034,8 +13268,26 @@
   "status": "ok"
  },
  "526835": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://legnava.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://legnava.sk/uradna-tabula/",
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://legnava.sk/samosprava/obecne-zastupitelstvo/",
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://legnava.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://legnava.sk/aktuality/nezaradene/pozvanka-do-letneho-kina/",
+   "https://legnava.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://legnava.sk/dokumenty/financie/rozpocty/",
+   "https://legnava.sk/aktuality/nezaradene/projekt-podporeny-psk-chlieb-do-ruky/",
+   "https://legnava.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://legnava.sk/"
+  ],
+  "status": "ok"
  },
  "526843": {
   "base": "https://lesnica.eu/",
@@ -13129,8 +13381,26 @@
   "status": "ok"
  },
  "526894": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://matysova.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://matysova.sk/uradna-tabula/",
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://matysova.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://matysova.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://matysova.sk/aktuality/nezaradene/valne-zhromazdenie-uzs-matysova-pozvanka/",
+   "https://matysova.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://matysova.sk/dokumenty/financie/rozpocty/",
+   "https://matysova.sk/aktuality/nezaradene/zamer-zameny-podielov-vo-vlastnictve-obce/",
+   "https://matysova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://matysova.sk/"
+  ],
+  "status": "ok"
  },
  "526908": {
   "base": "http://www.mniseknadpopradom.sk/",
@@ -13355,8 +13625,26 @@
   "status": "ok"
  },
  "527017": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://stranany.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://stranany.sk/dokument/pozvanka-ustanovujuce-zasadnutie-obecneho-zastupitelstva-v-strananoch-13-11-2026/",
+   "https://stranany.sk/uradna-tabula/",
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://stranany.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://stranany.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://stranany.sk/mobilny-rozhlas/?message=6af2e1109c46898dfd559157",
+   "https://stranany.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://stranany.sk/dokumenty/financie/rozpocty/",
+   "https://stranany.sk/dokument/zamer-predaja-obecneho-majetku/",
+   "https://stranany.sk/"
+  ],
+  "status": "ok"
  },
  "527025": {
   "base": "https://www.sulin.sk/",
@@ -13490,8 +13778,26 @@
   "status": "ok"
  },
  "527084": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://vislanka.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://vislanka.sk/uradna-tabula/",
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://vislanka.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://vislanka.sk/dokumenty/obecne-zastupitelstvo/zasady-hospodarenia-a-nakladania-s-majetkom-obce-vislanka/",
+   "https://vislanka.sk/dokument/rozpocet-na-rok-2024/",
+   "https://vislanka.sk/samosprava/projekty/",
+   "https://vislanka.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://vislanka.sk/dokumenty/financie/rozpocty/",
+   "https://vislanka.sk/aktuality/nezaradene/%f0%9f%93%a2-projekt-interreg-pl-sk-2021-2027-zvysenie-cezhranicnej-spoluprace-a-pripravenosti-na-krizove-situacie/",
+   "https://vislanka.sk/"
+  ],
+  "status": "ok"
  },
  "527092": {
   "base": "https://www.obecvysneruzbachy.sk/",
@@ -14793,14 +15099,8 @@
   "status": "ok"
  },
  "528005": {
-  "base": "https://vladica.estranky.sk/",
-  "discovered": "2026-11-04",
-  "pages": [
-   "https://vladica.estranky.sk/clanky/uradne-oznamy-obce/",
-   "https://vladica.estranky.sk/clanky/aktuality.html",
-   "https://vladica.estranky.sk/"
-  ],
-  "status": "ok"
+  "pages": [],
+  "status": "web nedostupný: ConnectTimeout"
  },
  "528013": {
   "base": "https://www.vojtovce.dcom.sk/",
@@ -14847,8 +15147,26 @@
   "status": "ok"
  },
  "528030": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://vysna-jedlova.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://vysna-jedlova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://vysna-jedlova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://vysna-jedlova.sk/uradna-tabula/",
+   "https://vysna-jedlova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://vysna-jedlova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://vysna-jedlova.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://vysna-jedlova.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://vysna-jedlova.sk/aktuality/nezaradene/pozvanka/",
+   "https://vysna-jedlova.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://vysna-jedlova.sk/dokumenty/financie/rozpocty/",
+   "https://vysna-jedlova.sk/obec/projekty/",
+   "https://vysna-jedlova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://vysna-jedlova.sk/dokumenty/verejne-obstaravanie/podlimitne-zakazky/",
+   "https://vysna-jedlova.sk/dokumenty/verejne-obstaravanie/zakazky-s-nizkou-hodnotou-podla-%c2%a7117/",
+   "https://vysna-jedlova.sk/"
+  ],
+  "status": "ok"
  },
  "528048": {
   "base": "https://www.vysnaolsava.sk/",
@@ -15524,8 +15842,26 @@
   "status": "ok"
  },
  "528412": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obeckasov.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obeckasov.sk/uradna-tabula/",
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://obeckasov.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obeckasov.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obeckasov.sk/aktuality/pozvanka/stretnutie-ohladom-veterneho-parku-zemplin/",
+   "https://obeckasov.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obeckasov.sk/dokumenty/financie/rozpocty/",
+   "https://obeckasov.sk/mobilny-rozhlas/?message=6ad47ca2650cb9a190fd26d4",
+   "https://obeckasov.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://obeckasov.sk/"
+  ],
+  "status": "ok"
  },
  "528421": {
   "base": "https://kazimir.sk/",
@@ -16873,8 +17209,26 @@
   "status": "ok"
  },
  "529133": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://secovskapolianka.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://secovskapolianka.sk/uradna-tabula/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/pozvanka-na-ocz-19-04-2024/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://secovskapolianka.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://secovskapolianka.sk/dokumenty/obecne-zastupitelstvo/vzn-zrusene/",
+   "https://secovskapolianka.sk/samosprava/projekty/",
+   "https://secovskapolianka.sk/dokumenty/rozne/publicita/",
+   "https://secovskapolianka.sk/dokumenty/financie/rozpocty/",
+   "https://secovskapolianka.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://secovskapolianka.sk/"
+  ],
+  "status": "ok"
  },
  "529141": {
   "base": "http://www.sedliska.sk/",
@@ -16986,8 +17340,26 @@
   "status": "ok"
  },
  "529192": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://tovarne.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://tovarne.sk/uradna-tabula/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://tovarne.sk/dokument/uznesenie-c-396-40-2026-z-40-zasadnutia-obce-tovarne-konaneho-dna-18-10-2026/",
+   "https://tovarne.sk/dokument/uznesenie-c-395-40-2026-z-40-zasadnutia-obce-tovarne-konaneho-dna-18-10-2026/",
+   "https://tovarne.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/smernice/",
+   "https://tovarne.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://tovarne.sk/samosprava/projekty/",
+   "https://tovarne.sk/dokumenty/rozne/zamery-predaja-majetku/",
+   "https://tovarne.sk/"
+  ],
+  "status": "ok"
  },
  "529206": {
   "base": "https://www.tovarnianskapolianka.sk/",
@@ -17888,8 +18260,26 @@
   "status": "ok"
  },
  "543527": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://slatvina.eu/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://slatvina.eu/uradna-tabula/",
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://slatvina.eu/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/",
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/vzn-smernice/",
+   "https://slatvina.eu/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://slatvina.eu/dokumenty/rozne/ine/",
+   "https://slatvina.eu/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://slatvina.eu/dokumenty/financie/rozpocty/",
+   "https://slatvina.eu/aktuality/nezaradene/volby-do-organov-uzemnej-samospravy-2026-oznamenie-o-delegovani-clena-a-nahradnika-do-miestnej-volebnej-komisie-a-okrskovej-volebnej-komisie-je-potrebne-zaslat-na-mail-obecslatvinagmail-com/",
+   "https://slatvina.eu/projekty-obce/",
+   "https://slatvina.eu/"
+  ],
+  "status": "ok"
  },
  "543535": {
   "base": "https://www.obecslovinky.sk/",
@@ -18331,26 +18721,8 @@
   "status": "ok"
  },
  "543781": {
-  "base": "https://www.stankovce.sk/",
-  "discovered": "2026-11-04",
-  "pages": [
-   "https://www.stankovce.sk/clanky/obec/zapisnice-a-uznesenia/",
-   "https://www.stankovce.sk/clanky/obec/rozpocet-obce/",
-   "https://www.stankovce.sk/clanky/povinne-zverejnovanie/objednavky/",
-   "https://www.stankovce.sk/clanky/povinne-zverejnovanie/zmluvy/",
-   "https://www.stankovce.sk/clanky/povinne-zverejnovanie/faktury/",
-   "https://www.stankovce.sk/clanky/verejne-obstaravanie/nadlimitne-zakazky/",
-   "https://www.stankovce.sk/clanky/verejne-obstaravanie/podlimitne-zakazky/",
-   "https://www.stankovce.sk/clanky/verejne-obstaravanie/zakazky-podla---9-ods.-9/",
-   "https://www.stankovce.sk/clanky/uvod/detske-ihrisko---areal-obecneho-uradu-obec-stankovce.html",
-   "https://www.stankovce.sk/clanky/samosprava/",
-   "https://www.stankovce.sk/clanky/samosprava/organy-obce/",
-   "https://www.stankovce.sk/clanky/samosprava/kontakt/",
-   "https://www.stankovce.sk/clanky/samosprava/komisie/",
-   "https://www.stankovce.sk/clanky/obec/dokumenty-obce/",
-   "https://www.stankovce.sk/"
-  ],
-  "status": "ok"
+  "pages": [],
+  "status": "web nedostupný: ConnectTimeout"
  },
  "543799": {
   "base": "https://www.strazne.sk/",
@@ -18894,8 +19266,26 @@
   "status": "ok"
  },
  "544086": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://obecbenkovce.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://obecbenkovce.sk/uradna-tabula/",
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://obecbenkovce.sk/dokument/pozvanka-na-ustanovujuce-zasadnutie-oz-2/",
+   "https://obecbenkovce.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/vzn-o-odpadoch/",
+   "https://obecbenkovce.sk/aktuality/projekty/multifunkcne-ihrisko/",
+   "https://obecbenkovce.sk/dokumenty/financie/rozpoctove-opatrenia/",
+   "https://obecbenkovce.sk/dokumenty/financie/rozpocty/",
+   "https://obecbenkovce.sk/aktuality/projekty/realizacia-projektu-vystavba-autobusovych-zastavok-a-uprava-verejneho-priestranstva-v-obci/",
+   "https://obecbenkovce.sk/"
+  ],
+  "status": "ok"
  },
  "544094": {
   "base": "https://www.obecbystre.sk/",
@@ -19789,8 +20179,26 @@
   "status": "ok"
  },
  "598119": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://kosicekavecany.sk/",
+  "discovered": "2026-11-11",
+  "pages": [
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "https://kosicekavecany.sk/uradna-tabula/",
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "https://kosicekavecany.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/",
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/vzn/",
+   "https://kosicekavecany.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
+   "https://kosicekavecany.sk/dokumenty/financie/rozpocty/",
+   "https://kosicekavecany.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
+   "https://kosicekavecany.sk/dokumenty/verejne-obstaravanie/podlimitne-zakazky/",
+   "https://kosicekavecany.sk/dokumenty/verejne-obstaravanie/zakazky-s-nizkou-hodnotou-podla-%c2%a7117/",
+   "https://kosicekavecany.sk/dokumenty/povinne-zverejnovanie/faktury/",
+   "https://kosicekavecany.sk/"
+  ],
+  "status": "ok"
  },
  "598127": {
   "base": "http://www.tahanovce.eu/verify?redirect=/",
