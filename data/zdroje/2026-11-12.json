@@ -1,0 +1,54 @@
+{
+ "datum": "2026-11-12",
+ "obstaravania": [
+  {
+   "cpv": "Stavebné práce",
+   "datum": "11.11.2026",
+   "nazov": "Multifunkčný športový areál Veľké Kapušany",
+   "nuts": "Košický kraj",
+   "obec": "Veľké Kapušany",
+   "obstaravatel": "Mesto Veľké Kapušany",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/554148?cHash=80b06aa9909d94ef5dab53474269827c",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Informácie o Operačnom programe Technická pomoc",
+   "temy": [],
+   "url": "https://www.partnerskadohoda.gov.sk/64-sk/operacny-program-technicka-pomoc/",
+   "zdroj": "MIRRI – regionálny rozvoj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Podpora neformálneho vzdelávania",
+   "temy": [],
+   "url": "https://www.minedu.sk/podpora-neformalneho-vzdelavania/",
+   "zdroj": "Ministerstvo školstva (MŠVVaM)",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "GrantExpert.sk",
+   "temy": [],
+   "url": "https://www.grantexpert.sk",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na overovanie zdravotníckych inovácií pre konzorciá (2026) Výzva spolufinancuje konzorčné projekty zamerané na urýchlenie validácie zdravotníckych riešení prostredníctvom klinických štúdií, vývoja produktu a súvisiacich aktivít. Výška dotácie 850 000 € Miera dotácie 50 % Ostáva dn",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-overovanie-zdravotnickych-inovacii-pre-konzorcia-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": []
+}

@@ -15099,8 +15099,14 @@
   "status": "ok"
  },
  "528005": {
-  "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "base": "https://vladica.estranky.sk/",
+  "discovered": "2026-11-12",
+  "pages": [
+   "https://vladica.estranky.sk/clanky/uradne-oznamy-obce/",
+   "https://vladica.estranky.sk/clanky/aktuality.html",
+   "https://vladica.estranky.sk/"
+  ],
+  "status": "ok"
  },
  "528013": {
   "base": "https://www.vojtovce.dcom.sk/",
@@ -18722,7 +18728,7 @@
  },
  "543781": {
   "pages": [],
-  "status": "web nedostupný: ConnectTimeout"
+  "status": "web nedostupný: ReadTimeout"
  },
  "543799": {
   "base": "https://www.strazne.sk/",
@@ -20537,7 +20543,7 @@
  },
  "599981": {
   "base": "https://www.kosice.sk/",
-  "discovered": "2026-11-05",
+  "discovered": "2026-11-12",
   "pages": [
    "https://www.kosice.sk/clanky/skupina/uradna-tabula",
    "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo",
