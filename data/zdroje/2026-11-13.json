@@ -1,0 +1,40 @@
+{
+ "datum": "2026-11-13",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "12.11.2026",
+   "nazov": "MULTIFUNKČNÉ IHRISKO",
+   "nuts": "",
+   "obec": "Pakostov",
+   "obstaravatel": "Obec Pakostov",
+   "okres": "Humenné",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/545926?cHash=90c46db03ec6f1d09478596edf15f77d",
+   "zdroj": "ÚVO"
+  },
+  {
+   "datum": "2026-11-13",
+   "nazov": "Slovensko – Architektonické a súvisiace služby – Služby architektov a projektantov so zameraním na inžinierske stavby",
+   "obec": "",
+   "obstaravatel": "Košický samosprávny kraj",
+   "okres": "",
+   "projekcia": true,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/790316-2026",
+   "zdroj": "TED (EÚ)"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "kraj",
+   "nazov": "12. 11. 2026 – Región Historický park pri malom kaštieli v Snine ožil vďaka župným eurofondom",
+   "temy": [],
+   "url": "https://psk.sk/historicky-park-pri-malom-kastieli-v-snine-ozil-vdaka-zupnym-eurofondom/",
+   "zdroj": "Prešovský samosprávny kraj",
+   "zhoda_tem": true
+  }
+ ],
+ "zmluvy": []
+}
