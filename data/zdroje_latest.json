@@ -1,40 +1,45 @@
 {
- "datum": "2026-11-13",
- "obstaravania": [
-  {
-   "cpv": "",
-   "datum": "12.11.2026",
-   "nazov": "MULTIFUNKČNÉ IHRISKO",
-   "nuts": "",
-   "obec": "Pakostov",
-   "obstaravatel": "Obec Pakostov",
-   "okres": "Humenné",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/545926?cHash=90c46db03ec6f1d09478596edf15f77d",
-   "zdroj": "ÚVO"
-  },
-  {
-   "datum": "2026-11-13",
-   "nazov": "Slovensko – Architektonické a súvisiace služby – Služby architektov a projektantov so zameraním na inžinierske stavby",
-   "obec": "",
-   "obstaravatel": "Košický samosprávny kraj",
-   "okres": "",
-   "projekcia": true,
-   "url": "https://ted.europa.eu/sk/notice/-/detail/790316-2026",
-   "zdroj": "TED (EÚ)"
-  }
- ],
+ "datum": "2026-11-14",
+ "obstaravania": [],
  "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "kraj",
-   "nazov": "12. 11. 2026 – Región Historický park pri malom kaštieli v Snine ožil vďaka župným eurofondom",
+   "kategoria": "agregátor",
+   "nazov": "TOP Nová výzva Dotácie na digitálne a robotické riešenia pre stavebníctvo (2026) Výzva podporuje inovatívne softvérové a hardvérové riešenia pre udržateľnú výstavbu fasád, využívajúce robotiku, umelú inteligenciu a dáta v celom hodnotovom reťazci ľahkých obvodových plášťov. Výška dotácie 200 000 € M",
    "temy": [],
-   "url": "https://psk.sk/historicky-park-pri-malom-kastieli-v-snine-ozil-vdaka-zupnym-eurofondom/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": true
+   "url": "https://app.grantexpert.sk/vyzva/dotacie-na-digitalne-a-roboticke-riesenia-pre-stavebnictvo-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "TOP Nová výzva Vzorový projekt Granty na podporu startupov s environmentálnym a sociálnym dosahom (2027) Výzva podporuje inovatívne start-upy zosúladené s hodnotami New European Bauhaus v oblasti udržateľnosti, inklúzie a estetiky. Výška dotácie 50 000 € Miera dotácie nie je určená Ostáva dní 62 Od ",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/granty-na-podporu-startupov-s-environmentalnym-a-socialnym-dosahom-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "TOP Nová výzva Vzorový projekt Dotácie na pilotné projekty pre potravinárske startupy (2026) Program podporuje agropotravinárske startupy s cieľom urýchliť uvedenie inovatívnych technológií, produktov a služieb na trh. Výška dotácie 60 000 € Miera dotácie nie je určená Ostáva dní 16 Od 10.11.2026 Do",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacie-na-pilotne-projekty-pre-potravinarske-startupy-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
   }
  ],
- "zmluvy": []
+ "zmluvy": [
+  {
+   "datum": "13. November 2026",
+   "dodavatel": "Ministerstvo investícií, regionalneho rozvoja a informatizácie",
+   "nazov": "Zmluva o poskytnutí dotácie na projekt Zveľadenie verejného priestoru-oplotenie obecnej budovy 2505/2026",
+   "obec": "Brdárka",
+   "objednavatel": "Obec Brdárka",
+   "okres": "Rožňava",
+   "projekcia": false,
+   "suma": "3 496,30 €",
+   "url": "https://www.crz.gov.sk/zmluva/13073105/"
+  }
+ ]
 }
