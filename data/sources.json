@@ -11926,7 +11926,7 @@
  },
  "525952": {
   "pages": [],
-  "status": "web nedostupný: HTTPError"
+  "status": "web nedostupný: ReadTimeout"
  },
  "525961": {
   "base": "https://www.meliata.sk/",
