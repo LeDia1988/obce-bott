@@ -1,0 +1,46 @@
+{
+ "datum": "2026-11-16",
+ "obstaravania": [
+  {
+   "datum": "2026-11-16",
+   "nazov": "Slovensko – Nábytok – DNS - Nábytok",
+   "obec": "",
+   "obstaravatel": "Univerzita Pavla Jozefa Šafárika v Košiciach",
+   "okres": "",
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/793178-2026",
+   "zdroj": "TED (EÚ)"
+  },
+  {
+   "datum": "2026-11-16",
+   "nazov": "Slovensko – Nábytok – DNS - Nábytok",
+   "obec": "",
+   "obstaravatel": "Univerzita Pavla Jozefa Šafárika v Košiciach",
+   "okres": "",
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/794628-2026",
+   "zdroj": "TED (EÚ)"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "kraj",
+   "nazov": "12.11.2026 Košický samosprávny kraj pokračuje v podpore športových klubov Župa podporila mládež z extraligových hokejových klubov.",
+   "temy": [],
+   "url": "https://www.kosickazupa.sk/smart-region/aktuality/kosicky-samospravny-kraj-pokracuje-v-podpore-sportovych-klubov-a22-16255",
+   "zdroj": "Košický samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "GRANTY Evolúcia hľadania grantov: od šanónov po AI Od šanónov cez Google po AI: ako sa od roku 2004 menilo hľadanie grantov na Slovensku. Štyri etapy, overené čísla a 5 otázok, ktoré si položiť pred hľadaním.",
+   "temy": [],
+   "url": "https://www.grantexpert.sk/evolucia-hladania-grantov-od-sanonov-po-ai/",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": []
+}

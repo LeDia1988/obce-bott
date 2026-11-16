@@ -1,77 +1,6 @@
 {
- "datum": "2026-11-15",
+ "datum": "2026-11-16",
  "nalezy": [
-  {
-   "firmy": [],
-   "kod": "543233",
-   "kraj": "Košický kraj",
-   "obec": "Kluknava",
-   "okres": "Gelnica",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Mobiliár"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Oprava kozuba v altánku - Vierbiny Pranostika na akt. mesiac Na začiatku novembra teplo so zimou sa háda.…"
-   ],
-   "url": "https://www.kluknava.sk/zverejnovanie/uradna-tabula/oznamenie-o-urceni-volebnych-obvodov-a-urceni-poctu-poslancov-pre-volby-do-organov-samospravy-obci-a-do-organov-samospravnych-krajov-1512.html",
-   "zdroj": "https://www.kluknava.sk/zverejnovanie/uradna-tabula/oznamenie-o-urceni-volebnych-obvodov-a-urceni-poctu-poslancov-pre-volby-do-organov-samospravy-obci-a-do-organov-samospravnych-krajov-1512.html",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "543659",
-   "kraj": "Košický kraj",
-   "obec": "Švedlár",
-   "okres": "Gelnica",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Turistická infraštruktúra"
-   ],
-   "title": "Pozvánka na ustanovujúce zasadnutie Obecného zastupiteľstva obce Švedlár",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
-    "Verejné obstarávanie",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…77 ha Nadmorská výška: 482 m Obecné časti: Hrable Poloha: Údolie rieky Hnilec vo Volovských vrchoch Prírodné pomery: pásmo zmiešaných lesov Turistické trasy: Gotická cesta s dĺžkou 267 km v turistickom regióne Spiš a Gemer Hnilecká cyklomagistrála Vzdialenosti: Švedlár - Bratislava 408 km, Švedlár - Košice 64 km Vy…"
-   ],
-   "url": "https://www.svedlar.sk/samosprava/uradna-tabula/pozvanka-na-ustanovujuce-zasadnutie-obecneho-zastupitelstva-obce-svedlar-671.html?kshow=1",
-   "zdroj": "https://www.svedlar.sk/samosprava/uradna-tabula/"
-  },
-  {
-   "firmy": [],
-   "kod": "543659",
-   "kraj": "Košický kraj",
-   "obec": "Švedlár",
-   "okres": "Gelnica",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Turistická infraštruktúra"
-   ],
-   "title": "13. 11. 2026 Pozvánka na ustanovujúce zasadnutie Obecného zastupiteľstva obce Švedlár Úradná tabuľa",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
-    "Verejné obstarávanie",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…77 ha Nadmorská výška: 482 m Obecné časti: Hrable Poloha: Údolie rieky Hnilec vo Volovských vrchoch Prírodné pomery: pásmo zmiešaných lesov Turistické trasy: Gotická cesta s dĺžkou 267 km v turistickom regióne Spiš a Gemer Hnilecká cyklomagistrála Vzdialenosti: Švedlár - Bratislava 408 km, Švedlár - Košice 64 km Vy…"
-   ],
-   "url": "https://www.svedlar.sk/samosprava/uradna-tabula/pozvanka-na-ustanovujuce-zasadnutie-obecneho-zastupitelstva-obce-svedlar-671.html",
-   "zdroj": "https://www.svedlar.sk/"
-  },
   {
    "firmy": [],
    "kod": "521493",
@@ -104,6 +33,27 @@
   },
   {
    "firmy": [],
+   "kod": "582514",
+   "kraj": "Košický kraj",
+   "obec": "Kostoľany Nad Hornádom",
+   "okres": "Košice",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Zastávka"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [],
+   "ukazky": [
+    "…Meniny má Agnesa , Otmar, Agneša, Inéza Zajtra má meniny Klaudia , Klodeta Výmena autobusových prístreškov, 2018…"
+   ],
+   "url": "https://www.kostolany.sk/institucie-a-sluzby/dotacia-z-rozpoctu-obce/",
+   "zdroj": "https://www.kostolany.sk/institucie-a-sluzby/dotacia-z-rozpoctu-obce/",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
    "kod": "521639",
    "kraj": "Košický kraj",
    "obec": "Kysak",
@@ -127,6 +77,82 @@
    ],
    "url": "https://www.kysak.sk/samosprava/uradna-tabula-archiv",
    "zdroj": "https://www.kysak.sk/samosprava/uradna-tabula-archiv",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "522945",
+   "kraj": "Košický kraj",
+   "obec": "Poruba Pod Vihorlatom",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Podvihorlatské folklórne slávnosti Miesto: Miestne futbalové ihrisko Poruba pod Vihorlatom Čas: Uskutočnila sa Ne 2.8 14:30",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…ti Domov Udalosti Podvihorlatské folklórne slávnosti Zverejnené 16.7.2026 . Dátum a Čas 02. aug 2026 14:30 – 19:00 Miesto Miestne futbalové ihrisko Poruba pod Vihorlatom Obsah pripravujeme. Zdieľajte Verejné dokumenty Transparentná obec Obec virtuálne Virtuálna 360° prehliadka Fotogaléria pozrite si našu o…"
+   ],
+   "url": "https://poruba.eu/udalosti/nezaradene/podvihorlatske-folklorne-slavnosti/",
+   "zdroj": "https://poruba.eu/"
+  },
+  {
+   "firmy": [],
+   "kod": "522945",
+   "kraj": "Košický kraj",
+   "obec": "Poruba Pod Vihorlatom",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Futbalový turnaj Miesto: Miestne futbalové ihrisko – Poruba pod Vihorlatom Čas: Uskutočnila sa Ne 19.7 13:00",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…lár Futbalový turnaj Domov Udalosti Futbalový turnaj Zverejnené 16.7.2026 . Dátum a Čas 19. júl 2026 13:00 – 16:00 Miesto Miestne futbalové ihrisko - Poruba pod Vihorlatom Zdieľajte Verejné dokumenty Transparentná obec Obec virtuálne Virtuálna 360° prehliadka Fotogaléria pozrite si našu obec Podnety staros…"
+   ],
+   "url": "https://poruba.eu/udalosti/nezaradene/futbalovy-turnaj/",
+   "zdroj": "https://poruba.eu/"
+  },
+  {
+   "firmy": [],
+   "kod": "522945",
+   "kraj": "Košický kraj",
+   "obec": "Poruba Pod Vihorlatom",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…Podvihorlatské folklórne slávnosti Miesto: Miestne futbalové ihrisko Poruba pod Vihorlatom Čas: Uskutočnila sa Ne 2.8 14:30 Miesto: Miestne futbalové ihrisko – Poruba pod Vihorlatom Čas: Uskutočnila sa Ne 19.7 13:00 NÁVRH VZN O …",
+    "…tské folklórne slávnosti Miesto: Miestne futbalové ihrisko Poruba pod Vihorlatom Čas: Uskutočnila sa Ne 2.8 14:30 Miesto: Miestne futbalové ihrisko – Poruba pod Vihorlatom Čas: Uskutočnila sa Ne 19.7 13:00 NÁVRH VZN O VYHRADENÍ MIEST A USTANOVENÍ PODMIENOK PRE UMIESTŇOVANIE VOLEBNÝCH PLAGÁTOV NÁVRH VZN O U…"
+   ],
+   "url": "https://poruba.eu/",
+   "zdroj": "https://poruba.eu/",
    "zmena_stranky": true
   },
   {
@@ -166,40 +192,18 @@
    "temy": [
     "Dotácia / výzva"
    ],
-   "title": "Starosta obce Vás pozýva na zasadnutie obecného zastupiteľstva, ktoré sa uskutoční dňa 15.12.2020 o 17,30 v Klube pri kultúrnom dome v Krh. Podhradí.",
+   "title": "Zasadnutie obecného zastupiteľstva",
    "typ": [
     "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…iadania majetkovoprávnych vzťahov k pozemkov v obciach s prítomnosťou MRK postupom jednoduchých pozemkových úprav“ – schválenie predloženia žiadosti o NFP 14. Vysporiadanie nájomníkov v areáli pod hradom Krásna Hôrka, zmluvy o budúcich zmluvách – prerokovanie 15. Žiadosť o vydanie stanoviska k investičnej činnost…"
+    "…udka – Zmluva o prenájme 12. Zámer vytvorenia sociálneho podniku (s.r.o.) – nové uznesenie pre zmenu legislatívy 13. Environmentálny fond – žiadosť o dotáciu, oblasť: Program obnovy dediny (POD) 14. Vysporiadanie pozemku pod objektom MŠ (Pačanská 684) par. číslo KN-C 2606/9 15. Slovenská pošta, a.s – Žiadosť o súhla…",
+    "…. Zámer vytvorenia sociálneho podniku (s.r.o.) – nové uznesenie pre zmenu legislatívy 13. Environmentálny fond – žiadosť o dotáciu, oblasť: Program obnovy dediny (POD) 14. Vysporiadanie pozemku pod objektom MŠ (Pačanská 684) par. číslo KN-C 2606/9 15. Slovenská pošta, a.s – Žiadosť o súhlas so zriadením ON LINE zberne T…"
    ],
-   "url": "http://obeckrasnohorskepodhradie.sk.preview.iron.4system.sk/files/2020-12-10-073128-Pozv__nka_OZ_na_15.12.2020.pdf",
-   "zdroj": "https://www.obeckrasnohorskepodhradie.sk/pozvanky-na-zasadnutie-oz"
-  },
-  {
-   "firmy": [],
-   "kod": "525871",
-   "kraj": "Košický kraj",
-   "obec": "Krásnohorské Podhradie",
-   "okres": "Rožňava",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Starosta obce Vás pozýva na zasadnutie obecného zastupiteľstva, ktoré sa uskutoční dňa 12.5.2021 o 16,30 v kultúrnom dome v Krh. Podhradí.",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "… obce a rómsku osadu - Vodojem na ulici Pačanskej + vodovod v rómskej osade + výtokový stojan – prerokovanie 5. Výzva MV SR na predkladanie žiadostí o NFP – vysporiadanie majetko-právnych vzťahov k pozemkom v rómskych osadách postupom JPÚ – informácia o stave žiadosti 6. Nákup (resp. prenájom) zberných nádob pre …"
-   ],
-   "url": "http://obeckrasnohorskepodhradie.sk.preview.iron.4system.sk/files/2021-05-09-115756-Pozv__nka_OZ_na_12.5.2021.pdf",
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2026-06-10-224936-Pozv__nka_OZ_na___15.6.2026.pdf",
    "zdroj": "https://www.obeckrasnohorskepodhradie.sk/pozvanky-na-zasadnutie-oz"
   },
   {
@@ -222,6 +226,34 @@
    "url": "https://www.obeckrasnohorskepodhradie.sk/archiv-zmluv-faktur-a-objednavok",
    "zdroj": "https://www.obeckrasnohorskepodhradie.sk/archiv-zmluv-faktur-a-objednavok",
    "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "526355",
+   "kraj": "Košický kraj",
+   "obec": "Spišská Nová Ves",
+   "okres": "Spišská Nová Ves",
+   "projekcia": false,
+   "statut": "MESTO",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Dotácia / výzva"
+   ],
+   "title": "Fond na podporu športu",
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Verejné obstarávanie"
+   ],
+   "ukazky": [
+    "…oru športu Implementované projekty Zvoľte kategóriu, ktorú hľadáte Modernizácia zimného štadióna v Spišskej Novej Vsi Multifunkčné športové ihrisko pri ZŠ Lipová 13, Spišská Nová Ves Tréningové atletické centrum v Spišskej Novej Vsi Rekonštrukcia umelej trávnatej plochy futbalového štadióna v Spišskej Nove…",
+    "…ru športu Fond na podporu športu Implementované projekty Zvoľte kategóriu, ktorú hľadáte Modernizácia zimného štadióna v Spišskej Novej Vsi Multifunkčné športové ihrisko pri ZŠ Lipová 13, Spišská Nová Ves Tréningové atletické centrum v Spišskej Novej Vsi Rekonštrukcia umelej trávnatej plochy futbalového štadión…",
+    "…Fond na podporu športu | Mesto Spišská Nová Ves Vážime si vaše súkromie Naša spoločnosť a naši partneri uchovávajú alebo pristupujú k informáciám v zariadeniach, napríklad k súborom …",
+    "… na výlety Záujmové združenia Návštevník Kontakty Text vyhľadávania na stránkach Domov / Hľadám info / Projekty / Implementované projekty / Fond na podporu športu Fond na podporu športu Implementované projekty Zvoľte kategóriu, ktorú hľadáte Modernizácia zimného štadióna v Spišskej Novej Vsi Multifunkčné športové ihrisko…"
+   ],
+   "url": "https://www.web.spisskanovaves.eu/hladam-info/projekty/implementovane-projekty/fond-na-podporu-sportu",
+   "zdroj": "https://www.spisskanovaves.eu/hladam-info/projekty/implementovane-projekty/fond-na-podporu-sportu/modernizacia-zimneho-stadiona-v-spisskej-novej-vsi"
   },
   {
    "firmy": [],
@@ -256,6 +288,367 @@
    "url": "https://www.sirnik.sk/uradna-tabula-archiv",
    "zdroj": "https://www.sirnik.sk/uradna-tabula-archiv",
    "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "543748",
+   "kraj": "Košický kraj",
+   "obec": "Slivník",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko"
+   ],
+   "title": "Dodatok č. 5 k VZN 3/2019 o určení výšky príspevkov v školách a školských zariadeniach zo dňa 21.12.2019 3. 9. 2025",
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…oňava 1. písomná zmienka 1299 Obyvateľstvo 755 Rímskokatolícky kostol ​​ Gréckokatolícky kostol ​​ FSk Slivničanl ​​ Futbal ​​ Multifunkčné ihrisko ​​ ZŠ a MŠ ​​ O obci Na východnom úpätí Slanských vrchov, v Podslánskej pahorkatine, leží v nadmorskej výške 175 m (stred obce) obec Slivník. Pahorkatinu, pokr…",
+    "…3 4 5 6 MAS Roňava 1. písomná zmienka 1299 Obyvateľstvo 755 Rímskokatolícky kostol ​​ Gréckokatolícky kostol ​​ FSk Slivničanl ​​ Futbal ​​ Multifunkčné ihrisko ​​ ZŠ a MŠ ​​ O obci Na východnom úpätí Slanských vrchov, v Podslánskej pahorkatine, leží v nadmorskej výške 175 m (stred obce) obec Slivník. Pahorkati…"
+   ],
+   "url": "https://www.slivnik.sk/samosprava/zverejnovanie/vzn/dodatok-c-5-k-vzn-3-2019-o-urceni-vysky-prispevkov-v-skolach-a-skolskych-zariadeniach-zo-dna-21122019-309.html",
+   "zdroj": "https://www.slivnik.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Zverejnenie zámeru nájmu nehnuteľného majetku obce Veľké Ozorovce",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/zverejnenie-zameru-najmu-nehnutelneho-majetku-obce-velke-ozorovce-4665.html?kshow=3",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Návrh_Záverečného_účtu_obce_Veľké_Ozorovce_za_rok_2025",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/navrhzaverecnehouctuobcevelkeozorovcezarok2025-4663.html?kshow=3",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Návrh_Dodatok č. 2 _ktorým sa mení a doplňa VZN č. 1_2023 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Veľké Ozorovce",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/navrhdodatok-c-2-ktorym-sa-meni-a-doplna-vzn-c-12023-o-miestnych-daniach-a-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-velke-ozorovce-4662.html?kshow=3",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Návrh_VZN č.1_2026 o určení verejného školského obvodu materskej školy",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/navrhvzn-c12026-o-urceni-verejneho-skolskeho-obvodu-materskej-skoly-4661.html?kshow=3",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Návrh_Plánu kontrolnej činnosti Hlavného kontrolóra obce Veľké Ozorovce na II.polrok 2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/navrhplanu-kontrolnej-cinnosti-hlavneho-kontrolora-obce-velke-ozorovce-na-iipolrok-2026-4660.html?kshow=3",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Návrh – Určenie cieľov a priorít rozvoja sociálnych služieb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/navrh-urcenie-cielov-a-priorit-rozvoja-socialnych-sluzieb-4659.html?kshow=3",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Pozvánka na 18. zasadnutie Obecného zastupiteľstva obce Veľké Ozorovce dňa 10.09.2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/pozvanka-na-18-zasadnutie-obecneho-zastupitelstva-obce-velke-ozorovce-dna-10092026-4669.html?kshow=7",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Pozvánka na 17. zasadnutie Obecného zastupiteľstva obce Veľké Ozorovce dňa 02.07.2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/pozvanka-na-17-zasadnutie-obecneho-zastupitelstva-obce-velke-ozorovce-dna-02072026-4667.html?kshow=7",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Pozvánka na 16. zasadnutie Obecného zastupiteľstva obce Veľké Ozorovce dňa 21.05.2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/pozvanka-na-16-zasadnutie-obecneho-zastupitelstva-obce-velke-ozorovce-dna-21052026-4664.html?kshow=7",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "543861",
+   "kraj": "Košický kraj",
+   "obec": "Veľké Ozorovce",
+   "okres": "Trebišov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness"
+   ],
+   "title": "Pozvánka na 15. zasadnutie Obecného zastupiteľstva obce Veľké Ozorovce dňa 23.02.2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… vzdelávacích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica …",
+    "…acích výsledkoch Školský poriadok MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor…",
+    "…MŠ Plán práce Materskej školy Návrh koncepcie materskej školy Prijímanie detí do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súb…",
+    "…do MŠ Pošta Verejné ihrisko Detské ihrisko pri Kultúrnom dome Multifunkčné ihrisko pri Kultúrnom dome Viacúčelové ihrisko pri Obecnom úrade FITNES ZARIADENIA Farnosť DHZ Miestná knižnica Folklórny súbor Doľinka Vznik a účinkovanie súboru Videozáznam a fotografie Virtuálny cintorín Požiarny poriadok Štatis…"
+   ],
+   "url": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/pozvanka-na-15-zasadnutie-obecneho-zastupitelstva-obce-velke-ozorovce-dna-23022026-4651.html?kshow=7",
+   "zdroj": "https://www.velkeozorovce.sk/zverejnovanie/uradna-tabula/"
+  },
+  {
+   "firmy": [],
+   "kod": "519936",
+   "kraj": "Prešovský kraj",
+   "obec": "Raslavice",
+   "okres": "Bardejov",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Športovisko"
+   ],
+   "title": "22 Nov Divadelný súbor Jána Chalúpku - Brezno: Dievčatko so zápalkami",
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…prevádzkových problémov v obecných nájomných bytových domoch a budovách Kultúrno-spoločenské podujatia v Dome kultúry Kultúrne zariadenia a športoviská Odpadové hodpodárstvo Oznámenie o konaní verejných podujatí na území obce Raslavice Sociálne služby ČOV a kanalizácia Stavebný úrad, životné prostredie, pozemn…"
+   ],
+   "url": "https://www.raslavice.sk/kalendar/55728/divadelny-subor-jana-chalupku-brezno-dievcatko-so-zapalkami",
+   "zdroj": "https://www.raslavice.sk/"
   },
   {
    "firmy": [],
@@ -315,55 +708,6 @@
   },
   {
    "firmy": [],
-   "kod": "520683",
-   "kraj": "Prešovský kraj",
-   "obec": "Ptičie",
-   "okres": "Humenné",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    25000.0,
-    13392.21
-   ],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Zápisnica z obecného zastupiteľstva | 0.22 Mb",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…ní z predchádzajúceho OZ konaného dňa 13.02.2026 K bodu 5: Informácia ohľadom akcie Deň rodiny. Deň rodiny bude dňa 21.6.2026 na futbalovom ihrisku, kde bude pre detí a mládež, pripravené skakacie hrady, šmýkalka, kolotoč, nanuky, guľáš, klobása a rôzne súťaže. Pre dospelých resp. na deň otcov pivo a takti…"
-   ],
-   "url": "https://www.pticie.sk/files/dokumenty-[presun]/zasadnutia-obecneho-zastupitelstva/2026-11-14-070850-2026-05-28_zapisnica.pdf",
-   "zdroj": "https://www.pticie.sk/zasadnutia-obecneho-zastupitelstva"
-  },
-  {
-   "firmy": [],
-   "kod": "523526",
-   "kraj": "Prešovský kraj",
-   "obec": "Huncovce",
-   "okres": "Kežmarok",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Zastávka"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "… tuhý komunálny odpad (TKO) je potrebné v deň zvozu vyložiť na verejne dostupné miesto pred vašou nehnuteľnosťou, nie nechávať vo dvoroch a prístreškoch! Viac info v správe. ONLINE: 17 DNES: 1000 TÝŽDEŇ: 8914 CELKOM: 1400884…"
-   ],
-   "url": "https://www.huncovce.sk/",
-   "zdroj": "https://www.huncovce.sk/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
    "kod": "523798",
    "kraj": "Prešovský kraj",
    "obec": "Rakúsy",
@@ -399,266 +743,54 @@
   },
   {
    "firmy": [],
-   "kod": "524042",
+   "kod": "525022",
    "kraj": "Prešovský kraj",
-   "obec": "Vlková",
-   "okres": "Kežmarok",
+   "obec": "Podhorany",
+   "okres": "Prešov",
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Detské ihrisko"
+    "Detské ihrisko",
+    "Športovisko"
    ],
-   "title": "Nový text na stránke",
-   "typ": [],
+   "title": "55a66_UZNESENIA 05-11-2026.pdf",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
    "ukazky": [
-    "…Meniny má Leopold , Leopolda, Leopoldína Zajtra má meniny Agnesa , Otmar, Agneša, Inéza Detské ihrisko - IBV Park Panorama…"
+    "…ť rozvoj športových aktivít a organizovanie športových súťaží. 5. Predkladať návrhy na zlepšenie využívania kultúrneho domu, multifunkčného ihriska a ďalších obecných priestorov určených na kultúrne a športové aktivity. 6. Navrhovať opatrenia na rozvoj kultúrneho, športového a spoločenského života v obci. …",
+    "…í. 4. Podporovať rozvoj športových aktivít a organizovanie športových súťaží. 5. Predkladať návrhy na zlepšenie využívania kultúrneho domu, multifunkčného ihriska a ďalších obecných priestorov určených na kultúrne a športové aktivity. 6. Navrhovať opatrenia na rozvoj kultúrneho, športového a spoločenského života …"
    ],
-   "url": "https://www.vlkova.sk/zverejnovanie/uradna-tabula/rozpocet-na-roky-2022-2024-18.html",
-   "zdroj": "https://www.vlkova.sk/zverejnovanie/uradna-tabula/rozpocet-na-roky-2022-2024-18.html",
-   "zmena_stranky": true
+   "url": "https://obec.dobraobec.sk/files/126/dokumenty/55a66_UZNESENIA 05-11-2026.pdf",
+   "zdroj": "https://podhorany.eu/dokumenty?kat=1899"
   },
   {
    "firmy": [],
-   "kod": "523852",
+   "kod": "518590",
    "kraj": "Prešovský kraj",
-   "obec": "Spišské Bystré",
-   "okres": "Poprad",
+   "obec": "Ľubotice",
+   "okres": "Prešov",
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Workout / fitness",
+    "Športovisko",
     "Turistická infraštruktúra"
    ],
-   "title": "Pozvánka na obecné zastupiteľstvo 18.11.2026 - ustanovujúce",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Verejné obstarávanie"
-   ],
-   "ukazky": [
-    "… 2025 Rok 2024 Rok 2023 Rok 2022 Rok 2021 Rok 2020 Rok 2018 Rok 2019 Rok 2017 Rok 2016 Rok 2015 Báseň o obci Ponuka práce Cestovné poriadky Street workout park Kubašský spravodaj Kubašský ľemhalz Aktuálna teplota Obec v médiach Kubašská 10° Propozície a informácie - 2024 Archív výsledkov Propozície a informácie -…",
-    "…va Geografia a príroda Podnebie Rastliny a živočíchy Geológia a vodstvo Poloha obce Pamiatky ZŠ s MŠ Spišské Bystré Informácie pre turistov Náučné chodníky Čo vidieť a zažiť v obci Príroda a oddych Pamiatky a historické stavby Cesta sem Praktické informácie Ubytovanie Mobilné aplikácie Letecká virtuálna prehliadka…",
-    "…vý portál Virtuálny cintorín Mobilná aplikácia Sledujte informácie z nášho webu v mobilnej aplikácii - V OBRAZE. Navždy nás opustili elekos Náučné chodníky SMS spravodaj Projekt: Atletická dráha v areáli ZŠ Spišské Bystré NašaObec Kontakt Michalská 394 Spišské Bystré 059 18 Tel.: +421 52 77 921 97 E-mail: obec@spi…"
-   ],
-   "url": "https://www.spisskebystre.sk/urad/zverejnovanie/uradna-tabula/pozvanka-na-obecne-zastupitelstvo-18112026-ustanovujuce-1263.html?kshow=2",
-   "zdroj": "https://www.spisskebystre.sk/urad/zverejnovanie/uradna-tabula/"
-  },
-  {
-   "firmy": [],
-   "kod": "523852",
-   "kraj": "Prešovský kraj",
-   "obec": "Spišské Bystré",
-   "okres": "Poprad",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Workout / fitness",
-    "Turistická infraštruktúra"
-   ],
-   "title": "Pozvánka na obecné zastupiteľstvo 18.11.2026 - ustanovujúce 13. 11. 2026 – 18. 11. 2026",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Verejné obstarávanie"
-   ],
-   "ukazky": [
-    "… 2025 Rok 2024 Rok 2023 Rok 2022 Rok 2021 Rok 2020 Rok 2018 Rok 2019 Rok 2017 Rok 2016 Rok 2015 Báseň o obci Ponuka práce Cestovné poriadky Street workout park Kubašský spravodaj Kubašský ľemhalz Aktuálna teplota Obec v médiach Kubašská 10° Propozície a informácie - 2024 Archív výsledkov Propozície a informácie -…",
-    "…va Geografia a príroda Podnebie Rastliny a živočíchy Geológia a vodstvo Poloha obce Pamiatky ZŠ s MŠ Spišské Bystré Informácie pre turistov Náučné chodníky Čo vidieť a zažiť v obci Príroda a oddych Pamiatky a historické stavby Cesta sem Praktické informácie Ubytovanie Mobilné aplikácie Letecká virtuálna prehliadka…",
-    "…vý portál Virtuálny cintorín Mobilná aplikácia Sledujte informácie z nášho webu v mobilnej aplikácii - V OBRAZE. Navždy nás opustili elekos Náučné chodníky SMS spravodaj Projekt: Atletická dráha v areáli ZŠ Spišské Bystré NašaObec Kontakt Michalská 394 Spišské Bystré 059 18 Tel.: +421 52 77 921 97 E-mail: obec@spi…"
-   ],
-   "url": "https://www.spisskebystre.sk/urad/zverejnovanie/uradna-tabula/pozvanka-na-obecne-zastupitelstvo-18112026-ustanovujuce-1263.html",
-   "zdroj": "https://www.spisskebystre.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "524107",
-   "kraj": "Prešovský kraj",
-   "obec": "Šuňava",
-   "okres": "Poprad",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Pozvánka na jesenný blšák 13. 11. 2026 Dajte svojim nepotrebným veciam druhú šancu. Jesenný blšák v kultúrnom dome Šuňava sa uskutoční 15. novembra 2026 od 14:00 do 16:00. Detail",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Verejné obstarávanie",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…uchovná kultúra Hmotná kultúra Známi rodáci Významné osobnosti Doprava SMS SPRAVODAJ Mobilná aplikácia V OBRAZE Obecná knižnica Viacúčelové ihrisko Občianska vybavenosť Zdravotníctvo Pošta Šuňava Hlásenie porúch Kontakty Obec Šuňava ​​​ 052 / 7791 515 ​​ kancelaria@sunava.sk SK Slovensky SK Slovensky EN En…"
-   ],
-   "url": "https://www.sunava.sk/obec/oznamy/pozvanka-na-jesenny-blsak-828sk.html",
-   "zdroj": "https://www.sunava.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "524352",
-   "kraj": "Prešovský kraj",
-   "obec": "Drienov",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Ustanovujúce zasadnutie obecného zastupiteľstva 20.11.2026 - pozvánka",
+   "title": "Návrh VZN o poskytovaní sociálnej služby a výške úhrady za sociálnu službu v dennom stacionári",
    "typ": [
     "Pozvánka na zastupiteľstvo",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "… Menu Obec História Erb Základné údaje Územný plán obce Rímskokatolícka farnosť Materská škola Hasiči Mapa Geoportál Pohľadnice Viacúčelové ihrisko Odchody autobusov Voľby Pre nezamestnaných Napíšte nám Samospráva Starosta Zastupiteľstvo Životné situácie Vývoz odpadu Poplatky vyberané obcou Dokumenty a tla…"
+    "…uality Úradná tabuľa Kalendár udalostí Výpadky a poruchy Dopravná situácia Spravodaj Galéria Hlásenia rozhlasu Služby Podnety pre starostku Športové plochy Spoločenská miestnosť Odpady a zber Knižnica Osvedčovanie podpisov Webkamery Mapový portál Sociálne služby Susedská burza Duchovný život Cintorín Rozvoj Projek…",
+    "…mery Mapový portál Sociálne služby Susedská burza Duchovný život Cintorín Rozvoj Projekty v obci Geotermálna energia Územný plán Investície Cyklochodníky Program hosp. a soc. rozvoja obce Geologický prieskum (riziká zosuvov) Obec Pozoruhodnosti Symboly obce Zoznam ulíc Štatistické ukazovatele Štatút obce Históri…"
    ],
-   "url": "https://www.drienov.sk/zverejnovanie/uradna-tabula/ustanovujuce-zasadnutie-obecneho-zastupitelstva-20112026-pozvanka-537.html?kshow=5",
-   "zdroj": "https://www.drienov.sk/zverejnovanie/uradna-tabula/"
-  },
-  {
-   "firmy": [],
-   "kod": "524352",
-   "kraj": "Prešovský kraj",
-   "obec": "Drienov",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Ustanovujúce zasadnutie obecného zastupiteľstva 20.11.2026 - pozvánka 14. 11. 2026 – 29. 11. 2026",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "… Menu Obec História Erb Základné údaje Územný plán obce Rímskokatolícka farnosť Materská škola Hasiči Mapa Geoportál Pohľadnice Viacúčelové ihrisko Odchody autobusov Voľby Pre nezamestnaných Napíšte nám Samospráva Starosta Zastupiteľstvo Životné situácie Vývoz odpadu Poplatky vyberané obcou Dokumenty a tla…"
-   ],
-   "url": "https://www.drienov.sk/zverejnovanie/uradna-tabula/ustanovujuce-zasadnutie-obecneho-zastupitelstva-20112026-pozvanka-537.html",
-   "zdroj": "https://www.drienov.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "525162",
-   "kraj": "Prešovský kraj",
-   "obec": "Seniakovce",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    1063.0
-   ],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "Zapisnica-28.2.2019.pdf",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…, resp. opravy poškodeného chodníka. Ďalej predniesli potrebu riešiť parkovanie osobných vozidiel p. Róberta Danka a rodiny Kuchárikovej na verejnom priestranstve. V oboch prípadoch sa zhodli na tom, že tieto vozidla zaberajú verejné priestranstvo, zhoršujú prejazd vozidiel a znemožňujú úpravu a údržbu verejného priestra…",
-    "…ch vozidiel p. Róberta Danka a rodiny Kuchárikovej na verejnom priestranstve. V oboch prípadoch sa zhodli na tom, že tieto vozidla zaberajú verejné priestranstvo, zhoršujú prejazd vozidiel a znemožňujú úpravu a údržbu verejného priestranstva v prípade vozidiel p. Roberta Danka sa vodiči vychádzajúci zo súkromnej cesty v…"
-   ],
-   "url": "https://seniakovce.sk/wp-content/uploads/2021/08/Zapisnica-28.2.2019.pdf",
-   "zdroj": "https://seniakovce.sk/documents/schvaleny-rozpocet-na-rok-2025/"
-  },
-  {
-   "firmy": [],
-   "kod": "525162",
-   "kraj": "Prešovský kraj",
-   "obec": "Seniakovce",
-   "okres": "Prešov",
-   "projekcia": true,
-   "statut": "OBEC",
-   "sumy_eur": [
-    10265.04,
-    5400.0,
-    4900.0
-   ],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Zapisnica-17.4.2019.pdf",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…sadnutia, určenie zapisovateľa a overovateľov zápisnice 2. odkúpenie podielu pozemkov v k.ú. Seniakovce – parcely KN_C 90/7, 89/9, 62/34 3. žiadosť o dotáciu na individuálne potreby obce – brána požiarnej zbrojnice 4. žiadosť o poskytnutie dotácií na základe výzvy predsedu PSK na zorganizovanie Gaštan festu 5. oznám…",
-    "…ozemkov v k.ú. Seniakovce – parcely KN_C 90/7, 89/9, 62/34 3. žiadosť o dotáciu na individuálne potreby obce – brána požiarnej zbrojnice 4. žiadosť o poskytnutie dotácií na základe výzvy predsedu PSK na zorganizovanie Gaštan festu 5. oznámenie o ukončení pracovného pomeru pracovníčky OcÚ 6. zmluva o zriadení vecného bre…"
-   ],
-   "url": "https://seniakovce.sk/wp-content/uploads/2021/08/Zapisnica-17.4.2019.pdf",
-   "zdroj": "https://seniakovce.sk/documents/schvaleny-rozpocet-na-rok-2025/"
-  },
-  {
-   "firmy": [],
-   "kod": "525162",
-   "kraj": "Prešovský kraj",
-   "obec": "Seniakovce",
-   "okres": "Prešov",
-   "projekcia": true,
-   "statut": "OBEC",
-   "sumy_eur": [
-    4270.0,
-    4262.0,
-    4199.0,
-    1200.0
-   ],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "Zapisnica-z-31.7.2019.pdf",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…upozornením prokurátora 4. Prerokovanie financovania občasníka „Seniakovské novosti“ pre rok 2019 5. Prerokovanie návrhu skupiny občanov na revitalizáciu bývalého cintorína 6. Informácia o stave rozšírenia NN sietí 7. Prerokovanie cenových ponúk na garážovú bránu na požiarnej zbrojnici 8. Prerokovanie rozšírenia…",
-    "…v nasledujúcom kalendárnom roku 2020 schválili z rozpočtu 200€ - 250€. K bodu č. 5 Poslanec Ing. Kuchár predniesol návrh skupiny občanov na revitalizáciu bývalého cintorína. Poslanci schválili požiadanie obce o vyjadrenie BÚ k revitalizácii cintorína. Termín do nasledujúceho zastupiteľstva. po oficiálnom vyjadre…"
-   ],
-   "url": "https://seniakovce.sk/wp-content/uploads/2021/08/Zapisnica-z-31.7.2019.pdf",
-   "zdroj": "https://seniakovce.sk/documents/schvaleny-rozpocet-na-rok-2025/"
-  },
-  {
-   "firmy": [],
-   "kod": "525162",
-   "kraj": "Prešovský kraj",
-   "obec": "Seniakovce",
-   "okres": "Prešov",
-   "projekcia": true,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "Zapisnica-z-12.12.2019.pdf",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…a vodovodnej prípojky vo výške 100€ (v hrubom), ktoré schválilo. Diskusia Poslanec Ing. Kuchár opätovne predniesol návrh skupiny občanov na revitalizáciu bývalého cintorína a možnosti vybudovania na ňom oddychovej zóny z prípadných dotácii. Opätovne požiadal OÚ o zaslanie požiadavky na arcibiskupský úrad. Staros…",
-    "…. Diskusia Poslanec Ing. Kuchár opätovne predniesol návrh skupiny občanov na revitalizáciu bývalého cintorína a možnosti vybudovania na ňom oddychovej zóny z prípadných dotácii. Opätovne požiadal OÚ o zaslanie požiadavky na arcibiskupský úrad. Starosta informoval poslancov o nesúhlasnom stanovisku KDI k projektove…"
-   ],
-   "url": "https://seniakovce.sk/wp-content/uploads/2021/08/Zapisnica-z-12.12.2019.pdf",
-   "zdroj": "https://seniakovce.sk/documents/schvaleny-rozpocet-na-rok-2025/"
+   "url": "https://www.obeclubotice.sk/zverejnovanie/detail/525823/navrh-vzn-o-poskytovani-socialnej-sluzby-a-vyske-uhrady-za-socialnu-sluzbu-v-dennom-stacionari",
+   "zdroj": "https://www.obeclubotice.sk/zverejnovanie/1684/uradna-tabula"
   },
   {
    "firmy": [],
@@ -682,7 +814,7 @@
    "ukazky": [
     "…aný za realizovateľný. 5. Projekt môže byť zameraný na: a) úpravy verejného priestoru, zlepšenie životného prostredia a jeho zveľadenie, b) voľnočasové aktivity zamerané na kultúrne a pohybové aktivity, záujmové a tvorivé aktivity, c) infraštruktúru, občiansku vybavenosť a aktivity na zlepšenie sociálnych väzi…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=7684a52f8cf4f957a3a95b26d8db2f02",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=be05fb751255778dea16d2ccfe2c5c02",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -706,7 +838,7 @@
    "ukazky": [
     "…kať viac informácií o svojich právach: www.sabinov.sk. Označte iba jednu elipsu. áno nie 7. HLASOVANIE: * Označte iba jednu elipsu. Jožkova lavička Virtuálne prehliadky histórie Sabinova Virtuálna galéria obrazov Teodora Csontváryho-Kostku 8. Ďakujeme za Váš hlas. Zároveň na tomto mieste môžete uviesť podn…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=7684a52f8cf4f957a3a95b26d8db2f02",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=be05fb751255778dea16d2ccfe2c5c02",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -724,7 +856,7 @@
    "title": "jozkova-lavicka.jpg",
    "typ": [],
    "ukazky": [],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=7684a52f8cf4f957a3a95b26d8db2f02",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=be05fb751255778dea16d2ccfe2c5c02",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -749,37 +881,35 @@
    "ukazky": [
     "…aný za realizovateľný. 5. Projekt môže byť zameraný na: a) úpravy verejného priestoru, zlepšenie životného prostredia a jeho zveľadenie, b) voľnočasové aktivity zamerané na kultúrne a pohybové aktivity, záujmové a tvorivé aktivity, c) infraštruktúru, občiansku vybavenosť a aktivity na zlepšenie sociálnych väzi…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=7684a52f8cf4f957a3a95b26d8db2f02",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=be05fb751255778dea16d2ccfe2c5c02",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
    "firmy": [],
-   "kod": "525235",
+   "kod": "524280",
    "kraj": "Prešovský kraj",
-   "obec": "Šarišské Michaľany",
+   "obec": "Červená Voda",
    "okres": "Sabinov",
    "projekcia": false,
    "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko"
+   "sumy_eur": [
+    3984.0,
+    2280.0
    ],
-   "title": "Nový text na stránke",
+   "temy": [
+    "Park / oddych"
+   ],
+   "title": "stiahnuť prílohu",
    "typ": [
-    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…haľany Vyvesené: 22. 11. 2019 Dátum zvesenia: 8. 12. 2019 Rozhodnutie o zamietnutí odvolania a potvrdení stavebného povolenia „Multifunkčné ihrisko“ – zverejnenie verejnou vyhláškou Vyvesené: 15. 11. 2019 Dátum zvesenia: 1. 12. 2019 Oznámenie o začatí konania o predĺžení platnosti územného rozhodnutia na s…",
-    "…yhláškou Vyvesené: 6. 9. 2019 Dátum zvesenia: 22. 9. 2019 Upovedomenie o podaní odvolania vo veci stavebného povolenia stavby „Multifunkčné ihrisko“- zverejnenie verejnou vyhláškou Vyvesené: 19. 8. 2019 Dátum zvesenia: 4. 9. 2019 Plán práce hlavného kontrolóra obce na II. polrok 2019 – zverejnenie Vyvesené…",
-    "…u prenájmu majetku obce - Packeta Slovakia s. r. o. -automat k vydávaniu zásielok Zverejnenie zámeru prenájmu majetku obce -FK, OŠSK, DHZ - športový areál Verejná vyhláška - kolaudácia bytového domu Vyvesené: 10. 9. 2021 Dátum zvesenia: 26. 9. 2021 Vyvesené: 6. 9. 2021 Dátum zvesenia: 22. 9. 2021 Vyvesené: 18. 8.…",
-    "… Šarišské Michaľany Vyvesené: 22. 11. 2019 Dátum zvesenia: 8. 12. 2019 Rozhodnutie o zamietnutí odvolania a potvrdení stavebného povolenia „Multifunkčné ihrisko“ – zverejnenie verejnou vyhláškou Vyvesené: 15. 11. 2019 Dátum zvesenia: 1. 12. 2019 Oznámenie o začatí konania o predĺžení platnosti územného rozhodnu…"
+    "…ďalej len „správca dane“) zavádza s účinnosťou od 01. januára 2027 miestnu daň z nehnuteľností, miestnu daň za psa, miestnu daň za užívanie verejného priestranstva, miestny poplatok za komunálne odpady a drobné stavebné odpady za podmienok, ako sú určené zákonom a týmto VZN. Článok 3 Predmet úpravy VZN Predmetom tohto VZN…",
+    "… úpravy VZN Predmetom tohto VZN je určenie náležitostí miestnej dane, ktorá zahŕňa: 1. daň z nehnuteľností 2. daň za psa 3. daň za užívanie verejného priestranstva Obec Červená Voda na svojom území ukladá miestny poplatok za komunálne odpady a drobné stavebné odpady (ďalej len „poplatok“). 2 Časť II. MIESTNE DANE Článok 4…"
    ],
-   "url": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/",
-   "zdroj": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/",
-   "zmena_stranky": true
+   "url": "https://www.cervenavoda.sk/uploads/uradnatabula/462.pdf",
+   "zdroj": "https://www.cervenavoda.sk/uradna-tabula"
   },
   {
    "firmy": [],
@@ -840,10 +970,10 @@
   },
   {
    "firmy": [],
-   "kod": "527181",
+   "kod": "526908",
    "kraj": "Prešovský kraj",
-   "obec": "Bukovce",
-   "okres": "Stropkov",
+   "obec": "Mníšek Nad Popradom",
+   "okres": "Stará Ľubovňa",
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
@@ -854,10 +984,10 @@
    "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…Fico - Otváranie multifunkčného ihriska…"
+    "…Hokej: Mníšek versus Poľsko Otvorenie multifunkcneho ihriska…"
    ],
-   "url": "https://www.obecbukovce.sk/uradna-tabula",
-   "zdroj": "https://www.obecbukovce.sk/uradna-tabula",
+   "url": "http://www.mniseknadpopradom.sk/-uradna-tabula",
+   "zdroj": "http://www.mniseknadpopradom.sk/-uradna-tabula",
    "zmena_stranky": true
   },
   {
@@ -878,31 +1008,23 @@
    "ukazky": [
     "…Fico - Otváranie multifunkčného ihriska…"
    ],
-   "url": "https://www.obecbukovce.sk/obecne-zastupitelstvo",
-   "zdroj": "https://www.obecbukovce.sk/obecne-zastupitelstvo",
+   "url": "https://www.obecbukovce.sk/samosprava",
+   "zdroj": "https://www.obecbukovce.sk/samosprava",
    "zmena_stranky": true
   },
   {
    "firmy": [],
-   "kod": "544086",
+   "kod": "528862",
    "kraj": "Prešovský kraj",
-   "obec": "Benkovce",
+   "obec": "Medzianky",
    "okres": "Vranov nad Topľou",
-   "projekcia": true,
+   "projekcia": false,
    "statut": "OBEC",
-   "sumy_eur": [
-    100000.0,
-    57442.0,
-    49852.22,
-    47723.87,
-    21292.87
-   ],
+   "sumy_eur": [],
    "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Dotácia / výzva"
+    "Turistická infraštruktúra"
    ],
-   "title": "Stiahnuť súbor Zápis11-25 Veľkosť a typ súboru 331 KB / PDF",
+   "title": "Ustanovujúce obecné zastupiteľstvo 19.11.2026. Stiahnuť Pozvanka na ustanovujuce zasadnutie OZ 19.11.2026 Miesto: Medzianky Začiatok: 19.11.2026 17:00 15. novembra 2026 14:47",
    "typ": [
     "Pozvánka na zastupiteľstvo",
     "Rozpočet / zmena rozpočtu",
@@ -911,40 +1033,10 @@
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…7.03.2025. Poslanec Hudík je ochotný sa zúčastniť. Obci bolo doručené rozhodnutie PPA o schválení žiadosti o NFP na výstavbu multifunkčného ihriska vo výške 49.852,22 €, bude potrebná oprava PD tak, aby boli aj mantinely – časť bude financovať obec z úveru, lebo rozpočet je na cca 100 000€. P. Stanovčáková…",
-    "…VALI: NEPRÍTOMNÍ PRI HLASOVANÍ - 2 Návrh uznesenia č. 85/2025 bol prijatý K bodu č. 9. Rôzne K zmluve s MAS a PPA o výstavbe multifunkčného ihriska je potrebné dokladovať schválenie realizácie tohto projektu s tým, že časť výstavby bude hradená z vlastných zdrojov – úveru obce. Poslanci žiadajú , aby pri v…",
-    "… 20.03. alebo 27.03.2025. Poslanec Hudík je ochotný sa zúčastniť. Obci bolo doručené rozhodnutie PPA o schválení žiadosti o NFP na výstavbu multifunkčného ihriska vo výške 49.852,22 €, bude potrebná oprava PD tak, aby boli aj mantinely – časť bude financovať obec z úveru, lebo rozpočet je na cca 100 000€. P. Stan…",
-    "… SA – 0 NEHLASOVALI: NEPRÍTOMNÍ PRI HLASOVANÍ - 2 Návrh uznesenia č. 85/2025 bol prijatý K bodu č. 9. Rôzne K zmluve s MAS a PPA o výstavbe multifunkčného ihriska je potrebné dokladovať schválenie realizácie tohto projektu s tým, že časť výstavby bude hradená z vlastných zdrojov – úveru obce. Poslanci žiadajú , a…",
-    "…oň s 2-3 poslancami, termín 20.03. alebo 27.03.2025. Poslanec Hudík je ochotný sa zúčastniť. Obci bolo doručené rozhodnutie PPA o schválení žiadosti o NFP na výstavbu multifunkčného ihriska vo výške 49.852,22 €, bude potrebná oprava PD tak, aby boli aj mantinely – časť bude financovať obec z úveru, lebo rozpočet …"
+    "…adlimitné zákazky Podlimitné zákazky Zákazky s nízkou hodnotou podľa §117 Povinné zverejňovanie Faktúry Objednávky Zmluvy Voľný čas Príroda Náučný chodník Tajch, Pavlovce Radvanovské skalky Viadukt pri Hanušovciach Medziansky hrádok Kaštieľ Hanušovce Futbalový klub Aktuality Kalendár udalostí Urbár Kontakt RSS RS…"
    ],
-   "url": "https://obecbenkovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/zapis11-25-erebiw.pdf",
-   "zdroj": "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/"
-  },
-  {
-   "firmy": [],
-   "kod": "544086",
-   "kraj": "Prešovský kraj",
-   "obec": "Benkovce",
-   "okres": "Vranov nad Topľou",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko"
-   ],
-   "title": "Stiahnuť súbor Uznesenie81-86 Veľkosť a typ súboru 255 KB / PDF",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…nou prítomných poslancov UZNESENIE č. 86/2025 Obecné zastupiteľstvo v Benkovciach A. SCHVAĽUJE realizáciu projektu „Výstavba multifunkčného ihriska v obci Benkovce“ financovaného cez Európsky poľnohospodársky fond pre rozvoj vidieka a z vlastných zdrojov obce Benkovce B. ODPORÚČA Vykonať kontrolu používani…",
-    "…álené 3/5 väčšinou prítomných poslancov UZNESENIE č. 86/2025 Obecné zastupiteľstvo v Benkovciach A. SCHVAĽUJE realizáciu projektu „Výstavba multifunkčného ihriska v obci Benkovce“ financovaného cez Európsky poľnohospodársky fond pre rozvoj vidieka a z vlastných zdrojov obce Benkovce B. ODPORÚČA Vykonať kontrolu p…"
-   ],
-   "url": "https://obecbenkovce.sk/wp-content/uploads/dokumenty/uznesenia-oz/uznesenie81-86-7r2724.pdf",
-   "zdroj": "https://obecbenkovce.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/"
+   "url": "https://medzianky.sk/mobilny-rozhlas/?message=6af9c619e227b790a7ece7b7",
+   "zdroj": "https://medzianky.sk/"
   }
  ],
  "nedostupne": [
@@ -988,12 +1080,13 @@
   "Livovská Huta (Bardejov): bez webu",
   "Lomnička (Stará Ľubovňa): bez webu",
   "Lukačovce (Humenné): bez webu",
+  "Lúčka (Levoča): web nedostupný: HTTPError",
   "Lúčka (Sabinov): web nedostupný: HTTPError",
   "Majere (Kežmarok): bez webu",
   "Malá Lodina (Košice): bez webu",
   "Malá Poľana (Stropkov): bez webu",
   "Malý Slavkov (Kežmarok): web nedostupný: HTTPError",
-  "Markuška (Rožňava): web nedostupný: ReadTimeout",
+  "Markuška (Rožňava): web nedostupný: HTTPError",
   "Matovce (Svidník): bez webu",
   "Miroľa (Svidník): bez webu",
   "Mrázovce (Stropkov): bez webu",
@@ -1037,10 +1130,10 @@
   "Šarbov (Svidník): bez webu",
   "Šmigovec (Snina): bez webu"
  ],
- "obci_nedostupnych": 88,
+ "obci_nedostupnych": 89,
  "obci_prvy_beh": 0,
- "obci_skontrolovanych": 1038,
+ "obci_skontrolovanych": 1037,
  "obci_spolu": 1126,
- "trvanie_s": 2345,
- "vygenerovane": "2026-11-15T04:43:16"
+ "trvanie_s": 2938,
+ "vygenerovane": "2026-11-16T05:28:31"
 }
