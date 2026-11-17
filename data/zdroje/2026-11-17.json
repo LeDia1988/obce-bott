@@ -1,0 +1,104 @@
+{
+ "datum": "2026-11-17",
+ "obstaravania": [],
+ "prepojenia": [
+  {
+   "datum": "16. November 2026",
+   "dodavatel": "SPORT PLAY s. r. o.",
+   "firma": "Sport&Play",
+   "nazov": "Dodatok č.1 k Zmluve o dielo zo dňa 13.4.2026 ZS_017/2026",
+   "obec": "Slanec",
+   "objednavatel": "Obec Slanec",
+   "okres": "Košice",
+   "relevantne": false,
+   "suma": "0,00 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13079963/"
+  },
+  {
+   "datum": "16. November 2026",
+   "dodavatel": "Simon Lajčiak",
+   "firma": "Ing. arch. Róbert Lajčiak",
+   "nazov": "Zmluva o poskytnutí príspevku ZML-4417914462-01",
+   "obec": "",
+   "objednavatel": "Digitálna koalícia",
+   "okres": "",
+   "relevantne": false,
+   "suma": "480,00 €",
+   "typ": "projektant",
+   "url": "https://www.crz.gov.sk/zmluva/13079501/"
+  }
+ ],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "MIRRI pomáha vrátiť život ikonickému Kinu Družba v Košiciach: Na obnovu smeruje viac ako 5,3 milióna eur z eurofondov",
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "url": "https://mirri.gov.sk/aktuality/ministerstvo/mirri-pomaha-vratit-zivot-ikonickemu-kinu-druzba-v-kosiciach-na-obnovu-smeruje-viac-ako-53-miliona-eur-z-eurofondov/",
+   "zdroj": "MIRRI – regionálny rozvoj",
+   "zhoda_tem": true
+  },
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Príspevok na pomoc pri odkázanosti",
+   "temy": [],
+   "url": "https://ppoinfo.socialne.gov.sk/",
+   "zdroj": "MPSVR SR (Ihrisko pre každé dieťa)",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "eurofondy",
+   "nazov": "MIRRI pomáha vrátiť život ikonickému Kinu Družba v Košiciach: Na obnovu smeruje viac ako 5,3 milióna eur z eurofondov",
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "url": "https://eurofondy.gov.sk/mirri-pomaha-vratit-zivot-ikonickemu-kinu-druzba-v-kosiciach-na-obnovu-smeruje-viac-ako-53-miliona-eur-z-eurofondov/",
+   "zdroj": "Eurofondy – Program Slovensko",
+   "zhoda_tem": true
+  },
+  {
+   "kategoria": "nadácia",
+   "nazov": "Sadíme budúcnosť otvára grantovú výzvu na jarné výsadby stromov",
+   "temy": [],
+   "url": "https://ekopolis.sk/2026/sadime-buducnost-otvara-jarnu-grantovu-vyzvu-na-vysadbu-stromov-mozete-ziskat-az-4-000-eur/",
+   "zdroj": "Nadácia Ekopolis",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Podpora európskych expertov v medzinárodnej digitálnej normalizácii (2026) Táto výzva financuje projekty zamerané na zriadenie riadiaceho centra a financovanie účasti a vedenia európskych expertov v oblasti globálnej digitálnej normalizácie, vrátane organizovania medzinárodných normalizač",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/podpora-europskych-expertov-v-medzinarodnej-digitalnej-normalizacii-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Grant na vývoj bezpečnej a výkonnej pokročilej AI (2026) Táto výzva financuje vývoj a školenia najmodernejších AI modelov na hranici súčasných možností, ako aj výskum v oblasti výpočtovej efektívnosti a metód bezpečnosti, ako sú kompresia, destilácia, automatizované testovanie a… Výška do",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/grant-na-vyvoj-bezpecnej-a-vykonnej-pokrocilej-ai-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Grant na vývoj hardvéru pre virtuálne svety (2026) Táto výzva financuje projekty v oblasti výskumu a inovácií, ktoré navrhujú a integrujú pokročilé XR headsety, nositeľné zariadenia, haptické komponenty a neinvazívne rozhrania mozog–počítač do plne testovaných zariadení, umožňujú… Výška d",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/grant-na-vyvoj-hardveru-pre-virtualne-svety-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Grant na energetickú efektívnosť dátových centier pre AI (2026) Táto výzva financuje pilotné projekty a európske demonštračné pracovisko pre energeticky efektívne a udržateľné spracovanie údajov s využitím umelej inteligencie v dátových centrách, vrátane pokročilého chladenia na úrovni či",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/grant-na-energeticku-efektivnost-datovych-centier-pre-ai-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": []
+}
