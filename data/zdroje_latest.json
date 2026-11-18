@@ -1,85 +1,8 @@
 {
  "datum": "2026-11-18",
  "obstaravania": [],
- "prepojenia": [
-  {
-   "datum": "18. November 2026",
-   "dodavatel": "Joshua Sein Lajčiak",
-   "firma": "Ing. arch. Róbert Lajčiak",
-   "nazov": "Dodatok č. 2 k Zmluve o dielo 2025259D2",
-   "obec": "",
-   "objednavatel": "Kreatívny inštitút Trenčín,n.o. Anglická verzia názvu je: Creative Institute Trenčín, n.o.",
-   "okres": "",
-   "relevantne": false,
-   "suma": "0,00 €",
-   "typ": "projektant",
-   "url": "https://www.crz.gov.sk/zmluva/13091692/"
-  }
- ],
+ "prepojenia": [],
  "prvy_beh": false,
- "vyzvy": [
-  {
-   "kategoria": "ministerstvo",
-   "nazov": "MIRRI SR: Čerpanie Programu Slovensko už presiahlo 3 miliardy eur, výzvy pokrývajú takmer 95 percent alokácie",
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "url": "https://mirri.gov.sk/aktuality/ministerstvo/mirri-sr-cerpanie-programu-slovensko-uz-presiahlo-3-miliardy-eur-vyzvy-pokryvaju-takmer-95-percent-alokacie/",
-   "zdroj": "MIRRI – regionálny rozvoj",
-   "zhoda_tem": true
-  },
-  {
-   "kategoria": "kraj",
-   "nazov": "18. 11. 2026 – Školstvo Špičkové dielne, CNC technika aj robotika: PSK modernizuje vranovskú strednú školu za 1,45 mil. eur Stredná odborná škola drevárska vo Vranove nad Topľou prechádza zásadnou obnovou. Zriaďovateľ Prešovský samosprávny kraj investuje do jej rozvoja a modernizácie 1,45 milióna eu",
-   "temy": [],
-   "url": "https://psk.sk/spickove-dielne-cnc-technika-aj-robotika-psk-modernizuje-vranovsku-strednu-skolu-za-145-mil-eur/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "kraj",
-   "nazov": "18. 11. 2026 – Región Unikátny systém RISK zjednodušuje prípravu eurofondových projektov, využíva ho už vyše 730 partnerov Prešovského kraja",
-   "temy": [],
-   "url": "https://psk.sk/unikatny-system-risk-zjednodusuje-pripravu-eurofondovych-projektov-vyuziva-ho-uz-vyse-730-partnerov-presovskeho-kraja/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "kraj",
-   "nazov": "Voľné pracovné miesto – Referent/tka administratívnej a prevádzkovej podpory pre Centrum podpory PSK (uzávierka 27. novembra 2026) 18. 11. 2026 – voľné pracovné miesto",
-   "temy": [],
-   "url": "https://psk.sk/referent-tka-administrativnej-a-prevadzkovej-podpory-centrum-podpory-psk/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "kraj",
-   "nazov": "Voľné pracovné miesto – Mzdový účtovník/mzdová účtovníčka pre Centrum podpory PSK (uzávierka 27. novembra 2026) 18. 11. 2026 – voľné pracovné miesto",
-   "temy": [],
-   "url": "https://psk.sk/mzdovy-uctovnik-mzdova-uctovnicka-centrum-podpory-psk/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "agregátor",
-   "nazov": "Dotácie pre podnikateľov na rok 2027 10.12.2026 10:00 – 11:00",
-   "temy": [],
-   "url": "https://www.grantexpert.sk/webinar/dotacie-pre-podnikatelov-na-rok-2027/",
-   "zdroj": "GrantExpert – prehľad výziev",
-   "zhoda_tem": false
-  }
- ],
- "zmluvy": [
-  {
-   "datum": "18. November 2026",
-   "dodavatel": "Slovanet a.s.",
-   "nazov": "Zmluva o poskytovaní verejne dostupných služieb MŠ a Ihrisko - internet 419/2026-2646",
-   "obec": "Dubová",
-   "objednavatel": "Obec Dubová",
-   "okres": "Svidník",
-   "projekcia": false,
-   "suma": "0,00 €",
-   "url": "https://www.crz.gov.sk/zmluva/13096044/"
-  }
- ]
+ "vyzvy": [],
+ "zmluvy": []
 }
