@@ -24,6 +24,8 @@ WORKERS = 24
 TIMEOUT = 20
 MAX_DOC_BYTES = 15 * 1024 * 1024
 MAX_DOCS_PER_OBEC = 15
+MAX_ATTACH_PER_ITEM = 3       # koľko príloh (PDF/DOC) otvoriť z jedného detailu oznamu
+ATTACH_RE = re.compile(r"download|subor|priloh|attachment|/files/|/uploads/|getfile|dokument\w*\.php|uloz", re.I)
 REDISCOVER_DAYS = 7
 UA = "Mozilla/5.0 (compatible; obce-bot/1.0; sledovanie uradnych tabul)"
 
@@ -44,6 +46,7 @@ SECTION_WORDS = [
 # témy, ktoré vieme zabezpečiť  ->  (názov, regex nad normalizovaným textom)
 TOPICS = [
     ("Detské ihrisko", r"\bihrisk\w*|\bdetsk\w* (hrac|ihr)\w*|hracie prvk\w*|hraci\w* prv\w*"),
+    ("Inkluzívne / bezbariérové", r"\binkluzivn\w* (detsk\w* )?(ihrisk|hrac|hern|prv|park|sportov)\w*|\bihrisk\w* pre vsetky deti|\bbezbarier\w* (detsk\w* )?(ihrisk|hrac|herne|prv)\w*"),
     ("Športovisko", r"\bsportovisk\w*|\bmultifunkcn\w*|\bsportov\w* (are|plo|zari|infra|park)\w*|\bpumptrack\w*|\bskatepark\w*"),
     ("Workout / fitness", r"\bworkout\w*|\bfitnes\w*|\bstreet ?workout|\bposilnov\w* (pod|pri|vonk)\w*|\bvonkajs\w* posil\w*"),
     ("Oplotenie", r"\boploten\w*|\bplot(u|y|om|ov|e)?\b|\bpletiv\w*|\b3d panel\w*"),
@@ -213,6 +216,35 @@ def doc_text(url):
         return ""
 
 
+def detail_text(url, boiler=frozenset(), skip_urls=frozenset()):
+    """HTML detail oznamu -> (text bez menu/pätičky + text príloh, zoznam príloh).
+    Ak URL nie je HTML, vráti doc_text."""
+    try:
+        r = get(url)
+    except Exception:
+        return "", []
+    ctype = r.headers.get("content-type", "").lower()
+    if "html" not in ctype:
+        return doc_text(url), []
+    s = soup_of(r)
+    atts = []
+    for l in links_of(s, r.url):
+        u = l["url"]
+        low = u.lower().split("?")[0]
+        if low.endswith(SKIP_EXT) or u == url or u in skip_urls:
+            continue
+        if low.endswith(DOC_EXT) or (ATTACH_RE.search(u) and same_site(u, r.url) and not low.endswith((".html", ".htm", "/"))):
+            if u not in atts:
+                atts.append(u)
+    lines = [x for x in page_lines(s) if norm(x) not in boiler]
+    text = " \n ".join(lines)[:30000]
+    for u in atts[:MAX_ATTACH_PER_ITEM]:
+        t = doc_text(u)
+        if t:
+            text += " \n [príloha] " + t[:40000]
+    return text, atts[:MAX_ATTACH_PER_ITEM]
+
+
 def snippets(text, rx, n=3):
     t = " ".join(text.split())
     nt = norm(t)
@@ -265,12 +297,17 @@ def check(obec, src, seen_urls, baseline, old_lines=None):
     old_lines = old_lines or {}
     page_state = {}
     changes = []
+    boiler = set()   # riadky, ktoré sú na sledovaných stránkach (menu, pätička) – v detailoch ich ignorujeme
     for page in src.get("pages", []):
         try:
             r = get(page)
         except Exception:
             continue
         s = soup_of(r)
+        try:
+            boiler.update(norm(x) for x in page_lines(BeautifulSoup(str(s), "lxml")))
+        except Exception:
+            pass
         page_new = page not in old_lines   # nová sledovaná podstránka = len zapamätať
         try:
             import hashlib
@@ -313,9 +350,18 @@ def check(obec, src, seen_urls, baseline, old_lines=None):
         body = ""
         # do dokumentu sa pozrieme, ak je to dokument zastupiteľstva/rozpočtu/oznam, alebo už nadpis trafil tému
         if checked < MAX_DOCS_PER_OBEC and (it["is_doc"] or topics or types):
-            body = doc_text(it["url"])
+            if it["is_doc"]:
+                body = doc_text(it["url"])
+            else:
+                # HTML detail oznamu: bez menu/pätičky + text príloh (program, uznesenia v PDF)
+                body, atts = detail_text(it["url"], boiler, all_urls)
+                if atts:
+                    it["prilohy"] = atts
             checked += 1
-            if body:
+            if body and not it["is_doc"]:
+                # pri HTML detaile rozhoduje vyčistený text + nadpis, nie kontext s menu
+                topics, types = classify(it["title"] + " " + body)
+            elif body:
                 t2, ty2 = classify(body)
                 topics = sorted(set(topics) | set(t2), key=[n for n, _ in TOPICS].index)
                 types = sorted(set(types) | set(ty2), key=[n for n, _ in DOCTYPES].index)
@@ -335,6 +381,7 @@ def check(obec, src, seen_urls, baseline, old_lines=None):
             "kod": obec["kod"], "title": it["title"], "url": it["url"], "zdroj": it["page"],
             "temy": topics, "typ": types, "sumy_eur": money(body) if body else [],
             "ukazky": list(dict.fromkeys(sn))[:5],
+            "prilohy": it.get("prilohy", []),
         })
     for ch in changes:
         sn = []

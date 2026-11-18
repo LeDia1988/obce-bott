@@ -1,0 +1,24 @@
+name: Kontakty obcí (mesačne)
+on:
+  schedule:
+    - cron: "40 2 1 * *"   # 1. deň v mesiaci
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency: obce-bot-kontakty
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: pip install -q requests beautifulsoup4 lxml
+      - run: python tools/kontakty.py
+      - run: |
+          git config user.name "obce-bot"
+          git config user.email "obce-bot@users.noreply.github.com"
+          git add data/kontakty.csv
+          git commit -m "Kontakty $(date +%F)" || echo "bez zmien"
+          for i in 1 2 3; do git pull -q --rebase origin main && git push && break; sleep 5; done
