@@ -20,7 +20,9 @@ import bot  # zdieľané: get, soup_of, doc_text, classify, snippets, money, nor
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, "data")
 BASE = "https://cuet.slovensko.sk"
-LIST_URL = BASE + "/en?page={}"
+LIST_URL = BASE + "/en?page={}"   # strana 1 = BASE + "/en" (s ?page=1 vracia chybu)
+RSS_URLS = [BASE + "/en/Rss", BASE + "/sk/Rss"]
+RSS_DEBUG = os.path.join(DATA, "cuet_rss_debug.xml")
 SEEN = os.path.join(DATA, "cuet_seen.json")
 OUT = os.path.join(DATA, "cuet_latest.json")
 DEBUG = os.path.join(DATA, "cuet_debug.html")
@@ -128,7 +130,12 @@ def main():
     nase = []
     for page in range(1, MAX_PAGES + 1):
         try:
-            r = bot.get(LIST_URL.format(page))
+            r = bot.get(BASE + "/en" if page == 1 else LIST_URL.format(page))
+            if "/chyba" in r.url or "can not be displayed" in r.text:
+                stats["chyby"].append(f"strana {page}: CUET vrátil chybovú stránku")
+                if page == 1:
+                    open(DEBUG, "w", encoding="utf-8").write(r.text)
+                break
         except Exception as e:
             stats["chyby"].append(f"strana {page}: {type(e).__name__}")
             break
@@ -157,6 +164,52 @@ def main():
         if datumy and max(datumy) < od:
             break
         time.sleep(PAUSE)
+
+    # RSS ako doplnkový zdroj (ak stránkovanie nepustí ďalej ako na 1. stranu)
+    for ru in RSS_URLS:
+        try:
+            rr = bot.get(ru)
+        except Exception as e:
+            stats["chyby"].append(f"RSS {ru}: {type(e).__name__}")
+            continue
+        if not os.path.exists(RSS_DEBUG):
+            open(RSS_DEBUG, "w", encoding="utf-8").write(rr.text[:200000])   # na doladenie parsera
+        rs = BeautifulSoup(rr.text, "xml")
+        n = 0
+        for itm in rs.find_all("item"):
+            link = (itm.find("link").get_text(strip=True) if itm.find("link") else "")
+            m = re.search(r"/dokument/([0-9a-f-]{36})", link)
+            if not m or m.group(1) in seen or any(x["uuid"] == m.group(1) for x in nase):
+                continue
+            n += 1
+            title = itm.find("title").get_text(" ", strip=True) if itm.find("title") else ""
+            desc = BeautifulSoup(itm.find("description").get_text(" ", strip=True), "lxml").get_text(" ", strip=True) if itm.find("description") else ""
+            text = title + "\n" + desc
+            inst = field(text, "institucia") or field(text, "autor")
+            o = idx.get(inst_key(inst)) if inst else None
+            if not o:   # inštitúcia nie je v popiskoch – hľadaj „Obec/Mesto X“ v texte
+                for mm in re.finditer(r"(?:Obec|Mesto|Mestská časť)\s+([A-ZÁČĎÉÍĽĹŇÓÔŔŠŤÚÝŽ][^,;:()\n]{1,40})", text):
+                    for cut in range(len(mm.group(1).split()), 0, -1):
+                        cand = " ".join(mm.group(1).split()[:cut])
+                        if inst_key(cand) in idx:
+                            o, inst = idx[inst_key(cand)], mm.group(0)
+                            break
+                    if o:
+                        break
+            if not o:
+                continue
+            pd = itm.find("pubDate")
+            d = parse_date(field(text, "od"))
+            if not d and pd:
+                try:
+                    d = datetime.datetime.strptime(pd.get_text(strip=True)[:16], "%a, %d %b %Y").date()
+                except ValueError:
+                    d = None
+            nase.append({"uuid": m.group(1), "url": link, "text": text, "obec": o, "institucia": inst, "datum": d,
+                         "nazov": field(text, "nazov") or title, "abstrakt": field(text, "abstrakt") or desc[:500],
+                         "spis": field(text, "spis")})
+        stats["rss_" + ru.rsplit("/", 2)[-2]] = n
+        break
 
     stats["nasich"] = len(nase)
     nalezy = []
