@@ -54,7 +54,7 @@ TOPICS = [
     ("Zastávka", r"\bzastavk\w*|\bautobusov\w* zastav\w*|\bprist\w*resk\w*"),
     ("Park / oddych", r"\boddychov\w* (zon|are|park)\w*|\bverejn\w* priestranstv\w*|\brevitaliz\w*|\bvolnocas\w*"),
     ("Turistická infraštruktúra", r"\bturistick\w* (infra|chodn|tras|odpoc|prist|smer|tabul|ciel)\w*|\bnaucn\w* chodnik\w*|\bcyklotras\w*|\bcyklochodnik\w*|\bcyklo ?(odpoc|stojan|servis)\w*|\brozhladn\w*|\bvyhliadk\w*|\bodpocivadl\w*"),
-    ("Edukačné tabule", r"\bedukacn\w* (tabul|panel|prv)\w*|\bnaucn\w* (tabul|panel)\w*|\binformacn\w* tabul\w*|\bkresliac\w* tabul\w*|\bexterierov\w* ucebn\w*|\bvonkajs\w* ucebn\w*|\bzelen\w* ucebn\w*"),
+    ("Edukačné tabule", r"\bedukacn\w* (tabul|panel|prv)\w*|\bnaucn\w* (tabul|panel)\w*|(?<!na )(?<!v )\binformacn\w* tabul\w*|\bkresliac\w* tabul\w*|\bexterierov\w* ucebn\w*|\bvonkajs\w* ucebn\w*|\bzelen\w* ucebn\w*"),
     ("Dotácia / výzva", r"\bihrisko pre kazde dieta\b|\benvirofond\w*|\bregionaln\w* prispev\w*|\bmirri\b|"
                         r"\bnenavratn\w* financn\w* prispev\w*|\bziadost\w* o (dotaci|nfp|poskytnut)\w*|\bfond na podporu sportu\b|"
                         r"\bprogram obnovy dediny\b|\bdotaci\w* (ksk|psk|z kosick|z presov)\w*|\bspolufinancovan\w*"),
