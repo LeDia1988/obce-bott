@@ -1,0 +1,147 @@
+
+
+
+
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Centrálna elektronická úradná tabuľa - RSS</title>
+    <meta name="description" content="Centrálna elektronická úradná tabula RSS" />
+    <meta name="keywords" content="Slovensko, Ústredný portál, Centrálna úradná elektronická tabula, CUET, RSS" />
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+
+<link href="/Content/Css/bundle?v=42S1Tu-l_fnfTzEcvZ1veFHNhelDM87spLowb68Y6vM1" rel="stylesheet"/>
+
+
+    <script src="/bundles/rss/jsbundle?v=2YNkiaI3wB8bAeyTLg-ecZRHxnJPy3ViIQFM2xN_zC41"></script>
+
+    <script src="/Content/jstree/bundle?v=2OCe4IXsI5joNpEFr5c8xELdNx5DaF4EUutaqZCkTP41"></script>
+
+    <script type="text/javascript" id="cookiebanner" src="/Content/cookie-banner/cookiebanner.js" data-cookie="CookieInfoScript" data-text-align="left"></script>
+
+</head>
+<body>
+    <!--noscript class="noScriptMessage">Pre správne fungovanie stránky povoľte Javascript vo Vašom prehliadači.
+    </noscript-->
+
+    
+<div id="header">
+    <div class="topNav">
+        <div class="topNavSize">
+            <div class="topLeftNav">
+                <ul class="navMenu">
+                            <li class="linkMojeSlovensko"><a href=https://nove.slovensko.sk>Enter beta.slovensko.sk</a><i class="fa-solid fa-arrow-up-right-from-square"></i></li>
+                </ul>
+            </div>
+            <div class="topRightNav">
+                <ul class="navMenu">
+                    <li class="contrastVersion"><a href="/en/Shared/ChangeContrast?returnUrl=%2Fen%2FRss">Change the contrast</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/titulna-stranka">Main Page</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/o-portali">About Portal</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/pomoc">Help</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/Kontakt">Contact</a></li>
+                        <li class="flag sk"><a class="culture-link" href="/en/Shared/ChangeCulture?lang=1&amp;returnUrl=%2Fen%2FRss">Slovensky</a></li>
+                    <li class="rss"><a href="/en/Rss">RSS CUET</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <a href="http://slovensko.sk" class="logo" title="Návrat na Slovensko.sk">
+            <img class="logo" src="/Content/Img/logo_main_slovensko.png" alt="Ústredný portál verejných služieb ľuďom"
+                 title="Prejsť na Slovensko.sk" />
+        </a><a href="/" id="cuetLogo" class="cuet_logo" title="Návrat na úvodnu stránku cuet.slovensko.sk">
+            <img class="cuet_logo" src="/Content/Img/cuet_logo.png" alt="Centrálna úradná elektronická tabula"
+                 title="Návrat na úvodnu stránku cuet.slovensko.sk" />
+        </a>
+    </div>
+</div>
+
+
+    <div id="contentWrapper" role="contentinfo">
+        <div class="hiddenElem">
+            <h1>RSS for Central Official Electronic Board</h1>
+        </div>
+
+        <div class="searchWrapper center">
+
+<form action="/en/Rss" id="RssInstitutionSearchForm" method="get" name="RssInstitutionSearchForm">                <h1 style="text-align:center">Search publisher&#39;s RSS feed</h1>
+                <div class="item1">
+                    <div><label class="searchLabel" for="PublisherName">Provide the name of publisher:</label></div>
+                    <div><input aria-autocomplete="inline" aria-haspopup="true" class="input-text-cuet" id="PublisherName" name="PublisherName" role="textbox" type="text" value="" /> <span class="elementInfo">Provide a name of the document publisher</span></div>
+                    <p id="publisher-name"></p><p id="publisher-description"></p>
+                </div>
+                <div class="item1 toggler">
+                    <ul class="arrow">
+                        <li id="jstreeIcon" class="closed"><a href="#" class="displayTabName" id="jstreeToggler"><span class="searchCategory">Search by locality and category of institution</span></a></li>
+                    </ul>
+                </div>
+                <div id="jstreeDisplay">
+                    <div class="item2tree treeOuterWrapper">
+                        <div class="metadataLabelName">Institution locality</div>
+                        <div class="treeWrapper">
+
+                            <div id="jstree_location">
+                            </div>
+                        </div>
+                        <div class="treeControl">
+                            <div class="treeCancel">
+                                <a id="localityDeselector" href="#" class="input-button-red-link">Cancel selection</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <input id="LocalityCode" name="LocalityCode" type="hidden" value="" />
+
+                    <div class="item2tree treeOuterWrapper">
+                        <div class="metadataLabelName">Institution category</div>
+                        <div class="treeWrapper">
+                            <div id="jstree_category">
+                            </div>
+                        </div>
+                        <div class="treeControl">
+                            <div class="treeCancel">
+                                <a id="categoryDeselector" href="#" class="input-button-red-link">Cancel selection</a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <input id="CategoryCode" name="CategoryCode" type="hidden" value="" />
+
+                </div>
+                <div class="item2 button">
+                    <div><input type="submit" value="Search" class="input-button-red" /></div>
+                </div>
+                <div class="item2 button">
+                    <a class="input-button-red-link" href="./">Back to CUET</a>
+                </div>
+</form>        </div>
+
+
+    </div>
+
+    
+
+<div id="footer">
+    <div class="footerWrapper">
+        <div class="legal">
+            <div class="copyright">
+                © 2013 - 2026, Slovensko.sk
+                <br />
+                Information published at www.slovensko.sk are not legally binding.
+            </div>
+            <div class="operator">
+                Provider and webmaster of the portal is<br />
+                <a href="https://www.nases.gov.sk/kontakt/index.html">Národná agentúra pre sieťové a elektronické služby</a>.
+            </div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

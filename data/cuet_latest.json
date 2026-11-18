@@ -1,13 +1,608 @@
 {
  "datum": "2026-11-18",
- "vygenerovane": "2026-11-18T20:36:35",
+ "vygenerovane": "2026-11-18T21:03:02",
  "obdobie_od": "2026-11-15",
  "prvy_beh": true,
- "strany": 1,
- "dokumenty": 0,
- "nasich": 0,
- "chyby": [
-  "strana 1 bez položiek – HTML uložené do data/cuet_debug.html"
- ],
- "nalezy": []
+ "strany": 67,
+ "dokumenty": 655,
+ "nasich": 62,
+ "chyby": [],
+ "rss_en": 0,
+ "nalezy": [
+  {
+   "zdroj": "CUET",
+   "obec": "Chmeľnica",
+   "statut": "OBEC",
+   "okres": "Stará Ľubovňa",
+   "kraj": "Prešovský kraj",
+   "kod": "526754",
+   "institucia_cuet": "Obec Chmeľnica",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh rozpočtu obce na rok 2027 s výhľadom na roky",
+   "url": "https://cuet.slovensko.sk/en/dokument/b4fee781-8850-4a7d-82f3-439c4e113d4b",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/c13bf910-b569-4931-9115-f1dd1160ea9b",
+    "https://cuet.slovensko.sk/en/priloha/uloz/8ca24e58-8dce-41aa-83a7-505e2ed7fff1"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
+    "Park / oddych",
+    "Turistická infraštruktúra",
+    "Dotácia / výzva"
+   ],
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…8 2029 2028 2024 2029 2024 2029 2024 1BA2 R 322001 TECH Komunálna technika 7 016,28 3AG1 R 322001 Prázdne stredisko 27 975,41 3AG1 R 322001 IHRISKO Dotácia-multifunkč.ihrisko 20 316,06 3AG1 R 322001 REC Revitalizácia cintorína 70 215,13 3AG2 R 322001 Prázdne stredisko 9 325,13 3AG2 R 322001 REC Revitalizác…",
+    "…2029 2024 1BA2 R 322001 TECH Komunálna technika 7 016,28 3AG1 R 322001 Prázdne stredisko 27 975,41 3AG1 R 322001 IHRISKO Dotácia-multifunkč.ihrisko 20 316,06 3AG1 R 322001 REC Revitalizácia cintorína 70 215,13 3AG2 R 322001 Prázdne stredisko 9 325,13 3AG2 R 322001 REC Revitalizácia cintorína 23 405,04 3220…",
+    "…ubytovanie 8 017,68 11 651,85 22 800,- 22 800,- 10 000,- 10 000,- 10 000,- 41 R 133012 Prázdne stredisko 134,- 108,- 133012 Dan za uzivanie verejneho priestranstva 134,- 108,- 41 R 133013 TKO Poplatok za vývoz TKO 33 747,49 39 015,19 39 300,- 39 300,- 39 200,- 39 200,- 39 200,- 133013 Dan za komunalne odpady a drobne stav…",
+    "…na technika 7 016,28 3AG1 R 322001 Prázdne stredisko 27 975,41 3AG1 R 322001 IHRISKO Dotácia-multifunkč.ihrisko 20 316,06 3AG1 R 322001 REC Revitalizácia cintorína 70 215,13 3AG2 R 322001 Prázdne stredisko 9 325,13 3AG2 R 322001 REC Revitalizácia cintorína 23 405,04 322001 Zo ŠR- revitalizácia cintorína 20 316,0…",
+    "…130,- 3 130,- 2 643,- 2 643,- 2 643,- 0443 Výstavba 3 070,88 5 475,45 3 130,- 3 130,- 2 643,- 2 643,- 2 643,- 1BA1 R 0451 611 Tarifný plat- cyklotrasa 41 R 0451 611 TARIF.,OS.,ZAKL.,PLAT, FUNK.PLAT POLICAJ 0451 611 TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P 1BA1 R 0451 621 POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤ…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 03.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/289f9804-550b-4700-82a6-e8578643a2c9",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/34d59475-6aef-417f-8152-4e36d34d8a3d"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 01.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/25480f49-1b5d-41a4-a6a2-84df376aeb9e",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/4a7e1545-0ac8-4401-82cb-1fd564b785c1"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 09.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/882b2d96-9cae-4c4c-98bb-742540232799",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/95953bdd-d693-46c1-bb10-ac3b75a8e4f2"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 08.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/9733680b-12bb-4b0e-9d60-41f9abfdafc3",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/f3caec3f-8a17-4743-a2af-fc40da271e14"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 02.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/43251fa8-764e-4b15-a324-3035a29c1ab9",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/18ebb34d-9328-43dc-a4de-64e1fdefe09b"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 04.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/4b0093a9-c749-4006-98c5-291341fbc986",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/6d2270a3-d645-4a1a-83e3-8107e66c7efd"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 07.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/ab68d1ee-ffd1-4557-809a-18b08a49a981",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/31d609b7-6ac9-43f5-87c6-a3ade4a91868"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Michalovce",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "522279",
+   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Prerušenie distribúcie el. energie - 08.12.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/a004f1d4-41e0-44a9-8bfa-185eb09b5537",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/da3d472d-588e-457f-a858-fe8e00613307"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Edukačné tabule"
+   ],
+   "typ": [],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…uprácu pri informovaní občanov o plánovanej odstávke miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na jeho charakter považujeme za oznámenie vo verejnom záujme. Urobíme všetko preto,…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Prešov",
+   "statut": "MESTO",
+   "okres": "Prešov",
+   "kraj": "Prešovský kraj",
+   "kod": "524140",
+   "institucia_cuet": "Mesto Prešov (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh Všeobecne záväzného nariadenia mesta Prešov",
+   "url": "https://cuet.slovensko.sk/en/dokument/df3d896b-6723-48df-952b-5a653c3526cb",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/204ea2e5-014d-448b-8996-cabff8e3ef9f"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "OVS/185/164683/2026",
+   "temy": [
+    "Park / oddych"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…Návrh Všeobecne záväzného nariadenia mesta Prešov Návrh Všeobecne záväzného nariadenia mesta Prešov č. .../2026 o určení názvu verejného priestranstva v meste Prešov. Central official electronic board - document Enter beta.slovensko.sk Change the contrast Main Page About Portal Help Contact Slovensky RSS CUET…",
+    "…ov Document type: Iný elektronický dokument Document abstract: Návrh Všeobecne záväzného nariadenia mesta Prešov č. .../2026 o určení názvu verejného priestranstva v meste Prešov. Checksum of request Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML docume…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Lažany",
+   "statut": "OBEC",
+   "okres": "Prešov",
+   "kraj": "Prešovský kraj",
+   "kod": "524735",
+   "institucia_cuet": "Obec Lazany (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh - Všeobecne záväzné nariadenie obce Lazany č. 3/2026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v obci Lazany na rok 2027",
+   "url": "https://cuet.slovensko.sk/en/dokument/7201b62b-910e-403a-ba92-264300327790",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/0c6649c1-112c-42eb-84ee-ffb645789ec1"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Park / oddych"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [
+    1507.0,
+    1050.0
+   ],
+   "ukazky": [
+    "…omunálne odpady a drobné stavebné odpady ukladá na svojom území: 1. miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za ubytovanie, e) daň za predajné automaty, f) daň za nevýherné hracie prístroje. 2. miestny poplatok za komunálne odpady a drobné stavebné odpady (ďal…",
+    "… 1. Správca dane znižuje sadzbu dane na 11 € za jedného psa a kalendárny rok pre psa chovaného v rodinnom dome. TRETIA ČASŤ DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA § 10 Určenie verejných priestranstiev 1. Verejným priestranstvom pre účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Lazany, a to: a) hlavn…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Lažany",
+   "statut": "OBEC",
+   "okres": "Prešov",
+   "kraj": "Prešovský kraj",
+   "kod": "524735",
+   "institucia_cuet": "Obec Lazany (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh rozpočtu obce Lazany na roky 2027-2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/511eab56-bfd5-4afe-99a6-08ed6912987f",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/97a6fc6a-fdfc-4109-bf5b-45b2b5c90624",
+    "https://cuet.slovensko.sk/en/priloha/uloz/86b8e891-4d54-4304-bb7c-09cb1caa3cb4",
+    "https://cuet.slovensko.sk/en/priloha/uloz/1240aef5-82bc-4044-9495-df358a8c6663"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Workout / fitness",
+    "Park / oddych"
+   ],
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…02.00 402.00 402.00 212003 41 Nájom DR 445.00 445.00 445.00 212003 41 Nájom Pizzéria a za Terasu 1 735.00 1 735.00 1 735.00 212003 41 Nájom ihrisko umelá tráva 20.00 20.00 20.00 212003 41 Nájom ihrisko šatne a bufet 100.00 100.00 100.00 212003 41 Nájom Lastovková predajňa rozličného tovaru 495.00 495.00 49…",
+    "…45.00 212003 41 Nájom Pizzéria a za Terasu 1 735.00 1 735.00 1 735.00 212003 41 Nájom ihrisko umelá tráva 20.00 20.00 20.00 212003 41 Nájom ihrisko šatne a bufet 100.00 100.00 100.00 212003 41 Nájom Lastovková predajňa rozličného tovaru 495.00 495.00 495.00 212003 41 Nájom Times Networks 20.00 20.00 20.00 …",
+    "…6.4.0 637015 41 VO poistenie 319.00 319.00 319.00 08.1.0 632002 41 Ihrisko-šatne - vodné, stočné 500.00 500.00 500.00 08.1.0 632006 41 EE - športový areál - šatne 3 500.00 3 500.00 3 500.00 Vytlačené 16.11.2026 sa 31-955341436 Obec Lazany Návrh finančného rozpočtu na roky 2027, 2028, 2029 Strana 5 Obecný úrad Dru…",
+    "…ky poplatok 300.00 300.00 300.00 212002 41 Príjem z prenájmu pozemkov PD Horná Nitra 307.00 307.00 307.00 212003 41 Nájom ProMedis Pharma - Fitness 1 578.00 1 578.00 1 578.00 212003 41 Nájom EVA kaderníctvo - Ertelová 378.00 378.00 378.00 212003 41 Nájom KD a VZ L 59 1 000.00 1 000.00 1 000.00 212003 41 Ná…",
+    "…2.0 625007 41 KN - poistenie do rezervného fondu solidarity 700.00 700.00 700.00 08.2.0 632002 41 KD - vodné, stočné-VL 60 starý, Pizzéria, Fitness 1 450.00 1 450.00 1 450.00 08.2.0 632006 41 EE - KD (aj za Pharma a aj za Pizzériu) 4 000.00 4 000.00 4 000.00 08.2.0 633004 41 KD - stroje, prístroje, náradie…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Strážske",
+   "statut": "MESTO",
+   "okres": "Michalovce",
+   "kraj": "Košický kraj",
+   "kod": "523101",
+   "institucia_cuet": "Mesto Strážske (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Oznámenie verejnou vyhláškou o začatí kolaudačného",
+   "url": "https://cuet.slovensko.sk/en/dokument/122d2b20-8a5f-4240-a4fe-5850997b5ecd",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/76d5224d-9b75-4262-a07f-e237ca5aacca"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Oplotenie",
+    "Zastávka"
+   ],
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…prístrešok pre cestujúcich SO 06-34-05 Strážske – Humenné, KTM Humenné, základy pre kontajnery SO 06-34-06 Strážske – Humenné, KTM Humenné, oplotenie SO 06-34-07 Strážske – Humenné, KTM Humenné, anténny stožiar Trakčné vedenie a energetika SO 06-35-01 Strážske – Humenné, trakčné vedenie SO 06-35-02 Strážske …",
+    "…3 Strážske – Humenné, železničný zvršok, demontáž SO 06-32-04 Strážske – Humenné, káblová chráničková trasa SO 06-32-05 Strážske – Humenné, zastávka Brekov, nástupište SO 06-32-06 Strážske – Humenné, priecestie žkm 59,143, rekonštrukcia SO 06-32-09 Strážske – Humenné, priecestie žkm 61,378, rekonštrukcia SO…",
+    "…464, rekonštrukcia SO 06-33-07 Strážske – Humenné, železničný most žkm 62,628, rekonštrukcia Pozemné stavby SO 06-34-01 Strážske – Humenné, zastávka Brekov, prístrešok pre cestujúcich SO 06-34-05 Strážske – Humenné, KTM Humenné, základy pre kontajnery SO 06-34-06 Strážske – Humenné, KTM Humenné, oplotenie S…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Humenné",
+   "statut": "MESTO",
+   "okres": "Humenné",
+   "kraj": "Prešovský kraj",
+   "kod": "520004",
+   "institucia_cuet": "Mesto Humenné (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Oznámenie VV",
+   "url": "https://cuet.slovensko.sk/en/dokument/19d49e99-86f2-4284-9ff0-2cac83986a40",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/f5f45524-052e-4f1b-880d-2b8945e9fc9e"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "5148/44445/2026/OOVSVP/Vet",
+   "temy": [
+    "Zastávka"
+   ],
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…é, zastrešenie nástupišťa – odvodnenie SO 07-34-04 ŽST Humenné, kábelovod SO 07-34-05 ŽST Humenné, anténny stožiar SO 07-34-08 ŽST Humenné, zastávka Humenné mesto, prístrešky pre cestujúcich Trakčné vedenie a energetika SO 07-35-01 ŽST Humenné, trakčné vedenie SO 07-35-01.1 ŽST Humenné, vratná stanica EOTV …",
+    "…a – odvodnenie SO 07-34-04 ŽST Humenné, kábelovod SO 07-34-05 ŽST Humenné, anténny stožiar SO 07-34-08 ŽST Humenné, zastávka Humenné mesto, prístrešky pre cestujúcich Trakčné vedenie a energetika SO 07-35-01 ŽST Humenné, trakčné vedenie SO 07-35-01.1 ŽST Humenné, vratná stanica EOTV SO 07-35-02 ŽST Humenné, u…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Humenné",
+   "statut": "MESTO",
+   "okres": "Humenné",
+   "kraj": "Prešovský kraj",
+   "kod": "520004",
+   "institucia_cuet": "Mesto Humenné (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Verejná vyhláška",
+   "url": "https://cuet.slovensko.sk/en/dokument/d5b12082-a8bd-40c7-84a3-18d98e486735",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/0f4d1246-d799-406e-bf63-78352336676c"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "5146/44439/2026/OOVSVP/Vet",
+   "temy": [
+    "Oplotenie",
+    "Zastávka"
+   ],
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…prístrešok pre cestujúcich SO 06-34-05 Strážske – Humenné, KTM Humenné, základy pre kontajnery SO 06-34-06 Strážske – Humenné, KTM Humenné, oplotenie SO 06-34-07 Strážske – Humenné, KTM Humenné, anténny stožiar Trakčné vedenie a energetika SO 06-35-01 Strážske – Humenné, trakčné vedenie SO 06-35-02 Strážske …",
+    "…3 Strážske – Humenné, železničný zvršok, demontáž SO 06-32-04 Strážske – Humenné, káblová chráničková trasa SO 06-32-05 Strážske – Humenné, zastávka Brekov, nástupište SO 06-32-06 Strážske – Humenné, priecestie žkm 59,143, rekonštrukcia SO 06-32-09 Strážske – Humenné, priecestie žkm 61,378, rekonštrukcia SO…",
+    "…464, rekonštrukcia SO 06-33-07 Strážske – Humenné, železničný most žkm 62,628, rekonštrukcia Pozemné stavby SO 06-34-01 Strážske – Humenné, zastávka Brekov, prístrešok pre cestujúcich SO 06-34-05 Strážske – Humenné, KTM Humenné, základy pre kontajnery SO 06-34-06 Strážske – Humenné, KTM Humenné, oplotenie S…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Spišská Teplica",
+   "statut": "OBEC",
+   "okres": "Poprad",
+   "kraj": "Prešovský kraj",
+   "kod": "523844",
+   "institucia_cuet": "Obec Spišská Teplica (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Informácia pre verejnosť o ROZHODNUTÍ",
+   "url": "https://cuet.slovensko.sk/en/dokument/4de67f31-b9d9-4fba-9f4d-f3d2ab4b0a19",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/2c4b6a97-f5af-4114-8b9e-95bf50b06f2d",
+    "https://cuet.slovensko.sk/en/priloha/uloz/77517efc-3133-4d9b-aa8b-4aedd6e043fd"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
+    "Oplotenie",
+    "Turistická infraštruktúra"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": true,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…/7, 5033/8, 5033/9 3. KN-C 2840/2 Orná pôda zmiešané územie občianskej vybavenosti a výroby 4. KN-C 5509 (TTP) Orná pôda Rekreačné plochy a detské ihriská 5. KN-C 713/1, 713/3, Hospodárska zeleň Plochy pre výstavbu 716/2, 709, 710 v obytnej zóne rodinných domov 6. KN-C 572, 576, 575, Hospodárska zeleň Plochy pre …",
+    "…N-C č. 4540 t. j., že funkčná plocha nesiaha až na hranicu s vodným tokom Potôčky. 2. V prípade ďalších návrhov funkčných plôch rekreácie a detských ihrísk v nadväznosti na Lokalitu 4 bude potrebné z dôvodu tohto krajinársky hodnotného územia vypracovať krajinársko – urbanistickú štúdiu, ktorá navrhne komplexné ri…",
+    "…oku. Do vymedzeného pobrežného pozemku nie je možné umiestňovať zariadenia a vedenia technickej infraštruktúry, stavby trvalého charakteru, oplotenie, súvislú vzrastlú zeleň, ani ho inak poľnohospodársky obhospodarovať. Odôvodnenie Obstarávateľ – Obec Spišská Teplica, Obrancov mieru 3, 059 34 Spišská Teplica…",
+    "…oku. Do vymedzeného pobrežného pozemku nie je možné umiestňovať zariadenia a vedenia technickej infraštruktúry, stavby trvalého charakteru, oplotenie, súvislú vzrastlú zeleň, ani ho inak poľnohospodársky obhospodarovať. Stanovisko príslušného orgánu: Príslušný orgán vyhodnotil stanovisko dotknutého orgánu ak…",
+    "…pre výstavbu 574, 546/4, 560/1, 558, v obytnej ploche rodinných domov, 559, 548 miestna cesta 7. KN-E 1292/3 - Funkcia bez zmeny, doplnenie cyklochodníka 8. KN-C 937, 938/1, 938/2, Orná pôda, plochy Plochy pre výstavbu 939/1, 2077, 2178, 2179, poľnohospodárskej rodinných domov, 2180, 2181, 2182, 2183, výroby Plo…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Liptovská Teplička",
+   "statut": "OBEC",
+   "okres": "Poprad",
+   "kraj": "Prešovský kraj",
+   "kod": "523631",
+   "institucia_cuet": "Obec Liptovská Teplička (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Zápisnica OZ zo dňa 11.11.2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/f02b4e77-0f41-4145-858e-d1b38bf7c206",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/5e43b9c8-4ecc-4610-a99b-43a124fbc559"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Park / oddych",
+    "Dotácia / výzva"
+   ],
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": true,
+   "firmy": [],
+   "sumy_eur": [
+    149998.0,
+    127498.0,
+    109338.0,
+    70000.0,
+    28013.0
+   ],
+   "ukazky": [
+    "…€, celková hodnota projektu približne 149 998 €. Projekt počíta s digitálnou prezentáciou obce, kioskom, tabletmi a virtuálnym obsahom. 6  Revitalizácia trhoviska: obec získala dotáciu 15 000 €. Projektová dokumentácia predpokladá vyššie celkové náklady; obec plánuje realizovať práce podľa dostupných zdrojov. …",
+    "…se zasadnutia v procese hodnotenia.  Požiarna zbrojnica: podaná žiadosť o dotáciu do výšky 70 000 €, s predpokladanou spoluúčasťou obce.  Revitalizácia zelenej infraštruktúry: starosta informoval o získaní finančných prostriedkov na úpravu verejných priestranstiev.  Úprava potoka: žiadosť v procese hodnotenia…",
+    "… financovanie opravy havarijného stavu podláh a stropov; žiadosti boli v čase zasadnutia v procese hodnotenia.  Požiarna zbrojnica: podaná žiadosť o dotáciu do výšky 70 000 €, s predpokladanou spoluúčasťou obce.  Revitalizácia zelenej infraštruktúry: starosta informoval o získaní finančných prostriedkov na úpravu …",
+    "… V diskusii bola uvedená celková výška oprávnených výdavkov približne 4,26 mil. €, požadovaná dotácia približne 3,92 mil. € a predpokladané spolufinancovanie obce približne 340 tis. €.  Kováčska dielňa: podaná žiadosť v rámci cezhraničnej spolupráce; projekt sa týka obnovy objektu a jeho okolia.  Spoločenský dom: …"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Liptovská Teplička",
+   "statut": "OBEC",
+   "okres": "Poprad",
+   "kraj": "Prešovský kraj",
+   "kod": "523631",
+   "institucia_cuet": "Obec Liptovská Teplička (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Rozpočtové opatrenie č. 6/2026",
+   "url": "https://cuet.slovensko.sk/en/dokument/f23e586f-16c5-4d4c-a1a3-0e5b1e817fbf",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/265606a1-0ee5-452d-a1d0-e969a6505669"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Park / oddych"
+   ],
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…e č. 6/2026 schválené uznesením OcZ č. 9/11/2026 dňa 11.11.2026 Príjmy Ekon.klas.Popis položky Rozpočet Úprava Rozdiel: 130 Daň za užívanie verejného priestranstva 6 400,00 7 400,00 1 000,00 210 Správne poplatky 7 800,00 8 800,00 1 000,00 210 Nájom hrobového miesta 2 200,00 5 200,00 3 000,00 220 Príjem z pokút 0,00 600,00…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Brekov",
+   "statut": "OBEC",
+   "okres": "Humenné",
+   "kraj": "Prešovský kraj",
+   "kod": "520055",
+   "institucia_cuet": "Obec Brekov (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "Verejná vyhláška",
+   "url": "https://cuet.slovensko.sk/en/dokument/d1322641-69f0-4de9-bbad-b9cca30e5bb2",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/8dae5538-3adc-4a64-af9f-a1bf97ce412b"
+   ],
+   "zverejnene": "2026-11-18",
+   "spis": "",
+   "temy": [
+    "Oplotenie",
+    "Zastávka"
+   ],
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…prístrešok pre cestujúcich SO 06-34-05 Strážske – Humenné, KTM Humenné, základy pre kontajnery SO 06-34-06 Strážske – Humenné, KTM Humenné, oplotenie SO 06-34-07 Strážske – Humenné, KTM Humenné, anténny stožiar Trakčné vedenie a energetika SO 06-35-01 Strážske – Humenné, trakčné vedenie SO 06-35-02 Strážske …",
+    "…3 Strážske – Humenné, železničný zvršok, demontáž SO 06-32-04 Strážske – Humenné, káblová chráničková trasa SO 06-32-05 Strážske – Humenné, zastávka Brekov, nástupište SO 06-32-06 Strážske – Humenné, priecestie žkm 59,143, rekonštrukcia SO 06-32-09 Strážske – Humenné, priecestie žkm 61,378, rekonštrukcia SO…",
+    "…464, rekonštrukcia SO 06-33-07 Strážske – Humenné, železničný most žkm 62,628, rekonštrukcia Pozemné stavby SO 06-34-01 Strážske – Humenné, zastávka Brekov, prístrešok pre cestujúcich SO 06-34-05 Strážske – Humenné, KTM Humenné, základy pre kontajnery SO 06-34-06 Strážske – Humenné, KTM Humenné, oplotenie S…"
+   ]
+  }
+ ]
 }
