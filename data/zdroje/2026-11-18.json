@@ -1,0 +1,54 @@
+{
+ "datum": "2026-11-18",
+ "obstaravania": [
+  {
+   "cpv": "Stavebné práce na stavbe plôch pre parky",
+   "datum": "17.11.2026",
+   "nazov": "Revitalizácia lokality Hrádok II. etapa",
+   "nuts": "Košický kraj",
+   "obec": "Michalovce",
+   "obstaravatel": "Mesto Michalovce",
+   "okres": "Michalovce",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/568342?cHash=09053257743207b3f3197f9a5cf9c97c",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Vyhlásená výzva z Programu Slovensko podporí inovácie a digitalizáciu v regiónoch",
+   "temy": [],
+   "url": "https://mirri.gov.sk/aktuality/digitalna-agenda/vyhlasena-vyzva-z-programu-slovensko-podpori-inovacie-a-digitalizaciu-v-regionoch-2/",
+   "zdroj": "MIRRI – regionálny rozvoj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Vyhlásená výzva z Programu Slovensko podporí inovácie a digitalizáciu v regiónoch",
+   "temy": [],
+   "url": "https://mirri.gov.sk/aktuality/digitalna-agenda/vyhlasena-vyzva-z-programu-slovensko-podpori-inovacie-a-digitalizaciu-v-regionoch/",
+   "zdroj": "MIRRI – regionálny rozvoj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Od diagnostiky k lepšej podpore detí: VÚDPaP organizuje 7. ročník konferencie 3×KaM",
+   "temy": [],
+   "url": "https://www.minedu.sk/od-diagnostiky-k-lepsej-podpore-deti-vudpap-organizuje-7-rocnik-konferencie-3kam/",
+   "zdroj": "Ministerstvo školstva (MŠVVaM)",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "eurofondy",
+   "nazov": "Vyhlásená výzva z Programu Slovensko podporí inovácie a digitalizáciu v regiónoch",
+   "temy": [],
+   "url": "https://eurofondy.gov.sk/vyhlasena-vyzva-z-programu-slovensko-podpori-inovacie-a-digitalizaciu-v-regionoch/",
+   "zdroj": "Eurofondy – Program Slovensko",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": []
+}
