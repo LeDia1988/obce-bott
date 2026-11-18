@@ -1,0 +1,13 @@
+{
+ "datum": "2026-11-18",
+ "vygenerovane": "2026-11-18T20:21:18",
+ "obdobie_od": "2026-11-15",
+ "prvy_beh": true,
+ "strany": 1,
+ "dokumenty": 0,
+ "nasich": 0,
+ "chyby": [
+  "strana 1 bez položiek – HTML uložené do data/cuet_debug.html"
+ ],
+ "nalezy": []
+}
