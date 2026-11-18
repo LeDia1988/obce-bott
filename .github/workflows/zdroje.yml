@@ -1,4 +1,4 @@
-name: Len obstarávania a výzvy (ručne)
+name: Len obstarávania, výzvy a CUET (ručne)
 on: { workflow_dispatch: {} }
 permissions: { contents: write }
 concurrency: obce-bot-zdroje
@@ -12,6 +12,9 @@ jobs:
         with: { python-version: "3.12" }
       - run: pip install -q requests beautifulsoup4 lxml
       - run: python zdroje.py
+      - run: sudo apt-get install -y -qq poppler-utils || true
+      - run: python cuet.py
+        continue-on-error: true
       - run: |
           git config user.name "obce-bot"
           git config user.email "obce-bot@users.noreply.github.com"
