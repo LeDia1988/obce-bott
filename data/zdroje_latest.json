@@ -1,8 +1,80 @@
 {
- "datum": "2026-11-19",
- "obstaravania": [],
- "prepojenia": [],
+ "datum": "2026-11-20",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "19.11.2026",
+   "nazov": "Zimná údržba miestnych a účelových ciest, chodníkov, prístupov k zastávkam MHD a verejných priestranstiev na území mestskej časti Košice - Sídlisko KVP",
+   "nuts": "",
+   "obec": "Košice - Sídlisko Kvp",
+   "obstaravatel": "Mestská časť Košice - Sídlisko KVP",
+   "okres": "Košice",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/567548?cHash=046957efa9fb2a5d7dfd950273c4cb98",
+   "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "Stavebné práce",
+   "datum": "19.11.2026",
+   "nazov": "Cyklotrasy po hrádzach Košického kraja - Hrádze rieky Latorica, 2. etapa (Zatín – Ptrukša)",
+   "nuts": "Košický kraj",
+   "obec": "",
+   "obstaravatel": "Košický samosprávny kraj",
+   "okres": "",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/561284?cHash=020bd621945cbfe5c650069298bf3233",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [
+  {
+   "datum": "19. November 2026",
+   "dodavatel": "Boháč Ján, Domaničová Janette",
+   "firma": "Ing. arch. Ivan Boháč",
+   "nazov": "Zmluva o nájme bytu č. NZ/189/2026/PB 2026003206",
+   "obec": "",
+   "objednavatel": "Mesto Košice",
+   "okres": "",
+   "relevantne": false,
+   "suma": "3 076,56 €",
+   "typ": "projektant",
+   "url": "https://www.crz.gov.sk/zmluva/13097273/"
+  }
+ ],
  "prvy_beh": false,
- "vyzvy": [],
+ "vyzvy": [
+  {
+   "kategoria": "fond",
+   "nazov": "Výzva MoF – 8/2026: Čestné vyhlásenia ku aktivite F2",
+   "temy": [],
+   "url": "https://envirofond.sk/2026/11/20/vyzva-mof-8-2026-cestne-vyhlasenia-ku-aktivite-f2/",
+   "zdroj": "Environmentálny fond",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "vláda",
+   "nazov": "R. Fico: Obnovené Letisko Sliač je výsledkom našej vlády",
+   "temy": [],
+   "url": "https://www.vlada.gov.sk/tlacove-spravy/r-fico-obnovene-letisko-sliac-je-vysledkom-nasej-vlady/",
+   "zdroj": "Úrad vlády SR",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "eurofondy",
+   "nazov": "Čerpanie Programu Slovensko už presiahlo 3 miliardy eur, výzvy pokrývajú takmer 95 percent alokácie",
+   "temy": [],
+   "url": "https://eurofondy.gov.sk/cerpanie-programu-slovensko-uz-presiahlo-3-miliardy-eur-vyzvy-pokryvaju-takmer-95-percent-alokacie/",
+   "zdroj": "Eurofondy – Program Slovensko",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "Pripomienkové konanie – NÁVRH – VZN PSK č. xxx/2026 o poskytovaní dotácií z vlastných príjmov Prešovského samosprávneho kraja (uzávierka pripomienok 30.11.2026) 20. 11. 2026 – pripomienkovanie",
+   "temy": [],
+   "url": "https://psk.sk/navrh-vzn-psk-c-xxx-2026-o-poskytovani-dotacii-z-vlastnych-prijmov-presovskeho-samospravneho-kraja/",
+   "zdroj": "Prešovský samosprávny kraj",
+   "zhoda_tem": false
+  }
+ ],
  "zmluvy": []
 }
