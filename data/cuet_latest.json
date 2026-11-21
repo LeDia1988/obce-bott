@@ -1,38 +1,12 @@
 {
- "datum": "2026-11-20",
- "vygenerovane": "2026-11-20T12:54:09",
- "obdobie_od": "2026-11-17",
+ "datum": "2026-11-21",
+ "vygenerovane": "2026-11-21T12:26:41",
+ "obdobie_od": "2026-11-18",
  "prvy_beh": false,
- "strany": 80,
- "dokumenty": 800,
- "nasich": 10,
+ "strany": 45,
+ "dokumenty": 436,
+ "nasich": 0,
  "chyby": [],
  "rss_en": 0,
- "nalezy": [
-  {
-   "zdroj": "CUET",
-   "obec": "Prešov",
-   "statut": "MESTO",
-   "okres": "Prešov",
-   "kraj": "Prešovský kraj",
-   "kod": "524140",
-   "institucia_cuet": "Mesto Prešov (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Prerušenie distribúcie elektriny",
-   "url": "https://cuet.slovensko.sk/en/dokument/3d69243b-ac10-4556-832d-575137b2820a",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/b42a39d9-e773-4154-9f17-ebe892c241e1"
-   ],
-   "zverejnene": "2026-11-20",
-   "spis": "OVS/185/164683/2026",
-   "temy": [
-    "Edukačné tabule"
-   ],
-   "typ": [],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": []
-  }
- ]
+ "nalezy": []
 }
