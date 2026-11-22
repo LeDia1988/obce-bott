@@ -1,0 +1,50 @@
+Odkazy na jednotlivé webové sídla orgánov verejnej moci nájdete na tomto odkaze | https://www.slovensko.sk/sk/agendy/agenda/_organy-verejnej-moci
+Slovenčina | /evoportal/sk-sk/public/ordersearch/detail?id=568342
+Angličtina | /evoportal/en-us/public/ordersearch/detail?id=568342
+ | /evoportal/sk-sk/Public/Home/Index
+Prihlásiť sa | https://evo.isepvo.sk/evoportal/sk-sk/Public/Auth/Login
+Správy | https://evo.isepvo.sk/evoportal/sk-sk/Private/MessageBox/Index
+Odhlásiť | #
+Môj účet | https://evo.isepvo.sk/evoportal/sk-sk/Private/Account/MyAccount
+Späť | ##
+O systéme | https://www.isepvo.sk/o-systeme/
+Najčastejšie otázky | #1
+FAQ EVO | https://www.isepvo.sk/najcastejsie-otazky/#faq-evo
+FAQ ET | https://www.isepvo.sk/najcastejsie-otazky/#faq-et
+Príručky | #1
+Dokumentácia | https://www.isepvo.sk/dokumentacia/
+Video návody | https://www.isepvo.sk/videonavody/
+Archív - Príručky | https://www.isepvo.sk/archiv-dokumentacia/
+Archív - Video návody | https://www.isepvo.sk/archiv-video-navody/
+Školenia | https://www.isepvo.sk/kurzy-a-skolenia/
+Aktuality | https://www.isepvo.sk/aktuality/
+Helpdesk | https://www.isepvo.sk/helpdesk/
+Prihlásiť sa | https://evo.isepvo.sk/evoportal/sk-sk/Public/Auth/Login
+Správy | https://evo.isepvo.sk/evoportal/sk-sk/Private/MessageBox/Index
+Odhlásiť | #
+Môj účet | https://evo.isepvo.sk/evoportal/sk-sk/Private/Account/MyAccount
+Hlavná stránka | /evoportal/sk-sk/Public/Home/Index
+Vyhľadávanie zákaziek | /evoportal/sk-sk/Public/OrderSearch/Index
+Revitalizácia lokality Hrádok II. etapa | #
+name | #
+Mesto Michalovce | /evoportal/sk-sk/Public/ProfileSearch/Detail?id=5769
+https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/568342 | https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/568342
+Detail zákazky | #order-detail-tabs-detail
+Dokumenty zákazky | #profile-detail-tabs-orders
+Oznamenia k zákazke | #profile-detail-tabs-gdocs
+Informácie k zákazke | #profile-detail-tabs-ginfos
+Vstúpiť do zákazky name | https://evo.isepvo.sk/evo/Pages/Privates/ZakazkaUchadzacDetail.aspx?id=568342
+Položiť otázku name | https://evo.isepvo.sk/evo/Pages/Privates/ZiadostOtazka/ZiadostOtazkaUchadzacDetail.aspx?ZakazkaId=568342&id=0
+Predložiť ponuku name | https://evo.isepvo.sk/evo/Pages/Privates/ZakazkaCast.aspx?ZakazkaId=568342&Zona=U&Typ=Ponuka
+Hore | #
+uvo.gov.sk | https://www.uvo.gov.sk/
+vlada.gov.sk | https://www.vlada.gov.sk/
+slov-lex.sk | https://www.slov-lex.sk/
+crz.gov.sk | https://www.crz.gov.sk/
+slovensko.sk | https://www.slovensko.sk/
+O systéme | https://www.isepvo.sk/o-systeme/
+Najčastejšie otázky | https://www.isepvo.sk/najcastejsie-otazky/
+Školenia | https://www.isepvo.sk/kurzy-a-skolenia/
+Aktuality | https://www.isepvo.sk/aktuality/
+Helpdesk | https://www.isepvo.sk/helpdesk/
+Jednotným dizajn manuálom elektronických služieb. | https://idsk.gov.sk/komponenty/footer-extended#

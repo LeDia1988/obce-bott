@@ -1,0 +1,83 @@
+ | /
+Domov | /domov-presmerovanie/
+Zmluvy | #offMnuItem-c-1_2
+Zmluvy | /zmluvy/
+Doplnené zmluvy | /doplnene-zmluvy/
+Zrušené zmluvy | /zrusene-zmluvy/
+Najsledovanejšie zmluvy | /najsledovanejsie-zmluvy/
+Zmluvy do 31.12.2010 | /zmluvy-do-31122010/
+O stránke | #offMnuItem-c-1_3
+O stránke | /o-stranke/
+Legislatívny rámec | /legislativny-ramec/
+Prevádzkovateľ | /prevadzkovatel/
+Technická podpora | /technicka-podpora/
+Sťahovanie údajov z CRZ | /stahovanie-udajov-z-crz/
+FAQ | /casto-kladene-otazky/
+Kontakt a podpora | /kontakt-a-podpora/
+Mapa stránok | /mapa-stranky/
+Verzia pre tlač | ?pg=3
+RSS | /data/static/rss.xml
+English | /central-register-of-contracts/
+Prihlásenie | /swa
+ | /
+Mapa stránok | /mapa-stranky/
+Verzia pre tlač | ?pg=3
+RSS | /data/static/rss.xml
+English | /central-register-of-contracts/
+Prihlásenie | /swa
+Domov | /domov-presmerovanie/
+Zmluvy | #
+Zmluvy | /zmluvy/
+Doplnené zmluvy | /doplnene-zmluvy/
+Zrušené zmluvy | /zrusene-zmluvy/
+Najsledovanejšie zmluvy | /najsledovanejsie-zmluvy/
+Zmluvy do 31.12.2010 | /zmluvy-do-31122010/
+O stránke | #
+O stránke | /o-stranke/
+Legislatívny rámec | /legislativny-ramec/
+Prevádzkovateľ | /prevadzkovatel/
+Technická podpora | /technicka-podpora/
+Sťahovanie údajov z CRZ | /stahovanie-udajov-z-crz/
+FAQ | /casto-kladene-otazky/
+Kontakt a podpora | /kontakt-a-podpora/
+zákona 546/2010 | http://www.crz.gov.sk/index.php?ID=114364
+starom zozname zmlúv | http://www.zmluvy.gov.sk/
+ | ?order=21
+ | ?order=22
+Kúpna zmluva | /zmluva/13096894/
+ZMLUVA O NÁRODNOM SPOLUFINANCOVANÍ | /zmluva/13098289/
+Kúpna zmluva | /zmluva/13077810/
+Dohoda o použití cestného motorového vozidla na pracovnú cestu  na žiadosť zamestnanca | /zmluva/13066956/
+Zmluva o spolufinancovaní zo štátneho rozpočtu Slovenskej republiky na malý projekt č. INT/PO/III/0019 | /zmluva/12998331/
+Zmluva o spolufinancovaní zo štátneho rozpočtu Slovenskej republiky na malý projekt č. INT/PO/III/0026 | /zmluva/12997484/
+Z M L U V A č. 260055 08U05 o poskytnutí finančných prostriedkov Environmentálneho fondu | /zmluva/13048246/
+Dodatok č. 1 k Zmluve o poskytnutí príspevku | /zmluva/13045947/
+Kúpna zmluva a zmluva o zverení ďalšieho majetku do správy - Odstránenie bodovej závady na ceste III/3182, Sabinov | /zmluva/13048327/
+Zmluva o dielo pre projekt: Vybudovanie a rekonštrukcia cykloinfraštruktúry na vybraných úsekoch cyklotrás v okrese Preš | /zmluva/13041727/
+Dohoda o použití cestného motorového vozidla na pracovnú cestu  na žiadosť zamestnanca | /zmluva/13034720/
+Zmluva o spolufinancovaní zo štátneho rozpočtu Slovenskej republiky na malý projekt č. INT/PO/III/0009 | /zmluva/12998347/
+Zmluva o poskytnutí nenávratného finančného príspevku - „Vybudovanie a rekonštrukcia cykloinfraštruktúry na vybraných ús | /zmluva/13030650/
+ZMLUVA   O POSKYTNUTÍ   NENÁVRATNÉHO FINANČNÉHO   PRÍSPEVKU   kód projektu: 401203G529 | /zmluva/13029481/
+Zmluva o spolufinancovaní zo štátneho rozpočtu Slovenskej republiky na malý projekt č. INT/PO/III/0012 | /zmluva/12998315/
+Kúpna zmluva a zmluva o zverení ďalšieho majetku do správy - Dobudovanie cykloinfraštruktúry Poloniny trail, 1. etapa, ú | /zmluva/13016481/
+Zmluva o zriadení vecného bremena | /zmluva/13014815/
+DOHODA O UROVNANÍ za užívanie pozemkov súvisiacich s výstavbou pozemných komunikácií č. 1292/3310/DoU-2026-KE | /zmluva/13007220/
+Zmluva o spolufinancovaní zo štátneho rozpočtu Slovenskej republiky na malý projekt č. INT/PO/III/0011 | /zmluva/13002515/
+Zmluva o poskytovaní finančného príspevku na prevádzku poskytovanej sociálnej služby neverejnému poskytovateľovi sociáln | /zmluva/13008203/
+2 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=1
+3 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=2
+4 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=3
+5 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=4
+6 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=5
+7 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=6
+8 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=7
+9 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=8
+10 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=9
+11 | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=10
+» | ?art_zs1=Pre%C5%A1ovsk%C3%BD+samospr%C3%A1vny+kraj&page=1
+Úrad vlády SR | https://vlada.gov.sk
+Prehlásenie o prístupnosti | #
+Zmluvy do 31.12.2010 | https://www.zmluvy.gov.sk
+Nastavenia cookies | #
+Tvorba stránok | https://www.aglo.sk
+Redakčný systém | https://www.syscom.sk

@@ -1,0 +1,57 @@
+https://cuet.slovensko.sk/en?DocumentPublishedFrom=20.11.2026&DocumentPublishedTo=20.11.2026
+
+Central official electronic board
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Searching Central official electronic board
+Published on official board:
+Provide a name of institution publishing documents
+Documents author:
+Provide an author name of published documents
+Published from:
+Provide a start date of publishing documents (Date format: dd.mm.yyyy)
+Published to:
+Provide a end date of publishing documents (Date format: dd.mm.yyyy)
+Search by locality and category of institution
+Institution locality
+Cancel selection
+Institution category
+Cancel selection
+Detail search
+Registry symbol:
+Provide a registry symbol of the published document
+Registry case:
+Provide a registry case of the published document
+Name of official document:
+Provide a name of the published document
+Document abstract:
+Provide an expression to be searched in documents anotations
+Fulltext search in the published document:
+Provide an expression to be searched in published documents
+Fulltext search in appeal addressees:
+Provide an expression to be searched in an addressee of the appeals
+Search documents published alternatively
+Alternative publication type:
+-
+Úradná tabuľa orgánu verejnej moci
+Iný obdobný spôsob
+Verejná vyhláška
+Webové sídlo
+Choose alternative publication type
+Document type:
+-
+Elektronický úradný dokument
+Iný elektronický dokument
+Choose document type
+No document was found based on provided criteria
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.

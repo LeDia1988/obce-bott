@@ -1,0 +1,58 @@
+[
+ {
+  "i": 0,
+  "url": "https://cuet.slovensko.sk/en?DocumentPublishedFrom=19.11.2026&FullText=ihrisko",
+  "final": "https://cuet.slovensko.sk/en?DocumentPublishedFrom=19.11.2026&FullText=ihrisko",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "len": 30422
+ },
+ {
+  "i": 1,
+  "url": "https://cuet.slovensko.sk/en?DocumentPublishedFrom=20.11.2026&DocumentPublishedTo=20.11.2026",
+  "final": "https://cuet.slovensko.sk/en?DocumentPublishedFrom=20.11.2026&DocumentPublishedTo=20.11.2026",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "len": 13007
+ },
+ {
+  "i": 2,
+  "url": "https://evo.isepvo.sk/evoportal/sk-sk/Public/OrderSearch/Detail?id=568342",
+  "final": "https://evo.isepvo.sk/evoportal/sk-sk/Public/OrderSearch/Detail?id=568342",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "len": 58309
+ },
+ {
+  "i": 3,
+  "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/dokumenty/568342?cHash=09053257743207b3f3197f9a5cf9c97c",
+  "final": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/dokumenty/568342?cHash=09053257743207b3f3197f9a5cf9c97c",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "len": 89759
+ },
+ {
+  "i": 4,
+  "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/oznamenia/568342?cHash=09053257743207b3f3197f9a5cf9c97c",
+  "final": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/oznamenia/568342?cHash=09053257743207b3f3197f9a5cf9c97c",
+  "status": 200,
+  "ctype": "text/html; charset=utf-8",
+  "len": 100937
+ },
+ {
+  "i": 5,
+  "url": "https://www.crz.gov.sk/2171273-sk/centralny-register-zmluv/?art_zs1=Prešovský samosprávny kraj",
+  "final": "https://www.crz.gov.sk/2171273-sk/centralny-register-zmluv/?art_zs1=Pre%C5%A1ovsk%C3%BD%20samospr%C3%A1vny%20kraj",
+  "status": 200,
+  "ctype": "text/html; charset=UTF-8",
+  "len": 49805
+ },
+ {
+  "i": 6,
+  "url": "https://www.kecovo.sk/data/advertisement/kecovo.sk/544140/208238_zapisnica-4-11-2026.pdf",
+  "final": "https://www.kecovo.sk/data/advertisement/kecovo.sk/544140/208238_zapisnica-4-11-2026.pdf",
+  "status": 200,
+  "ctype": "application/pdf",
+  "len": 253593
+ }
+]

@@ -1,0 +1,15 @@
+Enter beta.slovensko.sk | https://nove.slovensko.sk
+Change the contrast | /en/Shared/ChangeContrast?returnUrl=%2Fen%3FDocumentPublishedFrom%3D20.11.2026%26DocumentPublishedTo%3D20.11.2026
+Main Page | https://www.slovensko.sk/sk/titulna-stranka
+About Portal | https://www.slovensko.sk/sk/o-portali
+Help | https://www.slovensko.sk/sk/pomoc
+Contact | https://www.slovensko.sk/sk/Kontakt
+Slovensky | /en/Shared/ChangeCulture?lang=1&returnUrl=%2Fen%3FDocumentPublishedFrom%3D20.11.2026%26DocumentPublishedTo%3D20.11.2026
+RSS CUET | /en/Rss
+ | http://slovensko.sk
+ | /
+Search by locality and category of institution | #
+Cancel selection | #
+Cancel selection | #
+Detail search | #
+Národná agentúra pre sieťové a elektronické služby | https://www.nases.gov.sk/kontakt/index.html
