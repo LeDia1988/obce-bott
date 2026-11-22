@@ -1,0 +1,564 @@
+URL: https://cuet.slovensko.sk/en/dokument/b4a667e5-2b87-4ebd-9ac6-e97c027dafa8
+OBEC: Prešov (Prešov)
+NÁZOV: Návrh rozpočtu mesta Prešov
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/b4a667e5-2b87-4ebd-9ac6-e97c027dafa8
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu mesta Prešov
+Search publisher's RSS feeds
+Published on official board:
+Mesto Prešov (OVM)
+Published from:
+20.11.2026
+Registry symbol:
+AL
+Documents author:
+Mesto Prešov (OVM)
+Published to:
+07.12.2026
+Registry case:
+OVS/185/164683/2026
+Name of official document:
+Návrh rozpočtu mesta Prešov
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh rozpočtu mesta Prešov na rok 2027 s výhľadom na roky 2028 a 2029.
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VV1129.pdf
+Type and size:
+.pdf, 2.23 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/967401ff-b96a-458c-9cf8-efb3102159bd
+MESTO PREŠOV, Mestský úrad v Prešove, Hlavná 73, 080 01 Prešov
+
+
+
+
+                                        Návrh
+
+
+ ROZPOČTU MESTA PREŠOV NA ROK 2027 S VÝHĽADOM NA ROKY
+                     2028 a 2029
+
+
+
+
+                      zverejnený v zmysle § 9 ods. 2 zákona SNR
+          č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov
+
+
+
+
+Deň vyvesenia: 20. 11. 2026
+
+
+Koniec lehoty, počas ktorej môžu fyzické osoby a právnické osoby uplatniť pripomienku
+k návrhu rozpočtu v písomnej forme, elektronicky na adresu katarina.sabolova@presov.sk,
+katarina.grocka@presov.sk, v kópii lucia.kostelnikova@presov.sk alebo ústne do zápisnice
+na Mestskom úrade v Prešove u predkladateľa návrhu rozpočtu:
+30. 11. 2026
+
+
+
+Predkladateľ návrhu rozpočtu:
+Ing. Radko Lapoš, MBA, vedúci odboru financií, Mestský úrad v Prešove, Jarková 24,
+080 01 Prešov
+
+
+Deň zvesenia: 07. 12. 2026
+                  Návrh rozpočtu mesta Prešov na rok 2027
+                                                                                  Strana
+                      s výhľadom na roky 2028 a 2029                                 1
+ Mesto Prešov               - dôvodová správa -
+
+                                 Dôvodová správa
+   Návrh rozpočtu mesta Prešov na rok 2027 s výhľadom na roky 2028 a 2029 je zostavený
+v zmysle zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov a je v súlade aj s ostatnými
+súvisiacimi právnymi normami.
+
+  Východiská príjmov pri spracovaní návrhu rozpočtu mesta Prešov na rok 2027 s výhľadom
+na roky 2028 a 2029 (ďalej len „návrh rozpočtu“):
+      Podiel výnosu dane z príjmov fyzických osôb je predpokladaná suma z prerozdelenia
+       výnosu dane fyzických osôb pre mestá a obce.
+      Nariadenie vlády SR č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej
+       samospráve v znení neskorších predpisov.
+      Úroveň miestnych daní, t. j. dane z nehnuteľností a poplatku za komunálne odpady
+       a drobné stavebné odpady – celkové objemy daní sú napočítané podľa pripravovaných
+       všeobecne záväzných nariadení o miestnych daniach a miestnom poplatku za
+       komunálne odpady a drobné stavebné odpady.
+      Kapitálové príjmy z odpredaja mestského majetku odhadom vybraných nehnuteľností.
+      Príjmy z transferov zo ŠR na prenesený výkon štátnej správy, a to na úrovni
+       predchádzajúceho roka.
+      Príjmy z transferov z Európskej únie (ďalej len „EÚ“) vychádzajú z predpokladu
+       podaných žiadostí na čerpanie projektov.
+      Príjmy z prevodu fondu mobility a z poplatku za rozvoj.
+      Príjmy z komerčných úverov.
+
+
+Návrh rozpočtu na rok 2027 je v príjmovej a výdavkovej časti zostavený ako vyrovnaný.
+
+Návrh rozpočtu spĺňa podmienky zákona NR SR č. 583/2004 Z. z. o rozpočtových
+pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov (ďalej len „zákon č. 583/2004“).
+
+  Rozpočet mesta na rok 2027 je v príjmovej aj výdavkovej časti zostavený v sume
+169 323 080 €. Vnútorne sa člení na bežný rozpočet, kapitálový rozpočet a finančné operácie.
+  Vo výdavkovej časti je návrh rozpočtu spracovaný podľa rozpočtovej klasifikácie v členení
+podľa jednotlivých programov.
+
+V oblasti investičnej výstavby sa plánujú použiť finančné prostriedky jednak z vlastných
+zdrojov, ale v značnej časti z úverových zdrojov a zo zdrojov z európskych operačných
+programov.
+                 Návrh rozpočtu mesta Prešov na rok 2027
+                                                                             Strana
+                     s výhľadom na roky 2028 a 2029                             2
+ Mesto Prešov              - dôvodová správa -
+
+Rozpočet mesta na rok 2027 sa člení na:
+
+1. Bežný rozpočet
+Bežné príjmy                              133 980 321 €
+Bežné výdavky                             126 626 378 €
+Prebytok bežného rozpočtu                   7 353 943 €
+
+2. Kapitálový rozpočet
+Kapitálové príjmy                           25 367 859 €
+Kapitálové výdavky                          36 717 759 €
+Schodok kapitálového rozpočtu             - 11 349 900 €
+
+3. Finančné operácie
+Finančné operácie príjmové                  9 974 900 €
+Finančné operácie výdavkové                 5 978 943 €
+Prebytok finančných operácií                3 995 957 €
+
+   Návrh rozpočtu vo výhľade na nasledujúce 2 roky, t. j. 2028 a 2029 je zostavený ako
+vyrovnaný.
+
+  Príjmy a výdavky rozpočtu mesta na roky 2027 a 2028 nie sú podľa § 9 ods. 3 zákona č.
+583/2004 záväzné. V celkových objemoch sú rozpočtované takto:
+
+                     rok 2028                   rok 2029
+   - príjmy         151 877 662 €             143 715 179 €
+   - výdavky        151 877 662 €             143 715 179 €
+                                                                                 Návrh rozpočtu mesta Prešov na rok 2027 s výhľadom na roky 2028 až 2029
+Príjmy                                                               2024         2025        2026                     2027                              2028                                                                                                   2029
+                                                                                                             očakávaná                    bežný      kapitálový     finančné                      bežný        kapitálový    finančné                     bežný         kapitálový   finančné
+Mestský úrad Prešov                                                skutočnosť    skutočnosť    schválený                     Spolu                                                  Spolu                                                    Spolu
+                                                                                                             skutočnosť                  rozpočet     rozpočet      operácie                     rozpočet       rozpočet     operácie                    rozpočet        rozpočet    operácie
+100      Daňové príjmy                                             65 730 715    60 123 714    64 136 727     65 012 475   68 841 804    68 841 804             0           0      72 934 064             0             0    74 455 824             0               0            0           0
+110      Dane z príjmov                                            46 799 165    38 676 062    42 270 862     43 106 610   45 156 804    45 156 804            0            0      49 394 064             0             0    50 715 824             0               0            0           0
+111003 Daň z príjmov fyzickej osoby                                46 799 165    38 676 062    42 270 862     43 106 610   45 156 804    45 156 804             0           0      49 394 064             0             0    50 715 824             0               0            0           0
+120      Dane z majetku                                            12 245 464    14 043 270    13 920 865     13 920 865   15 000 000    15 000 000            0            0      15 000 000             0             0    15 000 000             0               0            0           0
+121001 Z pozemkov                                                   1 083 569     1 104 170     1 000 865      1 000 865    1 150 000      1 150 000            0           0       1 150 000             0             0      1 150 000            0               0            0           0
+121002 Zo stavieb                                                   9 659 880    11 182 150    11 170 000     11 170 000   12 000 000    12 000 000             0           0      12 000 000             0             0    12 000 000             0               0            0           0
+121003 Z bytov a nebytových priestorov v bytovom dome               1 502 015     1 756 949     1 750 000      1 750 000    1 850 000      1 850 000            0           0       1 850 000             0             0      1 850 000            0               0            0           0
+130      Dane za tovary a služby                                    6 686 086     7 404 382     7 945 000      7 985 000    8 685 000     8 685 000            0            0       8 540 000             0             0     8 740 000             0               0            0           0
+133001 Za psa                                                          60 134        69 571        70 000         70 000       70 000         70 000            0           0          70 000             0             0         70 000            0               0            0           0
+133003 Za nevýherné hracie prístroje                                   10 956        12 571         9 000          9 000        9 000          9 000            0           0           9 000             0             0          9 000            0               0            0           0
+133004 Za predajné automaty                                             6 109         7 522         6 000          6 000        6 000          6 000            0           0           6 000             0             0          6 000            0               0            0           0
+133006 Za ubytovanie                                                  152 199       248 682       220 000        260 000      260 000        260 000            0           0         260 000             0             0        260 000            0               0            0           0
+133012 Za užívanie verejného priestranstva                            109 046       169 161        95 000         95 000       95 000         95 000            0           0          95 000             0             0         95 000            0               0            0           0
+133013 Za komunálne odpady a drobné stavebné odpady - V 8.008.00    6 146 099     6 489 223     6 645 000      6 645 000    7 645 000      7 645 000            0           0       7 500 000             0             0      7 700 000            0               0            0           0
+133015 Z poplatku za rozvoj                                           201 543       407 652       900 000        900 000      600 000        600 000            0           0         600 000             0             0        600 000            0               0            0           0
+200      Nedaňové príjmy                                            7 982 649     7 098 483     9 321 248      9 381 476    9 076 449      7 851 449   1 225 000            0       7 752 095     2 000 000             0      7 677 095      500 000               0            0           0
+210      Príjmy z podnikania a z vlastníctva majetku                2 135 714     3 286 965     3 544 188      3 544 188    3 427 200     3 427 200            0            0       3 427 200             0             0     3 427 200             0               0            0           0
+220      Administratívne poplatky a iné poplatky a platby           2 492 207     2 487 370     2 987 380      3 027 380    4 131 995     4 131 995            0            0       3 986 895             0             0     3 986 895             0               0            0           0
+230      Kapitálové príjmy                                          2 543 468       894 857     2 275 000      2 275 000    1 225 000              0   1 225 000            0               0     2 000 000             0              0      500 000               0            0           0
+231      Z predaja bytov                                                3 998       136 421       400 000        400 000      150 000              0     150 000            0               0             0             0              0            0               0            0           0
+231      Z odpredaja budov a zariadení                                354 170       325 846     1 500 000      1 500 000      700 000              0     700 000            0               0     2 000 000             0              0      500 000               0            0           0
+233001 Z predaja pozemkov                                           2 185 301       432 590       375 000        375 000      375 000              0     375 000            0               0             0             0              0            0               0            0           0
+240      Úroky z vkladov, pôžičiek, návratných fin. výpomocí           93 271         4 606             0              0            0              0           0            0               0             0             0              0            0               0            0           0
+290      Iné nedaňové príjmy                                          717 989       424 685       514 680        534 908      292 254       292 254            0            0         338 000             0             0       263 000             0               0            0           0
+300      Granty a transfery                                        39 844 478    48 122 593    73 426 512     80 771 327   73 602 417    49 459 558 24 142 859              0      46 686 022    14 677 971             0    45 254 750     8 000 000               0            0           0
+310      Tuzemské bežné granty a transfery                         36 003 727    45 842 336    46 764 117     53 068 500   49 459 558    49 459 558            0            0      46 686 022             0             0    45 254 750             0               0            0           0
+320      Tuzemské kapitálové granty a transfery                     3 840 751     2 280 257    26 662 395     27 702 827   24 142 859              0 24 142 859             0               0    14 677 971             0              0    8 000 000               0            0           0
+400      Príjmové finančné operácie                                 5 762 716     8 760 063       926 586      6 215 875    1 250 000              0            0   1 250 000               0             0             0              0            0               0            0           0
+453      Zostatok prostriedkov z predchádzajúcich rokov             2 256 891     2 373 231       626 586      3 561 950    1 000 000              0           0    1 000 000               0             0             0              0            0               0            0           0
+454      Prevod prostriedkov z peňažných fondov                     3 318 907     6 194 083       300 000      1 011 867      250 000              0           0      250 000               0             0             0              0            0               0            0           0
+500      Prijaté úvery                                              6 443 703     7 306 348    16 868 600     18 248 825    8 724 900              0            0   8 724 900               0             0             0              0            0               0            0           0
+Školy a školské zariadenia                                          5 169 490     6 539 972     5 293 206      5 778 490    5 827 450      5 827 450            0           0       5 827 450             0             0      5 827 450            0               0            0    -485 284
+Zariadenia pre seniorov                                              1 648 101   1 881 080       1 690 000     1 866 478     2 000 060     2 000 060            0           0        2 000 060             0             0    2 000 060           0                0             0              0
+SPOLU PRÍJMY                                                       132 581 852 139 832 252     171 662 879   187 274 946   169 323 080   133 980 321   25 367 859   9 974 900      151 877 662   135 199 691    16 677 971            0 143 715 179      135 215 179     8 500 000              0
+
+Výdavky - Program                                                    2024          2025                2026                                      2027                                                    2028                                                   2029
+                                                                                                                                          bežný      kapitálový     finančné                      bežný      kapitálový      finančné                     bežný         kapitálový   finančné
+                                                                                                             očakávaná
+Podprogram                                                         skutočnosť                  schválený                     Spolu       rozpočet     rozpočet      operácie        Spolu        rozpočet     rozpočet       operácie        Spolu       rozpočet        rozpočet    operácie
+                                                                                                             skutočnosť
+                                                                                                                                            600         700            800                          600         700             800                         600            700          800
+1.       Interná činnosť                                             1 651 233     1 659 415     1 687 500     1 905 587     1 970 600     1 910 600      60 000               0     1 940 300     1 940 300            0               0    1 871 200     1 871 200             0              0
+1.1     Činnosť a prevádzka mestského úradu                            973 692       859 567     1 093 800     1 093 800     1 160 400     1 100 400      60 000               0     1 149 400     1 149 400            0               0    1 149 400     1 149 400             0              0
+1.2     Propagácia                                                      87 570       162 181       188 000       177 350       203 000       203 000            0              0       208 000       208 000            0               0      208 000       208 000             0              0
+1.3     Členstvo v samosprávnych organizáciách                         372 566       177 645       200 000       200 000       197 000       197 000            0              0       197 000       197 000            0               0      197 000       197 000             0              0
+1.4     Civilná ochrana                                                116 889       349 771        84 700       312 437       102 400       102 400            0              0        94 100        94 100            0               0       94 100        94 100             0              0
+1.5     Ochrana pred požiarmi                                          100 516       110 251       121 000       122 000        92 100        92 100            0              0        65 300        65 300            0               0       63 800        63 800             0              0
+1.6     Reprezentačné, transfery a dotácie                             119 098       132 943       129 400       141 400       215 700       215 700            0              0       226 500       226 500            0               0      158 900       158 900             0              0
+2.       Ľudské zdroje                                              10 017 429    11 858 302    12 011 762    13 278 013    13 141 244   13 141 244             0              0    13 065 616   13 065 616             0               0   12 857 920   12 857 920              0              0
+2.1     Zasadnutia orgánov samosprávy a volení funkcionári             514 325       569 304       792 855       612 855       677 712       677 712            0              0       777 712       777 712            0               0      777 712       777 712             0              0
+2.2     Ľudské zdroje MsÚ - z vlastných zdrojov                      7 835 220     9 622 009     8 881 651    10 253 336    11 537 029   11 537 029             0              0    11 361 401   11 361 401             0               0   11 361 401   11 361 401              0              0
+2.3     Ľudské zdroje MsÚ - prenesený výkon                            568 483       528 864       569 305       578 682       578 307       578 307            0              0       578 307       578 307            0               0      578 307       578 307             0              0
+2.4     Ľudské zdroje MsÚ - z cudzích zdrojov                        1 099 401     1 138 126     1 767 951     1 833 140       348 196       348 196            0              0       348 196       348 196            0               0      140 500       140 500             0              0
+3.       Informatizácia                                                491 110       633 446     7 192 062     7 326 712     6 946 814     2 281 955   4 664 859               0     4 751 482     2 053 011   2 698 471                0    1 090 928     1 054 678        36 250              0
+3.1     Interné informačné služby                                      491 110       633 446     7 192 062     7 326 712     6 946 814     2 281 955   4 664 859               0     4 751 482     2 053 011   2 698 471                0    1 090 928     1 054 678        36 250              0
+4.       Bezpečnosť                                                  3 873 503     3 774 614     4 440 002     4 470 649     4 536 393     4 476 393      60 000               0     4 624 795     4 592 995      31 800                0    4 667 106     4 633 506        33 600              0
+
+
+
+
+                                                                                                                                             1
+Výdavky - Program                                                  2024         2025                2026                                    2027                                                2028                                                 2029
+                                                                                                                                      bežný      kapitálový     finančné                  bežný      kapitálový     finančné                   bežný        kapitálový   finančné
+                                                                                                         očakávaná
+Podprogram                                                       skutočnosť                 schválený                   Spolu        rozpočet     rozpočet      operácie    Spolu        rozpočet     rozpočet      operácie      Spolu       rozpočet       rozpočet    operácie
+                                                                                                         skutočnosť
+                                                                                                                                        600         700            800                      600         700            800                       600           700          800
+4.1    Verejný poriadok                                            3 873 503    3 774 614    4 440 002      4 470 649    4 536 393     4 476 393      60 000            0    4 624 795     4 592 995      31 800             0    4 667 106     4 633 506        33 600           0
+5.     Ekonomika a financie                                        3 683 281    4 068 500    5 160 630      5 139 546    5 799 980     1 137 445      47 000    4 615 535    5 688 292     1 142 253      30 000     4 516 039    5 126 860     1 142 253        30 000 3 954 607
+5.1    Dlhová služba a daňová politika                             3 683 281    4 068 500    5 100 630      5 137 826    5 759 980     1 112 445      32 000    4 615 535    5 628 292     1 112 253            0    4 516 039    5 066 860     1 112 253              0 3 954 607
+5.2    Participatívny rozpočet                                             0            0       60 000          1 720       40 000        25 000      15 000            0       60 000        30 000      30 000             0       60 000        30 000        30 000           0
+6.     Mestský majetok                                             5 362 933    5 094 271    8 121 272      8 618 792    7 400 390     5 657 390   1 043 000      700 000    7 864 950     5 664 950   1 500 000       700 000    7 226 100     5 726 100     1 500 000           0
+6.1    Majetok v správe mesta                                      3 602 198    2 428 479    3 364 570      3 215 790    2 996 890     1 953 890   1 043 000            0    3 508 500     2 008 500   1 500 000             0    3 519 500     2 019 500     1 500 000           0
+6.2    Správa bytov a nebytových priestorov                        1 551 648    1 644 957    3 062 150      3 708 450    2 972 150     2 972 150            0           0    3 290 000     3 290 000            0            0    3 380 000     3 380 000              0          0
+6.3    Organizácie a obchodné spol. s majetkovou účasťou mesta        47 740      347 225      334 552        334 552    1 431 350       731 350            0     700 000    1 066 450       366 450            0      700 000      326 600       326 600              0          0
+6.4    Majetok mesta - Investičná výstavba                           161 347      673 610    1 360 000      1 360 000            0             0            0           0            0             0            0            0            0             0              0          0
+7.     Doprava                                                    13 729 075   16 812 553   22 303 700     22 219 035   18 754 962   15 511 454    2 605 000      638 508   19 908 076   18 277 692    1 280 000       350 384   20 154 962   18 810 908      1 280 000      64 054
+7.1    Miestne komunikácie                                         3 995 995    4 515 911    4 070 508      4 752 185    4 890 758     3 717 250     535 000      638 508    7 132 396     6 322 012     460 000       350 384    7 379 282     6 855 228       460 000      64 054
+7.2    Organizované parkovanie                                        88 414      304 593      929 000        601 290      725 000       575 000     150 000            0      885 000       735 000     150 000             0      885 000       735 000       150 000           0
+7.3    Verejná doprava a mikromobilita                             8 540 320    9 229 727   10 714 192     11 205 560   11 289 204   11 219 204       70 000            0   11 290 680   11 220 680       70 000             0   11 290 680   11 220 680         70 000           0
+7.4    Spváva miestnych komunikácií - presunutý do podprogramu        21 130            0            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+7.5    Doprava - investičná výstavba                               1 083 216    2 762 323    6 590 000      5 660 000    1 850 000             0   1 850 000            0      600 000             0     600 000             0      600 000             0       600 000           0
+8.     Životné prostredie                                          9 777 891   10 670 423   12 782 823     12 864 883   12 448 636   11 355 636    1 093 000            0   11 910 185   11 883 185       27 000             0   12 776 737   12 745 737         31 000           0
+8.1    Odpadové hospodárstvo                                       6 407 294    6 916 738    7 923 478      8 010 032    8 160 756     7 790 756     370 000            0    7 886 704     7 886 704            0            0    7 876 240     7 876 240              0          0
+8.2    Verejná zeleň                                                 973 621    1 357 117    1 212 500      1 451 548      966 200       966 200            0           0    1 417 600     1 417 600            0            0    1 454 736     1 454 736              0          0
+8.3    Verejné osvetlenie                                          1 589 662    1 569 750    2 297 145      2 089 303    2 050 270     1 350 270     700 000            0    1 166 121     1 166 121            0            0    1 261 511     1 261 511              0          0
+8.4    Služby mesta                                                  640 118      675 667    1 331 900      1 296 200    1 253 210     1 230 210      23 000            0    1 419 860     1 392 860      27 000             0    2 162 700     2 131 700        31 000           0
+8.5    Aktivačné činnosti                                             12 862       15 282       17 800         17 800       18 200        18 200            0           0       19 900        19 900            0            0       21 550        21 550              0          0
+8.6    Životné prostredie - investičná výstavba                      154 334      135 869            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+9.     Strategický rozvoj                                          4 127 726    4 593 199   29 728 546     32 182 475   27 680 000     1 500 000 26 180 000             0   12 580 000       400 000 12 180 000              0    8 480 000       300 000     8 180 000           0
+9.1    Implementácia projektov                                     1 471 698    2 808 405   28 268 546     27 035 688   25 500 000     1 400 000 24 100 000             0   12 400 000       300 000 12 100 000              0    8 300 000       200 000     8 100 000           0
+9.2    Strategické plánovanie                                         67 077       10 224       30 000         15 000       65 000        60 000       5 000            0       65 000        60 000       5 000             0       65 000        60 000         5 000           0
+9.3    Investičná výstavba                                         2 588 951    1 774 570    1 430 000      5 131 787    2 115 000        40 000   2 075 000            0      115 000        40 000      75 000             0      115 000        40 000        75 000           0
+10.    Územný rozvoj mesta                                            81 637      108 430      691 700        550 972      452 600       452 600            0           0      432 600       432 600            0            0      432 600       432 600              0          0
+10.1   Územnoplánovacie služby                                        42 340       71 234      648 000        548 000      450 000       450 000            0           0      430 000       430 000            0            0      430 000       430 000              0          0
+10.2   Štátny fond rozvoja bývania                                     3 000        4 456        5 600            372            0             0            0           0            0             0            0            0            0             0              0          0
+10.3   Stavebný poriadok                                              35 825       32 220       37 600          2 600        2 600         2 600            0           0        2 600         2 600            0            0        2 600         2 600              0          0
+10.4   Pozemné komunikácie                                               472          520          500              0            0             0            0           0            0             0            0            0            0             0              0          0
+11.    Vzdelávanie                                                 9 779 998    4 383 558    4 445 132      5 624 292    5 600 218     5 600 218            0           0    5 615 787     5 615 787            0            0    5 664 287     5 664 287              0          0
+11.1   Školský úrad                                                   25 447       47 857       54 575        229 913      199 763       199 763            0           0       50 013        50 013            0            0       48 513        48 513              0          0
+11.2   Vzdelávanie - projekty zo ŠR a EÚ                           2 874 584            0            0              0        6 879         6 879            0           0       72 198        72 198            0            0       72 198        72 198              0          0
+11.3   Neštátne školy a školské zariadenia                         6 739 367    4 196 684    4 250 557      5 235 379    5 184 576     5 184 576            0           0    5 184 576     5 184 576            0            0    5 184 576     5 184 576              0          0
+11.4   Spojené školy - Hmotná núdza                                  140 600      139 017      140 000        159 000      159 000       159 000            0           0      159 000       159 000            0            0      159 000       159 000              0          0
+11.5   Vzdelávanie - investičná výstavba                                   0            0            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+11.6   Mládež                                                              0            0            0              0       50 000        50 000            0           0      150 000       150 000            0            0      200 000       200 000              0          0
+12.    Vzdelávanie - RO                                           46 260 502   51 049 843   51 049 843     59 141 667   53 889 187   53 189 187      700 000            0   53 521 228   53 221 228      300 000             0   53 521 228   53 221 228        300 000           0
+12.1   Prenesený výkon                                            25 891 325   37 250 863   37 250 863     44 314 361   39 875 137   39 875 137             0           0   39 875 137   39 875 137             0            0   39 875 137   39 875 137               0          0
+12.2   Projekty zo ŠR a eurofondov                                   426 988       12 000       12 000        240 203       12 000        12 000            0           0       12 000        12 000            0            0       12 000        12 000              0          0
+12.3   Originálne kompetencie                                     14 530 095    8 072 274    8 072 274      8 387 113    7 748 600     7 048 600     700 000            0    7 380 641     7 080 641     300 000             0    7 380 641     7 080 641       300 000           0
+12.4   Vlastné príjmy                                              5 089 894    5 293 206    5 293 206      5 778 490    5 827 450     5 827 450            0           0    5 827 450     5 827 450            0            0    5 827 450     5 827 450              0          0
+12.5   Vzdelávacie aktivity športové                                 322 200      421 500      421 500        421 500      426 000       426 000            0           0      426 000       426 000            0            0      426 000       426 000              0          0
+12.6   Vzdelávanie RO - investičná výstavba                                0            0            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+13.    Služby občanom                                                 24 634       10 652       32 580         17 997       28 500        28 500            0           0       28 500        28 500            0            0       28 500        28 500              0          0
+13.1   Register obyvateľov a adries                                      600          451          480            480            0             0            0           0            0             0            0            0            0             0              0          0
+13.2   Matrika                                                        21 316        7 097       23 000          8 417       20 000        20 000            0           0       20 000        20 000            0            0       20 000        20 000              0          0
+13.3   Klientské centrum                                               2 718        3 103        9 100          9 100        8 500         8 500            0           0        8 500         8 500            0            0        8 500         8 500              0          0
+14.    Sociálne služby                                             4 111 527    2 303 638    3 377 950      3 504 965    1 513 050     1 513 050            0           0    1 562 650     1 502 650      60 000             0    1 412 550     1 412 550              0          0
+14.1   Terénna sociálna práca a komunitná práca                       24 469       33 931       51 250         51 250       51 250        51 250            0           0       51 250        51 250            0            0       51 250        51 250              0          0
+14.2   Inštitút osobitného príjemcu                                   69 143       62 148       92 000         92 240       67 000        67 000            0           0       67 000        67 000            0            0       67 000        67 000              0          0
+14.3   Sociálno-právna ochrana detí a sociálna kuratela                1 628        2 023        5 000          5 000        6 000         6 000            0           0        6 000         6 000            0            0        6 000         6 000              0          0
+14.4   Sociálna pomoc                                              1 808 041      585 422      513 000        513 000      141 500       141 500            0           0       46 000        46 000            0            0       46 500        46 500              0          0
+14.5   Sociálne služby a finančná výpomoc                              1 560       32 693       35 300        215 728      173 500       173 500            0           0      233 500       173 500      60 000             0       55 200        55 200              0          0
+14.6   Centrá sociálnych služieb                                      72 446      138 963      164 600        164 600      145 000       145 000            0           0      164 500       164 500            0            0      168 400       168 400              0          0
+
+
+
+
+                                                                                                                                        2
+Výdavky - Program                                          2024        2025                2026                                      2027                                                 2028                                                  2029
+                                                                                                                              bežný      kapitálový     finančné                   bežný      kapitálový      finančné                    bežný        kapitálový       finančné
+                                                                                                 očakávaná
+Podprogram                                               skutočnosť                schválený                     Spolu       rozpočet     rozpočet      operácie     Spolu        rozpočet     rozpočet       operácie       Spolu       rozpočet       rozpočet        operácie
+                                                                                                 skutočnosť
+                                                                                                                                600         700            800                       600         700             800                        600           700              800
+14.7    Domáca opatrovateľská služba                           6 274       6 384        10 600        10 600        13 600        13 600            0           0        13 600        13 600            0               0      1
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/zobraz/967401ff-b96a-458c-9cf8-efb3102159bd
+MESTO PREŠOV, Mestský úrad v Prešove, Hlavná 73, 080 01 Prešov
+
+
+
+
+                                        Návrh
+
+
+ ROZPOČTU MESTA PREŠOV NA ROK 2027 S VÝHĽADOM NA ROKY
+                     2028 a 2029
+
+
+
+
+                      zverejnený v zmysle § 9 ods. 2 zákona SNR
+          č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov
+
+
+
+
+Deň vyvesenia: 20. 11. 2026
+
+
+Koniec lehoty, počas ktorej môžu fyzické osoby a právnické osoby uplatniť pripomienku
+k návrhu rozpočtu v písomnej forme, elektronicky na adresu katarina.sabolova@presov.sk,
+katarina.grocka@presov.sk, v kópii lucia.kostelnikova@presov.sk alebo ústne do zápisnice
+na Mestskom úrade v Prešove u predkladateľa návrhu rozpočtu:
+30. 11. 2026
+
+
+
+Predkladateľ návrhu rozpočtu:
+Ing. Radko Lapoš, MBA, vedúci odboru financií, Mestský úrad v Prešove, Jarková 24,
+080 01 Prešov
+
+
+Deň zvesenia: 07. 12. 2026
+                  Návrh rozpočtu mesta Prešov na rok 2027
+                                                                                  Strana
+                      s výhľadom na roky 2028 a 2029                                 1
+ Mesto Prešov               - dôvodová správa -
+
+                                 Dôvodová správa
+   Návrh rozpočtu mesta Prešov na rok 2027 s výhľadom na roky 2028 a 2029 je zostavený
+v zmysle zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov a je v súlade aj s ostatnými
+súvisiacimi právnymi normami.
+
+  Východiská príjmov pri spracovaní návrhu rozpočtu mesta Prešov na rok 2027 s výhľadom
+na roky 2028 a 2029 (ďalej len „návrh rozpočtu“):
+      Podiel výnosu dane z príjmov fyzických osôb je predpokladaná suma z prerozdelenia
+       výnosu dane fyzických osôb pre mestá a obce.
+      Nariadenie vlády SR č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej
+       samospráve v znení neskorších predpisov.
+      Úroveň miestnych daní, t. j. dane z nehnuteľností a poplatku za komunálne odpady
+       a drobné stavebné odpady – celkové objemy daní sú napočítané podľa pripravovaných
+       všeobecne záväzných nariadení o miestnych daniach a miestnom poplatku za
+       komunálne odpady a drobné stavebné odpady.
+      Kapitálové príjmy z odpredaja mestského majetku odhadom vybraných nehnuteľností.
+      Príjmy z transferov zo ŠR na prenesený výkon štátnej správy, a to na úrovni
+       predchádzajúceho roka.
+      Príjmy z transferov z Európskej únie (ďalej len „EÚ“) vychádzajú z predpokladu
+       podaných žiadostí na čerpanie projektov.
+      Príjmy z prevodu fondu mobility a z poplatku za rozvoj.
+      Príjmy z komerčných úverov.
+
+
+Návrh rozpočtu na rok 2027 je v príjmovej a výdavkovej časti zostavený ako vyrovnaný.
+
+Návrh rozpočtu spĺňa podmienky zákona NR SR č. 583/2004 Z. z. o rozpočtových
+pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov (ďalej len „zákon č. 583/2004“).
+
+  Rozpočet mesta na rok 2027 je v príjmovej aj výdavkovej časti zostavený v sume
+169 323 080 €. Vnútorne sa člení na bežný rozpočet, kapitálový rozpočet a finančné operácie.
+  Vo výdavkovej časti je návrh rozpočtu spracovaný podľa rozpočtovej klasifikácie v členení
+podľa jednotlivých programov.
+
+V oblasti investičnej výstavby sa plánujú použiť finančné prostriedky jednak z vlastných
+zdrojov, ale v značnej časti z úverových zdrojov a zo zdrojov z európskych operačných
+programov.
+                 Návrh rozpočtu mesta Prešov na rok 2027
+                                                                             Strana
+                     s výhľadom na roky 2028 a 2029                             2
+ Mesto Prešov              - dôvodová správa -
+
+Rozpočet mesta na rok 2027 sa člení na:
+
+1. Bežný rozpočet
+Bežné príjmy                              133 980 321 €
+Bežné výdavky                             126 626 378 €
+Prebytok bežného rozpočtu                   7 353 943 €
+
+2. Kapitálový rozpočet
+Kapitálové príjmy                           25 367 859 €
+Kapitálové výdavky                          36 717 759 €
+Schodok kapitálového rozpočtu             - 11 349 900 €
+
+3. Finančné operácie
+Finančné operácie príjmové                  9 974 900 €
+Finančné operácie výdavkové                 5 978 943 €
+Prebytok finančných operácií                3 995 957 €
+
+   Návrh rozpočtu vo výhľade na nasledujúce 2 roky, t. j. 2028 a 2029 je zostavený ako
+vyrovnaný.
+
+  Príjmy a výdavky rozpočtu mesta na roky 2027 a 2028 nie sú podľa § 9 ods. 3 zákona č.
+583/2004 záväzné. V celkových objemoch sú rozpočtované takto:
+
+                     rok 2028                   rok 2029
+   - príjmy         151 877 662 €             143 715 179 €
+   - výdavky        151 877 662 €             143 715 179 €
+                                                                                 Návrh rozpočtu mesta Prešov na rok 2027 s výhľadom na roky 2028 až 2029
+Príjmy                                                               2024         2025        2026                     2027                              2028                                                                                                   2029
+                                                                                                             očakávaná                    bežný      kapitálový     finančné                      bežný        kapitálový    finančné                     bežný         kapitálový   finančné
+Mestský úrad Prešov                                                skutočnosť    skutočnosť    schválený                     Spolu                                                  Spolu                                                    Spolu
+                                                                                                             skutočnosť                  rozpočet     rozpočet      operácie                     rozpočet       rozpočet     operácie                    rozpočet        rozpočet    operácie
+100      Daňové príjmy                                             65 730 715    60 123 714    64 136 727     65 012 475   68 841 804    68 841 804             0           0      72 934 064             0             0    74 455 824             0               0            0           0
+110      Dane z príjmov                                            46 799 165    38 676 062    42 270 862     43 106 610   45 156 804    45 156 804            0            0      49 394 064             0             0    50 715 824             0               0            0           0
+111003 Daň z príjmov fyzickej osoby                                46 799 165    38 676 062    42 270 862     43 106 610   45 156 804    45 156 804             0           0      49 394 064             0             0    50 715 824             0               0            0           0
+120      Dane z majetku                                            12 245 464    14 043 270    13 920 865     13 920 865   15 000 000    15 000 000            0            0      15 000 000             0             0    15 000 000             0               0            0           0
+121001 Z pozemkov                                                   1 083 569     1 104 170     1 000 865      1 000 865    1 150 000      1 150 000            0           0       1 150 000             0             0      1 150 000            0               0            0           0
+121002 Zo stavieb                                                   9 659 880    11 182 150    11 170 000     11 170 000   12 000 000    12 000 000             0           0      12 000 000             0             0    12 000 000             0               0            0           0
+121003 Z bytov a nebytových priestorov v bytovom dome               1 502 015     1 756 949     1 750 000      1 750 000    1 850 000      1 850 000            0           0       1 850 000             0             0      1 850 000            0               0            0           0
+130      Dane za tovary a služby                                    6 686 086     7 404 382     7 945 000      7 985 000    8 685 000     8 685 000            0            0       8 540 000             0             0     8 740 000             0               0            0           0
+133001 Za psa                                                          60 134        69 571        70 000         70 000       70 000         70 000            0           0          70 000             0             0         70 000            0               0            0           0
+133003 Za nevýherné hracie prístroje                                   10 956        12 571         9 000          9 000        9 000          9 000            0           0           9 000             0             0          9 000            0               0            0           0
+133004 Za predajné automaty                                             6 109         7 522         6 000          6 000        6 000          6 000            0           0           6 000             0             0          6 000            0               0            0           0
+133006 Za ubytovanie                                                  152 199       248 682       220 000        260 000      260 000        260 000            0           0         260 000             0             0        260 000            0               0            0           0
+133012 Za užívanie verejného priestranstva                            109 046       169 161        95 000         95 000       95 000         95 000            0           0          95 000             0             0         95 000            0               0            0           0
+133013 Za komunálne odpady a drobné stavebné odpady - V 8.008.00    6 146 099     6 489 223     6 645 000      6 645 000    7 645 000      7 645 000            0           0       7 500 000             0             0      7 700 000            0               0            0           0
+133015 Z poplatku za rozvoj                                           201 543       407 652       900 000        900 000      600 000        600 000            0           0         600 000             0             0        600 000            0               0            0           0
+200      Nedaňové príjmy                                            7 982 649     7 098 483     9 321 248      9 381 476    9 076 449      7 851 449   1 225 000            0       7 752 095     2 000 000             0      7 677 095      500 000               0            0           0
+210      Príjmy z podnikania a z vlastníctva majetku                2 135 714     3 286 965     3 544 188      3 544 188    3 427 200     3 427 200            0            0       3 427 200             0             0     3 427 200             0               0            0           0
+220      Administratívne poplatky a iné poplatky a platby           2 492 207     2 487 370     2 987 380      3 027 380    4 131 995     4 131 995            0            0       3 986 895             0             0     3 986 895             0               0            0           0
+230      Kapitálové príjmy                                          2 543 468       894 857     2 275 000      2 275 000    1 225 000              0   1 225 000            0               0     2 000 000             0              0      500 000               0            0           0
+231      Z predaja bytov                                                3 998       136 421       400 000        400 000      150 000              0     150 000            0               0             0             0              0            0               0            0           0
+231      Z odpredaja budov a zariadení                                354 170       325 846     1 500 000      1 500 000      700 000              0     700 000            0               0     2 000 000             0              0      500 000               0            0           0
+233001 Z predaja pozemkov                                           2 185 301       432 590       375 000        375 000      375 000              0     375 000            0               0             0             0              0            0               0            0           0
+240      Úroky z vkladov, pôžičiek, návratných fin. výpomocí           93 271         4 606             0              0            0              0           0            0               0             0             0              0            0               0            0           0
+290      Iné nedaňové príjmy                                          717 989       424 685       514 680        534 908      292 254       292 254            0            0         338 000             0             0       263 000             0               0            0           0
+300      Granty a transfery                                        39 844 478    48 122 593    73 426 512     80 771 327   73 602 417    49 459 558 24 142 859              0      46 686 022    14 677 971             0    45 254 750     8 000 000               0            0           0
+310      Tuzemské bežné granty a transfery                         36 003 727    45 842 336    46 764 117     53 068 500   49 459 558    49 459 558            0            0      46 686 022             0             0    45 254 750             0               0            0           0
+320      Tuzemské kapitálové granty a transfery                     3 840 751     2 280 257    26 662 395     27 702 827   24 142 859              0 24 142 859             0               0    14 677 971             0              0    8 000 000               0            0           0
+400      Príjmové finančné operácie                                 5 762 716     8 760 063       926 586      6 215 875    1 250 000              0            0   1 250 000               0             0             0              0            0               0            0           0
+453      Zostatok prostriedkov z predchádzajúcich rokov             2 256 891     2 373 231       626 586      3 561 950    1 000 000              0           0    1 000 000               0             0             0              0            0               0            0           0
+454      Prevod prostriedkov z peňažných fondov                     3 318 907     6 194 083       300 000      1 011 867      250 000              0           0      250 000               0             0             0              0            0               0            0           0
+500      Prijaté úvery                                              6 443 703     7 306 348    16 868 600     18 248 825    8 724 900              0            0   8 724 900               0             0             0              0            0               0            0           0
+Školy a školské zariadenia                                          5 169 490     6 539 972     5 293 206      5 778 490    5 827 450      5 827 450            0           0       5 827 450             0             0      5 827 450            0               0            0    -485 284
+Zariadenia pre seniorov                                              1 648 101   1 881 080       1 690 000     1 866 478     2 000 060     2 000 060            0           0        2 000 060             0             0    2 000 060           0                0             0              0
+SPOLU PRÍJMY                                                       132 581 852 139 832 252     171 662 879   187 274 946   169 323 080   133 980 321   25 367 859   9 974 900      151 877 662   135 199 691    16 677 971            0 143 715 179      135 215 179     8 500 000              0
+
+Výdavky - Program                                                    2024          2025                2026                                      2027                                                    2028                                                   2029
+                                                                                                                                          bežný      kapitálový     finančné                      bežný      kapitálový      finančné                     bežný         kapitálový   finančné
+                                                                                                             očakávaná
+Podprogram                                                         skutočnosť                  schválený                     Spolu       rozpočet     rozpočet      operácie        Spolu        rozpočet     rozpočet       operácie        Spolu       rozpočet        rozpočet    operácie
+                                                                                                             skutočnosť
+                                                                                                                                            600         700            800                          600         700             800                         600            700          800
+1.       Interná činnosť                                             1 651 233     1 659 415     1 687 500     1 905 587     1 970 600     1 910 600      60 000               0     1 940 300     1 940 300            0               0    1 871 200     1 871 200             0              0
+1.1     Činnosť a prevádzka mestského úradu                            973 692       859 567     1 093 800     1 093 800     1 160 400     1 100 400      60 000               0     1 149 400     1 149 400            0               0    1 149 400     1 149 400             0              0
+1.2     Propagácia                                                      87 570       162 181       188 000       177 350       203 000       203 000            0              0       208 000       208 000            0               0      208 000       208 000             0              0
+1.3     Členstvo v samosprávnych organizáciách                         372 566       177 645       200 000       200 000       197 000       197 000            0              0       197 000       197 000            0               0      197 000       197 000             0              0
+1.4     Civilná ochrana                                                116 889       349 771        84 700       312 437       102 400       102 400            0              0        94 100        94 100            0               0       94 100        94 100             0              0
+1.5     Ochrana pred požiarmi                                          100 516       110 251       121 000       122 000        92 100        92 100            0              0        65 300        65 300            0               0       63 800        63 800             0              0
+1.6     Reprezentačné, transfery a dotácie                             119 098       132 943       129 400       141 400       215 700       215 700            0              0       226 500       226 500            0               0      158 900       158 900             0              0
+2.       Ľudské zdroje                                              10 017 429    11 858 302    12 011 762    13 278 013    13 141 244   13 141 244             0              0    13 065 616   13 065 616             0               0   12 857 920   12 857 920              0              0
+2.1     Zasadnutia orgánov samosprávy a volení funkcionári             514 325       569 304       792 855       612 855       677 712       677 712            0              0       777 712       777 712            0               0      777 712       777 712             0              0
+2.2     Ľudské zdroje MsÚ - z vlastných zdrojov                      7 835 220     9 622 009     8 881 651    10 253 336    11 537 029   11 537 029             0              0    11 361 401   11 361 401             0               0   11 361 401   11 361 401              0              0
+2.3     Ľudské zdroje MsÚ - prenesený výkon                            568 483       528 864       569 305       578 682       578 307       578 307            0              0       578 307       578 307            0               0      578 307       578 307             0              0
+2.4     Ľudské zdroje MsÚ - z cudzích zdrojov                        1 099 401     1 138 126     1 767 951     1 833 140       348 196       348 196            0              0       348 196       348 196            0               0      140 500       140 500             0              0
+3.       Informatizácia                                                491 110       633 446     7 192 062     7 326 712     6 946 814     2 281 955   4 664 859               0     4 751 482     2 053 011   2 698 471                0    1 090 928     1 054 678        36 250              0
+3.1     Interné informačné služby                                      491 110       633 446     7 192 062     7 326 712     6 946 814     2 281 955   4 664 859               0     4 751 482     2 053 011   2 698 471                0    1 090 928     1 054 678        36 250              0
+4.       Bezpečnosť                                                  3 873 503     3 774 614     4 440 002     4 470 649     4 536 393     4 476 393      60 000               0     4 624 795     4 592 995      31 800                0    4 667 106     4 633 506        33 600              0
+
+
+
+
+                                                                                                                                             1
+Výdavky - Program                                                  2024         2025                2026                                    2027                                                2028                                                 2029
+                                                                                                                                      bežný      kapitálový     finančné                  bežný      kapitálový     finančné                   bežný        kapitálový   finančné
+                                                                                                         očakávaná
+Podprogram                                                       skutočnosť                 schválený                   Spolu        rozpočet     rozpočet      operácie    Spolu        rozpočet     rozpočet      operácie      Spolu       rozpočet       rozpočet    operácie
+                                                                                                         skutočnosť
+                                                                                                                                        600         700            800                      600         700            800                       600           700          800
+4.1    Verejný poriadok                                            3 873 503    3 774 614    4 440 002      4 470 649    4 536 393     4 476 393      60 000            0    4 624 795     4 592 995      31 800             0    4 667 106     4 633 506        33 600           0
+5.     Ekonomika a financie                                        3 683 281    4 068 500    5 160 630      5 139 546    5 799 980     1 137 445      47 000    4 615 535    5 688 292     1 142 253      30 000     4 516 039    5 126 860     1 142 253        30 000 3 954 607
+5.1    Dlhová služba a daňová politika                             3 683 281    4 068 500    5 100 630      5 137 826    5 759 980     1 112 445      32 000    4 615 535    5 628 292     1 112 253            0    4 516 039    5 066 860     1 112 253              0 3 954 607
+5.2    Participatívny rozpočet                                             0            0       60 000          1 720       40 000        25 000      15 000            0       60 000        30 000      30 000             0       60 000        30 000        30 000           0
+6.     Mestský majetok                                             5 362 933    5 094 271    8 121 272      8 618 792    7 400 390     5 657 390   1 043 000      700 000    7 864 950     5 664 950   1 500 000       700 000    7 226 100     5 726 100     1 500 000           0
+6.1    Majetok v správe mesta                                      3 602 198    2 428 479    3 364 570      3 215 790    2 996 890     1 953 890   1 043 000            0    3 508 500     2 008 500   1 500 000             0    3 519 500     2 019 500     1 500 000           0
+6.2    Správa bytov a nebytových priestorov                        1 551 648    1 644 957    3 062 150      3 708 450    2 972 150     2 972 150            0           0    3 290 000     3 290 000            0            0    3 380 000     3 380 000              0          0
+6.3    Organizácie a obchodné spol. s majetkovou účasťou mesta        47 740      347 225      334 552        334 552    1 431 350       731 350            0     700 000    1 066 450       366 450            0      700 000      326 600       326 600              0          0
+6.4    Majetok mesta - Investičná výstavba                           161 347      673 610    1 360 000      1 360 000            0             0            0           0            0             0            0            0            0             0              0          0
+7.     Doprava                                                    13 729 075   16 812 553   22 303 700     22 219 035   18 754 962   15 511 454    2 605 000      638 508   19 908 076   18 277 692    1 280 000       350 384   20 154 962   18 810 908      1 280 000      64 054
+7.1    Miestne komunikácie                                         3 995 995    4 515 911    4 070 508      4 752 185    4 890 758     3 717 250     535 000      638 508    7 132 396     6 322 012     460 000       350 384    7 379 282     6 855 228       460 000      64 054
+7.2    Organizované parkovanie                                        88 414      304 593      929 000        601 290      725 000       575 000     150 000            0      885 000       735 000     150 000             0      885 000       735 000       150 000           0
+7.3    Verejná doprava a mikromobilita                             8 540 320    9 229 727   10 714 192     11 205 560   11 289 204   11 219 204       70 000            0   11 290 680   11 220 680       70 000             0   11 290 680   11 220 680         70 000           0
+7.4    Spváva miestnych komunikácií - presunutý do podprogramu        21 130            0            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+7.5    Doprava - investičná výstavba                               1 083 216    2 762 323    6 590 000      5 660 000    1 850 000             0   1 850 000            0      600 000             0     600 000             0      600 000             0       600 000           0
+8.     Životné prostredie                                          9 777 891   10 670 423   12 782 823     12 864 883   12 448 636   11 355 636    1 093 000            0   11 910 185   11 883 185       27 000             0   12 776 737   12 745 737         31 000           0
+8.1    Odpadové hospodárstvo                                       6 407 294    6 916 738    7 923 478      8 010 032    8 160 756     7 790 756     370 000            0    7 886 704     7 886 704            0            0    7 876 240     7 876 240              0          0
+8.2    Verejná zeleň                                                 973 621    1 357 117    1 212 500      1 451 548      966 200       966 200            0           0    1 417 600     1 417 600            0            0    1 454 736     1 454 736              0          0
+8.3    Verejné osvetlenie                                          1 589 662    1 569 750    2 297 145      2 089 303    2 050 270     1 350 270     700 000            0    1 166 121     1 166 121            0            0    1 261 511     1 261 511              0          0
+8.4    Služby mesta                                                  640 118      675 667    1 331 900      1 296 200    1 253 210     1 230 210      23 000            0    1 419 860     1 392 860      27 000             0    2 162 700     2 131 700        31 000           0
+8.5    Aktivačné činnosti                                             12 862       15 282       17 800         17 800       18 200        18 200            0           0       19 900        19 900            0            0       21 550        21 550              0          0
+8.6    Životné prostredie - investičná výstavba                      154 334      135 869            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+9.     Strategický rozvoj                                          4 127 726    4 593 199   29 728 546     32 182 475   27 680 000     1 500 000 26 180 000             0   12 580 000       400 000 12 180 000              0    8 480 000       300 000     8 180 000           0
+9.1    Implementácia projektov                                     1 471 698    2 808 405   28 268 546     27 035 688   25 500 000     1 400 000 24 100 000             0   12 400 000       300 000 12 100 000              0    8 300 000       200 000     8 100 000           0
+9.2    Strategické plánovanie                                         67 077       10 224       30 000         15 000       65 000        60 000       5 000            0       65 000        60 000       5 000             0       65 000        60 000         5 000           0
+9.3    Investičná výstavba                                         2 588 951    1 774 570    1 430 000      5 131 787    2 115 000        40 000   2 075 000            0      115 000        40 000      75 000             0      115 000        40 000        75 000           0
+10.    Územný rozvoj mesta                                            81 637      108 430      691 700        550 972      452 600       452 600            0           0      432 600       432 600            0            0      432 600       432 600              0          0
+10.1   Územnoplánovacie služby                                        42 340       71 234      648 000        548 000      450 000       450 000            0           0      430 000       430 000            0            0      430 000       430 000              0          0
+10.2   Štátny fond rozvoja bývania                                     3 000        4 456        5 600            372            0             0            0           0            0             0            0            0            0             0              0          0
+10.3   Stavebný poriadok                                              35 825       32 220       37 600          2 600        2 600         2 600            0           0        2 600         2 600            0            0        2 600         2 600              0          0
+10.4   Pozemné komunikácie                                               472          520          500              0            0             0            0           0            0             0            0            0            0             0              0          0
+11.    Vzdelávanie                                                 9 779 998    4 383 558    4 445 132      5 624 292    5 600 218     5 600 218            0           0    5 615 787     5 615 787            0            0    5 664 287     5 664 287              0          0
+11.1   Školský úrad                                                   25 447       47 857       54 575        229 913      199 763       199 763            0           0       50 013        50 013            0            0       48 513        48 513              0          0
+11.2   Vzdelávanie - projekty zo ŠR a EÚ                           2 874 584            0            0              0        6 879         6 879            0           0       72 198        72 198            0            0       72 198        72 198              0          0
+11.3   Neštátne školy a školské zariadenia                         6 739 367    4 196 684    4 250 557      5 235 379    5 184 576     5 184 576            0           0    5 184 576     5 184 576            0            0    5 184 576     5 184 576              0          0
+11.4   Spojené školy - Hmotná núdza                                  140 600      139 017      140 000        159 000      159 000       159 000            0           0      159 000       159 000            0            0      159 000       159 000              0          0
+11.5   Vzdelávanie - investičná výstavba                                   0            0            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+11.6   Mládež                                                              0            0            0              0       50 000        50 000            0           0      150 000       150 000            0            0      200 000       200 000              0          0
+12.    Vzdelávanie - RO                                           46 260 502   51 049 843   51 049 843     59 141 667   53 889 187   53 189 187      700 000            0   53 521 228   53 221 228      300 000             0   53 521 228   53 221 228        300 000           0
+12.1   Prenesený výkon                                            25 891 325   37 250 863   37 250 863     44 314 361   39 875 137   39 875 137             0           0   39 875 137   39 875 137             0            0   39 875 137   39 875 137               0          0
+12.2   Projekty zo ŠR a eurofondov                                   426 988       12 000       12 000        240 203       12 000        12 000            0           0       12 000        12 000            0            0       12 000        12 000              0          0
+12.3   Originálne kompetencie                                     14 530 095    8 072 274    8 072 274      8 387 113    7 748 600     7 048 600     700 000            0    7 380 641     7 080 641     300 000             0    7 380 641     7 080 641       300 000           0
+12.4   Vlastné príjmy                                              5 089 894    5 293 206    5 293 206      5 778 490    5 827 450     5 827 450            0           0    5 827 450     5 827 450            0            0    5 827 450     5 827 450              0          0
+12.5   Vzdelávacie aktivity športové                                 322 200      421 500      421 500        421 500      426 000       426 000            0           0      426 000       426 000            0            0      426 000       426 000              0          0
+12.6   Vzdelávanie RO - investičná výstavba                                0            0            0              0            0             0            0           0            0             0            0            0            0             0              0          0
+13.    Služby občanom                                                 24 634       10 652       32 580         17 997       28 500        28 500            0           0       28 500        28 500            0            0       28 500        28 500              0          0
+13.1   Register obyvateľov a adries                                      600          451          480            480            0             0            0           0            0             0            0            0            0             0              0          0
+13.2   Matrika                                                        21 316        7 097       23 000          8 417       20 000        20 000            0           0       20 000        20 000            0            0       20 000        20 000              0          0
+13.3   Klientské centrum                                               2 718        3 103        9 100          9 100        8 500         8 500            0           0        8 500         8 500            0            0        8 500         8 500              0          0
+14.    Sociálne služby                                             4 111 527    2 303 638    3 377 950      3 504 965    1 513 050     1 513 050            0           0    1 562 650     1 502 650      60 000             0    1 412 550     1 412 550              0          0
+14.1   Terénna sociálna práca a komunitná práca                       24 469       33 931       51 250         51 250       51 250        51 250            0           0       51 250        51 250            0            0       51 250        51 250              0          0
+14.2   Inštitút osobitného príjemcu                                   69 143       62 148       92 000         92 240       67 000        67 000            0           0       67 000        67 000            0            0       67 000        67 000              0          0
+14.3   Sociálno-právna ochrana detí a sociálna kuratela                1 628        2 023        5 000          5 000        6 000         6 000            0           0        6 000         6 000            0            0        6 000         6 000              0          0
+14.4   Sociálna pomoc                                              1 808 041      585 422      513 000        513 000      141 500       141 500            0           0       46 000        46 000            0            0       46 500        46 500              0          0
+14.5   Sociálne služby a finančná výpomoc                              1 560       32 693       35 300        215 728      173 500       173 500            0           0      233 500       173 500      60 000             0       55 200        55 200              0          0
+14.6   Centrá sociálnych služieb                                      72 446      138 963      164 600        164 600      145 000       145 000            0           0      164 500       164 500            0            0      168 400       168 400              0          0
+
+
+
+
+                                                                                                                                        2
+Výdavky - Program                                          2024        2025                2026                                      2027                                                 2028                                                  2029
+                                                                                                                              bežný      kapitálový     finančné                   bežný      kapitálový      finančné                    bežný        kapitálový       finančné
+                                                                                                 očakávaná
+Podprogram                                               skutočnosť                schválený                     Spolu       rozpočet     rozpočet      operácie     Spolu        rozpočet     rozpočet       operácie       Spolu       rozpočet       rozpočet        operácie
+                                                                                                 skutočnosť
+                                                                                                                                600         700            800                       600         700             800                        600           700              800
+14.7    Domáca opatrovateľská služba                           6 274       6 384        10 600        10 600        13 600        13 600            0           0        13 600        13 600            0               0      1

@@ -1,0 +1,675 @@
+URL: https://cuet.slovensko.sk/en/dokument/499e749b-e68b-49b3-a88b-3ccdd6c4cb9f
+OBEC: Boľ (Trebišov)
+NÁZOV: Návrh VZN o miestnych daniach na území obce Boľ
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/499e749b-e68b-49b3-a88b-3ccdd6c4cb9f
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN o miestnych daniach na území obce Boľ
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - obec Boľ
+Published from:
+21.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - obec Boľ
+Published to:
+05.12.2026
+Registry case:
+Name of official document:
+Návrh VZN o miestnych daniach na území obce Boľ
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+vzn-o-miestnych-daniach-na-uzemi-obce-bol-q6yjk7.pdf
+Type and size:
+.pdf, 207.18 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/4dbe1b7d-f636-4035-a5cb-72e8199e7a94
+VŠEOBECNE                            ZÁVÄZNÉ NARIADENIE
+                                     OBCE BOĽ
+
+                                   číslo ........... /2026
+
+                o miestnych daniach na území obce Boľ
+
+
+
+Obecné zastupiteľstvo v Boli podľa § 6 ods. 1 a § 11 ods. 4 písm. d) zákona SNR č. 369/1990
+Zb. o obecnom zriadení v znení neskorších predpisov a v súlade s príslušnými ustanoveniami
+zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a
+drobné stavebné odpady v znení neskorších predpisov (ďalej len „zákon o miestnych daniach“)
+sa uznieslo na tomto všeobecne záväznom nariadení (ďalej len „VZN“):
+
+
+
+
+Návrh VZN vyvesený na úradnej tabuli obce dňa:                    od 13.11.2026 do 28.11.2026
+          zverejnený na webovej stránke obce dňa:                 od 13.11.2026 do 28.11.2026
+
+VZN schválené uznesením miestneho obecného zastupiteľstva č. .................. dňa ..................
+
+VZN          vyvesené na úradnej tabuli obce dňa:               od ................... do ......................
+             zverejnené na webovej stránke obce dňa:            od .................. do ......................
+
+
+
+                       VZN nadobúda účinnosť dňa 01.01.2027
+
+
+
+
+Spracovatelia: JUDr. Atila Bohács, LL.M.
+               Brezo Zoltán
+   Obecné zastupiteľstvo v Boli podľa § 6 ods. 1 a § 11 ods. 4 písm. d) zákona SNR č. 369/1990
+Zb. o obecnom zriadení v znení neskorších predpisov a v súlade s príslušnými ustanoveniami
+zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a
+drobné stavebné odpady v znení neskorších predpisov (ďalej len „zákon o miestnych daniach“)
+sa uznieslo na tomto všeobecne záväznom nariadení (ďalej len „VZN“):
+
+                                             §1
+
+                                   Základné ustanovenia
+
+(1) Obec Boľ na svojom území ukladá s účinnosťou od 1. januára 2027 tieto miestne dane:
+
+   •   a) daň z nehnuteľností,
+   •   b) daň za psa,
+   •   c) daň za užívanie verejného priestranstva.
+
+(2) Toto VZN upravuje podrobnosti o podmienkach určovania a vyberania miestnych daní
+uvedených v odseku 1, ročné sadzby daní, hodnoty pozemkov, príplatky za podlažia,
+oslobodenia od dane a zníženia dane na území obce Boľ.
+
+                                          I. ČASŤ
+
+                                DAŇ Z NEHNUTEĽNOSTÍ
+
+                                             §2
+
+                              Členenie dane z nehnuteľností
+
+Daň z nehnuteľností zahŕňa:
+
+   •   a) daň z pozemkov,
+   •   b) daň zo stavieb,
+   •   c) daň z bytov a z nebytových priestorov v bytovom dome (ďalej len „daň z bytov“).
+
+                                             §3
+
+                                      Daň z pozemkov
+
+(1) Základom dane z pozemkov je hodnota pozemku bez porastov určená vynásobením výmery
+pozemkov v m² a hodnoty pôdy za 1 m² uvedenej v prílohe č. 1 alebo prílohe č. 2 zákona o
+miestnych daniach, ak tento zákon alebo toto VZN neustanovuje inak.
+
+(2) Správca dane určuje pre pozemky na území obce Boľ hodnotu pozemkov za 1 m²
+nasledovne:
+
+   •   a) orná pôda, chmeľnice, vinice, ovocné sady: 0,3999 €/m² (hodnota podľa prílohy č.
+       1 zákona),
+   •   b) trvalé trávne porasty: 0,0375 €/m² (hodnota podľa prílohy č. 1 zákona),
+   •   c) záhrady: 1,32 €/m² (hodnota podľa prílohy č. 2 zákona),
+   •   d) zastavané plochy a nádvoria, ostatné plochy: 1,32 €/m² (hodnota podľa prílohy č. 2
+       zákona),
+   •   e) stavebné pozemky: 13,27 €/m² (hodnota podľa prílohy č. 2 zákona).
+
+(3) Správca dane určuje ročnú sadzbu dane z pozemkov pre jednotlivé druhy pozemkov v
+katastrálnom území obce Boľ takto:
+
+   •   a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávne porasty: 0,55 % zo základu
+       dane,
+   •   b) záhrady: 0,45 % zo základu dane,
+   •   c) zastavané plochy a nádvoria, ostatné plochy: 0,45 % zo základu dane,
+   •   d) stavebné pozemky: 0,45 % zo základu dane,
+   •   e) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné
+       hospodársky využívané vodné plochy: 0,40 % zo základu dane.
+
+
+
+                                             §4
+
+                                      Daň zo stavieb
+
+(1) Základom dane zo stavieb je výmera zastavanej plochy v m². Zastavanou plochou sa
+rozumie pôdorys stavby na úrovni najrozsiahlejšej nadzemnej časti stavby, pričom sa do
+zastavanej plochy nezapočítava prečnievajúca časť strešnej konštrukcie stavby.
+
+(2) Správca dane určuje ročnú sadzbu dane zo stavieb na území obce Boľ za každý aj začatý m²
+zastavanej plochy stavby takto:
+
+   •   a) stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu:
+       0,10 €/m²,
+   •   b) stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné hospodárstvo,
+       stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane stavieb
+       na vlastnú administratívu: 0,10 €/m²,
+   •   c) chaty a stavby na individuálnu rekreáciu: 0,25 €/m²,
+   •   d) samostatne stojace garáže: 0,30 €/m²,
+   •   e) stavby hromadných garáží: 0,30 €/m²,
+   •   f) stavby hromadných garáží umiestnené pod zemou: 0,30 €/m²,
+   •   g) priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu, stavby
+       využívané na skladovanie vlastnej produkcie vrátane stavieb na administratívu: 0,50
+       €/m²,
+   •   h) stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie a administratívu
+       súvisiacu s ostatným podnikaním a zárobkovou činnosťou: 0,80 €/m²,
+   •   i) ostatné stavby neuvedené v písmenách a) až h): 0,25 €/m².
+
+(3) Pri viacpodlažných stavbách správca dane určuje príplatok za podlažie vo výške 0,05 € za
+každé ďalšie podlažie okrem prvého nadzemného podlažia (pozn.: zákon č. 582/2004 Z. z. v §
+12 ods. 3 už neumožňuje určovať príplatok percentom, ale len pevnou sumou v eurách, najviac
+0,33 €).
+                                             §5
+
+                                        Daň z bytov
+
+(1) Základom dane z bytov je výmera podlahovej plochy bytu alebo nebytového priestoru v m².
+
+(2) Ročná sadzba dane z bytov na území obce Boľ za každý aj začatý m² podlahovej plochy
+bytu a nebytového priestoru v bytovom dome je 0,10 €/m².
+
+                                             §6
+
+                  Oslobodenie od dane a zníženie dane z nehnuteľností
+
+(1) Okrem zákonných oslobodení podľa § 17 ods. 1 zákona o miestnych daniach správca dane
+oslobodzuje od dane z pozemkov:
+
+   •   a) pozemky vo vlastníctve cirkví a náboženských spoločností registrovaných štátom,
+       ktoré slúžia na vzdelávanie, na vedeckovýskumné účely alebo na vykonávanie
+       náboženských obradov,
+   •   b) pozemky (trvalé trávne porasty), na ktorých sú močiare, plochy rašelinísk a slanísk,
+       remízky, háje, vetrolamy a pásma hygienickej ochrany vodných zdrojov I. stupňa a II.
+       stupňa, vrátane pozemkov v medzihrádznom priestore rieky Latorica.
+
+(2) Okrem zákonných oslobodení podľa § 17 ods. 1 zákona o miestnych daniach správca dane
+oslobodzuje od dane zo stavieb a od dane z bytov stavby alebo byty slúžiace školám, školským
+zariadeniam a zdravotníckym zariadeniam, zariadeniam sociálnych služieb a stavbám slúžiacim
+na vykonávanie náboženských obradov cirkví registrovaných štátom.
+
+(3) Správca dane poskytuje zníženie dane z pozemkov vo výške 50 % na záhrady (§ 3 ods. 2
+písm. c)), ktorých vlastníkmi sú:
+
+   •   a) fyzické osoby staršie ako 70 rokov, ak tieto pozemky slúžia výhradne na ich osobnú
+       potrebu,
+   •   b) fyzické osoby s ťažkým zdravotným postihnutím alebo držitelia preukazu fyzickej
+       osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým
+       zdravotným postihnutím so sprievodcom, ak tieto pozemky slúžia výhradne na ich
+       osobnú potrebu.
+
+(4) Správca dane poskytuje zníženie dane zo stavieb a dane z bytov vo výške 50 % na stavby
+na bývanie a byty (§ 4 ods. 2 písm. a) a § 5 ods. 2), ktorých vlastníkmi sú:
+
+   •   a) fyzické osoby staršie ako 70 rokov, ak tieto stavby alebo byty slúžia na ich trvalé
+       bývanie,
+   •   b) fyzické osoby s ťažkým zdravotným postihnutím alebo držitelia preukazu fyzickej
+       osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým
+       zdravotným postihnutím so sprievodcom, ktoré slúžia na ich trvalé bývanie,
+   •   c) stavby na bývanie alebo byty, ktorých využitie je obmedzené z dôvodu rozsiahlej
+       rekonštrukcie, stavebnej uzávery alebo umiestnenia na podkopanom pozemku.
+(5) Doklady preukazujúce nárok na zníženie dane podľa odsekov 3 a 4 predloží daňovník
+správcovi dane v lehote na podanie daňového priznania najneskôr do 31. januára príslušného
+zdaňovacieho obdobia, inak nárok na zníženie dane na príslušné zdaňovacie obdobie zaniká.
+
+   Vekovú hranicu 70 rokov zisťuje správca dane z úradnej moci podľa stavu k 1. januáru
+zdaňovacieho obdobia.
+
+                                         II. ČASŤ
+
+                                      DAŇ ZA PSA
+
+                                               §7
+
+                        Sadzba dane a oslobodenie od dane za psa
+
+(1) Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou osobou alebo
+právnickou osobou. Predmetom dane za psa nie je pes chovaný na vedecké účely a výskumné
+účely, pes umiestnený v útulku zvierat a pes so špeciálnym výcvikom, ktorého vlastní alebo
+používa držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo držiteľ
+preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+
+(2) Daňovníkom je fyzická osoba alebo právnická osoba, ktorá je vlastníkom psa alebo
+držiteľom psa, ak sa nedá preukázať, kto psa vlastní.
+
+(3) Základom dane je počet psov.
+
+(4) Sadzba dane za psa na území obce Boľ je 10,00 € za jedného psa a kalendárny rok.
+
+(5) Správca dane oslobodzuje od dane za psa:
+
+   •   a) psa osvojeného z útulku zvierat počas prvých 24 mesiacov od mesiaca nasledujúceho
+       po jeho osvojení (na základe potvrdenia z útulku),
+   •   b) poľovného psa s vykonanými poľovnými skúškami, ktorého vlastníkom alebo
+       držiteľom je člen poľovníckej organizácie.
+
+(6) Priznanie k dani za psa je daňovník povinný podať správcovi dane na predpísanom tlačive
+najneskôr do 30 dní odo dňa vzniku daňovej povinnosti. V rovnakej lehote je daňovník povinný
+podať čiastkové priznanie pri zániku daňovej povinnosti.
+
+                                        III. ČASŤ
+
+                DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA
+
+                                               §8
+
+                        Predmet dane, sadzba dane a oslobodenie
+
+(1) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo
+vlastníctve obce Boľ, a to najmä miestne cesty v celej svojej dĺžke a šírke od krajnice po
+krajnicu, vybudované chodníky, zelené plochy, námestia, parkoviská a ostatné verejnosti
+prístupné parcely v intraviláne obce.
+
+(2) Osobitným užívaním verejného priestranstva sa rozumie umiestnenie zariadenia slúžiaceho
+na poskytovanie služieb, umiestnenie stavebného zariadenia, predajného zariadenia, zariadenia
+cirkusu, zariadenia lunaparku a iných atrakcií, umiestnenie skládky a dočasné parkovanie
+motorového vozidla na vyhradenom priestore verejného priestranstva.
+
+(3) Vyhradenými priestormi verejného priestranstva na dočasné parkovanie motorového
+vozidla v obci Boľ sú označené parkovacie miesta pred obecným úradom, pred domom smútku,
+pred športovým areálom a pred základnou školou.
+
+(4) Základom dane za užívanie verejného priestranstva je výmera užívaného verejného
+priestranstva v m².
+
+(5) Sadzba dane za užívanie verejného priestranstva je 0,40 € za každý aj začatý m² osobitne
+užívaného verejného priestranstva a za každý aj začatý deň.
+
+(6) Daňovník je povinný oznámiť svoj zámer osobitného užívania verejného priestranstva
+správcovi dane najneskôr v deň vzniku daňovej povinnosti. Skončenie užívania verejného
+priestranstva je daňovník povinný oznámiť správcovi dane najneskôr do 3 pracovných dní odo
+dňa zániku daňovej povinnosti.
+
+(7) Správca dane oslobodzuje od dane za užívanie verejného priestranstva užívanie verejného
+priestranstva:
+
+   •   a) na kultúrne, športové a charitatívne podujatia organizované bez vstupného alebo
+       ktorých celý výťažok je určený na charitatívne a verejnoprospešné účely,
+   •   b) na účely ochrany zdravia, bezpečnosti a obrany obyvateľstva,
+   •   c) obcou Boľ alebo rozpočtovými a príspevkovými organizáciami zriadenými obcou
+       Boľ.
+
+(8) Správca dane poskytuje zníženie dane za užívanie verejného priestranstva o 50 % v prípade
+umiestnenia stavebného zariadenia alebo skládky stavebného materiálu pri obnove a
+rekonštrukcii rodinného domu fyzickou osobou, ak doba užívania nepresiahne 30 dní.
+
+                                         IV. ČASŤ
+
+                     SPOLOČNÉ A ZÁVEREČNÉ USTANOVENIA
+
+                                            §9
+
+                               Správa daní a platenie dane
+
+(1) Správu miestnych daní na území obce Boľ vykonáva Obec Boľ ako správca dane
+prostredníctvom starostu obce a poverených zamestnancov obce.
+
+(2) Vyrubovanie miestnych daní, lehoty na podanie daňového priznania, vznik a zánik daňovej
+povinnosti a splatnosť vyrubenej dane sa riadia príslušnými ustanoveniami zákona o miestnych
+daniach (zákon č. 582/2004 Z. z.) a Daňového poriadku (zákon č. 563/2009 Z. z.).
+(3) Vyrubenú daň možno zaplatiť :
+
+bezhotovostným prevodom na účet správcu dane
+         - IBAN : SK66 5600 0000 0042 4993 1001 vedený v Prima banka
+             Slovensko, a.s.
+         - v hotovosti do pokladne Obecného úradu v Boli.
+
+(4) Správca dane určuje, že daň z nehnuteľností, daň za psa a daň za užívanie verejného
+priestranstva nižšiu ako 3,00 € nebude vyrubovať ani vyberať (pozn.: zákonné oprávnenie
+podľa § 99e ods. 9 zákona o miestnych daniach – šetrí náklady obce na poštovné pri drobných
+sumách).
+
+                                           § 10
+
+                           Zrušovacie a záverečné ustanovenia
+
+(1) Dňom nadobudnutia účinnosti tohto všeobecne záväzného nariadenia sa zrušuje Všeobecne
+záväzné nariadenie Obce Boľ č. 2/2023 o miestnych daniach zo dňa 29.11.2023.
+
+(2) Na tomto všeobecne záväznom nariadení sa uznieslo Obecné zastupiteľstvo v Boli dňa ...
+2026, uznesením č. .../2026.
+
+(3) Toto všeobecne záväzné nariadenie nadobúda účinnosť dňom 1. januára 2027.
+
+
+
+
+                                                           JUDr. Atila Bohács, LL.M.
+                                                               starosta obce
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/zobraz/4dbe1b7d-f636-4035-a5cb-72e8199e7a94
+VŠEOBECNE                            ZÁVÄZNÉ NARIADENIE
+                                     OBCE BOĽ
+
+                                   číslo ........... /2026
+
+                o miestnych daniach na území obce Boľ
+
+
+
+Obecné zastupiteľstvo v Boli podľa § 6 ods. 1 a § 11 ods. 4 písm. d) zákona SNR č. 369/1990
+Zb. o obecnom zriadení v znení neskorších predpisov a v súlade s príslušnými ustanoveniami
+zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a
+drobné stavebné odpady v znení neskorších predpisov (ďalej len „zákon o miestnych daniach“)
+sa uznieslo na tomto všeobecne záväznom nariadení (ďalej len „VZN“):
+
+
+
+
+Návrh VZN vyvesený na úradnej tabuli obce dňa:                    od 13.11.2026 do 28.11.2026
+          zverejnený na webovej stránke obce dňa:                 od 13.11.2026 do 28.11.2026
+
+VZN schválené uznesením miestneho obecného zastupiteľstva č. .................. dňa ..................
+
+VZN          vyvesené na úradnej tabuli obce dňa:               od ................... do ......................
+             zverejnené na webovej stránke obce dňa:            od .................. do ......................
+
+
+
+                       VZN nadobúda účinnosť dňa 01.01.2027
+
+
+
+
+Spracovatelia: JUDr. Atila Bohács, LL.M.
+               Brezo Zoltán
+   Obecné zastupiteľstvo v Boli podľa § 6 ods. 1 a § 11 ods. 4 písm. d) zákona SNR č. 369/1990
+Zb. o obecnom zriadení v znení neskorších predpisov a v súlade s príslušnými ustanoveniami
+zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a
+drobné stavebné odpady v znení neskorších predpisov (ďalej len „zákon o miestnych daniach“)
+sa uznieslo na tomto všeobecne záväznom nariadení (ďalej len „VZN“):
+
+                                             §1
+
+                                   Základné ustanovenia
+
+(1) Obec Boľ na svojom území ukladá s účinnosťou od 1. januára 2027 tieto miestne dane:
+
+   •   a) daň z nehnuteľností,
+   •   b) daň za psa,
+   •   c) daň za užívanie verejného priestranstva.
+
+(2) Toto VZN upravuje podrobnosti o podmienkach určovania a vyberania miestnych daní
+uvedených v odseku 1, ročné sadzby daní, hodnoty pozemkov, príplatky za podlažia,
+oslobodenia od dane a zníženia dane na území obce Boľ.
+
+                                          I. ČASŤ
+
+                                DAŇ Z NEHNUTEĽNOSTÍ
+
+                                             §2
+
+                              Členenie dane z nehnuteľností
+
+Daň z nehnuteľností zahŕňa:
+
+   •   a) daň z pozemkov,
+   •   b) daň zo stavieb,
+   •   c) daň z bytov a z nebytových priestorov v bytovom dome (ďalej len „daň z bytov“).
+
+                                             §3
+
+                                      Daň z pozemkov
+
+(1) Základom dane z pozemkov je hodnota pozemku bez porastov určená vynásobením výmery
+pozemkov v m² a hodnoty pôdy za 1 m² uvedenej v prílohe č. 1 alebo prílohe č. 2 zákona o
+miestnych daniach, ak tento zákon alebo toto VZN neustanovuje inak.
+
+(2) Správca dane určuje pre pozemky na území obce Boľ hodnotu pozemkov za 1 m²
+nasledovne:
+
+   •   a) orná pôda, chmeľnice, vinice, ovocné sady: 0,3999 €/m² (hodnota podľa prílohy č.
+       1 zákona),
+   •   b) trvalé trávne porasty: 0,0375 €/m² (hodnota podľa prílohy č. 1 zákona),
+   •   c) záhrady: 1,32 €/m² (hodnota podľa prílohy č. 2 zákona),
+   •   d) zastavané plochy a nádvoria, ostatné plochy: 1,32 €/m² (hodnota podľa prílohy č. 2
+       zákona),
+   •   e) stavebné pozemky: 13,27 €/m² (hodnota podľa prílohy č. 2 zákona).
+
+(3) Správca dane určuje ročnú sadzbu dane z pozemkov pre jednotlivé druhy pozemkov v
+katastrálnom území obce Boľ takto:
+
+   •   a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávne porasty: 0,55 % zo základu
+       dane,
+   •   b) záhrady: 0,45 % zo základu dane,
+   •   c) zastavané plochy a nádvoria, ostatné plochy: 0,45 % zo základu dane,
+   •   d) stavebné pozemky: 0,45 % zo základu dane,
+   •   e) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné
+       hospodársky využívané vodné plochy: 0,40 % zo základu dane.
+
+
+
+                                             §4
+
+                                      Daň zo stavieb
+
+(1) Základom dane zo stavieb je výmera zastavanej plochy v m². Zastavanou plochou sa
+rozumie pôdorys stavby na úrovni najrozsiahlejšej nadzemnej časti stavby, pričom sa do
+zastavanej plochy nezapočítava prečnievajúca časť strešnej konštrukcie stavby.
+
+(2) Správca dane určuje ročnú sadzbu dane zo stavieb na území obce Boľ za každý aj začatý m²
+zastavanej plochy stavby takto:
+
+   •   a) stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu:
+       0,10 €/m²,
+   •   b) stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné hospodárstvo,
+       stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane stavieb
+       na vlastnú administratívu: 0,10 €/m²,
+   •   c) chaty a stavby na individuálnu rekreáciu: 0,25 €/m²,
+   •   d) samostatne stojace garáže: 0,30 €/m²,
+   •   e) stavby hromadných garáží: 0,30 €/m²,
+   •   f) stavby hromadných garáží umiestnené pod zemou: 0,30 €/m²,
+   •   g) priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu, stavby
+       využívané na skladovanie vlastnej produkcie vrátane stavieb na administratívu: 0,50
+       €/m²,
+   •   h) stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie a administratívu
+       súvisiacu s ostatným podnikaním a zárobkovou činnosťou: 0,80 €/m²,
+   •   i) ostatné stavby neuvedené v písmenách a) až h): 0,25 €/m².
+
+(3) Pri viacpodlažných stavbách správca dane určuje príplatok za podlažie vo výške 0,05 € za
+každé ďalšie podlažie okrem prvého nadzemného podlažia (pozn.: zákon č. 582/2004 Z. z. v §
+12 ods. 3 už neumožňuje určovať príplatok percentom, ale len pevnou sumou v eurách, najviac
+0,33 €).
+                                             §5
+
+                                        Daň z bytov
+
+(1) Základom dane z bytov je výmera podlahovej plochy bytu alebo nebytového priestoru v m².
+
+(2) Ročná sadzba dane z bytov na území obce Boľ za každý aj začatý m² podlahovej plochy
+bytu a nebytového priestoru v bytovom dome je 0,10 €/m².
+
+                                             §6
+
+                  Oslobodenie od dane a zníženie dane z nehnuteľností
+
+(1) Okrem zákonných oslobodení podľa § 17 ods. 1 zákona o miestnych daniach správca dane
+oslobodzuje od dane z pozemkov:
+
+   •   a) pozemky vo vlastníctve cirkví a náboženských spoločností registrovaných štátom,
+       ktoré slúžia na vzdelávanie, na vedeckovýskumné účely alebo na vykonávanie
+       náboženských obradov,
+   •   b) pozemky (trvalé trávne porasty), na ktorých sú močiare, plochy rašelinísk a slanísk,
+       remízky, háje, vetrolamy a pásma hygienickej ochrany vodných zdrojov I. stupňa a II.
+       stupňa, vrátane pozemkov v medzihrádznom priestore rieky Latorica.
+
+(2) Okrem zákonných oslobodení podľa § 17 ods. 1 zákona o miestnych daniach správca dane
+oslobodzuje od dane zo stavieb a od dane z bytov stavby alebo byty slúžiace školám, školským
+zariadeniam a zdravotníckym zariadeniam, zariadeniam sociálnych služieb a stavbám slúžiacim
+na vykonávanie náboženských obradov cirkví registrovaných štátom.
+
+(3) Správca dane poskytuje zníženie dane z pozemkov vo výške 50 % na záhrady (§ 3 ods. 2
+písm. c)), ktorých vlastníkmi sú:
+
+   •   a) fyzické osoby staršie ako 70 rokov, ak tieto pozemky slúžia výhradne na ich osobnú
+       potrebu,
+   •   b) fyzické osoby s ťažkým zdravotným postihnutím alebo držitelia preukazu fyzickej
+       osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým
+       zdravotným postihnutím so sprievodcom, ak tieto pozemky slúžia výhradne na ich
+       osobnú potrebu.
+
+(4) Správca dane poskytuje zníženie dane zo stavieb a dane z bytov vo výške 50 % na stavby
+na bývanie a byty (§ 4 ods. 2 písm. a) a § 5 ods. 2), ktorých vlastníkmi sú:
+
+   •   a) fyzické osoby staršie ako 70 rokov, ak tieto stavby alebo byty slúžia na ich trvalé
+       bývanie,
+   •   b) fyzické osoby s ťažkým zdravotným postihnutím alebo držitelia preukazu fyzickej
+       osoby s ťažkým zdravotným postihnutím alebo preukazu fyzickej osoby s ťažkým
+       zdravotným postihnutím so sprievodcom, ktoré slúžia na ich trvalé bývanie,
+   •   c) stavby na bývanie alebo byty, ktorých využitie je obmedzené z dôvodu rozsiahlej
+       rekonštrukcie, stavebnej uzávery alebo umiestnenia na podkopanom pozemku.
+(5) Doklady preukazujúce nárok na zníženie dane podľa odsekov 3 a 4 predloží daňovník
+správcovi dane v lehote na podanie daňového priznania najneskôr do 31. januára príslušného
+zdaňovacieho obdobia, inak nárok na zníženie dane na príslušné zdaňovacie obdobie zaniká.
+
+   Vekovú hranicu 70 rokov zisťuje správca dane z úradnej moci podľa stavu k 1. januáru
+zdaňovacieho obdobia.
+
+                                         II. ČASŤ
+
+                                      DAŇ ZA PSA
+
+                                               §7
+
+                        Sadzba dane a oslobodenie od dane za psa
+
+(1) Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou osobou alebo
+právnickou osobou. Predmetom dane za psa nie je pes chovaný na vedecké účely a výskumné
+účely, pes umiestnený v útulku zvierat a pes so špeciálnym výcvikom, ktorého vlastní alebo
+používa držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím alebo držiteľ
+preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+
+(2) Daňovníkom je fyzická osoba alebo právnická osoba, ktorá je vlastníkom psa alebo
+držiteľom psa, ak sa nedá preukázať, kto psa vlastní.
+
+(3) Základom dane je počet psov.
+
+(4) Sadzba dane za psa na území obce Boľ je 10,00 € za jedného psa a kalendárny rok.
+
+(5) Správca dane oslobodzuje od dane za psa:
+
+   •   a) psa osvojeného z útulku zvierat počas prvých 24 mesiacov od mesiaca nasledujúceho
+       po jeho osvojení (na základe potvrdenia z útulku),
+   •   b) poľovného psa s vykonanými poľovnými skúškami, ktorého vlastníkom alebo
+       držiteľom je člen poľovníckej organizácie.
+
+(6) Priznanie k dani za psa je daňovník povinný podať správcovi dane na predpísanom tlačive
+najneskôr do 30 dní odo dňa vzniku daňovej povinnosti. V rovnakej lehote je daňovník povinný
+podať čiastkové priznanie pri zániku daňovej povinnosti.
+
+                                        III. ČASŤ
+
+                DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA
+
+                                               §8
+
+                        Predmet dane, sadzba dane a oslobodenie
+
+(1) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo
+vlastníctve obce Boľ, a to najmä miestne cesty v celej svojej dĺžke a šírke od krajnice po
+krajnicu, vybudované chodníky, zelené plochy, námestia, parkoviská a ostatné verejnosti
+prístupné parcely v intraviláne obce.
+
+(2) Osobitným užívaním verejného priestranstva sa rozumie umiestnenie zariadenia slúžiaceho
+na poskytovanie služieb, umiestnenie stavebného zariadenia, predajného zariadenia, zariadenia
+cirkusu, zariadenia lunaparku a iných atrakcií, umiestnenie skládky a dočasné parkovanie
+motorového vozidla na vyhradenom priestore verejného priestranstva.
+
+(3) Vyhradenými priestormi verejného priestranstva na dočasné parkovanie motorového
+vozidla v obci Boľ sú označené parkovacie miesta pred obecným úradom, pred domom smútku,
+pred športovým areálom a pred základnou školou.
+
+(4) Základom dane za užívanie verejného priestranstva je výmera užívaného verejného
+priestranstva v m².
+
+(5) Sadzba dane za užívanie verejného priestranstva je 0,40 € za každý aj začatý m² osobitne
+užívaného verejného priestranstva a za každý aj začatý deň.
+
+(6) Daňovník je povinný oznámiť svoj zámer osobitného užívania verejného priestranstva
+správcovi dane najneskôr v deň vzniku daňovej povinnosti. Skončenie užívania verejného
+priestranstva je daňovník povinný oznámiť správcovi dane najneskôr do 3 pracovných dní odo
+dňa zániku daňovej povinnosti.
+
+(7) Správca dane oslobodzuje od dane za užívanie verejného priestranstva užívanie verejného
+priestranstva:
+
+   •   a) na kultúrne, športové a charitatívne podujatia organizované bez vstupného alebo
+       ktorých celý výťažok je určený na charitatívne a verejnoprospešné účely,
+   •   b) na účely ochrany zdravia, bezpečnosti a obrany obyvateľstva,
+   •   c) obcou Boľ alebo rozpočtovými a príspevkovými organizáciami zriadenými obcou
+       Boľ.
+
+(8) Správca dane poskytuje zníženie dane za užívanie verejného priestranstva o 50 % v prípade
+umiestnenia stavebného zariadenia alebo skládky stavebného materiálu pri obnove a
+rekonštrukcii rodinného domu fyzickou osobou, ak doba užívania nepresiahne 30 dní.
+
+                                         IV. ČASŤ
+
+                     SPOLOČNÉ A ZÁVEREČNÉ USTANOVENIA
+
+                                            §9
+
+                               Správa daní a platenie dane
+
+(1) Správu miestnych daní na území obce Boľ vykonáva Obec Boľ ako správca dane
+prostredníctvom starostu obce a poverených zamestnancov obce.
+
+(2) Vyrubovanie miestnych daní, lehoty na podanie daňového priznania, vznik a zánik daňovej
+povinnosti a splatnosť vyrubenej dane sa riadia príslušnými ustanoveniami zákona o miestnych
+daniach (zákon č. 582/2004 Z. z.) a Daňového poriadku (zákon č. 563/2009 Z. z.).
+(3) Vyrubenú daň možno zaplatiť :
+
+bezhotovostným prevodom na účet správcu dane
+         - IBAN : SK66 5600 0000 0042 4993 1001 vedený v Prima banka
+             Slovensko, a.s.
+         - v hotovosti do pokladne Obecného úradu v Boli.
+
+(4) Správca dane určuje, že daň z nehnuteľností, daň za psa a daň za užívanie verejného
+priestranstva nižšiu ako 3,00 € nebude vyrubovať ani vyberať (pozn.: zákonné oprávnenie
+podľa § 99e ods. 9 zákona o miestnych daniach – šetrí náklady obce na poštovné pri drobných
+sumách).
+
+                                           § 10
+
+                           Zrušovacie a záverečné ustanovenia
+
+(1) Dňom nadobudnutia účinnosti tohto všeobecne záväzného nariadenia sa zrušuje Všeobecne
+záväzné nariadenie Obce Boľ č. 2/2023 o miestnych daniach zo dňa 29.11.2023.
+
+(2) Na tomto všeobecne záväznom nariadení sa uznieslo Obecné zastupiteľstvo v Boli dňa ...
+2026, uznesením č. .../2026.
+
+(3) Toto všeobecne záväzné nariadenie nadobúda účinnosť dňom 1. januára 2027.
+
+
+
+
+                                                           JUDr. Atila Bohács, LL.M.
+                                                               starosta obce
+

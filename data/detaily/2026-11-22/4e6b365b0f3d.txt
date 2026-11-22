@@ -1,0 +1,1493 @@
+URL: https://cuet.slovensko.sk/en/dokument/e0389719-e705-48cc-a649-a7b36f8f2779
+OBEC: Rožňava (Rožňava)
+NÁZOV: Návrh rozpočtu mesta
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/e0389719-e705-48cc-a649-a7b36f8f2779
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu mesta
+Search publisher's RSS feeds
+Published on official board:
+Mesto Rožňava (OVM)
+Published from:
+20.11.2026
+Registry symbol:
+Documents author:
+Mesto Rožňava (OVM)
+Published to:
+07.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu mesta
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh rozpočtu mesta Rožňava vrátane rozpočtov rozpočtových a príspevkových organizácií na rok 2027 a výhľadovo na roky 2028-2029
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh rozpočtu mesta Rožňava vrátane rozpočtov rozpočtových a príspevkových organizácií na rok 2027 a výhľadovo na roky 2028-2029 - zverejnenie 15 dní pred MZ.pdf
+Type and size:
+.pdf, 2.29 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Oznámenie - návrh rozpočtu.pdf
+Type and size:
+.pdf, 74.57 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/292afc19-eeb7-41f3-b507-3db460755d16
+                                   M E STO R O Ž ŇAVA
+
+
+
+                                                 Pre zasadnutie
+                                                 Mestského zastupiteľstva v Rožňave
+                                                 dňa 07.12.2026
+
+                                                 K bodu rokovania č.:
+
+
+Názov správy:
+
+Návrh rozpočtu mesta Rožňava vrátane rozpočtov rozpočtových a príspevkových organizácií
+na rok 2027 a výhľadovo na roky 2028-2029
+
+Predkladá:                                  Návrh na uznesenie:
+Mgr. Michal Drengubiak
+                                            Mestské zastupiteľstvo v Rožňave
+
+
+Prerokované:
+                                            a/ schvaľuje rozpočet mesta vrátane
+                                            rozpočtov RO a PO na rok 2027 a výhľadovo
+                                            na roky 2028-2029 podľa uznesenia na str. 2-
+                                            3
+
+
+
+
+Spracoval: Bc. Michaela Stehlová
+
+
+Kontrolu správnosti a zákonnosti uznesení
+vykonal:
+JUDr. Katarína Balážová
+
+
+
+
+                                             1
+Uznesenie:
+
+Mestské zastupiteľstvo:
+berie na vedomie stanovisko hlavnej kontrolórky
+a
+1) schvaľuje rozpočet mesta na rok 2027 vrátane programového rozpočtu a tabuľkovej časti
+    materiálu : ako vyrovnaný
+        z toho:
+                                                                                  prebytok +
+        Sumarizácia 2027                              príjmy        výdavky       /schodok -
+
+
+
+        Bežný rozpočet - HČ                         26 170 061 €   25 356 474 €     813 587 €
+
+
+        Kapitálový rozpočet                         23 156 730 €   23 469 358 €    -312 628 €
+
+
+        Finančné operácie                            1 265 818 €    1 766 777 €    -500 959 €
+        Podnikateľská činnosť SŠ Komenského              8 000 €        8 000 €            0€
+        SPOLU                                       50 600 609 €   50 600 609 €            0€
+
+
+2) schvaľuje limit príspevkov pre príspevkové organizácie v roku 2027:
+    -   pre Mestské divadlo ACTORES Rožňava, prísp. org. v sume 200 000 € ako bežný príspevok
+    -   pre Technické služby mesta Rožňava, prísp. org. v sume 1 132 000 € ako bežný príspevok
+    -   pre Odpadové služby mesta Rožňava, prísp. org. v sume 420 000 € ako bežný príspevok
+3) schvaľuje rozpočet príspevkových organizácií: Mestské divadlo ACTORES Rožňava,
+    Technické služby mesta Rožňava a Odpadové služby mesta Rožňava na rok 2027
+4) schvaľuje rozpočty rozpočtových organizácií na rok 2027
+5) schvaľuje použitie zostatku rezervného fondu na kapitálové výdavky a výdavkové finančné
+    operácie podľa schváleného rozpočtu mesta na rok 2027
+6) schvaľuje financovanie cirkevných a súkromných škôl na základe zmlúv o poskytovaní
+    finančných prostriedkov na mzdy a prevádzku neštátnych škôl a školských zariadení a na
+    základe zákona č. 322/2025 Z. z. o financovaní základných škôl, stredných škôl a školských
+    zariadení v znení neskorších predpisov na rok 2027
+7) schvaľuje kapitálové výdavky mesta tak, ako je to uvedené v tabuľke - kapitálové výdavky na
+    rok 2027
+8) schvaľuje ročné výdavky na udržanie MHD v sume 115 000 €
+9) v prípade realizácie kapitálových výdavkov na rekonštrukciu bytov schvaľuje príjem úveru
+    ŠFRB vo výške 110 000 €
+
+                                                2
+10) schvaľuje limit príspevku formou dotácie v roku 2027 pre organizácie v oblasti kultúry spolu
+   v sume 45 000 € a pre organizácie v oblasti športu spolu v sume 135 000 €
+11) berie na vedomie návrhy rozpočtov mesta, príspevkových a rozpočtových organizácií na roky
+   2028, 2029 vrátane programového rozpočtu
+
+
+a ukladá
+a/ oznámiť rozpočtovým a príspevkovým organizáciám schválenie rozpočtov na roky 2027 – 2029
+       Termín: do 21.12.2026
+b/ informovať Mestské zastupiteľstvo o čerpaní zostatku rezervného fondu a úveru
+       Termín: po čerpaní prostriedkov rezervného fondu a úveru
+
+
+
+
+                                               3
+                  Dôvodová správa k návrhu rozpočtu na roky 2027 - 2029
+
+      Rozpočet mesta Rožňava      na roky 2027 - 2029 je zostavený v súlade s nasledovnými
+právnymi normami:
+
+   •   so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene
+       a doplnení niektorých zákonov v znení neskorších predpisov,
+   •   so zákonom č. 523/2004 Z.z. o rozpočtových pravidlách verejnej správy a o zmene
+       a doplnení niektorých zákonov v znení neskorších predpisov,
+   •   so zákonom č. 564/2004 Z.z. o rozpočtovom určení výnosu dane z príjmov územnej
+       samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+   •   so zákonom č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+   •   so zákonom č. 582/2004 Z.z. o miestnych daniach a miestnom poplatku za komunálne
+       odpady a drobné stavebné odpady v znení neskorších predpisov
+   •   so zákonom č. 322/2025 Z.z. o financovaní základných škôl, stredných škôl a školských
+       zariadení v znení neskorších predpisov
+   •   so zákonom č. 321/2025 Z. z. o školskej správe v znení neskorších predpisov
+   •   s ústavným zákonom č. 493/2011 Z. z. o rozpočtovej zodpovednosti v znení neskorších
+       predpisov
+   •   s opatrením MF SR č. MF/010175/2004-42 zo dňa 8.12.2004 v znení neskorších predpisov,
+       ktorým sa ustanovuje druhová klasifikácia, organizačná klasifikácia a ekonomická
+       klasifikácia rozpočtovej klasifikácie
+   •   s uznesením Vlády SR č. 407/2026 k návrhu zistenia, že výdavky z verejných prostriedkov
+       súvisiace s odstraňovaním následkov živelných pohrôm a prírodných katastrof, ktoré
+       zasiahli územie Slovenskej republiky a výdavky z verejných prostriedkov vyplývajúce
+       z plnenia medzinárodných zmlúv presiahli v úhrne 3% HDP
+
+        Základným nástrojom finančného hospodárenia mesta je rozpočet, prostredníctvom ktorého
+sa realizujú základné úlohy a funkcie mesta. Rozpočet vyjadruje samostatnosť hospodárenia mesta
+a jeho základnou úlohou je zabezpečovanie financovania mesta.
+
+       V súlade so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy je
+rozpočet mesta Rožňava na roky 2027 – 2029 navrhnutý ako vyrovnaný, v členení na bežný
+rozpočet, kapitálový rozpočet a finančné operácie. Rozpočet mesta Rožňava je rozdelený na
+príjmovú a výdavkovú časť. Programový rozpočet obsahuje 16 programov, vrátane údajov
+o zámeroch a cieľoch mesta Rožňava. V rámci predkladaného rozpočtu sú zohľadnené v návrhu
+rozpočtu aj vzťahy k rozpočtovým a príspevkovým organizáciám v zriaďovateľskej pôsobnosti
+mesta Rožňava. Podľa zákona o rozpočtových pravidlách územnej samosprávy je mesto povinné
+zostavovať viacročný rozpočet. Rozpočet na rok 2027 je záväzný, na roky 2028 - 2029 je len
+orientačný.
+
+       Pri zostavovaní návrhu rozpočtu mesta Rožňava na roky 2027-2029 sme postupovali na
+základe listu pána ministra financií Ladislava Kamenického pre ZMOS zo dňa 02.11.2026, kde
+uvádza, že platí výnimka na uplatňovanie sankcií podľa Čl. 12 ods. 10 ústavného zákona
+o rozpočtovej zodpovednosti a subjekty územnej samosprávy pri tvorbe rozpočtu na rok 2027
+                                                4
+postupujú bez obmedzení dlhovej brzdy. Pri zostavovaní rozpočtu sme následne postupovali
+podľa zákona o rozpočtových pravidlách územnej samosprávy.
+
+       Zostavovanie vyrovnaného rozpočtu je z roka na rok ťažší proces a ani zostavovanie návrhu
+na rok 2027 nebol výnimkou, nakoľko aj naďalej chce mesto napredovať, zveľaďovať
+a rekonštruovať svoj majetok. Taktiež je nutné zdôrazniť stále neisté a zvyšujúce sa ceny za
+materiál, služby, energie, potraviny, pohonné hmoty a iné komodity, ktoré nám ovplyvňujú
+výdavkovú časť rozpočtu.
+
+Príjmovú časť vo výške 50 600 609 € návrhu rozpočtu na rok 2027 tvoria:
+
+          ➢ bežné príjmy vo výške 26 178 061 € (vrátane PČ SŠ Komenského)
+          ➢ kapitálové príjmy vo výške 23 156 730 €
+          ➢ príjmové finančné operácie v sume 1 265 818 €
+
+BEŽNÉ PRÍJMY
+
+   • Daňové príjmy – dane z príjmov poukazované samospráve (tzv. podielové dane), dane
+     z majetku, dane za tovary a služby a dane z povolenia na výkon činnosti.
+     Podielové dane sú v návrhu na roky 2027-2029 rozpočtované na základe údajov zo stránky
+     Rady pre rozpočtovú zodpovednosť. Podielové dane pre rok 2027 sú rozpočtované vo výške
+     8 822 253 €. V roku 2027 sa počíta so zvýšením poplatku za komunálny odpad a očakávané
+     plnenie príjmov je v tejto položke rozpočtované vo výške 1 455 000 €. Ostatné dane
+     a poplatky sa nemenili. Celkový príjem je v tejto časti rozpočtovaný vo výške 11 968 453 €,
+     čo predstavuje navýšenie oproti schválenému rozpočtu na rok 2026 o 1 091 881 €.
+
+   • Nedaňové príjmy – príjmy z podnikania a z vlastníctva majetku, administratívne a iné
+     poplatky i ďalšie nedaňové príjmy. Nedaňové príjmy očakávame vo výške 2 888 360 €.
+     Oproti roku 2026 dochádza k celkovému zvýšeniu o 219 050 €. Očakávame navýšenie za
+     prenájom pozemkov a zmenou zákona došlo k navýšeniu za poplatok za opatrovateľskú
+     službu podľa novely Zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení
+     zákona č. 455/1991 Zb. o živnostenskom podnikaní v znení neskorších predpisov a Zákona
+     č. 406/2025 Z. z. o príspevku na pomoc pri odkázanosti na pomoc inej osoby. Ostatné
+     očakávané príjmy ostali väčšinou na úrovni roka 2026.
+
+   • Granty a transfery – vzhľadom ku skutočnosti, že v momente zostavovania rozpočtu
+     neboli známe jednotlivé výšky dotácií, budeme tieto položky upravovať v zmene rozpočtu
+     v priebehu roka 2027 podľa oznámení z jednotlivých oblastí. Granty a transfery sú
+     rozpočtované vo výške 11 313 248 €.
+
+   • Príjem za podnikateľskú činnosť Spojenej školy sa rozpočtuje v sume 8 000 €.
+
+
+
+
+                                               5
+KAPITÁLOVÉ PRÍJMY
+
+   • Vlastné kapitálové príjmy - príjmy z predaja kapitálových aktív, príjem z predaja
+     pozemkov a nehmotných aktív.
+     V kapitálovom príjmovom rozpočte uvažujeme s príjmami z predaja prebytočného majetku
+     mesta a takisto očakávame príjem za predaj pozemkov mesta. Vlastné kapitálové príjmy sú
+     rozpočtované vo výške 423 000 €.
+
+   • Tuzemské kapitálové granty a transfery – mesto sa aktívne zapája do investičných
+     projektov a z tohto dôvodu v kapitálových príjmoch očakávame príjem finančných
+     prostriedkov na tieto projekty a zároveň refundácie na už ukončené projekty. Rozpočtujeme
+     ich v očakávanej sume 22 733 730 €.
+
+PRÍJMOVÉ FINANČNÉ OPERÁCIE
+
+   • Príjmové finančné operácie sú rozpočtované vo výške 1 265 818 € a obsahujú najmä príjmy
+     z predchádzajúceho roka, nevyčerpané dotácie z minulých rokov, zostatok rezervného
+     fondu, očakávaný príjem úveru zo ŠFRB a zostatok úveru – ich výška sa následne v návrhu
+     na 1. zmenu rozpočtu upraví podľa skutočnosti čerpania úveru k 31.12.2026 a skutočnej
+     výšky prenesených finančných prostriedkov z roku 2026 do roku 2027, vrátane rezervného
+     fondu.
+
+Výdavkovú časť vo výške 50 600 609 € návrhu rozpočtu na rok 2027 tvoria:
+
+   ➢ bežné výdavky vo výške 25 364 474 € (vrátane podnikateľskej činnosti SŠ Komenského)
+   ➢ kapitálové výdavky vo výške 23 469 358 €
+   ➢ výdavkové finančné operácie vo výške 1 766 777 €
+
+      Bežný rozpočet bol zostavený ako prebytkový. Pôvodná výdavková časť rozpočtu bola
+zosumarizovaná na základe jednotlivých požiadaviek subjektov napojených na rozpočet mesta.
+Vzhľadom na príjmovú časť rozpočtu, nebolo možné vykryť všetky požiadavky, preto aj samotný
+mestský úrad pristúpil k úsporným opatreniam v navrhovanom rozpočte, tak ako aj po minulé roky.
+
+BEŽNÉ VÝDAVKY
+
+   • Zahŕňajú návrh na výdavky na mzdy, poistné, tovary a služby (cestovné, energie, materiál,
+     dopravné, opravy a údržba, nájomné, služby), bežné transfery, splácanie bežných úrokov.
+
+   • V návrhu rozpočtu na roky 2027-2029 nebolo zohľadnené zvýšenie miezd odborných
+     a pedagogických zamestnancov od 1.7.2027 o 8,4% nakoľko Vyššia kolektívna zmluva
+     nebola podpísaná.
+
+   • Výdaj za podnikateľskú činnosť Spojenej školy Komenského sa rozpočtuje v sume 8 000 €
+
+   • Časť Plánovanie, manažment, kontrola obsahuje výdavky na financovanie odmien
+                                       6
+   poslancom MZ a členom komisií. Následne sa tu rozpočtujú výdavky na poistné
+   motorových vozidiel, výdavky na zabezpečenie audítorských služieb, výdavky na poistenie
+   osôb a majetku, dane, poplatky, školenia zamestnancov mesta, exekútorské poplatky. Bežné
+   výdavky sú v tejto kapitole rozpočtované vo výške 242 700 €. Oproti schválenému rozpočtu
+   minulého roka prišlo k nárastu očakávaných výdavkov o 59 800 €, hlavne z dôvodu
+   navýšenia odmien poslancom MZ a za právne služby – trovy konania.
+
+• Položka Propagácia a marketing zahŕňa nákup materiálu a služieb za reprezentačné
+  výdavky, výdavky spojené s propagáciou mesta v celkovej sume 19 000 €. Oproti
+  schválenému rozpočtu v roku 2026 sa očakávaný výdavok navýšil o 3 000 €.
+
+• V kapitole Interné služby sa rozpočtujú výdavky na opravu majetku mesta (oprava budov,
+  zariadení, prístrojov, strojov a iných), výdavky na prenájom (hlavne nájom za používanie
+  tlačiarní, rohoží, pozemkov) a služby v oblasti informačno – komunikačných technológií
+  ako sú správcovské poplatky systému dochádzky, upgrade softvéru, aktualizácie programov
+  a iné. Spolu sa rozpočtujú v sume 246 000 €. Oproti schválenému rozpočtu v roku 2026
+  došlo k nárastu o 25 000 €, ktoré boli navýšené v položke opravy majetku mesta.
+
+• Služby obyvateľom zahŕňajú výdavky na mzdy, poistné, tovary, služby a transfery spojené
+  s preneseným výkonom štátu a to konkrétne – Matrika, Školský úrad, Spoločný stavebný
+  úrad a Evidencia obyvateľstva vo výške 267 950 €. Oproti schválenému rozpočtu minulého
+  roka prišlo k zvýšeniu očakávaných výdavkov o 28 600 €. K zvýšeniu došlo v oblasti
+  Školského úradu a Stavebného úradu.
+
+
+• Oblasť Bezpečnosť obsahuje výdavky na požiarnu obranu, ako sú nákup materiálu, údržba,
+  dopravné, dohody. Ďalej sem zaraďujeme výdavky na činnosť Mestskej polície, výdavky na
+  zabezpečenie chodu kamier, výdavky na BOZP, GDPR, civilnú ochranu, ochranu objektov,
+  výdavky na verejné osvetlenie a ďalšie. Výdavky v tejto oblasti sú vo výške 983 720 €.
+  Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných výdavkov o 90
+  120 € a to najmä z dôvodu, že v roku 2026 bolo do pracovného pomeru prijatých viac
+  zamestnancov Mestskej polície, ďalej sú potrebné finančné prostriedky na kybernetickú
+  bezpečnosť a zároveň očakávame vyššie čerpanie za elektrickú energiu v rámci verejného
+  osvetlenia.
+
+• Výdavky na Odpadové hospodárstvo sa skladajú z príspevku pre príspevkovú organizáciu
+  Odpadové služby mesta Rožňava, zabezpečenie zberu a likvidácie komunálneho, bio,
+  kuchynského a triedeného odpadu vrátane nákupu odpadových nádob, monitoringu skládky.
+  Výdavok je rozpočtovaný v sume 1 703 000 €. Oproti schválenému rozpočtu minulého roka
+  prišlo k zvýšeniu očakávaných výdavkov o 308 000 €. Navýšenie výdavkov je z dôvodu
+  vyšších nákladov na zber a likvidáciu odpadov.
+
+
+• V oblasti Kultúry, ktorú rozpočtujeme vo výške 329 060 € sú výdavky na zabezpečenie
+  jarmokov, spoločenských a kultúrnych podujatí, Dni mesta, nový projekt Rožňava
+  s príbehom, príspevky pre kultúrne organizácie a takisto bežný príspevok pre príspevkovú
+                                          7
+   organizáciu Mestské divadlo ACTORES Rožňava. Oproti schválenému rozpočtu minulého
+   roka prišlo k zvýšeniu očakávaných výdavkov o 42 560 € a to z dôvodu zvýšenia príspevkov
+   pre kultúrne organizácie, ďalej došlo k navýšeniu bežného príspevku pre príspevkovú
+   organizáciu Mestské divadlo ACTORES Rožňava a navýšenie finančných prostriedkov
+   potrebných v súvislosti s realizáciou kultúrnych podujatí pre občanov a návštevníkov mesta
+   pričom každoročne dochádza k nárastu výdavkov v oblasti technického a organizačného
+   zabezpečenia, účinkujúcich, produkčných služieb a ďalších nevyhnutných výdavkov.
+
+
+• V Doprave vo výške 131 942 € sa rozpočtujú výdavky na motorové vozidlá, ich opravy
+  a údržbu, nákup PHM, bežné výdavky na leasing – motorové vozidlo IVECO pre Technické
+  služby, vozidlo MG, nové vozidlo a príspevok na MHD. Oproti schválenému rozpočtu
+  minulého roka prišlo k zníženiu očakávaných výdavkov o 12 668 € z dôvodu ukončenia
+  leasingu na vozidlo pre TS a zníženiu výdavkov na MHD.
+
+
+• Najvyššia položka, ktorá tvorí bežný rozpočet výdavkov je Vzdelávanie vo výške 3 888 887
+  € a patria sem výdavky na prevádzku materských škôl na území mesta – mzdy, poistné,
+  tovary, služby, transfery, ďalej výdavky na projekt EDUHUB z dotácie a transfery pre
+  cirkevné školstvo a pre súkromnú ZUŠ. Materské školy prešli v roku 2025 pod financovanie
+  z normatívnych finančných prostriedkov. V tejto oblasti dochádza každoročne k navýšeniu
+  očakávaných výdavkov.
+
+
+• Výdavky základných škôl vrátane originálnych kompetencií (školské jedálne pri ZŠ, školské
+  kluby detí, Centrum voľného času, Základná umeleckú školu, materská škola patriaca pod
+  Spojenú školu v Rožňave) rozpočtujeme v roku 2026 v sume 10 753 324 €. V oboch
+  prípadoch je naplánované nižšie plnenie z dôvodu, že tam nie sú zahrnuté dotácie na
+  stravovanie a nenormatívne finančné prostriedky účelovo určené, ktoré sa do rozpočtu
+  zapracujú v priebehu roku 2027 podľa plnenia. Oproti schválenému rozpočtu v roku 2026
+  došlo takisto k zvýšeniu.
+
+
+• Na Šport a voľný čas plánuje mesto v roku 2027 vynaložiť sumu 173 000 € - výdavky na
+  využívanie multifunkčnej telocvične, príspevky pre športové organizácie a kluby a športové
+  podujatia organizované mestom. Výška výdavkov na šport je približne na úrovni roka 2026.
+
+• Úsek Komunikácie obsahuje výdavky na opravy a údržbu majetku mesta – cesty, chodníky,
+  parkoviská, svahy, ďalej sem patrí bežný príspevok pre príspevkovú organizáciu Technické
+  služby mesta Rožňava a výdavky na parkovaciu politiku. Výdavky sú v sume 1 917 000 €.
+  Oproti schválenému rozpočtu minulého roka prišlo k nárastu očakávaných výdavkov o 197
+  000 €, na položke opravy a údržba komunikácií, parkovacia politika a k zvýšeniu došlo aj
+  v príspevku pre príspevkovú organizáciu Technické služby mesta Rožňava.
+
+
+• Prostredie pre život – výdavky na revitalizáciu zelene a veterinárnu oblasť v sume 77 000
+  €. Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných výdavkov
+  o 23 000 € a to najmä z dôvodu vyšších predpokladaných výdavkov na opravu útulku
+                                          8
+   a výdavkov na revitalizáciu verejnej zelene.
+
+
+• Sociálne služby zahŕňajú výdavky (mzdy, poistné, tovary a služby, transfery) na
+  zabezpečenie činnosti Denného centra, Komunitného centra, opatrovateľskej služby,
+  terénnej sociálnej služby, Jasle Lienka, výdavky na projekty na zamestnanie, hmotnú núdzu,
+  humanitárnu pomoc v sume 1 542 909 €. Oproti schválenému rozpočtu minulého roka prišlo
+  k zvýšeniu očakávaných výdavkov o 130 402 €, z dôvodu zapracovanej vratky na
+  stravovanie. Zníženie bolo vykázané pri platbách pre verejných a neverejných
+  poskytovateľov sociálnych služieb a to od 01.07.2028 novelou zákona o soc. službách
+  448/2008 Z.z., a to tak, že finančný príspevok na prevádzku pobytových zariadení prešlo z
+  kompetencii obcí a miest do kompetencie VUC, obciam a mestám zostalo financovanie
+  terénnych služieb a nízkoprahových služieb pre neverejných poskytovateľov
+  (opatrovateľská služba, nízkoprahové denné centrum), preto sa v rozpočte počíta len
+  s finančnými prostriedkami pre tieto sociálne služby.
+
+
+• Administratíva obsahuje výdavky na činnosť Mestského úradu ako sú: mzdy a poistné
+  zamestnancov úradu, nákup materiálu (uvažujeme s nákupom hlavne kancelárskeho
+  materiálu, uličných a úradných tabúľ, čistiacich prostriedkov, pracovných a ochranných
+  pomôcok, výpočtovej techniky, lavičiek, tonerov, materiálu na opravu a údržbu), cestovné
+  (výdavky spojené s cestovným), energie (výdavky za tepelnú energiu, elektrickú energiu,
+  vodné, stočné, internet, telefón, poštovné), rekreačné poukazy pre zamestnancov, služby
+  (všetky služby, ktoré kupuje mesto - predovšetkým ide o služby: verejné obstarávanie,
+  inzercia, právne služby, prieskumné a projektové práce, geodetické práce, asanácia,
+  notárske, advokátske, poradensko-konzultačné, kontroly, pochovávanie a iné), pričom
+  všetky výdavky na služby boli prehodnotené a následne znížené, bežné transfery (výdavky
+  na členské príspevky, finančný príspevok na stravovanie, náhrady počas pracovnej
+  neschopnosti, odchodné, príspevky pre právnické osoby), splátky úrokov (podľa
+  uzatvorených úverových zmlúv a súčasných úrokových sadzieb). Rozpočtujeme ich v sume
+  2 636 000 €. Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných
+  výdavkov o 136 000 €. Zvýšenie je z dôvodu nárastu mzdových výdavkov a vysokých
+  poplatkov za úroky z úverov.
+
+
+• Bývanie – výdavky na mestské byty ako sú energie, opravy a údržba bytov a služby v sume
+  272 982 €. Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných
+  výdavkov o 41 967 €, z dôvodu vyšších výdavkov na opravy bytov z fondu opráv. Úroky
+  ŠFRB sú rozpočtované na základe podpísaných zmlúv.
+
+
+• Občianska vybavenosť – výdavky na externý manažment, Turistické informačné centrum,
+  projekt a participatívny rozpočet vo výške spolu 172 000 €. Oproti schválenému rozpočtu
+  minulého roka prišlo k zvýšeniu očakávaných výdavkov o 26 000 € a to hlavne z navýšenia
+  výdavkov na externý manažment, ktoré by nám mali byť refundované. Zároveň bolo
+  zmenené financovanie výdavkov pre TIC.
+
+
+                                             9
+KAPITÁLOVÉ VÝDAVKY
+
+   • Sú v rozpočte podľa jednotlivých objektov. Kapitálový rozpočet bol zostavený ako
+     schodkový, pričom ho vykrývame zostatkami finančných prostriedkov z minulých rokov
+     (finančnými operáciami príjmovými – kapitálové dotácie z minulých rokov), rezervným
+     fondom, úverom ŠFRB a prebytkom bežného rozpočtu. V roku 2027 sú plánované vo výške
+     23 469 358 €. Podrobné členenie jednotlivých očakávaných kapitálových výdavkov sa
+     nachádza v tabuľkovej časti a v programovom rozpočte.
+
+VÝDAVKOVÉ FINANČNÉ OPERÁCIE
+
+   • Obsahujú splátky úverov, úverov ŠRFB a leasingov a sú premietnuté do rozpočtu mesta
+     podľa uzatvorených zmlúv. Ďalej sem zaraďuje nákup cenných papierov podľa uzatvorenej
+     zmluvy so spoločnosťou FIN M.O.S. (za verejné osvetlenie) a vrátené zábezpeky.
+     Rozpočtujeme ich vo výške 1 766 777 €.
+
+      Podrobnejšie členenie podľa funkčnej klasifikácie, ekonomickej klasifikácie, podľa
+programov sa nachádza v tabuľkovej časti materiálu a v programovom rozpočte mesta.
+
+               Dôvodová správa k návrhu rozpočtu – Príspevkové organizácie
+
+
+ODPADOVÉ SLUŽBY MESTA ROŽŇAVA
+
+
+Dôvodová správa k návrhu rozpočtu na roky 2027-2029
+
+
+        Predložený návrh rozpočtu Odpadových služieb mesta Rožňava na roky 2027 - 2029 bol
+zostavený v zmysle zákona o rozpočtových pravidlách verejnej správy č. 523/2004 Z.z. v znení
+zmien a doplnkov a v zmysle zákona o rozpočtových pravidlách územnej samosprávy č. 583/2004
+Z.z. v znení zmien a doplnkov.
+
+       Návrh rozpočtu na rok 2027 bol zostavený ako vyrovnaný. Pri tvorbe návrhu rozpočtu sa
+vychádzalo z plánu činnosti organizácie na rok 2027 a z doterajších činností v predchádzajúcich
+rokoch a v roku 2026.
+
+Príjmy:
+Bežné príjmy pozostávajú z príspevku na bežnú činnosť od zriaďovateľa. Navrhuje sa zvýšenie
+príspevku od zriaďovateľa na rok 2027 oproti roku 2026. Z roka na rok sa prejavuje vyššia
+poruchovosť na zberových motorových vozidlách a neustály rast cien za opravy a nákup
+náhradných dielov a rast cien pohonných hmôt a mazadiel zvyšujú náklady na prevádzku
+motorových vozidiel. Neustále zvyšovanie cien zvyšuje náklady na energie, za služby a nákup
+materiálu a tovaru. Od januára 2026 sa zvyšuje minimálna mzda, tým sa zvyšujú aj mzdové náklady
+a tým súvisiace náklady na odvody do poisťovní. Zvyšovanie sa navrhuje aj z dôvodu zvýšenia
+príspevkov na stravovanie a nárastu platov o 8,4 % od 1.7.2026 podľa pripravovanej Kolektívnej
+zmluvy vyššieho stupňa na rok 2027.
+Finančné príjmové operácie tvoria predpokladaný zostatok finančných prostriedkov na hlavnom
+účte a v pokladni k 31.12.2026.
+                                                10
+Výdavky:
+Bežné výdavky pozostávajú z nasledovných položiek:
+- v položke na mzdy, odvody a poistné sú zahrnuté mzdy zamestnancov v zmysle platných tarifných
+tabuliek a odvody do poisťovní
+  - v položke tovary a služby najväčšie náklady tvoria príspevky na dopravné, ktoré zahŕňajú
+výdavky na pohonné látky, oleje a mazadlá, opravy a údržbu dopravných prostriedkov, pneumatiky,
+náhradné diely na dopravné prostriedky, pracovných strojov, výdavky na zákonné a havarijné
+poistenia motorových vozidiel, výdavky na STK a emisné kontroly, pracovné odevy pre vodičov a
+závozníkov. V položke služby sú zahrnuté výdavky na školenia, všeobecné služby, špeciálne
+služby, poplatky, poistné majetku, prídel do sociálneho fondu, odmeny pre dozornú komisiu,
+poplatky za komunálny odpad a iné. Ďalšou významnou položkou sú výdavky za elektrickú energiu
+a vodu, výdavky za materiál t.j. výpočtová technika, prevádzkové stroje, zariadenia a technika,
+reprezentačné, softvér, kancelársky materiál, čistiace a hygienické potreby a ostatný materiál
+zabezpečujúci nevyhnutnú činnosť organizácie. Nevyhnutnú položku tvoria aj výdavky na rutinnú a
+štandardnú údržbu prevádzkových strojov, prístrojov, zariadení, techniky, budov, objektov a ich
+častí, softvéru,
+- v položke bežné transfery sú zahrnuté príspevky na stravovanie zamestnancov, na nemocenské
+dávky, členské príspevky organizácie a benefitné poukážky pre zamestnancov.
+
+V Rožňave, 18.11.2026
+
+
+                                                     Denisa Podracka
+                                                 riaditeľka OSM Rožňava
+
+
+MESTSKÉ DIVADLO ACTORES ROŽŇAVA
+
+Dôvodová správa k návrhu rozpočtu na roky 2027-2029
+
+Mestské divadlo ACTORES v súlade so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách
+územnej samosprávy predkladá rozpočet divadla na roky 2027 – 2029, ktorý je navrhnutý ako
+vyrovnaný
+Mestské divadlo ACTORES je kultúrnou a umeleckou organizáciou v zriaďovateľskej pôsobnosti
+Mesta Rožňava. Je profesionálnym divadlom so stálym umeleckým súborom, ktorého hlavným
+predmetom činnosti je tvorba a produkcia divadelných inscenácií. Hlavným poslaním je prinášať
+hosťujúce divadelné, kultúrne a umelecké produkcie v najvyššej umeleckej kvalite. Divadlo sa vo
+svojom smerovaní snaží zasiahnuť všetky cieľové skupiny divákov v meste a jeho okolia.
+
+1.    PRÍJMOVÁ ČASŤ
+Rozpočtované príjmy na rok 2027 sú naplánované vo výške 458 074 €.
+
+Z toho:
+   • transfer od zriaďovateľa na činnosť vo výške 193 500,- €. Plánované navýšenie oproti
+       úrovni roka 2026 je vo výške 13 500,- eur, z ktorého plánujeme vykryť čiastočné výdavky
+       na zvýšené ceny energií a čiastočné zvýšenie miezd zamestnancov z titulu nárastu
+       minimálnej mzdy. Transfer od zriaďovateľa je použitý na čiastočné úhrady miezd
+       zamestnancov a čiastočnú spotrebu energií.
+Od roku 2024 bol transfer od zriaďovateľa v nezmenenej výške a to 180 000 eur.
+   • účelový transfer od zriaďovateľa na podujatie GASTRO GEMER FEST vo výške 6 500
+       €
+   • príjem z vlastnej činnosti vo výške 248 074 €
+                                                11
+   • zostatok z minulého roka vo výške 10 000,- ktorý zahŕňa neuhradené dodávateľské faktúry
+     z bežného roka, splatné v nasledujúcom roku a výnosy budúcich období, t.j. vstupenky
+     uhradené vopred za podujatia konané v nasledujúcom roku.
+
+2.    VÝDAVKOVÁ ČASŤ
+Rozpočtované výdavky na rok 2027 sú naplánované vo výške 458 074 €.
+
+Z toho:
+Bežné výdavky
+   • výdavky na mzdy, poistné a príspevky do poisťovní – plánované navýšenie miezd
+       o 11,78%, t.j. 22 594 eur, z ktorého plánujeme vykryť zvýšenie miezd z dôvodu nárastu
+       minimálnej mzdy a zamestnania jedného pracovníka na polovičný úväzok.
+
+Mzdy zamestnancov Mestského divadla Actores Rožňava zostávali dlhodobo od roku 2024 na
+rovnakej úrovni, niektoré sú pod úrovňou minimálnej mzdy. Priemerný plat zamestnanca dosahuje
+približne 0,65 % z priemernej nominálnej mzdy v slovenskom hospodárstve.
+    • cestovné výdavky sú plánované v nezmenenej výške, na úrovni roka 2026
+    • výdavky na energie a telekomunikačné služby - predpokladané navýšenie nákladov vo
+        výške 7 000 eur oproti minulému roku 2026 pre spoločnosti Technické služby mesta
+        Rožňava a Stefe (dodávky tepla, elektrickej energie, vodné a stočné). Telekomunikačné
+        poplatky (Orange, Slovak Telekom UPC) pozostávajú z pravidelnej mesačnej fakturácie za
+        mobilné služby, pevnú linku, internet, web doménu a sú plánované na úrovni roka 2026.
+    • na materiál – v tejto položke sú zahrnuté plánované výdavky za materiál na scénu,
+        rekvizity, ostatný drobný materiál, technický materiál a pod. – plánované výdavky sú nižšie
+        oproti roku 2026.
+    • dopravné – plánované na úrovni roka 2026
+    • údržba – plánované na úrovni roka 2026
+    • nájomné - prenájmy priestorov v kultúrnych domoch, prenájom externej svetelnej
+        a zvukovej techniky znížené oproti roku 2026
+    • ostatné tovary a služby – sú zahrnuté všetky všeobecné služby, ako nahrávanie
+        a ozvučenie, tlač bannerov, tlačív, spracovanie PAM, školenia, reklama, ubytovanie pre
+        zamestnancov, ostatné poplatky (poplatky správcovi budovy, ochrana objektov, revízie,
+        poplatky za PO, BOZP, poplatky autorským zväzom, bankové poplatky), honoráre,
+        stravovanie a reprezentačné náklady
+    • členské príspevky a finančný príspevok pre zamestnancov – sú plánované na úrovni roka
+        2026
+
+3.     ZÁVER
+Mestské divadlo ACTORES plánuje v roku 2027 dodržať vyrovnaný rozpočet. Príspevok od
+zriaďovateľa plánujeme použiť z časti na krytie výdavkov na mzdy a odvody zamestnancov, zvyšok
+na úhradu časti nákladov za energie. Ostatné výdavky, rozpísané vo výdavkovej časti, budú hradené
+výlučne z vlastných zdrojov získaných z príjmov za kultúrnu činnosť a z prenájmu divadelnej sály.
+
+V Rožňave, 19.11.2026
+
+
+                                                          Mgr.art. Tatiana Masníková
+                                                          riaditeľka divadla
+
+
+
+
+                                                12
+               Dôvodová správa k návrhu rozpočtu TSM Rožňava na rok 2027
+
+Predložený návrh rozpočtu TSM na rok 2027 bol zostavený v zmysle zákona o rozpočtových
+pravidlách verejnej správy č. 523/2004 Z.z. v znení zmien a doplnkov a v zmysle zákona o
+rozpočtových pravidlách územnej samosprávy č. 583/2004 Z.z. v znení zmien a doplnkov.
+
+   Návrh rozpočtu na rok 2027 pre TSM Rožňava predkladáme ako vyrovnaný.
+
+ Pre Technické služby mesta Rožňava bola určená výška príspevku na činnosť zriaďovateľom vo
+výške 1 132 000 €,
+Pri tvorbe návrhu rozpočtu sa vychádzalo z plánu činnosti TSM a z predpokladaných úloh určených
+zriaďovateľom na rok 2027 ako aj zo skutočných výsledkov za predchádzajúce obdobie.
+
+     Bežné príjmy pozostávajú z príspevku od zriaďovateľa mesta Rožňava, z príjmov vedľajšej
+podnikateľskej činnosti a ostatných príjmov. Plánované príjmy sú vo výške          1 497 300 €, z
+toho
+-       poskytnutý príspevok na bežnú činnosť od zriaďovateľa je vo výške 1 132 000 €
+-       iné príjmy z hlavnej činnosti vo výške 150 700 € - zostatok fin. prostriedkov z minulého
+roka, príjem z dobropisov, príjmy VŠA, cintorína.
+-       príjmy z podnikateľskej činnosti vo výške 214 600 € - príjmy zo spravovaného majetku:
+nebytových priestorov, trhoviska, príjmy z predaja služieb, zostatok z predchádzajúcich rokov
+
+
+Výdavky v hlavnej činnosti:
+
+Bežné výdavky pozostávajú predovšetkým z výdavkov zabezpečujúcich výkon údržby a čistoty
+verejných priestranstiev, zelene, miestnych komunikácií, správy majetku nebytových priestorov a
+športovo–rekreačných zariadení.
+Položka mzdy a odvody sú prepočítané podľa platovej inventúry bez avizovaného navýšenia o
+8,4%.
+Plánované výdavky na energie vo výške 151 550 € sme sa nastavili s prihliadnutím na skutočný a
+predpokladaný odber v roku 2026. Nakoľko v súčasnosti prebieha VO na nákup energií, počítali
+sme s pôvodnými cenami a zohľadnili sme prevádzku VŠA bez otvorenia kúpaliska.
+V položke materiál vo výške 50 600 € je premietnutý nákup materiálu na zabezpečenie zimnej
+údržby - soľ, štrk, kvety, materiál na asfaltovanie výtlkov, náhradných dielov na pracovné stroje,
+vodoinštalačný materiál.
+V položke dopravné vo výške 96 320 € sú zahrnuté výdavky na pohonné hmoty, oleje, mazadlá,
+oprava dopravných prostriedkov, náhradné diely, pneumatiky, povinné zmluvné poistenie
+motorových vozidiel, prepravné, pracovné odevy a ochranné pomôcky.
+V položke rutinná a štandardná údržba vo výške 4 600 € sú zahrnuté nevyhnutné výdavky na
+opravu a údržbu výpočtovej techniky, prevádzkových strojov a zariadení, budov a softvéru.
+V položke služby sú zahrnuté výdavky vo výške 102 531 € na zabezpečenie úloh ako: školenia,
+revízie budov v správe TSM, všeobecné služby, špeciálne služby, stravovanie, poplatky, poistné
+majetku, prídel do sociálneho fondu.
+V položke transfery suma vo výške 33 426 € zahŕňajú odstupné, odchodné, finančný príspevok na
+stravovanie.
+Technické služby mesta na základe predloženého rozpočtu na rok 2027 budú vedieť zabezpečiť
+rozsah prác len do výšky príspevku.
+Kosenie v sezóne 2027 budeme zabezpečovať strojovo kosačkami 2x Farmtrack, Kubota GZD,
+Starjet, John Deere X950 R. John Deere – vretenová kosačka prioritne na futbalovom ihrisku a 8
+sezónnymi zamestnancami s krovinorezmi Stihl 410,411 v predpokladanom termíne 15.04.-
+15.11.2027
+                                                13
+Technické služby mesta Rožňava v roku 2027 nepočítajú na základe informácii od zriaďovateľa v
+rozpočte ani v príjmovej a ani vo výdavkovej časti s otvorením kúpaliska.
+
+
+Podnikateľská činnosť:
+
+V podnikateľskej činnosti v príjmovej časti máme naplánovaný príjem vo výške 214 600 € - z
+prenájmu, z predaja služieb, iné príjmy.
+Vo výdavkovej časti rozpočtu v položke energie plánujeme sumu 123 650 €, kde sme zohľadnili
+ceny z roku 2026, nakoľko v súčasnej dobe prebieha verejné obstarávanie na nákup energií.
+V položka rutinná a štandardná údržba výške 1 000 € údržbu prevádzkových strojov a zariadení
+ Položka služby vo výške 25 499 € zahŕňa revízne kontroly, poistenie majetku, dane.
+
+
+
+
+                                                      PaedDr. Mikuláš Gregor, MPH
+                                                                  riaditeľ
+
+
+          S t a n o v i s k á dozorných komisií pri MZ pre príspevkové organizácie
+
+
+
+
+                                              14
+        Východiskom pri spracovaní programového rozpočtu boli všeobecne záväzné právne predpisy a to :
+-   Zákonom č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých
+    zákonov v z.n.p.,
+-   Zákonom č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnenia niektorých
+    zákonov v z.n.p. a zohľadňuje aj ustanovenia:
+-   Zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálny odpad a drobné stavebné
+    odpady v z.n.p.,
+-   Zákona č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene
+    a doplnení niektorých zákonov v z.n.p.
+-   Zákonom č. 322/2025 Z.z. o financovaní základných škôl, stredných škôl a školských zariadení
+
+        a v neposlednom rade bral do úvahy platné všeobecne záväzné nariadenia mesta, ako:
+-   Zásady rozpočtového hospodárenia a
+-   VZN o miestnych daniach a miestom poplatku za komunálne odpady a drobné stavebné odpady.
+
+        Z hľadiska metodickej správnosti predložený návrh programového rozpočtu rešpektuje rozpočtovú
+klasifikáciu v zmysle Opatrenia MF SR č. MF/010175/2004-42, ktorým sa ustanovuj druhová, organizačná
+a ekonomická klasifikácia rozpočtovanej klasifikácie v z.n.p.
+
+      Programový rozpočet na roky 2027 - 2029 je zostavený ako:
+-   Viacročný rozpočet – viacročné rozpočtovanie územnej samosprávy je definované v zákone č. 583/2004 § 9
+    ods. 1 až 4 zákona.
+-   Programový rozpočet – mesto je povinné zostaviť programový rozpočet na roky 2027 - 2029, ktorý má byť
+    zostavený a schvaľovaný v programovej štruktúre, čo znamená, že vo viacročnom rozpočte by mali byť
+    vyjadrené zámery rozvoja územia mesta a potrieb jeho obyvateľov vrátane programov mesta najmenej na tri
+    rozpočtové roky.
+
+         Rozpočet mesta na roky 2027 - 2029 je zostavený v mene EURO.
+
+         Štruktúra programového rozpočtu, zámery, ciele, programy a podprogramy vedú naplneniu základného cieľa
+mesta:
+         Mesto Rožňava bude mestom, ktoré bude vyvážene zabezpečovať podmienky pre harmonický život
+všetkých kategórií svojich obyvateľov. Mesto sa stane príjemným sídlom zabezpečujúcim komplexné sociálne
+služby pre svojich obyvateľov.
+
+Programové rozpočtovanie
+- Programové rozpočtovanie je systém založený na plánovaní úloh a aktivít subjektov samosprávy v nadväznosti
+   na ich priority a alokovanie disponibilných rozpočtových zdrojov do programov, s dôrazom na výsledky a
+   efektívnosť vynakladania rozpočtových prostriedkov.
+- Inými slovami, programové rozpočtovanie je systém plánovania, rozpočtovania a hodnotenia, ktorý kladie
+   dôraz na vzťah medzi verejnými rozpočtovými zdrojmi (rozpočet samosprávy) a očakávanými (plánovanými)
+   výstupmi a výsledkami realizovaných činností, ktoré sú financované z rozpočtu subjektu samosprávy.
+- Ako synonymá sa veľmi často používajú pojmy rozpočtovanie orientované na ciele alebo rozpočtovanie
+   orientované na výkonnosť.
+
+Program
+- Je súhrn/skupina navzájom súvisiacich aktivít (prác, činností, dodávok) vykonávaných na splnenie
+   definovaných cieľov a zámerov.
+- Program môžeme obrazne považovať za „mini rozpočet“ istej kompetenčnej oblasti, ktorú vykonáva subjekt
+   samosprávy (napríklad Vzdelávanie, Doprava, Šport a pod).
+
+
+                                       1 Programový rozpočet mesta Rožňava
+-         Program sa vo všeobecnosti delí na (obsahuje) podprogramy,
+-         Každý program má priradený stručný, výstižný názov.
+
+Podprogram
+- Je ucelená časť programu, ktorá obsahuje vzájomne súvisiace aktivity (napríklad v rámci Programu vzdelávanie
+   môže byť Podprogram materské školy a Podprogram základné školy).
+- Podprogram teda môžeme považujeme za štruktúru, ktorá zvyšuje transparentnosť programu a špecifikuje
+   súvisiace tematické a výdavkové skupiny programu.
+- Každý podprogram má priradený stručný, výstižný názov.
+
+Zámer
+- Zámer vyjadruje očakávaný pozitívny dôsledok/dopad dlhodobého plnenia príslušných cieľov (budúci stav,
+   ktorý chceme v konečnom dôsledku dosiahnuť realizáciou programu/jeho časti a plnením príslušných cieľov
+   v rámci programu/jeho častí).
+
+Cieľ
+- Cieľ je forma na vyjadrenie výstupu alebo výsledku, prostredníctvom ktorého sa dosahuje (ktorý prispieva k)
+    plnenie zámeru.
+
+Merateľný ukazovateľ
+- Merateľný ukazovateľ je nástroj na monitorovanie a hodnotenie plnenia cieľa, resp. nástroj, prostredníctvom
+   ktorého meriame pokrok pri plnení cieľa.
+
+PRÍJMOVÁ ČASŤ
+    v€         Ukazovateľ                           Skutočnosť    Skutočnosť    Schválený    5. zmena     Očakávaná    Návrh 2027    Návrh 2028    Návrh 2029
+                                                       2024          2025        rozpočet    rozpočtu     skutočnosť
+                                                                                   2026                        k
+                                                                                                          31.12.2026
+
+
+               SPOLU PRÍJMY (A+B+C) HČ+PČ
+                                                    30 793 508    34 722 752    44 235 764   49 580 488   39 643 301    50 600 609    36 966 071    27 062 229
+
+               Podnikateľská činnosť RO (bež
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/ca9ff999-a41c-4b67-a000-7bcbbd1b09c0
+                                 Oznámenie
+
+
+   Oznamujeme občanom mesta a právnickým osobám, že návrh rozpočtu mesta
+
+  Rožňava na roky 2027 - 2029 je zverejnený na webovom sídle mesta Rožňava –
+
+         www.roznava.sk a pozrieť si ho môžete aj na finančnom odbore –
+
+kancelária č. 412, IV. poschodie MsÚ. Lehota na podanie pripomienok začína plynúť
+
+    dňom vyvesenia návrhu rozpočtu t. j. 20.11.2026 a trvá 10 kalendárnych dní.
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/zobraz/292afc19-eeb7-41f3-b507-3db460755d16
+                                   M E STO R O Ž ŇAVA
+
+
+
+                                                 Pre zasadnutie
+                                                 Mestského zastupiteľstva v Rožňave
+                                                 dňa 07.12.2026
+
+                                                 K bodu rokovania č.:
+
+
+Názov správy:
+
+Návrh rozpočtu mesta Rožňava vrátane rozpočtov rozpočtových a príspevkových organizácií
+na rok 2027 a výhľadovo na roky 2028-2029
+
+Predkladá:                                  Návrh na uznesenie:
+Mgr. Michal Drengubiak
+                                            Mestské zastupiteľstvo v Rožňave
+
+
+Prerokované:
+                                            a/ schvaľuje rozpočet mesta vrátane
+                                            rozpočtov RO a PO na rok 2027 a výhľadovo
+                                            na roky 2028-2029 podľa uznesenia na str. 2-
+                                            3
+
+
+
+
+Spracoval: Bc. Michaela Stehlová
+
+
+Kontrolu správnosti a zákonnosti uznesení
+vykonal:
+JUDr. Katarína Balážová
+
+
+
+
+                                             1
+Uznesenie:
+
+Mestské zastupiteľstvo:
+berie na vedomie stanovisko hlavnej kontrolórky
+a
+1) schvaľuje rozpočet mesta na rok 2027 vrátane programového rozpočtu a tabuľkovej časti
+    materiálu : ako vyrovnaný
+        z toho:
+                                                                                  prebytok +
+        Sumarizácia 2027                              príjmy        výdavky       /schodok -
+
+
+
+        Bežný rozpočet - HČ                         26 170 061 €   25 356 474 €     813 587 €
+
+
+        Kapitálový rozpočet                         23 156 730 €   23 469 358 €    -312 628 €
+
+
+        Finančné operácie                            1 265 818 €    1 766 777 €    -500 959 €
+        Podnikateľská činnosť SŠ Komenského              8 000 €        8 000 €            0€
+        SPOLU                                       50 600 609 €   50 600 609 €            0€
+
+
+2) schvaľuje limit príspevkov pre príspevkové organizácie v roku 2027:
+    -   pre Mestské divadlo ACTORES Rožňava, prísp. org. v sume 200 000 € ako bežný príspevok
+    -   pre Technické služby mesta Rožňava, prísp. org. v sume 1 132 000 € ako bežný príspevok
+    -   pre Odpadové služby mesta Rožňava, prísp. org. v sume 420 000 € ako bežný príspevok
+3) schvaľuje rozpočet príspevkových organizácií: Mestské divadlo ACTORES Rožňava,
+    Technické služby mesta Rožňava a Odpadové služby mesta Rožňava na rok 2027
+4) schvaľuje rozpočty rozpočtových organizácií na rok 2027
+5) schvaľuje použitie zostatku rezervného fondu na kapitálové výdavky a výdavkové finančné
+    operácie podľa schváleného rozpočtu mesta na rok 2027
+6) schvaľuje financovanie cirkevných a súkromných škôl na základe zmlúv o poskytovaní
+    finančných prostriedkov na mzdy a prevádzku neštátnych škôl a školských zariadení a na
+    základe zákona č. 322/2025 Z. z. o financovaní základných škôl, stredných škôl a školských
+    zariadení v znení neskorších predpisov na rok 2027
+7) schvaľuje kapitálové výdavky mesta tak, ako je to uvedené v tabuľke - kapitálové výdavky na
+    rok 2027
+8) schvaľuje ročné výdavky na udržanie MHD v sume 115 000 €
+9) v prípade realizácie kapitálových výdavkov na rekonštrukciu bytov schvaľuje príjem úveru
+    ŠFRB vo výške 110 000 €
+
+                                                2
+10) schvaľuje limit príspevku formou dotácie v roku 2027 pre organizácie v oblasti kultúry spolu
+   v sume 45 000 € a pre organizácie v oblasti športu spolu v sume 135 000 €
+11) berie na vedomie návrhy rozpočtov mesta, príspevkových a rozpočtových organizácií na roky
+   2028, 2029 vrátane programového rozpočtu
+
+
+a ukladá
+a/ oznámiť rozpočtovým a príspevkovým organizáciám schválenie rozpočtov na roky 2027 – 2029
+       Termín: do 21.12.2026
+b/ informovať Mestské zastupiteľstvo o čerpaní zostatku rezervného fondu a úveru
+       Termín: po čerpaní prostriedkov rezervného fondu a úveru
+
+
+
+
+                                               3
+                  Dôvodová správa k návrhu rozpočtu na roky 2027 - 2029
+
+      Rozpočet mesta Rožňava      na roky 2027 - 2029 je zostavený v súlade s nasledovnými
+právnymi normami:
+
+   •   so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene
+       a doplnení niektorých zákonov v znení neskorších predpisov,
+   •   so zákonom č. 523/2004 Z.z. o rozpočtových pravidlách verejnej správy a o zmene
+       a doplnení niektorých zákonov v znení neskorších predpisov,
+   •   so zákonom č. 564/2004 Z.z. o rozpočtovom určení výnosu dane z príjmov územnej
+       samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+   •   so zákonom č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+   •   so zákonom č. 582/2004 Z.z. o miestnych daniach a miestnom poplatku za komunálne
+       odpady a drobné stavebné odpady v znení neskorších predpisov
+   •   so zákonom č. 322/2025 Z.z. o financovaní základných škôl, stredných škôl a školských
+       zariadení v znení neskorších predpisov
+   •   so zákonom č. 321/2025 Z. z. o školskej správe v znení neskorších predpisov
+   •   s ústavným zákonom č. 493/2011 Z. z. o rozpočtovej zodpovednosti v znení neskorších
+       predpisov
+   •   s opatrením MF SR č. MF/010175/2004-42 zo dňa 8.12.2004 v znení neskorších predpisov,
+       ktorým sa ustanovuje druhová klasifikácia, organizačná klasifikácia a ekonomická
+       klasifikácia rozpočtovej klasifikácie
+   •   s uznesením Vlády SR č. 407/2026 k návrhu zistenia, že výdavky z verejných prostriedkov
+       súvisiace s odstraňovaním následkov živelných pohrôm a prírodných katastrof, ktoré
+       zasiahli územie Slovenskej republiky a výdavky z verejných prostriedkov vyplývajúce
+       z plnenia medzinárodných zmlúv presiahli v úhrne 3% HDP
+
+        Základným nástrojom finančného hospodárenia mesta je rozpočet, prostredníctvom ktorého
+sa realizujú základné úlohy a funkcie mesta. Rozpočet vyjadruje samostatnosť hospodárenia mesta
+a jeho základnou úlohou je zabezpečovanie financovania mesta.
+
+       V súlade so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy je
+rozpočet mesta Rožňava na roky 2027 – 2029 navrhnutý ako vyrovnaný, v členení na bežný
+rozpočet, kapitálový rozpočet a finančné operácie. Rozpočet mesta Rožňava je rozdelený na
+príjmovú a výdavkovú časť. Programový rozpočet obsahuje 16 programov, vrátane údajov
+o zámeroch a cieľoch mesta Rožňava. V rámci predkladaného rozpočtu sú zohľadnené v návrhu
+rozpočtu aj vzťahy k rozpočtovým a príspevkovým organizáciám v zriaďovateľskej pôsobnosti
+mesta Rožňava. Podľa zákona o rozpočtových pravidlách územnej samosprávy je mesto povinné
+zostavovať viacročný rozpočet. Rozpočet na rok 2027 je záväzný, na roky 2028 - 2029 je len
+orientačný.
+
+       Pri zostavovaní návrhu rozpočtu mesta Rožňava na roky 2027-2029 sme postupovali na
+základe listu pána ministra financií Ladislava Kamenického pre ZMOS zo dňa 02.11.2026, kde
+uvádza, že platí výnimka na uplatňovanie sankcií podľa Čl. 12 ods. 10 ústavného zákona
+o rozpočtovej zodpovednosti a subjekty územnej samosprávy pri tvorbe rozpočtu na rok 2027
+                                                4
+postupujú bez obmedzení dlhovej brzdy. Pri zostavovaní rozpočtu sme následne postupovali
+podľa zákona o rozpočtových pravidlách územnej samosprávy.
+
+       Zostavovanie vyrovnaného rozpočtu je z roka na rok ťažší proces a ani zostavovanie návrhu
+na rok 2027 nebol výnimkou, nakoľko aj naďalej chce mesto napredovať, zveľaďovať
+a rekonštruovať svoj majetok. Taktiež je nutné zdôrazniť stále neisté a zvyšujúce sa ceny za
+materiál, služby, energie, potraviny, pohonné hmoty a iné komodity, ktoré nám ovplyvňujú
+výdavkovú časť rozpočtu.
+
+Príjmovú časť vo výške 50 600 609 € návrhu rozpočtu na rok 2027 tvoria:
+
+          ➢ bežné príjmy vo výške 26 178 061 € (vrátane PČ SŠ Komenského)
+          ➢ kapitálové príjmy vo výške 23 156 730 €
+          ➢ príjmové finančné operácie v sume 1 265 818 €
+
+BEŽNÉ PRÍJMY
+
+   • Daňové príjmy – dane z príjmov poukazované samospráve (tzv. podielové dane), dane
+     z majetku, dane za tovary a služby a dane z povolenia na výkon činnosti.
+     Podielové dane sú v návrhu na roky 2027-2029 rozpočtované na základe údajov zo stránky
+     Rady pre rozpočtovú zodpovednosť. Podielové dane pre rok 2027 sú rozpočtované vo výške
+     8 822 253 €. V roku 2027 sa počíta so zvýšením poplatku za komunálny odpad a očakávané
+     plnenie príjmov je v tejto položke rozpočtované vo výške 1 455 000 €. Ostatné dane
+     a poplatky sa nemenili. Celkový príjem je v tejto časti rozpočtovaný vo výške 11 968 453 €,
+     čo predstavuje navýšenie oproti schválenému rozpočtu na rok 2026 o 1 091 881 €.
+
+   • Nedaňové príjmy – príjmy z podnikania a z vlastníctva majetku, administratívne a iné
+     poplatky i ďalšie nedaňové príjmy. Nedaňové príjmy očakávame vo výške 2 888 360 €.
+     Oproti roku 2026 dochádza k celkovému zvýšeniu o 219 050 €. Očakávame navýšenie za
+     prenájom pozemkov a zmenou zákona došlo k navýšeniu za poplatok za opatrovateľskú
+     službu podľa novely Zákona č. 448/2008 Z. z. o sociálnych službách a o zmene a doplnení
+     zákona č. 455/1991 Zb. o živnostenskom podnikaní v znení neskorších predpisov a Zákona
+     č. 406/2025 Z. z. o príspevku na pomoc pri odkázanosti na pomoc inej osoby. Ostatné
+     očakávané príjmy ostali väčšinou na úrovni roka 2026.
+
+   • Granty a transfery – vzhľadom ku skutočnosti, že v momente zostavovania rozpočtu
+     neboli známe jednotlivé výšky dotácií, budeme tieto položky upravovať v zmene rozpočtu
+     v priebehu roka 2027 podľa oznámení z jednotlivých oblastí. Granty a transfery sú
+     rozpočtované vo výške 11 313 248 €.
+
+   • Príjem za podnikateľskú činnosť Spojenej školy sa rozpočtuje v sume 8 000 €.
+
+
+
+
+                                               5
+KAPITÁLOVÉ PRÍJMY
+
+   • Vlastné kapitálové príjmy - príjmy z predaja kapitálových aktív, príjem z predaja
+     pozemkov a nehmotných aktív.
+     V kapitálovom príjmovom rozpočte uvažujeme s príjmami z predaja prebytočného majetku
+     mesta a takisto očakávame príjem za predaj pozemkov mesta. Vlastné kapitálové príjmy sú
+     rozpočtované vo výške 423 000 €.
+
+   • Tuzemské kapitálové granty a transfery – mesto sa aktívne zapája do investičných
+     projektov a z tohto dôvodu v kapitálových príjmoch očakávame príjem finančných
+     prostriedkov na tieto projekty a zároveň refundácie na už ukončené projekty. Rozpočtujeme
+     ich v očakávanej sume 22 733 730 €.
+
+PRÍJMOVÉ FINANČNÉ OPERÁCIE
+
+   • Príjmové finančné operácie sú rozpočtované vo výške 1 265 818 € a obsahujú najmä príjmy
+     z predchádzajúceho roka, nevyčerpané dotácie z minulých rokov, zostatok rezervného
+     fondu, očakávaný príjem úveru zo ŠFRB a zostatok úveru – ich výška sa následne v návrhu
+     na 1. zmenu rozpočtu upraví podľa skutočnosti čerpania úveru k 31.12.2026 a skutočnej
+     výšky prenesených finančných prostriedkov z roku 2026 do roku 2027, vrátane rezervného
+     fondu.
+
+Výdavkovú časť vo výške 50 600 609 € návrhu rozpočtu na rok 2027 tvoria:
+
+   ➢ bežné výdavky vo výške 25 364 474 € (vrátane podnikateľskej činnosti SŠ Komenského)
+   ➢ kapitálové výdavky vo výške 23 469 358 €
+   ➢ výdavkové finančné operácie vo výške 1 766 777 €
+
+      Bežný rozpočet bol zostavený ako prebytkový. Pôvodná výdavková časť rozpočtu bola
+zosumarizovaná na základe jednotlivých požiadaviek subjektov napojených na rozpočet mesta.
+Vzhľadom na príjmovú časť rozpočtu, nebolo možné vykryť všetky požiadavky, preto aj samotný
+mestský úrad pristúpil k úsporným opatreniam v navrhovanom rozpočte, tak ako aj po minulé roky.
+
+BEŽNÉ VÝDAVKY
+
+   • Zahŕňajú návrh na výdavky na mzdy, poistné, tovary a služby (cestovné, energie, materiál,
+     dopravné, opravy a údržba, nájomné, služby), bežné transfery, splácanie bežných úrokov.
+
+   • V návrhu rozpočtu na roky 2027-2029 nebolo zohľadnené zvýšenie miezd odborných
+     a pedagogických zamestnancov od 1.7.2027 o 8,4% nakoľko Vyššia kolektívna zmluva
+     nebola podpísaná.
+
+   • Výdaj za podnikateľskú činnosť Spojenej školy Komenského sa rozpočtuje v sume 8 000 €
+
+   • Časť Plánovanie, manažment, kontrola obsahuje výdavky na financovanie odmien
+                                       6
+   poslancom MZ a členom komisií. Následne sa tu rozpočtujú výdavky na poistné
+   motorových vozidiel, výdavky na zabezpečenie audítorských služieb, výdavky na poistenie
+   osôb a majetku, dane, poplatky, školenia zamestnancov mesta, exekútorské poplatky. Bežné
+   výdavky sú v tejto kapitole rozpočtované vo výške 242 700 €. Oproti schválenému rozpočtu
+   minulého roka prišlo k nárastu očakávaných výdavkov o 59 800 €, hlavne z dôvodu
+   navýšenia odmien poslancom MZ a za právne služby – trovy konania.
+
+• Položka Propagácia a marketing zahŕňa nákup materiálu a služieb za reprezentačné
+  výdavky, výdavky spojené s propagáciou mesta v celkovej sume 19 000 €. Oproti
+  schválenému rozpočtu v roku 2026 sa očakávaný výdavok navýšil o 3 000 €.
+
+• V kapitole Interné služby sa rozpočtujú výdavky na opravu majetku mesta (oprava budov,
+  zariadení, prístrojov, strojov a iných), výdavky na prenájom (hlavne nájom za používanie
+  tlačiarní, rohoží, pozemkov) a služby v oblasti informačno – komunikačných technológií
+  ako sú správcovské poplatky systému dochádzky, upgrade softvéru, aktualizácie programov
+  a iné. Spolu sa rozpočtujú v sume 246 000 €. Oproti schválenému rozpočtu v roku 2026
+  došlo k nárastu o 25 000 €, ktoré boli navýšené v položke opravy majetku mesta.
+
+• Služby obyvateľom zahŕňajú výdavky na mzdy, poistné, tovary, služby a transfery spojené
+  s preneseným výkonom štátu a to konkrétne – Matrika, Školský úrad, Spoločný stavebný
+  úrad a Evidencia obyvateľstva vo výške 267 950 €. Oproti schválenému rozpočtu minulého
+  roka prišlo k zvýšeniu očakávaných výdavkov o 28 600 €. K zvýšeniu došlo v oblasti
+  Školského úradu a Stavebného úradu.
+
+
+• Oblasť Bezpečnosť obsahuje výdavky na požiarnu obranu, ako sú nákup materiálu, údržba,
+  dopravné, dohody. Ďalej sem zaraďujeme výdavky na činnosť Mestskej polície, výdavky na
+  zabezpečenie chodu kamier, výdavky na BOZP, GDPR, civilnú ochranu, ochranu objektov,
+  výdavky na verejné osvetlenie a ďalšie. Výdavky v tejto oblasti sú vo výške 983 720 €.
+  Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných výdavkov o 90
+  120 € a to najmä z dôvodu, že v roku 2026 bolo do pracovného pomeru prijatých viac
+  zamestnancov Mestskej polície, ďalej sú potrebné finančné prostriedky na kybernetickú
+  bezpečnosť a zároveň očakávame vyššie čerpanie za elektrickú energiu v rámci verejného
+  osvetlenia.
+
+• Výdavky na Odpadové hospodárstvo sa skladajú z príspevku pre príspevkovú organizáciu
+  Odpadové služby mesta Rožňava, zabezpečenie zberu a likvidácie komunálneho, bio,
+  kuchynského a triedeného odpadu vrátane nákupu odpadových nádob, monitoringu skládky.
+  Výdavok je rozpočtovaný v sume 1 703 000 €. Oproti schválenému rozpočtu minulého roka
+  prišlo k zvýšeniu očakávaných výdavkov o 308 000 €. Navýšenie výdavkov je z dôvodu
+  vyšších nákladov na zber a likvidáciu odpadov.
+
+
+• V oblasti Kultúry, ktorú rozpočtujeme vo výške 329 060 € sú výdavky na zabezpečenie
+  jarmokov, spoločenských a kultúrnych podujatí, Dni mesta, nový projekt Rožňava
+  s príbehom, príspevky pre kultúrne organizácie a takisto bežný príspevok pre príspevkovú
+                                          7
+   organizáciu Mestské divadlo ACTORES Rožňava. Oproti schválenému rozpočtu minulého
+   roka prišlo k zvýšeniu očakávaných výdavkov o 42 560 € a to z dôvodu zvýšenia príspevkov
+   pre kultúrne organizácie, ďalej došlo k navýšeniu bežného príspevku pre príspevkovú
+   organizáciu Mestské divadlo ACTORES Rožňava a navýšenie finančných prostriedkov
+   potrebných v súvislosti s realizáciou kultúrnych podujatí pre občanov a návštevníkov mesta
+   pričom každoročne dochádza k nárastu výdavkov v oblasti technického a organizačného
+   zabezpečenia, účinkujúcich, produkčných služieb a ďalších nevyhnutných výdavkov.
+
+
+• V Doprave vo výške 131 942 € sa rozpočtujú výdavky na motorové vozidlá, ich opravy
+  a údržbu, nákup PHM, bežné výdavky na leasing – motorové vozidlo IVECO pre Technické
+  služby, vozidlo MG, nové vozidlo a príspevok na MHD. Oproti schválenému rozpočtu
+  minulého roka prišlo k zníženiu očakávaných výdavkov o 12 668 € z dôvodu ukončenia
+  leasingu na vozidlo pre TS a zníženiu výdavkov na MHD.
+
+
+• Najvyššia položka, ktorá tvorí bežný rozpočet výdavkov je Vzdelávanie vo výške 3 888 887
+  € a patria sem výdavky na prevádzku materských škôl na území mesta – mzdy, poistné,
+  tovary, služby, transfery, ďalej výdavky na projekt EDUHUB z dotácie a transfery pre
+  cirkevné školstvo a pre súkromnú ZUŠ. Materské školy prešli v roku 2025 pod financovanie
+  z normatívnych finančných prostriedkov. V tejto oblasti dochádza každoročne k navýšeniu
+  očakávaných výdavkov.
+
+
+• Výdavky základných škôl vrátane originálnych kompetencií (školské jedálne pri ZŠ, školské
+  kluby detí, Centrum voľného času, Základná umeleckú školu, materská škola patriaca pod
+  Spojenú školu v Rožňave) rozpočtujeme v roku 2026 v sume 10 753 324 €. V oboch
+  prípadoch je naplánované nižšie plnenie z dôvodu, že tam nie sú zahrnuté dotácie na
+  stravovanie a nenormatívne finančné prostriedky účelovo určené, ktoré sa do rozpočtu
+  zapracujú v priebehu roku 2027 podľa plnenia. Oproti schválenému rozpočtu v roku 2026
+  došlo takisto k zvýšeniu.
+
+
+• Na Šport a voľný čas plánuje mesto v roku 2027 vynaložiť sumu 173 000 € - výdavky na
+  využívanie multifunkčnej telocvične, príspevky pre športové organizácie a kluby a športové
+  podujatia organizované mestom. Výška výdavkov na šport je približne na úrovni roka 2026.
+
+• Úsek Komunikácie obsahuje výdavky na opravy a údržbu majetku mesta – cesty, chodníky,
+  parkoviská, svahy, ďalej sem patrí bežný príspevok pre príspevkovú organizáciu Technické
+  služby mesta Rožňava a výdavky na parkovaciu politiku. Výdavky sú v sume 1 917 000 €.
+  Oproti schválenému rozpočtu minulého roka prišlo k nárastu očakávaných výdavkov o 197
+  000 €, na položke opravy a údržba komunikácií, parkovacia politika a k zvýšeniu došlo aj
+  v príspevku pre príspevkovú organizáciu Technické služby mesta Rožňava.
+
+
+• Prostredie pre život – výdavky na revitalizáciu zelene a veterinárnu oblasť v sume 77 000
+  €. Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných výdavkov
+  o 23 000 € a to najmä z dôvodu vyšších predpokladaných výdavkov na opravu útulku
+                                          8
+   a výdavkov na revitalizáciu verejnej zelene.
+
+
+• Sociálne služby zahŕňajú výdavky (mzdy, poistné, tovary a služby, transfery) na
+  zabezpečenie činnosti Denného centra, Komunitného centra, opatrovateľskej služby,
+  terénnej sociálnej služby, Jasle Lienka, výdavky na projekty na zamestnanie, hmotnú núdzu,
+  humanitárnu pomoc v sume 1 542 909 €. Oproti schválenému rozpočtu minulého roka prišlo
+  k zvýšeniu očakávaných výdavkov o 130 402 €, z dôvodu zapracovanej vratky na
+  stravovanie. Zníženie bolo vykázané pri platbách pre verejných a neverejných
+  poskytovateľov sociálnych služieb a to od 01.07.2028 novelou zákona o soc. službách
+  448/2008 Z.z., a to tak, že finančný príspevok na prevádzku pobytových zariadení prešlo z
+  kompetencii obcí a miest do kompetencie VUC, obciam a mestám zostalo financovanie
+  terénnych služieb a nízkoprahových služieb pre neverejných poskytovateľov
+  (opatrovateľská služba, nízkoprahové denné centrum), preto sa v rozpočte počíta len
+  s finančnými prostriedkami pre tieto sociálne služby.
+
+
+• Administratíva obsahuje výdavky na činnosť Mestského úradu ako sú: mzdy a poistné
+  zamestnancov úradu, nákup materiálu (uvažujeme s nákupom hlavne kancelárskeho
+  materiálu, uličných a úradných tabúľ, čistiacich prostriedkov, pracovných a ochranných
+  pomôcok, výpočtovej techniky, lavičiek, tonerov, materiálu na opravu a údržbu), cestovné
+  (výdavky spojené s cestovným), energie (výdavky za tepelnú energiu, elektrickú energiu,
+  vodné, stočné, internet, telefón, poštovné), rekreačné poukazy pre zamestnancov, služby
+  (všetky služby, ktoré kupuje mesto - predovšetkým ide o služby: verejné obstarávanie,
+  inzercia, právne služby, prieskumné a projektové práce, geodetické práce, asanácia,
+  notárske, advokátske, poradensko-konzultačné, kontroly, pochovávanie a iné), pričom
+  všetky výdavky na služby boli prehodnotené a následne znížené, bežné transfery (výdavky
+  na členské príspevky, finančný príspevok na stravovanie, náhrady počas pracovnej
+  neschopnosti, odchodné, príspevky pre právnické osoby), splátky úrokov (podľa
+  uzatvorených úverových zmlúv a súčasných úrokových sadzieb). Rozpočtujeme ich v sume
+  2 636 000 €. Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných
+  výdavkov o 136 000 €. Zvýšenie je z dôvodu nárastu mzdových výdavkov a vysokých
+  poplatkov za úroky z úverov.
+
+
+• Bývanie – výdavky na mestské byty ako sú energie, opravy a údržba bytov a služby v sume
+  272 982 €. Oproti schválenému rozpočtu minulého roka prišlo k zvýšeniu očakávaných
+  výdavkov o 41 967 €, z dôvodu vyšších výdavkov na opravy bytov z fondu opráv. Úroky
+  ŠFRB sú rozpočtované na základe podpísaných zmlúv.
+
+
+• Občianska vybavenosť – výdavky na externý manažment, Turistické informačné centrum,
+  projekt a participatívny rozpočet vo výške spolu 172 000 €. Oproti schválenému rozpočtu
+  minulého roka prišlo k zvýšeniu očakávaných výdavkov o 26 000 € a to hlavne z navýšenia
+  výdavkov na externý manažment, ktoré by nám mali byť refundované. Zároveň bolo
+  zmenené financovanie výdavkov pre TIC.
+
+
+                                             9
+KAPITÁLOVÉ VÝDAVKY
+
+   • Sú v rozpočte podľa jednotlivých objektov. Kapitálový rozpočet bol zostavený ako
+     schodkový, pričom ho vykrývame zostatkami finančných prostriedkov z minulých rokov
+     (finančnými operáciami príjmovými – kapitálové dotácie z minulých rokov), rezervným
+     fondom, úverom ŠFRB a prebytkom bežného rozpočtu. V roku 2027 sú plánované vo výške
+     23 469 358 €. Podrobné členenie jednotlivých očakávaných kapitálových výdavkov sa
+     nachádza v tabuľkovej časti a v programovom rozpočte.
+
+VÝDAVKOVÉ FINANČNÉ OPERÁCIE
+
+   • Obsahujú splátky úverov, úverov ŠRFB a leasingov a sú premietnuté do rozpočtu mesta
+     podľa uzatvorených zmlúv. Ďalej sem zaraďuje nákup cenných papierov podľa uzatvorenej
+     zmluvy so spoločnosťou FIN M.O.S. (za verejné osvetlenie) a vrátené zábezpeky.
+     Rozpočtujeme ich vo výške 1 766 777 €.
+
+      Podrobnejšie členenie podľa funkčnej klasifikácie, ekonomickej klasifikácie, podľa
+programov sa nachádza v tabuľkovej časti materiálu a v programovom rozpočte mesta.
+
+               Dôvodová správa k návrhu rozpočtu – Príspevkové organizácie
+
+
+ODPADOVÉ SLUŽBY MESTA ROŽŇAVA
+
+
+Dôvodová správa k návrhu rozpočtu na roky 2027-2029
+
+
+        Predložený návrh rozpočtu Odpadových služieb mesta Rožňava na roky 2027 - 2029 bol
+zostavený v zmysle zákona o rozpočtových pravidlách verejnej správy č. 523/2004 Z.z. v znení
+zmien a doplnkov a v zmysle zákona o rozpočtových pravidlách územnej samosprávy č. 583/2004
+Z.z. v znení zmien a doplnkov.
+
+       Návrh rozpočtu na rok 2027 bol zostavený ako vyrovnaný. Pri tvorbe návrhu rozpočtu sa
+vychádzalo z plánu činnosti organizácie na rok 2027 a z doterajších činností v predchádzajúcich
+rokoch a v roku 2026.
+
+Príjmy:
+Bežné príjmy pozostávajú z príspevku na bežnú činnosť od zriaďovateľa. Navrhuje sa zvýšenie
+príspevku od zriaďovateľa na rok 2027 oproti roku 2026. Z roka na rok sa prejavuje vyššia
+poruchovosť na zberových motorových vozidlách a neustály rast cien za opravy a nákup
+náhradných dielov a rast cien pohonných hmôt a mazadiel zvyšujú náklady na prevádzku
+motorových vozidiel. Neustále zvyšovanie cien zvyšuje náklady na energie, za služby a nákup
+materiálu a tovaru. Od januára 2026 sa zvyšuje minimálna mzda, tým sa zvyšujú aj mzdové náklady
+a tým súvisiace náklady na odvody do poisťovní. Zvyšovanie sa navrhuje aj z dôvodu zvýšenia
+príspevkov na stravovanie a nárastu platov o 8,4 % od 1.7.2026 podľa pripravovanej Kolektívnej
+zmluvy vyššieho stupňa na rok 2027.
+Finančné príjmové operácie tvoria predpokladaný zostatok finančných prostriedkov na hlavnom
+účte a v pokladni k 31.12.2026.
+                                                10
+Výdavky:
+Bežné výdavky pozostávajú z nasledovných položiek:
+- v položke na mzdy, odvody a poistné sú zahrnuté mzdy zamestnancov v zmysle platných tarifných
+tabuliek a odvody do poisťovní
+  - v položke tovary a služby najväčšie náklady tvoria príspevky na dopravné, ktoré zahŕňajú
+výdavky na pohonné látky, oleje a mazadlá, opravy a údržbu dopravných prostriedkov, pneumatiky,
+náhradné diely na dopravné prostriedky, pracovných strojov, výdavky na zákonné a havarijné
+poistenia motorových vozidiel, výdavky na STK a emisné kontroly, pracovné odevy pre vodičov a
+závozníkov. V položke služby sú zahrnuté výdavky na školenia, všeobecné služby, špeciálne
+služby, poplatky, poistné majetku, prídel do sociálneho fondu, odmeny pre dozornú komisiu,
+poplatky za komunálny odpad a iné. Ďalšou významnou položkou sú výdavky za elektrickú energiu
+a vodu, výdavky za materiál t.j. výpočtová technika, prevádzkové stroje, zariadenia a technika,
+reprezentačné, softvér, kancelársky materiál, čistiace a hygienické potreby a ostatný materiál
+zabezpečujúci nevyhnutnú činnosť organizácie. Nevyhnutnú položku tvoria aj výdavky na rutinnú a
+štandardnú údržbu prevádzkových strojov, prístrojov, zariadení, techniky, budov, objektov a ich
+častí, softvéru,
+- v položke bežné transfery sú zahrnuté príspevky na stravovanie zamestnancov, na nemocenské
+dávky, členské príspevky organizácie a benefitné poukážky pre zamestnancov.
+
+V Rožňave, 18.11.2026
+
+
+                                                     Denisa Podracka
+                                                 riaditeľka OSM Rožňava
+
+
+MESTSKÉ DIVADLO ACTORES ROŽŇAVA
+
+Dôvodová správa k návrhu rozpočtu na roky 2027-2029
+
+Mestské divadlo ACTORES v súlade so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách
+územnej samosprávy predkladá rozpočet divadla na roky 2027 – 2029, ktorý je navrhnutý ako
+vyrovnaný
+Mestské divadlo ACTORES je kultúrnou a umeleckou organizáciou v zriaďovateľskej pôsobnosti
+Mesta Rožňava. Je profesionálnym divadlom so stálym umeleckým súborom, ktorého hlavným
+predmetom činnosti je tvorba a produkcia divadelných inscenácií. Hlavným poslaním je prinášať
+hosťujúce divadelné, kultúrne a umelecké produkcie v najvyššej umeleckej kvalite. Divadlo sa vo
+svojom smerovaní snaží zasiahnuť všetky cieľové skupiny divákov v meste a jeho okolia.
+
+1.    PRÍJMOVÁ ČASŤ
+Rozpočtované príjmy na rok 2027 sú naplánované vo výške 458 074 €.
+
+Z toho:
+   • transfer od zriaďovateľa na činnosť vo výške 193 500,- €. Plánované navýšenie oproti
+       úrovni roka 2026 je vo výške 13 500,- eur, z ktorého plánujeme vykryť čiastočné výdavky
+       na zvýšené ceny energií a čiastočné zvýšenie miezd zamestnancov z titulu nárastu
+       minimálnej mzdy. Transfer od zriaďovateľa je použitý na čiastočné úhrady miezd
+       zamestnancov a čiastočnú spotrebu energií.
+Od roku 2024 bol transfer od zriaďovateľa v nezmenenej výške a to 180 000 eur.
+   • účelový transfer od zriaďovateľa na podujatie GASTRO GEMER FEST vo výške 6 500
+       €
+   • príjem z vlastnej činnosti vo výške 248 074 €
+                                                11
+   • zostatok z minulého roka vo výške 10 000,- ktorý zahŕňa neuhradené dodávateľské faktúry
+     z bežného roka, splatné v nasledujúcom roku a výnosy budúcich období, t.j. vstupenky
+     uhradené vopred za podujatia konané v nasledujúcom roku.
+
+2.    VÝDAVKOVÁ ČASŤ
+Rozpočtované výdavky na rok 2027 sú naplánované vo výške 458 074 €.
+
+Z toho:
+Bežné výdavky
+   • výdavky na mzdy, poistné a príspevky do poisťovní – plánované navýšenie miezd
+       o 11,78%, t.j. 22 594 eur, z ktorého plánujeme vykryť zvýšenie miezd z dôvodu nárastu
+       minimálnej mzdy a zamestnania jedného pracovníka na polovičný úväzok.
+
+Mzdy zamestnancov Mestského divadla Actores Rožňava zostávali dlhodobo od roku 2024 na
+rovnakej úrovni, niektoré sú pod úrovňou minimálnej mzdy. Priemerný plat zamestnanca dosahuje
+približne 0,65 % z priemernej nominálnej mzdy v slovenskom hospodárstve.
+    • cestovné výdavky sú plánované v nezmenenej výške, na úrovni roka 2026
+    • výdavky na energie a telekomunikačné služby - predpokladané navýšenie nákladov vo
+        výške 7 000 eur oproti minulému roku 2026 pre spoločnosti Technické služby mesta
+        Rožňava a Stefe (dodávky tepla, elektrickej energie, vodné a stočné). Telekomunikačné
+        poplatky (Orange, Slovak Telekom UPC) pozostávajú z pravidelnej mesačnej fakturácie za
+        mobilné služby, pevnú linku, internet, web doménu a sú plánované na úrovni roka 2026.
+    • na materiál – v tejto položke sú zahrnuté plánované výdavky za materiál na scénu,
+        rekvizity, ostatný drobný materiál, technický materiál a pod. – plánované výdavky sú nižšie
+        oproti roku 2026.
+    • dopravné – plánované na úrovni roka 2026
+    • údržba – plánované na úrovni roka 2026
+    • nájomné - prenájmy priestorov v kultúrnych domoch, prenájom externej svetelnej
+        a zvukovej techniky znížené oproti roku 2026
+    • ostatné tovary a služby – sú zahrnuté všetky všeobecné služby, ako nahrávanie
+        a ozvučenie, tlač bannerov, tlačív, spracovanie PAM, školenia, reklama, ubytovanie pre
+        zamestnancov, ostatné poplatky (poplatky správcovi budovy, ochrana objektov, revízie,
+        poplatky za PO, BOZP, poplatky autorským zväzom, bankové poplatky), honoráre,
+        stravovanie a reprezentačné náklady
+    • členské príspevky a finančný príspevok pre zamestnancov – sú plánované na úrovni roka
+        2026
+
+3.     ZÁVER
+Mestské divadlo ACTORES plánuje v roku 2027 dodržať vyrovnaný rozpočet. Príspevok od
+zriaďovateľa plánujeme použiť z časti na krytie výdavkov na mzdy a odvody zamestnancov, zvyšok
+na úhradu časti nákladov za energie. Ostatné výdavky, rozpísané vo výdavkovej časti, budú hradené
+výlučne z vlastných zdrojov získaných z príjmov za kultúrnu činnosť a z prenájmu divadelnej sály.
+
+V Rožňave, 19.11.2026
+
+
+                                                          Mgr.art. Tatiana Masníková
+                                                          riaditeľka divadla
+
+
+
+
+                                                12
+               Dôvodová správa k návrhu rozpočtu TSM Rožňava na rok 2027
+
+Predložený návrh rozpočtu TSM na rok 2027 bol zostavený v zmysle zákona o rozpočtových
+pravidlách verejnej správy č. 523/2004 Z.z. v znení zmien a doplnkov a v zmysle zákona o
+rozpočtových pravidlách územnej samosprávy č. 583/2004 Z.z. v znení zmien a doplnkov.
+
+   Návrh rozpočtu na rok 2027 pre TSM Rožňava predkladáme ako vyrovnaný.
+
+ Pre Technické služby mesta Rožňava bola určená výška príspevku na činnosť zriaďovateľom vo
+výške 1 132 000 €,
+Pri tvorbe návrhu rozpočtu sa vychádzalo z plánu činnosti TSM a z predpokladaných úloh určených
+zriaďovateľom na rok 2027 ako aj zo skutočných výsledkov za predchádzajúce obdobie.
+
+     Bežné príjmy pozostávajú z príspevku od zriaďovateľa mesta Rožňava, z príjmov vedľajšej
+podnikateľskej činnosti a ostatných príjmov. Plánované príjmy sú vo výške          1 497 300 €, z
+toho
+-       poskytnutý príspevok na bežnú činnosť od zriaďovateľa je vo výške 1 132 000 €
+-       iné príjmy z hlavnej činnosti vo výške 150 700 € - zostatok fin. prostriedkov z minulého
+roka, príjem z dobropisov, príjmy VŠA, cintorína.
+-       príjmy z podnikateľskej činnosti vo výške 214 600 € - príjmy zo spravovaného majetku:
+nebytových priestorov, trhoviska, príjmy z predaja služieb, zostatok z predchádzajúcich rokov
+
+
+Výdavky v hlavnej činnosti:
+
+Bežné výdavky pozostávajú predovšetkým z výdavkov zabezpečujúcich výkon údržby a čistoty
+verejných priestranstiev, zelene, miestnych komunikácií, správy majetku nebytových priestorov a
+športovo–rekreačných zariadení.
+Položka mzdy a odvody sú prepočítané podľa platovej inventúry bez avizovaného navýšenia o
+8,4%.
+Plánované výdavky na energie vo výške 151 550 € sme sa nastavili s prihliadnutím na skutočný a
+predpokladaný odber v roku 2026. Nakoľko v súčasnosti prebieha VO na nákup energií, počítali
+sme s pôvodnými cenami a zohľadnili sme prevádzku VŠA bez otvorenia kúpaliska.
+V položke materiál vo výške 50 600 € je premietnutý nákup materiálu na zabezpečenie zimnej
+údržby - soľ, štrk, kvety, materiál na asfaltovanie výtlkov, náhradných dielov na pracovné stroje,
+vodoinštalačný materiál.
+V položke dopravné vo výške 96 320 € sú zahrnuté výdavky na pohonné hmoty, oleje, mazadlá,
+oprava dopravných prostriedkov, náhradné diely, pneumatiky, povinné zmluvné poistenie
+motorových vozidiel, prepravné, pracovné odevy a ochranné pomôcky.
+V položke rutinná a štandardná údržba vo výške 4 600 € sú zahrnuté nevyhnutné výdavky na
+opravu a údržbu výpočtovej techniky, prevádzkových strojov a zariadení, budov a softvéru.
+V položke služby sú zahrnuté výdavky vo výške 102 531 € na zabezpečenie úloh ako: školenia,
+revízie budov v správe TSM, všeobecné služby, špeciálne služby, stravovanie, poplatky, poistné
+majetku, prídel do sociálneho fondu.
+V položke transfery suma vo výške 33 426 € zahŕňajú odstupné, odchodné, finančný príspevok na
+stravovanie.
+Technické služby mesta na základe predloženého rozpočtu na rok 2027 budú vedieť zabezpečiť
+rozsah prác len do výšky príspevku.
+Kosenie v sezóne 2027 budeme zabezpečovať strojovo kosačkami 2x Farmtrack, Kubota GZD,
+Starjet, John Deere X950 R. John Deere – vretenová kosačka prioritne na futbalovom ihrisku a 8
+sezónnymi zamestnancami s krovinorezmi Stihl 410,411 v predpokladanom termíne 15.04.-
+15.11.2027
+                                                13
+Technické služby mesta Rožňava v roku 2027 nepočítajú na základe informácii od zriaďovateľa v
+rozpočte ani v príjmovej a ani vo výdavkovej časti s otvorením kúpaliska.
+
+
+Podnikateľská činnosť:
+
+V podnikateľskej činnosti v príjmovej časti máme naplánovaný príjem vo výške 214 600 € - z
+prenájmu, z predaja služieb, iné príjmy.
+Vo výdavkovej časti rozpočtu v položke energie plánujeme sumu 123 650 €, kde sme zohľadnili
+ceny z roku 2026, nakoľko v súčasnej dobe prebieha verejné obstarávanie na nákup energií.
+V položka rutinná a štandardná údržba výške 1 000 € údržbu prevádzkových strojov a zariadení
+ Položka služby vo výške 25 499 € zahŕňa revízne kontroly, poistenie majetku, dane.
+
+
+
+
+                                                      PaedDr. Mikuláš Gregor, MPH
+                                                                  riaditeľ
+
+
+          S t a n o v i s k á dozorných komisií pri MZ pre príspevkové organizácie
+
+
+
+
+                                              14
+        Východiskom pri spracovaní programového rozpočtu boli všeobecne záväzné právne predpisy a to :
+-   Zákonom č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých
+    zákonov v z.n.p.,
+-   Zákonom č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnenia niektorých
+    zákonov v z.n.p. a zohľadňuje aj ustanovenia:
+-   Zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálny odpad a drobné stavebné
+    odpady v z.n.p.,
+-   Zákona č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene
+    a doplnení niektorých zákonov v z.n.p.
+-   Zákonom č. 322/2025 Z.z. o financovaní základných škôl, stredných škôl a školských zariadení
+
+        a v neposlednom rade bral do úvahy platné všeobecne záväzné nariadenia mesta, ako:
+-   Zásady rozpočtového hospodárenia a
+-   VZN o miestnych daniach a miestom poplatku za komunálne odpady a drobné stavebné odpady.
+
+        Z hľadiska metodickej správnosti predložený návrh programového rozpočtu rešpektuje rozpočtovú
+klasifikáciu v zmysle Opatrenia MF SR č. MF/010175/2004-42, ktorým sa ustanovuj druhová, organizačná
+a ekonomická klasifikácia rozpočtovanej klasifikácie v z.n.p.
+
+      Programový rozpočet na roky 2027 - 2029 je zostavený ako:
+-   Viacročný rozpočet – viacročné rozpočtovanie územnej samosprávy je definované v zákone č. 583/2004 § 9
+    ods. 1 až 4 zákona.
+-   Programový rozpočet – mesto je povinné zostaviť programový rozpočet na roky 2027 - 2029, ktorý má byť
+    zostavený a schvaľovaný v programovej štruktúre, čo znamená, že vo viacročnom rozpočte by mali byť
+    vyjadrené zámery rozvoja územia mesta a potrieb jeho obyvateľov vrátane programov mesta najmenej na tri
+    rozpočtové roky.
+
+         Rozpočet mesta na roky 2027 - 2029 je zostavený v mene EURO.
+
+         Štruktúra programového rozpočtu, zámery, ciele, programy a podprogramy vedú naplneniu základného cieľa
+mesta:
+         Mesto Rožňava bude mestom, ktoré bude vyvážene zabezpečovať podmienky pre harmonický život
+všetkých kategórií svojich obyvateľov. Mesto sa stane príjemným sídlom zabezpečujúcim komplexné sociálne
+služby pre svojich obyvateľov.
+
+Programové rozpočtovanie
+- Programové rozpočtovanie je systém založený na plánovaní úloh a aktivít subjektov samosprávy v nadväznosti
+   na ich priority a alokovanie disponibilných rozpočtových zdrojov do programov, s dôrazom na výsledky a
+   efektívnosť vynakladania rozpočtových prostriedkov.
+- Inými slovami, programové rozpočtovanie je systém plánovania, rozpočtovania a hodnotenia, ktorý kladie
+   dôraz na vzťah medzi verejnými rozpočtovými zdrojmi (rozpočet samosprávy) a očakávanými (plánovanými)
+   výstupmi a výsledkami realizovaných činností, ktoré sú financované z rozpočtu subjektu samosprávy.
+- Ako synonymá sa veľmi často používajú pojmy rozpočtovanie orientované na ciele alebo rozpočtovanie
+   orientované na výkonnosť.
+
+Program
+- Je súhrn/skupina navzájom súvisiacich aktivít (prác, činností, dodávok) vykonávaných na splnenie
+   definovaných cieľov a zámerov.
+- Program môžeme obrazne považovať za „mini rozpočet“ istej kompetenčnej oblasti, ktorú vykonáva subjekt
+   samosprávy (napríklad Vzdelávanie, Doprava, Šport a pod).
+
+
+                                       1 Programový rozpočet mesta Rožňava
+-         Program sa vo všeobecnosti delí na (obsahuje) podprogramy,
+-         Každý program má priradený stručný, výstižný názov.
+
+Podprogram
+- Je ucelená časť programu, ktorá obsahuje vzájomne súvisiace aktivity (napríklad v rámci Programu vzdelávanie
+   môže byť Podprogram materské školy a Podprogram základné školy).
+- Podprogram teda môžeme považujeme za štruktúru, ktorá zvyšuje transparentnosť programu a špecifikuje
+   súvisiace tematické a výdavkové skupiny programu.
+- Každý podprogram má priradený stručný, výstižný názov.
+
+Zámer
+- Zámer vyjadruje očakávaný pozitívny dôsledok/dopad dlhodobého plnenia príslušných cieľov (budúci stav,
+   ktorý chceme v konečnom dôsledku dosiahnuť realizáciou programu/jeho časti a plnením príslušných cieľov
+   v rámci programu/jeho častí).
+
+Cieľ
+- Cieľ je forma na vyjadrenie výstupu alebo výsledku, prostredníctvom ktorého sa dosahuje (ktorý prispieva k)
+    plnenie zámeru.
+
+Merateľný ukazovateľ
+- Merateľný ukazovateľ je nástroj na monitorovanie a hodnotenie plnenia cieľa, resp. nástroj, prostredníctvom
+   ktorého meriame pokrok pri plnení cieľa.
+
+PRÍJMOVÁ ČASŤ
+    v€         Ukazovateľ                           Skutočnosť    Skutočnosť    Schválený    5. zmena     Očakávaná    Návrh 2027    Návrh 2028    Návrh 2029
+                                                       2024          2025        rozpočet    rozpočtu     skutočnosť
+                                                                                   2026                        k
+                                                                                                          31.12.2026
+
+
+               SPOLU PRÍJMY (A+B+C) HČ+PČ
+                                                    30 793 508    34 722 752    44 235 764   49 580 488   39 643 301    50 600 609    36 966 071    27 062 229
+
+               Podnikateľská činnosť RO (bež

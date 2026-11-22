@@ -1,0 +1,34 @@
+URL: https://sandal.sk/wp-content/uploads/2026/11/FD102026.pdf
+OBEC: Šandal (Stropkov)
+NÁZOV: FD102026
+ZDROJ: web obce
+
+M:FAKTÚRY A OBJEDNÁVKY                                                                                                                                    Obec Šandal
+Dátum tlače: 20.11.2026 15:09:11                             ZOZNAM DOŠLÝCH FAKTÚR : 10/2026 - 10/2026                                                      Strana:   1
+                                                                                Dátum
+     Číslo faktúry Doklad č. Dodávateľ                              Dodania    Splatnosti Úhrady    Suma spolu Popis faktúry
+
+ 3070002106 /    F     142      Energetika Slovensko, a.s.          31.10.26 15.10.26 02.10.26             59,20 FP- Plyn
+    2026022 /    F     143      Maiana Consulting s.r.o.            06.10.26 13.10.26 06.10.26           300,-   FP- vypracovanie žiadosti o dotáciu
+ 8396083080 /    F     144      SLOVAK TELEKOM, a.s.                07.10.26 23.10.26 16.10.26             35,06 FP- Telekomunikačné služby
+
+      260010 /   F     145      JL Real Invest s.r.o.               06.10.26 20.10.26 16.10.26           120,-   FP- vyprac. žiadosti o dotáciu
+ 2681000255 /    F     146      Jaroslav Saloň - SALY               13.10.26 27.10.26 16.10.26             38,90 FP- Všeobecný materiál do spotreby
+    2600747 /    F     147      Obchod - SVK, s.r.o.                15.10.26 29.10.26 16.10.26             84,50 FP- reklamné tabule
+
+ 8396323178 /    F     148      SLOVAK TELEKOM, a.s.                14.10.26 30.10.26 16.10.26             27,60 FP- Poplatky za internet
+   26001152 /    F     149      LUMOLA s.r.o.                       15.10.26 22.10.26 16.10.26           400,-   FP- vysávač (fukár) - z dotácie envir.
+
+      932026 /   F     150      Mzdová učtáreň OcÚ okresu           14.10.26 31.10.26 21.10.26           278,-   FP- Všeobecné služby
+      263581 /   F     151      Juraj Maťaš - Pekáreň               17.10.26 31.10.26 28.10.26           210,07 FP - výdavky na Mesiac úcty k starším
+  260100021 /    F     152      PEASTAV, s.r.o.                     22.10.26 05.11.26    28.10.26       6 143,85 FP- Obstaranie-zateplenie stropu KD
+
+    2026071 /    F     153      Pavol Mačej - MP - VODNÁR           21.10.26 04.11.26    10.11.26         311,44 FP- Oprava obecného vodovodu
+      260831 /   F     154      GDPR Slovakia, s.r.o.               31.10.26 19.11.26    10.11.26          27,50 FP- Všeobecné služby
+
+ 8397792195 /    F     155      SLOVAK TELEKOM, a.s.                31.10.26 18.11.26    10.11.26          18,44 FP- Telekomunikačné služby
+   26108407 /    F     156      SLUŽBA, mestský podnik              31.10.26 19.11.26    17.11.26        260,70 FP: všeobecné služby - vývoz TKO
+Počet faktúr celkom:   15                                                                               8 315,26 €
+Vyhotovil: Helena Petrišinová                                       Kontroloval:                                         Schválil:
+© IFOsoft Informačné systémy V 26.01                           Používateľ programu: Obec Šandal S/N 1
+

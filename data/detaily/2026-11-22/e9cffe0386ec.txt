@@ -1,0 +1,473 @@
+URL: https://cuet.slovensko.sk/en/dokument/3fa96673-7289-4528-a876-d97e6227780c
+OBEC: Kokošovce (Prešov)
+NÁZOV: Návrh - VZN č. 56/2026 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/3fa96673-7289-4528-a876-d97e6227780c
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh - VZN č. 56/2026 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Kokošovce
+Published from:
+20.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Kokošovce
+Published to:
+07.12.2026
+Registry case:
+Name of official document:
+Návrh - VZN č. 56/2026 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+Document abstract:
+Návrh - VZN č. 56/2026 o určení miestnych poplatkoch v obci
+a v pôsobnosti obce Kokošovce
+[https://www.kokosovce.sk/e_download.php?file=/data/uredni_deska/obsah323_1.pdf&original=Návrh - VZN č. 56_2026 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce.pdf]_
+Typ: PDF dokument, Veľkosť: 368.66 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh - VZN č. 56_2026 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce.pdf
+Type and size:
+.pdf, 368.66 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/1fe337f0-4561-4db4-a5d8-3af1923fe1dc
+                                               Návrh
+
+                     Všeobecne záväzné nariadenie č. 56/2026
+       o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+
+
+Návrh VZN vyvesený na úradnej tabuli obce a internetovej stránke obce dňa 20.11.2025
+VZN schválené Obecným zastupiteľstvom v Kokošovciach, dňa .................., uznesením č..............
+VZN vyvesené na úradnej tabuli obce a internetovej stránke obce dňa: .....................
+VZN nadobúda účinnosť dňom ........................
+
+
+
+
+                                                          Ing. Anna Sedláková
+                                                       starostka obce Kokošovce
+
+
+
+
+                                                   1
+Obec Kokošovce v zmysle §6 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+predpisov a na základe § 14 a §15 zákona SNR č. 544/1999 Zb. v znení neskorších zmien a doplnkov
+s použitím § 1 ods. 1a a zákona SNR č. 119/2008 Z.z. úplné znenie zákona SNR č. 563/2009 Z.z.
+o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších
+zmien a doplnkov vydáva pre územie obce Kokošovce toto
+
+
+            Všeobecne záväzné nariadenie obce Kokošovce č. 56/2026
+       o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+
+
+                                           Článok 1
+                                        Predmet úpravy
+1) Toto všeobecne záväzné nariadenie (ďalej len „nariadenie“) ustanovuje druhy miestnych poplat-
+   kov, ktoré sa vyberajú v období celého kalendárneho roka, jednotlivé sadzby poplatkov, ohlaso-
+   vaciu povinnosť o vzniku a zániku, splatnosť poplatkov, ďalej úľavy a oslobodenia od platenia
+   poplatkov, spôsob, formu a miesto pre zaplatenie poplatkov a aj ďalšie náležitosti vyberania po-
+   platkov na území obce Kokošovce (ďalej len „obec“).
+2) Obe Kokošovce vyberá na spravovanom území, ktorým je celé územie obce Kokošovce tieto
+   miestne poplatky (ďalej len poplatky):
+   -   Poplatok za užívanie kultúrneho domu
+   -   Poplatok za užívanie domu smútku (Dom nádeje)
+   -   Poplatok za hlásenie v miestnom rozhlase
+   -   Poplatok za fotokopírovacie služby
+   -   Poplatok za užívanie obecného vodovodu
+   -   Poplatok za užívanie poštovej schránky pred obecným úradom
+   -   Poplatok za užívanie futbalového ihriska
+
+
+
+                                           Článok 2
+                             Poplatok za užívanie kultúrneho domu
+Predmetom poplatku je osobitné užívanie priestorov Kultúrneho domu v Kokošovciach na
+usporiadanie verejných kultúrnych podujatí a iných osobitných akcií a programov.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá podujatie usporadúva.
+                                    Oznamovacia povinnosť
+Poplatník je povinný oznámiť usporiadanie verejného kultúrneho podujatia v zmysle § 3 zákona č.
+96/1991 Zb., o verejných kultúrnych podujatiach najneskôr 7 dní pred konaním podujatia.
+Usporiadateľ zodpovedá za zachovanie poriadku počas priebehu podujatia, za dodržiavanie
+príslušných zdravotno-hygienických, požiarnych, bezpečnostných a iných právnych predpisov.
+
+
+
+                                                  2
+                                          Sadzba poplatku
+                                                           Osoba s trvalým           Osoba bez trvalého
+                                                          pobytom / sídlom             pobytu / sídla
+        Prenájom priestorov
+                                   Smútočná hostina            20,- eur/deň             60,- eur/deň
+        kultúrneho domu
+        Prenájom priestorov
+                                    Rodinná oslava             100,- eur/deň           140,- eur/deň
+        kultúrneho domu
+        Prenájom priestorov
+                                 Svadby, zábavy, plesy         200,- eur/deň           250,- eur/deň
+        kultúrneho domu
+        Prenájom priestorov      Prezentácie, predajné
+                                                               20,- eur/hod.            20,- eur/hod.
+        kultúrneho domu              akcie a pod.
+        Prenájom priestorov
+                                   Športové vyžitie            5,- eur/hodina          5,- eur/hodina
+        kultúrneho domu
+        Za vyčistenie obrusov
+                                                                5,- eura/kus            5,- eura/kus
+        zapožičaných na akciu
+
+
+
+                                          Článok 3
+                       Poplatok za užívanie domu smútku (Dom nádeje)
+Predmetom poplatku je osobitné užívanie priestorov Domu smútku v Kokošovciach.
+                                              Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá Dom smútku užíva.
+                                          Sadzba poplatku
+                                         Osoba s trvalým pobytom /         Osoba bez trvalého pobytu /
+                                                   sídlom                             sídla
+        Prenájom priestorov Domu                10,- eur/deň                       15,- eur/deň
+        smútku
+        Prenájom chladiarenského                10,- eur/deň                       10,- eur/deň
+        zariadenia
+
+
+
+                                             Článok 4
+                              Poplatok za hlásenie v obecnom rozhlase
+Predmetom poplatku je zverejnenie inzerátu, oznamu, reklamy, kampane v obecnom rozhlase obce
+Kokošovce.
+                                              Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá žiada reklamu, kampaň alebo inzerát, oznám
+zverejniť v obecnom rozhlase obce Kokošovce.
+                                          Sadzba poplatku
+        Zverejnenie inzerátu, oznamu                                      5,- eur/hlásenie
+        Zverejnenie reklamy, kampane                                      20,- eur/hlásenie
+
+                                                     3
+                                            Článok 5
+                               Poplatok za fotokopírovacie služby
+Predmetom poplatku je vykonávanie fotokopírovacích služieb obcou Kokošovce.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá žiada o poskytnutie fotokopírovacích služieb.
+                                        Sadzba poplatku
+        1 strana A4 formát                                              0,10 eur
+        1 strana A3 formát                                              0,20 eur
+
+
+
+   -   Sadzobník neplatí pre kopírovanie lekárskych správ.
+
+
+                                             Článok 6
+                             Poplatok za užívanie obecného vodovodu
+Predmetom poplatku je užívanie obecného vodovodu.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá žiada o pripojenie na obecný vodovod alebo
+obecný vodovod užíva.
+                                        Sadzba poplatku
+
+
+        Za vodné                                        podľa aktuálneho sadzobníka VVS a.s.
+        Za užívanie vodovodu                                        1,00 eur/mesiac
+        Za pripojenie k vodovodu                                       150,- eur
+
+
+
+
+                                            Článok 7
+                             Poplatok za užívanie poštovej schránky
+Predmetom poplatku je užívanie poštovej schránky pred obecným úradom.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá uzatvorí s obcou zmluvu o nájme poštovej
+schránky.
+                                        Sadzba poplatku
+        Prenájom poštovej schránky                                  1,50 euro/mesiac
+
+
+
+
+                                                4
+                                                Článok 8
+                                 Poplatok za užívanie futbalového ihriska
+Predmetom poplatku je užívanie futbalového ihriska.
+                                                  Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá akciu/podujatie na ihrisku usporadúva.
+                                              Sadzba poplatku
+          Prenájom futbalového ihriska                                    30,- eur/deň
+
+
+
+
+                                                  Článok 9
+                                            Spoločné ustanovenie
+Toto VZN o miestnych poplatkoch umožňuje zvýšenie nezaplatenej alebo neodvedenej sumy
+poplatku, v prípadoch u ktorých poplatky sa nezaplatili alebo neodviedli včas a v správnej výške.
+Zvýšenie poplatku sa ustanovuje na 50 %.
+Sadzobník sa nevzťahuje pre organizácie so sídlom na území obce Kokošovce, ktoré neboli zriadené
+za účelom zisku.
+
+
+
+                                                 Článok 10
+                                            Záverečné ustanovenie
+
+
+
+Dňom účinnosti tohto Všeobecne záväzného nariadenia sa ruší Všeobecne záväzné nariadenie obce
+Kokošovce č. 50/2024 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce..
+Toto Všeobecne záväzne nariadenie bolo schválené na rokovaní Obecného zastupiteľstva obce
+Kokošovce dňa ................... uznesením č. ........................ .
+Toto všeobecne záväzné nariadenie nadobúda účinnosť dňom .............................. .
+
+
+
+V Kokošovciach dňa ......................
+
+
+
+
+                                                                 Ing. Anna Sedláková
+                                                              starostka obce Kokošovce
+
+
+
+
+                                                     5
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/zobraz/1fe337f0-4561-4db4-a5d8-3af1923fe1dc
+                                               Návrh
+
+                     Všeobecne záväzné nariadenie č. 56/2026
+       o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+
+
+Návrh VZN vyvesený na úradnej tabuli obce a internetovej stránke obce dňa 20.11.2025
+VZN schválené Obecným zastupiteľstvom v Kokošovciach, dňa .................., uznesením č..............
+VZN vyvesené na úradnej tabuli obce a internetovej stránke obce dňa: .....................
+VZN nadobúda účinnosť dňom ........................
+
+
+
+
+                                                          Ing. Anna Sedláková
+                                                       starostka obce Kokošovce
+
+
+
+
+                                                   1
+Obec Kokošovce v zmysle §6 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+predpisov a na základe § 14 a §15 zákona SNR č. 544/1999 Zb. v znení neskorších zmien a doplnkov
+s použitím § 1 ods. 1a a zákona SNR č. 119/2008 Z.z. úplné znenie zákona SNR č. 563/2009 Z.z.
+o správe daní a poplatkov a o zmenách v sústave územných finančných orgánov v znení neskorších
+zmien a doplnkov vydáva pre územie obce Kokošovce toto
+
+
+            Všeobecne záväzné nariadenie obce Kokošovce č. 56/2026
+       o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce
+
+
+                                           Článok 1
+                                        Predmet úpravy
+1) Toto všeobecne záväzné nariadenie (ďalej len „nariadenie“) ustanovuje druhy miestnych poplat-
+   kov, ktoré sa vyberajú v období celého kalendárneho roka, jednotlivé sadzby poplatkov, ohlaso-
+   vaciu povinnosť o vzniku a zániku, splatnosť poplatkov, ďalej úľavy a oslobodenia od platenia
+   poplatkov, spôsob, formu a miesto pre zaplatenie poplatkov a aj ďalšie náležitosti vyberania po-
+   platkov na území obce Kokošovce (ďalej len „obec“).
+2) Obe Kokošovce vyberá na spravovanom území, ktorým je celé územie obce Kokošovce tieto
+   miestne poplatky (ďalej len poplatky):
+   -   Poplatok za užívanie kultúrneho domu
+   -   Poplatok za užívanie domu smútku (Dom nádeje)
+   -   Poplatok za hlásenie v miestnom rozhlase
+   -   Poplatok za fotokopírovacie služby
+   -   Poplatok za užívanie obecného vodovodu
+   -   Poplatok za užívanie poštovej schránky pred obecným úradom
+   -   Poplatok za užívanie futbalového ihriska
+
+
+
+                                           Článok 2
+                             Poplatok za užívanie kultúrneho domu
+Predmetom poplatku je osobitné užívanie priestorov Kultúrneho domu v Kokošovciach na
+usporiadanie verejných kultúrnych podujatí a iných osobitných akcií a programov.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá podujatie usporadúva.
+                                    Oznamovacia povinnosť
+Poplatník je povinný oznámiť usporiadanie verejného kultúrneho podujatia v zmysle § 3 zákona č.
+96/1991 Zb., o verejných kultúrnych podujatiach najneskôr 7 dní pred konaním podujatia.
+Usporiadateľ zodpovedá za zachovanie poriadku počas priebehu podujatia, za dodržiavanie
+príslušných zdravotno-hygienických, požiarnych, bezpečnostných a iných právnych predpisov.
+
+
+
+                                                  2
+                                          Sadzba poplatku
+                                                           Osoba s trvalým           Osoba bez trvalého
+                                                          pobytom / sídlom             pobytu / sídla
+        Prenájom priestorov
+                                   Smútočná hostina            20,- eur/deň             60,- eur/deň
+        kultúrneho domu
+        Prenájom priestorov
+                                    Rodinná oslava             100,- eur/deň           140,- eur/deň
+        kultúrneho domu
+        Prenájom priestorov
+                                 Svadby, zábavy, plesy         200,- eur/deň           250,- eur/deň
+        kultúrneho domu
+        Prenájom priestorov      Prezentácie, predajné
+                                                               20,- eur/hod.            20,- eur/hod.
+        kultúrneho domu              akcie a pod.
+        Prenájom priestorov
+                                   Športové vyžitie            5,- eur/hodina          5,- eur/hodina
+        kultúrneho domu
+        Za vyčistenie obrusov
+                                                                5,- eura/kus            5,- eura/kus
+        zapožičaných na akciu
+
+
+
+                                          Článok 3
+                       Poplatok za užívanie domu smútku (Dom nádeje)
+Predmetom poplatku je osobitné užívanie priestorov Domu smútku v Kokošovciach.
+                                              Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá Dom smútku užíva.
+                                          Sadzba poplatku
+                                         Osoba s trvalým pobytom /         Osoba bez trvalého pobytu /
+                                                   sídlom                             sídla
+        Prenájom priestorov Domu                10,- eur/deň                       15,- eur/deň
+        smútku
+        Prenájom chladiarenského                10,- eur/deň                       10,- eur/deň
+        zariadenia
+
+
+
+                                             Článok 4
+                              Poplatok za hlásenie v obecnom rozhlase
+Predmetom poplatku je zverejnenie inzerátu, oznamu, reklamy, kampane v obecnom rozhlase obce
+Kokošovce.
+                                              Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá žiada reklamu, kampaň alebo inzerát, oznám
+zverejniť v obecnom rozhlase obce Kokošovce.
+                                          Sadzba poplatku
+        Zverejnenie inzerátu, oznamu                                      5,- eur/hlásenie
+        Zverejnenie reklamy, kampane                                      20,- eur/hlásenie
+
+                                                     3
+                                            Článok 5
+                               Poplatok za fotokopírovacie služby
+Predmetom poplatku je vykonávanie fotokopírovacích služieb obcou Kokošovce.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá žiada o poskytnutie fotokopírovacích služieb.
+                                        Sadzba poplatku
+        1 strana A4 formát                                              0,10 eur
+        1 strana A3 formát                                              0,20 eur
+
+
+
+   -   Sadzobník neplatí pre kopírovanie lekárskych správ.
+
+
+                                             Článok 6
+                             Poplatok za užívanie obecného vodovodu
+Predmetom poplatku je užívanie obecného vodovodu.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá žiada o pripojenie na obecný vodovod alebo
+obecný vodovod užíva.
+                                        Sadzba poplatku
+
+
+        Za vodné                                        podľa aktuálneho sadzobníka VVS a.s.
+        Za užívanie vodovodu                                        1,00 eur/mesiac
+        Za pripojenie k vodovodu                                       150,- eur
+
+
+
+
+                                            Článok 7
+                             Poplatok za užívanie poštovej schránky
+Predmetom poplatku je užívanie poštovej schránky pred obecným úradom.
+                                            Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá uzatvorí s obcou zmluvu o nájme poštovej
+schránky.
+                                        Sadzba poplatku
+        Prenájom poštovej schránky                                  1,50 euro/mesiac
+
+
+
+
+                                                4
+                                                Článok 8
+                                 Poplatok za užívanie futbalového ihriska
+Predmetom poplatku je užívanie futbalového ihriska.
+                                                  Poplatník
+Poplatníkom je fyzická alebo právnická osoba, ktorá akciu/podujatie na ihrisku usporadúva.
+                                              Sadzba poplatku
+          Prenájom futbalového ihriska                                    30,- eur/deň
+
+
+
+
+                                                  Článok 9
+                                            Spoločné ustanovenie
+Toto VZN o miestnych poplatkoch umožňuje zvýšenie nezaplatenej alebo neodvedenej sumy
+poplatku, v prípadoch u ktorých poplatky sa nezaplatili alebo neodviedli včas a v správnej výške.
+Zvýšenie poplatku sa ustanovuje na 50 %.
+Sadzobník sa nevzťahuje pre organizácie so sídlom na území obce Kokošovce, ktoré neboli zriadené
+za účelom zisku.
+
+
+
+                                                 Článok 10
+                                            Záverečné ustanovenie
+
+
+
+Dňom účinnosti tohto Všeobecne záväzného nariadenia sa ruší Všeobecne záväzné nariadenie obce
+Kokošovce č. 50/2024 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce..
+Toto Všeobecne záväzne nariadenie bolo schválené na rokovaní Obecného zastupiteľstva obce
+Kokošovce dňa ................... uznesením č. ........................ .
+Toto všeobecne záväzné nariadenie nadobúda účinnosť dňom .............................. .
+
+
+
+V Kokošovciach dňa ......................
+
+
+
+
+                                                                 Ing. Anna Sedláková
+                                                              starostka obce Kokošovce
+
+
+
+
+                                                     5
+

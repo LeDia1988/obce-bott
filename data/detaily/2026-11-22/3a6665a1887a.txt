@@ -1,0 +1,1341 @@
+URL: https://cuet.slovensko.sk/en/dokument/ae3db725-7b58-4332-9267-c71f726d56dc
+OBEC: Boľ (Trebišov)
+NÁZOV: VZN o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce Boľ
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/ae3db725-7b58-4332-9267-c71f726d56dc
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VZN o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce Boľ
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - obec Boľ
+Published from:
+21.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - obec Boľ
+Published to:
+05.12.2026
+Registry case:
+Name of official document:
+VZN o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce Boľ
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+vzn-odpady-2027-qfn4av.pdf
+Type and size:
+.pdf, 463.79 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/4ed37f2e-4e8f-42b1-b879-507826a496fb
+                                      OBEC BOĽ
+
+
+
+
+                                             Návrh!
+
+
+      VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+
+                                      OBCE BOĽ
+                                       č. ....................
+
+                      o nakladaní s komunálnymi odpadmi
+                        a s drobnými stavebnými odpadmi
+                                 na území obce
+
+
+Návrh VZN vyvesený na úradnej tabuli obce dňa:                     od 13.11.2026 do 28.11.2026
+          zverejnený na webovej stránke obce dňa:                  od 13.11.2026 do 28.11.2026
+
+VZN schválené uznesením miestneho obecného zastupiteľstva č. .................. dňa ..................
+
+VZN          vyvesené na úradnej tabuli obce dňa:                od ................... do ......................
+             zverejnené na webovej stránke obce dňa:             od .................. do ......................
+
+
+
+                       VZN nadobúda účinnosť dňa 01.01.2027
+
+
+
+
+Spracovatelia: JUDr. Atila Bohács
+               Bc. Ildikó Nagyová
+                       VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+
+                                obce Boľ č. ....................
+
+o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce
+
+
+  Obec Boľ podľa ustanovenia § 4 ods. 3 písm. g/ a ustanovenia § 6 zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a podľa ustanovenia § 81 ods. 8 zákona
+č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov /ďalej len „zákona o odpadoch“/ vydáva toto všeobecne záväzné nariadenie /ďalej
+len „VZN“/
+                                         I.ČASŤ
+                                   Úvodné ustanovenie
+
+                                         §1
+                                 Pôsobnosť nariadenia
+
+1.Toto VZN v medziach zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení
+  niektorých zákonov v znení neskorších predpisov bližšie upravuje práva a povinnosti
+  obce, pôvodcov a držiteľov odpadu v oblasti nakladania s komunálnym odpadom, vrátane
+  triedenia zbieraných zložiek komunálneho odpadu a s drobnými stavebnými odpadmi,
+  elektroodpadmi z domácností na území obce a práva a povinnosti právnických a fyzických
+  osôb pri predchádzaní vzniku odpadov a pri nakladaní s odpadmi na celom území obce.
+2. Účelom tohto nariadenia je stanoviť pre obec vhodný systém nakladania s komunálnymi
+   odpadmi vrátane objemových odpadov a odpadov z domácností s obsahom škodlivín a
+   drobnými stavebnými odpadmi.
+3. Ustanovenia tohto VZN sú platné a účinné na celom území obce.
+4. Za poplatníka poplatku na účely tohto VZN sa považuje:
+     a) Fyzická osoba, ktorá má v obci trvalý pobyt alebo prechodný pobyt alebo, ktorá
+        má oprávnenie užívať alebo užíva nehnuteľnosť na území obce,
+     b) Právnická osoba a fyzická osoba vykonávajúca podnikateľskú činnosť na území
+        obce, ktorá je oprávnená užívať alebo užíva nehnuteľnosť na území obce.
+
+                                          §2
+                                    Základné pojmy
+
+1. Základné definície pojmov, ako odpad, pôvodca odpadu, držiteľ odpadu, nebezpečný
+   odpad, komunálny odpad, drobný stavebný odpad, zmesový komunálny odpad, nakladaní
+   s odpadom, zhodnocovanie odpadov, zneškodňovanie odpadu, zber odpadu, zložka
+   komunálnych odpadov, skládka odpadov, elektro odpad z domácností, biologicky
+   rozložiteľné komunálne odpady, osoba zodpovedná za zber komunálnych odpadov,
+   zberný dvor, prevádzkovateľ kuchyne a pod. upravuje ustanovenie §2 až §5 zákona
+   č. 79/2015 Z. z.
+2. Program odpadového hospodárstva je základný programový dokument pre riadenie
+   odpadového hospodárstva obce Boľ v oblasti nakladania s komunálnymi odpadmi a
+   drobnými stavebnými odpadmi, spracovaný a aktualizovaný na základe zákona
+   o odpadoch určujúci najmä smerovanie a ciele odpadového hospodárstva a opatrenia
+   na ich dosiahnutie.
+
+                                               II. ČASŤ
+
+                                                 §3
+                                        Spoločné ustanovenia
+
+1. Každý je povinný nakladať s odpadmi alebo inak s nimi zaobchádzať v súlade so zákonom
+   o odpadoch. Ten, komu vyplývajú z rozhodnutia vydaného na základe zákona o odpadoch
+   povinnosti, je povinný nakladať s odpadmi alebo inak s nimi zaobchádzať aj v súlade
+   s týmto rozhodnutím /§ 12 zákona č. 79/2015 Z. z./.
+2. Zakazuje sa podľa § 13 zákona č. 79/2015 Z. z. :
+   a) uloženie alebo ponechanie odpadu na inom mieste, ako na mieste na to
+       určenom v súlade so zákonom o odpadoch a týmto VZN,
+   b) zneškodnenie odpadu, alebo zhodnotenie odpadu inak ako v súlade so zákonom
+       o odpadoch,
+   c) zneškodnenie odpadu vypúšťaním a vyhadzovaním do vodného recipienta a
+       zneškodnenie odpadu ukladaním do povrchových nádrží
+   d) zneškodňovanie skládkovaním biologicky rozložiteľného odpadu zo záhrad a parkov
+       vrátane odpadu z cintorína, okrem nezhodnotiteľných odpadov po dotriedení,
+   e) triedenie a zmiešanie odpadov za účelom dosiahnutia hraničných hodnôt
+       koncentrácie prítomných škodlivín / Hraničné hodnoty koncentrácie škodlivých látok v odpade
+       upravuje v príloha č. 5 zákona 79/2015 Z. z./
+   f) zmiešanie opotrebovaných batérií a akumulátory, ako aj ostatných elektroodpadov
+      s odpadmi z domácností,
+   g) vypúšťanie odpadového oleja do povrchových vôd, podzemných vôd a do kanalizácie,
+   h) uloženie alebo vypúšťanie odpadového oleja a vypúšťanie akéhokoľvek zostatkov po
+      spracovaní odpadov olejov do pôdy,
+   i) spaľovanie komunálneho odpadu na voľnom priestranstve a v domácnostiach vo
+      vykurovacích zariadeniach,
+   j) ukladanie do zberných nádob určených obcou na zber zmesového komunálneho odpadu
+      iného odpadu ako zmesový komunálny odpad a do zberných nádob určených na triedený
+      zber komunálneho odpadu zložky komunálneho odpadu, pre ktorú nie je nádoba
+      určená
+   k) ukladanie oddelene vyzbieraných zložiek komunálneho odpadu, na ktoré sa uplatňuje
+      rozšírená zodpovednosť výrobcov, a vytriedeného biologicky rozložiteľného
+      komunálneho odpadu na skládku odpadov, okrem nezhodnotiteľných odpadov po
+      dotriedení,
+   l) vykonávanie zberu oddelene zbieraných zložiek komunálnych odpadov patriacich
+      do vyhradeného prúdu odpadov bez zariadenia na zber odpadov osobou, ktorá nespĺňa
+      požiadavky podľa zákona o odpadoch.
+
+3. Obec Boľ nie je povinná vypracovať a dodržiavať schválený program odpadového hos -
+   podárstva. Obec, na území ktorej ročná produkcia komunálnych odpadov vrátane drobných
+   stavebných odpadov presahuje 350 ton alebo ktorej počet obyvateľov prevyšuje 1000, je
+   povinná vypracovať program obce § 10 ods. 1 zákona 79/2015 Z.z..
+4. Zákon o odpadoch povinnosť vyhotoviť vlastný program pôvodcom odpadov podnikateľom
+   – FO alebo PO neukladá. Rozhodnutia, ktorými boli takto vyhotovené programy schválené
+   podľa starej úpravy, strácajú podľa § 135 ods. 4 zákona č. 79/2015Z.z. platnosť 01.01.2016.
+5. Povinnosti držiteľa odpadu upravuje §14 zákona č. 79/2015 Z. z.
+6. Povinnosťami pôvodcu alebo držiteľa komunálnych odpadov a drobných stavebných
+   odpadov sú:
+   a) zapojiť sa do systému zberu komunálnych odpadov v obci,
+   b) užívanie zberných nádob zodpovedajúce systému zberu komunálnych odpadov v obci,
+   c) ukladanie komunálnych odpadov alebo ich oddelených zložiek a drobných stavebných
+       odpadov na účely ich zberu na miesta určené obcou a do zberných nádob
+       zodpovedajúcich systému zberu komunálnych odpadov v obci.
+7. Vykonávať zber alebo prepravu komunálnych odpadov a drobných stavebných odpadov s
+   výnimkou biologicky rozložiteľného kuchynského a reštauračného odpadu od
+   prevádzkovateľa kuchyne na území obce môže obec sama alebo ten, kto má s obcou
+   uzatvorenú zmluvu na vykonanie tejto činnosti. Vykonávať kompostovanie biologicky
+   rozložiteľného odpadu môžu obyvatelia v súlade s § 8 tohto nariadenia.
+8. Obec Boľ zabezpečuje aktuálnosť programu odpadového hospodárstva na základe
+   monitoringu existujúceho stavu odpadového hospodárstva, sledovaním vývojových
+   trendov v oblasti legislatívy a technológií pre spracovanie odpadov a plnením svojich
+   zákonných povinností.
+
+
+                                      III. ČASŤ
+     Systém zberu a prepravy komunálneho odpadu, spôsob separovaného zberu
+ jednotlivých zložiek komunálneho odpadu, spôsob nakladania s drobnými stavebnými
+                        odpadmi a inými komunálnymi odpadmi
+
+                                         §4
+                             Komunálny odpad a jeho zložky
+
+1. Pojem resp. definíciu pojmov komunálny odpad, zložka komunálnych odpadov, triedený
+   zber komunálnych odpadov, zmesový komunálny odpad, drobný stavebný odpad, zberný
+   dvor, kalendárový zber, množstvový zber upravuje § 80 zákona č. 79/2015 Z. z.
+
+Toto VZN upravuje podrobnosti nakladania s nasledovnými zložkami komunálneho odpadu
+(ďalej aj ako „KO“). Druhy a zložky komunálneho odpadu upravuje Vyhláška č.284/2001 Z.z.
+a/ Druhy KO z podskupiny SEPAROVANÉ ZBIERANÉ ZLOŽKY KO:
+- 20 01 01 papier                                                                    O
+- 20 01 02 sklo                                                                      O
+- 20 01 08 biologicky rozložiteľný kuchynský a reštauračný odpad                     O
+- 20 01 10 šatstvo                                                                   O
+- 20 01 11 textílie                                                                  O
+- 20 01 13 rozpúšťadlá                                                               N
+- 20 01 14 kyseliny                                                                  N
+- 20 01 15 zásady                                                                    N
+- 20 01 17 fotochemické látky                                                         N
+- 20 01 19 pesticídy                                                                  N
+- 20 01 21 žiarivky a iný odpad obsahujúci ortuť                                      N
+- 20 01 23 vyradené zariadenia obsahujúce chlórfluórované uhľovodíky                  N
+- 20 01 25 jedlé oleje a tuky                                                         O
+- 20 01 26 oleje a tuky iné ako uvedené v 20 01 25                                    N
+- 20 01 27 farby, tlačiarenské farby, lepidlá a živice obsahujúce nebezpečné látky    N
+- 20 01 28 farby, tlačiarenské farby, lepidlá a živice iné ako uvedené v 20 01 27     N
+- 20 01 29 detergenty obsahujúce nebezpečné látky                                     N
+- 20 01 30 detergenty iné ako uvedené v 20 01 29                                      O
+- 20 01 33 batérie a akumulátory uvedené v 16 06 01, 16 06 02 alebo 16 06 03
+          a netriedené batérie a akumulátory obsahujúce tieto batérie                N
+- 20 01 34 batérie a akumulátory iné ako uvedené v 20 01 33                          O
+- 20 01 35 vyradené elektrické a elektrotechnické zariadenia iné ako
+          uvedené v 20 01 21 a 20 01 23, obsahujúce nebezpečné časti                 N
+- 20 01 36 vyradené elektrické a elektronické zariadenia iné ako uvedené
+          v 20 01 21, 20 01 23, 20 01 35                                             O
+- 20 01 37 drevo obsahujúce nebezpečné látky                                         N
+- 20 01 38 drevo iné ako uvedené v 20 01 37                                          O
+- 20 01 39 plasty                                                                    O
+- 20 01 40 kovy                                                                      O
+b/ Druhy KO z podskupiny ODPADY ZO ZÁHRAD A Z PARKOV
+   /VRÁTANE ODPADU Z CINTORÍNOV/:
+- 20 02 01 biologicky rozložiteľný odpad                                             O
+- 20 02 02 zemina a kamenivo                                                         O
+- 20 02 03 iné biologicky rozložiteľné odpady                                        O
+c/ Druhy KO z podskupiny INÉ KOMUNÁLNE ODPADY:
+- 20 03 01 zmesový komunálny odpad                                                   O
+- 20 03 02 odpad z trhovísk                                                          O
+- 20 03 03 odpad z čistenia ulíc                                                     O
+- 20 03 04 kal zo septikov                                                           O
+- 20 03 06 odpad z čistenia kanalizácie                                              O
+- 20 03 07 objemný odpad                                                             O
+- 20 03 99 komunálne odpady inak nešpecifikované                                   O
+
+d/ Druhy KO z podskupiny OBALY /VRÁTANE ODPADOVÝCH OBALOV
+    ZO SEPAROVANÉHO ZBERU KO/:
+- 15 01 01 obaly z papiera a lepenky                                               O
+- 15 01 02 obaly z plastov                                                         O
+- 15 01 03 obaly z dreva                                                           O
+- 15 01 04 obaly z kovu                                                            O
+- 15 01 05 kompozitné obaly                                                        O
+- 15 01 07 obaly zo skla                                                           O
+e/ Druhy KO z podskupiny STARÉ VOZIDLÁ Z ROZLIČNÝCH
+    DOPRAVNÝCH PROSTRIEDKOV:
+- 16 01 07 olejové filtre                                                          N
+f/ Druhy KO z podskupiny ODPADY Z ELEKTRICKÝCH A
+   ELEKTRONICKÝCH ZARIADENÍ:
+- 16 02 13 vyradené zariadenia obsahujúce nebezpečné časti, iné ako uvedené
+   v 16 02 09 až 16 02 12                                                          N
+g/ Druhy KO z podskupiny INÉ ODPADY ZO STAVIEB A DEMOLÁCIÍ:
+- 17 09 04 zmiešané odpady zo stavieb a demolácií iné ako uvedené v
+   17 09 01, 17 09 02 a 17 09 03                                                   O
+
+
+                                         §5
+                             Umiestnenie nádob na odpad
+
+1. Vlastník / správca, resp. nájomca / nehnuteľnosti je povinný zriadiť vyhradené miesto
+   pre zberné nádoby. Pri jeho určovaní musí dbať, aby:
+   a) k vyhradenému miestu bol zabezpečený bezpečný prístup a dostatočný priestor na
+       vhodnú manipuláciu s nádobami,
+   b) nebol narušený vzhľad okolia a hygiena prostredia,
+   c) nádoby neboli umiestnené na náveternej strane v blízkosti okien, detských ihrísk,
+       frekventovaných miest a pod.,
+   d) nádoby boli umiestnené na spevnenom podklade,
+   e) nádoby neboli umiestnené trvalo na chodníku, komunikácii alebo parkovisku.
+2. Fyzickým osobám, právnickým osobám a fyzickým osobám-podnikateľom sa prísne
+   zakazuje premiestňovať zberné nádoby, vyprázdňovať ich alebo vyberať si časti odpadu.
+3. Miesto stáleho i dočasného umiestnenia nádob na odpad pri bytových domoch určí majiteľ
+   /správca resp. nájomca/ nehnuteľnosti po prerokovaní s obecným úradom.
+4. Na chodníkoch, parkoviskách a komunikáciách možno nádoby ponechať iba na dobu
+   nevyhnutnú na ich vyprázdnenie. Po vyprázdnení sa musia nádoby ihneď umiestniť na
+   vyhradené miesto. Výnimku môže povoliť obecný úrad.
+5. V prípadoch, ak nastanú okolnosti, ktoré znemožňujú prístup a vyprázdnenie nádob na
+   odpad, je majiteľ /správca resp. nájomca/ nehnuteľnosti povinný postarať sa o ich
+   premiestnenie a následne po ich vyprázdnení o uloženie nádob na vyhradené miesto.
+6. Projektanti a investori pri vypracovávaní projektových dokumentácií rodinných a bytových
+   domov musia umiestnenie všetkých druhov nádob na odpad konzultovať s obecným
+   úradom.
+7. Užívatelia zberných nádob sú povinný udržiavať v ich okolí poriadok a čistotu. Na miestach
+   hromadného umiestnenia zberných nádob je zakázané ich premiestňovanie.
+
+
+                                         §6
+               Systém zberu a prepravy zmesového komunálneho odpadu
+
+1. V katastrálnom území obce Boľ sa určuje:
+   a) povinná štandardná zberná nádoba pre platiteľov poplatku za komunálny odpad
+       a drobný stavebný odpad pre zmesový komunálny odpad je 110, 120, 240 a 1100
+       litrová nádoba .
+2. V prípade straty, poškodenia zbernej nádoby alebo po uplynutí jej životnosti je jej užívateľ
+   povinný si zabezpečiť novú nádobu sám na vlastné náklady. Po uplynutí životnosti
+   zberných nádob pri bytových domoch si novú zbernú nádobu zabezpečí majiteľ /správca
+   resp. nájomca/.
+3. Zber 110 l, 120 l, 240l a 1100 l smetných nádob uskutočňuje podľa harmonogramu zberu
+   komunálneho a separovaného odpadu z domácnosti.
+4. Osoba zodpovedná za zber zmesových komunálnych odpadov vykonávaním zberu,
+   prepravou a zneškodňovaním komunálnych odpadov a drobných stavebných odpadov je
+   povinná:
+   a) vyprázdňovať zberné nádoby tak, aby nedošlo k hygienickým, bezpečnostným,
+       ekologickým a iným zavadám, príp. ku škode na majetku,
+   b) po vyprázdnení zberné nádoby umiestniť späť na pôvodné miesto,
+   c) v prípade rozsypania odpadov pri vyprázdňovaní zberných nádob, tieto odstrániť,
+   d) v prípade poškodenia zbernej nádoby pri manipulácii zabezpečiť jej opravu alebo
+       výmenu do 3 dní,
+   e) mesačne viesť evidenciu /osoba zodpovedná za zber KO odovzdá aj na obecný
+       úrad /hlásenie o množstve odpadov, s ktorými nakladala počas tohto obdobia, jeho
+       druhovej skladbe, o spôsobe nakladania s týmto odpadom, o spôsobe jeho využitia
+       /vrátane množstva vyseparovaného KO/, úpravy alebo zneškodňovania, prípadne o
+       inom spôsobe nakladania s týmito odpadmi,
+   f) zabezpečovať vývoz objemového odpadu, drobného stavebného odpadu a biologicky
+       rozložiteľného odpadu v rozsahu a za podmienok uvedených v tomto nariadení,
+   g) uskutočňovať v súlade s harmonogramom vývoz zberných nádob,
+   h) uskutočňovať v súlade s harmonogramom vývozov vriec na separované zložky, ktoré
+       obsahujú určenú zložku,
+   i) Osoba zodpovedná za zber KO priebežne sleduje pri svojej činnosti zloženie
+       komunálnych odpadov a je povinná ohlásiť obci každú podstatnú /dlhodobú/ zmenu
+       v zložení a podieloch odpadov z obalov, uvedených v programe odpadového
+       hospodárstva.
+5. Obec Boľ má zmluvne zabezpečen zber a uloženie komunálneho odpadu so spoločnosťou
+   KOSIT EAST s.r.o. so sídlom Košice, ul. Rastislavova 98, 043 46 KOŠICE, IČO:
+   36 211 451. Zber zmesového komunálneho odpadu sa pravidelne uskutočňuje 1x za dva
+   týždne s výnimkou štátnych sviatkov a pracovného pokoja.
+
+
+                                           §7
+                           Triedený zber komunálneho odpadu
+
+1. Obec vykonáva triedený zber odpadov pre komodity:
+    a) plasty, papier, sklo, kov
+    b) biologicky rozložiteľný kuchynský odpad, okrem toho, ktorého pôvodcom je
+        prevádzkovateľ kuchyne
+    c) jedlé oleje a tuky z domácností
+    d) biologicky rozložiteľné odpady zo záhrad a parkov vrátane odpadu z cintorínov.
+2. Komodity triedeného odpadu sú:
+    Plasty – v bytových domoch a v zástavbe rodinných domov sa plastové odpady zbierajú do
+120 l igelitových vriec. Zber igelitových vriec podľa harmonogramu zberu zabezpečuje Obec
+Boľ harmonogramu zberu komunálneho a separovaného odpadu z domácnosti.
+Patria sem:
+PE /polyetilén/-LDPE a HDPE: číre a farebné fólie, tašky vrecká, vedrá a fľaštičky od kozme-
+tických a čistiacich prípravkov, vrecká od mlieka, prepravky fliaš PET / polyetiléntereftalát /
+fľaše od nápojov, sirupov, rastlinných olejov
+PP /polypropylén/ - obaly od sladkostí, tégliky od jogurtov a rôzne plastové nádobky a hračky
+PS /polystyrén/ - penový polystyrén, poháriky z automatov a iné plastové nádobky
+PVC /polyvinylchlorid/ - vodoinštalačné a elektroinštalačné rúrky, obaly kozmetických
+výrobkov, plastové okná a nábytok a pod.
+Nepatria sem: znečistené obaly chemikáliami a olejmi, viacvrstvové obaly, hrubo znečistené
+plasty /zeminou, farbami/, podlahové krytiny, guma, molitan a pod.
+Obec Boľ má zmluvne zabezpečený zber plastov so spoločnosťou
+KOSIT EAST s.r.o. so sídlom Košice, ul. Rastislavova 98, 043 46 KOŠICE, IČO: 36 211
+451.
+
+Papier – v bytových domoch a v zástavbe rodinných domov sa odpady z papiera a lepenky
+zbierajú do 120 l igelitových vriec. Zber sa uskutočňuje podľa harmonogramu zberu
+komunálneho a separovaného odpadu z domácnosti.
+Patria sem: noviny, časopisy, zošity, knihy, listy, kancelársky papier, papierové vrecká,
+lepenka, krabice z tvrdého papiera, kartón, obálky, letáky, katalógy, telefónne zoznamy, plagá-
+ty, pohľadnice, zakladače, baliaci a krepový papier, papierový obal a pod.
+Nepatria sem: umelohmotné obaly, vrstvené obaly, voskový papier, papier s hliníkovou fóliou,
+obaly na mrazené potraviny, krabice od cigariet, špinavý či mastný papier, kopírovací papier a
+pod.
+Sklo - v bytových domoch a v zástavbe rodinných domov sa odpady zo skla vynášajú pred
+obytný priestor. Zber skla zabezpečuje podľa harmonogramu zberu komunálneho a
+separovaného odpadu z domácnosti spoločnosť KOSIT EAST s.r.o. so sídlom Košice, ul.
+Rastislavova 98, 043 46 KOŠICE, IČO: 36 211 451,
+Patria sem: sklenené fľaše, nádoby, obaly a predmety zo skla, poháre, fľaštičky od kozmetiky,
+črepy, okenné sklo, sklo z okuliarov a pod.
+Nepatria sem: vrchnáky, korky, gumy, porcelán, keramika, zrkadlá, drôtové sklo, fľaše z umelej
+hmoty, časti uzáverov fliaš, žiarovka, žiarivka a pod.
+Kovy: odpady z kovu sa v rámci triedeného zberu zbierajú spoločnosti s oprávnením na zber
+kovového odpadu, kde občania obce osobne odovzdať odpady z kovu.
+Patria sem: kovové vrchnáky z fliaš a pohárov, kovové tuby od pást, kovové súčiastky, drôty a
+káble, /bez bužírky, starý riad, obaly zo sprejov, kovový šrot, oceľ, farebné kovy, hliníkové
+viečko, hliníkový obal, kovové viečko, klinec, sponka, spinka, špendlík, kovová rúrka, starý
+kľúč, zámok, konzervy, oceľové plechovky, ventil a pod.
+Nepatria sem: kovy hrubo znečistené zvyškami jedla, farbami a rôznymi chemickými látkami.
+Zakazuje sa odovzdať papier, plasty, kovy, a sklo iným subjektom / napr. pouliční zberači/,
+ktorí nemajú uzatvorenú zmluvu na vykonávanie tejto činnosti s obcou a aj zmluvu s príslušnou
+organizáciou zodpovednosti výrobcov.
+
+                                            §8
+                        Biologicky rozložiteľný komunálny odpad
+
+
+1. Občania v rodinnej zástavbe kompostujú biologicky rozložiteľný komunálny odpad
+   vo vlastných zariadeniach na kompostovanie.
+2. Je zakázané ukladať bioodpad zo záhrad a parkov do zberných nádob na komunálny odpad,
+   na iné miesta než určené.
+3. Občania môžu biologicky rozložiteľný odpad odovzdať na zberný dvor.
+
+                                          §9
+ Biologicky rozložiteľný kuchynský a reštauračný odpad od prevádzkovateľa kuchyne
+
+1. Za nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od
+   prevádzkovateľa kuchyne je zodpovedný prevádzkovateľ kuchyne.
+2. Biologicky rozložiteľný kuchynský a reštauračný odpad sa zakazuje ukladať do nádob
+   určených na zber komunálnych odpadov.
+3. Náklady spojené so zberom, skladovaním, prepravou a spracovaním vrátane náklady na
+   zberné kontajnery a iné obaly hradí prevádzkovateľ kuchyne /nie sú súčasťou miestneho
+   poplatku/.
+4. Zber a zberné nádoby na biologicky rozložiteľný kuchynský a reštauračný odpad musia
+   spĺňať požiadavky ustanovené Nariadením Európskeho parlamentu a rady č. 1069/2009
+   o vedľajších živočíšnych produktov a Nariadením EP a Rady č. 852/2004 o hygiene
+   potravín.
+5. Prevádzkovateľ kuchyne musí primerane zabezpečiť skladovanie odpadu do doby
+   odovzdania na jeho spracovanie tak, aby sa k obsahu kontajnera nedostali hlodavce a iné
+   živočíchy ani verejnosť.
+6. Zberné nádoby musia byť umiestnené v areáli prevádzkovateľa kuchyne.
+7. Frekvencia zberu musí byť v súlade s hygienickými predpismi zohľadňujúc aj teploty
+    prostredia /leto – zima/, pričom v letnom období frekvencia zberu musí byť vyššia.
+8. Ak prevádzkovateľ kuchyne nezabezpečuje zber, prepravu a ďalšie nakladanie sám,
+    ale prostredníctvom tretieho subjektu, musí mať na tento účel s ním uzatvorenú zmluvu a
+    zároveň musí ísť o subjekt, ktorý je oprávnený na nakladanie s týmto odpadom, pričom sa
+    vyžaduje, aby tento subjekt spĺňal aj osobitné požiadavky v zmysle zákona č. 39/2007 Z.z.
+    o veterinárnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších
+    predpisov, a aby mala schválenie na vykonanie činnosti spracovania týchto odpadov
+    príslušnou regionálnou veterinárnou a potravinovou správou.
+9. Prevádzkovateľ kuchyne je povinný oznámiť obci, či nakladanie s týmto odpadom si
+    zabezpečuje sám alebo prostredníctvom tretieho subjektu, s ktorým uzatvoril zmluvu,
+    a ktorý má potrebné oprávnenie na nakladanie s týmto odpadom.
+10. Pri nakladaní s týmto odpadom je prevádzkovateľ kuchyne povinný postupovať v súlade
+    s hierarchiou odpadového hospodárstva.
+
+                                             §10
+                              Jedlé oleje a tuky z domácností
+
+1. Jedlé oleje a tuky je možné odovzdať vývozcovi komunálneho a separovaného odpadu
+   z domácnosti. Oleje a tuky sa môžu odovzdávať aj v plastových fľašiach s funkčným
+   uzáverom, ktoré si občania zabezpečia samostatne./ napr. PET fľaše/.
+2. Vykonávať zber, prepravu, zhodnocovanie a zneškodňovanie jedlých olejov a tukov môže
+   len obec resp. osoba zodpovedná za zber KO, ktorá má uzatvorenú zmluvu na vykonanie
+   tejto činnosti s obcou.
+
+                                         §11
+                       Spôsob zberu drobného stavebného odpadu
+
+1. Zber DSO sa uskutočňuje formou množstvového zberu. Výšku poplatku za množstvový
+   zber drobných stavebných odpadov určí obec vo všeobecne záväznom nariadení.
+2. Drobný stavebný odpad môžu občania odovzdať na vopred vyhlásenom mieste v stanovený
+   deň odplatne.
+3. K drobnému stavebnému odpadu, ktorý vyprodukujú občania, patria zmesi betónu, tehál
+   obkladačiek, dlaždíc, keramiky a pod.
+4. Držitelia DSO sú povinní odpad pred odovzdaním prednostne vytriediť na jednotlivé
+   zložky.
+5. Zakazuje sa ukladať drobný stavebný odpad do nádob/ vriec na zmesový komunálny
+   odpad alebo vedľa nich.
+6. Vykonávať zber, prepravu, zhodnocovanie a zneškodňovanie drobných stavebných
+   odpadov môže len organizácia za zber komunálneho odpadu, ktorá má uzatvorenú zmluvu
+   na vykonávanie tejto činnosti s obcou, ak túto činnosť nezabezpečuje obec sama.
+                                          § 12
+                                      Elektroodpad
+
+1. Elektroodpad z domácností je elektroodpad, ktorý pochádza z domácností fyzických osôb
+   a z obchodných, priemyselných, inštitucionálnych a iných zdrojov, ktorý je svojím
+   zložením a množstvom podobný tomu, ktorý pochádza z domácnosti fyzických osôb.
+   Patria sem: napr. televízory, rádiá, počítačová, kancelárska a telekomunikačná technika,
+   videá, diskmany, digitálne hodinky, gameboye, variče, ohrievače, kávovary, pračky,
+   elektromotory, ručné elektrické náradia, atď.
+2. Elektroodpad je zakázané ukladať do zberných nádob a kontajnerov alebo vedľa nich a
+   na verejné priestranstvá obce.
+3. Obyvatelia môžu odovzdávať elektroodpad vývozcovi komunálneho a separovaného
+   odpadu z domácnosti.
+4. Zber a odvoz elektroodpadu zabezpečuje osoba zodpovedná za zber KO, ktorá má
+   uzatvorenú zmluvu na vykonanie tejto činnosti s obcou.
+5. Zakazuje sa odovzdať elektroodpad iným subjektom /napr. pouličný zberači a pod./, ktorí
+   nemajú uzatvorenú zmluvu na vykonávanie tejto činnosti s obcou.
+
+
+                                          §13
+                             Použité batérie a akumulátory
+
+Obec má uzavretú zmluvu s OZV/výrobcom/ treťou osobou pre batérie a akumulátory, ktorá
+prevádzkuje    systém združeného nakladania s batériami a akumulátormi, oddelene
+vyzbieranými z komunálnych odpadov.
+
+1. Obyvatelia môžu odovzdávať použité prenosné batérie a akumulátory, a automobilové
+   batérie a akumulátory vývozcovi podľa harmonogramu zberu komunálne a separovaného
+   odpadu z domácnosti.
+2. Občania môžu odovzdať použité prenosné batérie a akumulátory a automobilové batérie a
+   akumulátory aj na predajných miestach u distribútora batérií a akumulátorov, alebo na
+   iných zberných miestach zriadených v súlade so zákonom o odpadoch.
+3. Použité batérie je zakázané ukladať do zberných nádob a kontajnerov alebo vedľa nich a
+   na verejné priestranstvá obce.
+4. Zakazuj e sa odovzdať použité batérie a akumulátory iným subjektom /napr. pouliční
+   zberači a pod./, ktorí nemajú uzatvorenú zmluvu na vykonávanie tejto činnosti s obcou.
+
+
+                                       §14
+    Humánne a veterinárne lieky nespotrebované fyzickými osobami, zdravotnícke
+                                    pomôcky
+
+1. Zakazuje sa nespotrebované lieky ukladať do zberných nádob a kontajnerov alebo vedľa
+   nich a na verejné priestranstvá obce.
+2. Nespotrebované lieky je potrebné odovzdať do verejných lekární, ktoré sú povinné ich
+   zhromažďovať.
+
+
+                                             §15
+                                            Textil
+
+1. Pod textilom vhodným na zber sa rozumie:
+a) čisté a suché šatstvo /všetky druhy odevov, prikrývky, deky, posteľnú bielizeň/,
+b) topánky /topánky iba v pároch, nezničené/,
+c) doplnky k oblečeniu /čiapky, šále a pod./
+
+2. Vykonávať zber, prepravu, zhodnocovanie a zneškodňovanie odpadu z textilu môže len
+   osoba zodpovedná za zber KO, ktorá má uzatvorenú zmluvu na vykonanie tejto činnosti s
+   obcou. Zber textilu sa uskutoční formou kampaňového zberu po dohode s vývozcom
+   odpadu
+
+                                             §16
+                                       Kal zo septikov
+
+1. Zber, prepravu a zneškodňovanie kalov a septikov a žúmp môžu vykonávať len organizácie
+   poverené zberom, ktoré majú na túto činnosť oprávnenie.
+2. Majitelia septikov resp. ich iní užívatelia ako nájomcovia, správcovia a pod. sú povinní
+   zabezpečiť na vlastné náklady zneškodňovanie kalov prostredníctvom oprávnenej
+   organizácie.
+3. Každý majiteľ septika je povinný po dobu 3 rokov viesť evidenciu a uschovávať doklady
+   o zabezpečení vývozu kalu zo septika oprávnenou osobou a o jeho bezpečnej likvidácii.
+
+
+
+
+                                          IV. ČASŤ
+                                             §17
+                                      Platenie poplatku
+
+1. Obec stanovuje, že poplatok od poplatníka v ustanovenej výške pre obec vyberá a za
+   vybraný poplatok ručí vlastník nehnuteľnosti. Ak je nehnuteľnosť v spoluvlastníctve
+   viacerých spoluvlastníkov alebo ak ide o bytový dom, poplatok vyberá a za vybraný
+   poplatok ručí zástupca alebo správca určený ak s výberom poplatku zástupca alebo
+   správca súhlasí, ak nedôjde k určeniu zástupcu alebo správcu písomným oznámením
+   takejto osoby obci Boľ do termínu 31.01. príslušného roka, obec určí spomedzi vlastníkov
+   alebo spoluvlastníkov zástupcu, ktorý poplatok pre obec vyberie,
+2. Platiteľ a poplatník sa môžu písomne dohodnúť, že poplatok obci odvedie priamo
+   poplatník, za odvedenie poplatku obci ručí platiteľ,
+3. Ak viacero poplatníkov žije v spoločnej domácnosti, plnenie povinnosti poplatníka môže
+   za ostatných členov tejto domácnosti na seba prevziať jeden z nich. Za poplatníka, ktorý nie
+   je spôsobilý na právne úkony v plnom rozsahu plní povinnosti poplatníka jeho zákonný
+   zástupca, prípadne opatrovník. Povinnosti poplatníka nesmie za iného prevziať alebo plniť
+   osoba, ktorá sa dlhodobo zdržiava mimo územia Slovenskej republiky alebo je nezvestná.
+   Tieto skutočnosti, ako aj ich zmeny je osoba, ktorá za iného plní povinnosti poplatníka,
+   povinná bezodkladne písomne oznámiť obci.
+
+
+                                          §18
+                           Sadzba poplatku a frekvencia vývozu
+
+1. Sadzba poplatku sa určuje na jednu fyzickú osobu vo výške 0,07305 € na kalendárny
+   deň pri vývoze v dvojtýždňových intervaloch ( 27 vývozov za 1 rok ). Sadzba
+   poplatku sa stanovuje na jednu fyzickú osobu vo výške 40,00 € na kalendárny rok pri
+   používaní 110 l a 1520 l KUKA. V prípade používania 240 l KUKA nádob sadzba
+   poplatku sa stanovuje na jednu fyzickú osobu vo výške zvyšuje na 80,00 € na
+   kalendárny rok. Sadzba poplatku sa určuje ako pomer množstva vyprodukovaného
+   komunálneho odpadu za kalendárny rok v tonách a nákladov vynaložených na zber
+   komunálneho odpadu. Sadzba poplatku na fyzické a právnické osoby vykonávajúce
+   podnikateľskú činnosť na území obce sa stanovuje individuálne podľa počtu zberných
+   nádob vo výške 300 € za jednu zbernú nádobu za kalendárny rok, pričom
+   PO a FO vykonávajúce podnikateľskú činnosť na území obce používajú 1100 l
+   KUKA nádobu.
+2. Poplatok sa určuje takto:
+   a) V obci je zavedený množstvový zber komunálneho odpadu v jednotných zberných
+      nádobách 110 l, 120 l, 240 l KUKA nádob a 1100 l KUKA nádob vo vlastníctve
+      poplatníkov. Zberné nádoby sú umiestnené na nehnuteľnostiach (vo dvoroch)
+      poplatníkov. Poplatok sa určuje na dobu jedného kalendárneho roka s možnosťou
+      ponechania výšky poplatku na ďalšie roky podľa miestnych podmienok, ako aj
+      možnosťou zvýšenia alebo zníženia poplatku s dodatkom k VZN vždy k 1.1. tohto
+      ktorého roka. 1 ks KUKA nádoba (110 l, 120 l, 240 l) obsahovo musí byť postačujúce
+      na 4 člennú rodinu. Nárok na 2 KUKA nádoby majú iba rodiny, kde osobný počet
+      členov domácností presahuje 4 členov
+   b) Zber drobného stavebného odpadu sa realizuje osobitne podľa objednávky pôvodcu
+      odpadu na mieste určenom obcou. Sadzba poplatku je 0,078 €/kg, ktorý poplatok sa
+      vyberá pri prevzatí drobného stavebného odpadu (rieši sa individuálne).
+3. Poplatník je povinný do jedného mesiaca odo dňa vzniku povinnosti platiť poplatok, odo
+   dňa, keď nastala skutočnosť, ktorá má vplyv na zmenu alebo zánik poplatkovej povinnosti,
+   ako aj od skončenia obdobia určeného obcou, za ktoré platil poplatok, v prípade ak došlo
+   k zmene už ohlásených údajov, ohlásiť obci:
+   a) svoje meno, priezvisko, dátum narodenia, adresu trvalého pobytu, adresu
+      prechodného pobytu (ďalej len „identifikačné údaje“), ak je poplatníkom fyzická alebo
+      právnická osoba vykonávajúca podnikateľskú činnosť na území obce Boľ, alebo osoba
+        podľa odseku 2 písm. b., tohto ustanovenia, názov alebo obchodné meno, sídlo alebo
+        miesto podnikania, identifikačné číslo (IČO),
+    b) identifikačné údaje iných osôb, ak za ne plní povinnosti poplatníka,
+    c) údaje rozhodujúce na určenie poplatku (ak je zavedený množstvový zber), spolu
+        s ohlásením predloží aj doklady potvrdzujúce uvádzané údaje, ak súčasne požaduje
+        zníženie alebo odpustenie poplatku, ktoré odôvodňujú zníženie alebo odpustenie
+        poplatku.
+4. Poplatník je oprávnený podať obci ohlásenie aj v prípade, ak zistí, že jeho povinnosť platiť
+    poplatok má byť nižšia, ako mu bola vyrubená, alebo ak žiada o zníženie poplatku z dôvodu,
+    že neužíva nehnuteľnosť, ktorú je oprávnený užívať.
+5. Poplatok vyrubí obec rozhodnutím.
+6. Splatnosť poplatku je uvedená v rozhodnutí.
+7. Spôsob platenia poplatku:
+     a/ v hotovosti do pokladne Obecného úradu Boľ
+     b/ odvodom na účet obce Boľ č.: (IBAN) SK66 5600 0000 0042 4993 1001 vedený
+        v Prima banka Slovensko, a.s. prevodným príkazom, ak v jednotlivých
+        ustanoveniach tohto VZN nie je ustanovené inak.
+8. O odpustenie poplatku možno žiadať v týchto prípadoch:
+    a) v určenom období dlhodobo sa zdržiaval mimo obec (ak sa v obci nezdržiava viac ako
+        90 dní v zdaňovacom období)
+    b) zdržiaval sa v zahraničí
+    c) bol vo výkone trestu.
+9. Ak poplatník je zapojený do množstvového zberu uhradil obci vyšší poplatok ako bol
+    povinný uhradiť, obec vráti vzniknutý rozdiel do 60 dní od skončenia obdobia, za ktoré bol
+    poplatok uhradený a to takto: vypočíta sa správna výška poplatku, ktorá sa odpočíta od
+    zaplatenej a rozdiel sa vráti poplatníkovi poštovou poukážkou.
+10. Obec Boľ môže na zmiernenie alebo odstránenie tvrdosti v jednotlivých prípadoch na
+    základe žiadosti poplatníka poplatky znížiť alebo odpustiť.
+
+
+                                          V. ČASŤ
+
+                                             §19
+
+                                    Výkon štátnej správy
+                                           Obec
+
+
+Obec vo veciach štátnej správy odpadového hospodárstva:
+   a) prejednáva priestupky v odpadovom hospodárstve a ukladá pokuty.
+   b) poskytuje držiteľovi resp. pôvodcovi odpadu informácie o umiestnení a činnosti
+      zariadení na nakladanie s odpadmi na území obce.
+                                              VI. ČASŤ
+
+                                                 §20
+
+                              10 §109 zákona č. 79/2015 Z .z.
+                   Spôsob nahlasovania nezákonne umiestneného odpadu
+
+1. Oznámenie o umiestnení odpadu na nehnuteľnosti v územnom obvode obce Boľ, ktorý je
+   umiestnený v rozpore so zákonom o odpadoch alebo s týmto VZN, môže podať fyzická
+   alebo právnická osoba na obecnom úrade Boľ, osobne počas stránkových dní, telefonicky
+   na číslo 0903963992, písomne alebo za použitia elektronických prostriedkov na e-mail
+   adresu: ocu.bol@gmail.com, alebo môže nezákonne umiestnený odpad oznámiť
+   príslušnému orgánu štátnej správy odpadového hospodárstva
+2. Vlastník /správca/nájomca/ nehnuteľnosti je povinný po zistení skutočnosti, že na
+   nehnuteľnosti sa nachádza nezákonne umiestnený odpad, je povinný bezodkladne túto
+   skutočnosť oznámiť obci, alebo príslušnému orgánu štátnej správy odpadového
+   hospodárstva podľa ods. 1.
+
+                                                §21
+                                              Kontrola
+
+Kontrolu dodržiavania ustanovení tohto VZN vykonáva prostredníctvom:
+a) starostu Obce Boľ
+b) poslancov Obecného zastupiteľstva
+c) hlavného kontrolóra
+d) orgánov štátnej správy v rozsahu svojej činnosti.
+
+
+                                           VII. ČASŤ
+                                              §22
+                                      Záverečné ustanovenia
+
+
+1. Toto VZN schválilo Obecné zastupiteľstvo v Boli, dňa ............... uznesením č. ...................
+2. Toto VZN nadobúda účinnosť 01.01.2027.
+3. Nadobudnutím účinnosti tohto VZN sa ruší VZN obce Boľ č. /2026 o nakladaní
+   s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce.
+
+
+
+
+                                                                   JUDr. Atila Bohács, LL.M.
+                                                                         starosta obce
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/zobraz/4ed37f2e-4e8f-42b1-b879-507826a496fb
+                                      OBEC BOĽ
+
+
+
+
+                                             Návrh!
+
+
+      VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+
+                                      OBCE BOĽ
+                                       č. ....................
+
+                      o nakladaní s komunálnymi odpadmi
+                        a s drobnými stavebnými odpadmi
+                                 na území obce
+
+
+Návrh VZN vyvesený na úradnej tabuli obce dňa:                     od 13.11.2026 do 28.11.2026
+          zverejnený na webovej stránke obce dňa:                  od 13.11.2026 do 28.11.2026
+
+VZN schválené uznesením miestneho obecného zastupiteľstva č. .................. dňa ..................
+
+VZN          vyvesené na úradnej tabuli obce dňa:                od ................... do ......................
+             zverejnené na webovej stránke obce dňa:             od .................. do ......................
+
+
+
+                       VZN nadobúda účinnosť dňa 01.01.2027
+
+
+
+
+Spracovatelia: JUDr. Atila Bohács
+               Bc. Ildikó Nagyová
+                       VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+
+                                obce Boľ č. ....................
+
+o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce
+
+
+  Obec Boľ podľa ustanovenia § 4 ods. 3 písm. g/ a ustanovenia § 6 zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a podľa ustanovenia § 81 ods. 8 zákona
+č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov /ďalej len „zákona o odpadoch“/ vydáva toto všeobecne záväzné nariadenie /ďalej
+len „VZN“/
+                                         I.ČASŤ
+                                   Úvodné ustanovenie
+
+                                         §1
+                                 Pôsobnosť nariadenia
+
+1.Toto VZN v medziach zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení
+  niektorých zákonov v znení neskorších predpisov bližšie upravuje práva a povinnosti
+  obce, pôvodcov a držiteľov odpadu v oblasti nakladania s komunálnym odpadom, vrátane
+  triedenia zbieraných zložiek komunálneho odpadu a s drobnými stavebnými odpadmi,
+  elektroodpadmi z domácností na území obce a práva a povinnosti právnických a fyzických
+  osôb pri predchádzaní vzniku odpadov a pri nakladaní s odpadmi na celom území obce.
+2. Účelom tohto nariadenia je stanoviť pre obec vhodný systém nakladania s komunálnymi
+   odpadmi vrátane objemových odpadov a odpadov z domácností s obsahom škodlivín a
+   drobnými stavebnými odpadmi.
+3. Ustanovenia tohto VZN sú platné a účinné na celom území obce.
+4. Za poplatníka poplatku na účely tohto VZN sa považuje:
+     a) Fyzická osoba, ktorá má v obci trvalý pobyt alebo prechodný pobyt alebo, ktorá
+        má oprávnenie užívať alebo užíva nehnuteľnosť na území obce,
+     b) Právnická osoba a fyzická osoba vykonávajúca podnikateľskú činnosť na území
+        obce, ktorá je oprávnená užívať alebo užíva nehnuteľnosť na území obce.
+
+                                          §2
+                                    Základné pojmy
+
+1. Základné definície pojmov, ako odpad, pôvodca odpadu, držiteľ odpadu, nebezpečný
+   odpad, komunálny odpad, drobný stavebný odpad, zmesový komunálny odpad, nakladaní
+   s odpadom, zhodnocovanie odpadov, zneškodňovanie odpadu, zber odpadu, zložka
+   komunálnych odpadov, skládka odpadov, elektro odpad z domácností, biologicky
+   rozložiteľné komunálne odpady, osoba zodpovedná za zber komunálnych odpadov,
+   zberný dvor, prevádzkovateľ kuchyne a pod. upravuje ustanovenie §2 až §5 zákona
+   č. 79/2015 Z. z.
+2. Program odpadového hospodárstva je základný programový dokument pre riadenie
+   odpadového hospodárstva obce Boľ v oblasti nakladania s komunálnymi odpadmi a
+   drobnými stavebnými odpadmi, spracovaný a aktualizovaný na základe zákona
+   o odpadoch určujúci najmä smerovanie a ciele odpadového hospodárstva a opatrenia
+   na ich dosiahnutie.
+
+                                               II. ČASŤ
+
+                                                 §3
+                                        Spoločné ustanovenia
+
+1. Každý je povinný nakladať s odpadmi alebo inak s nimi zaobchádzať v súlade so zákonom
+   o odpadoch. Ten, komu vyplývajú z rozhodnutia vydaného na základe zákona o odpadoch
+   povinnosti, je povinný nakladať s odpadmi alebo inak s nimi zaobchádzať aj v súlade
+   s týmto rozhodnutím /§ 12 zákona č. 79/2015 Z. z./.
+2. Zakazuje sa podľa § 13 zákona č. 79/2015 Z. z. :
+   a) uloženie alebo ponechanie odpadu na inom mieste, ako na mieste na to
+       určenom v súlade so zákonom o odpadoch a týmto VZN,
+   b) zneškodnenie odpadu, alebo zhodnotenie odpadu inak ako v súlade so zákonom
+       o odpadoch,
+   c) zneškodnenie odpadu vypúšťaním a vyhadzovaním do vodného recipienta a
+       zneškodnenie odpadu ukladaním do povrchových nádrží
+   d) zneškodňovanie skládkovaním biologicky rozložiteľného odpadu zo záhrad a parkov
+       vrátane odpadu z cintorína, okrem nezhodnotiteľných odpadov po dotriedení,
+   e) triedenie a zmiešanie odpadov za účelom dosiahnutia hraničných hodnôt
+       koncentrácie prítomných škodlivín / Hraničné hodnoty koncentrácie škodlivých látok v odpade
+       upravuje v príloha č. 5 zákona 79/2015 Z. z./
+   f) zmiešanie opotrebovaných batérií a akumulátory, ako aj ostatných elektroodpadov
+      s odpadmi z domácností,
+   g) vypúšťanie odpadového oleja do povrchových vôd, podzemných vôd a do kanalizácie,
+   h) uloženie alebo vypúšťanie odpadového oleja a vypúšťanie akéhokoľvek zostatkov po
+      spracovaní odpadov olejov do pôdy,
+   i) spaľovanie komunálneho odpadu na voľnom priestranstve a v domácnostiach vo
+      vykurovacích zariadeniach,
+   j) ukladanie do zberných nádob určených obcou na zber zmesového komunálneho odpadu
+      iného odpadu ako zmesový komunálny odpad a do zberných nádob určených na triedený
+      zber komunálneho odpadu zložky komunálneho odpadu, pre ktorú nie je nádoba
+      určená
+   k) ukladanie oddelene vyzbieraných zložiek komunálneho odpadu, na ktoré sa uplatňuje
+      rozšírená zodpovednosť výrobcov, a vytriedeného biologicky rozložiteľného
+      komunálneho odpadu na skládku odpadov, okrem nezhodnotiteľných odpadov po
+      dotriedení,
+   l) vykonávanie zberu oddelene zbieraných zložiek komunálnych odpadov patriacich
+      do vyhradeného prúdu odpadov bez zariadenia na zber odpadov osobou, ktorá nespĺňa
+      požiadavky podľa zákona o odpadoch.
+
+3. Obec Boľ nie je povinná vypracovať a dodržiavať schválený program odpadového hos -
+   podárstva. Obec, na území ktorej ročná produkcia komunálnych odpadov vrátane drobných
+   stavebných odpadov presahuje 350 ton alebo ktorej počet obyvateľov prevyšuje 1000, je
+   povinná vypracovať program obce § 10 ods. 1 zákona 79/2015 Z.z..
+4. Zákon o odpadoch povinnosť vyhotoviť vlastný program pôvodcom odpadov podnikateľom
+   – FO alebo PO neukladá. Rozhodnutia, ktorými boli takto vyhotovené programy schválené
+   podľa starej úpravy, strácajú podľa § 135 ods. 4 zákona č. 79/2015Z.z. platnosť 01.01.2016.
+5. Povinnosti držiteľa odpadu upravuje §14 zákona č. 79/2015 Z. z.
+6. Povinnosťami pôvodcu alebo držiteľa komunálnych odpadov a drobných stavebných
+   odpadov sú:
+   a) zapojiť sa do systému zberu komunálnych odpadov v obci,
+   b) užívanie zberných nádob zodpovedajúce systému zberu komunálnych odpadov v obci,
+   c) ukladanie komunálnych odpadov alebo ich oddelených zložiek a drobných stavebných
+       odpadov na účely ich zberu na miesta určené obcou a do zberných nádob
+       zodpovedajúcich systému zberu komunálnych odpadov v obci.
+7. Vykonávať zber alebo prepravu komunálnych odpadov a drobných stavebných odpadov s
+   výnimkou biologicky rozložiteľného kuchynského a reštauračného odpadu od
+   prevádzkovateľa kuchyne na území obce môže obec sama alebo ten, kto má s obcou
+   uzatvorenú zmluvu na vykonanie tejto činnosti. Vykonávať kompostovanie biologicky
+   rozložiteľného odpadu môžu obyvatelia v súlade s § 8 tohto nariadenia.
+8. Obec Boľ zabezpečuje aktuálnosť programu odpadového hospodárstva na základe
+   monitoringu existujúceho stavu odpadového hospodárstva, sledovaním vývojových
+   trendov v oblasti legislatívy a technológií pre spracovanie odpadov a plnením svojich
+   zákonných povinností.
+
+
+                                      III. ČASŤ
+     Systém zberu a prepravy komunálneho odpadu, spôsob separovaného zberu
+ jednotlivých zložiek komunálneho odpadu, spôsob nakladania s drobnými stavebnými
+                        odpadmi a inými komunálnymi odpadmi
+
+                                         §4
+                             Komunálny odpad a jeho zložky
+
+1. Pojem resp. definíciu pojmov komunálny odpad, zložka komunálnych odpadov, triedený
+   zber komunálnych odpadov, zmesový komunálny odpad, drobný stavebný odpad, zberný
+   dvor, kalendárový zber, množstvový zber upravuje § 80 zákona č. 79/2015 Z. z.
+
+Toto VZN upravuje podrobnosti nakladania s nasledovnými zložkami komunálneho odpadu
+(ďalej aj ako „KO“). Druhy a zložky komunálneho odpadu upravuje Vyhláška č.284/2001 Z.z.
+a/ Druhy KO z podskupiny SEPAROVANÉ ZBIERANÉ ZLOŽKY KO:
+- 20 01 01 papier                                                                    O
+- 20 01 02 sklo                                                                      O
+- 20 01 08 biologicky rozložiteľný kuchynský a reštauračný odpad                     O
+- 20 01 10 šatstvo                                                                   O
+- 20 01 11 textílie                                                                  O
+- 20 01 13 rozpúšťadlá                                                               N
+- 20 01 14 kyseliny                                                                  N
+- 20 01 15 zásady                                                                    N
+- 20 01 17 fotochemické látky                                                         N
+- 20 01 19 pesticídy                                                                  N
+- 20 01 21 žiarivky a iný odpad obsahujúci ortuť                                      N
+- 20 01 23 vyradené zariadenia obsahujúce chlórfluórované uhľovodíky                  N
+- 20 01 25 jedlé oleje a tuky                                                         O
+- 20 01 26 oleje a tuky iné ako uvedené v 20 01 25                                    N
+- 20 01 27 farby, tlačiarenské farby, lepidlá a živice obsahujúce nebezpečné látky    N
+- 20 01 28 farby, tlačiarenské farby, lepidlá a živice iné ako uvedené v 20 01 27     N
+- 20 01 29 detergenty obsahujúce nebezpečné látky                                     N
+- 20 01 30 detergenty iné ako uvedené v 20 01 29                                      O
+- 20 01 33 batérie a akumulátory uvedené v 16 06 01, 16 06 02 alebo 16 06 03
+          a netriedené batérie a akumulátory obsahujúce tieto batérie                N
+- 20 01 34 batérie a akumulátory iné ako uvedené v 20 01 33                          O
+- 20 01 35 vyradené elektrické a elektrotechnické zariadenia iné ako
+          uvedené v 20 01 21 a 20 01 23, obsahujúce nebezpečné časti                 N
+- 20 01 36 vyradené elektrické a elektronické zariadenia iné ako uvedené
+          v 20 01 21, 20 01 23, 20 01 35                                             O
+- 20 01 37 drevo obsahujúce nebezpečné látky                                         N
+- 20 01 38 drevo iné ako uvedené v 20 01 37                                          O
+- 20 01 39 plasty                                                                    O
+- 20 01 40 kovy                                                                      O
+b/ Druhy KO z podskupiny ODPADY ZO ZÁHRAD A Z PARKOV
+   /VRÁTANE ODPADU Z CINTORÍNOV/:
+- 20 02 01 biologicky rozložiteľný odpad                                             O
+- 20 02 02 zemina a kamenivo                                                         O
+- 20 02 03 iné biologicky rozložiteľné odpady                                        O
+c/ Druhy KO z podskupiny INÉ KOMUNÁLNE ODPADY:
+- 20 03 01 zmesový komunálny odpad                                                   O
+- 20 03 02 odpad z trhovísk                                                          O
+- 20 03 03 odpad z čistenia ulíc                                                     O
+- 20 03 04 kal zo septikov                                                           O
+- 20 03 06 odpad z čistenia kanalizácie                                              O
+- 20 03 07 objemný odpad                                                             O
+- 20 03 99 komunálne odpady inak nešpecifikované                                   O
+
+d/ Druhy KO z podskupiny OBALY /VRÁTANE ODPADOVÝCH OBALOV
+    ZO SEPAROVANÉHO ZBERU KO/:
+- 15 01 01 obaly z papiera a lepenky                                               O
+- 15 01 02 obaly z plastov                                                         O
+- 15 01 03 obaly z dreva                                                           O
+- 15 01 04 obaly z kovu                                                            O
+- 15 01 05 kompozitné obaly                                                        O
+- 15 01 07 obaly zo skla                                                           O
+e/ Druhy KO z podskupiny STARÉ VOZIDLÁ Z ROZLIČNÝCH
+    DOPRAVNÝCH PROSTRIEDKOV:
+- 16 01 07 olejové filtre                                                          N
+f/ Druhy KO z podskupiny ODPADY Z ELEKTRICKÝCH A
+   ELEKTRONICKÝCH ZARIADENÍ:
+- 16 02 13 vyradené zariadenia obsahujúce nebezpečné časti, iné ako uvedené
+   v 16 02 09 až 16 02 12                                                          N
+g/ Druhy KO z podskupiny INÉ ODPADY ZO STAVIEB A DEMOLÁCIÍ:
+- 17 09 04 zmiešané odpady zo stavieb a demolácií iné ako uvedené v
+   17 09 01, 17 09 02 a 17 09 03                                                   O
+
+
+                                         §5
+                             Umiestnenie nádob na odpad
+
+1. Vlastník / správca, resp. nájomca / nehnuteľnosti je povinný zriadiť vyhradené miesto
+   pre zberné nádoby. Pri jeho určovaní musí dbať, aby:
+   a) k vyhradenému miestu bol zabezpečený bezpečný prístup a dostatočný priestor na
+       vhodnú manipuláciu s nádobami,
+   b) nebol narušený vzhľad okolia a hygiena prostredia,
+   c) nádoby neboli umiestnené na náveternej strane v blízkosti okien, detských ihrísk,
+       frekventovaných miest a pod.,
+   d) nádoby boli umiestnené na spevnenom podklade,
+   e) nádoby neboli umiestnené trvalo na chodníku, komunikácii alebo parkovisku.
+2. Fyzickým osobám, právnickým osobám a fyzickým osobám-podnikateľom sa prísne
+   zakazuje premiestňovať zberné nádoby, vyprázdňovať ich alebo vyberať si časti odpadu.
+3. Miesto stáleho i dočasného umiestnenia nádob na odpad pri bytových domoch určí majiteľ
+   /správca resp. nájomca/ nehnuteľnosti po prerokovaní s obecným úradom.
+4. Na chodníkoch, parkoviskách a komunikáciách možno nádoby ponechať iba na dobu
+   nevyhnutnú na ich vyprázdnenie. Po vyprázdnení sa musia nádoby ihneď umiestniť na
+   vyhradené miesto. Výnimku môže povoliť obecný úrad.
+5. V prípadoch, ak nastanú okolnosti, ktoré znemožňujú prístup a vyprázdnenie nádob na
+   odpad, je majiteľ /správca resp. nájomca/ nehnuteľnosti povinný postarať sa o ich
+   premiestnenie a následne po ich vyprázdnení o uloženie nádob na vyhradené miesto.
+6. Projektanti a investori pri vypracovávaní projektových dokumentácií rodinných a bytových
+   domov musia umiestnenie všetkých druhov nádob na odpad konzultovať s obecným
+   úradom.
+7. Užívatelia zberných nádob sú povinný udržiavať v ich okolí poriadok a čistotu. Na miestach
+   hromadného umiestnenia zberných nádob je zakázané ich premiestňovanie.
+
+
+                                         §6
+               Systém zberu a prepravy zmesového komunálneho odpadu
+
+1. V katastrálnom území obce Boľ sa určuje:
+   a) povinná štandardná zberná nádoba pre platiteľov poplatku za komunálny odpad
+       a drobný stavebný odpad pre zmesový komunálny odpad je 110, 120, 240 a 1100
+       litrová nádoba .
+2. V prípade straty, poškodenia zbernej nádoby alebo po uplynutí jej životnosti je jej užívateľ
+   povinný si zabezpečiť novú nádobu sám na vlastné náklady. Po uplynutí životnosti
+   zberných nádob pri bytových domoch si novú zbernú nádobu zabezpečí majiteľ /správca
+   resp. nájomca/.
+3. Zber 110 l, 120 l, 240l a 1100 l smetných nádob uskutočňuje podľa harmonogramu zberu
+   komunálneho a separovaného odpadu z domácnosti.
+4. Osoba zodpovedná za zber zmesových komunálnych odpadov vykonávaním zberu,
+   prepravou a zneškodňovaním komunálnych odpadov a drobných stavebných odpadov je
+   povinná:
+   a) vyprázdňovať zberné nádoby tak, aby nedošlo k hygienickým, bezpečnostným,
+       ekologickým a iným zavadám, príp. ku škode na majetku,
+   b) po vyprázdnení zberné nádoby umiestniť späť na pôvodné miesto,
+   c) v prípade rozsypania odpadov pri vyprázdňovaní zberných nádob, tieto odstrániť,
+   d) v prípade poškodenia zbernej nádoby pri manipulácii zabezpečiť jej opravu alebo
+       výmenu do 3 dní,
+   e) mesačne viesť evidenciu /osoba zodpovedná za zber KO odovzdá aj na obecný
+       úrad /hlásenie o množstve odpadov, s ktorými nakladala počas tohto obdobia, jeho
+       druhovej skladbe, o spôsobe nakladania s týmto odpadom, o spôsobe jeho využitia
+       /vrátane množstva vyseparovaného KO/, úpravy alebo zneškodňovania, prípadne o
+       inom spôsobe nakladania s týmito odpadmi,
+   f) zabezpečovať vývoz objemového odpadu, drobného stavebného odpadu a biologicky
+       rozložiteľného odpadu v rozsahu a za podmienok uvedených v tomto nariadení,
+   g) uskutočňovať v súlade s harmonogramom vývoz zberných nádob,
+   h) uskutočňovať v súlade s harmonogramom vývozov vriec na separované zložky, ktoré
+       obsahujú určenú zložku,
+   i) Osoba zodpovedná za zber KO priebežne sleduje pri svojej činnosti zloženie
+       komunálnych odpadov a je povinná ohlásiť obci každú podstatnú /dlhodobú/ zmenu
+       v zložení a podieloch odpadov z obalov, uvedených v programe odpadového
+       hospodárstva.
+5. Obec Boľ má zmluvne zabezpečen zber a uloženie komunálneho odpadu so spoločnosťou
+   KOSIT EAST s.r.o. so sídlom Košice, ul. Rastislavova 98, 043 46 KOŠICE, IČO:
+   36 211 451. Zber zmesového komunálneho odpadu sa pravidelne uskutočňuje 1x za dva
+   týždne s výnimkou štátnych sviatkov a pracovného pokoja.
+
+
+                                           §7
+                           Triedený zber komunálneho odpadu
+
+1. Obec vykonáva triedený zber odpadov pre komodity:
+    a) plasty, papier, sklo, kov
+    b) biologicky rozložiteľný kuchynský odpad, okrem toho, ktorého pôvodcom je
+        prevádzkovateľ kuchyne
+    c) jedlé oleje a tuky z domácností
+    d) biologicky rozložiteľné odpady zo záhrad a parkov vrátane odpadu z cintorínov.
+2. Komodity triedeného odpadu sú:
+    Plasty – v bytových domoch a v zástavbe rodinných domov sa plastové odpady zbierajú do
+120 l igelitových vriec. Zber igelitových vriec podľa harmonogramu zberu zabezpečuje Obec
+Boľ harmonogramu zberu komunálneho a separovaného odpadu z domácnosti.
+Patria sem:
+PE /polyetilén/-LDPE a HDPE: číre a farebné fólie, tašky vrecká, vedrá a fľaštičky od kozme-
+tických a čistiacich prípravkov, vrecká od mlieka, prepravky fliaš PET / polyetiléntereftalát /
+fľaše od nápojov, sirupov, rastlinných olejov
+PP /polypropylén/ - obaly od sladkostí, tégliky od jogurtov a rôzne plastové nádobky a hračky
+PS /polystyrén/ - penový polystyrén, poháriky z automatov a iné plastové nádobky
+PVC /polyvinylchlorid/ - vodoinštalačné a elektroinštalačné rúrky, obaly kozmetických
+výrobkov, plastové okná a nábytok a pod.
+Nepatria sem: znečistené obaly chemikáliami a olejmi, viacvrstvové obaly, hrubo znečistené
+plasty /zeminou, farbami/, podlahové krytiny, guma, molitan a pod.
+Obec Boľ má zmluvne zabezpečený zber plastov so spoločnosťou
+KOSIT EAST s.r.o. so sídlom Košice, ul. Rastislavova 98, 043 46 KOŠICE, IČO: 36 211
+451.
+
+Papier – v bytových domoch a v zástavbe rodinných domov sa odpady z papiera a lepenky
+zbierajú do 120 l igelitových vriec. Zber sa uskutočňuje podľa harmonogramu zberu
+komunálneho a separovaného odpadu z domácnosti.
+Patria sem: noviny, časopisy, zošity, knihy, listy, kancelársky papier, papierové vrecká,
+lepenka, krabice z tvrdého papiera, kartón, obálky, letáky, katalógy, telefónne zoznamy, plagá-
+ty, pohľadnice, zakladače, baliaci a krepový papier, papierový obal a pod.
+Nepatria sem: umelohmotné obaly, vrstvené obaly, voskový papier, papier s hliníkovou fóliou,
+obaly na mrazené potraviny, krabice od cigariet, špinavý či mastný papier, kopírovací papier a
+pod.
+Sklo - v bytových domoch a v zástavbe rodinných domov sa odpady zo skla vynášajú pred
+obytný priestor. Zber skla zabezpečuje podľa harmonogramu zberu komunálneho a
+separovaného odpadu z domácnosti spoločnosť KOSIT EAST s.r.o. so sídlom Košice, ul.
+Rastislavova 98, 043 46 KOŠICE, IČO: 36 211 451,
+Patria sem: sklenené fľaše, nádoby, obaly a predmety zo skla, poháre, fľaštičky od kozmetiky,
+črepy, okenné sklo, sklo z okuliarov a pod.
+Nepatria sem: vrchnáky, korky, gumy, porcelán, keramika, zrkadlá, drôtové sklo, fľaše z umelej
+hmoty, časti uzáverov fliaš, žiarovka, žiarivka a pod.
+Kovy: odpady z kovu sa v rámci triedeného zberu zbierajú spoločnosti s oprávnením na zber
+kovového odpadu, kde občania obce osobne odovzdať odpady z kovu.
+Patria sem: kovové vrchnáky z fliaš a pohárov, kovové tuby od pást, kovové súčiastky, drôty a
+káble, /bez bužírky, starý riad, obaly zo sprejov, kovový šrot, oceľ, farebné kovy, hliníkové
+viečko, hliníkový obal, kovové viečko, klinec, sponka, spinka, špendlík, kovová rúrka, starý
+kľúč, zámok, konzervy, oceľové plechovky, ventil a pod.
+Nepatria sem: kovy hrubo znečistené zvyškami jedla, farbami a rôznymi chemickými látkami.
+Zakazuje sa odovzdať papier, plasty, kovy, a sklo iným subjektom / napr. pouliční zberači/,
+ktorí nemajú uzatvorenú zmluvu na vykonávanie tejto činnosti s obcou a aj zmluvu s príslušnou
+organizáciou zodpovednosti výrobcov.
+
+                                            §8
+                        Biologicky rozložiteľný komunálny odpad
+
+
+1. Občania v rodinnej zástavbe kompostujú biologicky rozložiteľný komunálny odpad
+   vo vlastných zariadeniach na kompostovanie.
+2. Je zakázané ukladať bioodpad zo záhrad a parkov do zberných nádob na komunálny odpad,
+   na iné miesta než určené.
+3. Občania môžu biologicky rozložiteľný odpad odovzdať na zberný dvor.
+
+                                          §9
+ Biologicky rozložiteľný kuchynský a reštauračný odpad od prevádzkovateľa kuchyne
+
+1. Za nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od
+   prevádzkovateľa kuchyne je zodpovedný prevádzkovateľ kuchyne.
+2. Biologicky rozložiteľný kuchynský a reštauračný odpad sa zakazuje ukladať do nádob
+   určených na zber komunálnych odpadov.
+3. Náklady spojené so zberom, skladovaním, prepravou a spracovaním vrátane náklady na
+   zberné kontajnery a iné obaly hradí prevádzkovateľ kuchyne /nie sú súčasťou miestneho
+   poplatku/.
+4. Zber a zberné nádoby na biologicky rozložiteľný kuchynský a reštauračný odpad musia
+   spĺňať požiadavky ustanovené Nariadením Európskeho parlamentu a rady č. 1069/2009
+   o vedľajších živočíšnych produktov a Nariadením EP a Rady č. 852/2004 o hygiene
+   potravín.
+5. Prevádzkovateľ kuchyne musí primerane zabezpečiť skladovanie odpadu do doby
+   odovzdania na jeho spracovanie tak, aby sa k obsahu kontajnera nedostali hlodavce a iné
+   živočíchy ani verejnosť.
+6. Zberné nádoby musia byť umiestnené v areáli prevádzkovateľa kuchyne.
+7. Frekvencia zberu musí byť v súlade s hygienickými predpismi zohľadňujúc aj teploty
+    prostredia /leto – zima/, pričom v letnom období frekvencia zberu musí byť vyššia.
+8. Ak prevádzkovateľ kuchyne nezabezpečuje zber, prepravu a ďalšie nakladanie sám,
+    ale prostredníctvom tretieho subjektu, musí mať na tento účel s ním uzatvorenú zmluvu a
+    zároveň musí ísť o subjekt, ktorý je oprávnený na nakladanie s týmto odpadom, pričom sa
+    vyžaduje, aby tento subjekt spĺňal aj osobitné požiadavky v zmysle zákona č. 39/2007 Z.z.
+    o veterinárnej starostlivosti a o zmene a doplnení niektorých zákonov v znení neskorších
+    predpisov, a aby mala schválenie na vykonanie činnosti spracovania týchto odpadov
+    príslušnou regionálnou veterinárnou a potravinovou správou.
+9. Prevádzkovateľ kuchyne je povinný oznámiť obci, či nakladanie s týmto odpadom si
+    zabezpečuje sám alebo prostredníctvom tretieho subjektu, s ktorým uzatvoril zmluvu,
+    a ktorý má potrebné oprávnenie na nakladanie s týmto odpadom.
+10. Pri nakladaní s týmto odpadom je prevádzkovateľ kuchyne povinný postupovať v súlade
+    s hierarchiou odpadového hospodárstva.
+
+                                             §10
+                              Jedlé oleje a tuky z domácností
+
+1. Jedlé oleje a tuky je možné odovzdať vývozcovi komunálneho a separovaného odpadu
+   z domácnosti. Oleje a tuky sa môžu odovzdávať aj v plastových fľašiach s funkčným
+   uzáverom, ktoré si občania zabezpečia samostatne./ napr. PET fľaše/.
+2. Vykonávať zber, prepravu, zhodnocovanie a zneškodňovanie jedlých olejov a tukov môže
+   len obec resp. osoba zodpovedná za zber KO, ktorá má uzatvorenú zmluvu na vykonanie
+   tejto činnosti s obcou.
+
+                                         §11
+                       Spôsob zberu drobného stavebného odpadu
+
+1. Zber DSO sa uskutočňuje formou množstvového zberu. Výšku poplatku za množstvový
+   zber drobných stavebných odpadov určí obec vo všeobecne záväznom nariadení.
+2. Drobný stavebný odpad môžu občania odovzdať na vopred vyhlásenom mieste v stanovený
+   deň odplatne.
+3. K drobnému stavebnému odpadu, ktorý vyprodukujú občania, patria zmesi betónu, tehál
+   obkladačiek, dlaždíc, keramiky a pod.
+4. Držitelia DSO sú povinní odpad pred odovzdaním prednostne vytriediť na jednotlivé
+   zložky.
+5. Zakazuje sa ukladať drobný stavebný odpad do nádob/ vriec na zmesový komunálny
+   odpad alebo vedľa nich.
+6. Vykonávať zber, prepravu, zhodnocovanie a zneškodňovanie drobných stavebných
+   odpadov môže len organizácia za zber komunálneho odpadu, ktorá má uzatvorenú zmluvu
+   na vykonávanie tejto činnosti s obcou, ak túto činnosť nezabezpečuje obec sama.
+                                          § 12
+                                      Elektroodpad
+
+1. Elektroodpad z domácností je elektroodpad, ktorý pochádza z domácností fyzických osôb
+   a z obchodných, priemyselných, inštitucionálnych a iných zdrojov, ktorý je svojím
+   zložením a množstvom podobný tomu, ktorý pochádza z domácnosti fyzických osôb.
+   Patria sem: napr. televízory, rádiá, počítačová, kancelárska a telekomunikačná technika,
+   videá, diskmany, digitálne hodinky, gameboye, variče, ohrievače, kávovary, pračky,
+   elektromotory, ručné elektrické náradia, atď.
+2. Elektroodpad je zakázané ukladať do zberných nádob a kontajnerov alebo vedľa nich a
+   na verejné priestranstvá obce.
+3. Obyvatelia môžu odovzdávať elektroodpad vývozcovi komunálneho a separovaného
+   odpadu z domácnosti.
+4. Zber a odvoz elektroodpadu zabezpečuje osoba zodpovedná za zber KO, ktorá má
+   uzatvorenú zmluvu na vykonanie tejto činnosti s obcou.
+5. Zakazuje sa odovzdať elektroodpad iným subjektom /napr. pouličný zberači a pod./, ktorí
+   nemajú uzatvorenú zmluvu na vykonávanie tejto činnosti s obcou.
+
+
+                                          §13
+                             Použité batérie a akumulátory
+
+Obec má uzavretú zmluvu s OZV/výrobcom/ treťou osobou pre batérie a akumulátory, ktorá
+prevádzkuje    systém združeného nakladania s batériami a akumulátormi, oddelene
+vyzbieranými z komunálnych odpadov.
+
+1. Obyvatelia môžu odovzdávať použité prenosné batérie a akumulátory, a automobilové
+   batérie a akumulátory vývozcovi podľa harmonogramu zberu komunálne a separovaného
+   odpadu z domácnosti.
+2. Občania môžu odovzdať použité prenosné batérie a akumulátory a automobilové batérie a
+   akumulátory aj na predajných miestach u distribútora batérií a akumulátorov, alebo na
+   iných zberných miestach zriadených v súlade so zákonom o odpadoch.
+3. Použité batérie je zakázané ukladať do zberných nádob a kontajnerov alebo vedľa nich a
+   na verejné priestranstvá obce.
+4. Zakazuj e sa odovzdať použité batérie a akumulátory iným subjektom /napr. pouliční
+   zberači a pod./, ktorí nemajú uzatvorenú zmluvu na vykonávanie tejto činnosti s obcou.
+
+
+                                       §14
+    Humánne a veterinárne lieky nespotrebované fyzickými osobami, zdravotnícke
+                                    pomôcky
+
+1. Zakazuje sa nespotrebované lieky ukladať do zberných nádob a kontajnerov alebo vedľa
+   nich a na verejné priestranstvá obce.
+2. Nespotrebované lieky je potrebné odovzdať do verejných lekární, ktoré sú povinné ich
+   zhromažďovať.
+
+
+                                             §15
+                                            Textil
+
+1. Pod textilom vhodným na zber sa rozumie:
+a) čisté a suché šatstvo /všetky druhy odevov, prikrývky, deky, posteľnú bielizeň/,
+b) topánky /topánky iba v pároch, nezničené/,
+c) doplnky k oblečeniu /čiapky, šále a pod./
+
+2. Vykonávať zber, prepravu, zhodnocovanie a zneškodňovanie odpadu z textilu môže len
+   osoba zodpovedná za zber KO, ktorá má uzatvorenú zmluvu na vykonanie tejto činnosti s
+   obcou. Zber textilu sa uskutoční formou kampaňového zberu po dohode s vývozcom
+   odpadu
+
+                                             §16
+                                       Kal zo septikov
+
+1. Zber, prepravu a zneškodňovanie kalov a septikov a žúmp môžu vykonávať len organizácie
+   poverené zberom, ktoré majú na túto činnosť oprávnenie.
+2. Majitelia septikov resp. ich iní užívatelia ako nájomcovia, správcovia a pod. sú povinní
+   zabezpečiť na vlastné náklady zneškodňovanie kalov prostredníctvom oprávnenej
+   organizácie.
+3. Každý majiteľ septika je povinný po dobu 3 rokov viesť evidenciu a uschovávať doklady
+   o zabezpečení vývozu kalu zo septika oprávnenou osobou a o jeho bezpečnej likvidácii.
+
+
+
+
+                                          IV. ČASŤ
+                                             §17
+                                      Platenie poplatku
+
+1. Obec stanovuje, že poplatok od poplatníka v ustanovenej výške pre obec vyberá a za
+   vybraný poplatok ručí vlastník nehnuteľnosti. Ak je nehnuteľnosť v spoluvlastníctve
+   viacerých spoluvlastníkov alebo ak ide o bytový dom, poplatok vyberá a za vybraný
+   poplatok ručí zástupca alebo správca určený ak s výberom poplatku zástupca alebo
+   správca súhlasí, ak nedôjde k určeniu zástupcu alebo správcu písomným oznámením
+   takejto osoby obci Boľ do termínu 31.01. príslušného roka, obec určí spomedzi vlastníkov
+   alebo spoluvlastníkov zástupcu, ktorý poplatok pre obec vyberie,
+2. Platiteľ a poplatník sa môžu písomne dohodnúť, že poplatok obci odvedie priamo
+   poplatník, za odvedenie poplatku obci ručí platiteľ,
+3. Ak viacero poplatníkov žije v spoločnej domácnosti, plnenie povinnosti poplatníka môže
+   za ostatných členov tejto domácnosti na seba prevziať jeden z nich. Za poplatníka, ktorý nie
+   je spôsobilý na právne úkony v plnom rozsahu plní povinnosti poplatníka jeho zákonný
+   zástupca, prípadne opatrovník. Povinnosti poplatníka nesmie za iného prevziať alebo plniť
+   osoba, ktorá sa dlhodobo zdržiava mimo územia Slovenskej republiky alebo je nezvestná.
+   Tieto skutočnosti, ako aj ich zmeny je osoba, ktorá za iného plní povinnosti poplatníka,
+   povinná bezodkladne písomne oznámiť obci.
+
+
+                                          §18
+                           Sadzba poplatku a frekvencia vývozu
+
+1. Sadzba poplatku sa určuje na jednu fyzickú osobu vo výške 0,07305 € na kalendárny
+   deň pri vývoze v dvojtýždňových intervaloch ( 27 vývozov za 1 rok ). Sadzba
+   poplatku sa stanovuje na jednu fyzickú osobu vo výške 40,00 € na kalendárny rok pri
+   používaní 110 l a 1520 l KUKA. V prípade používania 240 l KUKA nádob sadzba
+   poplatku sa stanovuje na jednu fyzickú osobu vo výške zvyšuje na 80,00 € na
+   kalendárny rok. Sadzba poplatku sa určuje ako pomer množstva vyprodukovaného
+   komunálneho odpadu za kalendárny rok v tonách a nákladov vynaložených na zber
+   komunálneho odpadu. Sadzba poplatku na fyzické a právnické osoby vykonávajúce
+   podnikateľskú činnosť na území obce sa stanovuje individuálne podľa počtu zberných
+   nádob vo výške 300 € za jednu zbernú nádobu za kalendárny rok, pričom
+   PO a FO vykonávajúce podnikateľskú činnosť na území obce používajú 1100 l
+   KUKA nádobu.
+2. Poplatok sa určuje takto:
+   a) V obci je zavedený množstvový zber komunálneho odpadu v jednotných zberných
+      nádobách 110 l, 120 l, 240 l KUKA nádob a 1100 l KUKA nádob vo vlastníctve
+      poplatníkov. Zberné nádoby sú umiestnené na nehnuteľnostiach (vo dvoroch)
+      poplatníkov. Poplatok sa určuje na dobu jedného kalendárneho roka s možnosťou
+      ponechania výšky poplatku na ďalšie roky podľa miestnych podmienok, ako aj
+      možnosťou zvýšenia alebo zníženia poplatku s dodatkom k VZN vždy k 1.1. tohto
+      ktorého roka. 1 ks KUKA nádoba (110 l, 120 l, 240 l) obsahovo musí byť postačujúce
+      na 4 člennú rodinu. Nárok na 2 KUKA nádoby majú iba rodiny, kde osobný počet
+      členov domácností presahuje 4 členov
+   b) Zber drobného stavebného odpadu sa realizuje osobitne podľa objednávky pôvodcu
+      odpadu na mieste určenom obcou. Sadzba poplatku je 0,078 €/kg, ktorý poplatok sa
+      vyberá pri prevzatí drobného stavebného odpadu (rieši sa individuálne).
+3. Poplatník je povinný do jedného mesiaca odo dňa vzniku povinnosti platiť poplatok, odo
+   dňa, keď nastala skutočnosť, ktorá má vplyv na zmenu alebo zánik poplatkovej povinnosti,
+   ako aj od skončenia obdobia určeného obcou, za ktoré platil poplatok, v prípade ak došlo
+   k zmene už ohlásených údajov, ohlásiť obci:
+   a) svoje meno, priezvisko, dátum narodenia, adresu trvalého pobytu, adresu
+      prechodného pobytu (ďalej len „identifikačné údaje“), ak je poplatníkom fyzická alebo
+      právnická osoba vykonávajúca podnikateľskú činnosť na území obce Boľ, alebo osoba
+        podľa odseku 2 písm. b., tohto ustanovenia, názov alebo obchodné meno, sídlo alebo
+        miesto podnikania, identifikačné číslo (IČO),
+    b) identifikačné údaje iných osôb, ak za ne plní povinnosti poplatníka,
+    c) údaje rozhodujúce na určenie poplatku (ak je zavedený množstvový zber), spolu
+        s ohlásením predloží aj doklady potvrdzujúce uvádzané údaje, ak súčasne požaduje
+        zníženie alebo odpustenie poplatku, ktoré odôvodňujú zníženie alebo odpustenie
+        poplatku.
+4. Poplatník je oprávnený podať obci ohlásenie aj v prípade, ak zistí, že jeho povinnosť platiť
+    poplatok má byť nižšia, ako mu bola vyrubená, alebo ak žiada o zníženie poplatku z dôvodu,
+    že neužíva nehnuteľnosť, ktorú je oprávnený užívať.
+5. Poplatok vyrubí obec rozhodnutím.
+6. Splatnosť poplatku je uvedená v rozhodnutí.
+7. Spôsob platenia poplatku:
+     a/ v hotovosti do pokladne Obecného úradu Boľ
+     b/ odvodom na účet obce Boľ č.: (IBAN) SK66 5600 0000 0042 4993 1001 vedený
+        v Prima banka Slovensko, a.s. prevodným príkazom, ak v jednotlivých
+        ustanoveniach tohto VZN nie je ustanovené inak.
+8. O odpustenie poplatku možno žiadať v týchto prípadoch:
+    a) v určenom období dlhodobo sa zdržiaval mimo obec (ak sa v obci nezdržiava viac ako
+        90 dní v zdaňovacom období)
+    b) zdržiaval sa v zahraničí
+    c) bol vo výkone trestu.
+9. Ak poplatník je zapojený do množstvového zberu uhradil obci vyšší poplatok ako bol
+    povinný uhradiť, obec vráti vzniknutý rozdiel do 60 dní od skončenia obdobia, za ktoré bol
+    poplatok uhradený a to takto: vypočíta sa správna výška poplatku, ktorá sa odpočíta od
+    zaplatenej a rozdiel sa vráti poplatníkovi poštovou poukážkou.
+10. Obec Boľ môže na zmiernenie alebo odstránenie tvrdosti v jednotlivých prípadoch na
+    základe žiadosti poplatníka poplatky znížiť alebo odpustiť.
+
+
+                                          V. ČASŤ
+
+                                             §19
+
+                                    Výkon štátnej správy
+                                           Obec
+
+
+Obec vo veciach štátnej správy odpadového hospodárstva:
+   a) prejednáva priestupky v odpadovom hospodárstve a ukladá pokuty.
+   b) poskytuje držiteľovi resp. pôvodcovi odpadu informácie o umiestnení a činnosti
+      zariadení na nakladanie s odpadmi na území obce.
+                                              VI. ČASŤ
+
+                                                 §20
+
+                              10 §109 zákona č. 79/2015 Z .z.
+                   Spôsob nahlasovania nezákonne umiestneného odpadu
+
+1. Oznámenie o umiestnení odpadu na nehnuteľnosti v územnom obvode obce Boľ, ktorý je
+   umiestnený v rozpore so zákonom o odpadoch alebo s týmto VZN, môže podať fyzická
+   alebo právnická osoba na obecnom úrade Boľ, osobne počas stránkových dní, telefonicky
+   na číslo 0903963992, písomne alebo za použitia elektronických prostriedkov na e-mail
+   adresu: ocu.bol@gmail.com, alebo môže nezákonne umiestnený odpad oznámiť
+   príslušnému orgánu štátnej správy odpadového hospodárstva
+2. Vlastník /správca/nájomca/ nehnuteľnosti je povinný po zistení skutočnosti, že na
+   nehnuteľnosti sa nachádza nezákonne umiestnený odpad, je povinný bezodkladne túto
+   skutočnosť oznámiť obci, alebo príslušnému orgánu štátnej správy odpadového
+   hospodárstva podľa ods. 1.
+
+                                                §21
+                                              Kontrola
+
+Kontrolu dodržiavania ustanovení tohto VZN vykonáva prostredníctvom:
+a) starostu Obce Boľ
+b) poslancov Obecného zastupiteľstva
+c) hlavného kontrolóra
+d) orgánov štátnej správy v rozsahu svojej činnosti.
+
+
+                                           VII. ČASŤ
+                                              §22
+                                      Záverečné ustanovenia
+
+
+1. Toto VZN schválilo Obecné zastupiteľstvo v Boli, dňa ............... uznesením č. ...................
+2. Toto VZN nadobúda účinnosť 01.01.2027.
+3. Nadobudnutím účinnosti tohto VZN sa ruší VZN obce Boľ č. /2026 o nakladaní
+   s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce.
+
+
+
+
+                                                                   JUDr. Atila Bohács, LL.M.
+                                                                         starosta obce
+

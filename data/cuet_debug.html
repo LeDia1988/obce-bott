@@ -1,0 +1,232 @@
+
+
+
+
+
+<!DOCTYPE html> 
+
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Central official electronic board</title>
+    <meta name="description" content="Centrálna elektronická úradná tabula vyhľadávanie" />
+    <meta name="keywords" content="Slovensko, Ústredný portál, Centrálna úradná elektronická tabula, CUET, Vyhľadávanie, dokument, výzva, zverejnenie" />
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:300,400,400italic,600&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+    
+
+<link href="/Content/Css/bundle?v=42S1Tu-l_fnfTzEcvZ1veFHNhelDM87spLowb68Y6vM1" rel="stylesheet"/>
+
+    
+    <script src="/bundles/home/jsbundle?v=R9jLDD7giVawffy9oo1mYWXrpQeRt34WXu2gwZdpsGQ1"></script>
+
+    <script src="/Content/jstree/bundle?v=2OCe4IXsI5joNpEFr5c8xELdNx5DaF4EUutaqZCkTP41"></script>
+
+    <script type="text/javascript" id="cookiebanner" src="/Content/cookie-banner/cookiebanner.js" data-cookie="CookieInfoScript" data-text-align="left"></script>
+
+</head>
+<body>
+    <!--noscript class="noScriptMessage">Pre správne fungovanie stránky povoľte Javascript vo Vašom prehliadači.
+    </!--noscript-->
+
+    
+<div id="header">
+    <div class="topNav">
+        <div class="topNavSize">
+            <div class="topLeftNav">
+                <ul class="navMenu">
+                            <li class="linkMojeSlovensko"><a href=https://nove.slovensko.sk>Enter beta.slovensko.sk</a><i class="fa-solid fa-arrow-up-right-from-square"></i></li>
+                </ul>
+            </div>
+            <div class="topRightNav">
+                <ul class="navMenu">
+                    <li class="contrastVersion"><a href="/en/Shared/ChangeContrast?returnUrl=%2Fen">Change the contrast</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/titulna-stranka">Main Page</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/o-portali">About Portal</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/pomoc">Help</a></li>
+                    <li><a href="https://www.slovensko.sk/sk/Kontakt">Contact</a></li>
+                        <li class="flag sk"><a class="culture-link" href="/en/Shared/ChangeCulture?lang=1&amp;returnUrl=%2Fen">Slovensky</a></li>
+                    <li class="rss"><a href="/en/Rss">RSS CUET</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="wrapper">
+        <a href="http://slovensko.sk" class="logo" title="Návrat na Slovensko.sk">
+            <img class="logo" src="/Content/Img/logo_main_slovensko.png" alt="Ústredný portál verejných služieb ľuďom"
+                 title="Prejsť na Slovensko.sk" />
+        </a><a href="/" id="cuetLogo" class="cuet_logo" title="Návrat na úvodnu stránku cuet.slovensko.sk">
+            <img class="cuet_logo" src="/Content/Img/cuet_logo.png" alt="Centrálna úradná elektronická tabula"
+                 title="Návrat na úvodnu stránku cuet.slovensko.sk" />
+        </a>
+    </div>
+</div>
+
+
+    <div id="contentWrapper" role="main">
+<form action="/en" id="MainSearchForm" method="get" name="MainSearchForm">        <div class="searchWrapper center">
+        <h1 style="text-align:center">Searching Central official electronic board</h1>
+          
+            <div class="item2">
+                <div><label class="searchLabel" for="PublisherName">Published on official board:</label></div> 
+                <div><input MaxLength="100" aria-autocomplete="inline" aria-haspopup="true" class="input-text-cuet" id="PublisherName" name="PublisherName" role="textbox" type="text" value="" /> 
+                <span class="elementInfo">Provide a name of institution publishing documents</span></div>
+                <p id="publisher-name"></p><p id="publisher-description"></p>
+            </div>
+            
+            <div class="item2">
+                <div><label class="searchLabel" for="AuthorName" >Documents author:</label></div>
+                <div><input MaxLength="100" aria-autocomplete="inline" aria-haspopup="true" class="input-text-cuet" id="AuthorName" name="AuthorName" role="textbox" type="text" value="" /> 
+                <span class="elementInfo">Provide an author name of published documents</span></div>
+                <p id="author-name"></p><p id="author-description"></p>
+            </div>
+            
+            <div class="item2">
+                <div><label class="searchLabel" for="datePublishFrom">Published from:</label></div>
+                <div><input class="input-text-cuet" id="datePublishFrom" name="DocumentPublishedFrom" type="text" value="22.11.2026" />  <span class="elementInfo">Provide a start date of publishing documents (Date format: dd.mm.yyyy)</span></div>
+            </div>
+            <div class="item2">
+                <div><label class="searchLabel" for="datePublishTo">Published to:</label></div>
+                <div><input class="input-text-cuet" id="datePublishTo" name="DocumentPublishedTo" type="text" value="" />  <span class="elementInfo">Provide a end date of publishing documents (Date format: dd.mm.yyyy)</span></div>
+            </div>
+            
+            <div class="item1 toggler">
+                <ul class="arrow">
+                    <li id="jstreeIcon" class="closed"><a href="#" class="displayTabName" id="jstreeToggler"><span class="searchCategory">Search by locality and category of institution</span></a></li>
+                </ul>
+            </div>
+            
+            <div id="jstreeDisplay">
+                <div class="item2tree treeOuterWrapper">
+                    <div class="metadataLabelName">Institution locality</div>
+                    <div class="treeWrapper">
+                        <div id="jstree_location">
+                        </div>
+                    </div>
+                    <div class="treeControl">
+                        <div class="treeCancel">
+                            <a id="localityDeselector" href="#" class="input-button-red-link">Cancel selection</a>
+                        </div>
+                    </div>
+                </div>
+
+                <input id="LocalityCode" name="LocalityCode" type="hidden" value="" />
+         
+                <div class="item2tree treeOuterWrapper">
+                    <div class="metadataLabelName">Institution category</div>
+                    <div class="treeWrapper">
+                        <div id="jstree_category">
+                        </div>
+                    </div>
+                    <div class="treeControl">
+                        <div class="treeCancel">
+                            <a id="categoryDeselector" href="#" class="input-button-red-link">Cancel selection</a>
+                        </div>
+                    </div>
+                </div>
+
+                <input id="CategoryCode" name="CategoryCode" type="hidden" value="" />
+
+            </div>
+
+            <div class="item1 toggler">
+                <ul class="arrow">
+                    <li id="detailIcon" class="closed"><a href="#" class="displayTabName" id="detailToggler"><span class="searchCategory">Detail search</span></a></li>
+                </ul>
+            </div>
+
+            <div id="detailDisplay">
+            
+                 <div class="item2">
+                     <div><label class="searchLabel" for="RegistrySymbol">Registry symbol:</label></div>
+                     <div><input MaxLength="50" class="input-text-cuet" id="RegistrySymbol" name="RegistrySymbol" type="text" value="" />  <span class="elementInfo">Provide a registry symbol of the published document</span></div>
+                 </div>
+                 <div class="item2">
+                     <div><label class="searchLabel" for="RegistryCase">Registry case:</label></div>
+                     <div><input MaxLength="50" class="input-text-cuet" id="RegistryCase" name="RegistryCase" type="text" value="" />   <span class="elementInfo">Provide a registry case of the published document</span></div>
+                 </div>
+            
+                 <div class="item1">
+                     <div><label class="searchLabel" for="DocumentName">Name of official document:</label></div>
+                     <div><input MaxLength="50" class="input-text-cuet" id="DocumentName" name="DocumentName" type="text" value="" />  <span class="elementInfo">Provide a name of the published document</span></div>
+                 </div>
+            
+                 <div class="item1">
+                     <div><label class="searchLabel" for="DocumentAbstract">Document abstract:</label></div>
+                     <div><input MaxLength="500" class="input-text-cuet" id="DocumentAbstract" name="DocumentAbstract" type="text" value="" />  <span class="elementInfo">Provide an expression to be searched in documents anotations</span></div>
+                 </div>
+            
+                 <div class="item1">
+                     <div><label class="searchLabel" for="FullText">Fulltext search in the published document:</label></div>
+                     <div><input MaxLength="500" class="input-text-cuet" id="FullText" name="FullText" type="text" value="" />  <span class="elementInfo">Provide an expression to be searched in published documents</span></div>
+                 </div>
+
+                 <div class="item1">
+                     <div><label class="searchLabel" for="FullTextAddresse">Fulltext search in appeal addressees:</label></div>
+                     <div><input MaxLength="500" class="input-text-cuet" id="FullTextAddresse" name="FullTextAddresse" type="text" value="" />  <span class="elementInfo">Provide an expression to be searched in an addressee of the appeals</span></div>
+                 </div>
+
+                <div class="item1">
+                    <div style="padding-top:10px;"><input data-val="true" data-val-required="The AlternativePublicationCheck field is required." id="AlternativePublicationCheck" name="AlternativePublicationCheck" type="checkbox" value="true" /><input name="AlternativePublicationCheck" type="hidden" value="false" /><label class="searchLabel" for="AlternativePublicationCheck">Search documents published alternatively</label></div>
+                </div>
+
+                <div class="item1">
+                    <div><label class="searchLabel" for="AlternativeTypeCode">Alternative publication type:</label></div>
+                    <div><select class="input-text-cuet" id="AlternativeTypeCode" name="AlternativeTypeCode" role="listbox"><option value="">-</option>
+<option value="OFFICE_BOARD">&#218;radn&#225; tabuľa org&#225;nu verejnej moci</option>
+<option value="OTHER_SIMILAR_TYPE">In&#253; obdobn&#253; sp&#244;sob</option>
+<option value="PUBLIC_ANNOUNCEMENT">Verejn&#225; vyhl&#225;ška</option>
+<option value="WEB">Webov&#233; s&#237;dlo</option>
+</select>
+                        <span class="elementInfo">Choose alternative publication type</span>
+                    </div>
+                </div>
+
+                <div class="item1">
+                    <div><label class="searchLabel" for="DocumentTypeCode">Document type:</label></div>
+                    <div><select class="input-text-cuet" id="DocumentTypeCode" name="DocumentTypeCode"><option value="">-</option>
+<option value="EGOV_DOCUMENT">Elektronick&#253; &#250;radn&#253; dokument</option>
+<option value="OTHER_DOCUMENT">In&#253; elektronick&#253; dokument</option>
+</select>
+                        <span class="elementInfo">Choose document type</span>
+                    </div>
+                </div>
+            
+             </div>
+            
+             <div class="item1 button">
+                 <div><input type="submit" value="Search" class="input-button-red"/></div>
+             </div>
+                  
+         </div>
+</form>
+
+
+        <div class="searchPage searchError"><p> </p> </div>
+
+
+    
+    
+    </div>  
+
+    
+
+<div id="footer">
+    <div class="footerWrapper">
+        <div class="legal">
+            <div class="copyright">
+                © 2013 - 2026, Slovensko.sk
+                <br />
+                Information published at www.slovensko.sk are not legally binding.
+            </div>
+            <div class="operator">
+                Provider and webmaster of the portal is<br />
+                <a href="https://www.nases.gov.sk/kontakt/index.html">Národná agentúra pre sieťové a elektronické služby</a>.
+            </div>
+        </div>
+    </div>
+</div>
+
+   
+</body>
+</html>

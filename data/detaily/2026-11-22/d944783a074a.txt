@@ -1,0 +1,416 @@
+URL: https://cuet.slovensko.sk/en/dokument/5b1bc1da-de8d-415f-b41f-5f44dc61afda
+OBEC: Rudňany (Spišská Nová Ves)
+NÁZOV: Finančný Rozpočet na roky 2027- 2029 - NÁVRH
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/5b1bc1da-de8d-415f-b41f-5f44dc61afda
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Finančný Rozpočet na roky 2027- 2029 - NÁVRH
+Search publisher's RSS feeds
+Published on official board:
+Obec Rudňany (OVM)
+Published from:
+19.11.2026
+Registry symbol:
+Documents author:
+Obec Rudňany (OVM)
+Published to:
+14.12.2026
+Registry case:
+Name of official document:
+Finančný Rozpočet na roky 2027- 2029 - NÁVRH
+Document abstract:
+Bežný rozpočet 2027-2029.pdf
+[https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_1.pdf&original=Bežný rozpočet 2027-2029.pdf]_
+Typ: PDF dokument, Veľkosť: 3.53 MB_
+Finančné operácie 2027-2029 návrh.pdf
+[https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_2.pdf&original=Finančné operácie 2027-2029 návrh.pdf]_
+Typ: PDF dokument, Veľkosť: 157.91 kB_
+Kapitalový rozpočet 2027-2029 návrh.pdf
+[https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_3.pdf&original=Kapitalový rozpočet 2027-2029 návrh.pdf]_
+Typ: PDF dokument, Veľkosť: 444.95 kB_
+Rozpočet 2027-2029 návrh ZS.pdf
+[https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_4.pdf&original=Rozpočet 2027-2029 návrh ZS.pdf]_
+Typ: PDF dokument, Veľkosť: 264.44 kB_
+Rozpočet 2027-2029 návrh DSS.pdf
+[https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_5.pdf&original=R
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Rozpočet 2027-2029 návrh DSS.pdf
+Type and size:
+.pdf, 172.94 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Kapitalový rozpočet 2027-2029 návrh.pdf
+Type and size:
+.pdf, 444.95 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Finančné operácie 2027-2029 návrh.pdf
+Type and size:
+.pdf, 157.91 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Bežný rozpočet 2027-2029.pdf
+Type and size:
+.pdf, 3.53 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rozpočet 2027-2029 návrh Rekapituácia.pdf
+Type and size:
+.pdf, 127 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rozpočet 2027-2029 návrh ZS.pdf
+Type and size:
+.pdf, 264.44 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/ecdeddd1-a738-4fd6-8775-bb26b8fbfe90
+DSS RY
+
+
+
+Bežné príjmy
+                                                                                                                                                                  EUR
+ Hlavná Kategória                                                     Skutočné       Skutočné                     Očakávané
+Kategória                                 Text                         plnenie       plnenie        Rozpočet       plnenie       Rozpočet      Rozpočet     Rozpočet
+             Položka                                                    2024           2025           2026          2026           2027         2028          2029
+      200            Nedaňové príjmy                                         0,00      210 980,00    317 091,00    309 949,00     310 287,00   320 000,00    320 000,00
+          220        Príjem z poplatkov od klientov 72j                      0,00      142 552,00    208 731,00    202 752,00     202 876,00   208 000,00    208 000,00
+          220        Príjem z poplatkov od klientov 72f                                 70 000,00    108 360,00    102 597,00     102 661,00   112 000,00    112 000,00
+          290        Iné nedanové príjmy                                    0,00             0,00          0,00       4 600,00      4 750,00                       0,00
+          290        vratka                                                                                             640,25          0,00         0,00          0,00
+      300            Granty a tranfery                                      0,00         6 230,00      5 000,00       1 320,00      7 600,00     3 000,00      3 000,00
+          310        Dary                                                   0,00         6 230,00      5 000,00       1 320,00      2 000,00     3 000,00      3 000,00
+                                                                            0,00             0,00          0,00                     5 600,00         0,00          0,00
+                      Bežné príjmy spolu                                    0,00       210 980,00    322 091,00    311 269,00     317 887,00   323 000,00    323 000,00
+
+
+
+Bežné výdavky
+                                                                                                                                                                  EUR
+          Hlavná                            Text                      Skutočné       Skutočné                     Očakávané
+          Kategória                                                    plnenie       plnenie        Rozpočet       plnenie       Rozpočet      Rozpočet     Rozpočet
+                                                                        2024           2025           2026          2026           2027         2028          2029
+                  610 Mzdy, platy,služobné príjmy                                0        449668     445 855,00    441 528,00     504 000,00   510 000,00    510 000,00
+
+                  610 Mzdy, platy, služobné príjmy, príplatky - 111              0       200 000     399 120,00    290 000,00     330 000,00   350 000,00   350 000,00
+                  610 Mzdy, platy, služobné príjmy, príplatky 72j                0       204 750           0,00    151 528,00     174 000,00   160 000,00   160 000,00
+                  610 Mzdy, platy, služobné príjmy, príplatky 72f                0             0           0,00                         0,00         0,00         0,00
+                  610 Mzdy, platy, služobné príjmy, príplatky VZ                          44 918      46 735,00                         0,00         0,00         0,00
+                  620 Poistné a príspevok do poisťovní                           0        117952     162 978,00    161 865,00     182 384,00   173 100,00   173 100,00
+                  620 Poistné a príspevok do poisťovní 72J                                           158 947,00    100 000,00      28 876,00    40 000,00    40 000,00
+                  620 Poistné a príspevok do poisťovní 111                                                          48 864,00     120 408,00   100 000,00   100 000,00
+                  620 Poistné a príspevok do poisťovní VZ                        0        117952       4 031,00     13 001,00      33 100,00    33 100,00    33 100,00
+                  630 Tovary a služby                                            0        151806     162 200,00    136 548,00     130 411,00   136 400,00   136 400,00
+                  630 Stravovanie 72f                                                      70000     108 360,00    107 197,00     107 411,00   112 000,00   112 000,00
+                630 Tovary a služby 72j                                     63328     48 157,00      2 360,00         0,00      6 000,00       6 000,00
+                630 Tovary a služby 72a                                      2170      5 000,00      1 320,00     7 600,00      3 000,00       3 000,00
+                630 Tovary a služby 41                            0                      683,00     25 671,00    15 400,00     15 400,00      15 400,00
+                640 Bežné trasfery                                0        151806     21 794,00     25 828,00    26 500,00     26 500,00      26 500,00
+                640 bežné trasfery 72j                                                 1 627,00          0,00         0,00          0,00           0,00
+                640 bežné trasfery 41                                                 20 167,00     25 828,00    26 500,00     26 500,00      26 500,00
+                    Bežné výdavky spolu                      0,00       871 232,00   792 827,00    765 769,00   843 295,00    846 000,00     846 000,00
+
+Kapitálové výdavky
+
+         Hlavná                         Text           Skutočné       Skutočné                    Očakávané
+         Kategória                                      plnenie       plnenie        Rozpočet      plnenie      Rozpočet      Rozpočet       Rozpočet
+                                                         2024           2025           2026         2026          2027         2028           2029
+10.2.0          710 Obstáranie kapitákových aktív               0             4730            0             0             0              0            0
+                    Obstáranie kapitákových aktív 41            0             4730            0          5500         10000                          10
+                    Kapitálové výdavky spolu                 0,00         4 730,00         0,00      5 500,00     10 000,00         0,00          10,00
+?
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/c0e1f379-69e4-4726-a19b-118075d0c1aa
+Obec Rudňany
+
+Kapitálový rozpočet
+
+Kapitálové príjmy
+                                                                                                                                                                                    EUR
+ Hlavná     Kategória                             Text                           Skutočné        Skutočné                      Očakávané
+Kategória                                                                         plnenie         plnenie       Rozpočet        plnenie        Rozpočet        Rozpočet       Rozpočet
+                                                                                   2024            2025            2026           2026            2027           2028           2029
+      200             Nedaňové príjmy                                               82 114,09          464,00           0,00      10 510,22            0,00           0,00           0,00
+                  230 Kapitálové príjmy                                                                464,00           0,00      10 510,22            0,00           0,00           0,00
+                  233 Kapitálové príjmy-pozemky                                                        464,00           0,00       5 161,00            0,00           0,00           0,00
+                  231 Kapitálové príjmy - predaj aktív                             82 114,09             0,00           0,00       5 349,22            0,00           0,00           0,00
+      300             Granty a transfery                                          132 688,74    3 870 821,00    5 974 431,00   3 313 060,47    3 476 096,00   5 775 064,00   2 760 168,00
+                  310                                                                   0,00         2 334,00           0,00                                          0,00           0,00
+                  320 Tuzemské kapitálové granty a transfery                      132 688,74    3 868 487,00    5 974 431,00   3 313 060,47    3 476 096,00   5 775 064,00   2 760 168,00
+               322001 Dotácia na Novostavbu MŠ Zápalenica                                          70 000,00            0,00                           0,00           0,00           0,00
+               322001 Dotácia                                                     100 000,00             0,00           0,00                           0,00           0,00           0,00
+               322001 Dotácia na zvýšenie bezpečnosti                                                                   0,00       9 800,00            0,00
+               322001 Dotácia na odstrán.hav.stavu.plyn.kotol.                    100 000,00           0,00             0,00                           0,00           0,00           0,00
+               322001 Dotácia Zberný dvor                                                        366 492,00             0,00     349 179,21            0,00
+               322001 Dotácia na modernizáciu miestnej komunikácii                               199 775,00             0,00                           0,00
+               322001 Dotácia na vybudovanie ČOV                                                                2 000 000,00                   2 000 000,00   4 300 000,00
+               322001 Dotácia na rekonštrukciu mostného objektu                                                   418 096,00                     418 096,00
+               322001 Dotácia na zlepšenie podmienok bývania - PIARG I. etapa                                   1 000 000,00                   1 000 000,00     475 064,00
+               322001 Dotácia na zlepšenie podmienok bývania - PIARG II. etapa                                          0,00                           0,00   1 000 000,00   2 760 168,00
+               322001 Dotácia na zlepšenie vzdelávania žiakov ZS v MRK                                            629 105,00                           0,00
+               322001 Dotácia na obnovu kultúrnych pamiatok                                                                                       58 000,00
+               322001 Dotácia na vybudovanie oplotenia a vstupného chodníka             0,00            0,00            0,00      12 000,00            0,00
+               322001 Dotácia na odstránenie dvojzmennej prevádzky ZŠ             401 072,29    3 232 220,00    1 927 230,00   2 942 081,26            0,00           0,00           0,00
+                        Kapitálové príjmy spolu                                   214 802,83    3 871 285,00    5 974 431,00   3 323 570,69    3 476 096,00   5 775 064,00   2 760 168,00
+
+
+
+Kapitálové výdavky
+                                                                                                                                                                                    EUR
+Funkčná Hlavná                                      Text                         Skutočné       Skutočné                       Očakávané
+Klasifikácia Kategória                                                            plnenie        plnenie        Rozpočet        plnenie        Rozpočet        Rozpočet       Rozpočet
+               Kategória                                                           2024           2025            2026           2026            2027           2028            2029
+01           700         Všeobecné verejné služby                                   10982,40      36 703,46        4 075,00        2 526,93           0,00           0,00            0,00
+01.1.1                   Výkonné a zákonodarné orgány                               10982,40      36 703,46        4 075,00        2 526,93           0,00           0,00            0,00
+                     710 Obstarávanie kapitálových aktív                             5491,20      36 703,46        4 075,00        2 526,93           0,00           0,00            0,00
+                     713 Obstarávanie kapitálových aktív                             5491,20      12 703,46        4 075,00        2 526,93           0,00           0,00            0,00
+                 713004 Nákup ihriskovej zostavy                                         0,00       8 628,46           0,00             0,00          0,00           0,00            0,00
+                 713002 Nákup - Smart Kiosk Galileo                                  5491,20        4 075,00       4 075,00        2 526,93           0,00           0,00            0,00
+                     714 nákup osobného motorového vozidla                               0,00     15 000,00            0,00             0,00          0,00           0,00            0,00
+                     714 nákup nákladného vozidla                                        0,00       9 000,00           0,00             0,00          0,00           0,00            0,00
+03           700         Verejný poriadok a bezpečnosť                                     1
+                                                                                    16511,78      16 219,00            0,00             0,00          0,00           0,00            0,00
+03.2.0                   Ochrana pred požiarmi                                      16511,78            0,00           0,00             0,00          0,00           0,00            0,00
+                     710 Obstarávanie kapitálových aktív                            16511,78      16 219,00            0,00             0,00          0,00           0,00            0,00
+                 713 Obstarávanie kapitálových aktív                                 2506,80         0,00            0,00           0,00           0,00           0,00           0,00
+                 714 nákup osobného motorového vozidla                                  0,00         0,00            0,00           0,00           0,00           0,00           0,00
+                 717 Obstarávanie kapitálových aktív                                14004,98         0,00            0,00           0,00           0,00           0,00           0,00
+              717002 Rekonštrukcia a modernizácia has. Zbrojnice                    14004,98         0,00            0,00           0,00           0,00           0,00           0,00
+              717002 Územný plán obce - zmeny a doplnky                                 0,00         0,00            0,00           0,00           0,00           0,00           0,00
+04       700         Ekonomická oblasť                                                690,00   212 744,63            0,00     27 278,12            0,00           0,00           0,00
+04.5.1               Cestná doprava                                                   690,00   199 744,63            0,00     17 278,12            0,00           0,00           0,00
+                 710 Obstarávanie kapitálových aktív                                  690,00   199 744,63            0,00      17278,12            0,00           0,00           0,00
+                 713 Obstarávanie kapitálových aktív                                    0,00         0,00            0,00           0,00           0,00           0,00           0,00
+                 717 Obstarávanie kapitálových aktív                                  690,00    199744,63            0,00      17278,12            0,00           0,00           0,00
+              717002 Rekonštrukcia ciest a chodníko v obci                            690,00    199744,63            0,00           0,00           0,00           0,00
+              717001 Rekonštrukcia ciest a chodníko v obci                              0,00         0,00            0,00     17 278,12            0,00           0,00           0,00
+04.4.3               Výstavba                                                           0,00     13000,00            0,00     10 000,00            0,00           0,00           0,00
+                 710 Obstarávanie kapitálových aktív                                    0,00     13000,00            0,00     10 000,00            0,00           0,00           0,00
+05       700         Ochrana životného prostredia                                     550,00   444 819,70    2 000 000,00    229 767,68    2 000 000,00   4 300 000,00           0,00
+05.1.0               Nakladanie s odpadmi                                             550,00    366492,00            0,00    135 764,68            0,00           0,00           0,00
+                 710 Obstarávanie kapitálových aktív                                  550,00    366492,00            0,00    135 764,68            0,00           0,00           0,00
+05.2.0               Nakladanie s odpadmi                                               0,00     78327,70     2000000,00       94003,00     2000000,00     4300000,00            0,00
+                 710 Obstarávanie kapitálových aktív                                    0,00     78327,70     2000000,00            0,00    2000000,00     4300000,00            0,00
+                 710 Vybudovanie ČOV                                                    0,00         0,00    2 000 000,00           0,00   2 000 000,00    4300000,00            0,00
+                 710 Realizácia nových stavieb                                          0,00     78327,70            0,00           0,00           0,00           0,00           0,00
+                 711 Obstarávanie kapitálových aktív - nákup pozemkov                                                         24 868,00            0,00           0,00           0,00
+                 716 Obstarávanie kapitálových aktív - PD Čov                                                                 67 035,00            0,00           0,00
+                 717 Obstarávanie kapitálových aktív - vybudovanie kanalizácie                                                  2 100,00           0,00
+06       700         Bývanie a občianska vybavenosť                                 87220,00   170 556,00    1 310 000,00     39 726,19    1 000 000,00    1475064,00     2760168,00
+06.1.0               Rozvoj bývania                                                 87220,00   159 828,00    1 310 000,00     31 023,08    1 000 000,00   1 475 064,00   2 760 168,00
+                 710 Obstarávanie kapitálových aktív                                87220,00   218 130,00    1 310 000,00     31 023,08    1 000 000,00    1475064,00     2760168,00
+             711,712 Nákup pozemkov a nehnuteľnosti                                 10000,00   138 000,00        10 000,00    20 000,00            0,00           0,00           0,00
+              711001 Nákup pozemkov                                                     0,00          0,00            0,00          0,00           0,00           0,00           0,00
+              711001 Nákup pozemkov od Železníc SR                                      0,00          0,00            0,00          0,00           0,00           0,00           0,00
+              711001 Nákup pozemkov od Cirkvi                                        5000,00      5 000,00        5 000,00    15 000,00            0,00           0,00           0,00
+              711001 Nákup pozemkov - úver                                              0,00    35 000,00             0,00          0,00           0,00           0,00           0,00
+              712001 Nákup stavby od Železníc SR                                        0,00          0,00            0,00          0,00           0,00           0,00           0,00
+              712001 Nákup budovy od Cirkvi                                          5000,00      5 000,00        5 000,00      5 000,00           0,00           0,00           0,00
+              712001 Nákup stavyb od FO - rod. Dom pri ZPS                              0,00    90 000,00             0,00          0,00           0,00           0,00           0,00
+              717002 Vybudovnie prakoviska v časti Huta - úver                          0,00      3 000,00            0,00          0,00           0,00           0,00           0,00
+                 716 Projekty                                                       73720,00    20 000,00             0,00          0,00           0,00
+                 716 Projekty- úver                                                     0,00    58 302,00             0,00          0,00           0,00          0,00           0,00
+                 717 Rekonštrukcie                                                   3500,00       1828,00    1300000,00       11023,08     1000000,00     1475064,00     2760168,00
+              717002 zvýšenie bezpečnosti v obci RY                                     0,00          0,00            0,00     10573,08            0,00
+              717003 Prístavby, nadstavby, stavebné úpravy - Piarg I. etapa          3500,00       1828,00      300000,00         450,00           0,00          0,00           0,00
+              717003 Prístavby, nadstavby, stavebné úpravy - Piarg I. etapa -111        0,00          0,00    1000000,00            0,00    1000000,00      475064,00           0,00
+              717003 Prístavby, nadstavby, stavebné úpravy - Piarg II. Etapa -111       0,00          0,00            0,00          0,00           0,00    1000000,00     2760168,00
+06.2.0               Rozvoj obcí                                                        0,00          0,00            0,00          0,00           0,00          0,00           0,00
+                 710 Obstarávanie kapitálových aktív                                    0,00          0,00            0,00          0,00           0,00          0,00           0,00
+                 717 Výstavba centra obce                                               0,00          0,00            0,00          0,00           0,00          0,00           0,00
+06.6.0               Bývanie a občianska vybavenosť inde neklasifiková                  0,00    10 728,00             0,00      8 703,11           0,00          0,00           0,00
+                 710 Obstarávanie kapitálových aktív                                 2568,00
+                                                                                          2
+                                                                                                 10728,00             0,00       8703,11           0,00          0,00           0,00
+                 713 Nákup klimatizácie zdravotné stredisko                             0,00       3126,83            0,00          0,00           0,00          0,00           0,00
+                 713 Nákup šmykalky - VZ                                             2568,00          0,00            0,00          0,00           0,00          0,00           0,00
+                 717 Zvedenie daždovej vody BD 513,514, studna 5 RPII                   0,00       7601,17            0,00      8 703,11           0,00          0,00           0,00
+07                Zdravotníctvo                                                         0,00            0,00           0,00           0,00          0,00   0,00   0,00
+07.2.1            Zdravotné stredisko                                                   0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                       0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              717 Rekonštrukcia Zdravotného strediska - dotácia                         0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              717 Rekonštrukcia Zdravotného strediska - VZ                              0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              717 Rekonštrukcia Zdravotného strediska - VH                              0,00            0,00           0,00           0,00          0,00   0,00   0,00
+08                Služby obyvateľom                                                68 182,75      10 851,54            0,00       3 109,12     63 000,00   0,00   0,00
+08.1.0            Rekreačné a športové služby                                      14 400,00            0,00           0,00       3 109,12          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                  14 400,00            0,00           0,00       3 109,12          0,00   0,00   0,00
+              713 svetelna tabula                                                       0,00            0,00           0,00       1 710,00          0,00   0,00   0,00
+              717 rekonštrukcia                                                         0,00            0,00           0,00       1 399,12          0,00   0,00   0,00
+08.2.0            Kultúrne služby- ROCHUS                                          53 782,75        5 000,00           0,00           0,00     63 000,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                  53 782,75        5 000,00           0,00           0,00     63 000,00   0,00   0,00
+              710 obnova kult. pamiatok - dotácia                                       0,00            0,00           0,00           0,00     58 000,00   0,00   0,00
+              710 obnova kult. pamiatok                                                 0,00            0,00           0,00           0,00      5 000,00   0,00   0,00
+08.4.0            Dom smútku, cintorín                                                  0,00         5851,54           0,00           0,00          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                       0,00         5851,54           0,00           0,00          0,00   0,00   0,00
+09                Materské školy                                                   79 877,86   3 330 109,70    2 974 431,00   2 987 844,04   418 096,00    0,00   0,00
+09.1.1.1          Predprimárne vzdelávanie                                         34 719,06            0,00           0,00         947,60          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                  34 719,06            0,00           0,00         947,60          0,00   0,00   0,00
+              713 nákup pre MŠ                                                     23 146,04            0,00           0,00           0,00          0,00   0,00   0,00
+              716 PD nová MS                                                            0,00            0,00           0,00         947,60          0,00   0,00   0,00
+              717 Rekonštrukcia Materská škola                                     11 573,02            0,00           0,00           0,00          0,00   0,00   0,00
+           717002 rekonštrukcia kurenia MŠ 5 RPII                                  11 573,02            0,00           0,00           0,00          0,00   0,00   0,00
+09.1.2            Primárne vzdelávanie                                              44858,80       18000,00      629 105,00           0,00          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                  44 858,80      18 000,00      629 105,00           0,00          0,00   0,00   0,00
+              717 Rekonštrukcia telocvične                                              0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              717 Rekonštrukcia plynovej kontolne                                       0,00            0,00           0,00           0,00          0,00   0,00   0,00
+           717002 Rekoštrukcia ZŠ - zníženie energenticke náročnosti               15 000,00            0,00           0,00           0,00          0,00   0,00   0,00
+           717002 Rekoštrukcia ZŠ - &Ihrisko 111                                        0,00            0,00     629 105,00           0,00          0,00   0,00   0,00
+           717002 Rekoštrukcia ZŠ - &Ihrisko                                       29 858,80      18 000,00            0,00           0,00          0,00   0,00   0,00
+09.1.2.1          Primárne vzdelávanie s bežnou starostlivosťou                         0,00   3 239 287,70    2 345 326,00   2 986 896,44   418 096,00    0,00   0,00
+              710 Obstarávanie kapitálových aktív                                       0,00    3239287,70      2345326,00     2986896,44     418096,00    0,00   0,00
+           713004 Nákup kosačky pre ZŠ                                                  0,00        7 067,70           0,00           0,00          0,00   0,00   0,00
+              716 PD most pri ZS                                                        0,00            0,00           0,00         615,00          0,00   0,00   0,00
+           717002 odstránenie dvojzmennej prevádzky ZŠ -111+41                          0,00   3 232 220,00    1 927 230,00   2 946 881,64          0,00   0,00   0,00
+           717002 Oplotenie pri ZS                                                      0,00            0,00           0,00      14 306,60          0,00   0,00   0,00
+           717002 kanalizácia pri ZS                                                    0,00            0,00           0,00      14 999,08          0,00   0,00   0,00
+           717002 kamerový systém nová ZS                                               0,00            0,00           0,00      10 094,12          0,00   0,00   0,00
+           717002 oprava mosta pri ZŚ                                                   0,00            0,00     418 096,00           0,00   418 096,00    0,00   0,00
+09.2.1            Nižšie sekundárne vzdelávanie                                       300,00      72 822,00            0,00           0,00          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                     300,00      72 822,00            0,00           0,00          0,00   0,00   0,00
+              717 Rekoštrukčia a modernizácia Jedáleň                                 300,00            0,00           0,00           0,00          0,00   0,00   0,00
+           717002 Zostattok prostriedkov - odst.hav.stavu elektro ZŠ                    0,00      72 822,00            0,00           0,00          0,00   0,00   0,00
+09.2.1.1          Nižšie sekundárne vzdelávanie všeobecné s bežnou starostlivosťou      0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                       0,00            0,00           0,00           0,00          0,00   0,00   0,00
+09.6.0            Vedľajšie služby v školstve                                           0,00            0,00           0,00           0,00          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                                       0,00
+                                                                                          3
+                                                                                                        0,00           0,00           0,00          0,00   0,00   0,00
+10                Staroba - vývarovňa                                           1 967 847,77      50 608,00            0,00      11 511,93          0,00   0,00   0,00
+10.2.0            Staroba - vývarovňa                                           1 967 847,77      50 608,00            0,00       6 162,71          0,00   0,00   0,00
+              710 Obstarávanie kapitálových aktív                               1 965 276,10      50 608,00            0,00       6 162,71          0,00   0,00   0,00
+            713 Návkup tovaru                                           104 680,80           13 885,00            0,00           0,00           0,00           0,00         0,00
+         713004 Nákup robota vývarovňa                                      6 600,00               0,00           0,00           0,00           0,00           0,00         0,00
+         713004 nákup zariadenia pre DSS                                  98 080,80                0,00           0,00           0,00           0,00           0,00         0,00
+         713004 Nákup verného kotla pre vývarovňu                               0,00               0,00           0,00           0,00           0,00           0,00         0,00
+         713004 nákup zariadenia pre DSS - HV                              23096,64             8885,00           0,00           0,00           0,00           0,00         0,00
+         713004 Prevázdkov stroje                                               0,00            5000,00           0,00           0,00           0,00           0,00         0,00
+            717 Rekonštrukcia skladov                                           0,00               0,00           0,00           0,00           0,00           0,00         0,00
+            717 Rekonštrukcia                                          1860595,30             36723,00            0,00        6162,71           0,00           0,00         0,00
+         717002 Rekonštrukcia zariadenia pre seniorov - VZ,uver          175015,35                 0,00           0,00        6162,71           0,00           0,00         0,00
+         717002 Rekonštrukcia a modernizácia - odplata za záruku             8743,23           2 367,00           0,00           0,00           0,00           0,00         0,00
+         717002 Rekonštrucia Vývarovne                                          0,00         27 441,00            0,00           0,00           0,00           0,00         0,00
+         717002 Rekonštrucia Vývarovne                                     19059,31                0,00           0,00           0,00           0,00           0,00         0,00
+         717002 Rekonštrukcia a modernizácia - odplata za záruku HV             0,00           6 915,00           0,00           0,00           0,00           0,00         0,00
+         717002 Rekonštrukcia zariadenia pre seniorov - ŠFRB           1657777,41                  0,00           0,00           0,00           0,00           0,00         0,00
+         717002 Rekonštrukcia zariadenia pre seniorov - Kont. Úver              0,00               0,00           0,00           0,00           0,00           0,00         0,00
+10.9.0          Sociálne služby                                                 0,00               0,00           0,00        5349,22           0,00           0,00         0,00
+            710 Obstaranie kapitálových aktív                                   0,00               0,00           0,00       5 349,22           0,00           0,00         0,00
+         713004 práčky                                                          0,00               0,00           0,00       5 349,22           0,00           0,00         0,00
+
+                Kapitálové výdavky spolu                              2 231 862,56         4 272 612,03   6 288 506,00   3 301 764,01   3 481 096,00   5 775 064,00   2760168,00
+
+
+
+
+                                                                                       p
+
+
+
+
+                                                                                 4
+5
+6
+7
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/7a767542-f384-4069-99dc-acc8241e6384
+Obec Rudňany
+
+
+Finančné operácie
+
+Finančné operácie príjmové
+                                                                                                                                                                       EUR
+ Hlavná Kategória                           Text                   Skutočné              Skutočné                      Očakávané
+Kategória                                                           plnenie               plnenie        Rozpočet       plnenie       Rozpočet      Rozpočet      Rozpočet
+             Položka                                                 2024                  2025            2026          2026          2027           2028         2029
+      400             Príjmy z transakcií                           212 682,00            478 836,00            0,00    526 773,30          0,00           0,00         0,00
+                  410 Od nefinačného subjektu pre Rupod                                          0,00           0,00           0,00         0,00           0,00         0,00
+                  450 Z ostatných finančných operácií               212 682,00            478 836,00            0,00    526 773,30          0,00           0,00         0,00
+                  453 Zostatok prostriedkov z predchádzajúcich        2 773,00            235 312,00            0,00    403 625,28          0,00           0,00         0,00
+                  454 Prevod prostriedkov z peňažných fondov        109 909,00            243 524,00            0,00     97 148,02          0,00           0,00         0,00
+                  456 Prijaté finančné zábezpeky                    100 000,00                   0,00           0,00     26 000,00          0,00           0,00         0,00
+      500             Prijaté úvery, pôžičky                      1 721 548,06          2 194 000,00     300 000,00            0,00         0,00           0,00         0,00
+                  510 Tuzemské úvery, pôžičky a návratné finančné výpomoci0,00          1 097 000,00     300 000,00            0,00         0,00           0,00         0,00
+                  513 Ostatné úvery, pôžičky -krátkodobé             65 248,66          1 097 000,00     300 000,00            0,00         0,00           0,00         0,00
+                  514 Ostatné úvery, pôžičky – dlhodobé           1 656 299,40                   0,00           0,00           0,00         0,00           0,00         0,00
+                          Príjmové operácie spolu                        1 934 230,06   2 672 836,00     300 000,00     526 773,30          0,00          0,00          0,00
+
+
+
+Finančné operácie výdavkové
+                                                                                                                                                                       EUR
+Funkčná      Hlavná                            Text                       Skutočné       Skutočné                      Očakávané
+Klasifikácia Kategória                                                     plnenie       plnenie         Rozpočet       plnenie       Rozpočet      Rozpočet      Rozpočet
+                  Položka                                                   2024           2025            2026          2026          2027           2028         2029
+01           800           Všeobecné verejné služby                       243 830,41     225 330,00         149 407        163 245       186 844    186 824,00    186 824,00
+01.7.0                     Transakcie verejného dlhu                      243 830,41     225 330,00         149 407        163 245       186 844    186 824,00    186 824,00
+                       810 Úvery, pôžičky, návratné finančné výpomoci,    100 000,00      21 105,00             0,00     26 000,00           0,00          0,00         0,00
+                       820 Splácanie istín                                 143830,41     204 225,00          149407         137245        186844        186824       186824
+
+                 821005 Splácanie dlh.úveru - VuB rekoštrukcia VO          17 884,00              0,00         0,00           0,00          0,00          0,00          0,00
+                        Splácanie dlh. Úveru - VUB nový úver Hatri
+                 821005 a byty                                             29 722,00         32 424,00    32 424,00      24 318,00     32 424,00     32 424,00     32 424,00
+
+                 821005 Splácanie dlh.úveru - VuB investičný úver                0,00             0,00    36 360,00      18 180,00     72 720,00     72 720,00     72 720,00
+
+                                                                                         1
+       Z ost.úverov - ŠFRB 20 b. j. starý úver 471-
+821007 472                                             10 165,04       10 667,00   11 140,00    9 250,44   11 700,00   11 700,00   11 700,00
+
+821007 Z ostatný úverov - ŠFRB 29 b. j. BZ             20 810,71       21 048,00   21 254,00   17 698,23   21 500,00   21 500,00   21 500,00
+821007 Z ostatný úverov - ŠFRB DSS                          0,00       41 387,00   46 249,00   38 530,66   46 500,00   46 500,00   46 500,00
+821007 Z ostatný úverov - ŠFRB DSS - vybavenie              0,00        1 699,00    1 980,00    1 648,51    2 000,00    1 980,00    1 980,00
+821010 Splátka kontokorentného úveru                   65 248,66       97 000,00        0,00   27 619,22        0,00        0,00        0,00
+
+        Výdavkové operácie spolu                      243 830,41   225 330,00       149 407     163 245     186 844     186 824     186 824
+
+
+
+
+                                                                   2
+    6060
+3
+
