@@ -68,6 +68,10 @@ DOCTYPES = [
     ("Uznesenie / zápisnica", r"uznesen\w*|zapisnic\w*"),
     ("Verejné obstarávanie", r"verejn\w* obstarav\w*|vyzv\w* na predloz\w*|prieskum trhu|zakazk\w*|vyzv\w* na predkladan\w* ponuk"),
     ("Návrh VZN / zámer", r"\bvzn\b|zamer\w*|navrh\w*"),
+    ("Stavebný zámer / konanie", r"stavebn\w* zamer\w*|oznamen\w* o zacat\w* (stavebn|konan)\w*|zacat\w* konani\w* o stavebn\w*|"
+                                 r"stavebn\w* povolen\w*|ohlasen\w* (drobn\w* )?stavb\w*|uzemn\w* rozhodnut\w*"),
+    ("Objednávka PD / štúdie", r"objednav\w*[^.]{0,80}(projektov\w* dokumentaci|stud(ia|ie|iu)|architekton)\w*|"
+                               r"vypracovan\w* (projektov\w* dokumentaci|stud(ie|ia|iu))\w*"),
 ]
 DOCTYPE_RE = [(n, re.compile(p)) for n, p in DOCTYPES]
 

@@ -27,6 +27,9 @@ SEEN = os.path.join(DATA, "cuet_seen.json")
 OUT = os.path.join(DATA, "cuet_latest.json")
 DEBUG = os.path.join(DATA, "cuet_debug.html")
 MAX_PAGES = 80
+# fulltextové hľadanie v dokumentoch CUET (nájde aj prílohy – rozpočty, zápisnice, výzvy)
+FULLTEXT = ["ihrisko", "ihriska", "workout", "multifunkčné", "oplotenie", "mobiliár", "lavičky", "zastávka",
+            "revitalizácia", "oddychová zóna", "náučný chodník", "pumptrack", "stavebný zámer", "dopadová plocha"]
 MAX_ATTACH = 3
 PAUSE = 0.7
 
@@ -63,7 +66,10 @@ def inst_key(name):
     """'Obec Nižný Hrušov (OVM)' -> 'nizny hrusov'; 'Mestská časť Košice-Juh' -> 'kosice juh'."""
     n = bot.norm(name)
     n = re.sub(r"\(.*?\)", " ", n)
-    n = re.sub(r"^\s*(obecny urad|mestsky urad|miestny urad|obec|mesto|mestska cast)\s+", "", n)
+    # CUET píše aj „Obec X - Zverejňovanie na CUET“ alebo „Zverejňovanie na CUET - obec X“
+    n = re.sub(r"zverejnovanie\s+na\s+cuet|uradna\s+tabula|elektronicka\s+uradna\s+tabula", " ", n)
+    n = re.sub(r"^[\s\-–,:]+|[\s\-–,:]+$", "", n)
+    n = re.sub(r"^\s*(obecny urad|mestsky urad|miestny urad|statutarne mesto|obec|mesto|mestska cast)\s+", "", n)
     n = re.sub(r"[-–,]", " ", n)
     return " ".join(n.split())
 
@@ -127,6 +133,7 @@ def main():
     prvy_beh = not seen
 
     stats = {"strany": 0, "dokumenty": 0, "nasich": 0, "chyby": []}
+    unmatched = {}
     nase = []
     for page in range(1, MAX_PAGES + 1):
         try:
@@ -157,6 +164,7 @@ def main():
             inst = field(it["text"], "institucia") or field(it["text"], "autor")
             o = idx.get(inst_key(inst))
             if not o:
+                unmatched[inst] = unmatched.get(inst, 0) + 1
                 continue
             it.update(obec=o, institucia=inst, datum=d, nazov=field(it["text"], "nazov"),
                       abstrakt=field(it["text"], "abstrakt"), spis=field(it["text"], "spis"))
@@ -164,6 +172,36 @@ def main():
         if datumy and max(datumy) < od:
             break
         time.sleep(PAUSE)
+
+    # Fulltextové vyhľadávanie v CUET podľa našich tém (celé SR, potom filter na naše obce)
+    for q in FULLTEXT:
+        for page in range(1, 6):
+            params = {"DocumentPublishedFrom": od.strftime("%d.%m.%Y"), "FullText": q}
+            if page > 1:
+                params["page"] = page
+            try:
+                r = bot.session.get(BASE + "/en", params=params, timeout=40)
+            except Exception as e:
+                stats["chyby"].append(f"fulltext {q}: {type(e).__name__}")
+                break
+            items = list_items(r.text)
+            stats["fulltext_" + q] = stats.get("fulltext_" + q, 0) + len(items)
+            for it in items:
+                if it["uuid"] in seen or any(x["uuid"] == it["uuid"] for x in nase):
+                    continue
+                inst = field(it["text"], "institucia") or field(it["text"], "autor")
+                o = idx.get(inst_key(inst))
+                if not o:
+                    continue
+                it.update(obec=o, institucia=inst, datum=parse_date(field(it["text"], "od")), nazov=field(it["text"], "nazov"),
+                          abstrakt=field(it["text"], "abstrakt"), spis=field(it["text"], "spis"), fulltext=q)
+                nase.append(it)
+            if len(items) < 10:
+                break
+            time.sleep(PAUSE)
+
+    # diagnostika: najčastejšie inštitúcie, ktoré sa nepodarilo priradiť (na doladenie párovania)
+    stats["nezaradene_ukazka"] = sorted(unmatched, key=lambda k: -unmatched[k])[:25]
 
     # RSS ako doplnkový zdroj (ak stránkovanie nepustí ďalej ako na 1. stranu)
     for ru in RSS_URLS:

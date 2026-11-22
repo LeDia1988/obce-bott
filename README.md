@@ -39,3 +39,18 @@ Nová téma: „Inkluzívne / bezbariérové“.
 Trvalý zoznam projektov (ID KE-Z-xxx / PO-Z-xxx, priorita A/B/C, stav, suma, projektant,
 míľnik, zdroj, kontakt, krok). Ranný report pridáva nové zámery a aktualizuje existujúce;
 hlási len nové záznamy a podstatné zmeny. Stĺpec `stav_obchodu` je pre vlastné poznámky.
+
+## Modul 4 – `detaily.py` (stiahnutie zdrojov nálezov)
+Po bot.py, zdroje.py a cuet.py stiahne pre dnešné nálezy zdrojovú stránku a súvisiace dokumenty
+(PDF zápisníc, rozpočtov, výziev; pri ÚVO aj karty Dokumenty/Oznámenia a detail v IS EVO s lehotou)
+a uloží ich text do `data/detaily/<dátum>/<id>.txt`. Index s kľúčovými údajmi (lehota, hodnota, kontakt,
+financovanie, stavebný zámer, dodávateľ) je v `data/detaily_latest.json`. Ranná úloha v Claude overuje
+nálezy z týchto textov. Staršie ako 14 dní sa mažú.
+
+## Zmeny 22. 11. 2026
+- CUET: opravené párovanie inštitúcií („Obec X - Zverejňovanie na CUET“) + fulltextové hľadanie tém; v `cuet_latest.json` je `nezaradene_ukazka` na kontrolu.
+- CRZ a ÚVO: objednávateľ môže byť aj PSK/KSK alebo škola/organizácia so sídlom v našej obci.
+- obce.csv: pridané weby PSK a KSK (uznesenia zastupiteľstva, obstarávanie kraja a škôl).
+- bot.py: nové typy dokumentov „Stavebný zámer / konanie“ a „Objednávka PD / štúdie“.
+- Denný beh presunutý na 0:23 UTC, aby dáta boli hotové pred ranným reportom.
+- `tools/diag.py` + workflow „Diagnostika zdrojov“: stiahne zadané URL do vetvy `diag-data` (ladenie parserov, overenie zdroja).

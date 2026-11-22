@@ -94,6 +94,28 @@ def match_obec(text):
     return best
 
 
+VUC = {"presov": {"nazov": "Prešovský samosprávny kraj", "okres": "Prešov", "kraj": "Prešovský kraj"},
+       "kosic": {"nazov": "Košický samosprávny kraj", "okres": "Košice", "kraj": "Košický kraj"}}
+SCHOOL = re.compile(r"\bskol\w*|gymnazi\w*|\bsos\b|\bzs\b|\bms\b|centrum volneho casu|\bcvc\b|domov socialnych|sprava ciest|"
+                    r"kniznic\w*|muze\w*|divadl\w*|hvezdaren\w*|osvetov\w*|kulturn\w* centr\w*|sportov\w* klub\w*")
+
+
+def vuc_org(text):
+    """Objednávateľ je samosprávny kraj (PSK/KSK) alebo škola/organizácia so sídlom v našej obci."""
+    t = norm(text)
+    if "samospravn" in t and "kraj" in t:
+        for k, v in VUC.items():
+            if k in t:
+                return v
+    if SCHOOL.search(t):
+        m = re.split(r",", t, 1)
+        o = match_obec(m[1]) if len(m) > 1 else None
+        o = o or match_obec(re.sub(SCHOOL, " ", t))
+        if o:
+            return {**o, "nazov": f'{o["nazov"]} – {text.strip()[:80]}'}
+    return None
+
+
 def firmy():
     p = os.path.join(ROOT, "firmy.csv")
     if not os.path.exists(p):
@@ -143,7 +165,7 @@ def uvo(seen):
             if uid in seen:
                 continue
             seen.add(uid)
-            o = match_obec(obst)
+            o = match_obec(obst) or vuc_org(obst)
             if not (EAST.search(norm(nuts)) or o):
                 continue
             if not REL.search(norm(nazov)) or NEG.search(norm(nazov)):
@@ -267,7 +289,7 @@ def crz(seen):
             if uid in seen:
                 continue
             seen.add(uid)
-            o = match_obec(z["objednavatel"])
+            o = match_obec(z["objednavatel"]) or vuc_org(z["objednavatel"])
             if not o or not REL.search(norm(z["nazov"])) or NEG.search(norm(z["nazov"])):
                 continue
             z.update({"obec": o["nazov"], "okres": o["okres"],
