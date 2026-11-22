@@ -135,6 +135,7 @@ def fetch(it):
     for _, u, _t in sorted(scored, key=lambda x: -x[0]):
         if u not in picked:
             picked.append(u)
+    seen_sig = set()
     for u in picked[:MAX_LINKED + (4 if m else 0)]:
         try:
             low = u.lower().split("?")[0]
@@ -143,7 +144,9 @@ def fetch(it):
             else:
                 rr = bot.get(u)
                 t = full_text(bot.soup_of(rr)) if "html" in rr.headers.get("content-type", "").lower() else bot.doc_text(u)
-            if t:
+            sig = hashlib.sha1(t[:5000].encode("utf-8", "ignore")).hexdigest() if t else ""
+            if t and sig not in seen_sig and t[:2000] not in page:
+                seen_sig.add(sig)
                 parts.append(f"=== ODKAZ {u}\n{t[:40000]}")
                 files.append({"url": u, "typ": "odkaz", "znakov": len(t)})
         except Exception as e:

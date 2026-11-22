@@ -137,7 +137,8 @@ def main():
     nase = []
     for page in range(1, MAX_PAGES + 1):
         try:
-            r = bot.get(BASE + "/en" if page == 1 else LIST_URL.format(page))
+            # zoznam s dátumom od (bez neho CUET ráno/cez víkend ukazuje prázdny zoznam)
+            r = bot.session.get(BASE + "/en", params={"DocumentPublishedFrom": od.strftime("%d.%m.%Y"), **({"page": page} if page > 1 else {})}, timeout=40)
             if "/chyba" in r.url or "can not be displayed" in r.text:
                 stats["chyby"].append(f"strana {page}: CUET vrátil chybovú stránku")
                 if page == 1:
