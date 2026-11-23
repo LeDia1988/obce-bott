@@ -1,154 +1,111 @@
 {
- "datum": "2026-11-22",
- "vygenerovane": "2026-11-22T08:57:43",
- "poloziek": 93,
- "stiahnutych": 88,
- "chyb": 5,
+ "datum": "2026-11-23",
+ "vygenerovane": "2026-11-23T09:06:01",
+ "poloziek": 59,
+ "stiahnutych": 58,
+ "chyb": 1,
  "polozky": [
   {
-   "id": "7523a66065c8",
-   "zdroj": "web obce",
-   "obec": "Adidovce",
-   "okres": "Humenné",
-   "title": "Stiahnuť súbor Z Á P I S N I C A z 27. zasadnutia doc (1) Veľkosť a typ súboru 140 KB / PDF",
-   "url": "https://obecadidovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/z-a-p-i-s-n-i-c-a-z-27.-zasadnutia-doc-1-a0gu2s.pdf",
+   "id": "43c07caca6ac",
+   "zdroj": "CUET",
+   "obec": "Bačkovík",
+   "okres": "Košice",
+   "title": "Návrh VZN obce Bačkovík č. 2/2027 o miestnych daniach na rok 2027",
+   "url": "https://cuet.slovensko.sk/en/dokument/2fe7ec3c-14bc-4a82-911c-3dc96c32f9ad",
    "subory": [
     {
-     "url": "https://obecadidovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/z-a-p-i-s-n-i-c-a-z-27.-zasadnutia-doc-1-a0gu2s.pdf",
-     "typ": "dokument",
-     "znakov": 4766
+     "url": "https://cuet.slovensko.sk/en/dokument/2fe7ec3c-14bc-4a82-911c-3dc96c32f9ad",
+     "typ": "stránka",
+     "znakov": 1365
+    },
+    {
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/9a21fb57-27e0-4341-8dcd-06fa5ac4c6c8",
+     "typ": "odkaz",
+     "znakov": 8794
     }
    ],
    "chyba": "",
-   "znakov": 4766,
-   "subor": "data/detaily/2026-11-22/7523a66065c8.txt",
+   "znakov": 10337,
+   "subor": "data/detaily/2026-11-23/43c07caca6ac.txt",
    "kluc": {
     "kontakt": [
-     "teľstva v Adidovciach zo dňa 13.11.2026. Prítomní : podľa prezenčnej listiny, ktorá je súčasťou zápisni",
-     "teľstva otvorila starostka obce Mgr. Lenka Hudáková, ktorá privítala poslancov OZ. Skontrolovala, či je",
-     "teľa, voľba overovateľov zápisnice, kontrola uznášania schopnosti OZ 2. Voľba návrhovej komisie 3. Kont"
-    ],
-    "financovanie": [
-     "dotácie na oplotenie cintorína z MIRRI – Milión pre malé obce, o potrebe pre jednania a popísaní dodatku č. 3 k zmluve o poskytovaní služieb č. ZM-"
+     "teľstvo v BAČKOVÍKU v zmysle § 4 ods. 3 písm. c) , § 6 a §11 ods. 4 písm. d), e) a g) zákona č. 369/199",
+     "teľnosti sú ustanovené v § 4 a nasl. zákona č. 582/2004 Z.z. o miestnych daniach a miestnom poplatku za",
+     "teľností. §3 Predmet úpravy VZN Predmetom tohto všeobecne záväzného nariadenia je určenie náležitosti m"
     ]
    }
   },
   {
-   "id": "6821bd2056b7",
+   "id": "ba80b7fea1f2",
    "zdroj": "web obce",
-   "obec": "Adidovce",
-   "okres": "Humenné",
-   "title": "Stiahnuť súbor Z Á P I S N I C A z 26. zasadnutia doc Veľkosť a typ súboru 171 KB / PDF",
-   "url": "https://obecadidovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/z-a-p-i-s-n-i-c-a-z-26.-zasadnutia-doc-gnankd.pdf",
+   "obec": "Beloveža",
+   "okres": "Bardejov",
+   "title": "Obvodové športové hry Beloveža 2026! Miesto: Futbalové ihrisko Beloveža Čas: Uskutočnila sa Pi 8.5 09:00",
+   "url": "https://beloveza.com/udalosti/nezaradene/obvodove-sportove-hry-beloveza-2026/",
    "subory": [
     {
-     "url": "https://obecadidovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/z-a-p-i-s-n-i-c-a-z-26.-zasadnutia-doc-gnankd.pdf",
-     "typ": "dokument",
-     "znakov": 5228
+     "url": "https://beloveza.com/udalosti/nezaradene/obvodove-sportove-hry-beloveza-2026/",
+     "typ": "stránka",
+     "znakov": 4132
+    },
+    {
+     "url": "https://beloveza.com/mobilny-rozhlas/?message=6ac6534b7b7d4d2cde229298",
+     "typ": "odkaz",
+     "znakov": 4247
     }
    ],
    "chyba": "",
-   "znakov": 5228,
-   "subor": "data/detaily/2026-11-22/6821bd2056b7.txt",
+   "znakov": 8552,
+   "subor": "data/detaily/2026-11-23/ba80b7fea1f2.txt",
    "kluc": {
     "kontakt": [
-     "teľstva v Adidovciach zo dňa 28.09.2026. Prítomní : podľa prezenčnej listiny, ktorá je súčasťou zápisni",
-     "teľstva otvorila starostka obce Mgr. Lenka Hudáková, ktorá privítala poslancov OZ. Skontrolovala, či je",
-     "teľa, voľba overovateľov zápisnice, kontrola uznášania schopnosti OZ 2. Voľba návrhovej komisie 3. Kont"
-    ],
-    "financovanie": [
-     "dotáciu do 10 000€, ktorá by sa použila na opravu interiéru Domu smútku. Starostka obce zhrnula nadobudnutý majetok a dotácie za roky 2023,2024,202",
-     "dotácie Rok 2023 - Výzva poslancov PSK 1 800,00 Eur - MIRRI SR 31 200,00 Eur Rok 2024 - Výzva poslancov PSK na spevnené plochy pri DS 1 300,00 Eur"
+     "teľňa tlačív Pre občanov Fotogaléria Obec v obraze Zber odpadu Sklo 25. nov streda Plasty a kovy 02. de",
+     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od",
+     ". Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Odhlásiť sa alebo zmeniť nastav"
     ]
    }
   },
   {
-   "id": "8128fd48e5c5",
+   "id": "0e15ae216db0",
    "zdroj": "web obce",
-   "obec": "Bardejov",
+   "obec": "Beloveža",
    "okres": "Bardejov",
    "title": "Nový text na stránke",
-   "url": "https://www.bardejov.sk/mestsky-urad/projekty-podane",
+   "url": "https://beloveza.com/",
    "subory": [
     {
-     "url": "https://www.bardejov.sk/mestsky-urad/projekty-podane",
+     "url": "https://beloveza.com/",
      "typ": "stránka",
-     "znakov": 8900
+     "znakov": 6156
     },
     {
-     "url": "https://www.bardejov.sk/samosprava/vzn-mesta-bardejov",
+     "url": "https://beloveza.com/udalosti/nezaradene/obvodove-sportove-hry-beloveza-2026/",
      "typ": "odkaz",
-     "znakov": 2931
+     "znakov": 4132
     },
     {
-     "url": "https://www.bardejov.sk/kultura-a-sport/posko-slovensky-dom",
+     "url": "https://beloveza.com/aktuality/nezaradene/zapis-deti-do-materskej-skoly-v-belovezi/",
      "typ": "odkaz",
-     "znakov": 6166
+     "znakov": 4067
     },
     {
-     "url": "https://www.bardejov.sk/parkovanie-v-bardejove",
+     "url": "https://beloveza.com/udalosti/nezaradene/vystup-na-belovezske-hory-2026/",
      "typ": "odkaz",
-     "znakov": 3846
+     "znakov": 4111
     }
    ],
    "chyba": "",
-   "znakov": 22105,
-   "subor": "data/detaily/2026-11-22/8128fd48e5c5.txt",
+   "znakov": 18771,
+   "subor": "data/detaily/2026-11-23/0e15ae216db0.txt",
    "kluc": {
     "kontakt": [
-     "teľstvo Orgány zastupiteľstva Hlavný kontrolór mesta VZN mesta Bardejov Základné dokumenty mesta Mestsk",
-     "teľňa Ochrana osobných údajov - GDPR Zverejňovanie informácií Ako vybaviť Smernica o oznamovaní protisp",
-     "teľňa Harmonogram zberu komunálnych odpadov, vrátane separovaného zberu BARDEJOV kedysi a dnes Úradná t"
+     "teľov Duchnoviča a Pavloviča Miesto: Areál kultúrneho domu v Beloveži Čas: Uskutočnila sa Ne 21.6 14:00",
+     "teľov Duchnoviča a Pavloviča 12. jún 2026 BELOVEŽA FOLK FEST 2026! 12. jún 2026 Dotácia z výzvy Riešeni",
+     "teľňa tlačív Pre občanov Fotogaléria Obec v obraze Aktuality Oznam! 22. nov 2026 OZNAM 17. nov 2026 Smú"
     ],
     "financovanie": [
-     "dotácia: 126 486 € „Pomník vďaky a priateľstva v Bardejove“ Výzva na predkladanie žiadostí o poskytnutie regionálneho príspevku pre prioritný okres",
-     "dotácia: 80 231,67 € „Prestavba budovy bývalej nemocnice na kultúrnospoločenské centrum v Bardejove“ Granty EHP 2021–2028 Slovenská republika - výz",
-     "dotácia: 4 250 000,00 € „Zvýšenie ochrany pred požiarmi v Bardejove“ Ministerstvo vnútra SR - Výzva číslo III. PHaZZ 2026 – podpora zvýšenia ochran"
-    ]
-   }
-  },
-  {
-   "id": "01b0683592f7",
-   "zdroj": "web obce",
-   "obec": "Bardejov",
-   "okres": "Bardejov",
-   "title": "Nový text na stránke",
-   "url": "https://www.bardejov.sk/samosprava/zakl-dokumenty-mesta",
-   "subory": [
-    {
-     "url": "https://www.bardejov.sk/samosprava/zakl-dokumenty-mesta",
-     "typ": "stránka",
-     "znakov": 3312
-    },
-    {
-     "url": "https://www.bardejov.sk/index.php?option=com_content&view=article&id=1756:smernica-na-urcenie-pravidiel-objektivneho-posudenia-ziadosti-o-poskytnutie-dotacie-z-rozpoctu-mesta-bardejov&catid=132:zakladne-dokumenty-mesta",
-     "typ": "odkaz",
-     "znakov": 9162
-    },
-    {
-     "url": "https://www.bardejov.sk/index.php?option=com_content&view=article&id=2889:rokovaci-poriadok-stalych-komisii-msz&catid=132:zakladne-dokumenty-mesta",
-     "typ": "odkaz",
-     "znakov": 3512
-    },
-    {
-     "url": "https://www.bardejov.sk/index.php?option=com_content&view=article&id=2887:rokovaci-poriadok-msz&catid=132:zakladne-dokumenty-mesta",
-     "typ": "odkaz",
-     "znakov": 3464
-    }
-   ],
-   "chyba": "",
-   "znakov": 20051,
-   "subor": "data/detaily/2026-11-22/01b0683592f7.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstvo Orgány zastupiteľstva Hlavný kontrolór mesta VZN mesta Bardejov Základné dokumenty mesta Mestsk",
-     "teľňa Ochrana osobných údajov - GDPR Zverejňovanie informácií Ako vybaviť Smernica o oznamovaní protisp",
-     "teľňa Harmonogram zberu komunálnych odpadov, vrátane separovaného zberu BARDEJOV kedysi a dnes Úradná t"
-    ],
-    "financovanie": [
-     "DOTÁCIE Z ROZPOČTU MESTA BARDEJOV ROKOVACÍ PORIADOK MESTSKÉHO ZASTUPITEĽSTVA ROKOVACÍ PORIADOK MESTSKEJ RADY ROKOVACÍ PORIADOK STÁLYCH KOMISIÍ MEST",
-     "dotacie-z-rozpoctu-mesta-bardejov&catid=132:zakladne-dokumenty-mesta Mesto Bardejov - Smernica na určenie pravidiel objektívneho posúdenia žiadosti",
-     "dotácie z rozpočtu mesta Bardejov Mesto Bardejov - svetové dedičstvo UNESCO Aktuality / Kontakty Bardejov Mesto Bardejov Viac o: Mesto Bardejov O m"
+     "dotácii z Ministerstva financií SR! 23. júl 2026 Naša škola sa mení na moderné centrum environmentálnej výchovy! 10. júl 2026 BELOVEŽA FOLK FEST 20",
+     "Dotácia z výzvy Riešenie potravinovej dostupnosti 28. máj 2026 Poskytnutá dotácia z výzvy poslancov PSK 28. máj 2026 Deň matiek 2026! Aktuality / F"
     ]
    }
   },
@@ -168,7 +125,7 @@
    ],
    "chyba": "",
    "znakov": 30090,
-   "subor": "data/detaily/2026-11-22/28462470a418.txt",
+   "subor": "data/detaily/2026-11-23/28462470a418.txt",
    "kluc": {
     "hodnota": [
      "PHZ-OPK1-2018-002880 | PDF | 2.51 Mb Dátum vyvesenia: 10.10.2025 Zmluva o nájme nebytového priestoru | PDF | 1.27 Mb Dátum"
@@ -186,437 +143,112 @@
    }
   },
   {
-   "id": "cb367dae18f4",
-   "zdroj": "web obce",
-   "obec": "Bijacovce",
-   "okres": "Levoča",
-   "title": "Nový text na stránke",
-   "url": "https://www.bijacovce.sk/faktury",
+   "id": "6be43dcf93c9",
+   "zdroj": "CUET",
+   "obec": "Boľ",
+   "okres": "Trebišov",
+   "title": "Návrh VZN o určení výšky FP na mzdy a prevádzku dieťa, žiaka a poslucháča v ZUŠ, JŠ a školskom zariadení na rok 2027",
+   "url": "https://cuet.slovensko.sk/en/dokument/29af6217-5344-4297-a780-fb66a280710e",
    "subory": [
     {
-     "url": "https://www.bijacovce.sk/faktury",
+     "url": "https://cuet.slovensko.sk/en/dokument/29af6217-5344-4297-a780-fb66a280710e",
      "typ": "stránka",
-     "znakov": 2066
+     "znakov": 1535
     },
     {
-     "url": "https://www.bijacovce.sk/",
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/2e0eea86-51b2-4c81-a12b-7df5788fba1a",
      "typ": "odkaz",
-     "znakov": 1417
-    },
-    {
-     "url": "https://www.bijacovce.sk/nasa-obec",
-     "typ": "odkaz",
-     "znakov": 737
-    },
-    {
-     "url": "https://www.bijacovce.sk",
-     "typ": "odkaz",
-     "znakov": 1417
+     "znakov": 26596
     }
    ],
    "chyba": "",
-   "znakov": 5804,
-   "subor": "data/detaily/2026-11-22/cb367dae18f4.txt",
+   "znakov": 28309,
+   "subor": "data/detaily/2026-11-23/6be43dcf93c9.txt",
    "kluc": {
     "kontakt": [
-     "teľ : Obec Bijacovce Dodávateľ : T-MAPY s.r.o. 369.00 € 2026327 hudobné vystúpenie - Deň úcty k starším O",
-     "teľ : Obec Bijacovce Dodávateľ : Muzikanti s. r. o. 1 700.00 € 2026326 vyúčtovanie elektrickej energie za",
-     "teľ : Obec Bijacovce Dodávateľ : MET Slovakia a. s. 326.19 € 2026325 automonitor 12/2026 Odberateľ : Obec"
+     "teľstva č. ................. dňa ................... . Schválené VZN vyvesené na úradnej tabuli: od ...",
+     "teľ: JUDr. Atila Bohács, LL.M., Bc. Ildikó Nagyová Obec BOĽ a obecné zastupiteľstvo obce Boľ vo veciach",
+     "teľom Základnej školy s materskou školou s VJM v Boli (ďalej len „ZŠ“) s právnou subjektivitou a prevád"
     ],
-    "dodavatel": [
-     "Dodávateľ : T-MAPY s.r.o. 369.00 € 2026327 hudobné vystúpenie - Deň úcty k starším Odberateľ : Obec Bijacovce Dodávateľ : Muzikanti",
-     "Dodávateľ : MET Slovakia a. s. 326.19 € 2026325 automonitor 12/2026 Odberateľ : Obec Bijacovce Dodávateľ : INFOCAR a. s. 15.87 € 20",
-     "Dodávateľ : Darina Ničová 1 300.00 € 2026323 motorový vysávač VECR 26/307 Odberateľ : Obec Bijacovce Dodávateľ : Halcin a Halcin,s."
+    "financovanie": [
+     "financovania ZŠ a MŠ v zriaďovateľskej pôsobnosti obce, b) výšku finančných prostriedkov na kalendárny rok na mzdy, odvody a bežnú prevádzku na žiaka po",
+     "financovanie ŠJ a ŠKD, d) deň v mesiaci, v ktorom obec poskytne finančné prostriedky ZŠ. Článok III Podrobnosti financovania originálnych kompetencií na",
+     "dotácie 1. Príjemcom dotácie podľa tohto nariadenia je: a) Školský klub detí (ŠKD) a školská jedáleň (ŠJ), ktorých zriaďovateľom je poskytovateľ (o"
     ]
    }
   },
   {
-   "id": "87d32f085ccd",
+   "id": "714de85e57ec",
    "zdroj": "CUET",
    "obec": "Boľ",
    "okres": "Trebišov",
-   "title": "Návrh VZN o miestnych daniach na území obce Boľ",
-   "url": "https://cuet.slovensko.sk/en/dokument/499e749b-e68b-49b3-a88b-3ccdd6c4cb9f",
+   "title": "Návrh rozpočtu Obce Boľ a RO ZŠ s MŠ s VJM v Boli na roky 2027,2028,2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/f75b91eb-8417-4dbc-9d0c-18bbfba9073a",
    "subory": [
     {
-     "url": "https://cuet.slovensko.sk/en/dokument/499e749b-e68b-49b3-a88b-3ccdd6c4cb9f",
+     "url": "https://cuet.slovensko.sk/en/dokument/f75b91eb-8417-4dbc-9d0c-18bbfba9073a",
      "typ": "stránka",
-     "znakov": 1324
+     "znakov": 2397
     },
     {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/4dbe1b7d-f636-4035-a5cb-72e8199e7a94",
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/e2251af9-bbbe-4026-9c34-22a28f26f9a4",
      "typ": "odkaz",
-     "znakov": 14462
+     "znakov": 27817
     },
     {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/4dbe1b7d-f636-4035-a5cb-72e8199e7a94",
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/552fbab5-e7de-4b6d-a24d-5d15e8e034ef",
      "typ": "odkaz",
-     "znakov": 14462
+     "znakov": 353
+    },
+    {
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/2ac76e32-a6c4-4132-ad82-ec25c75c4888",
+     "typ": "odkaz",
+     "znakov": 20990
     }
    ],
    "chyba": "",
-   "znakov": 30519,
-   "subor": "data/detaily/2026-11-22/87d32f085ccd.txt",
+   "znakov": 51917,
+   "subor": "data/detaily/2026-11-23/714de85e57ec.txt",
    "kluc": {
     "kontakt": [
-     "teľstvo v Boli podľa § 6 ods. 1 a § 11 ods. 4 písm. d) zákona SNR č. 369/1990 Zb. o obecnom zriadení v",
-     "teľstva č. .................. dňa .................. VZN vyvesené na úradnej tabuli obce dňa: od ......",
-     "telia: JUDr. Atila Bohács, LL.M. Brezo Zoltán Obecné zastupiteľstvo v Boli podľa § 6 ods. 1 a § 11 ods."
+     "TEĽNOSTÍ 11 295,76 12 216,70 11 950,- 11 950,- 11 950,- 11 950,- 11 950,- 41 R 133001 Dan za psa 655,-",
+     "telny 67,50 150,- 150,- 500,- 500,- 500,- 223 *** POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO 4 526,95 5 0",
+     "TELO Zo štátneho rozpočtu 111 R 312001 MFFNM Zo št.rozpočtu okrem transf.na úhradu ná 2 500,- 3 000,- 1"
     ]
    }
   },
   {
-   "id": "3a6665a1887a",
-   "zdroj": "CUET",
-   "obec": "Boľ",
-   "okres": "Trebišov",
-   "title": "VZN o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce Boľ",
-   "url": "https://cuet.slovensko.sk/en/dokument/ae3db725-7b58-4332-9267-c71f726d56dc",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/ae3db725-7b58-4332-9267-c71f726d56dc",
-     "typ": "stránka",
-     "znakov": 1378
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/4ed37f2e-4e8f-42b1-b879-507826a496fb",
-     "typ": "odkaz",
-     "znakov": 38347
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/4ed37f2e-4e8f-42b1-b879-507826a496fb",
-     "typ": "odkaz",
-     "znakov": 38347
-    }
-   ],
-   "chyba": "",
-   "znakov": 78343,
-   "subor": "data/detaily/2026-11-22/3a6665a1887a.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva č. .................. dňa .................. VZN vyvesené na úradnej tabuli obce dňa: od ......",
-     "telia: JUDr. Atila Bohács Bc. Ildikó Nagyová VŠEOBECNE ZÁVÄZNÉ NARIADENIE obce Boľ č. .................",
-     "teľov odpadu v oblasti nakladania s komunálnym odpadom, vrátane triedenia zbieraných zložiek komunálneh"
-    ]
-   }
-  },
-  {
-   "id": "21722f1d92a6",
+   "id": "f663243fae04",
    "zdroj": "web obce",
    "obec": "Bukovce",
    "okres": "Stropkov",
    "title": "Nový text na stránke",
-   "url": "https://www.obecbukovce.sk/uradna-tabula",
+   "url": "https://www.obecbukovce.sk/archiv-faktur",
    "subory": [
     {
-     "url": "https://www.obecbukovce.sk/uradna-tabula",
+     "url": "https://www.obecbukovce.sk/archiv-faktur",
      "typ": "stránka",
-     "znakov": 1476
-    }
-   ],
-   "chyba": "",
-   "znakov": 1529,
-   "subor": "data/detaily/2026-11-22/21722f1d92a6.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva 06.11. 2026 Zber elektroodpadu 10.11.2026 21.10. 2026 Čo robiť v prípade krízy alebo ozbrojenéh",
-     "teľstva PSK 17.09. 2026 Zoznam zaregistrovaných kandidátov pre voľby predsedu PSK 14.09. 2026 Pozvánka",
-     "teľstva 07.09. 2026 Zoznam zaregistrovaných kandidátov pre voľby starostu obce 1 2 3 4 5 6 7 8 9 10 11"
-    ]
-   }
-  },
-  {
-   "id": "2083166c1728",
-   "zdroj": "CUET",
-   "obec": "Drienica",
-   "okres": "Sabinov",
-   "title": "Návrh VZN 1/2026",
-   "url": "https://cuet.slovensko.sk/en/dokument/944eff26-fd88-4fd6-86c3-be297d6e40f9",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/944eff26-fd88-4fd6-86c3-be297d6e40f9",
-     "typ": "stránka",
-     "znakov": 1357
+     "znakov": 14222
     },
     {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/45e7cfec-6ee7-4f63-bd6a-7dae291d8c92",
+     "url": "https://www.obecbukovce.sk/cyrilometodejsky-trojramenny-greckokatolicky-kriz-a33-6",
      "typ": "odkaz",
-     "znakov": 11846
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/45e7cfec-6ee7-4f63-bd6a-7dae291d8c92",
-     "typ": "odkaz",
-     "znakov": 11846
+     "znakov": 2959
     }
    ],
    "chyba": "",
-   "znakov": 25320,
-   "subor": "data/detaily/2026-11-22/2083166c1728.txt",
+   "znakov": 17329,
+   "subor": "data/detaily/2026-11-23/f663243fae04.txt",
    "kluc": {
     "kontakt": [
-     "e-mailovú adresu: obec@drienica.sk Fyzické a právnické osoby môžu k návrhu všeobecne záväzného nariadenia",
-     "teľ nariadenia prihliadať, a to najmä vtedy, ak nie sú zdôvodnené. Vyhodnotenie pripomienok uskutoční na",
-     "teľ nariadenia. Termín rokovania obecného zastupiteľstva, na ktorom sa bude prerokovávať všeobecne záväz"
-    ]
-   }
-  },
-  {
-   "id": "e9934e1474ae",
-   "zdroj": "web obce",
-   "obec": "Drienica",
-   "okres": "Sabinov",
-   "title": "NÁVRH Všeobecne záväzné nariadenie Obce Drienica č. 1/2026 o miestnom poplatku za komunálne odpady a drobné stavebné odpady",
-   "url": "https://www.ocu.drienica.sk/Z_dokumenty/Vzn/2026/navrh_VZN_1_2026_odpad.pdf",
-   "subory": [
-    {
-     "url": "https://www.ocu.drienica.sk/Z_dokumenty/Vzn/2026/navrh_VZN_1_2026_odpad.pdf",
-     "typ": "dokument",
-     "znakov": 11848
-    }
-   ],
-   "chyba": "",
-   "znakov": 11848,
-   "subor": "data/detaily/2026-11-22/e9934e1474ae.txt",
-   "kluc": {
-    "kontakt": [
-     "e-mailovú adresu: obec@drienica.sk Fyzické a právnické osoby môžu k návrhu všeobecne záväzného nariadenia",
-     "teľ nariadenia prihliadať, a to najmä vtedy, ak nie sú zdôvodnené. Vyhodnotenie pripomienok uskutoční na",
-     "teľ nariadenia. Termín rokovania obecného zastupiteľstva, na ktorom sa bude prerokovávať všeobecne záväz"
-    ]
-   }
-  },
-  {
-   "id": "f9b18126819a",
-   "zdroj": "web obce",
-   "obec": "Dúbravka",
-   "okres": "Michalovce",
-   "title": "Zápisnica OZ zo dňa 01.06.2026 | 0.22 Mb",
-   "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/zapisnice/2026-11-20-140634-Z__pisnica__OZ_z_01.06.2026.pdf",
-   "subory": [
-    {
-     "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/zapisnice/2026-11-20-140634-Z__pisnica__OZ_z_01.06.2026.pdf",
-     "typ": "dokument",
-     "znakov": 5585
-    }
-   ],
-   "chyba": "",
-   "znakov": 5585,
-   "subor": "data/detaily/2026-11-22/f9b18126819a.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva obce Dúbravka zo dňa 01.06.2026 Prítomní: starosta obce: Ing. Stanislav Bajužik poslanci OZ: In",
-     "teľa, navrhovateľa a overovateľov zápisnice 3. Kontrola plnenia uznesení 4. Schválenie odpredaja pozemk",
-     "teľa 5. Výročná správa za rok 2025 6. Určenie rozsahu výkonu funkcie starostu pre nasledujúce volebné o"
-    ]
-   }
-  },
-  {
-   "id": "71b29b34b673",
-   "zdroj": "web obce",
-   "obec": "Dúbravka",
-   "okres": "Michalovce",
-   "title": "Zápisnica OZ zo dňa 30.09.2026 | 0.22 Mb",
-   "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/zapisnice/2026-11-20-140803-Z__pisnica__OZ_z_30.09.2026.pdf",
-   "subory": [
-    {
-     "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/zapisnice/2026-11-20-140803-Z__pisnica__OZ_z_30.09.2026.pdf",
-     "typ": "dokument",
-     "znakov": 4771
-    }
-   ],
-   "chyba": "",
-   "znakov": 4771,
-   "subor": "data/detaily/2026-11-22/71b29b34b673.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva obce Dúbravka zo dňa 30.09.2026 Prítomní: starosta obce: Ing. Stanislav Bajužik poslanci OZ: Vi",
-     "teľa, navrhovateľa a overovateľov zápisnice 3. Kontrola plnenia uznesení 4. Rozpočtové opatrenie č. 3/2",
-     "teľ: Ľ. Vartašová, navrhovateľ: Ing. Marek Gaľa, overovatelia: Bc. Daniela Hüblerová, Mgr. Lukáš Šaffo."
+     "teľské faktúry. Zoznam faktúr prijatých september 2022. 04.10.2022 | 0.37 Mb Dodávateľské faktúry. Zozn",
+     "teľské faktúry. Zoznam faktúr prijatých júl 2022. 01.08.2022 | 0.37 Mb Dodávateľské faktúry. Zoznam fak",
+     "teľské faktúry. Zoznam faktúr prijatých máj 2022. 09.06.2022 | 0.38 Mb Dodávateľské faktúry. Zoznam fak"
     ],
-    "financovanie": [
-     "nenávratný finančný príspevok. - Rekonštrukcia obecného úradu a kultúrneho domu – pripravuje sa projektová dokumentácia. Poslanci vzali na vedomie informácie o menovanýc"
-    ]
-   }
-  },
-  {
-   "id": "5b34a7c2d619",
-   "zdroj": "web obce",
-   "obec": "Dúbravka",
-   "okres": "Michalovce",
-   "title": "Uznesenia OZ z 30.09.2026 | 0.2 Mb",
-   "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/uznesenia/2026-11-20-141008-Uznesenia_zo_zasadnutia_obecn__ho_zastupite__stva_30.09.2026.pdf",
-   "subory": [
-    {
-     "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/uznesenia/2026-11-20-141008-Uznesenia_zo_zasadnutia_obecn__ho_zastupite__stva_30.09.2026.pdf",
-     "typ": "dokument",
-     "znakov": 1364
-    }
-   ],
-   "chyba": "",
-   "znakov": 1364,
-   "subor": "data/detaily/2026-11-22/5b34a7c2d619.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva v Dúbravke konaného dňa 30.09.2026 Uznesenie č. 97/2026 Obecné zastupiteľstvo v Dúbravke schvaľ",
-     "teľstvo v Dúbravke schvaľuje: - Zabezpečenie finančných prostriedkov na spolufinancovanie realizácie pr",
-     "teľstvo v Dúbravke berie na vedomie: 1.) Informáciu o prebiehajúcich a pripravovaných projektoch 2.) Ku"
-    ],
-    "financovanie": [
-     "financovanie realizácie projektu „Modernizácia miestnych komunikácií v obci Dúbravka“ vo výške 8 % z celkovej sumy oprávnených výdavkov projektu (16.080",
-     "financovania prípadných neoprávnených výdavkov projektu Hlasovanie: za: Viliam Červenák, Ing. Marek Gaľa, Bc. Daniela Hüblerová, Mgr. Peter Novák, Mgr."
-    ]
-   }
-  },
-  {
-   "id": "6edd1c03abb6",
-   "zdroj": "web obce",
-   "obec": "Geča",
-   "okres": "Košice",
-   "title": "Nový text na stránke",
-   "url": "https://www.obecgeca.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-faktury-objednavky-do-konca-roka-2013/zmluvy/",
-   "subory": [
-    {
-     "url": "https://www.obecgeca.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-faktury-objednavky-do-konca-roka-2013/zmluvy/",
-     "typ": "stránka",
-     "znakov": 3346
-    },
-    {
-     "url": "https://www.obecgeca.sk/e_download.php?file=data/editor/88sk_2.pdf&original=Zmluva+o+dielo+-+web+str%C3%A1nka+obce+Ge%C4%8Da.pdf",
-     "typ": "odkaz",
-     "znakov": 6
-    },
-    {
-     "url": "https://www.obecgeca.sk/e_download.php?file=data/editor/88sk_55.pdf&original=Zmluva+o+dielo+%C4%8D.01+LE+2013-Detsk%C3%A9+ihrisko+v+obci+Ge%C4%8Da.pdf",
-     "typ": "odkaz",
-     "znakov": 7
-    },
-    {
-     "url": "https://www.obecgeca.sk/e_download.php?file=data/editor/88sk_42.pdf&original=Zmluva+o+poskytnut%C3%AD+NFP-Detsk%C3%A9+ihrisko+Ge%C4%8Da.pdf",
-     "typ": "odkaz",
-     "znakov": 16
-    }
-   ],
-   "chyba": "",
-   "znakov": 3960,
-   "subor": "data/detaily/2026-11-22/6edd1c03abb6.txt",
-   "kluc": {
-    "kontakt": [
-     "teľnosti Zmluva o úvere-eurofondy č.03/011/13 Kúpna zmluva zo dňa 2.9.2013-predaj parcely č.90/34 Zmluv",
-     "teľnosti-VVS, a.s. Zmluva o budúcej zmluve-vecné bremeno VVS,a.s. Dodatok k zmluve s DDS-16.5.2011 Kúpn",
-     "tel.: 055 / 699 98 21, 0911 403 352 email: ougeca@obecgeca.sk História obce Geča leží v Košickom kraji na"
-    ],
-    "financovanie": [
-     "dotácie-SZCH Geča Zmluva o poskytnutí dotácie SZCH Košice-okolie Zmluva o vykonaní auditorských služieb Zmluva CVČ- Mesto Košice Zmluva o dielo 7/2",
-     "dotácie-Stolnotenisový oddiel Valaliky Zmluva CVČ - obec Čaňa Zmluva o odbere prenosných batérii Zmluva o dielo č.01/LE/2013 - Detské ihrisko v obc",
-     "dotácie-ZŠ Valaliky Zmluva o poskytovaní poradenských služieb Zmluva o termínovanom úvere Kúpna zmluva zo dňa 17.4.2013 Zmluva o Municipálnom úvere"
-    ]
-   }
-  },
-  {
-   "id": "4e428dfcaa65",
-   "zdroj": "web obce",
-   "obec": "Hertník",
-   "okres": "Bardejov",
-   "title": "Raslavice – Kapušany pri Prešove_26.11.26",
-   "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Raslavice-Kapusany-pri-Presove_26.11.26.pdf",
-   "subory": [
-    {
-     "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Raslavice-Kapusany-pri-Presove_26.11.26.pdf",
-     "typ": "dokument",
-     "znakov": 2623
-    }
-   ],
-   "chyba": "",
-   "znakov": 2623,
-   "subor": "data/detaily/2026-11-22/4e428dfcaa65.txt",
-   "kluc": {
-    "kontakt": [
-     "teľnej schránky (nevzťahuje sa na psov so špeciálnym výcvikom sprevádzajúcich osoby so zdravotným posti",
-     "e-mailom na info@slovakrail.sk a prostredníctvom online chatu na www.zssk.sk. • Preprava príručnej batožin"
-    ]
-   }
-  },
-  {
-   "id": "beefc3c6d620",
-   "zdroj": "web obce",
-   "obec": "Hertník",
-   "okres": "Bardejov",
-   "title": "Kapušany pri Prešove – Šarišské Lúky _24.11.26",
-   "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Kapusany-pri-Presove-Sarisske-Luky-_24.11.26.pdf",
-   "subory": [
-    {
-     "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Kapusany-pri-Presove-Sarisske-Luky-_24.11.26.pdf",
-     "typ": "dokument",
-     "znakov": 2836
-    }
-   ],
-   "chyba": "",
-   "znakov": 2836,
-   "subor": "data/detaily/2026-11-22/beefc3c6d620.txt",
-   "kluc": {
-    "kontakt": [
-     "teľnej schránky (nevzťahuje sa na psov so špeciálnym výcvikom sprevádzajúcich osoby so zdravotným posti",
-     "e-mailom na info@slovakrail.sk a prostredníctvom online chatu na www.zssk.sk. • Preprava príručnej batožin"
-    ]
-   }
-  },
-  {
-   "id": "109fae9b774e",
-   "zdroj": "CUET",
-   "obec": "Hodkovce",
-   "okres": "Košice",
-   "title": "Návrh VZN o miestnych daniach na území obce Hodkovce",
-   "url": "https://cuet.slovensko.sk/en/dokument/900c69c6-ff84-463d-a297-e60c7e865ce2",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/900c69c6-ff84-463d-a297-e60c7e865ce2",
-     "typ": "stránka",
-     "znakov": 1364
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/ed9b4083-b21e-4d95-a95a-ecd7790126e4",
-     "typ": "odkaz",
-     "znakov": 19202
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/ed9b4083-b21e-4d95-a95a-ecd7790126e4",
-     "typ": "odkaz",
-     "znakov": 19202
-    }
-   ],
-   "chyba": "",
-   "znakov": 40039,
-   "subor": "data/detaily/2026-11-22/109fae9b774e.txt",
-   "kluc": {
-    "kontakt": [
-     "ľností, ktorá zahŕňa daň z pozemkov a daň zo stavieb, b) miestnu daň za psa, c) miestnu daň za užívanie",
-     "ľností sa v súlade s § 17a zákona o miestnych daniach navrhujú tieto jednotlivé časti obce Hodkovce: a)",
-     "ĽNOSTÍ §3 Hodnota pozemkov (1) Správca dane podľa § 7 ods. 6 zákona o miestnych daniach ustanovuje hodn"
-    ]
-   }
-  },
-  {
-   "id": "2a0a6d08edd5",
-   "zdroj": "web obce",
-   "obec": "Hodkovce",
-   "okres": "Košice",
-   "title": "Stiahnuť súbor Hodkovce_VZN_miestne_dane_2027_NAVRH_na_zverejnenie_Variant_A Veľkosť a typ súboru 987 KB / PDF",
-   "url": "https://hodkovce.eu/wp-content/uploads/dokumenty/navrhy-vzn/hodkovce_vzn_miestne_dane_2027_navrh_na_zverejnenie_variant_a-56qv1f.pdf",
-   "subory": [
-    {
-     "url": "https://hodkovce.eu/wp-content/uploads/dokumenty/navrhy-vzn/hodkovce_vzn_miestne_dane_2027_navrh_na_zverejnenie_variant_a-56qv1f.pdf",
-     "typ": "dokument",
-     "znakov": 19202
-    }
-   ],
-   "chyba": "",
-   "znakov": 19202,
-   "subor": "data/detaily/2026-11-22/2a0a6d08edd5.txt",
-   "kluc": {
-    "kontakt": [
-     "ľností, ktorá zahŕňa daň z pozemkov a daň zo stavieb, b) miestnu daň za psa, c) miestnu daň za užívanie",
-     "ľností sa v súlade s § 17a zákona o miestnych daniach navrhujú tieto jednotlivé časti obce Hodkovce: a)",
-     "ĽNOSTÍ §3 Hodnota pozemkov (1) Správca dane podľa § 7 ods. 6 zákona o miestnych daniach ustanovuje hodn"
+    "dodavatel": [
+     "Dodávateľské faktúry. Zoznam faktúr prijatých september 2022. 04.10.2022 | 0.37 Mb Dodávateľské faktúry. Zoznam faktúr prijatých augu",
+     "Dodávateľské faktúry. Zoznam faktúr prijatých júl 2022. 01.08.2022 | 0.37 Mb Dodávateľské faktúry. Zoznam faktúr prijatých jún 2022.",
+     "Dodávateľské faktúry. Zoznam faktúr prijatých máj 2022. 09.06.2022 | 0.38 Mb Dodávateľské faktúry. Zoznam faktúr prijatých apríl 2022"
     ]
    }
   },
@@ -631,7 +263,7 @@
     {
      "url": "https://www.obecjablon.sk/dokumenty/",
      "typ": "stránka",
-     "znakov": 100549
+     "znakov": 100528
     },
     {
      "url": "https://www.obecjablon.sk/wp-content/uploads/2025/03/Vseobecne-zavazne-nariadenie-obce-o-parkovani-NAVRH.pdf",
@@ -651,7 +283,7 @@
    ],
    "chyba": "",
    "znakov": 88495,
-   "subor": "data/detaily/2026-11-22/571c347691a8.txt",
+   "subor": "data/detaily/2026-11-23/571c347691a8.txt",
    "kluc": {
     "kontakt": [
      "TEĽSTVO OBCE JABLOŇ Prípona súboru: pdf 16-11-2026 Veľkosť súboru: 182 kB Usmernenie hlavného hygienika",
@@ -676,7 +308,7 @@
     {
      "url": "https://www.obecjablon.sk/dokumenty/",
      "typ": "stránka",
-     "znakov": 100529
+     "znakov": 100569
     },
     {
      "url": "https://www.obecjablon.sk/wp-content/uploads/2025/03/Vseobecne-zavazne-nariadenie-obce-o-parkovani-NAVRH.pdf",
@@ -696,7 +328,7 @@
    ],
    "chyba": "",
    "znakov": 88495,
-   "subor": "data/detaily/2026-11-22/6f6e7ca21b84.txt",
+   "subor": "data/detaily/2026-11-23/6f6e7ca21b84.txt",
    "kluc": {
     "kontakt": [
      "TEĽSTVO OBCE JABLOŇ Prípona súboru: pdf 16-11-2026 Veľkosť súboru: 182 kB Usmernenie hlavného hygienika",
@@ -707,73 +339,6 @@
      "STAVEBNÝ ZÁMER Prípona súboru: pdf 19-02-2026 Veľkosť súboru: 75 kB DOPLNENIE PODANIA Prípona súboru: pdf 19-02-2026 Veľkosť súboru: 703 kB Metodické usmernenie k ustanovenia",
      "začatí konania – výrub drevín Prípona súboru: pdf 03-06-2022 Veľkosť súboru: 52 kB Oznámenia o začatí konania podľa §82 ods.7zák.č.543/2002 Z.z. o chr. príír a kraj.. Oznámen",
      "začatí konania podľa § 82 ods. 7 zákona č. 543/2002 Z.z. o ochrane prírody a krajiny v znení neskorších predpisov Prípona súboru: pdf 04-03-2021 Veľkosť súboru: 271 kB Oznáme"
-    ]
-   }
-  },
-  {
-   "id": "225842c88253",
-   "zdroj": "web obce",
-   "obec": "Janov",
-   "okres": "Prešov",
-   "title": "Nový text na stránke",
-   "url": "https://www.obecjanov.sk/samosprava/zverejnovanie/uradna-tabula-1/protokol-o-skuskach-surovej-vody-717.html",
-   "subory": [
-    {
-     "url": "https://www.obecjanov.sk/samosprava/zverejnovanie/uradna-tabula-1/protokol-o-skuskach-surovej-vody-717.html",
-     "typ": "stránka",
-     "znakov": 1855
-    }
-   ],
-   "chyba": "",
-   "znakov": 1975,
-   "subor": "data/detaily/2026-11-22/225842c88253.txt",
-   "kluc": {
-    "kontakt": [
-     "Tel: 0905 76 58 28 IČO: 0069 0627 DIČ: 2020 54 6660 janov@onlinenet.sk Cintorín Cintorín Janov Rýchle od",
-     "Tel.: 0905 76 58 28 IČO: 0069 0627 DIČ: 2020 54 6660 Email: janov@onlinenet.sk Technický prevádzkovateľ:"
-    ]
-   }
-  },
-  {
-   "id": "9e2779ca135e",
-   "zdroj": "web obce",
-   "obec": "Janov",
-   "okres": "Prešov",
-   "title": "Nový text na stránke",
-   "url": "https://www.obecjanov.sk/aktuality/",
-   "subory": [
-    {
-     "url": "https://www.obecjanov.sk/aktuality/",
-     "typ": "stránka",
-     "znakov": 2312
-    },
-    {
-     "url": "https://www.obecjanov.sk/aktuality/kanalizacia-a-cov-v-janove-66sk.html",
-     "typ": "odkaz",
-     "znakov": 2482
-    },
-    {
-     "url": "https://www.obecjanov.sk/aktuality/triedeny-zber-odpadu-67sk.html",
-     "typ": "odkaz",
-     "znakov": 2279
-    },
-    {
-     "url": "https://www.obecjanov.sk/aktuality/naturpack-triedeny-zber-odpadu-64sk.html",
-     "typ": "odkaz",
-     "znakov": 1826
-    }
-   ],
-   "chyba": "",
-   "znakov": 9197,
-   "subor": "data/detaily/2026-11-22/9e2779ca135e.txt",
-   "kluc": {
-    "kontakt": [
-     "tel Triedený zber odpadu Obec zabezpečuje triedený zber odpadu pre občanov, pričom podnikateľské subjekt",
-     "tel NATURPACK -triedený zber odpadu celý text ostatné | 1. 2. 2024 | Autor: Správca Webu Kalendár zvozu",
-     "tel Vyhľadávanie rozšírené vyhľadávanie ... Triedený zber 2025 Kalendár zvozu odpadu 2025 Anketa Triedit"
-    ],
-    "financovanie": [
-     "financovaný z Európskeho poľnohospodárskeho fondu. Cieľom projektu je zlepšiť kvalitu životného prostredia v obci prostredníctvom efektívneho čistenia"
     ]
    }
   },
@@ -793,7 +358,7 @@
    ],
    "chyba": "",
    "znakov": 30065,
-   "subor": "data/detaily/2026-11-22/386e4d2aca47.txt",
+   "subor": "data/detaily/2026-11-23/386e4d2aca47.txt",
    "kluc": {
     "kontakt": [
      "teľstvo Poslanci, komisie, účasť poslancov Zápisnice a uznesenia OZ Hlasovanie poslancov a výpis z uzne",
@@ -806,266 +371,52 @@
    }
   },
   {
-   "id": "8aecab782e95",
+   "id": "7f011e0d8d04",
    "zdroj": "web obce",
-   "obec": "Kečovo",
+   "obec": "Kecerovský Lipovec",
+   "okres": "Košice",
+   "title": "Stiahnuť súbor Rozpočtové opatrenie č. 1_2026 Veľkosť a typ súboru 256 KB / PDF",
+   "url": "https://kecerovskylipovec.sk/wp-content/uploads/dokumenty/rozpoctove-opatrenia/rozpoctove-opatrenie-c.-1_2026-7c7syd.pdf",
+   "subory": [
+    {
+     "url": "https://kecerovskylipovec.sk/wp-content/uploads/dokumenty/rozpoctove-opatrenia/rozpoctove-opatrenie-c.-1_2026-7c7syd.pdf",
+     "typ": "dokument",
+     "znakov": 13776
+    }
+   ],
+   "chyba": "",
+   "znakov": 13776,
+   "subor": "data/detaily/2026-11-23/7f011e0d8d04.txt",
+   "kluc": {
+    "kontakt": [
+     "teľností, z pozemkov 41 121002 000 1 650,00 € 1 650,00 € Daň z nehnuteľností, zo stavieb 41 133001 000",
+     "telekomunikačné služby 41 01 110 632004 000 999 1,00 € 1,00 € Komunikačná infraštruktúra - internet 41",
+     "Telekomunikačné služby Telefón 30. 09. 2026 632005 000 300,00 € 41 01 110 633006 001 999 800,00 € 2 800"
+    ]
+   }
+  },
+  {
+   "id": "433541c6cd99",
+   "zdroj": "web obce",
+   "obec": "Krásnohorské Podhradie",
    "okres": "Rožňava",
-   "title": "Zápisnice a uznesenia Zápisnica 4.11.2026",
-   "url": "https://www.kecovo.sk/zverejnovanie/detail/544140/zapisnica-4112026",
+   "title": "Zasadnutie obecného zastupiteľstva",
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2024-11-08-172616-Pozv__nka_OZ_na_14.11.2024.pdf",
    "subory": [
     {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544140/zapisnica-4112026",
-     "typ": "stránka",
-     "znakov": 4075
-    },
-    {
-     "url": "https://www.kecovo.sk/data/advertisement/kecovo.sk/544140/208238_zapisnica-4-11-2026.pdf",
-     "typ": "odkaz",
-     "znakov": 8138
-    },
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544138/zapisnica-2892026",
-     "typ": "odkaz",
-     "znakov": 4075
-    },
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/535126/zapisnica-09072026",
-     "typ": "odkaz",
-     "znakov": 4075
+     "url": "https://www.obeckrasnohorskepodhradie.sk/files/2024-11-08-172616-Pozv__nka_OZ_na_14.11.2024.pdf",
+     "typ": "dokument",
+     "znakov": 1201
     }
    ],
    "chyba": "",
-   "znakov": 20705,
-   "subor": "data/detaily/2026-11-22/8aecab782e95.txt",
+   "znakov": 1201,
+   "subor": "data/detaily/2026-11-23/433541c6cd99.txt",
    "kluc": {
     "kontakt": [
-     "TEĽSTVA MEGHÍVÓ A KÉPVISELŐ-TESTÜLET ALAKULÓ ÜLÉSÉRE 11.11.2026 o 13:35 Nebezpečné kozmetické výrobky.",
-     "teľnosti Zápisnice a uznesenia Uznesenia 9.7.2026 Zápisnice a uznesenia Zápisnica 09.07.2026 Zápisnice",
-     "e-mailovú adresu sme poslali potvrdzovací e-mail s odkazom. Kliknutím na odkaz definitívne potvrdíte svoj"
-    ]
-   }
-  },
-  {
-   "id": "9204c53c0a82",
-   "zdroj": "web obce",
-   "obec": "Kečovo",
-   "okres": "Rožňava",
-   "title": "Zápisnice a uznesenia Uznesenia 28.9.2026",
-   "url": "https://www.kecovo.sk/zverejnovanie/detail/544139/uznesenia-2892026",
-   "subory": [
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544139/uznesenia-2892026",
-     "typ": "stránka",
-     "znakov": 4075
-    },
-    {
-     "url": "https://www.kecovo.sk/data/advertisement/kecovo.sk/544139/208237_uznesenia-28-9-2026.pdf",
-     "typ": "odkaz",
-     "znakov": 7478
-    },
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544141/uznesenia-4112026",
-     "typ": "odkaz",
-     "znakov": 4074
-    },
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544140/zapisnica-4112026",
-     "typ": "odkaz",
-     "chyba": "ConnectionError"
-    }
-   ],
-   "chyba": "",
-   "znakov": 15888,
-   "subor": "data/detaily/2026-11-22/9204c53c0a82.txt",
-   "kluc": {
-    "kontakt": [
-     "TEĽSTVA MEGHÍVÓ A KÉPVISELŐ-TESTÜLET ALAKULÓ ÜLÉSÉRE 11.11.2026 o 13:35 Nebezpečné kozmetické výrobky.",
-     "teľnosti Zápisnice a uznesenia Uznesenia 9.7.2026 Zápisnice a uznesenia Zápisnica 09.07.2026 Zápisnice",
-     "e-mailovú adresu sme poslali potvrdzovací e-mail s odkazom. Kliknutím na odkaz definitívne potvrdíte svoj"
-    ],
-    "financovanie": [
-     "dotácie na projekt „Verejná toaleta pri Domici“, zahŕňajúci verejné toalety, sprchu pre karavanistov a hygienické zázemie pre zamestnanca obce – sa",
-     "financovanie projektu schvaľuje vlastné zdroje vo výške max. 5 000 eur; 3. úhradu výdavkov na prípravu projektovej dokumentácie z rozpočtu obce najviac",
-     "financovania podľa bodu 2, poveruje starostku obce vypracovaním a podaním žiadosti o poskytnutie dotácie v rámci uvedenej výzvy. Hlasovanie: Za: 4 Benja"
-    ]
-   }
-  },
-  {
-   "id": "6aad29cec685",
-   "zdroj": "web obce",
-   "obec": "Kečovo",
-   "okres": "Rožňava",
-   "title": "Zápisnice a uznesenia Zápisnica 28.9.2026",
-   "url": "https://www.kecovo.sk/zverejnovanie/detail/544138/zapisnica-2892026",
-   "subory": [
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544138/zapisnica-2892026",
-     "typ": "stránka",
-     "znakov": 4075
-    },
-    {
-     "url": "https://www.kecovo.sk/data/advertisement/kecovo.sk/544138/208236_zapisnica-28-9-2026.pdf",
-     "typ": "odkaz",
-     "znakov": 10845
-    },
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/544140/zapisnica-4112026",
-     "typ": "odkaz",
-     "znakov": 4075
-    },
-    {
-     "url": "https://www.kecovo.sk/zverejnovanie/detail/535126/zapisnica-09072026",
-     "typ": "odkaz",
-     "znakov": 4075
-    }
-   ],
-   "chyba": "",
-   "znakov": 23412,
-   "subor": "data/detaily/2026-11-22/6aad29cec685.txt",
-   "kluc": {
-    "kontakt": [
-     "TEĽSTVA MEGHÍVÓ A KÉPVISELŐ-TESTÜLET ALAKULÓ ÜLÉSÉRE 11.11.2026 o 13:35 Nebezpečné kozmetické výrobky.",
-     "teľnosti Zápisnice a uznesenia Uznesenia 9.7.2026 Zápisnice a uznesenia Zápisnica 09.07.2026 Zápisnice",
-     "e-mailovú adresu sme poslali potvrdzovací e-mail s odkazom. Kliknutím na odkaz definitívne potvrdíte svoj"
-    ],
-    "financovanie": [
-     "dotácie v rámci výzvy programu Terra Incognita. Informovala poslancov, že požadovaná spoluúčasť obce predstavuje 10 %. Projekt okrem verejných toal",
-     "financovanie maximálne vo výške 5 000 eur a ďalšie výdavky na prípravu projektovej dokumentácie najviac do výšky 1000 eur. Návrh na uznesenie: Uznesenie",
-     "dotácie na projekt „Verejná toaleta pri Domici“, zahŕňajúci verejné toalety, sprchu pre karavanistov a hygienické zázemie pre zamestnanca obce – sa"
-    ]
-   }
-  },
-  {
-   "id": "fc955541e617",
-   "zdroj": "web obce",
-   "obec": "Kluknava",
-   "okres": "Gelnica",
-   "title": "Nový text na stránke",
-   "url": "https://www.kluknava.sk/zverejnovanie/uradna-tabula/navrh-vzn-obce-kluknava-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kluknava-1532.html",
-   "subory": [
-    {
-     "url": "https://www.kluknava.sk/zverejnovanie/uradna-tabula/navrh-vzn-obce-kluknava-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kluknava-1532.html",
-     "typ": "stránka",
-     "znakov": 2219
-    }
-   ],
-   "chyba": "",
-   "znakov": 2405,
-   "subor": "data/detaily/2026-11-22/fc955541e617.txt",
-   "kluc": {
-    "kontakt": [
-     "Tel.: +421 53 447 32 32 Tel.: +421 53 447 32 09 +421 911 301 124 (0911 301 124) E-mail: obec@kluknava.sk",
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak"
-    ]
-   }
-  },
-  {
-   "id": "8852f873735b",
-   "zdroj": "CUET",
-   "obec": "Kochanovce",
-   "okres": "nejednoznačné: Bardejov / Humenné",
-   "title": "Všeobecne záväzné nariadenie č. 1/2026 obce Kochanovce o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Kochanovce- návrh",
-   "url": "https://cuet.slovensko.sk/en/dokument/9d9a54e3-753b-44fa-ac2f-7fd7d7930c65",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/9d9a54e3-753b-44fa-ac2f-7fd7d7930c65",
-     "typ": "stránka",
-     "znakov": 1704
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/857b22d5-0e5f-402c-bf7c-068e833d5c80",
-     "typ": "odkaz",
-     "znakov": 27343
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/857b22d5-0e5f-402c-bf7c-068e833d5c80",
-     "typ": "odkaz",
-     "znakov": 27343
-    }
-   ],
-   "chyba": "",
-   "znakov": 56661,
-   "subor": "data/detaily/2026-11-22/8852f873735b.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstvo dňa .............. uznesením č. ............. 4. VZN vyhlásené vyvesením na úradnej tabuli dňa",
-     "teľností , b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za nevýherné hracie prístr",
-     "teľností, dane za psa, dane za užívanie verejného priestranstva a dane za nevýherné hracie prístroje je"
-    ]
-   }
-  },
-  {
-   "id": "e76dee117751",
-   "zdroj": "web obce",
-   "obec": "Kochanovce",
-   "okres": "Humenné",
-   "title": "20. 11. 2026 Všeobecne záväzné nariadenie č. 1/2026 obce Kochanovce o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Kochanovce- návrh Úradná tabuľa",
-   "url": "https://www.kochanovce.sk/obecny-urad/uradna-tabula/vseobecne-zavazne-nariadenie-c-1-2026-obce-kochanovce-o-miestnych-daniach-a-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kochanovce-navrh-169.html",
-   "subory": [
-    {
-     "url": "https://www.kochanovce.sk/obecny-urad/uradna-tabula/vseobecne-zavazne-nariadenie-c-1-2026-obce-kochanovce-o-miestnych-daniach-a-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kochanovce-navrh-169.html",
-     "typ": "stránka",
-     "znakov": 2026
-    },
-    {
-     "url": "https://www.kochanovce.sk/e_download.php?file=/data/uredni_deska/obsah153_1.pdf&original=N%C3%A1vrh%20VZN%2012026.pdf",
-     "typ": "odkaz",
-     "znakov": 27343
-    },
-    {
-     "url": "https://www.kochanovce.sk/",
-     "typ": "odkaz",
-     "znakov": 2929
-    },
-    {
-     "url": "https://www.kochanovce.sk/obec-1/uzemny-plan-obce-kochanovce/uzemny-plan-obce-kochanovce-2018/",
-     "typ": "odkaz",
-     "znakov": 4544
-    }
-   ],
-   "chyba": "",
-   "znakov": 37361,
-   "subor": "data/detaily/2026-11-22/e76dee117751.txt",
-   "kluc": {
-    "kontakt": [
-     "teľov.pdf Typ: PDF dokument, Veľkosť: 208.46 kB menovanie zapisovateľky.pdf Typ: PDF dokument, Veľkosť:",
-     "teľov ​ Kultúrny dom ​ Materská škola Obec História Poloha Súčasnosť Cirkev Šport v našej obci Samosprá",
-     "teľstvo Zasadnutia OZ VZN Dokumenty Aktuálne Oznamy Šport v našej obci Kontakt Kochanovce 207 066 01 Hu"
-    ]
-   }
-  },
-  {
-   "id": "e9cffe0386ec",
-   "zdroj": "CUET",
-   "obec": "Kokošovce",
-   "okres": "Prešov",
-   "title": "Návrh - VZN č. 56/2026 o určení miestnych poplatkoch v obci a v pôsobnosti obce Kokošovce",
-   "url": "https://cuet.slovensko.sk/en/dokument/3fa96673-7289-4528-a876-d97e6227780c",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/3fa96673-7289-4528-a876-d97e6227780c",
-     "typ": "stránka",
-     "znakov": 1734
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/1fe337f0-4561-4db4-a5d8-3af1923fe1dc",
-     "typ": "odkaz",
-     "znakov": 9654
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/1fe337f0-4561-4db4-a5d8-3af1923fe1dc",
-     "typ": "odkaz",
-     "znakov": 9654
-    }
-   ],
-   "chyba": "",
-   "znakov": 21313,
-   "subor": "data/detaily/2026-11-22/e9cffe0386ec.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstvom v Kokošovciach, dňa .................., uznesením č.............. VZN vyvesené na úradnej tabu",
-     "teľ zodpovedá za zachovanie poriadku počas priebehu podujatia, za dodržiavanie príslušných zdravotno-hyg",
-     "teľstva obce Kokošovce dňa ................... uznesením č. ........................ . Toto všeobecne z"
+     "teľstva, ktoré sa uskutoční dňa 14.11.2024 o 17,00 v klube pri kultúrnom dome v Krh. Podhradí. 1. Otvor",
+     "teľov + voľba návrhovej komisie 3. Správa z kontroly poistných zmlúv uzavretých za účelom poistenia hnu",
+     "teľného a nehnuteľného majetku obce 4. Úprava rozpočtu obce 5. Projekt detské ihrisko 6. Zdravotné stre"
     ]
    }
   },
@@ -1100,7 +451,7 @@
    ],
    "chyba": "",
    "znakov": 61626,
-   "subor": "data/detaily/2026-11-22/170833a483b2.txt",
+   "subor": "data/detaily/2026-11-23/170833a483b2.txt",
    "kluc": {
     "lehota": [
      "Ponuky doručené na adresu verejného obstarávateľa a predložené v lehote na predkladanie ponúk sa uchádzačom nevracajú. Zostávajú ako súčasť dokumentácie ob",
@@ -1129,6 +480,34 @@
    }
   },
   {
+   "id": "b61e2250474e",
+   "zdroj": "web obce",
+   "obec": "Krásnohorské Podhradie",
+   "okres": "Rožňava",
+   "title": "Zasadnutie obecného zastupiteľstva",
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2026-03-06-111812-Pozv__nka_OZ_na___11.3.2026.pdf",
+   "subory": [
+    {
+     "url": "https://www.obeckrasnohorskepodhradie.sk/files/2026-03-06-111812-Pozv__nka_OZ_na___11.3.2026.pdf",
+     "typ": "dokument",
+     "znakov": 1624
+    }
+   ],
+   "chyba": "",
+   "znakov": 1624,
+   "subor": "data/detaily/2026-11-23/b61e2250474e.txt",
+   "kluc": {
+    "kontakt": [
+     "teľstva, ktoré sa uskutoční dňa 11.3.2026 o 18,00 v klube pri kultúrnom dome v Krh. Podhradí. 1. Otvore",
+     "teľov 3. Kontrola plnenia uznesení 4. Žiadosť o prenájom nebytových priestorov v dome smútku Potrebné s",
+     "teľného majetku obce, ktorého všeobecná hodnota prevýšila sumu v roku 2025 sumu 20.000,00 eur 7. Kontro"
+    ],
+    "financovanie": [
+     "dotácie 9. Výzva Ministerstva financií SR č. 2/2026 na individuálne potreby obcí 10. Environmentálny fond – žiadosť o dotáciu, oblasť: Rozvoj odpad"
+    ]
+   }
+  },
+  {
    "id": "8a8aeecaff95",
    "zdroj": "web obce",
    "obec": "Krásnohorské Podhradie",
@@ -1144,26 +523,7 @@
    ],
    "chyba": "",
    "znakov": 6,
-   "subor": "data/detaily/2026-11-22/8a8aeecaff95.txt",
-   "kluc": {}
-  },
-  {
-   "id": "1c61407c152b",
-   "zdroj": "web obce",
-   "obec": "Krásnohorské Podhradie",
-   "okres": "Rožňava",
-   "title": "Zmluva o poskytnutí nenávratného finančného príspevku",
-   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2023-07-13-174302-Zmluva_o_poskytnut___fin_prispevku_02.pdf",
-   "subory": [
-    {
-     "url": "https://www.obeckrasnohorskepodhradie.sk/files/2023-07-13-174302-Zmluva_o_poskytnut___fin_prispevku_02.pdf",
-     "typ": "dokument",
-     "znakov": 6
-    }
-   ],
-   "chyba": "",
-   "znakov": 6,
-   "subor": "data/detaily/2026-11-22/1c61407c152b.txt",
+   "subor": "data/detaily/2026-11-23/8a8aeecaff95.txt",
    "kluc": {}
   },
   {
@@ -1183,21 +543,11 @@
      "url": "https://www.obeckrasnohorskepodhradie.sk/files/2023-07-01-215040-01-Fakt__ra_od_Reklamn___studio_Kanala_s.r.o.____.042023__zverejnena_01.03.2023.pdf",
      "typ": "odkaz",
      "znakov": 10
-    },
-    {
-     "url": "https://www.obeckrasnohorskepodhradie.sk/files/2022-12-24-135850-04-Fakt__ra_od_ING-Projekts.r.o.____.1020220015__zverejnena_30.11.2022.pdf",
-     "typ": "odkaz",
-     "znakov": 10
-    },
-    {
-     "url": "https://www.obeckrasnohorskepodhradie.sk/files/2021-08-24-093710-08-Fakt__ra_od_ING-Projekt_s.r.o.____.1020210008__zverejnena_08.06.2021.pdf",
-     "typ": "odkaz",
-     "znakov": 10
     }
    ],
    "chyba": "",
-   "znakov": 30582,
-   "subor": "data/detaily/2026-11-22/0e8a05f35ffe.txt",
+   "znakov": 30257,
+   "subor": "data/detaily/2026-11-23/0e8a05f35ffe.txt",
    "kluc": {
     "kontakt": [
      "teľa spol, s.r.o. č.0423010024 zverejnena 26.01.2023 18.02.2023 | 0.12 Mb 02-Faktúra od orange č.270384",
@@ -1222,7 +572,7 @@
    ],
    "chyba": "",
    "znakov": 30065,
-   "subor": "data/detaily/2026-11-22/0a6cf66f567e.txt",
+   "subor": "data/detaily/2026-11-23/0a6cf66f567e.txt",
    "kluc": {
     "kontakt": [
      "teľstvo Poslanci OZ Komisie pri OZ Uznesenia OZ Hlavný kontrolór Oznamovanie protispoločenskej činnosti",
@@ -1242,1039 +592,330 @@
    }
   },
   {
-   "id": "85c972220c54",
-   "zdroj": "web obce",
-   "obec": "Lúčka",
-   "okres": "Rožňava",
-   "title": "11.11. 2026 VZN č. 1/2026 o správe a prevádzkovaní pohrebiska na území obce Lúčka",
-   "url": "https://www.lucka-rv.sk/vzn-c-12026-o-sprave-a-prevadzkovani-pohrebiska-na-uzemi-obce-lucka-a21-293",
-   "subory": [
-    {
-     "url": "https://www.lucka-rv.sk/vzn-c-12026-o-sprave-a-prevadzkovani-pohrebiska-na-uzemi-obce-lucka-a21-293",
-     "typ": "stránka",
-     "znakov": 1494
-    },
-    {
-     "url": "https://www.lucka-rv.sk/files/2026-11-20-140503-VZN_cintorin___._1_2026.pdf",
-     "typ": "odkaz",
-     "znakov": 22109
-    },
-    {
-     "url": "https://www.lucka-rv.sk/navrh--vseobecne-zavazne-nariadenie-c-12026--ktorym-sa-schvaluje-prevadzkovy-poriadok-pohrebiska-obce-lucka-a21-288",
-     "typ": "odkaz",
-     "znakov": 1611
-    },
-    {
-     "url": "https://www.lucka-rv.sk/",
-     "typ": "odkaz",
-     "znakov": 1057
-    }
-   ],
-   "chyba": "",
-   "znakov": 26660,
-   "subor": "data/detaily/2026-11-22/85c972220c54.txt",
-   "kluc": {
-    "kontakt": [
-     "Tel. číslo: +421 58 797 91 21 E-mail: obeclucka@gmail.com Aktuality E - faktúry informácia Finančnej sprá",
-     "teľstvo v Lúčke na základe ust. § 4 ods. 3 písm. f) a g) zákona SNR č. 369/1990 Zb. o obecnom zriadení",
-     "teľa pohrebiska, na nájomníkov hrobových miest, na poskytovateľov služieb na pohrebisku a na návštevník"
-    ]
-   }
-  },
-  {
-   "id": "7cbf1f0d0623",
-   "zdroj": "web obce",
-   "obec": "Margecany",
-   "okres": "Gelnica",
-   "title": "Návrh VZN o miestnych daniach, o miestnom poplatku za komunálne odpady a drobné stavebné odpady a o poplatku za rozvoj na území obce Margecany",
-   "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-miestnych-daniach-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-a-o-poplatku-za-rozvoj-na-uzemi-obce-margecany-1995.html?kshow=2",
-   "subory": [
-    {
-     "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-miestnych-daniach-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-a-o-poplatku-za-rozvoj-na-uzemi-obce-margecany-1995.html?kshow=2",
-     "typ": "stránka",
-     "znakov": 1961
-    },
-    {
-     "url": "https://www.margecany.sk/e_download.php?file=/data/uredni_deska/obsah1836_1.pdf&original=n%C3%A1vrh%20VZN%20o%20miestnych%20daniach%20a%20o%20miestnom%20poplatku%20za%20komun%C3%A1lne%20odpady%20a%20drobn%C3%A9%20stavebn%C3%A9%20odpady%20a%20o%20miestnom%20poplatku%20za%20rozvoj%20na%20%C3%BAzem%C3%AD%20obce%20Margecany.pdf",
-     "typ": "odkaz",
-     "znakov": 19811
-    },
-    {
-     "url": "https://www.margecany.sk/obec/rozvoj/program-rozvoja-obce-margecany-2016/",
-     "typ": "odkaz",
-     "znakov": 2327
-    },
-    {
-     "url": "https://www.margecany.sk/obec/rozvoj/program-rozvoja-byvania-obce-margecany-20102015/",
-     "typ": "odkaz",
-     "znakov": 1780
-    }
-   ],
-   "chyba": "",
-   "znakov": 26626,
-   "subor": "data/detaily/2026-11-22/7cbf1f0d0623.txt",
-   "kluc": {
-    "kontakt": [
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak",
-     "teľstvo v Margecanoch na základe § 6 zák. SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších pre",
-     "teľností, b/ daň za psa, c/ daň za užívanie verejného priestranstva, d/ daň za ubytovanie, e/ daň za pr"
-    ]
-   }
-  },
-  {
-   "id": "990c67280783",
-   "zdroj": "web obce",
-   "obec": "Margecany",
-   "okres": "Gelnica",
-   "title": "21. 11. 2026 Návrh VZN o miestnych daniach, o miestnom poplatku za komunálne odpady a drobné stavebné odpady a o poplatku za rozvoj na území obce Margecany Úradná tabuľa",
-   "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-miestnych-daniach-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-a-o-poplatku-za-rozvoj-na-uzemi-obce-margecany-1995.html",
-   "subory": [
-    {
-     "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-miestnych-daniach-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-a-o-poplatku-za-rozvoj-na-uzemi-obce-margecany-1995.html",
-     "typ": "stránka",
-     "znakov": 1961
-    },
-    {
-     "url": "https://www.margecany.sk/e_download.php?file=/data/uredni_deska/obsah1836_1.pdf&original=n%C3%A1vrh%20VZN%20o%20miestnych%20daniach%20a%20o%20miestnom%20poplatku%20za%20komun%C3%A1lne%20odpady%20a%20drobn%C3%A9%20stavebn%C3%A9%20odpady%20a%20o%20miestnom%20poplatku%20za%20rozvoj%20na%20%C3%BAzem%C3%AD%20obce%20Margecany.pdf",
-     "typ": "odkaz",
-     "znakov": 19811
-    },
-    {
-     "url": "https://www.margecany.sk/obec/rozvoj/program-rozvoja-obce-margecany-2016/",
-     "typ": "odkaz",
-     "znakov": 2327
-    },
-    {
-     "url": "https://www.margecany.sk/obec/rozvoj/program-rozvoja-byvania-obce-margecany-20102015/",
-     "typ": "odkaz",
-     "znakov": 1780
-    }
-   ],
-   "chyba": "",
-   "znakov": 26618,
-   "subor": "data/detaily/2026-11-22/990c67280783.txt",
-   "kluc": {
-    "kontakt": [
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak",
-     "teľstvo v Margecanoch na základe § 6 zák. SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších pre",
-     "teľností, b/ daň za psa, c/ daň za užívanie verejného priestranstva, d/ daň za ubytovanie, e/ daň za pr"
-    ]
-   }
-  },
-  {
-   "id": "a00711b8df3a",
-   "zdroj": "web obce",
-   "obec": "Margecany",
-   "okres": "Gelnica",
-   "title": "20. 11. 2026 Návrh VZN o poskytovaní sociálnych služieb sociálnoprávnej ochrane detí a o sociálnej pomoci Úradná tabuľa",
-   "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-poskytovani-socialnych-sluzieb-socialnopravnej-ochrane-deti-a-o-socialnej-pomoci-1994.html",
-   "subory": [
-    {
-     "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-poskytovani-socialnych-sluzieb-socialnopravnej-ochrane-deti-a-o-socialnej-pomoci-1994.html",
-     "typ": "stránka",
-     "znakov": 1829
-    },
-    {
-     "url": "https://www.margecany.sk/e_download.php?file=/data/uredni_deska/obsah1835_1.pdf&original=N%C3%A1vrh%20VZN%20o%20poskytovan%C3%AD%20soci%C3%A1lnych%20slu%C5%BEieb%20soci%C3%A1lnopr%C3%A1vnej%20ochrane%20det%C3%AD%20a%20o%20soci%C3%A1lnej%20pomoci_aktualiz%C3%A1cia.pdf",
-     "typ": "odkaz",
-     "znakov": 45797
-    },
-    {
-     "url": "https://www.margecany.sk/obec/rozvoj/komunitny-plan-socialnych-sluzieb-obce-margecany-na-r-2023-2030/",
-     "typ": "odkaz",
-     "znakov": 2252
-    },
-    {
-     "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/",
-     "typ": "odkaz",
-     "znakov": 5708
-    }
-   ],
-   "chyba": "",
-   "znakov": 50417,
-   "subor": "data/detaily/2026-11-22/a00711b8df3a.txt",
-   "kluc": {
-    "kontakt": [
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak",
-     "tele a o jednorazovej sociálnej pomoci v obci Margecany Obecné zastupiteľstvo v Margecanoch na základe",
-     "tele a zákon č. 417/2013 Z. z. o pomoci v hmotnej núdzi vydáva toto Všeobecne záväzné nariadenie Obce M"
-    ],
-    "financovanie": [
-     "dotáciu na školské potreby, d) liečebné náklady – dlhodobé užívanie liekov, cestovné do zdravotníckeho zariadenia, ktoré je vzdialené nad 30 km. 2)"
-    ],
-    "stavebny_zamer": [
-     "začatí konania Vyvesené: 4. 11. 2026 Dátum zvesenia: 30. 11. 2026 Voľby 2022 Oznámenie o zániku mandátu poslanca a nastúpení náhradníka Vyvesené: 7. 2. 2024 Dátum zvesenia: 3"
-    ]
-   }
-  },
-  {
-   "id": "d0583669cb8e",
-   "zdroj": "web obce",
-   "obec": "Markušovce",
-   "okres": "Spišská Nová Ves",
-   "title": "20.11.2026 Jedno volebné obdobie sa končí, nové sa začína. Štyri roky práce pre Markušovce",
-   "url": "https://www.markusovce.sk/novinka/144642/jedno-volebne-obdobie-sa-konci-nove-sa-zacina-styri-roky-prace-pre-markusovce",
-   "subory": [
-    {
-     "url": "https://www.markusovce.sk/novinka/144642/jedno-volebne-obdobie-sa-konci-nove-sa-zacina-styri-roky-prace-pre-markusovce",
-     "typ": "stránka",
-     "znakov": 12856
-    },
-    {
-     "url": "https://www.markusovce.sk/novinka/142675/stretnutie-s-obcanmi",
-     "typ": "odkaz",
-     "znakov": 4891
-    },
-    {
-     "url": "https://www.markusovce.sk",
-     "typ": "odkaz",
-     "znakov": 7212
-    },
-    {
-     "url": "https://www.markusovce.sk/",
-     "typ": "odkaz",
-     "znakov": 7212
-    }
-   ],
-   "chyba": "",
-   "znakov": 32453,
-   "subor": "data/detaily/2026-11-22/d0583669cb8e.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva v Markušovciach, ktoré bolo zároveň posledným zasadnutím vo volebnom období 2022 – 2026. Okrem",
-     "teľov, o komunikácii s občanmi, počúvaní ich názorov a požiadaviek a o hľadaní možností, ako ich premie",
-     "teľstva v Markušovciach a starostovi obce Petrovi Fullovi patrí úprimné poďakovanie za prácu počas roko"
-    ]
-   }
-  },
-  {
-   "id": "edb3f9d9cd7f",
+   "id": "7c883a272b68",
    "zdroj": "CUET",
-   "obec": "Mošurov",
-   "okres": "Prešov",
-   "title": "Slávnostné ustanovujúce zasadnutie Obecného zastupiteľstva obce Mošurov dňa 18.11.2026",
-   "url": "https://cuet.slovensko.sk/en/dokument/251130aa-cd42-4b3c-8c01-a6ca6f500f10",
+   "obec": "Kysta",
+   "okres": "Trebišov",
+   "title": "Zásady hospodárenia a nakladania s majetkom obce Kysta",
+   "url": "https://cuet.slovensko.sk/en/dokument/7c7aee27-6eb7-4547-be07-9105d0f54511",
    "subory": [
     {
-     "url": "https://cuet.slovensko.sk/en/dokument/251130aa-cd42-4b3c-8c01-a6ca6f500f10",
+     "url": "https://cuet.slovensko.sk/en/dokument/7c7aee27-6eb7-4547-be07-9105d0f54511",
      "typ": "stránka",
-     "znakov": 1507
+     "znakov": 1363
     },
     {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/ea85114f-d09c-4171-b164-6a831c917a26",
-     "typ": "odkaz",
-     "znakov": 23662
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/ea85114f-d09c-4171-b164-6a831c917a26",
-     "typ": "odkaz",
-     "znakov": 23662
-    }
-   ],
-   "chyba": "",
-   "znakov": 49102,
-   "subor": "data/detaily/2026-11-22/edb3f9d9cd7f.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva obce Mošurov dňa 18.11.2026 Search publisher's RSS feeds Published on official board: Zverejňov",
-     "teľstva obce Mošurov dňa 18.11.2026 Document type: Iný elektronický dokument Document abstract: Ustanov",
-     "teľstva obce Mošurov dňa 18.11.2026 o 18:00 v Kultúrnom dome v Mošurove. Checksum of request Checksum i"
-    ],
-    "financovanie": [
-     "dotácie v hodnote približne 350 000 € na zateplenie a obnovu budovy kultúrneho domu a obecného úradu a tiež dotácie na územný plán v hodnote pribli",
-     "dotácie na chodníky v roku 2027 a že pán Matisko je ochotný predať obci časť pozemku na realizáciu chodníka na spomenutej nebezpečnej križovatke. S",
-     "dotáciu, čo by nezaťažilo obecný rozpočet a pomohlo by vyriešiť daný problém s nebezpečnou križovatkou. P. Mária Krajňáková sa opýtala, čo konkrétn"
-    ],
-    "stavebny_zamer": [
-     "začatie konania vo veci ochrany verejného záujmu, - kontroluje dodržiavanie ústavného zákona a príslušných ustanovení zákona o obecnom zriadení funkcionármi obce (vrátane hlav",
-     "začatie konania vo veci ochrany verejného záujmu - kontroluje dodržiavanie ústavného zákona a príslušných ustanovení zákona o obecnom zriadení funkcionármi obce (vrátane hlavn"
-    ]
-   }
-  },
-  {
-   "id": "6998a66ae0fc",
-   "zdroj": "CUET",
-   "obec": "Nová Polhora",
-   "okres": "Košice",
-   "title": "Pozvánka na zasadnutie obecného zastupiteľstva",
-   "url": "https://cuet.slovensko.sk/en/dokument/0a354b91-aaa0-46af-8f1d-6b38345d029e",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/0a354b91-aaa0-46af-8f1d-6b38345d029e",
-     "typ": "stránka",
-     "znakov": 1321
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/f4fad77c-06a0-47f8-be1a-d8e57bc6943c",
-     "typ": "odkaz",
-     "znakov": 1832
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/f4fad77c-06a0-47f8-be1a-d8e57bc6943c",
-     "typ": "odkaz",
-     "znakov": 1832
-    }
-   ],
-   "chyba": "",
-   "znakov": 5256,
-   "subor": "data/detaily/2026-11-22/6998a66ae0fc.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva Search publisher's RSS feeds Published on official board: Zverejňovanie na CUET - obec Nová Pol",
-     "teľstva Document type: Iný elektronický dokument Document abstract: Checksum of request Checksum is cal",
-     "teľstva v Novej Polhore, ktoré sa uskutoční dňa 24. novembra 2026 (utorok) so začiatkom o 16:00 hod. v"
-    ],
-    "financovanie": [
-     "Dotácia na podporu plnenia funkcií rodiny – detské inkluzívne ihriská pre rok 2027 8. Žiadosť o poskytnutie finančných prostriedkov na záujmové vzd",
-     "dotácie z rozpočtu obce na rok 2027 11. Príprava programového rozpočtu obce Nová Polhora na roky 2027 – 2029 12. Rôzne Neverejná časť: 13. Neplatič"
-    ]
-   }
-  },
-  {
-   "id": "cbaf75ac2f46",
-   "zdroj": "CUET",
-   "obec": "Odorín",
-   "okres": "Spišská Nová Ves",
-   "title": "Návrh VZN obce Odorín č. 4/2026o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Odorín",
-   "url": "https://cuet.slovensko.sk/en/dokument/cd4ba00e-0351-439a-9634-bc322b3eb8ad",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/cd4ba00e-0351-439a-9634-bc322b3eb8ad",
-     "typ": "stránka",
-     "znakov": 1538
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/42baa7f0-dcc8-4d71-98fc-40a47df08205",
-     "typ": "odkaz",
-     "znakov": 60000
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/42baa7f0-dcc8-4d71-98fc-40a47df08205",
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/1eb43408-d20b-4649-b9ce-f7fa8a09423f",
      "typ": "odkaz",
      "znakov": 60000
     }
    ],
    "chyba": "",
-   "znakov": 81809,
-   "subor": "data/detaily/2026-11-22/cbaf75ac2f46.txt",
+   "znakov": 41541,
+   "subor": "data/detaily/2026-11-23/7c883a272b68.txt",
    "kluc": {
     "kontakt": [
-     "teľstvom Uznesením č. ……… 14.12.2026 Schválené VZN vyvesené na úradnej tabuli a internetovej stránke ob",
-     "riadenia prihliadať, a to najmä vtedy, ak nie sú zdôvodnené Obecné zastupiteľstvo obce Odorín na základe",
-     "odpadu a oprávnených osôb, povinnosti správcu nehnuteľností, povinnosti právnickej a fyzickej osoby opr"
+     "teľstvo obce Kysta na základe § 11 ods. 4 písm. a) zákona SNR č. 369/1990 Zb. o obecnom zriadení v znen",
+     "teľnosť majetku obce, vrátane postupu pri vyraďovaní majetku obce, b) vymedzenie kompetencií orgánov ob",
+     "teľnosť majetku obce (1) Prebytočným je majetok obce, ktorý obec prostredníctvom svojich orgánov nepouž"
+    ]
+   }
+  },
+  {
+   "id": "edf58e37eb63",
+   "zdroj": "CUET",
+   "obec": "Lieskovec",
+   "okres": "Humenné",
+   "title": "NÁVRH: Lieskovec - VZN 7/2026 - o miestnych daniach a miestnom poplatku",
+   "url": "https://cuet.slovensko.sk/en/dokument/0f85844a-6370-478d-ae8f-7e6c1e809aa7",
+   "subory": [
+    {
+     "url": "https://cuet.slovensko.sk/en/dokument/0f85844a-6370-478d-ae8f-7e6c1e809aa7",
+     "typ": "stránka",
+     "znakov": 1638
+    },
+    {
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/edf62d15-d2d8-44c6-9610-8a186622e26e",
+     "typ": "odkaz",
+     "znakov": 59177
+    }
+   ],
+   "chyba": "",
+   "znakov": 41816,
+   "subor": "data/detaily/2026-11-23/edf58e37eb63.txt",
+   "kluc": {
+    "kontakt": [
+     "teľstvom v Lieskovci dňa: .................. VZN vyhlásené Vyvesením na úradnej tabuli obce dňa: ......",
+     "teľností ..............................................................................................",
+     "teľností................................................................. 5 Daň za psa................."
+    ],
+    "financovanie": [
+     "financovaných zo štátneho rozpočtu, na rokliny, výmole, vysoké medze s kroviskami alebo kamením, pásma ochrany prírodných liečivých zdrojov II. a III. st"
+    ]
+   }
+  },
+  {
+   "id": "ee16788fbeb8",
+   "zdroj": "web obce",
+   "obec": "Mníšek Nad Popradom",
+   "okres": "Stará Ľubovňa",
+   "title": "Nový text na stránke",
+   "url": "http://www.mniseknadpopradom.sk/-zmluvy",
+   "subory": [
+    {
+     "url": "http://www.mniseknadpopradom.sk/-zmluvy",
+     "typ": "stránka",
+     "znakov": 1734
+    },
+    {
+     "url": "http://www.mniseknadpopradom.sk/index.php?id=26&gi=123",
+     "typ": "odkaz",
+     "znakov": 1044
+    }
+   ],
+   "chyba": "",
+   "znakov": 2897,
+   "subor": "data/detaily/2026-11-23/ee16788fbeb8.txt",
+   "kluc": {
+    "kontakt": [
+     "teľnosti Odb.: Obec Mníšek nad Popradom Dod.: BESH, s.r.o. 100 € Dodatok č.1 Predaj pozemku Odb.: Tomáš",
+     "teľ platcom DPH, cena je vrátane DPH. 1 2 3 4 5 ... 10 » načítať ďalšie ... Generované portálom Uradne.s"
+    ],
+    "financovanie": [
+     "Dotácia DHZ Odb.: Obec Mníšek nad Popradom Dod.: Dobrovoľná požiarna ochrana SR 3 000 € 4/2026 Predaj pozemku Odb.: Tomáš Gontkovič Dod.: Obec Mníš"
     ],
     "dodavatel": [
-     "teľa ako obec najneskôr do 7 dní od začatia jej užívania z dôvodu jej označenia trvalým identifikátorom, p) umožniť obci alebo pove",
-     "ko obec najneskôr do 7 dní od začatia jej užívania z dôvodu jej označenia trvalým identifikátorom, p) umožniť obci alebo povereným"
+     "dodávateľ platcom DPH, cena je vrátane DPH. 1 2 3 4 5 ... 10 » načítať ďalšie ... Generované portálom Uradne.sk Úradné hodiny Pond"
     ]
    }
   },
   {
-   "id": "1cce908933e0",
+   "id": "f7db7704b473",
    "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 – malé obce bola schvá… 20. novembra 2026 06:40",
-   "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "title": "Zápisnica z ustanovujúceho zasadnutia OZ konaného dňa 13.11.2026",
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/zapisnica-z-ustanovujuceho-zasadnutia-oz-konaneho-dna-13112026-12925.html?kshow=26",
    "subory": [
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/zapisnica-z-ustanovujuceho-zasadnutia-oz-konaneho-dna-13112026-12925.html?kshow=26",
      "typ": "stránka",
-     "znakov": 8236
+     "znakov": 1639
     },
     {
-     "url": "https://obecorechova.sk/wp-content/uploads/2026/10/eFaktura_MNO_2xA4_final.pdf",
+     "url": "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah627_1.pdf&original=Z%C3%A1pisnica%20z%20ustanovuj%C3%BAceho%20zasadnutia.pdf",
      "typ": "odkaz",
-     "znakov": 6290
+     "znakov": 10443
     },
     {
-     "url": "https://obecorechova.sk/wp-content/uploads/2026/10/Oznamenie.docx",
+     "url": "https://www.niznyhrabovec.sk/obec-2/zivotne-prostredie/",
      "typ": "odkaz",
-     "znakov": 3191
+     "znakov": 1409
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
+     "url": "https://www.niznyhrabovec.sk/obec-2/volby-a-referendum/volby-2026/",
      "typ": "odkaz",
-     "znakov": 8236
+     "znakov": 1464
     }
    ],
    "chyba": "",
-   "znakov": 26294,
-   "subor": "data/detaily/2026-11-22/1cce908933e0.txt",
+   "znakov": 15422,
+   "subor": "data/detaily/2026-11-23/f7db7704b473.txt",
    "kluc": {
     "kontakt": [
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Odhlásiť sa alebo zmeniť",
-     "právy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Odhlásiť sa",
-     "sú platiteľmi DPH, a usadených platiteľov DPH pri zákonom určených všetky tuzemské právnické osoby, kto"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "e obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a ú",
-     "rijímanie, kontrolu a archiváciu eFaktúr. bezhotovostných platieb. Ak využívate externé účtovníctvo Praktický postup si dohodnite ešte pred spusten"
+     "e-mailov Chcem sa zaregistrovať Kalendár November 2026 Po Ut St Št Pia So Ne 26 27 28 29 30 31 1 2 3 4 5 6",
+     "teľov ​ Výmera katastra 1120 ha ​ Dom smútku ​ ZŠ a MŠ ​ Lekáreň ​ Multifunkčné ihrisko ​ Futbalové ihr",
+     "e-mailov Chcem sa zaregistrovať Rýchle odkazy Kontakt Aktuality Okolie obce Obecné zastupiteľstvo Rozpočet"
     ]
    }
   },
   {
-   "id": "dc33d08aa36f",
+   "id": "614fca53b191",
    "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "title": "Uznesenia z ustanovujúceho zasadnutia OZ zo dňa 13.11.2026",
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/uznesenia-z-ustanovujuceho-zasadnutia-oz-zo-dna-13112026-12923.html?kshow=26",
    "subory": [
     {
-     "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/uznesenia-z-ustanovujuceho-zasadnutia-oz-zo-dna-13112026-12923.html?kshow=26",
      "typ": "stránka",
-     "znakov": 4161
+     "znakov": 1630
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
+     "url": "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah625_1.pdf&original=Uznesenia%20z%20ustanovuj%C3%BAceho%20zasadnutia%20OZ.pdf",
      "typ": "odkaz",
-     "znakov": 8236
+     "znakov": 12215
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/",
      "typ": "odkaz",
-     "chyba": "HTTPError"
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
+     "znakov": 1734
     }
    ],
    "chyba": "",
-   "znakov": 12578,
-   "subor": "data/detaily/2026-11-22/dc33d08aa36f.txt",
+   "znakov": 15969,
+   "subor": "data/detaily/2026-11-23/614fca53b191.txt",
    "kluc": {
     "kontakt": [
-     "telstvo/pozvanky-na-zasadnutia-oz/ Pozvánky na zasadnutia OZ - Dokumenty obce Orechová Na zabezpečenie",
-     "teľstvo Archív dokumentov uverejnených obcou Orechová. Filtrovať dokumenty Pozvánka na zasadnutie OZ ID",
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
+     "e-mailov Chcem sa zaregistrovať Kalendár November 2026 Po Ut St Št Pia So Ne 26 27 28 29 30 31 1 2 3 4 5 6",
+     "teľov ​ Výmera katastra 1120 ha ​ Dom smútku ​ ZŠ a MŠ ​ Lekáreň ​ Multifunkčné ihrisko ​ Futbalové ihr",
+     "e-mailov Chcem sa zaregistrovať Rýchle odkazy Kontakt Aktuality Okolie obce Obecné zastupiteľstvo Rozpočet"
     ]
    }
   },
   {
-   "id": "e09ce053d616",
+   "id": "a5f85860de6f",
    "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "title": "20. 11. 2026 Zápisnica z ustanovujúceho zasadnutia OZ konaného dňa 13.11.2026 Uznesenia a zápisnice",
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/zapisnica-z-ustanovujuceho-zasadnutia-oz-konaneho-dna-13112026-12925.html",
    "subory": [
     {
-     "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/zapisnica-z-ustanovujuceho-zasadnutia-oz-konaneho-dna-13112026-12925.html",
      "typ": "stránka",
-     "znakov": 3964
+     "znakov": 1639
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
+     "url": "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah627_1.pdf&original=Z%C3%A1pisnica%20z%20ustanovuj%C3%BAceho%20zasadnutia.pdf",
      "typ": "odkaz",
-     "znakov": 8236
+     "znakov": 10443
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/",
      "typ": "odkaz",
-     "znakov": 8236
+     "znakov": 1734
     },
     {
-     "url": "https://obecorechova.sk",
+     "url": "https://www.niznyhrabovec.sk/obec-2/zivotne-prostredie/",
      "typ": "odkaz",
-     "znakov": 5366
+     "znakov": 1409
     }
    ],
    "chyba": "",
-   "znakov": 26102,
-   "subor": "data/detaily/2026-11-22/e09ce053d616.txt",
+   "znakov": 15680,
+   "subor": "data/detaily/2026-11-23/a5f85860de6f.txt",
    "kluc": {
     "kontakt": [
-     "telstvo/zapisnice-zasadnuti-oz/ Zápisnice zasadnutí OZ - Dokumenty obce Orechová Na zabezpečenie funkčn",
-     "teľstvo Archív dokumentov uverejnených obcou Orechová. Zápisnica zo zasadnutia OZ 16.12.2022 Zápisnica",
-     "teľstva v Orechovej ID: 1/2022 25.11.2022 Otvoriť document Zápisnica z ustanovujúceho zasadnutia OZ kon"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
+     "e-mailov Chcem sa zaregistrovať Kalendár November 2026 Po Ut St Št Pia So Ne 26 27 28 29 30 31 1 2 3 4 5 6",
+     "teľov ​ Výmera katastra 1120 ha ​ Dom smútku ​ ZŠ a MŠ ​ Lekáreň ​ Multifunkčné ihrisko ​ Futbalové ihr",
+     "e-mailov Chcem sa zaregistrovať Rýchle odkazy Kontakt Aktuality Okolie obce Obecné zastupiteľstvo Rozpočet"
     ]
    }
   },
   {
-   "id": "c326b9cb96b4",
+   "id": "a9d74aa4b86f",
    "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "title": "19. 11. 2026 Uznesenia z ustanovujúceho zasadnutia OZ zo dňa 13.11.2026 Uznesenia a zápisnice",
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/uznesenia-z-ustanovujuceho-zasadnutia-oz-zo-dna-13112026-12923.html",
    "subory": [
     {
-     "url": "https://obecorechova.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/uznesenia-z-ustanovujuceho-zasadnutia-oz-zo-dna-13112026-12923.html",
      "typ": "stránka",
-     "znakov": 4583
+     "znakov": 1630
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
+     "url": "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah625_1.pdf&original=Uznesenia%20z%20ustanovuj%C3%BAceho%20zasadnutia%20OZ.pdf",
      "typ": "odkaz",
-     "znakov": 8236
+     "znakov": 12215
     },
     {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
+     "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/",
      "typ": "odkaz",
-     "chyba": "HTTPError"
+     "znakov": 1734
     },
     {
-     "url": "https://obecorechova.sk",
+     "url": "https://www.niznyhrabovec.sk/obec-2/volby-a-referendum/volby-2026/",
      "typ": "odkaz",
-     "chyba": "HTTPError"
+     "znakov": 1464
     }
    ],
    "chyba": "",
-   "znakov": 12987,
-   "subor": "data/detaily/2026-11-22/c326b9cb96b4.txt",
+   "znakov": 17503,
+   "subor": "data/detaily/2026-11-23/a9d74aa4b86f.txt",
    "kluc": {
     "kontakt": [
-     "telstvo/ Obecné zastupiteľstvo - Orechová Na zabezpečenie funkčnosti a anonymnú analýzu návštevnosti tá",
-     "teľstvo Poslanci obecného zastupiteľstva Ján Čižmár Zástupca starostu Milan Filip Poslanec poverený zvo",
-     "teľňa tlačív Pre občanov Úradná tabuľa VZN č.1/2026 o dani z nehnuteľnosti a poplatkoch za komunálny od"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
+     "e-mailov Chcem sa zaregistrovať Kalendár November 2026 Po Ut St Št Pia So Ne 26 27 28 29 30 31 1 2 3 4 5 6",
+     "teľov ​ Výmera katastra 1120 ha ​ Dom smútku ​ ZŠ a MŠ ​ Lekáreň ​ Multifunkčné ihrisko ​ Futbalové ihr",
+     "e-mailov Chcem sa zaregistrovať Rýchle odkazy Kontakt Aktuality Okolie obce Obecné zastupiteľstvo Rozpočet"
     ]
    }
   },
   {
-   "id": "bc571ff3e77e",
+   "id": "b13d48106c19",
    "zdroj": "web obce",
-   "obec": "Orechová",
+   "obec": "Ostrov",
    "okres": "Sobrance",
    "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/uradna-tabula/",
+   "url": "https://ostrov-obec.sk/uradna-tabula",
    "subory": [
     {
-     "url": "https://obecorechova.sk/uradna-tabula/",
+     "url": "https://ostrov-obec.sk/uradna-tabula",
      "typ": "stránka",
-     "znakov": 4792
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/dokument/uznesenia-k-volbam-24-10-2026-volebny-obvod-pocet-poslancov-a-uvazok-starostu-obce/",
-     "typ": "odkaz",
-     "znakov": 4740
+     "znakov": 10518
     }
    ],
    "chyba": "",
-   "znakov": 26356,
-   "subor": "data/detaily/2026-11-22/bc571ff3e77e.txt",
+   "znakov": 10567,
+   "subor": "data/detaily/2026-11-23/b13d48106c19.txt",
    "kluc": {
     "kontakt": [
-     "teľnosti a poplatkoch za komunálny odpad a drobné stavebné odpady VZN Vyvesené do 29.11.2026 Zápisnica",
-     "teľov v obci Voľby do samospráv Vyvesené od 31.7.2026 Kontaktné údaje na podávanie kandidátnych listín",
-     "teľa Voľby do samospráv Vyvesené od 31.7.2026 Utvorenie volebných okrskov voľby OSO a OSK Voľby do samo"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
+     "teľov psov Mor ošípaných Cirkev História Triedenie odpadu Kalendár udalosti Samospráva obce Oznamovanie",
+     "teľstvo Poslanci obecného zastupiteľstva Hlavný kontrolór Plán kontrolnej činnosti Povinné zverejňovani",
+     "teľa Verejné obstarávanie Dokumenty SČÍTANIE OBYVATEĽOV, DOMOV A BYTOV 2021 Voľby Voľby NR SR 2020 Voľb"
     ]
    }
   },
   {
-   "id": "aeec437035bd",
+   "id": "2c258d58ffbf",
    "zdroj": "web obce",
-   "obec": "Orechová",
+   "obec": "Ostrov",
    "okres": "Sobrance",
    "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+   "url": "https://ostrov-obec.sk/uradna-tabula?id=13504",
    "subory": [
     {
-     "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
+     "url": "https://ostrov-obec.sk/uradna-tabula?id=13504",
      "typ": "stránka",
-     "znakov": 3519
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "znakov": 5366
+     "znakov": 3919
     }
    ],
    "chyba": "",
-   "znakov": 25647,
-   "subor": "data/detaily/2026-11-22/aeec437035bd.txt",
+   "znakov": 3977,
+   "subor": "data/detaily/2026-11-23/2c258d58ffbf.txt",
    "kluc": {
     "kontakt": [
-     "telstvo/uznesenia-oz/ Uznesenia OZ - Dokumenty obce Orechová Na zabezpečenie funkčnosti a anonymnú anal",
-     "teľstvo Archív dokumentov uverejnených obcou Orechová. Uznesenie č. 2/2022 zo dňa 16.12.2022 Zápisnica",
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
+     "teľov psov Mor ošípaných Cirkev História Triedenie odpadu Kalendár udalosti Samospráva obce Oznamovanie",
+     "teľstvo Poslanci obecného zastupiteľstva Hlavný kontrolór Plán kontrolnej činnosti Povinné zverejňovani",
+     "teľa Verejné obstarávanie Dokumenty SČÍTANIE OBYVATEĽOV, DOMOV A BYTOV 2021 Voľby Voľby NR SR 2020 Voľb"
     ]
    }
   },
   {
-   "id": "dab986a1ab51",
+   "id": "05acf2819442",
    "zdroj": "web obce",
-   "obec": "Orechová",
+   "obec": "Ostrov",
    "okres": "Sobrance",
    "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+   "url": "https://ostrov-obec.sk/",
    "subory": [
     {
-     "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
+     "url": "https://ostrov-obec.sk/",
      "typ": "stránka",
-     "znakov": 3991
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "znakov": 5366
+     "znakov": 5003
     }
    ],
    "chyba": "",
-   "znakov": 26132,
-   "subor": "data/detaily/2026-11-22/dab986a1ab51.txt",
+   "znakov": 5039,
+   "subor": "data/detaily/2026-11-23/05acf2819442.txt",
    "kluc": {
     "kontakt": [
-     "telstvo/verejne-vyhlasky-a-oznamy/ Verejné vyhlášky a oznamy - Dokumenty obce Orechová Na zabezpečenie",
-     "teľstvo Archív dokumentov uverejnených obcou Orechová. Orechová rekonštrukcia vodovodu SP Filtrovať dok",
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
-    ],
-    "stavebny_zamer": [
-     "STAVEBNOM ZÁMERE ID: 398/2025-151/2025 28.5.2026 Otvoriť document ROZHODNUTIE O STAVEBNOM ZÁMERE v novom okne. Prílohy Stiahnuť súbor 398-2025 – Rozhodnutie Veľkosť a typ súbor"
-    ]
-   }
-  },
-  {
-   "id": "94a02ca37b0f",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/aktuality/nezaradene/pozvanka-na-oslavu-mdd-2/",
-   "subory": [
-    {
-     "url": "https://obecorechova.sk/aktuality/nezaradene/pozvanka-na-oslavu-mdd-2/",
-     "typ": "stránka",
-     "znakov": 4435
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "znakov": 5366
-    }
-   ],
-   "chyba": "",
-   "znakov": 9920,
-   "subor": "data/detaily/2026-11-22/94a02ca37b0f.txt",
-   "kluc": {
-    "kontakt": [
-     "teľňa tlačív Pre občanov Úradná tabuľa VZN č.1/2026 o dani z nehnuteľnosti a poplatkoch za komunálny od",
-     "teľov v obci Voľby do samospráv Vyvesené od 31.7.2026 Všetky vývesky Zber odpadu Nebezpečný odpad + Kom",
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického samosprávneho kraja Fotogaléria 20. nov 2026 Čistenie a kontrola komínov dňa 11.11.2026 od 7:00 do 11:00 hod. Oznam 06. no",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor"
-    ]
-   }
-  },
-  {
-   "id": "8bfd7e64cd6e",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/financie/rozpoctove-opatrenia/",
-   "subory": [
-    {
-     "url": "https://obecorechova.sk/dokumenty/financie/rozpoctove-opatrenia/",
-     "typ": "stránka",
-     "znakov": 3438
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "znakov": 5366
-    }
-   ],
-   "chyba": "",
-   "znakov": 25561,
-   "subor": "data/detaily/2026-11-22/8bfd7e64cd6e.txt",
-   "kluc": {
-    "kontakt": [
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od",
-     "y z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Odhlásiť sa alebo zmeniť nastavenia Ned",
-     "su môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Odhlásiť sa alebo zmeniť n"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
-    ]
-   }
-  },
-  {
-   "id": "a98fa8b161bb",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/financie/rozpocty/",
-   "subory": [
-    {
-     "url": "https://obecorechova.sk/dokumenty/financie/rozpocty/",
-     "typ": "stránka",
-     "znakov": 3627
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "znakov": 5366
-    }
-   ],
-   "chyba": "",
-   "znakov": 17416,
-   "subor": "data/detaily/2026-11-22/a98fa8b161bb.txt",
-   "kluc": {
-    "kontakt": [
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od",
-     "y z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Odhlásiť sa alebo zmeniť nastavenia Ned",
-     "su môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Odhlásiť sa alebo zmeniť n"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
-    ]
-   }
-  },
-  {
-   "id": "d72e641d03ed",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
-   "subory": [
-    {
-     "url": "https://obecorechova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
-     "typ": "stránka",
-     "znakov": 3448
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk",
-     "typ": "odkaz",
-     "znakov": 5366
-    }
-   ],
-   "chyba": "",
-   "znakov": 25581,
-   "subor": "data/detaily/2026-11-22/d72e641d03ed.txt",
-   "kluc": {
-    "kontakt": [
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od",
-     "y z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Odhlásiť sa alebo zmeniť nastavenia Ned",
-     "su môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Odhlásiť sa alebo zmeniť n"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor",
-     "á od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií"
-    ]
-   }
-  },
-  {
-   "id": "e5b4b6e4a641",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/",
-   "subory": [
-    {
-     "url": "https://obecorechova.sk/",
-     "typ": "stránka",
-     "znakov": 5366
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6ad1b4e6650cb9a190fd0ddc",
-     "typ": "odkaz",
-     "znakov": 8236
-    },
-    {
-     "url": "https://obecorechova.sk/aktuality/oznam/zaciatok-konania-uzemneho-planu-obce-orechova/",
-     "typ": "odkaz",
-     "znakov": 4552
-    }
-   ],
-   "chyba": "",
-   "znakov": 26698,
-   "subor": "data/detaily/2026-11-22/e5b4b6e4a641.txt",
-   "kluc": {
-    "kontakt": [
-     "teľňa tlačív Pre občanov Čistenie a kontrola komínov dňa 11.11.2026 od 7:00 do 11:00 hod. Aktuality / O",
-     "teľnosti a poplatkoch za komunálny odpad a drobné stavebné odpady VZN Vyvesené do 29.11.2026 Zobraziť v",
-     "E-mail . Správy z Rozhlasu môžete odoberať aj v mobilnej appke . Odoberať rozhlas Zistiť viac o rozhlase Od"
-    ],
-    "financovanie": [
-     "dotácia pre obec Orechová od Košického samosprávneho kraja Fotogaléria 20. nov 2026 Čistenie a kontrola komínov dňa 11.11.2026 od 7:00 do 11:00 hod",
-     "dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efekt",
-     "ec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspor"
-    ]
-   }
-  },
-  {
-   "id": "4679fa781f6e",
-   "zdroj": "web obce",
-   "obec": "Poprad",
-   "okres": "Poprad",
-   "title": "Ustanovujúce zasadnutie mestského zastupiteľstva",
-   "url": "https://www.poprad.sk/aktualita/2206/ustanovujuce-zasadnutiemestskeho-zastupitelstva",
-   "subory": [
-    {
-     "url": "https://www.poprad.sk/aktualita/2206/ustanovujuce-zasadnutiemestskeho-zastupitelstva",
-     "typ": "stránka",
-     "znakov": 2996
-    },
-    {
-     "url": "https://www.poprad.sk/aktualita/2188/mesto-poprad-s-ocenenim-senior-friendly-2026",
-     "typ": "odkaz",
-     "znakov": 3465
-    },
-    {
-     "url": "https://www.poprad.sk/aktualita/2202/stretnutie-riaditelov-skol-k-nasiliu-na-skolach",
-     "typ": "odkaz",
-     "znakov": 2406
-    },
-    {
-     "url": "https://www.poprad.sk/aktualita/2200/dna-17112026-bude-mestsky-urad-zatvoreny",
-     "typ": "odkaz",
-     "znakov": 1621
-    }
-   ],
-   "chyba": "",
-   "znakov": 10866,
-   "subor": "data/detaily/2026-11-22/4679fa781f6e.txt",
-   "kluc": {
-    "kontakt": [
-     "telstva Ustanovujúce zasadnutie mestského zastupiteľstva - Oficiálna stránka Mesta Poprad Oficiálne str",
-     "teľstva 20. 11. 2026 V priestoroch veľkej zasadačky Mestského úradu v Poprade sa dňa 20.11.2026 predpol",
-     "teľstva mesta Poprad. Svoj slávnostný sľub zložil novozvolený primátor mesta Jozef Králik, ako aj novoz"
-    ]
-   }
-  },
-  {
-   "id": "6238732b8725",
-   "zdroj": "CUET",
-   "obec": "Prešov",
-   "okres": "Prešov",
-   "title": "Rozhodnutie",
-   "url": "https://cuet.slovensko.sk/en/dokument/6570d99d-4a24-4917-8b49-aad9c98dac6d",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/6570d99d-4a24-4917-8b49-aad9c98dac6d",
-     "typ": "stránka",
-     "znakov": 1297
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/f9c9f7fa-2707-450a-9116-967226489e12",
-     "typ": "odkaz",
-     "znakov": 29177
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/f9c9f7fa-2707-450a-9116-967226489e12",
-     "typ": "odkaz",
-     "znakov": 29177
-    }
-   ],
-   "chyba": "",
-   "znakov": 59922,
-   "subor": "data/detaily/2026-11-22/6238732b8725.txt",
-   "kluc": {
-    "kontakt": [
-     "telesa vedeného minimálne 1,00 m nad strechu objektu. (Záväzné stanovisko MsÚ v Prešove- odbor životnéh",
-     "Telekom, a.s.6612629553 zo dl'ia 07.10.2026 • Okresný úrad Prešov, pozemkový a lesný odbor, pod č. OU-P",
-     "teľnom mieste sa umiestnia údaje o stavebnikovi, stavbe a osobe, ktorá bude vykonávať dozor. 2. Ak výst"
-    ],
-    "stavebny_zamer": [
-     "stavebnom zámere. Názov stavby: Rodinný dom, ul. Labutia, Prešov, k.ú. Šalgovík. Checksum of request Checksum is calculated using SHA512 and can be used to verify a downloaded",
-     "stavebnom zámere ID stavby: 268EOE názov stavby: \"Rodinný dom\" miesto stavby: ul. Labutia, Prešov stavebné pozemky: Pozemok parc č.: KN-C 100/23, k.ú. Šalgovík stavebník: Marti",
-     "stavebnému zámeru \"Rodinný dom\" je v elektronickej podobe pod č. 268EOE na informačnom portáli výstavby, na pozemku parc. č . KN-C l 00/23 k. ú. Šalgovík, vypracovaná Mgr. Juraj"
-    ],
-    "dodavatel": [
-     "zhotoviteľom, do 15 dní od uzatvorenia zmluvy oznámi príslušnému stavebnému úradu, ktorý predmetné rozhodnutie vydal obchodné meno z",
-     "zhotoviteľ stavby bude určený až po overení projektu stavby. 3. Ak stavebník bude uskutočňovať stavebné práce svojpomocou, je povin"
-    ]
-   }
-  },
-  {
-   "id": "112070edc845",
-   "zdroj": "CUET",
-   "obec": "Prešov",
-   "okres": "Prešov",
-   "title": "Návrh rozpočtu mesta Prešov",
-   "url": "https://cuet.slovensko.sk/en/dokument/b4a667e5-2b87-4ebd-9ac6-e97c027dafa8",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/b4a667e5-2b87-4ebd-9ac6-e97c027dafa8",
-     "typ": "stránka",
-     "znakov": 1307
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/967401ff-b96a-458c-9cf8-efb3102159bd",
-     "typ": "odkaz",
-     "znakov": 60000
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/967401ff-b96a-458c-9cf8-efb3102159bd",
-     "typ": "odkaz",
-     "znakov": 60000
-    }
-   ],
-   "chyba": "",
-   "znakov": 81578,
-   "subor": "data/detaily/2026-11-22/112070edc845.txt",
-   "kluc": {
-    "kontakt": [
-     "telnikova@presov.sk alebo ústne do zápisnice na Mestskom úrade v Prešove u predkladateľa návrhu rozpočt",
-     "teľ návrhu rozpočtu: Ing. Radko Lapoš, MBA, vedúci odboru financií, Mestský úrad v Prešove, Jarková 24,",
-     "teľností a poplatku za komunálne odpady a drobné stavebné odpady – celkové objemy daní sú napočítané po"
-    ],
-    "financovanie": [
-     "dotácie 119 098 132 943 129 400 141 400 215 700 215 700 0 0 226 500 226 500 0 0 158 900 158 900 0 0 2. Ľudské zdroje 10 017 429 11 858 302 12 011 7"
-    ]
-   }
-  },
-  {
-   "id": "01536303431e",
-   "zdroj": "web obce",
-   "obec": "Rakúsy",
-   "okres": "Kežmarok",
-   "title": "Nový text na stránke",
-   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/",
-   "subory": [
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/",
-     "typ": "stránka",
-     "znakov": 134723
-    },
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/montaz-a-dodavka-kovovych-ramov-osadenie-pozinkovanych-rostov-na-kanalizaciu-67-m-1801.html?kshow=44",
-     "typ": "odkaz",
-     "znakov": 2043
-    },
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/vypracovanie-ziadosti-o-dotaciu-l4-zvysovanie-energetickej-ucinnosti-existujucich-verejnych-1754.html?kshow=44",
-     "typ": "odkaz",
-     "znakov": 2083
-    },
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/objednavka-potravin-pre-skolsku-jedalen-cibula-5-kg-petrzlen-15-kg-petrzlenova-vnat-1619.html?kshow=44",
-     "typ": "odkaz",
-     "znakov": 2045
-    }
-   ],
-   "chyba": "",
-   "znakov": 36879,
-   "subor": "data/detaily/2026-11-22/01536303431e.txt",
-   "kluc": {
-    "kontakt": [
-     "teľná lavička BX2 Vyvesené: 6. 2. 2020 Dátum zvesenia: 21. 2. 2020 Pracovné odevy Vyvesené: 5. 2. 2020",
-     "telocvične Vyvesené: 2. 12. 2019 Dátum zvesenia: 17. 12. 2019 Mikulášske balíčky Vyvesené: 2. 12. 2019",
-     "teľa - Personálny a mzdový poradca podnikateľa Vyvesené: 25. 10. 2019 Dátum zvesenia: 8. 11. 2019 Občer"
-    ],
-    "financovanie": [
-     "dotaciu-l4-zvysovanie-energetickej-ucinnosti-existujucich-verejnych-1754.html?kshow=44 Vypracovanie žiadosti o dotáciu L4 Zvyšovanie energetickej ú",
-     "dotáciu L4 Zvyšovanie energetickej účinnosti existujúcich verejných... Typ: Objednávka Číslo: bez čísla IJK Consulting Partner: IJK - Consulting, s"
+     "teľov psov Mor ošípaných Cirkev História Triedenie odpadu Kalendár udalosti Samospráva obce Oznamovanie",
+     "teľstvo Poslanci obecného zastupiteľstva Hlavný kontrolór Plán kontrolnej činnosti Povinné zverejňovani",
+     "teľa Verejné obstarávanie Dokumenty SČÍTANIE OBYVATEĽOV, DOMOV A BYTOV 2021 Voľby Voľby NR SR 2020 Voľb"
     ]
    }
   },
@@ -2289,27 +930,27 @@
     {
      "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/",
      "typ": "stránka",
-     "znakov": 96853
+     "znakov": 96858
     },
     {
      "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/1-predmetom-tejto-zmluvy-je-realizacia-zakazky-dodavka-stavebnych-prac-a-materialov-na-435.html?kshow=43",
      "typ": "odkaz",
-     "znakov": 2074
+     "znakov": 2079
     },
     {
      "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/dodatok-c1-zmluvy-o-zadanie-zakazky-dodanie-traktora-navesu-a-celneho-nakladaca-417.html?kshow=43",
      "typ": "odkaz",
-     "znakov": 2031
+     "znakov": 2036
     },
     {
      "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/zmluva-o-dielo-dobudovanie-kanalizacie-nadrz-na-primarny-zachyt-znecistenia-612.html?kshow=43",
      "typ": "odkaz",
-     "znakov": 2052
+     "znakov": 2057
     }
    ],
    "chyba": "",
-   "znakov": 36831,
-   "subor": "data/detaily/2026-11-22/9bbf2438027c.txt",
+   "znakov": 36846,
+   "subor": "data/detaily/2026-11-23/9bbf2438027c.txt",
    "kluc": {
     "kontakt": [
      "teľa o pripojenie do distribučnej... Vyvesené: 5. 3. 2020 Dátum zvesenia: 20. 3. 2020 Nájomná zmluva za",
@@ -2324,87 +965,139 @@
    }
   },
   {
-   "id": "ae7e900f041b",
+   "id": "01536303431e",
    "zdroj": "web obce",
    "obec": "Rakúsy",
    "okres": "Kežmarok",
-   "title": "Rozpočet obce 2017-2019",
-   "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/rozpocet-obce-2017-2019-30.html?kshow=9",
+   "title": "Nový text na stránke",
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/",
    "subory": [
     {
-     "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/rozpocet-obce-2017-2019-30.html?kshow=9",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/",
      "typ": "stránka",
-     "znakov": 1873
+     "znakov": 134728
     },
     {
-     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah30_1.pdf&original=schvaleny-programovy-rozpocet-r-2017-2019.pdf",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/montaz-a-dodavka-kovovych-ramov-osadenie-pozinkovanych-rostov-na-kanalizaciu-67-m-1801.html?kshow=44",
      "typ": "odkaz",
-     "znakov": 60000
+     "znakov": 2048
     },
     {
-     "url": "https://www.rakusy.sk/zverejnovanie/projekty/cinnost-miestnej-obcianskej-poriadkovej-sluzby-v-obci-rakusy/",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/vypracovanie-ziadosti-o-dotaciu-l4-zvysovanie-energetickej-ucinnosti-existujucich-verejnych-1754.html?kshow=44",
      "typ": "odkaz",
-     "znakov": 4758
+     "znakov": 2088
     },
     {
-     "url": "https://www.rakusy.sk/zverejnovanie/projekty/poskytovanie-miestnej-obcianskej-poriadkovej-sluzby-v-obci-rakusy-2018/",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/objednavka-potravin-pre-skolsku-jedalen-cibula-5-kg-petrzlen-15-kg-petrzlenova-vnat-1619.html?kshow=44",
      "typ": "odkaz",
-     "znakov": 7098
+     "znakov": 2050
     }
    ],
    "chyba": "",
-   "znakov": 54239,
-   "subor": "data/detaily/2026-11-22/ae7e900f041b.txt",
+   "znakov": 36894,
+   "subor": "data/detaily/2026-11-23/01536303431e.txt",
    "kluc": {
     "kontakt": [
-     "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po",
-     "Tel: +421/52 452 67 28 Email: obec@rakusy.sk Úradné hodiny PO 07:00-12:00 12:30-15:00 UT 07:00-12:00 12:",
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak"
+     "teľná lavička BX2 Vyvesené: 6. 2. 2020 Dátum zvesenia: 21. 2. 2020 Pracovné odevy Vyvesené: 5. 2. 2020",
+     "telocvične Vyvesené: 2. 12. 2019 Dátum zvesenia: 17. 12. 2019 Mikulášske balíčky Vyvesené: 2. 12. 2019",
+     "teľa - Personálny a mzdový poradca podnikateľa Vyvesené: 25. 10. 2019 Dátum zvesenia: 8. 11. 2019 Občer"
     ],
     "financovanie": [
-     "dotácií v roku 2016 budú realizované v nasledujúcej štruktúre: 3.1. Transfer zo ŠR na prenesené kompetencie na školstvo:...........................",
-     "dotácie poskytované z rozpočtu obce podľa VZN č.1/2015 P.č. Činnosť 2017 2018 2019 1. 600 Bežné výdavky 2 000 2 000 2 000 Cieľ Ukazovateľ výkonnost",
-     "dotácie poskytované z rozpočtu obce podľa VZN č.1/2015 P.č. Činnosť 2017 2018 2019 1. 600 Bežné výdavky 2 000 2 000 2 000 11 Podprogram 4.2: Občian"
+     "dotaciu-l4-zvysovanie-energetickej-ucinnosti-existujucich-verejnych-1754.html?kshow=44 Vypracovanie žiadosti o dotáciu L4 Zvyšovanie energetickej ú",
+     "dotáciu L4 Zvyšovanie energetickej účinnosti existujúcich verejných... Typ: Objednávka Číslo: bez čísla IJK Consulting Partner: IJK - Consulting, s"
     ]
    }
   },
   {
-   "id": "8e54661be67c",
+   "id": "e7bd96dd8403",
    "zdroj": "web obce",
    "obec": "Rakúsy",
    "okres": "Kežmarok",
-   "title": "Zmeny rozpočtu rok 2016",
-   "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/zmeny-rozpoctu-rok-2016-25.html?kshow=8",
+   "title": "Rekonštrukcia multifunkčného ihriska",
+   "url": "https://www.rakusy.sk/zverejnovanie/dotacie/rekonstrukcia-multifunkcneho-ihriska/",
    "subory": [
     {
-     "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/zmeny-rozpoctu-rok-2016-25.html?kshow=8",
+     "url": "https://www.rakusy.sk/zverejnovanie/dotacie/rekonstrukcia-multifunkcneho-ihriska/",
      "typ": "stránka",
-     "znakov": 2333
+     "znakov": 3783
     },
     {
-     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah25_1.pdf&original=zmena_c_8_rozpoctu_obce_rakusy_r_2016.pdf",
+     "url": "https://www.rakusy.sk/zverejnovanie/dotacie/modernizacia-multifunkcneho-sportoveho-ihriska-v-obci-rakusy/",
      "typ": "odkaz",
-     "znakov": 17475
+     "znakov": 4462
     },
     {
-     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah25_4.pdf&original=zmena_c_7_rozpoctu_obce_rakusy_r_2016.pdf",
+     "url": "https://www.rakusy.sk/zverejnovanie/projekty/rekonstrukcia-komunitneho-centra-v-obci-rakusy/",
      "typ": "odkaz",
-     "znakov": 17938
+     "znakov": 2268
     },
     {
-     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah25_5.pdf&original=zmena_c_6_rozpoctu_obce_rakusy_r_2016.pdf",
+     "url": "https://www.rakusy.sk/zverejnovanie/projekty/rozsirenie-verejneho-vodovodu-v-obci-rakusy/",
      "typ": "odkaz",
-     "znakov": 16959
+     "znakov": 1845
     }
    ],
    "chyba": "",
-   "znakov": 55237,
-   "subor": "data/detaily/2026-11-22/8e54661be67c.txt",
+   "znakov": 12777,
+   "subor": "data/detaily/2026-11-23/e7bd96dd8403.txt",
    "kluc": {
     "kontakt": [
+     "teľov v okresoch Prešovského kraja. Podaný projekt bol zameraný na rekonštrukciu multifunkčného ihriska",
+     "teľa. Celkové náklady na rekonštrukciu multifunkčného ihriska v obci Rakúsy predstavujú čiastku 20 745€",
+     "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po"
+    ],
+    "financovanie": [
+     "dotacie/rekonstrukcia-multifunkcneho-ihriska/ Rekonštrukcia multifunkčného ihriska - Oficiálna stránka obce Rakúsy +421 524 684 271 obec@rakusy.sk",
+     "dotácie z rozpočtu PSK pre rok 2021 na financovanie projektov realizovaných na podporu verejného života miest, obcí právnických osôb, záujmových zd",
+     "dotáciu vo výške 8000 eur z celkovej sumy rozpočtu 20 754 eur. Vzhľadom na množstvo podaných projektov nám nebola poskytnutá dotácia v plnej výške"
+    ]
+   }
+  },
+  {
+   "id": "8d5b022fd76a",
+   "zdroj": "web obce",
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
+   "title": "Cyklotrasy v okolí",
+   "url": "https://www.rakusy.sk/obcan-1/navstevnik/cyklotrasy-v-okoli/",
+   "subory": [
+    {
+     "url": "https://www.rakusy.sk/obcan-1/navstevnik/cyklotrasy-v-okoli/",
+     "typ": "stránka",
+     "znakov": 2236
+    },
+    {
+     "url": "https://www.rakusy.sk/e_download.php?file=data/editor/208sk_1.pdf&original=produktova_publikacia.pdf",
+     "typ": "odkaz",
+     "znakov": 40570
+    },
+    {
+     "url": "https://www.rakusy.sk/e_download.php?file=data/editor/208sk_2.pdf&original=mapacyklotraspsk.pdf",
+     "typ": "odkaz",
+     "znakov": 60000
+    },
+    {
+     "url": "https://www.rakusy.sk/zverejnovanie/projekty/projekt-int-po-i-0025/",
+     "typ": "odkaz",
+     "znakov": 14463
+    }
+   ],
+   "chyba": "",
+   "znakov": 90000,
+   "subor": "data/detaily/2026-11-23/8d5b022fd76a.txt",
+   "kluc": {
+    "kontakt": [
+     "teľom. Ako sa hovorí: \"Sto ľudí, sto chutí\" a to isté bude určite platiť aj pri výbere ideálnej cyklotr",
      "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po",
-     "Tel: +421/52 452 67 28 Email: obec@rakusy.sk Úradné hodiny PO 07:00-12:00 12:30-15:00 UT 07:00-12:00 12:",
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak"
+     "Tel: +421/52 452 67 28 Email: obec@rakusy.sk Úradné hodiny PO 07:00-12:00 12:30-15:00 UT 07:00-12:00 12:"
+    ],
+    "financovanie": [
+     "triedkov Európskej únie, Regionálny ope- račný program, Prio === ODKAZ https://www.rakusy.sk/e_download.php?file=data/editor/208sk_2.pdf&original=mapac",
+     "R (80%) Štátny rozpočet (12%) Vlastný vklad (8%) Spolu Účasť partnera Rakúsy 31 429,08€ 4 714,37 € 3 142,91 € 39 286,36 € 100 % Spolu 31 429,08 € 4 714,",
+     "kou úniou z Európskeho fondu regionálneho rozvoja v rámci programu Interreg Poľsko-Slovensko 2021-2027. Správa z akcie Úloha č. 1: Prezentácia a odborn"
+    ],
+    "dodavatel": [
+     "nska, ktorý nie je kmeňovým zamestnancom žiadateľa. Predpokladaný čas trvania akcie je 14 hodín v prvý deň a 7 hodín v druhý deň,"
     ]
    }
   },
@@ -2419,21 +1112,54 @@
     {
      "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/faktury-do-maja-2020/nastavitelna-lavicka-bx2-7297.html?kshow=45",
      "typ": "stránka",
-     "znakov": 1918
+     "znakov": 1923
     },
     {
      "url": "https://www.rakusy.sk/organizacie/kluby-a-spolky/ochotnicky-divadelny-subor/pozvanky-na-predstavenia/",
      "typ": "odkaz",
-     "znakov": 10671
+     "znakov": 10883
     }
    ],
    "chyba": "",
-   "znakov": 12842,
-   "subor": "data/detaily/2026-11-22/505938e9e82a.txt",
+   "znakov": 13059,
+   "subor": "data/detaily/2026-11-23/505938e9e82a.txt",
    "kluc": {
     "kontakt": [
      "telna-lavicka-bx2-7297.html?kshow=45 Nastaviteľná lavička BX2 - Oficiálna stránka obce Rakúsy +421 524",
      "teľná lavička BX2 Typ: Faktúra 2020 Číslo: DF2020/125 Partner: Peter Zajíček IČO: 50775669 Cena s DPH:",
+     "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po"
+    ],
+    "financovanie": [
+     "Dotácie Modernizácia multifunkčného športového ihriska v obci Rakúsy Nadácia Pontis Rekonštrukcia multifunkčného ihriska SODB 2021 Voľby Referendá"
+    ]
+   }
+  },
+  {
+   "id": "4fc5b26d3ef3",
+   "zdroj": "web obce",
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
+   "title": "ICONIQ nastaviteľná lavička BX2",
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/iconiq-nastavitelna-lavicka-bx2-2411.html?kshow=44",
+   "subory": [
+    {
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/iconiq-nastavitelna-lavicka-bx2-2411.html?kshow=44",
+     "typ": "stránka",
+     "znakov": 1940
+    },
+    {
+     "url": "https://www.rakusy.sk/organizacie/kluby-a-spolky/ochotnicky-divadelny-subor/pozvanky-na-predstavenia/",
+     "typ": "odkaz",
+     "znakov": 10883
+    }
+   ],
+   "chyba": "",
+   "znakov": 13086,
+   "subor": "data/detaily/2026-11-23/4fc5b26d3ef3.txt",
+   "kluc": {
+    "kontakt": [
+     "telna-lavicka-bx2-2411.html?kshow=44 ICONIQ nastaviteľná lavička BX2 - Oficiálna stránka obce Rakúsy +4",
+     "teľná lavička BX2 Typ: Objednávka Číslo: IO 51748 Partner: GorillaSports, s.r.o. IČO: 51727544 Cena s D",
      "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po"
     ],
     "financovanie": [
@@ -2452,7 +1178,7 @@
     {
      "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/zmluva-o-poskytovani-sluzieb-odborna-kontrola-multifunkcneho-ihriska-v-obci-rakusy-988.html?kshow=43",
      "typ": "stránka",
-     "znakov": 2082
+     "znakov": 2087
     },
     {
      "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah988_1.pdf&original=zops-182018-technicka-inspekcia.pdf",
@@ -2462,17 +1188,17 @@
     {
      "url": "https://www.rakusy.sk/zverejnovanie/dotacie/modernizacia-multifunkcneho-sportoveho-ihriska-v-obci-rakusy/",
      "typ": "odkaz",
-     "znakov": 4457
+     "znakov": 4462
     },
     {
      "url": "https://www.rakusy.sk/zverejnovanie/projekty/outdoor-fitness-ihrisko-v-obci-rakusy/",
      "typ": "odkaz",
-     "znakov": 1787
+     "znakov": 1792
     }
    ],
    "chyba": "",
-   "znakov": 8872,
-   "subor": "data/detaily/2026-11-22/3078aafcde25.txt",
+   "znakov": 8887,
+   "subor": "data/detaily/2026-11-23/3078aafcde25.txt",
    "kluc": {
     "kontakt": [
      "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po",
@@ -2487,83 +1213,37 @@
    }
   },
   {
-   "id": "54bbdf6ab51e",
+   "id": "e0ff98cb91f2",
    "zdroj": "web obce",
    "obec": "Rakúsy",
    "okres": "Kežmarok",
-   "title": "Objednávka stanovenia všeobecnej hodnoty nehnuteľnosti - Cyklotrasa",
-   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/objednavka-stanovenia-vseobecnej-hodnoty-nehnutelnosti-cyklotrasa-1609.html?kshow=44",
+   "title": "Úprava terénu pre výstavbu detského ihriska",
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/uprava-terenu-pre-vystavbu-detskeho-ihriska-2455.html?kshow=44",
    "subory": [
     {
-     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/objednavka-stanovenia-vseobecnej-hodnoty-nehnutelnosti-cyklotrasa-1609.html?kshow=44",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/uprava-terenu-pre-vystavbu-detskeho-ihriska-2455.html?kshow=44",
      "typ": "stránka",
-     "znakov": 2023
+     "znakov": 1943
     },
     {
-     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah1609_1.pdf&original=objednavka_201709_612017_objednavka-stanovenia-vseobecn.pdf",
+     "url": "https://www.rakusy.sk/zverejnovanie/dotacie/modernizacia-multifunkcneho-sportoveho-ihriska-v-obci-rakusy/",
      "typ": "odkaz",
-     "znakov": 831
+     "znakov": 4462
     },
     {
-     "url": "https://www.rakusy.sk/zverejnovanie/projekty/cyklotrasa-rakusy-mlynceky/",
+     "url": "https://www.rakusy.sk/zverejnovanie/dotacie/rekonstrukcia-multifunkcneho-ihriska/",
      "typ": "odkaz",
-     "znakov": 2816
+     "znakov": 3783
     },
     {
-     "url": "https://www.rakusy.sk/obcan-1/stavebny-urad-a-oznamenia/kupa-predaj-nehnutelnosti/",
+     "url": "https://www.rakusy.sk/organizacie/kluby-a-spolky/ochotnicky-divadelny-subor/pozvanky-na-predstavenia/",
      "typ": "odkaz",
-     "znakov": 3876
+     "znakov": 10883
     }
    ],
    "chyba": "",
-   "znakov": 10066,
-   "subor": "data/detaily/2026-11-22/54bbdf6ab51e.txt",
-   "kluc": {
-    "kontakt": [
-     "telnosti-cyklotrasa-1609.html?kshow=44 Objednávka stanovenia všeobecnej hodnoty nehnuteľnosti - Cyklotr",
-     "teľnosti - Cyklotrasa Typ: Objednávka Číslo: 612017 Partner: Ing. Katarína Kumorovitzová IČO: 41013018",
-     "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po"
-    ],
-    "financovanie": [
-     "financovania : refundácia a/alebo predfinancovanie Operačný program: Integrovaný regionálny operačný program Spolufinancovaný fondom: Európsky fond regi"
-    ],
-    "dodavatel": [
-     "Dodávateľ Ing. Katarína Kumorovitzová Letná 3476/17 05801 Poprad IČO: 41013018 Objednávka č.: 612017 Vybavuje: Dátum vystavenia: D"
-    ]
-   }
-  },
-  {
-   "id": "b9e81bc935ff",
-   "zdroj": "web obce",
-   "obec": "Rakúsy",
-   "okres": "Kežmarok",
-   "title": "Rozpočet obce 2016-2018",
-   "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/rozpocet-obce-2016-2018-31.html?kshow=9",
-   "subory": [
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/rozpocet-obce-2016-2018-31.html?kshow=9",
-     "typ": "stránka",
-     "znakov": 1862
-    },
-    {
-     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah31_1.pdf&original=schvaleny-rozpocet-r-2016-2018.pdf",
-     "typ": "odkaz",
-     "znakov": 60000
-    },
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/projekty/poskytovanie-miestnej-obcianskej-poriadkovej-sluzby-v-obci-rakusy-2018/",
-     "typ": "odkaz",
-     "znakov": 7098
-    },
-    {
-     "url": "https://www.rakusy.sk/zverejnovanie/projekty/rozsirenie-verejneho-vodovodu-v-osade-rakusy/",
-     "typ": "odkaz",
-     "znakov": 3663
-    }
-   ],
-   "chyba": "",
-   "znakov": 53106,
-   "subor": "data/detaily/2026-11-22/b9e81bc935ff.txt",
+   "znakov": 21558,
+   "subor": "data/detaily/2026-11-23/e0ff98cb91f2.txt",
    "kluc": {
     "kontakt": [
      "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po",
@@ -2571,385 +1251,220 @@
      "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak"
     ],
     "financovanie": [
-     "dotácií v roku 2016 budú realizované v nasledujúcej štruktúre: 3.1. Transfer zo ŠR na prenesené kompetencie na školstvo:...........................",
-     "dotácie poskytované z rozpočtu obce podľa VZN č.1/2015 P.č. Činnosť 2016 2017 2018 1. 600 Bežné výdavky 2 000 2 000 2 000 Cieľ Ukazovateľ výkonnost",
-     "dotácie poskytované z rozpočtu obce podľa VZN č.1/2015 P.č. Činnosť 2016 2017 2018 1. 600 Bežné výdavky 2 000 2 000 2 000 11 Podprogram 4.2: Občian"
+     "dotacie/modernizacia-multifunkcneho-sportoveho-ihriska-v-obci-rakusy/ Modernizácia multifunkčného športového ihriska v obci Rakúsy - Oficiálna strá",
+     "financovania: Dotácia podľa VZN Prešovského samosprávneho kraja č. 57/2017 Poskytovateľ: Prešovský samosprávny kraj Prijímateľ: Obec Rakúsy Sídlo prijím",
+     "dotácie: 1400,00 € Opis projektu Súčasne oplotenie neplní funkciu chráneného areálu a je značne poškodené. Ide o jediné multifunkčné ihrisko v obci"
     ]
    }
   },
   {
-   "id": "4e6b365b0f3d",
-   "zdroj": "CUET",
-   "obec": "Rožňava",
-   "okres": "Rožňava",
-   "title": "Návrh rozpočtu mesta",
-   "url": "https://cuet.slovensko.sk/en/dokument/e0389719-e705-48cc-a649-a7b36f8f2779",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/e0389719-e705-48cc-a649-a7b36f8f2779",
-     "typ": "stránka",
-     "znakov": 1705
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/292afc19-eeb7-41f3-b507-3db460755d16",
-     "typ": "odkaz",
-     "znakov": 60000
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/ca9ff999-a41c-4b67-a000-7bcbbd1b09c0",
-     "typ": "odkaz",
-     "znakov": 434
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/292afc19-eeb7-41f3-b507-3db460755d16",
-     "typ": "odkaz",
-     "znakov": 60000
-    }
-   ],
-   "chyba": "",
-   "znakov": 82501,
-   "subor": "data/detaily/2026-11-22/4e6b365b0f3d.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva v Rožňave dňa 07.12.2026 K bodu rokovania č.: Názov správy: Návrh rozpočtu mesta Rožňava vrátan",
-     "teľstvo v Rožňave Prerokované: a/ schvaľuje rozpočet mesta vrátane rozpočtov RO a PO na rok 2027 a výhľ",
-     "teľstvo: berie na vedomie stanovisko hlavnej kontrolórky a 1) schvaľuje rozpočet mesta na rok 2027 vrát"
-    ],
-    "financovanie": [
-     "financovanie cirkevných a súkromných škôl na základe zmlúv o poskytovaní finančných prostriedkov na mzdy a prevádzku neštátnych škôl a školských zariade",
-     "financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov na rok 2027 7) schvaľuje kapitálové výdavky mesta tak, a",
-     "dotácie v roku 2027 pre organizácie v oblasti kultúry spolu v sume 45 000 € a pre organizácie v oblasti športu spolu v sume 135 000 € 11) berie na"
-    ],
-    "dodavatel": [
-     "dodávateľské faktúry z bežného roka, splatné v nasledujúcom roku a výnosy budúcich období, t.j. vstupenky uhradené vopred za podujati"
-    ]
-   }
-  },
-  {
-   "id": "d944783a074a",
-   "zdroj": "CUET",
-   "obec": "Rudňany",
-   "okres": "Spišská Nová Ves",
-   "title": "Finančný Rozpočet na roky 2027- 2029 - NÁVRH",
-   "url": "https://cuet.slovensko.sk/en/dokument/5b1bc1da-de8d-415f-b41f-5f44dc61afda",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/5b1bc1da-de8d-415f-b41f-5f44dc61afda",
-     "typ": "stránka",
-     "znakov": 3285
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/ecdeddd1-a738-4fd6-8775-bb26b8fbfe90",
-     "typ": "odkaz",
-     "znakov": 6579
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/c0e1f379-69e4-4726-a19b-118075d0c1aa",
-     "typ": "odkaz",
-     "znakov": 29027
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/7a767542-f384-4069-99dc-acc8241e6384",
-     "typ": "odkaz",
-     "znakov": 5630
-    }
-   ],
-   "chyba": "",
-   "znakov": 44881,
-   "subor": "data/detaily/2026-11-22/d944783a074a.txt",
-   "kluc": {
-    "kontakt": [
-     "teľnosti 10000,00 138 000,00 10 000,00 20 000,00 0,00 0,00 0,00 711001 Nákup pozemkov 0,00 0,00 0,00 0,",
-     "teľom 68 182,75 10 851,54 0,00 3 109,12 63 000,00 0,00 0,00 08.1.0 Rekreačné a športové služby 14 400,0",
-     "telna tabula 0,00 0,00 0,00 1 710,00 0,00 0,00 0,00 717 rekonštrukcia 0,00 0,00 0,00 1 399,12 0,00 0,00"
-    ],
-    "financovanie": [
-     "Dotácia na Novostavbu MŠ Zápalenica 70 000,00 0,00 0,00 0,00 0,00 322001 Dotácia 100 000,00 0,00 0,00 0,00 0,00 0,00 322001 Dotácia na zvýšenie bez",
-     "Dotácia na odstrán.hav.stavu.plyn.kotol. 100 000,00 0,00 0,00 0,00 0,00 0,00 322001 Dotácia Zberný dvor 366 492,00 0,00 349 179,21 0,00 322001 Dotá",
-     "Dotácia na vybudovanie ČOV 2 000 000,00 2 000 000,00 4 300 000,00 322001 Dotácia na rekonštrukciu mostného objektu 418 096,00 418 096,00 322001 Dot"
-    ]
-   }
-  },
-  {
-   "id": "60c5e9d8e519",
-   "zdroj": "CUET",
-   "obec": "Rudňany",
-   "okres": "Spišská Nová Ves",
-   "title": "Programový rozpočet na roky 2027-2029 - NÁVRH",
-   "url": "https://cuet.slovensko.sk/en/dokument/ac9c554a-85cc-4010-b702-0a4b042e593a",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/ac9c554a-85cc-4010-b702-0a4b042e593a",
-     "typ": "stránka",
-     "znakov": 1489
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/13fa4777-b103-4814-ae08-1af520ea3cfe",
-     "typ": "odkaz",
-     "znakov": 60000
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/13fa4777-b103-4814-ae08-1af520ea3cfe",
-     "typ": "odkaz",
-     "znakov": 60000
-    }
-   ],
-   "chyba": "",
-   "znakov": 81760,
-   "subor": "data/detaily/2026-11-22/60c5e9d8e519.txt",
-   "kluc": {
-    "kontakt": [
-     "teľskom prostredí, ktoré bude stimulovať podnikanie a vznik a udržanie pracovných miest. Rudňany budú m",
-     "teľstva. Program hospodárskeho a sociálneho rozvoja obce Rudňany určuje základnú víziu smerovania rozvo",
-     "teľné ukazovatele, ktoré najlepším spôsobom umožnia identifikovať, čo obec v danom roku plánuje realizo"
-    ],
-    "financovanie": [
-     "financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov, - s opatrením MF SR č. MF/010175/2004-42 zo dňa 8. 12.",
-     "dotácia na šport 6.1.1. Futbalový klub 6.2. Športový areál 7. Program: Kultúra 7.1. Knižnica, Klub seniorov 7.3. Podpora kultúrnych podujatí a akti",
-     "Dotácie sociálnej pomoci 9.2. Zariadenie pre seniorov sv. Klementa 9.4. Vývarovňa 9.5. Rozvojové tímy 9.6. Opatrovateľská služby 10. Program: Bezpe"
-    ],
-    "dodavatel": [
-     "dodávateľsky firmou Brantner NOVA s. r. o. Spišská Nová Ves a taktiež aj stavebný odpad. Separovaný zber je fakturovaný združením SEZ",
-     "dodávateľa. Separovaný zber bude 2 krát do roka fakturovaný dodávateľom SEZO SPIŚ podľa uzatvorenej zmluvy s vyhodnotením separova"
-    ]
-   }
-  },
-  {
-   "id": "6ed9b2ce70e1",
+   "id": "c975fe27c550",
    "zdroj": "web obce",
-   "obec": "Rudňany",
-   "okres": "Spišská Nová Ves",
-   "title": "19. 11. 2026 Programový rozpočet na roky 2027-2029 - NÁVRH Úradná tabuľa",
-   "url": "https://www.rudnany.sk/samosprava/uradna-tabula/programovy-rozpocet-na-roky-2027-2029-navrh-1044.html",
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
+   "title": "Betonárske práce - oplotenie cintorína",
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/betonarske-prace-oplotenie-cintorina-1907.html?kshow=44",
    "subory": [
     {
-     "url": "https://www.rudnany.sk/samosprava/uradna-tabula/programovy-rozpocet-na-roky-2027-2029-navrh-1044.html",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/betonarske-prace-oplotenie-cintorina-1907.html?kshow=44",
      "typ": "stránka",
-     "znakov": 2069
+     "znakov": 1938
     },
     {
-     "url": "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1017_2.pdf&original=Programov%C3%BD%20rozpo%C4%8Det%20obce%20na%20roky%202027%20-2029%20n%C3%A1vrh.pdf",
+     "url": "https://www.rakusy.sk/zverejnovanie/projekty/rakusy-vodozadrzne-opatrenia-v-areali-kostola-a-cintorina/",
      "typ": "odkaz",
-     "znakov": 60000
+     "znakov": 1941
     },
     {
-     "url": "https://www.rudnany.sk/kultura-a-sport/obecny-sportovy-klub/",
+     "url": "https://www.rakusy.sk/organizacie/kluby-a-spolky/ochotnicky-divadelny-subor/pozvanky-na-predstavenia/",
      "typ": "odkaz",
-     "znakov": 3060
+     "znakov": 10883
     },
     {
-     "url": "https://www.rudnany.sk/samosprava/uradna-tabula/",
+     "url": "https://www.rakusy.sk/obcan-1/sprava-cintorina/virtualny-cintorin-obce-rakusy/",
      "typ": "odkaz",
-     "znakov": 2633
+     "znakov": 2071
     }
    ],
    "chyba": "",
-   "znakov": 48192,
-   "subor": "data/detaily/2026-11-22/6ed9b2ce70e1.txt",
+   "znakov": 17308,
+   "subor": "data/detaily/2026-11-23/c975fe27c550.txt",
    "kluc": {
     "kontakt": [
-     "teligentných telefónoch. Využívajte našu novú mobilnú aplikáciu - V OBRAZE. Fotogalérie Náhodná fotogal",
-     "Telefon : +421 53 4499102 Sekretariát: sekretariat@rudnany.sk Podateľňa : podatelna@rudnany.sk Starosta : sta",
+     "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po",
+     "Tel: +421/52 452 67 28 Email: obec@rakusy.sk Úradné hodiny PO 07:00-12:00 12:30-15:00 UT 07:00-12:00 12:",
      "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak"
     ],
     "financovanie": [
-     "financovaní základných škôl, stredných škôl a školských zariadení v znení neskorších predpisov, - s opatrením MF SR č. MF/010175/2004-42 zo dňa 8. 12.",
-     "dotácia na šport 6.1.1. Futbalový klub 6.2. Športový areál 7. Program: Kultúra 7.1. Knižnica, Klub seniorov 7.3. Podpora kultúrnych podujatí a akti",
-     "Dotácie sociálnej pomoci 9.2. Zariadenie pre seniorov sv. Klementa 9.4. Vývarovňa 9.5. Rozvojové tímy 9.6. Opatrovateľská služby 10. Program: Bezpe"
-    ],
-    "dodavatel": [
-     "dodávateľsky firmou Brantner NOVA s. r. o. Spišská Nová Ves a taktiež aj stavebný odpad. Separovaný zber je fakturovaný združením SEZ",
-     "dodávateľa. Separovaný zber bude 2 krát do roka fakturovaný dodávateľom SEZO SPIŚ podľa uzatvorenej zmluvy s vyhodnotením separova"
+     "Dotácie Modernizácia multifunkčného športového ihriska v obci Rakúsy Nadácia Pontis Rekonštrukcia multifunkčného ihriska SODB 2021 Voľby Referendá"
     ]
    }
   },
   {
-   "id": "951f2743f3bc",
+   "id": "716d32f23674",
    "zdroj": "web obce",
-   "obec": "Rudňany",
-   "okres": "Spišská Nová Ves",
-   "title": "19. 11. 2026 Finančný Rozpočet na roky 2027- 2029 - NÁVRH Úradná tabuľa",
-   "url": "https://www.rudnany.sk/samosprava/uradna-tabula/financny-rozpocet-na-roky-2027-2029-navrh-1045.html",
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
+   "title": "Zmluva na spracovanie žiadostí o NFP",
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/zmluva-na-spracovanie-ziadosti-o-nfp-1163.html?kshow=43",
    "subory": [
     {
-     "url": "https://www.rudnany.sk/samosprava/uradna-tabula/financny-rozpocet-na-roky-2027-2029-navrh-1045.html",
+     "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/zmluva-na-spracovanie-ziadosti-o-nfp-1163.html?kshow=43",
      "typ": "stránka",
-     "znakov": 2412
+     "znakov": 1984
     },
     {
-     "url": "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_1.pdf&original=Be%C5%BEn%C3%BD%20rozpo%C4%8Det%202027-2029.pdf",
+     "url": "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah1163_1.pdf&original=zmluva-na-spracovanie-ziadosti-o-nfp.pdf",
      "typ": "odkaz",
-     "znakov": 60000
+     "znakov": 4
     },
     {
-     "url": "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_2.pdf&original=Finan%C4%8Dn%C3%A9%20oper%C3%A1cie%202027-2029%20n%C3%A1vrh.pdf",
+     "url": "https://www.rakusy.sk/samosprava/kolektivna-zmluva/",
      "typ": "odkaz",
-     "znakov": 5630
+     "znakov": 2521
     },
     {
-     "url": "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_3.pdf&original=Kapitalov%C3%BD%20rozpo%C4%8Det%202027-2029%20n%C3%A1vrh.pdf",
+     "url": "https://www.rakusy.sk/obcan-1/stavebny-urad-a-oznamenia/ziadosti-tykajuce-sa-stavby/",
      "typ": "odkaz",
-     "znakov": 29027
+     "znakov": 2164
     }
    ],
    "chyba": "",
-   "znakov": 77651,
-   "subor": "data/detaily/2026-11-22/951f2743f3bc.txt",
+   "znakov": 7122,
+   "subor": "data/detaily/2026-11-23/716d32f23674.txt",
    "kluc": {
     "kontakt": [
-     "teligentných telefónoch. Využívajte našu novú mobilnú aplikáciu - V OBRAZE. Fotogalérie Náhodná fotogal",
-     "Telefon : +421 53 4499102 Sekretariát: sekretariat@rudnany.sk Podateľňa : podatelna@rudnany.sk Starosta : sta",
+     "Tel: +421/52 452 67 28 Mlynčeky Kežmarok Lendak Ľubica Malý Slavkov Slovenská Ves Spišská Belá Stráne po",
+     "Tel: +421/52 452 67 28 Email: obec@rakusy.sk Úradné hodiny PO 07:00-12:00 12:30-15:00 UT 07:00-12:00 12:",
      "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak"
-    ],
-    "financovanie": [
-     "Dotácia na údržbu vojnových hrobov 172,40 188,00 190,00 210,36 210,00 210,00 210,00 312001 Transfer obciam na školské potreby 4 598,20 13 000,00 13",
-     "Dotácia na stravovanie v HN 255 171,80 230 106,00 170 000,00 294 134,10 170 000,00 170 000,00 170 000,00 312001 Dotácia na výkon osobitného príjemc",
-     "Dotácia na projekt MOPS 0,00 154 354,00 0,00 86 191,48 138 269,00 69 134,00 0,00 312001 Dotácia na projekt MOPS paušal 0,00 0,00 0,00 0,00 6 913,00"
     ]
    }
   },
   {
-   "id": "c7a2dfcd4bb9",
+   "id": "03558cd933b5",
    "zdroj": "web obce",
    "obec": "Sabinov",
    "okres": "Sabinov",
    "title": "Hlasovací lístok - Participatívny rozpočet 2024 - Sabinov.pdf",
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "subory": [
     {
-     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=c2aea14c6e67c734ebc13eedde43feb5",
-     "typ": "stránka",
-     "znakov": 1857
-    },
-    {
-     "url": "https://www.sabinov.sk/obcan/participativny-rozpocet",
-     "typ": "odkaz",
-     "znakov": 5047
-    },
-    {
-     "url": "https://www.sabinov.sk/mesto/vzn-mesta-sabinov",
-     "typ": "odkaz",
-     "znakov": 2041
-    },
-    {
-     "url": "https://www.sabinov.sk/mesto//vzn-mesta-sabinov",
-     "typ": "odkaz",
-     "znakov": 2041
+     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=d6c231cb5b97c252fa24eb82e98f237a",
+     "typ": "dokument",
+     "znakov": 2643
     }
    ],
    "chyba": "",
-   "znakov": 11323,
-   "subor": "data/detaily/2026-11-22/c7a2dfcd4bb9.txt",
+   "znakov": 2643,
+   "subor": "data/detaily/2026-11-23/03558cd933b5.txt",
    "kluc": {
     "kontakt": [
-     "teľstvo Zvukové záznamy MZ Transparentné mesto Organizácie mesta Projekty z EÚ VZN mesta Sabinov Mestsk",
-     "TEĽ NÁVŠTEVNÍK Access forbidden! Kontakt Mestský úrad Sabinov Námestie slobody 57 083 01 Sabinov Tel. ús",
-     "e-mail : podatelna@sabinov.sk msu@sabinov.sk Užitočné odkazy Mestské kultúrne stredisko Centrum sociálnych s"
+     "teľnosti spĺňajú všetky tri. Keďže všetky zaslané nápady sa finančne zmestia do vyčleneného balíka vo v",
+     "E-mailový kontakt: * 5. Dátum narodenia (minimálne 15 rokov): * Príklad: 7. január 2019 6. Súhlas so sprac",
+     "emailom: msu@sabinov.sk Odvolanie súhlasu nemá vplyv na zákonnosť spracúvania vychádzajúceho zo súhlasu p"
     ]
    }
   },
   {
-   "id": "c006830ec93f",
+   "id": "942342bda75e",
    "zdroj": "web obce",
    "obec": "Sabinov",
    "okres": "Sabinov",
    "title": "jozkova-lavicka.jpg",
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "subory": [
     {
-     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=c2aea14c6e67c734ebc13eedde43feb5",
-     "typ": "stránka",
-     "znakov": 1857
+     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=d6c231cb5b97c252fa24eb82e98f237a",
+     "typ": "dokument",
+     "znakov": 20000
     }
    ],
    "chyba": "",
-   "znakov": 2010,
-   "subor": "data/detaily/2026-11-22/c006830ec93f.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstvo Zvukové záznamy MZ Transparentné mesto Organizácie mesta Projekty z EÚ VZN mesta Sabinov Mestsk",
-     "TEĽ NÁVŠTEVNÍK Access forbidden! Kontakt Mestský úrad Sabinov Námestie slobody 57 083 01 Sabinov Tel. ús",
-     "e-mail : podatelna@sabinov.sk msu@sabinov.sk Užitočné odkazy Mestské kultúrne stredisko Centrum sociálnych s"
-    ]
-   }
+   "znakov": 20000,
+   "subor": "data/detaily/2026-11-23/942342bda75e.txt",
+   "kluc": {}
   },
   {
-   "id": "a70da48827bd",
+   "id": "0866f29a2789",
    "zdroj": "web obce",
    "obec": "Sabinov",
    "okres": "Sabinov",
    "title": "Statut-participatineho-rozpoctu-Mesta-Sabinov po zmene v roku 2025.pdf",
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "subory": [
     {
-     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=c2aea14c6e67c734ebc13eedde43feb5",
-     "typ": "stránka",
-     "znakov": 1857
-    },
-    {
-     "url": "https://www.sabinov.sk/mesto/vzn-mesta-sabinov",
-     "typ": "odkaz",
-     "znakov": 2041
-    },
-    {
-     "url": "https://www.sabinov.sk/mesto//vzn-mesta-sabinov",
-     "typ": "odkaz",
-     "znakov": 2041
-    },
-    {
-     "url": "https://www.sabinov.sk/podnikatel/program-hsr-mesta",
-     "typ": "odkaz",
-     "znakov": 3344
+     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=d6c231cb5b97c252fa24eb82e98f237a",
+     "typ": "dokument",
+     "znakov": 9475
     }
    ],
    "chyba": "",
-   "znakov": 9619,
-   "subor": "data/detaily/2026-11-22/a70da48827bd.txt",
+   "znakov": 9475,
+   "subor": "data/detaily/2026-11-23/0866f29a2789.txt",
    "kluc": {
     "kontakt": [
-     "teľstvo Zvukové záznamy MZ Transparentné mesto Organizácie mesta Projekty z EÚ VZN mesta Sabinov Mestsk",
-     "TEĽ NÁVŠTEVNÍK Access forbidden! Kontakt Mestský úrad Sabinov Námestie slobody 57 083 01 Sabinov Tel. ús",
-     "e-mail : podatelna@sabinov.sk msu@sabinov.sk Užitočné odkazy Mestské kultúrne stredisko Centrum sociálnych s"
+     "teľov mesta do procesu rozhodovania o účele využití verejných zdrojov, zvýšiť záujem o veci verejné, zl",
+     "telia možnosť hlasovaním priamo ovplyvniť vyčlenenie finančných prostriedkov na realizáciu projektov, k",
+     "teľstvo a) schvaľuje štatút PR b) schvaľuje výšku finančných prostriedkov vyčlenených na PR c) zriaďuje"
+    ],
+    "financovanie": [
+     "dotáciu v rámci PR žiada právnická osoba, nie je možné získať na realizáciu rovnakej alebo obdobnej aktivity dotáciu aj z inej dotačnej schémy Mest"
     ]
    }
   },
   {
-   "id": "64b313b14a8f",
+   "id": "1dbfbd5257f5",
    "zdroj": "web obce",
    "obec": "Sabinov",
    "okres": "Sabinov",
    "title": "Štatút participatívneho rozpočtu Mesta Sabinov.pdf",
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "subory": [
     {
-     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=c2aea14c6e67c734ebc13eedde43feb5",
-     "typ": "stránka",
-     "znakov": 1857
-    },
-    {
-     "url": "https://www.sabinov.sk/mesto/vzn-mesta-sabinov",
-     "typ": "odkaz",
-     "znakov": 2041
-    },
-    {
-     "url": "https://www.sabinov.sk/mesto//vzn-mesta-sabinov",
-     "typ": "odkaz",
-     "znakov": 2041
-    },
-    {
-     "url": "https://www.sabinov.sk/podnikatel/program-hsr-mesta",
-     "typ": "odkaz",
-     "znakov": 3344
+     "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=d6c231cb5b97c252fa24eb82e98f237a",
+     "typ": "dokument",
+     "znakov": 9132
     }
    ],
    "chyba": "",
-   "znakov": 9619,
-   "subor": "data/detaily/2026-11-22/64b313b14a8f.txt",
+   "znakov": 9132,
+   "subor": "data/detaily/2026-11-23/1dbfbd5257f5.txt",
    "kluc": {
     "kontakt": [
-     "teľstvo Zvukové záznamy MZ Transparentné mesto Organizácie mesta Projekty z EÚ VZN mesta Sabinov Mestsk",
-     "TEĽ NÁVŠTEVNÍK Access forbidden! Kontakt Mestský úrad Sabinov Námestie slobody 57 083 01 Sabinov Tel. ús",
-     "e-mail : podatelna@sabinov.sk msu@sabinov.sk Užitočné odkazy Mestské kultúrne stredisko Centrum sociálnych s"
+     "teľov mesta do procesu rozhodovania o účele využití verejných zdrojov, zvýšiť záujem o veci verejné, zl",
+     "telia možnosť hlasovaním priamo ovplyvniť vyčlenenie finančných prostriedkov na realizáciu projektov, k",
+     "teľstvo a) schvaľuje štatút PR b) schvaľuje výšku finančných prostriedkov vyčlenených na PR c) zriaďuje"
+    ],
+    "financovanie": [
+     "dotáciu v rámci PR žiada právnická osoba, nie je možné získať na realizáciu rovnakej alebo obdobnej aktivity dotáciu aj z inej dotačnej schémy Mest"
+    ]
+   }
+  },
+  {
+   "id": "34dadd7f812d",
+   "zdroj": "web obce",
+   "obec": "Seniakovce",
+   "okres": "Prešov",
+   "title": "Vyrocna_sprava_2022.pdf",
+   "url": "https://seniakovce.sk/wp-content/uploads/2024/09/Vyrocna_sprava_2022.pdf",
+   "subory": [
+    {
+     "url": "https://seniakovce.sk/wp-content/uploads/2024/09/Vyrocna_sprava_2022.pdf",
+     "typ": "dokument",
+     "znakov": 30503
+    }
+   ],
+   "chyba": "",
+   "znakov": 30503,
+   "subor": "data/detaily/2026-11-23/34dadd7f812d.txt",
+   "kluc": {
+    "kontakt": [
+     "teľov. 1.1 Geografické údaje Geografická poloha obce : Obec leží v Košickej kotline v doline Torysy. Su",
+     "teľov : 172 1.3 Symboly obce Erb obce : V modrom poli štítu na zelenej pažiti medzi troma a troma zlatý",
+     "teľov. Väčšinou boli roľníci a povozníci. Staré domy boli nízke, drevené s malými jednoduchými oknami."
+    ],
+    "financovanie": [
+     "dotácie - Účelové určenie dotácie Suma poskytnutých Suma skutočne Rozdiel finančných použitých (stĺ.2 - stĺ.3 ) prostriedkov finančných (stĺ.2) pro"
     ]
    }
   },
@@ -2972,19 +1487,14 @@
      "znakov": 1
     },
     {
-     "url": "https://www.sirnik.sk/files/dokumenty/uradna-tabula---archiv/2016-06-20-094721-N__vrh_pl__nu_kontrolnej___innosti_HK_na_II._polrok_2016.pdf",
-     "typ": "odkaz",
-     "znakov": 1
-    },
-    {
      "url": "https://www.sirnik.sk/files/dokumenty/uradna-tabula---archiv/2019-06-17-114722-priloha_1_navrh_na_plnenie_kriteria.docx",
      "typ": "odkaz",
      "znakov": 2674
     }
    ],
    "chyba": "",
-   "znakov": 33178,
-   "subor": "data/detaily/2026-11-22/4015e28b8ef7.txt",
+   "znakov": 33025,
+   "subor": "data/detaily/2026-11-23/4015e28b8ef7.txt",
    "kluc": {
     "kontakt": [
      "teľstvo Poslanci, komisie, účasť poslancov Dokumenty OZ Hlavný kontrolór Oznamovanie protispoločenskej",
@@ -3003,245 +1513,450 @@
    }
   },
   {
-   "id": "cab22b7f40e9",
+   "id": "23f8d220e968",
    "zdroj": "web obce",
-   "obec": "Spišské Bystré",
-   "okres": "Poprad",
-   "title": "Nový text na stránke",
-   "url": "https://www.spisskebystre.sk/",
+   "obec": "Snina",
+   "okres": "Snina",
+   "title": "Nové Mestské zastupiteľstvo v Snine začalo svoje funkčné obdobie 19. 11. 2026 V priestoroch Sninského kaštieľa sa v utorok 17. novembra 2026 uskutočnilo ustanovujúce zasadnutie Mestského zastupiteľstva v Snine.",
+   "url": "https://www.snina.sk/udalosti/nove-mestske-zastupitelstvo-v-snine-zacalo-svoje-funkcne-obdobie-4342sk.html",
    "subory": [
     {
-     "url": "https://www.spisskebystre.sk/",
+     "url": "https://www.snina.sk/udalosti/nove-mestske-zastupitelstvo-v-snine-zacalo-svoje-funkcne-obdobie-4342sk.html",
      "typ": "stránka",
-     "znakov": 3752
+     "znakov": 9169
     },
     {
-     "url": "https://www.spisskebystre.sk/urad/zverejnovanie/profil-verejneho-obstaravatela/vyzvy/vyzva-na-predkladanie-ponuk-detske-ihrisko-657.html",
+     "url": "https://www.snina.sk/otvorena-samosprava/mestske-zastupitelstvo/",
      "typ": "odkaz",
-     "znakov": 2267
+     "znakov": 11834
     },
     {
-     "url": "https://www.spisskebystre.sk/urad/zverejnovanie/uradna-tabula/oznamenie-o-ulozeni-zasielky-1262.html",
+     "url": "https://www.snina.sk/otvorena-samosprava/verejne-obstaravanie/verejne-obstaravania/archiv-vo/profil-vo/obstaranie-tovarov-pre-mesto-snina/",
      "typ": "odkaz",
-     "znakov": 10425
+     "znakov": 11046
     },
     {
-     "url": "https://www.spisskebystre.sk/zivot-v-obci/aktuality/zmena-zastavky-autobusovych-spojov-svit-poprad-hranovnica-vikartovce-2210sk.html",
+     "url": "https://www.snina.sk/otvorena-samosprava/verejne-obstaravanie/verejne-obstaravania/archiv-vo/profil-vo/znacenie-pradla-a-odevov-pre-domov-pokojnej-staroby-v-snine/",
      "typ": "odkaz",
-     "znakov": 3355
+     "znakov": 7707
     }
    ],
    "chyba": "",
-   "znakov": 20248,
-   "subor": "data/detaily/2026-11-22/cab22b7f40e9.txt",
+   "znakov": 40279,
+   "subor": "data/detaily/2026-11-23/23f8d220e968.txt",
    "kluc": {
     "kontakt": [
-     "Tel.: +421 52 77 921 97 E-mail: obec@spisskebystre.sk IČO: 00 326 542 DIČ: 2020674975 Úradné hodiny Po: 7",
-     "teľ: Galileo Corporation s.r.o., Čierna Voda 468, 925 06 Kontakt: Galileo Corporation s.r.o. Posledná ak",
-     "tela/vyzvy/vyzva-na-predkladanie-ponuk-detske-ihrisko-657.html Výzva na predkladanie ponúk &quot;Detské"
+     "telstvo-v-snine-zacalo-svoje-funkcne-obdobie-4342sk.html Nové Mestské zastupiteľstvo v Snine začalo svo",
+     "teľstvo ​ Ako vybaviť ​ Elektronické služby DCOM ​ Mobilná aplikácia Vytlačiť Nové Mestské zastupiteľst",
+     "teľstva v Snine. V priestoroch Sninského kaštieľa sa v utorok 17. novembra 2026 uskutočnilo ustanovujúc"
     ]
    }
   },
   {
-   "id": "14a72415c513",
-   "zdroj": "web obce",
-   "obec": "Spišské Podhradie",
-   "okres": "Levoča",
-   "title": "Nový text na stránke",
-   "url": "https://www.spisskepodhradie.sk/samosprava/mestske-zastupitelstvo/harmonogram-zasadnuti-mz/2024/",
-   "subory": [
-    {
-     "url": "https://www.spisskepodhradie.sk/samosprava/mestske-zastupitelstvo/harmonogram-zasadnuti-mz/2024/",
-     "typ": "stránka",
-     "znakov": 1747
-    }
-   ],
-   "chyba": "",
-   "znakov": 1856,
-   "subor": "data/detaily/2026-11-22/14a72415c513.txt",
-   "kluc": {
-    "kontakt": [
-     "telstvo/harmonogram-zasadnuti-mz/2024/ 2024 - Oficiálne stránky mesta Spišské Podhradie Rovno na obsah",
-     "Tel.: +421 53 41 951 11 E-mai: info@spisskepodhradie.sk Úradné hodiny Pondelok: 08:00-11:00 12:00-15:00 U"
-    ]
-   }
-  },
-  {
-   "id": "b5dbe1c1a44d",
+   "id": "30d25983c0de",
    "zdroj": "CUET",
-   "obec": "Valaliky",
+   "obec": "Sokoľ",
    "okres": "Košice",
-   "title": "Oznámenie o začatí územného konania vo veci využívania územia zlúčené so zmenou územného rozhodnutia a nariadenia ústneho pojednávania",
-   "url": "https://cuet.slovensko.sk/en/dokument/c40d62da-2ae0-4054-8ba1-31dbb9d2f9be",
+   "title": "Návrh rozpočtu obce Sokoľ na rok 2027 s výhľadom na roky 2028, 2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/d138ab04-1e23-4c8d-a84e-176988c0238a",
    "subory": [
     {
-     "url": "https://cuet.slovensko.sk/en/dokument/c40d62da-2ae0-4054-8ba1-31dbb9d2f9be",
+     "url": "https://cuet.slovensko.sk/en/dokument/d138ab04-1e23-4c8d-a84e-176988c0238a",
      "typ": "stránka",
-     "znakov": 1799
+     "znakov": 1298
     },
     {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/c7557e60-cd3e-479d-b742-4ca81836c808",
+     "url": "https://cuet.slovensko.sk/en/priloha/uloz/d47f0f49-058a-4c70-bf64-bb9e4737ceeb",
      "typ": "odkaz",
-     "znakov": 41597
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/c7557e60-cd3e-479d-b742-4ca81836c808",
-     "typ": "odkaz",
-     "znakov": 41597
+     "znakov": 33194
     }
    ],
    "chyba": "",
-   "znakov": 82070,
-   "subor": "data/detaily/2026-11-22/b5dbe1c1a44d.txt",
+   "znakov": 34670,
+   "subor": "data/detaily/2026-11-23/30d25983c0de.txt",
    "kluc": {
     "kontakt": [
-     "teleso je dominanta celého areálu, jeho celková výška je + 65,00 m. Na komíne sa nachádza monitorovacia",
-     "teľnou súčasťou kotolne. Tvorí ju železobetónový skelet s opláštením sendvičovými fasádnymi panelmi. Pô",
-     "teľa SHZ. Pre účely ochrany vybraných objektov vodným a penovým systémom SHZ bude vyhotovená nová Nádrž"
+     "tel.,mobil, 3 145,00 2 237,54 3 375,00 3 375,00 3 375,00 inernet,koncesionárske poplatky 0111 633001 41",
+     "Telekomunikačná technika 350,00 0,00 350,00 350,00 350,00 0111 633004 41 prevádzkové stroje a prístroje",
+     "teľovi- byty, kanalizácia a ČOV 0170 na 0111 821007 41 Splácanie tuzemskej istiny z ostatných 42 600,00"
+    ],
+    "financovanie": [
+     "dotácie KSK, odidenci, rod. pridavky 312001 11T1 Tuzemské bežné transfery v rámci VS zo ŠR 1 000,00 0,00 500,00 500,00 500,00 okrem preneseného - d",
+     "dotácia ubyt. 0,00 1 215,00 0,00 0,00 0,00 0111 653002 41 Provízie 0,00 0,00 0,00 0,00 0,00 0111 711001 41 Nákup a prenajom pozemkov 30 000,00 0,00"
+    ]
+   }
+  },
+  {
+   "id": "5ff1c6f91f1c",
+   "zdroj": "web obce",
+   "obec": "Sokoľ",
+   "okres": "Košice",
+   "title": "Návrh rozpočtu obce Sokoľ na rok 2027 s výhľadom na roky 2028, 2029",
+   "url": "https://www.obecsokol.sk/files/2026-11-22-182258-1._Final_N__vrh_rozpo__et_na_rok__2026__s_v__h__adom_na_rok_2027_a_2028.pdf",
+   "subory": [
+    {
+     "url": "https://www.obecsokol.sk/files/2026-11-22-182258-1._Final_N__vrh_rozpo__et_na_rok__2026__s_v__h__adom_na_rok_2027_a_2028.pdf",
+     "typ": "dokument",
+     "znakov": 33194
+    }
+   ],
+   "chyba": "",
+   "znakov": 33194,
+   "subor": "data/detaily/2026-11-23/5ff1c6f91f1c.txt",
+   "kluc": {
+    "kontakt": [
+     "tel.,mobil, 3 145,00 2 237,54 3 375,00 3 375,00 3 375,00 inernet,koncesionárske poplatky 0111 633001 41",
+     "Telekomunikačná technika 350,00 0,00 350,00 350,00 350,00 0111 633004 41 prevádzkové stroje a prístroje",
+     "teľovi- byty, kanalizácia a ČOV 0170 na 0111 821007 41 Splácanie tuzemskej istiny z ostatných 42 600,00"
+    ],
+    "financovanie": [
+     "dotácie KSK, odidenci, rod. pridavky 312001 11T1 Tuzemské bežné transfery v rámci VS zo ŠR 1 000,00 0,00 500,00 500,00 500,00 okrem preneseného - d",
+     "dotácia ubyt. 0,00 1 215,00 0,00 0,00 0,00 0111 653002 41 Provízie 0,00 0,00 0,00 0,00 0,00 0111 711001 41 Nákup a prenajom pozemkov 30 000,00 0,00"
+    ]
+   }
+  },
+  {
+   "id": "4f326404fb51",
+   "zdroj": "web obce",
+   "obec": "Staškovce",
+   "okres": "Stropkov",
+   "title": "Pozvánka na OZ 31.03.2025 | 0.06 Mb",
+   "url": "https://www.staskovce.sk/files/2026-11-21-220932-Pozv__nka_na_OZ_31.03.2025.pdf",
+   "subory": [
+    {
+     "url": "https://www.staskovce.sk/files/2026-11-21-220932-Pozv__nka_na_OZ_31.03.2025.pdf",
+     "typ": "dokument",
+     "znakov": 1366
+    }
+   ],
+   "chyba": "",
+   "znakov": 1366,
+   "subor": "data/detaily/2026-11-23/4f326404fb51.txt",
+   "kluc": {
+    "kontakt": [
+     "teľstva obce Staškovce na deň: 31. 03. 2025 (pondelok) o 18.00 hod. v budove Obecného úradu v Staškovci",
+     "teľa a overovateľov zápisnice. 3 / Kontrola plnenia uznesení z predchádzajúceho zasadnutia. 4 / Ústna i"
+    ]
+   }
+  },
+  {
+   "id": "b8a42798aada",
+   "zdroj": "web obce",
+   "obec": "Staškovce",
+   "okres": "Stropkov",
+   "title": "Zápisnica zo zasadnutia OZ Staškovce 31.03.2025 | 0.07 Mb",
+   "url": "https://www.staskovce.sk/files/2026-11-21-221528-Z__pisnica_z_OZ_d__a_31.03.2025.pdf",
+   "subory": [
+    {
+     "url": "https://www.staskovce.sk/files/2026-11-21-221528-Z__pisnica_z_OZ_d__a_31.03.2025.pdf",
+     "typ": "dokument",
+     "znakov": 4421
+    }
+   ],
+   "chyba": "",
+   "znakov": 4421,
+   "subor": "data/detaily/2026-11-23/b8a42798aada.txt",
+   "kluc": {
+    "kontakt": [
+     "teľstva obce Staškovce, konaného dňa 31. 03. 2025 (pondelok) o 18.00 hod. v budove Obecného úradu v Sta",
+     "teľ: Peter Gojdič Overovatelia zápisnice: Andrej Ufnár, Anna Tupyová Priebeh zasadnutia: 1 / Otvorenie Z",
+     "teľstva otvoril a viedol starosta obce Peter Gojdič. Privítal všetkých prítomných poslancov, skonštatov"
+    ]
+   }
+  },
+  {
+   "id": "06dd09a4a4a7",
+   "zdroj": "web obce",
+   "obec": "Staškovce",
+   "okres": "Stropkov",
+   "title": "Zápisnica zo zasadnutia OZ Staškovce 22.12.2025 | 0.07 Mb",
+   "url": "https://www.staskovce.sk/files/2026-11-21-230206-Z__pisnica_z_OZ_d__a_22.12.2025.pdf",
+   "subory": [
+    {
+     "url": "https://www.staskovce.sk/files/2026-11-21-230206-Z__pisnica_z_OZ_d__a_22.12.2025.pdf",
+     "typ": "dokument",
+     "znakov": 4975
+    }
+   ],
+   "chyba": "",
+   "znakov": 4975,
+   "subor": "data/detaily/2026-11-23/06dd09a4a4a7.txt",
+   "kluc": {
+    "kontakt": [
+     "teľstva Obce Staškovce, konaného dňa 22. 12. 2025 (pondelok) o 18:30 hod. v budove Obecného úradu v Sta",
+     "teľ: Peter Gojdič • Overovatelia zápisnice: Andrej Ufnár, Anna Tupyová Priebeh zasadnutia: 1. Otvorenie",
+     "teľstva otvoril a viedol starosta obce Peter Gojdič. Privítal všetkých prítomných poslancov, skonštatov"
+    ],
+    "financovanie": [
+     "nenávratné finančné príspevky na menšie obecné projekty, infraštruktúru a podporu komunitného života v regióne. • Hlasovanie: Za: 5, Proti: 0, Zdržali sa: 0. Vstup obce"
+    ]
+   }
+  },
+  {
+   "id": "d4fa02d122c4",
+   "zdroj": "web obce",
+   "obec": "Staškovce",
+   "okres": "Stropkov",
+   "title": "Zápisnica zo zasadnutia OZ Staškovce 16.04.2024 | 0.03 Mb",
+   "url": "https://www.staskovce.sk/files/2026-11-21-194804-Zapisnica_z_OZ_d__a_16.04.2024.pdf",
+   "subory": [
+    {
+     "url": "https://www.staskovce.sk/files/2026-11-21-194804-Zapisnica_z_OZ_d__a_16.04.2024.pdf",
+     "typ": "dokument",
+     "znakov": 3707
+    }
+   ],
+   "chyba": "",
+   "znakov": 3707,
+   "subor": "data/detaily/2026-11-23/d4fa02d122c4.txt",
+   "kluc": {
+    "kontakt": [
+     "teľstva Obce Staškovce, konaného dňa 16. 04. 2024 (utorok) o 18.30 hod. v budove Obecného úradu v Stašk",
+     "teľ: Peter Gojdič Overovatelia zápisnice: Andrej Ufnár, Anna Tupyová Priebeh zasadnutia: 1 / Otvorenie Z",
+     "teľstva otvoril a viedol starosta obce Peter Gojdič. Privítal všetkých prítomných poslancov, skonštatov"
+    ],
+    "financovanie": [
+     "financovania a spolufinancovania projektu. Hlasovanie: Za: 5, Proti: 0, Zdržali sa: 0. Možnosť čerpania úveru v Prima banka Slovensko, a. s. bola schvál"
+    ]
+   }
+  },
+  {
+   "id": "bb801b77c108",
+   "zdroj": "obstarávanie ÚVO",
+   "obec": "Trebišov",
+   "okres": "Trebišov",
+   "title": "ZNÍŽENIE ENERGETICKEJ NÁROČNOSTI ADMINISTRATÍVNEHO CENTRA „PARK“",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/569826?cHash=e6dcf997e293693f45fe7c94f487bf8f",
+   "subory": [
+    {
+     "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/569826?cHash=e6dcf997e293693f45fe7c94f487bf8f",
+     "typ": "stránka",
+     "znakov": 1416
+    },
+    {
+     "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/dokumenty/569826?cHash=e6dcf997e293693f45fe7c94f487bf8f",
+     "typ": "odkaz",
+     "znakov": 847
+    },
+    {
+     "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/informacie/569826?cHash=e6dcf997e293693f45fe7c94f487bf8f",
+     "typ": "odkaz",
+     "znakov": 805
+    },
+    {
+     "url": "https://evo.isepvo.sk/evoportal/sk-sk/Public/OrderSearch/Detail?id=569826",
+     "typ": "odkaz",
+     "znakov": 61
+    },
+    {
+     "url": "https://www.uvo.gov.sk/dohlad/spravne-delikty/prehlad-rozhodnuti-o-ulozeni-pokuty-pre-verejneho-obstaravatela-a-obstaravatela",
+     "typ": "odkaz",
+     "znakov": 19823
+    }
+   ],
+   "chyba": "",
+   "znakov": 23552,
+   "subor": "data/detaily/2026-11-23/bb801b77c108.txt",
+   "kluc": {
+    "kontakt": [
+     "teľ: Mesto Trebišov Detail Dokumenty Oznámenia Informácie Dátum vytvorenia: 20.11.2026 17:18 Dátum posle",
+     "email známemu Zavrieť Poslať Nastavenie cookies Na fungovanie webovej stránky používame nevyhnutné cookies",
+     "teľ: Mesto Trebišov Detail Dokumenty Oznámenia Informácie Žiadny záznam záznamov Stránka 1 z 1 Prvá Pred"
+    ],
+    "financovanie": [
+     "financovanie z fondov EÚ: Áno Obrana / bezpečnosť: Nie Dátum zverejnenia: Elektronická aukcia: Nie Dôležité Sektorová legislatíva Eforms Vestník a Regis",
+     "nancované prostredníctvom mechanizmu POO SR Programové obdobie 2014-2020 Programové obdobie 2021-2027 Projekty financované z grantov EHP a Nórska Zvere",
+     "nancované prostredníctvom mechanizmu POO SR Programové obdobie 2014-2020 Programové obdobie 2021-2027 Projekty financované z grantov EHP a Nórska Verej"
     ],
     "stavebny_zamer": [
-     "začatie konania vo veci využívania územia zlúčené so zmenou územného rozhodnutia a súčasne nariaďuje k prerokovaniu návrhu ústne pojednávanie spojené s miestnym zisťovaním na",
-     "začatie konania, projektovú dokumentáciu pre územné konanie, ktorá obsahuje písomné vyhodnotenie pripomienok uvedených v Záverečnom stanovisku č. 1865/2022-11.1.1/mo (71745/20",
-     "začatí konania má povahu verejnej vyhlášky podľa § 36 ods. 4 stavebného zákona. Toto oznámenie bude vyvesené po dobu 15 dní na úradnej tabuli správneho orgánu, webovom sídle"
-    ],
-    "dodavatel": [
-     "dodávateľa SHZ. Pre účely ochrany vybraných objektov vodným a penovým systémom SHZ bude vyhotovená nová Nádrž SHZ. Predpokladaná mi"
+     "čatí konania o námietkách Rada úradu Odvolania Preskúmanie mimo odvolacieho konania Referencie Konanie o proteste prokurátora Osobitné konania Zmeny zmluvy (dodatky) Často kl"
     ]
    }
   },
   {
-   "id": "c286cab537c7",
+   "id": "880a767d7d4a",
    "zdroj": "web obce",
-   "obec": "Vislava",
-   "okres": "Stropkov",
-   "title": "Stiahnuť súbor Navrh VZN 1-2026 Vislava Veľkosť a typ súboru 336 KB / PDF",
-   "url": "https://obecvislava.sk/wp-content/uploads/dokumenty/navrhy-vzn/navrh-vzn-1-2026-vislava-iliyp1.pdf",
-   "subory": [
-    {
-     "url": "https://obecvislava.sk/wp-content/uploads/dokumenty/navrhy-vzn/navrh-vzn-1-2026-vislava-iliyp1.pdf",
-     "typ": "dokument",
-     "znakov": 26990
-    }
-   ],
-   "chyba": "",
-   "znakov": 26990,
-   "subor": "data/detaily/2026-11-22/c286cab537c7.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstvo vo Vislave na základe § 6 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších pred",
-     "teľností b/ daň za psa c/ daň za užívanie verejného priestranstva d/daň za predajné automaty e/daň za n",
-     "teľností Daň z nehnuteľností zahŕňa : a/ daň z pozemkov b/ daň zo stavieb c/ daň z bytov a z nebytových"
-    ]
-   }
-  },
-  {
-   "id": "c23d5be11f2d",
-   "zdroj": "web obce",
-   "obec": "Zubné",
-   "okres": "Humenné",
+   "obec": "Veľký Folkmar",
+   "okres": "Gelnica",
    "title": "Nový text na stránke",
-   "url": "https://www.obeczubne.sk/",
+   "url": "https://www.velkyfolkmar.sk/",
    "subory": [
     {
-     "url": "https://www.obeczubne.sk/",
+     "url": "https://www.velkyfolkmar.sk/",
      "typ": "stránka",
-     "znakov": 1223
+     "znakov": 6344
     },
     {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/obstaranie-prenosnych-laviciek-a-ozvucenia-kulturneho-domu-v-obci-zubne-a22-872",
+     "url": "https://www.velkyfolkmar.sk/obec-2/projekty-2/zelena-obnova-futbaloveho-arealu-vo-velkom-folkmari-1074sk.html",
      "typ": "odkaz",
-     "znakov": 1936
+     "znakov": 3466
     },
     {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/obnova-vnutornych-priestorov-kulturneho-domu-v-obci-zubne-a22-863",
+     "url": "https://www.velkyfolkmar.sk/obec-2/projekty-2/fond-na-podporu-sportu-telocvicna-pri-zs-velky-folkmar-1071sk.html",
      "typ": "odkaz",
-     "znakov": 1110
+     "znakov": 3061
     },
     {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/revitalizacia-interieru-kulturneho-domu-a22-870",
+     "url": "https://www.velkyfolkmar.sk/obec-2/projekty-2/zriadenie-biblioboxu-v-obci-velky-folkmar-1068sk.html",
      "typ": "odkaz",
-     "znakov": 1056
+     "znakov": 3064
     }
    ],
    "chyba": "",
-   "znakov": 5737,
-   "subor": "data/detaily/2026-11-22/c23d5be11f2d.txt",
+   "znakov": 16335,
+   "subor": "data/detaily/2026-11-23/880a767d7d4a.txt",
    "kluc": {
     "kontakt": [
-     "telefónne spojenie 17.06.2026 ZBER ELEKTROODPADU 22.04.2026 Obstaranie prenosných lavičiek a ozvučenia kult"
+     "telna@velkyfolkmar.sk SK Slovensky SK Slovensky EN English Veľký Folkmar Obec Veľký Folkmar Kalendár ak",
+     "Telocvičňa pri ZŠ Veľký Folkmar Príspevok na projekt podpory športu schváleného v roku 2026 Dátum vlože",
+     "teľov a známych prostredníctvom internetu. Dátum vloženia 21. 10. 2026 Úradná tabuľa 19. 11. 2026 OZNAM"
     ],
     "financovanie": [
-     "dotácie s názvom Živý vidiek, ktorú vyhlásilo Ministerstvo investícií, regionálneho rozvoja a informtizácie SR a ktorá bola zameraná na podporu reg",
-     "dotácia vo výške 10 126 eur, čo tvorí 95% oprávnených nákladov. Spolufinancovanie obce je 5%. Prvú etapu, a to obstaranie lavičiek máme úspešne uko",
-     "Financované z prostriedkov EPFRV 2014-2022 Obnova vnútorných priestorov KD v obci Zubné | PDF | 0.34 Mb Dátum vyvesenia: 29.12.2024 informačný plagát Z"
+     "dotácie na svojom webovom sídle. Fond na podporu športu Obec Veľký Folkmar Telocvičňa pri ZŠ Veľký Folkmar Projekt bol podporený z verejných zdrojo",
+     "dotácie : 1 500,00 EUR „Projekt je spolufinancovaný Košickým samosprávnym krajom“. Web stránka poskytovateľa: https://www.vucke.sk/ . VÝSTUPY PROJE"
     ]
    }
   },
   {
-   "id": "4112351b0e3c",
+   "id": "b1589aecb3ec",
    "zdroj": "web obce",
-   "obec": "Zubné",
+   "obec": "Veľký Folkmar",
+   "okres": "Gelnica",
+   "title": "Nový text na stránke",
+   "url": "https://www.velkyfolkmar.sk/obec-2/obecne-lesy-sro/dokumenty/zmluvy-faktury-objednavky/",
+   "subory": [
+    {
+     "url": "https://www.velkyfolkmar.sk/obec-2/obecne-lesy-sro/dokumenty/zmluvy-faktury-objednavky/",
+     "typ": "stránka",
+     "znakov": 5077
+    }
+   ],
+   "chyba": "",
+   "znakov": 5177,
+   "subor": "data/detaily/2026-11-23/b1589aecb3ec.txt",
+   "kluc": {
+    "kontakt": [
+     "telna@velkyfolkmar.sk SK Slovensky SK Slovensky EN English Zmluvy Faktúry Objednávky Rozšírené hľadanie",
+     "teľňa, a.s. Obecné lesy Veľký Folkmar, s.r.o. Dátum zverejnenia 12. 2. 2021 Názov Zmluva o úvere Číslo",
+     "teľňa, a.s. Obecné lesy Veľký Folkmar, s.r.o. Dátum zverejnenia 28. 5. 2020 Názov Zmluva o starostlivos"
+    ]
+   }
+  },
+  {
+   "id": "30a9d7d61ad4",
+   "zdroj": "web obce",
+   "obec": "Veľopolie",
    "okres": "Humenné",
-   "title": "22.04.2026 Obstaranie prenosných lavičiek a ozvučenia kultúrneho domu v obci Zubné",
-   "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/obstaranie-prenosnych-laviciek-a-ozvucenia-kulturneho-domu-v-obci-zubne-a22-872",
+   "title": "Uznesenia z obecného zastupiteľstva rok 2026 - do 23.11.2026 | 0.16 Mb",
+   "url": "https://www.velopolie.sk/files/dokumenty/zapisnice-a-uznesenia-oz/uznesenia/2026-11-23-075540-Uznesenia__2026_do_23.11.2026.pdf",
    "subory": [
     {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/obstaranie-prenosnych-laviciek-a-ozvucenia-kulturneho-domu-v-obci-zubne-a22-872",
-     "typ": "stránka",
-     "znakov": 1936
-    },
-    {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/zivot-v-obci/aktuality/obstaranie-prenosnych-laviciek-a-ozvucenia-kulturneho-domu-v-obci-zubne-a22-872",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
-    },
-    {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/zivot-v-obci/aktuality/obnova-vnutornych-priestorov-kulturneho-domu-v-obci-zubne-a22-863",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
-    },
-    {
-     "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/zivot-v-obci/aktuality/revitalizacia-interieru-kulturneho-domu-a22-870",
-     "typ": "odkaz",
-     "chyba": "HTTPError"
+     "url": "https://www.velopolie.sk/files/dokumenty/zapisnice-a-uznesenia-oz/uznesenia/2026-11-23-075540-Uznesenia__2026_do_23.11.2026.pdf",
+     "typ": "dokument",
+     "znakov": 12254
     }
    ],
    "chyba": "",
-   "znakov": 2076,
-   "subor": "data/detaily/2026-11-22/4112351b0e3c.txt",
+   "znakov": 12254,
+   "subor": "data/detaily/2026-11-23/30a9d7d61ad4.txt",
    "kluc": {
     "kontakt": [
-     "telefónne spojenie 17.06.2026 ZBER ELEKTROODPADU 22.04.2026 Obstaranie prenosných lavičiek a ozvučenia kult"
+     "teľstva obce Veľopolie dňa 16.10.2026 Uznesenie č. 167 Obecné zastupiteľstvo vo Veľopolí a) schvaľuje p",
+     "teľstva podľa pozvánky b) konštatuje, že . obecné zastupiteľstvo je uznášaniaschopné, prítomní 5 z 5 po",
+     "teľstvo vo Veľopolí berie na vedomie kontrolu plnenia uznesení z rokovania OZ 20.8.2026 Uznesenie č. 16"
     ],
     "financovanie": [
-     "dotácie s názvom Živý vidiek, ktorú vyhlásilo Ministerstvo investícií, regionálneho rozvoja a informtizácie SR a ktorá bola zameraná na podporu reg",
-     "dotácia vo výške 10 126 eur, čo tvorí 95% oprávnených nákladov. Spolufinancovanie obce je 5%. Prvú etapu, a to obstaranie lavičiek máme úspešne uko"
+     "dotácii z rozpočtu PSK vo výške 1900 Eur na modernizáciu detského ihriska pri materskej škole Uznesenie č. 158 Obecné zastupiteľstvo vo Veľopolí. b",
+     "dotácie z Environmentálneho fondu vo výške 36 531 EUR (v súlade s bodom č. 1) na financovanie Projektu; 3. zabezpečenie finančných prostriedkov z v",
+     "financovanie Projektu, a to minimálne vo výške 1% z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskyt"
     ]
    }
   },
   {
-   "id": "4a9127314280",
+   "id": "96e80bfac50f",
    "zdroj": "web obce",
-   "obec": "Záborské",
-   "okres": "Prešov",
-   "title": "Revitalizácia zelene",
-   "url": "https://www.obeczaborske.sk/modules/file_storage/download.php?file=d0564d6d%7C882&inline=1",
+   "obec": "Čaňa",
+   "okres": "Košice",
+   "title": "Slávnostné otvorenie Multifunkčného Ihriska 20. 11. 2026 V Čani sa konalo slávnostné otvorenie nového multifunkčného ihriska. Na jeho vybudovanie finančne prispeli Ministerstvo cestovného ruchu a športu SR a obec Čaňa. Deti, mládež aj dospelí tak majú v obci ďalšie miesto na šport a spoločné tráveni",
+   "url": "https://www.obeccana.eu/obec/aktuality/slavnostne-otvorenie-multifunkcneho-ihriska-1654sk.html",
    "subory": [
     {
-     "url": "https://www.obeczaborske.sk/modules/file_storage/download.php?file=d0564d6d%7C882&inline=1",
-     "typ": "dokument",
-     "znakov": 979
+     "url": "https://www.obeccana.eu/obec/aktuality/slavnostne-otvorenie-multifunkcneho-ihriska-1654sk.html",
+     "typ": "stránka",
+     "znakov": 3310
+    },
+    {
+     "url": "https://www.obeccana.eu/",
+     "typ": "odkaz",
+     "znakov": 5604
+    },
+    {
+     "url": "https://www.obeccana.eu/samosprava/volby/volby-do-organov-samospravy-obci-2026-1/",
+     "typ": "odkaz",
+     "znakov": 7088
+    },
+    {
+     "url": "https://www.obeccana.eu/samosprava/uznesenia-obecneho-zastupitelstva/uznesenia-volebne-obdobie-2022-2026/",
+     "typ": "odkaz",
+     "znakov": 6078
     }
    ],
    "chyba": "",
-   "znakov": 979,
-   "subor": "data/detaily/2026-11-22/4a9127314280.txt",
+   "znakov": 22436,
+   "subor": "data/detaily/2026-11-23/96e80bfac50f.txt",
    "kluc": {
     "kontakt": [
-     "teľov. Výška nenávratného ﬁnančného príspevku: 217 460,39 €"
+     "teľov 22 044 14 ČAŇA ​​ Menu Obecný úrad Športová hala a Zimný štadión Čaňa Mobilná aplikácia Zdravotné",
+     "telefónne čísla Aktuálne počasie dnes, pondelok 23. 11. 2026 zamračené 6 °C 0 °C utorok 24. 11. slabé sneže",
+     "teľov a rozlohu 1 156 ha. Prvá písomná zmienka o Čani bola zaznamenaná v roku 1 164. Názov obce pochádz"
     ],
-    "financovanie": [
-     "nenávratného ﬁnančného príspevku: 217 460,39 €"
+    "stavebny_zamer": [
+     "začatí konania vo veci vydania časovo obmedzeného povolenia na predčasné užívanie stavby a nariadenie ústneho pojednávania spojeného s miestnym zisťovaním Úradná tabuľa 10. 1",
+     "začatí konania o stavebnom zámere - upustenie od ústneho pojednávania a miestneho zisťovania Úradná tabuľa 9. 11. 2026 Verejná vyhláška o mieste uloženia písomnosti Úradná ta"
+    ]
+   }
+  },
+  {
+   "id": "803bb965fb97",
+   "zdroj": "web obce",
+   "obec": "Čaňa",
+   "okres": "Košice",
+   "title": "Nový text na stránke",
+   "url": "https://www.obeccana.eu/",
+   "subory": [
+    {
+     "url": "https://www.obeccana.eu/",
+     "typ": "stránka",
+     "znakov": 5604
+    },
+    {
+     "url": "https://www.obeccana.eu/obec/aktuality/slavnostne-otvorenie-multifunkcneho-ihriska-1654sk.html",
+     "typ": "odkaz",
+     "znakov": 3310
+    },
+    {
+     "url": "https://www.obeccana.eu/samosprava/uznesenia-obecneho-zastupitelstva/uznesenia-volebne-obdobie-2022-2026/",
+     "typ": "odkaz",
+     "znakov": 6078
+    },
+    {
+     "url": "https://www.obeccana.eu/samosprava/zapisnice-obecneho-zastupitelstva-9/zapisnice-obecneho-zastupitelstva-rok-2026-2/",
+     "typ": "odkaz",
+     "znakov": 3066
+    }
+   ],
+   "chyba": "",
+   "znakov": 18449,
+   "subor": "data/detaily/2026-11-23/803bb965fb97.txt",
+   "kluc": {
+    "kontakt": [
+     "teľov 22 044 14 ČAŇA ​​ Menu Obecný úrad Športová hala a Zimný štadión Čaňa Mobilná aplikácia Zdravotné",
+     "teľov, aby boli obozretní pri pohybe v extraviláne obce Čaňa a v okolí Čanianskych jazier. Detail Úradn",
+     "teľného majetku obce v roku 2025 Úradná tabuľa 25. 2. 2026 Vyhodnotenie štandardov kvality odvádzania o"
+    ],
+    "stavebny_zamer": [
+     "začatí konania vo veci vydania časovo obmedzeného povolenia na predčasné užívanie stavby a nariadenie ústneho pojednávania spojeného s miestnym zisťovaním Úradná tabuľa 10. 1",
+     "začatí konania o stavebnom zámere - upustenie od ústneho pojednávania a miestneho zisťovania Úradná tabuľa 9. 11. 2026 Verejná vyhláška o mieste uloženia písomnosti Úradná ta"
     ]
    }
   },
@@ -3256,17 +1971,17 @@
     {
      "url": "http://www.cukalovce.sk/",
      "typ": "stránka",
-     "znakov": 204019
+     "znakov": 204020
     },
     {
      "url": "http://www.cukalovce.sk/oobci/",
      "typ": "odkaz",
-     "znakov": 2749
+     "znakov": 2750
     }
    ],
    "chyba": "",
-   "znakov": 32829,
-   "subor": "data/detaily/2026-11-22/8b14711d1a8a.txt",
+   "znakov": 32830,
+   "subor": "data/detaily/2026-11-23/8b14711d1a8a.txt",
    "kluc": {
     "kontakt": [
      "teľstva obce Čukalovce Obec Čukalovce uverejňuje podľa § 173 ods. 2 zákona č. 180/2014 Z. z. o podmienk",
@@ -3275,79 +1990,6 @@
     ],
     "financovanie": [
      "financovaniu svojich územných rozvojových potrieb, prostredníctvom využitia integrovaného územného prístupu k implementácii fondov EÚ, podľa princípov Ú"
-    ]
-   }
-  },
-  {
-   "id": "857c4381519c",
-   "zdroj": "web obce",
-   "obec": "Šandal",
-   "okres": "Stropkov",
-   "title": "FD102026",
-   "url": "https://sandal.sk/wp-content/uploads/2026/11/FD102026.pdf",
-   "subory": [
-    {
-     "url": "https://sandal.sk/wp-content/uploads/2026/11/FD102026.pdf",
-     "typ": "dokument",
-     "znakov": 3020
-    }
-   ],
-   "chyba": "",
-   "znakov": 3020,
-   "subor": "data/detaily/2026-11-22/857c4381519c.txt",
-   "kluc": {
-    "kontakt": [
-     "teľ Dodania Splatnosti Úhrady Suma spolu Popis faktúry 3070002106 / F 142 Energetika Slovensko, a.s. 31.",
-     "TELEKOM, a.s. 07.10.26 23.10.26 16.10.26 35,06 FP- Telekomunikačné služby 260010 / F 145 JL Real Invest",
-     "TELEKOM, a.s. 14.10.26 30.10.26 16.10.26 27,60 FP- Poplatky za internet 26001152 / F 149 LUMOLA s.r.o."
-    ],
-    "financovanie": [
-     "dotáciu 8396083080 / F 144 SLOVAK TELEKOM, a.s. 07.10.26 23.10.26 16.10.26 35,06 FP- Telekomunikačné služby 260010 / F 145 JL Real Invest s.r.o. 06",
-     "dotáciu 2681000255 / F 146 Jaroslav Saloň - SALY 13.10.26 27.10.26 16.10.26 38,90 FP- Všeobecný materiál do spotreby 2600747 / F 147 Obchod - SVK,",
-     "dotácie envir. 932026 / F 150 Mzdová učtáreň OcÚ okresu 14.10.26 31.10.26 21.10.26 278,- FP- Všeobecné služby 263581 / F 151 Juraj Maťaš - Pekáreň"
-    ],
-    "dodavatel": [
-     "Dodávateľ Dodania Splatnosti Úhrady Suma spolu Popis faktúry 3070002106 / F 142 Energetika Slovensko, a.s. 31.10.26 15.10.26 02.10"
-    ]
-   }
-  },
-  {
-   "id": "48bd861469eb",
-   "zdroj": "CUET",
-   "obec": "Šarišské Bohdanovce",
-   "okres": "Prešov",
-   "title": "Zápisnica z XXV. zasadnutia Obecného zastupiteľstva",
-   "url": "https://cuet.slovensko.sk/en/dokument/50cc66b1-1448-4547-8944-4272cf924caf",
-   "subory": [
-    {
-     "url": "https://cuet.slovensko.sk/en/dokument/50cc66b1-1448-4547-8944-4272cf924caf",
-     "typ": "stránka",
-     "znakov": 1439
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/uloz/c01b0745-ec0d-40dc-8eb4-48a128fd1cf8",
-     "typ": "odkaz",
-     "znakov": 11444
-    },
-    {
-     "url": "https://cuet.slovensko.sk/en/priloha/zobraz/c01b0745-ec0d-40dc-8eb4-48a128fd1cf8",
-     "typ": "odkaz",
-     "znakov": 11444
-    }
-   ],
-   "chyba": "",
-   "znakov": 24598,
-   "subor": "data/detaily/2026-11-22/48bd861469eb.txt",
-   "kluc": {
-    "kontakt": [
-     "teľstva Search publisher's RSS feeds Published on official board: Obec Šarišské Bohdanovce - Zverejňova",
-     "teľstva Document type: Iný elektronický dokument Document abstract: [https://www.sarisskebohdanovce.sk/",
-     "telstva.pdf Type and size: .pdf, 155.46 kB Display Attachment Save Attachment Checksum of attachment Ch"
-    ],
-    "financovanie": [
-     "financovanie ORKO pre ŠJ a ŠKD v ZŠ s MŠ Šarišské Bohdanovce 7. Diskusia a rôzne 8. Záver K bodu 1- Otvorenie zasadnutia OZ Rokovanie OZ otvoril a viedo",
-     "financovanie ORKO pre ŠJ a ŠKD v ZŠ s MŠ Šarišské Bohdanovce Starosta obce predložil poslancom žiadosť o navýšenie financovania ORKO a zároveň udelil sl",
-     "financovanie ORKO za obdobie I.-VI./2026 vo výške 6 636,17 € b) Schválili úpravu rozpočtu a použitie vlastných príjmov školy na použitie prevádzkových n"
     ]
    }
   },
@@ -3362,27 +2004,27 @@
     {
      "url": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/",
      "typ": "stránka",
-     "znakov": 74074
+     "znakov": 74075
     },
     {
      "url": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/oznamenie-o-zacati-konania-o-predlzeni-platnosti-uzemneho-rozhodnutia-na-stavbu-i-68-sarisske-michalany-presov-rekonstrukcia-cesty-zverejnenie-verejnou-vyhlaskou-204.html?kshow=9",
      "typ": "odkaz",
-     "znakov": 1786
+     "znakov": 1787
     },
     {
      "url": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/upovedomenie-o-podani-odvolania-vo-veci-stavebneho-povolenia-stavby-multifunkcne-ihrisko-zverejnenie-verejnou-vyhlaskou-213.html?kshow=9",
      "typ": "odkaz",
-     "znakov": 1651
+     "znakov": 1652
     },
     {
      "url": "https://www.sarisskemichalany.sk/samosprava/zverejnovanie/uradna-tabula-1/rozhodnutie-o-zamietnuti-odvolania-a-potvrdeni-stavebneho-povolenia-multifunkcne-ihrisko-zverejnenie-verejnou-vyhlaskou-203.html?kshow=9",
      "typ": "odkaz",
-     "znakov": 1712
+     "znakov": 1713
     }
    ],
    "chyba": "",
-   "znakov": 35947,
-   "subor": "data/detaily/2026-11-22/3abcac6f80c2.txt",
+   "znakov": 35950,
+   "subor": "data/detaily/2026-11-23/3abcac6f80c2.txt",
    "kluc": {
     "kontakt": [
      "teľskej pôsobnosti obce Šarišské Michaľany Vyvesené: 17. 8. 2026 Dátum zvesenia: 1. 9. 2026 Rozhodnutie",
@@ -3401,58 +2043,20 @@
    }
   },
   {
-   "id": "8c660234ed20",
+   "id": "e8131ba6bcb6",
    "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/",
-   "subory": [],
-   "chyba": "HTTPError",
-   "znakov": 0
-  },
-  {
-   "id": "e3cd351d50ac",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/vzn/",
-   "subory": [],
-   "chyba": "HTTPError",
-   "znakov": 0
-  },
-  {
-   "id": "c16132137446",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
-   "subory": [],
-   "chyba": "HTTPError",
-   "znakov": 0
-  },
-  {
-   "id": "5d0e3842df73",
-   "zdroj": "web obce",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "title": "Nový text na stránke",
-   "url": "https://obecorechova.sk/aktuality/pozvanka/obecny-urad-pozyva-vsetkych-obcanov-na-oslavu-mesiaca-ucty-k-starsim/",
-   "subory": [],
-   "chyba": "HTTPError",
-   "znakov": 0
-  },
-  {
-   "id": "2f32fa09de61",
-   "zdroj": "web obce",
-   "obec": "Zubné",
-   "okres": "Humenné",
-   "title": "01.08.2025 Revitalizácia interiéru kultúrneho domu",
-   "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/revitalizacia-interieru-kulturneho-domu-a22-870",
-   "subory": [],
-   "chyba": "ConnectTimeout",
+   "obec": "Poša",
+   "okres": "Vranov nad Topľou",
+   "title": "23. 11. 2026 Výberové konanie na pozíciu člena Miestnej občianskej a podpornej služby Výberové konanie Výberové konanie na pozíciu člena Miestnej občianskej a podpornej služby",
+   "url": "https://www.posa.sk/modules/file_storage/download.php?file=3dd0e11f%7C296",
+   "subory": [
+    {
+     "url": "https://www.posa.sk/modules/file_storage/download.php?file=3dd0e11f%7C296",
+     "typ": "dokument",
+     "znakov": 0
+    }
+   ],
+   "chyba": "dokument bez textu",
    "znakov": 0
   }
  ]

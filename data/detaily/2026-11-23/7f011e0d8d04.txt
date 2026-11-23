@@ -1,0 +1,132 @@
+URL: https://kecerovskylipovec.sk/wp-content/uploads/dokumenty/rozpoctove-opatrenia/rozpoctove-opatrenie-c.-1_2026-7c7syd.pdf
+OBEC: Kecerovský Lipovec (Košice)
+NÁZOV: Stiahnuť súbor Rozpočtové opatrenie č. 1_2026 Veľkosť a typ súboru 256 KB / PDF
+ZDROJ: web obce
+
+Obec Kecerovský Lipovec, Kecerovský Lipovec 56, 044 47 Kecerovský Lipovec                                                                                                    IČO: 00690287, DIČ:
+
+                                                                      Návrh zmien na úpravu rozpočtu
+
+                                                     Č.
+                                                     dokladu
+                                                                Schválený        Rozpočet po
+  Dátum zmeny Zdroj     Oddiel Trieda Položka        Č.                                           Zmena o        Popis / Poznámka
+                                                                 rozpočet         zmenách
+                                                     dokladu
+                                                     zmeny
+
+ Príjem
+                  111                312001 005                                      8 200,00 €     8 200,00 € Transfer zo štátneho rozpočtu MF
+  30. 09. 2026                       312001 005                                                     8 200,00 €
+                  111                453000 000                     7 875,00 €       7 875,00 €                  Prostriedky z predchádzajúcich rokov - na realizáciu zastávky
+                  41                 111003 000      99999         33 355,00 €      33 355,00 €                  Výnos dane z príjmov poukazaný územ. samospráve
+                  41                 121001 000      999           26 349,00 €      26 349,00 €                  Daň z nehnuteľností, z pozemkov
+                  41                 121002 000                     1 650,00 €       1 650,00 €                  Daň z nehnuteľností, zo stavieb
+                  41                 133001 000                      377,00 €         377,00 €                   Daň za psa
+                  41                 133013 000                     2 993,00 €       2 993,00 €                  Za komunálne odpady a drobné stavebné odpady
+                  41                 212002 000                      807,00 €         807,00 €                   Z prenajatých pozemkov
+                  41                 212003 001                      200,00 €         200,00 €                   Z prenajatých budov,priestorov a objektov
+                  41                 221004 000                      700,00 €         700,00 €                   Ostatné poplatky
+ Spolu za Príjem                                                  74 306,00 €      82 506,00 €      8 200,00 €
+
+ Výdaj
+                  111   01    110    713005 000                                      8 200,00 €     8 200,00 € Kamerový systém
+  30. 09. 2026                       713005 000                                                     8 200,00 €
+                  111   04    510    717001 000                     7 875,00 €       7 875,00 €                  Realizácia nových stavieb - zastávka
+                  41    01    110    611000 000                    20 829,00 €      20 829,00 €                  Plat tarifný,osobný,základný,funkčný,hodnostný,vrátane ich náhrad
+                  41    01    110    621000 000      999             300,00 €         300,00 €                   Poistné do VšZP
+                  41    01    110    623000 000      999            3 000,00 €       3 000,00 €                  Poistné do ostatných ZP
+                  41    01    110    625001 000      999             500,00 €         500,00 €                   SP - nemocenské poistenie
+                  41    01    110    625002 000      999            3 500,00 €       3 500,00 €                  SP - starobné poistenie
+                  41    01    110    625003 000      999             300,00 €         300,00 €                   Na úrazové poistenie
+                  41    01    110    625004 000      999            1 000,00 €       1 000,00 €                  Na invalidné poistenie
+                  41    01    110    625005 000      999             250,00 €         250,00 €                   Na poistenie v nezamestnanosti
+                  41    01    110    625005 001                      220,00 €         220,00 €                   Poistenie FPvCSP
+                  41    01    110    625007 000      999            1 500,00 €       1 500,00 €                  Na poistenie do rezervného fondu solidarity
+                  41    01    110    631001 000      999             100,00 €         100,00 €                   Cestovné náhrady-tuzemské
+
+
+Dňa: 09.11.2026                                                                     Vypracoval: Mária Vargová                                                                               1/3
+Obec Kecerovský Lipovec, Kecerovský Lipovec 56, 044 47 Kecerovský Lipovec                                                                                                     IČO: 00690287, DIČ:
+
+                                                     Č.
+                                                     dokladu
+                                                                Schválený        Rozpočet po
+  Dátum zmeny Zdroj    Oddiel Trieda Položka         Č.                                           Zmena o       Popis / Poznámka
+                                                                 rozpočet         zmenách
+                                                     dokladu
+                                                     zmeny
+                  41   01     110    632001 000      999              50,00 €          50,00 €                  Plyn kuchyňa
+                  41   01     110    632001 001      999             800,00 €         800,00 €                  Drevo uhlie
+                  41   01     110    632003 000      999             300,00 €         300,00 €                  Poštové a telekomunikačné služby
+                  41   01     110    632004 000      999                1,00 €           1,00 €                 Komunikačná infraštruktúra - internet
+                  41   01     110    632005 000      999             376,00 €         676,00 €        300,00 € Telekomunikačné služby Telefón
+  30. 09. 2026                       632005 000                                                       300,00 €
+                  41   01     110    633006 001      999             800,00 €        2 800,00 €     2 000,00 € Všeobecný materiál OcÚ
+  30. 09. 2026                       633006 001                                                     2 000,00 €
+                  41   01     110    633006 002      999             100,00 €         100,00 €                  Kancelárské potreby
+                  41   01     110    633006 003      999              50,00 €          50,00 €                  Hygienické a čistiace potreby
+                  41   01     110    633010 000                      150,00 €         150,00 €                  Pracovné odevy, obuv,pracovné pomôcky
+                  41   01     110    633013 000                      300,00 €         300,00 €                  Softvér Web stránka
+                  41   01     110    633015 000      999             200,00 €         200,00 €                  Benzín kosačka
+                  41   01     110    633016 000      999             450,00 €         450,00 €                  Reprezentačné
+                  41   01     110    635002 000      999             500,00 €         500,00 €                  Údržba výpočtovej techniky
+                  41   01     110    635004 000      999             500,00 €         500,00 €                  Údržba prev.strojov,prístrojov,zariadení,techniky a náradia
+                  41   01     110    635006 000      999             400,00 €         400,00 €                  Údržba OcÚ
+                  41   01     110    637001 000      999             300,00 €         300,00 €                  Školenia,kurzy,semináre,porady,konferencie,sympóziá
+                  41   01     110    637004 002                     2 000,00 €       2 820,00 €       820,00 € Všeobecné služby
+  30. 09. 2026                       637004 002                                                       820,00 €
+                  41   01     110    637012 000      999             360,00 €         360,00 €                  Poplatky banke
+                  41   01     110    637015 000      999             600,00 €         600,00 €                  Poistné -budova
+                  41   01     110    637015 001      999              40,00 €          40,00 €                  Poistné PC
+                  41   01     110    637015 002      999              18,00 €          18,00 €                  Poistné VO
+                  41   01     110    637026 000      999            1 500,00 €       1 500,00 €                 Odmeny poslanci
+                  41   01     110    637035 000      999              65,00 €          65,00 €                  Koncesionárske poplatky
+                  41   01     110    641009 000      999             200,00 €         200,00 €                  Spoločný úrad
+                  41   01     110    641012 000                       80,00 €          80,00 €                  BT ostatným subjektom sektora verejnej správy - CVČ
+                  41   01     110    642002 000      999              21,00 €          21,00 €                  Príspevky mikroregión
+                  41   01     110    642002 001      999             100,00 €         100,00 €                  BT nezisk.organizáciam,ktoré poskytujú všeobecnoprospešné služby
+                  41   01     110    642006 000                      350,00 €         350,00 €                  BT na členské príspevky ZMOS
+                  41   01     110    642012 000                     3 471,00 €                      -3 471,00 € Odstupné starostovi
+
+Dňa: 09.11.2026                                                                     Vypracoval: Mária Vargová                                                                                2/3
+Obec Kecerovský Lipovec, Kecerovský Lipovec 56, 044 47 Kecerovský Lipovec                                                                                   IČO: 00690287, DIČ:
+
+                                                       Č.
+                                                       dokladu
+                                                                   Schválený       Rozpočet po
+  Dátum zmeny Zdroj    Oddiel Trieda Položka           Č.                                           Zmena o         Popis / Poznámka
+                                                                    rozpočet        zmenách
+                                                       dokladu
+                                                       zmeny
+  30. 09. 2026                       642012 000                                                       -3 471,00 €
+                  41   01     110    711001 000                       2 000,00 €           1,00 €     -1 999,00 € Nákup pozemkov
+  30. 09. 2026                       711001 000                                                       -1 999,00 €
+                  41   01     110    713005 001                                        2 550,00 €     2 550,00 € Kamerový systém
+  30. 09. 2026                       713005 001                                                       2 550,00 €
+                  41   01     110    716000 000                       2 500,00 €       1 800,00 €      -700,00 € Prípravná a projektová dokumentácia
+  30. 09. 2026                       716000 000                                                        -700,00 €
+                  41   03     200    635006 000                       1 600,00 €       1 600,00 €                   Údržba budov,priestorov a objektov PO
+                  41   04     510    635006 000                        500,00 €         500,00 €                    Údržba komunikácii
+                  41   04     510    635006 001                       2 000,00 €                      -2 000,00 € Oprava obecnej cesty
+  30. 09. 2026                       635006 001                                                       -2 000,00 €
+                  41   04     510    717001 000                       7 000,00 €       8 500,00 €     1 500,00 € Realizácia nových stavieb - zastávka
+  30. 09. 2026                       717001 000                                                       1 500,00 €
+                  41   05     100    633006 000                        250,00 €         250,00 €                    Materiál smetné nádoby
+                  41   05     100    637004 000        999            3 000,00 €       4 000,00 €     1 000,00 € Nakladanie s odpadmi
+  30. 09. 2026                       637004 000                                                       1 000,00 €
+                  41   06     400    632001 000                       1 500,00 €       1 500,00 €                   Verejné osvetlenie- elektrina
+                  41   08     400    635006 000                        500,00 €         500,00 €                    Údržba cintorína
+ Spolu za Výdaj                                                     74 306,00 €      82 506,00 €      8 200,00 €
+
+                                                                   Schválený       Rozpočet po
+                                                                    rozpočet        zmenách
+                                                   Príjmy spolu:    74 306,00 €      82 506,00 €
+                                                    Výdaj spolu:    74 306,00 €      82 506,00 €
+                                                  Hospodárenie:
+
+
+
+
+Dňa: 09.11.2026                                                                       Vypracoval: Mária Vargová                                                            3/3
+

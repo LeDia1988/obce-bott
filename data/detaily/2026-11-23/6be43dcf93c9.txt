@@ -1,0 +1,554 @@
+URL: https://cuet.slovensko.sk/en/dokument/29af6217-5344-4297-a780-fb66a280710e
+OBEC: Boľ (Trebišov)
+NÁZOV: Návrh VZN o určení výšky FP na mzdy a prevádzku dieťa, žiaka a poslucháča v ZUŠ, JŠ a školskom zariadení na rok 2027
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/29af6217-5344-4297-a780-fb66a280710e
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN o určení výšky FP na mzdy a prevádzku dieťa, žiaka a poslucháča v ZUŠ, JŠ a školskom zariadení na rok 2027
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - obec Boľ
+Published from:
+21.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - obec Boľ
+Published to:
+05.12.2026
+Registry case:
+Name of official document:
+Návrh VZN o určení výšky FP na mzdy a prevádzku dieťa, žiaka a poslucháča v ZUŠ, JŠ a školskom zariadení na rok 2027
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+navrh-vzn-o-urceni-vysky-fp-na-mzdy-a-prevadzku-dieta-ziaka-a-posluchaca-v-zus-js-a-skolskom-zariadeni-na-rok-2027-p0nnxq.pdf
+Type and size:
+.pdf, 388.91 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/2e0eea86-51b2-4c81-a12b-7df5788fba1a
+                                        OBEC BOĽ
+
+
+
+
+                                      N Á V R H!
+               VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                                            č. .../2026
+
+    o určení výšky finančných prostriedkov na mzdy
+   a prevádzku dieťa, žiaka a poslucháča v základnej
+ umeleckej škole, jazykovej škole a školskom zariadení na
+                        rok 2027
+Návrh VZN          vyvesený na úradnej tabuli:                    od 13.11.2026 do 28.11.2026
+
+                   zverejnený na internetovej adrese obce:        od 13.11.2026 do 28.11.2026
+
+
+
+VZN schválené uznesením obecného zastupiteľstva č. ................. dňa ................... .
+
+Schválené VZN vyvesené na úradnej tabuli:                         od ................ do ..................
+
+                   zverejnené na internetovej adrese obce:        od ................
+
+
+VZN nadobúda účinnosť dňa: 01.01.2027.
+
+Predkladá:              JUDr. Atila Bohács, LL.M.
+
+Spracovateľ:            JUDr. Atila Bohács, LL.M., Bc. Ildikó Nagyová
+Obec BOĽ a obecné zastupiteľstvo obce Boľ vo veciach územnej samosprávy v zmysle § 6
+ods. 1 a § 11 ods.4 písm. g) zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+predpisov, § 6 ods. 12 písm. c) zákona NR SR č. 596/2003 Z. z. o štátnej správe v školstve a
+školskej samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,
+§ 19 zákona č. 523/2004 Z.z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov a § 7 zákona NR SR č. 583/2004 Z. z.
+o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v
+znení neskorších predpisov sa uznieslo a vydáva Všeobecne záväzné nariadenie (ďalej len
+VZN) o určení výšky finančných prostriedkov na mzdy a prevádzku dieťa, žiaka a poslucháča
+v základnej umeleckej škole, jazykovej škole a školskom zariadení na rok 2027.
+
+
+                                       Článok I
+                                   Úvodné ustanovenia
+
+1. Obec BOĽ (ďalej len „obec“) je zriaďovateľom Základnej školy s materskou školou s VJM
+   v Boli (ďalej len „ZŠ“) s právnou subjektivitou a prevádzkovateľom školského klubu detí
+   (ďalej len „ŠKD“) a školskej jedálne (ďalej len „ŠJ“).
+2. Na území obce nie sú zriadené umelecké alebo jazykové základné školy, ani súkromné
+   alebo cirkevné základné školy.
+3. Obec nie je zriaďovateľom centra voľného času (ďalej len „CVČ“) a na jej území nie je
+   zriadené iné CVČ.
+
+                                        Článok II
+                                     Predmet úpravy
+
+1. Toto VZN upravuje:
+   a) podrobnosti financovania ZŠ a MŠ v zriaďovateľskej pôsobnosti obce,
+   b) výšku finančných prostriedkov na kalendárny rok na mzdy, odvody a bežnú prevádzku
+      na žiaka potenciálneho stravníka ŠJ a na žiaka ŠKD,
+   c) lehotu na predloženie údajov potrebných na financovanie ŠJ a ŠKD,
+   d) deň v mesiaci, v ktorom obec poskytne finančné prostriedky ZŠ.
+
+
+                                     Článok III
+         Podrobnosti financovania originálnych kompetencií na úseku školstva
+
+1. Finančné prostriedky sú obci poskytované zo štátneho rozpočtu prostredníctvom miestne
+   príslušného daňového úradu z výnosu dane z príjmov fyzických osôb podľa zákona NR SR
+   č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve
+   a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a Nariadenia vlády
+   č. 668/2004 Z. z. o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení
+   neskorších predpisov a sú určené na mzdy a prevádzku pre ŠKD, ŠJ a školských zariadení
+   a na správu školských objektov.
+
+
+                                             2
+2. Finančné prostriedky na mzdy predstavujú bežné výdavky, ktoré zodpovedajú ekonomickej
+   klasifikácii definovanej Ministerstvom financií SR v rozpočtovej klasifikácii v kategórii
+   610 – mzdy, platy, služobné príjmy a ostatné osobné vyrovnania a v kategórii
+   620 – poistné a príspevok do poisťovní.
+3. Finančné prostriedky na prevádzku predstavujú bežné výdavky, ktoré zodpovedajú
+   ekonomickej klasifikácii definovanej Ministerstvom financií SR v rozpočtovej klasifikácii
+   v kategórii 630 – tovary a služby a v kategórii 640 – bežné transfery (napr. odchodné,
+   odstupné, nemocenské a pod.)
+4. Finančné prostriedky na správu školských objektov predstavujú kapitálové výdavky
+   spojené so správou týchto objektov. Ak obec neplánuje takéto kapitálové výdavky, môže
+   tieto finančné prostriedky použiť na prevádzkové náklady v ZŠ a MŠ, alebo na iné výdavky
+   obce, resp. prostredníctvom prebytku hospodárenia obce ich akumulovať v rezervnom
+   fonde. Minimálna výška týchto finančných prostriedkov na príslušný kalendárny rok na
+   dieťa a žiaka ZŠ je určená v prílohe č. ...... VZN.
+5. Na použitie finančných prostriedkov sa vzťahuje zákon NR SR č. 523/2004 Z. z.
+   o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých zákonov v
+   znení neskorších predpisov, zákon NR SR č. 583/2004 Z. z. o rozpočtových pravidlách
+   územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších
+   predpisov.
+6. Príjemca finančných prostriedkov je oprávnený použiť ich len na určený účel.
+7. Použité finančné prostriedky musia byť vynaložené hospodárne, efektívne, účelne a účinne.
+
+                                        Článok IV
+                                     Príjemca dotácie
+
+1. Príjemcom dotácie podľa tohto nariadenia je:
+   a) Školský klub detí (ŠKD) a školská jedáleň (ŠJ), ktorých zriaďovateľom je poskytovateľ
+       (obec).
+
+                                      Článok V
+                             Podmienky poskytnutia dotácie
+
+1. Školy a školské zariadenia, ktoré majú sídlo na území poskytovateľa (obcí) sú povinný
+   oznámiť obci údaje podľa § 7a, zákona č. 597/2003 Z.z. v znení neskorších predpisov
+   v spojení s prílohou č. 11 k nariadeniu vlády č.630/2008 z.z., najneskôr do 15. septembra
+   príslušného kalendárneho roka za školy a školské zariadenia, ktoré sú zriadené obcou.
+2. Rozhodujúcim údajom pre pridelenie dotácie na mzdy a prevádzku v príslušnom
+   kalendárnom roku je:
+   a) pre školské kluby detí – počet prijatých žiakov do školského klubu podľa stavu k 15.
+       septembru začínajúceho školského roka,
+   b) pre školské stravovanie – počet všetkých žiakov základných škôl v zriaďovateľskej
+       pôsobnosti obce do dovŕšenia 15. rokov veku, podľa stavu k 15. septembru začínajúceho
+       školského roka.
+
+
+                                             3
+3. Dotáciu na príslušný kalendárny rok možno poskytnúť na základe písomnej žiadosti
+   o poskytnutie dotácie doručenej poskytovateľovi lehote uvedenej v bode 4 tohto článku.
+4. Termín podania písomných žiadostí o dotáciu je do 31. októbra predchádzajúceho
+   kalendárneho roka na nasledujúci kalendárny rok.
+5. Ak príjemca dotácie ukončí činnosť spojenú s poskytovaním výchovy a vzdelávania, je
+   povinný oznámiť neodkladne poskytovateľovi dotácie ukončenie činnosti a v lehote
+   do jedného mesiaca od ukončenia činnosti vrátiť za obdobie odo dňa ukončenia činnosti
+   do 31.12. príslušného kalendárneho roka alikvotnú časť z poskytnutej dotácie.
+6. Príjemca dotácie je povinný v lehote do dvoch mesiacov od ukončenia činnosti súvisiacej
+   s poskytnutím dotácie vykonať jej vyúčtovanie podľa článku VII tohto VZN a toto
+   predložiť v súlade so zákonom č. 431/2002 Z.z. o účtovníctve v znení neskorších predpisov
+   poskytovateľovi dotácie.
+7. Príjemca dotácie, ktorému bola dotácia poskytnutá, je povinný viesť preukaznú analytickú
+   evidenciu príjmov a výdavkov, týkajúcich sa prijatej dotácie od poskytovateľa podľa
+   zákona č. 431/2002 Z.z. o účtovníctve v znení neskorších predpisov a zároveň vyznačiť na
+   origináli účtovných dokladov „uhradené z dotácie obce Boľ“.
+
+
+                                         Článok VI
+                                Výška, účel a použitie dotácie
+
+1. Výška dotácie na príslušný kalendárny rok na prevádzku a mzdy na žiaka školských
+   zariadení - školská jedáleň ŠJ a školský klub detí ŠKD - v zriaďovateľskej pôsobnosti obce
+   je určená v prílohe č. ................ tohto VZN.
+2. Príjemca dotácie je povinný poskytnutú dotáciu použiť do 31. decembra príslušného
+   kalendárneho roka.
+3. Z poskytnutej dotácie príjemca môže hradiť len náklady spojené s prevádzkou (t.j. bežné
+   výdavky – mzdy, odvody a prevádzku) školských zariadení: ŠKD a ŠJ.
+4. Príjemca dotácie je povinný vytvoriť podmienky pre kontrolu čerpania finančných
+   prostriedkov poskytnutých poskytovateľom.
+5. Príjemca dotácie má povinnosť:
+   a) Zachovať hospodárnosť, efektívnosť a účinnosť použitia poskytnutej dotácie a to
+       v súlade s § 19 ods. 3 zákona č. 523/2004 Z.z. o rozpočtových pravidlách verejnej
+       správy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,
+       a príslušných ustanovení zákona č. 357/2015 Z.z. o finančnej kontrole a vnútornom
+       audite a o zmene a doplnení niektorých zákonov.
+   b) Zabezpečiť vedenie účtovnej evidencie o poskytnutej dotácií v súlade so zákonom
+       č. 431/2002 Z.z. o účtovníctve v znení neskorších predpisov.
+
+
+
+
+                                             4
+                                         Článok VII
+                             Termín a spôsob poskytovania dotácie
+
+1. Poskytovateľ poskytne príjemcovi dotáciu mesačne vo výške 1/12 z celkového schváleného
+   objemu dotácie na príslušný kalendárny rok v lehote najneskôr do 28. dňa príslušného
+   kalendárneho mesiaca.
+                                        Článok VIII
+                                    Vyúčtovanie dotácie
+
+1. Vyúčtovanie dotácie je základnou podmienkou pre poskytnutie dotácie v nasledujúcom
+   kalendárnom roku.
+2. Príjemca dotácie je povinný vykonať finančné vyúčtovanie dotácie podľa prílohy č. 5
+   a predložiť ho poskytovateľovi v týchto lehotách:
+   a) do 15. júla – vyúčtovanie dotácie za obdobie od 01.01. do 30.06. príslušného
+       kalendárneho roka
+   b) do 15. januára nasledujúceho roka – vyúčtovanie dotácie za obdobie od 01.07.
+       do 31.12. predchádzajúceho kalendárneho roka.
+3. Ak prijímateľ nepredloží finančné vyúčtovanie dotácie podľa prílohy č. 5 vôbec a to ani
+   v lehote určenej poskytovateľom v písomnej výzve o predložení vyúčtovania dotácie, je
+   povinný poskytnutú dotáciu v plnom rozsahu vrátiť poskytovateľovi do 60 kalendárnych
+   dní od uplynutia lehoty určenej poskytovateľom v písomnej výzve na predloženie
+   finančného vyúčtovania.
+
+                                        Článok IX
+                                  Kontrola použitia dotácie
+
+1. Poskytovateľ dotácie je oprávnený vo svojom sídle, sídle príjemcu dotácie ( školy
+   a školského zariadenia) alebo na inom vhodnom mieste vykonať kontrolu podkladov
+   predložených zriaďovateľovi k prideleniu dotácie, kontrolu hospodárenia s poskytnutými
+   finančnými prostriedkami a kontrolu efektívnosti a účelnosti ich použitia.
+2. Pre účely kontroly podľa predchádzajúceho bodu je príjemca dotácie povinný umožniť
+   poskytovateľovi vykonanie kontroly hospodárenia s poskytnutými finančnými
+   prostriedkami a za tým účelom zabezpečiť pre osoby oprávnené na vykonanie kontroly
+   vstup do objektov, ktoré súvisia s predmetom kontroly a predloženie všetkých
+   požadovaných dokladov, informácií a vysvetlení súvisiacich s vykonávanou kontrolou.
+3. Oprávnenými osobami na vykonanie kontroly sú:
+   a) starosta obce, ktorý môže písomne poveriť na vykonanie kontroly zamestnanca obce
+       príp. predsedu finančnej komisie,
+   b) hlavný kontrolór obce.
+4. Ak poskytovateľ v rámci kontroly zistí, že príjemca použil dotáciu alebo jej časť na iný účel
+   než je uvedené v článku V ods. 3 tohto VZN, porušil finančnú disciplínu podľa § 31 zákona
+   č.523/2004 Z.z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení
+   niektorých zákonov v znení neskorších predpisov, porušil príslušné ustanovenia zákona č.
+
+
+                                               5
+   431/2002 Z.z. o účtovníctve v znení neskorších predpisov, je príjemca povinný v lehote 15
+   dní od dňa doručenia písomnej výzvy poskytovateľa vrátiť poskytovateľovi časť
+   poskytnutej dotácie vo výške porušenia finančnej disciplíny zistenej kontrolou vykonanou
+   poskytovateľom.
+5. Zamestnanec poskytovateľa vykonávajúci kontrolu postupom podľa článku V ods. 3 písm.
+   a) tohto VZN, je v zmysle § 8 ods. 1 písm. c) zákona č. 522/2003 Z.z. o výkone práce vo
+   verejnom záujme v znení neskorších predpisov povinný zachovať mlčanlivosť
+   o skutočnostiach, o ktorých sa dozvedel pri výkone práce vo verejnom záujme, porušenie
+   tejto povinnosti predstavuje závažné porušenie jeho pracovnej disciplíny.
+
+
+                                         Článok X
+                                   Záverečné ustanovenia
+
+1. Na ustanovenia súvisiace s určením výšky dotácie na prevádzku a mzdy na žiaka, a dieťa
+   školského zariadenia - školská jedáleň ŠJ a školský klub detí ŠKD - so sídlom na území
+   obce Boľ, neupravené týmto všeobecne záväzným nariadením, sa vzťahujú príslušné
+   právne predpisy.
+2. Toto VZN bolo schválené obecným zastupiteľstvom v Boli, uznesením číslo .....................
+   zo dňa ......................... .
+3. Toto všeobecne záväzné nariadenie nadobúda účinnosť dňa 01.01.2027 .
+4. Účinnosťou VZN č. 1/2026 o určení výšky finančných prostriedkov na mzdy a prevádzku
+   na dieťa, žiaka a poslucháča v základnej umeleckej škole, jazykovej škole a školskom
+   zariadení so sídlom na území obce Boľ na kalendárny rok 2027 stráca účinnosť VZN č.
+   1/2025 zo dňa 26.11.2025 o určení výšky finančných prostriedkov na financovanie
+   originálnych kompetencií na úseku školstva so sídlom na území obce Boľ na kalendárny
+   rok 2026.
+
+
+
+
+V obci Boľ, dňa 13.11.2026
+
+
+
+
+                                                                       JUDr. Atila Bohács
+                                                                         starosta obce
+
+
+
+
+                                               6
+                                          Príloha č. 1
+
+Dotácia na rok 2027 na prevádzku a mzdy pre žiaka školských zariadení - ŠKD a ŠJ -
+v zriaďovateľskej pôsobnosti obce
+
+
+                                                                                Dotácia na mzdy
+                                     Dotácia na mzdy a prevádzku na       a prevádzku na 1 žiaka a 1
+                                     žiaka a dieťa v materskej škole,       dieťa v materskej škole,
+                                      v školskom klube a v zariadení     v školskom klube a zariadení
+  Kategória škôl a školských              školského stravovania              školského stravovania
+          zariadení                              v eurách                     v eurách na rok 2027
+
+                                   Mesačne: 1.632,60 € mzdy + odvody
+                                   + iné osobné náklady + RN
+          Školský klub detí        Spolu mesačne: 1.632,60 €                      783,648 €
+                                   Počet detí v ŠKD: 25
+                                   Spolu na rok 2027: 19.591,20 €
+                                   Mesačne: 4.376,70 € mzdy + odvody +
+                                   iné osobné náklady + RN
+       Zariadenie školského
+                                   Spolu mesačne: 4.376,70 €                      320,2463 €
+            stravovania
+                                   Počet detí: 145 + 19 = 164
+                                   Spolu na rok 2027: 52.520,40 €
+ Spolu:                            Mesačne: 6.009,30 €
+                                   Ročne:  72.111,60 €
+
+
+
+
+Poznámka: Výpočet dotácií na mzdy a prevádzku na žiaka a dieťa v MŠ, ŠKD a v zariadení
+školského stravovania ŠJ je prezentované na základe návrhu rozpočtu ZŠ s MŠ s VJM v Boli
+zo dňa: 12.11.2026.
+
+Odporúčanie:
+
+   •      obec môže určiť výšku dotácie na žiaka a dieťa materskej školy a školského zariadenia
+          v závislosti od objemu finančných zdrojov obce a na základe preukázateľných potrieb
+          (rozpočtu) školy a školského zariadenia,
+
+   •      obec môže určiť výšku dotácie na žiaka a dieťa materskej školy a školského zariadenia
+          v závislosti od objemu finančných prostriedkov poukázaných obci z výnosu dane
+          z príjmov fyzických osôb.
+
+
+
+
+                                                7
+                                          Príloha č. 2
+
+Dotácia na rok 2027 na prevádzku a mzdy na dieťa a žiaka školských zariadení
+v zriaďovateľskej pôsobnosti obce
+
+
+                                                                                Dotácia na mzdy
+                                     Dotácia na mzdy a prevádzku na       a prevádzku na 1 žiaka a 1
+                                     žiaka a dieťa v materskej škole,       dieťa v materskej škole,
+                                      v školskom klube a v zariadení     v školskom klube a zariadení
+  Kategória škôl a školských              školského stravovania              školského stravovania
+          zariadení                              v eurách                     v eurách na rok 2027
+
+                                   Mesačne: 1.986,00 € mzdy + odvody
+                                   + iné osobné náklady + RN
+          Školský klub detí        Spolu mesačne: 1.986,00 €                       953,28 €
+                                   Počet detí v ŠKD: 25
+                                   Spolu na rok 2027: 23.832,00 €
+                                   Mesačne: 3.908,45 € mzdy + odvody +
+                                   iné osobné náklady + RN
+       Zariadenie školského
+                                   Spolu mesačne: 3.908,45 €                       285,98 €
+            stravovania
+                                   Počet detí: 145 + 19 = 164
+                                   Spolu na rok 2027: 46.901,40 €
+ Spolu:                            Mesačne: 5.894,45 €
+                                   Ročne: 70.733,40 €
+
+Poznámka: Výpočet dotácií na mzdy a prevádzku na žiaka a dieťa v ŠKD a v zariadení
+školského stravovania ŠJ bolo vypočítané na základe východiskových štatistických údajov
+a na základe Zákona č. 597/2003 Z. z. o financovaní, Zákona o rozpočtovom určení výnosu
+dane z príjmov územnej samospráve č. 564/2004 Z. z. a v znp., Nariadenia vlády
+o rozdeľovaní výnosu dane z príjmov územnej samospráve č. 668/2004 Z. z. v znp. a Zákona
+č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve v znp.a na základe
+vykazovaných skutočných, reálnych údajov a výpočtov obce.
+
+Odporúčanie:
+
+   •      obec môže určiť výšku dotácie na žiaka a dieťa materskej školy a školského zariadenia
+          v závislosti od objemu finančných zdrojov obce a na základe preukázateľných potrieb
+          (rozpočtu) školy a školského zariadenia,
+
+   •      obec môže určiť výšku dotácie na žiaka a dieťa materskej školy a školského zariadenia
+          v závislosti od objemu finančných prostriedkov poukázaných obci z výnosu dane
+          z príjmov fyzických osôb.
+
+
+
+
+                                                8
+                                          Príloha č. 3
+
+Dotácia na rok 2027 na prevádzku a mzdy na dieťa materskej školy a žiaka školských
+zariadení v zriaďovateľskej pôsobnosti obce
+
+
+                                                                                Dotácia na mzdy
+                                     Dotácia na mzdy a prevádzku na       a prevádzku na 1 žiaka a 1
+                                     žiaka a dieťa v materskej škole,       dieťa v materskej škole,
+                                      v školskom klube a v zariadení     v školskom klube a zariadení
+  Kategória škôl a školských              školského stravovania              školského stravovania
+          zariadení                              v eurách                     v eurách na rok 2027
+
+                                   Mesačne: 1.562,00 € mzdy + odvody+
+                                   iné osobné náklady + RN
+          Školský klub detí        Spolu mesačne: 1.562,00 €                       749,76 €
+                                   Počet detí v ŠKD: 25
+                                   Spolu na rok 2027: 18.744,00 €
+                                   Mesačne: 2.581,29 € mzdy + odvody +
+                                   iné osobné náklady + RN
+       Zariadenie školského
+                                   Spolu mesačne: 3.074,02 €                      224,9282 €
+            stravovania
+                                   Počet detí: 145+19=164
+                                   Spolu na rok 2027: 36.888,24 €
+ Spolu:                            Mesačne: 4.638,52 €
+                                   Ročne: 55.662,24 €
+
+Poznámka: Výpočet dotácií na mzdy a prevádzku na žiaka a dieťa v ŠKD a v zariadení
+školského stravovania ŠJ bolo vypočítané na základe východiskových štatistických údajov
+a na základe Zákona č. 597/2003 Z. z. o financovaní, Zákona o rozpočtovom určení výnosu
+dane z príjmov územnej samospráve č. 564/2004 Z. z. a v znp., Nariadenia vlády
+o rozdeľovaní výnosu dane z príjmov územnej samospráve č. 668/2004 Z. z. v znp. a Zákona
+č. 596/2003 Z. z. o štátnej správe v školstve a školskej samospráve v znp.a na základe
+výpočtov MF SR v zmysle Východiskových štatistických údajov a podielu obcí na výnose
+DPFO podľa jednotkového koeficientu na rok 2025 na základe septembrovej prognózy.
+
+Odporúčanie:
+
+   •      obec môže určiť výšku dotácie na žiaka a dieťa materskej školy a školského zariadenia
+          v závislosti od objemu finančných zdrojov obce a na základe preukázateľných potrieb
+          (rozpočtu) školy a školského zariadenia,
+
+   •      obec môže určiť výšku dotácie na žiaka a dieťa materskej školy a školského zariadenia
+          v závislosti od objemu finančných prostriedkov poukázaných obci z výnosu dane
+          z príjmov fyzických osôb.
+
+
+
+
+                                                9
+Sprievodná správa k návrhu (Príloha č. 1, Príloha č. 2 a Príloha č. 3) VZN
+o určení výšky dotácie na mzdy a prevádzku na žiaka a dieťa v školských
+zariadení so sídlom na území obce BOĽ
+Výpočet v zmysle Východiskových štatistických údajov a podielu obcí na výnose DPFO pre
+rok 2027 uverejnených na webovom sídle MF SR je hodnota jednotkového koeficientu na rok
+2027 na základe schváleného rozpočtu verejnej správy na roky 2027 až 2029 sume 124,96
+Eur/PPŽ.
+  Predbežný jednotkový koeficient na jedného prepočítaného žiaka na rok 2027
+
+                              MF SR                            OBEC
+ Predpokladaný výnos DPFO              2 622 622 000,00 €                      314 780,00 €
+ na rok 2027
+ 27 % podiel na školstvo          2 622 622 000 x 27 % =             314 780,00 x 40 % =
+                                           708 107 940 €                       125 912 €
+ Počet prepočítaných žiakov                   5 666 570,7                         792,50
+ Jednotkový koeficient na     708 107 940 : 5 666 570,7 =         125 912 : 792,50 =
+ jedného PPŽ                         124,96 €/PPŽ                    158,88/PPŽ
+
+Na základe tohto jednotkového koeficientu a nariadenia vlády SR č. 668/2004 Z. z.
+o rozdeľovaní výnosu dane z príjmov územnej samospráve v znení neskorších predpisov
+a podľa počtu detí výška dotácie pre jednotlivé školské zariadenia je nasledovná:
+
+  Školské      Počet      Hodnota Dotácia         Dotácia         Dotácia         Dotácia
+ zariadenia     detí     koeficientu na 1        celkom –        celkom –        celkom –
+                                     dieťa       rozpočet      výpočet obce    výpočet MF
+                                                  ZŠsMŠ          (158,88)           SR
+                                               (Príloha č.1)   (Príloha č.2)     (124,96)
+                                                                               (Príloha č.3)
+ ŠKD          25         6                        19 591,20        23 832,00      18 744,00
+ ŠJ           145 + 19 1,8                        52 520,40        46 901,40      36 888,20
+              = 164
+
+
+ Spolu:                                           72 111,60        70 733,40      55 632,20
+
+
+Výpočet: Príloha č.3:
+- ŠKD: počet detí x hodnota koeficientu x 124,96 = 25 x 6 x 124,96 = 18.744,00 €.
+  Pedagogický zamestnanec v ŠKD pracuje na 50 % úväzok zabezpečené cez originálnych
+  kompetencií a od 1.1.2027 v ŠKD bude vykonávať prácu aj pomocný vychovávateľ.
+- ŠJ: počet detí x hodnota koeficientu x 124,96 =164 x 1,8 x 124,96 = 55.632,20 €.
+Prílohy a sprievodnú správu vypracovala: Bc. Ildikó Nagyová, ekonómka OcÚ v Boli
+
+V Boli, dňa 13.11.2026
+
+                                          10
+Príloha č. 5
+Zriaďovateľ:
+IČO:
+Názov školského zariadenia:
+
+  Vyúčtovanie dotácie poskytnutej v zmysle VZN č. ..../2026 o určení výšky finančných
+  prostriedkov na mzdy a prevádzku dieťa, žiaka a poslucháča v základnej umeleckej
+  škole, jazykovej škole a školskom zariadení na rok 2027 z rozpočtu obce Boľ v rámci
+                                 originálnej kompetencií
+
+Súčasťou tejto prílohy sú fotokópie dokladov preukazujúcich použitie finančných
+prostriedkov poskytnutých formou dotácie, ktoré pracovník obce porovná v deň
+prekladania vyúčtovania a podpisom na fotokópii dokladu potvrdí zhodu fotokópie
+s originálom a správa o činnosti za rok 2027.
+
+ Účel          Suma           Suma skutočne Suma                            Dátum                         Číslo účtu, na
+               poskytnutých   použitých FP nepoužitých FP                   vrátenia                      ktorý boli FP
+               FP             k 31.12.20... / rozdiel stĺpcov               nepoužitých                   vrátené
+                                            1-2                             FP
+                      1              2              3                              4                            5
+ Dotácia –
+ bežné
+ výdavky
+
+Rozpis sumy skutočne použitých finančných prostriedkov za rok 20.... v členení
+
+ Položka 610                    Mzdy, platy ...
+ Položka 620                    Poistné a príspevok do poisť.
+ Položka 630                    Tovary a služby
+ z toho položka 636             Nájomné za nájom
+ Položka 640                    Bežné transfery
+
+
+ Bežné výdavky 600              Bežné výdavky celkom
+
+
+Vypracoval:
+Dňa:
+Tel. číslo:
+
+
+                                            ...........................................................
+                                             Pečiatka a podpis riaditeľa ZŠ s MŠ
+
+
+                                          11
+

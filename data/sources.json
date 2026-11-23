@@ -75,7 +75,7 @@
  },
  "513857": {
   "base": "https://www.budahaza.eu/",
-  "discovered": "2026-11-16",
+  "discovered": "2026-11-23",
   "pages": [
    "https://www.budahaza.eu/samosprava/",
    "https://www.budahaza.eu/novinky/",
@@ -206,7 +206,7 @@
  },
  "518590": {
   "base": "https://www.obeclubotice.sk/",
-  "discovered": "2026-11-16",
+  "discovered": "2026-11-23",
   "pages": [
    "https://www.obeclubotice.sk/zverejnovanie/1684/uradna-tabula",
    "https://www.obeclubotice.sk/novinky/17231/zasadnutia-obecneho-zastupitelstva",
@@ -214,7 +214,6 @@
    "https://www.obeclubotice.sk/novinka/143947/ustanovujuce-zasadnutie-obecneho-zastupitelstva",
    "https://www.obeclubotice.sk/novinka/142296/9-zasadnutie-ocz-dna-19102026",
    "https://www.obeclubotice.sk/novinka/141628/pozvanka-medzigeneracne-dialogy-5",
-   "https://www.obeclubotice.sk/novinka/138731/8-zasadnutie-ocz-dna-2482026",
    "https://www.obeclubotice.sk/novinka/142969/zapisnica-miestnej-volebnej-komisie-v-luboticiach-o-vysledku-volieb-samospravy-obce-z-24102026",
    "https://www.obeclubotice.sk/29733/projekty-v-obci",
    "https://www.obeclubotice.sk/16379/investicie",
@@ -222,6 +221,7 @@
    "https://www.obeclubotice.sk/novinka/143335/slovenska-posta-oznamenie-trvalej-zmeny-hodin-pre-verejnost-od-1112026",
    "https://www.obeclubotice.sk/novinka/142317/elektronicka-fakturacia-zakladne-informacie",
    "https://www.obeclubotice.sk/novinka/140333/zoznam-zaregistrovanych-kandidatov-pre-volby-predsedu-a-poslancov-psk-24102026",
+   "https://www.obeclubotice.sk/16337/rozvoj",
    "https://www.obeclubotice.sk/"
   ],
   "status": "ok"
@@ -1980,7 +1980,7 @@
  },
  "520004": {
   "base": "https://www.humenne.sk/",
-  "discovered": "2026-11-16",
+  "discovered": "2026-11-23",
   "pages": [
    "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Viceprimatorom-Babjarcik-zvolat-a-viest-zastupitelstvo-moze-Zidova-1-MsZ/",
    "https://www.humenne.sk/forward.php?adr=aHR0cHM6Ly9lZ292Lmh1bWVubmUuc2svZGVmYXVsdC5hc3B4P05hdmlnYXRpb25TdGF0ZT02MTA6MDo=&page=s03&go1=7&go2=1369",
@@ -1988,14 +1988,14 @@
    "https://www.humenne.sk/Samosprava-mesta/Projekty-financovane-EU-a-dotacie/Infrastruktura-pre-pohybove-a-volnocasove-aktivity-v-Humennom/",
    "https://www.humenne.sk/Samosprava-mesta/Mestske-zastupitelstvo/",
    "https://www.humenne.sk/Samosprava-mesta/Projekty-financovane-EU-a-dotacie/Modernizacia-kryteho-plaveckeho-bazena-v-Humennom/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Rozsirenie-WORKOUTOVEHO-IHRISKA-3-etapa/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Zasadnutie-MsZ-v-Humennom-11-11-2026/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/eFaktura-od-1-januara-2027-Zistite-koho-sa-tyka-a-ako-sa-pripravit/",
    "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/",
    "https://www.humenne.sk/Podnikatel/Zamer-mesta-Humenne/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Pri-verejnom-trhovisku-novy-MURIK-a-SCHODY/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/Prerusenie-distribucie-elektriny-Jasenovska-18-11/",
+   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/PRESTUPNY-AUTOBUSOVY-TERMINAL-s-lavkou-ponad-4-prudovu-cestu/",
    "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/USTANOVUJUCE-MsZ-Traja-POSLANECKI-novacikovia-jeden-navratilec-Zien-menej-sedem/",
    "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/USTANOVUJUCE-MsZ-Treti-primatorsky-podpis-MERICKO/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/XXIX-HUMENSKE-VIANOCNE-TRHY-info-pre-predajcov/",
-   "https://www.humenne.sk/Aktuality-a-oznamy/Samosprava/VYLUKA-Dlhe-n-Cir-Stakcin-na-trati-Humenne-Stakcin-spat-11-11/",
    "https://www.humenne.sk/"
   ],
   "status": "ok"
@@ -20513,6 +20513,24 @@
    "https://www.kosice.sk/obcan/verejne-obstaravania",
    "https://www.kosice.sk/transparentne-mesto/oznamovanie-protispolocenskej-cinnosti-zakon-c-54-2019-z-z-",
    "https://www.kosice.sk/"
+  ],
+  "status": "ok"
+ },
+ "VUC-KSK": {
+  "pages": [],
+  "status": "web nedostupný: HTTPError"
+ },
+ "VUC-PSK": {
+  "base": "https://psk.sk/",
+  "discovered": "2026-11-23",
+  "pages": [
+   "https://psk.sk/unikatny-system-risk-zjednodusuje-pripravu-eurofondovych-projektov-vyuziva-ho-uz-vyse-730-partnerov-presovskeho-kraja/",
+   "https://psk.sk/silna-kohezna-politika-je-klucom-k-rozvoju-slovenska-samospravy-vyzyvaju-premiera-na-spolocny-postup-pri-jej-obhajobe-v-bruseli/",
+   "https://psk.sk/spickove-dielne-cnc-technika-aj-robotika-psk-modernizuje-vranovsku-strednu-skolu-za-145-mil-eur/",
+   "https://psk.sk/navrh-vzn-psk-c-xxx-2026-o-poskytovani-dotacii-z-vlastnych-prijmov-presovskeho-samospravneho-kraja/",
+   "https://psk.sk/domov/samosprava/",
+   "https://psk.sk/domov/aktuality",
+   "https://psk.sk/"
   ],
   "status": "ok"
  }

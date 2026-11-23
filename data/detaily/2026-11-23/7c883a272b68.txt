@@ -1,0 +1,624 @@
+URL: https://cuet.slovensko.sk/en/dokument/7c7aee27-6eb7-4547-be07-9105d0f54511
+OBEC: Kysta (Trebišov)
+NÁZOV: Zásady hospodárenia a nakladania s majetkom obce Kysta
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/7c7aee27-6eb7-4547-be07-9105d0f54511
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Zásady hospodárenia a nakladania s majetkom obce Kysta
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - obec Kysta
+Published from:
+23.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - obec Kysta
+Published to:
+07.12.2026
+Registry case:
+Name of official document:
+Zásady hospodárenia a nakladania s majetkom obce Kysta
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+zasady-hospodarenia-a-nakladania-s-majetkom-obce-kysta-rok2025-1ltonz.pdf
+Type and size:
+.pdf, 690.72 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/1eb43408-d20b-4649-b9ce-f7fa8a09423f
+                      Zásady hospodárenia a nakladania s majetkom
+                                      obce Kysta
+
+Obecné zastupiteľstvo obce Kysta na základe § 11 ods. 4 písm. a) zákona SNR č. 369/1990 Zb.
+ o obecnom zriadení v znení neskorších predpisov (ďalej len „zákon o obecnom zriadení“)
+ a § 9 ods. 1 zákona SNR č. 138/1991 Zb. o majetku obcí v znení neskorších predpisov (ďalej
+ len „zákon o majetku obcí“) schvaľuje tieto Zásady hospodárenia a nakladania s majetkom
+                                   (ďalej len „Zásady“)
+
+                                             Čl. 1
+                                       Pôsobnosť zásad
+(1) Zásady sa vzťahujú na majetok, ktorý je vo vlastníctve obce Kysta, ako aj na majetok, ktorý
+je v spoluvlastníctve obce a iného subjektu a upravujú:
+   a) kritériá pre prebytočnosť a neupotrebiteľnosť majetku obce, vrátane postupu pri
+       vyraďovaní majetku obce,
+   b) vymedzenie kompetencií orgánov obce pri nakladaní s majetkom obce,
+   c) dôvody pre trvalé alebo dočasné upustenie od vymáhania majetkových práv obce,
+   d) nadobúdanie vlastníctva k majetku tretích osôb obcou,
+   e) pravidlá prevodov vlastníctva majetku obce,
+   f) nájom majetku obce,
+   g) vstup obce do nájomných vzťahov k majetku tretích osôb,
+   h) výpožičku majetku obce,
+   i) nakladanie s cennými papiermi obce.
+(2) Účelom vydania zásad je upraviť pravidlá hospodárenia a nakladania s majetkom obce,
+ktoré nie sú upravené vo všeobecne záväzných právnych predpisoch slovenského právneho
+poriadku na podmienky obce. Zásady upravujú kompetencie orgánov obce, ktoré všeobecne
+záväzné právne predpisy výslovne nepriznávajú niektorému z orgánov obce.
+
+                                               Čl. 2
+                       Prebytočnosť a neupotrebiteľnosť majetku obce
+(1) Prebytočným je majetok obce, ktorý obec prostredníctvom svojich orgánov nepoužíva na
+plnenia svojich úloh. Prebytočnosť môže byť trvalá alebo dočasná. Obec pri posúdení
+prebytočnosti hodnotí predovšetkým kritériá
+   a) potrebnosť majetku pre plnenie úloh samosprávy, preneseného výkonu štátnej správy
+       alebo podnikateľskej činnosti obce,
+   b) ekonomické náklady na údržbu a prevádzku majetku obce,
+   c) protihodnotu, ktorú obec môže získať za majetok vo forme nájomného alebo zhodnotenia
+       pri nájme prebytočného majetku obce; kúpnej ceny pri predaji prebytočného majetku
+       obce; úžitku iného majetku, ktoré môže obec získať pri zámene prebytočného majetku
+       obce; výnosu pri vklade prebytočného majetku obce do právnickej osoby, alebo
+   d) verejnoprospešné ciele, ktorým môže prebytočný majetok obce slúžiť.
+(2) Neupotrebiteľným je majetok obce, ktorý už nemôže slúžiť svojmu pôvodnému účelu. Obec
+pri posúdení neupotrebiteľnosti hodnotí predovšetkým kritériá
+   a) opotrebovanie a amortizáciu majetku obce,
+   b) poškodenie majetku obce,
+   c) technickú a morálnu zastaranosť majetku obce,
+   d) nehospodárnosť prevádzky alebo opráv majetku obce,
+   e) je potrebné ho odstrániť v súlade s príslušným právnym predpisom (napríklad podľa
+       predpisov o výstavbe) na základe rozhodnutia, prípadne vyjadrenia príslušných orgánov
+       alebo si to vyžaduje jeho fyzický stav,
+   f) nie je možné ho naďalej využívať z dôvodu realizácie projektových zámerov.
+(3) O prebytočnosti alebo neupotrebiteľnosti majetku obce, rozhodne ten orgán obce (obecné
+zastupiteľstvo alebo starosta obce), ktorý je podľa zákona alebo týchto zásad oprávnený
+
+                                                                                             1
+rozhodnúť o majetkovoprávnom úkone týkajúcom sa daného majetku obce, ak nie je v ods. 7
+až ods. 9 tohto článku zásad uvedené inak. Rozhodnutie príslušného orgánu obce o
+prebytočnosti alebo neupotrebiteľnosti majetku obce predchádza rozhodnutiu orgánu obce
+o majetkovom úkone týkajúcom sa daného majetku obce, napríklad o zámere predaja, zámeny,
+nájmu alebo výpožičky majetku obce, ak nie je v odseku 5 tohto článku zásad uvedené inak.
+(4) Príslušný orgán obce odôvodní prebytočnosť alebo neupotrebiteľnosť majetku obce
+kritériami podľa tohto článku zásad.
+(5) Rozhodnutie o prebytočnosti sa nevydáva, ak:
+     a) ide o krátkodobý nájom alebo krátkodobú výpožičku, ktorých trvanie s tou istou osobou
+     neprekročí 10 dní v kalendárnom mesiaci,
+     b) ide o nájom obvodových múrov, striech alebo oplotenia za účelom umiestnenia
+     napríklad reklamného zariadenia alebo antén,
+     c) ide o nájom časti podlahovej plochy v budove, ktorej výmera nepresiahne 5 m2 a nie je
+     to samostatný nebytový priestor,
+     d) ide o nájom nehnuteľnej veci na účely budúceho umiestnenia inžinierskych stavieb,
+     rozvodov, vedení, sietí a ich prípojok podľa osobitných predpisov,1
+     e) ide o nájom pozemku, na ktorom sa nachádza stavba vo vlastníctve tretej osoby vrátane
+     priľahlej plochy, ktorá svojím umiestnením a využitím tvorí neoddeliteľný celok so
+     stavbou,
+     f) ide o nájom pozemku na účely zriadenia staveniska podľa osobitného predpisu, ak
+     vlastník susedných nehnuteľností požiada o nájom pozemku na tento účel,
+     g) ide o výpožičku pre rozpočtové a príspevkové organizácie zriadené obcou.
+(6) Rozhodnutie o neupotrebiteľnosti majetku obce vždy predchádza aj vyradeniu hnuteľného
+majetku obce postupom podľa ods. 7 až ods. 10 tohto článku zásad.
+(7) O neupotrebiteľnosti hnuteľnej veci obce, ktorej zostatková cena prevyšuje 3.500 €
+rozhoduje obecné zastupiteľstvo na návrh vyraďovacej komisie.
+(8) O neupotrebiteľnosti hnuteľnej veci obce, ktorej zostatková cena neprevyšuje 3.500 €
+rozhoduje starosta obce na návrh vyraďovacej komisie.
+(9) Postup podľa ods. 7 až ods. 8 tohto článku zásad uplatní obec v časových intervaloch podľa
+potreby. Ustanovenie odseku 10 týmto nie je dotknuté.
+(10) Postup podľa ods. 7 až ods. 8 tohto článku zásad uplatní obec vždy do 90 dní po vykonaní
+fyzickej inventúry podľa § 29 a § 30 zákona č. 431/2002 Z. z. o účtovníctve v znení neskorších
+predpisov, najmenej však raz ročne.
+(11) Rozhodnutie podľa ods. 7 až ods. 8 tohto článku zásad je podkladom pre vyradenie
+hnuteľného majetku a odúčtovanie z účtovnej evidencie hnuteľného majetku. Vyradený
+hnuteľný majetok môže byť zlikvidovaný ako druhotná surovina alebo ako odpad podľa
+osobitných predpisov. Ak vyradený hnuteľný majetok nie je fyzicky a morálne opotrebovaný
+natoľko, aby nemohol slúžiť pre potreby inej fyzickej alebo právnickej osoby, môže obec takýto
+vyradený hnuteľný majetok darovať alebo iným spôsobom previesť práva k nemu v prospech
+inej fyzickej alebo právnickej osoby, a to podľa pravidiel zákona o majetku obcí a týchto zásad.
+(12) Doklad o tom, ako bolo naložené s vyradeným majetkom obce, pripojí obec dodatočne k
+rozhodnutiu podľa 7 až ods. 8 tohto článku zásad.
+(13) Vyraďovacia komisia je trojčlenná.
+(14) Členov vyraďovacej komisie na účely ods. 7 tohto článku zásad; § 7a ods. 2 písm. c) a §
+
+1
+ Napríklad zákon č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších
+predpisov, zákon č. 251/2012 Z. z. o energetike a o zmene niektorých zákonov v znení neskorších predpisov, zákon
+č. 442/2002 Z. z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona č. 250/2012 Z.
+z. o regulácii v sieťových odvetviach v znení neskorších predpisov, zákon č. 351/2011 Z. z. o elektronických
+komunikáciách v znení neskorších predpisov, zákon č. 657/2004 Z. z. o tepelnej energetike v znení neskorších
+predpisov.
+
+                                                                                                              2
+7a ods. 2 písm. d) prvej vety zákona o majetku obcí menuje obecné zastupiteľstvo uznesením.
+(15) Členov vyraďovacej komisie na účely ods. 8 tohto článku zásad a § 7a ods. 2 písm. d)
+druhej vety zákona o majetku obcí menuje starosta obce.
+
+                                              Čl. 3
+                            Vymedzenie kompetencií orgánov obce
+(1) Pri hospodárení a nakladaní s majetkom obce sa delí právomoc medzi starostu obce a obecné
+zastupiteľstvo.
+(2) Obecné zastupiteľstvo schvaľuje:
+    a) nakladanie s majetkom obce v rozsahu ako vyplýva zo všeobecne záväzných právnych
+    predpisov Slovenskej republiky;
+    b) úkony pri prevode vlastníctva hnuteľného majetku obce, ktorého zostatková cena
+    presahuje 3.500 €;
+    c) nakladanie s majetkovými právami obce nad hodnotu 3.500 €. Pri nakladaní
+    s majetkovými právami obce vyplývajúcimi zo záväzkovoprávnych vzťahov obce sa
+    hodnota majetkového práva obce určuje za celú predpokladanú dobu trvania
+    záväzkovoprávneho vzťahu. Oprávnenie podľa prvej a druhej vety sa nevzťahuje na
+    nakladanie s majetkovými právami obce nad hodnotu 3.500 €, u ktorých rozsah nakladania
+    s nimi vyplýva pre starostu obce už zo schváleného alebo upraveného rozpočtu obce na
+    príslušný rozpočtový rok alebo vyplýva z pravidiel pre hospodárenie obce v rozpočtovom
+    provizóriu;
+    d) nakladanie s finančnými prostriedkami obce, či už hotovostne alebo bezhotovostne, nad
+    hodnotu 3.500 €. Oprávnenie podľa prvej vety sa nevzťahuje na nakladanie s finančnými
+    prostriedkami obce podľa čl. 3 ods. 4 písm. b) a c) zásad;
+    e) upustenie od vymáhania majetkových práv obce nad hodnotu 3.500 € za podmienok podľa
+    čl. 4 zásad, okrem pohľadávok podľa písm. f);
+   f) upustenie od vymáhania pohľadávok z daňových sankcií nad hodnotu 3.500 € podľa § 157
+    ods. 1 a ods. 5 zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a
+    doplnení niektorých zákonov;
+    g) prenechanie majetku obce do odplatného užívania (nájmu) alebo bezodplatného užívania
+    (výpožičky) iným fyzickým alebo právnickým osobám v prípadoch určených týmito
+    zásadami;
+    h) nadobudnutie vlastníctva k majetku od iných fyzických alebo právnických osôb
+    v prípadoch určených zásadami;
+    i) nadobudnutie práva užívania k majetku iných fyzických alebo právnických osôb
+    v prípadoch určených zásadami;
+    j) zníženie kúpnej ceny oproti všeobecnej hodnote majetku pri prevodoch majetku obce z
+    dôvodu hodného osobitného zreteľa a zníženie nájomného pri nájmoch majetku obce z
+    dôvodu hodného osobitného zreteľa v súlade s podmienkami týchto zásad;
+    k) rozhodnutie obce o vklade obce do kapitálového fondu obchodnej spoločnosti založenej
+    obcou alebo s majetkovou účasťou obce,
+    l) rozhodnutie zriadiť vecné bremeno na nehnuteľnom majetku obce na základe zmluvy, a to
+    len v nevyhnutnom rozsahu a za odplatu podľa znaleckého posudku,
+    m) v ďalších prípadoch určených zásadami a štatútom obce.
+(3) Úkony nakladania s majetkom obce, o ktorých podľa zákona, zásad a štatútu obce rozhoduje
+obecné zastupiteľstvo, a ktoré by urobil len starosta obce bez predchádzajúceho rozhodnutia
+obecného zastupiteľstva obec nezaväzujú. Starosta obce nemôže urobiť bez prejavu vôle
+obecného zastupiteľstva majetkovoprávny úkon, ku ktorému sa vyžaduje predchádzajúce
+rozhodnutie obecného zastupiteľstva. Takýto právny úkon, najmä zmluva, zmena podstatných
+náležitostí zmluvy, odstúpenie od zmluvy, by nevyvolal právne účinky.
+
+                                                                                           3
+(4) Starosta obce
+   a) rozhoduje vo všetkých veciach nakladania s majetkom obce, v ktorých nie je zákonom,
+   štatútom obce a zásadami výslovne zverená rozhodovacia právomoc obecnému
+   zastupiteľstvu;
+   b) rozhoduje o použití finančných prostriedkov obce a majetkových práv obce, v rozsahu
+   vyplývajúcom zo schváleného alebo upraveného rozpočtu obce na príslušný rozpočtový rok
+   alebo z pravidiel pre hospodárenie obce v rozpočtovom provizóriu;
+   c) rozhoduje o použití finančných prostriedkov obce a majetkových práv obce pri uzatvorení
+   zmluvy, ktorá je výsledkom verejného obstarávania, ktorého podklady schválilo obecné
+   zastupiteľstvo, a to aj v prípade, ak plnenie obce na základe zmluvy, ktorá je výsledkom
+   verejného obstarávania presahuje obdobie, na ktoré je schválený rozpočet obce v záväznej
+   časti podľa písm. b);
+   d) vykonáva pôsobnosť valného zhromaždenia obchodných spoločností, v ktorých je
+   obec jediným spoločníkom alebo jediným akcionárom,
+   e) v ďalších prípadoch určených zásadami a štatútom obce.
+(5) Vo veciach nakladania s majetkom obce, na ktoré všeobecne záväzné právne predpisy
+právneho poriadku, štatút obce a tieto zásady nepamätajú rozhoduje obecné zastupiteľstvo len
+vtedy, ak je nepochybné, že takéto nakladanie s majetkom má pre obec charakter
+najdôležitejších úkonov týkajúcich sa majetku obce ako jednej zo základných otázok života
+obce. Naplnenie znakov skutkovej podstaty podľa prvej vety tohto ustanovenia obecné
+zastupiteľstvo konštatuje samostatným uznesením pred rozhodnutím o nakladaní s majetkom
+obce, ktorého sa vyhradenie kompetencie obecného zastupiteľstva podľa tohto ustanovenia
+zásad týka.
+
+                                             Čl. 4
+                        Dôvody pre trvalé alebo dočasné upustenie
+                           od vymáhania majetkových práv obce
+(1) Kompetenciu rozhodnúť o upustení od vymáhania majetkových práv obce z majetku obce
+spravovaného obcou vymedzuje čl. 3 ods. 2 písm. e) zásad a čl. 3 ods. 4 písm. a) zásad.
+(2) Obec môže na žiadosť dlžníka od vymáhania majetkového práva alebo jeho časti upustiť,
+ak dlžník preukáže, že by splnením záväzku voči obci bola vážne ohrozená jeho výživa alebo
+výživa osôb na dlžníka odkázaných.
+(3) Obec môže od vymáhania majetkového práva alebo jeho časti upustiť, ak je vymáhanie
+majetkového práva obce zjavne nevymožiteľné.
+    Nevymožiteľnou pohľadávkou je pre účely týchto zásad:
+    a) pohľadávka, ktorá zanikla preklúziou,
+    b) pohľadávka, ktorá sa premlčala a dlžník odmieta dlh dobrovoľne plniť (uplatňuje
+    námietku premlčania),
+    c) pohľadávka, pri ktorej nemožno preukázať jej výšku a nie je podklad pre to, aby súd
+    alebo iný príslušný orgán určil jej výšku,
+    d) pohľadávka, pri ktorej nemožno preukázať, že trvá
+    e) pohľadávka, ktorú nie je možné vymáhať z dôvodu, že dlžník zomrel a nemohla byť
+    uspokojená ani vymáhaním od dedičov,
+    f) pohľadávka, ktorá zanikla z dôvodu, že dlžník zanikol bez právneho nástupcu, okrem
+    prípadu obchodných spoločností, kedy je možné pohľadávku vymáhať od spoločníkov,
+    ktorí ručia za záväzky aj po zániku spoločnosti do výšky podielu na likvidačnom zostatku
+    najmenej však v rozsahu v akom ručili za trvania spoločnosti,
+    g) ak súd zamietol návrh na vyhlásenie konkurzu pre nedostatok majetku alebo zastavil
+    konkurzné konanie pre nedostatok majetku, alebo zrušil konkurz z dôvodu, že majetok
+    dlžníka nepostačuje na úhradu výdavkov a odmenu správcu konkurznej podstaty, alebo
+
+                                                                                           4
+     zrušil konkurz z dôvodu, že majetok dlžníka nepostačuje ani na úhradu pohľadávok proti
+     podstate, alebo došlo k zrušeniu konkurzu,
+     h) ak exekúciu alebo výkon rozhodnutia súd alebo exekútor zastavil z dôvodu, že po vzniku
+     exekučného titulu nastali okolnosti, ktoré spôsobili zánik vymáhanej pohľadávky,
+     i) ak exekútor výkon rozhodnutia alebo exekúciu zastaví z dôvodu, ak oprávnený alebo
+     povinný zanikol bez právneho nástupcu alebo dedičské konanie po oprávnenom alebo
+     povinnom bolo zastavené z dôvodu, že nezanechal žiadny majetok alebo len majetok
+     nepatrnej hodnoty, alebo ak pri exekúcii vedenej na majetok právnickej osoby sa do 30
+     mesiacov od začatia exekúcie alebo od posledného zexekvovania majetku nepodarilo zistiť
+     majetok alebo príjmy, ktoré by mohli byť postihnuté exekúciou a ktoré by stačili aspoň na
+     úhradu trov exekútora, alebo ak pri exekúcii vedenej na majetok fyzickej osoby sa do
+     piatich rokov od začatia exekúcie alebo od posledného zexekvovania majetku nepodarilo
+     zistiť majetok alebo príjmy, ktoré by mohli byť postihnuté exekúciou a ktoré by stačili
+     aspoň na úhradu trov exekútora,
+     j) pohľadávky vymáhané v exekučných konaniach podľa osobitného predpisu2, pokiaľ
+     obec nevyhodnotí inak.
+(4) Obec môže od vymáhania majetkového práva alebo jeho časti upustiť, ak náklady na jeho
+vymoženie zjavne presiahnu hodnotu dotknutého majetkového práva a nemožno očakávať
+priznanie náhrady trov konania a trov právneho zastúpenia obce.
+(5) Rozhodnutie orgánu obce o uplatnení dôvodov podľa ods. 3 alebo ods. 4 nemôže byť
+svojvoľné a musí mu predchádzať vykonanie kvalifikovaného právneho a ekonomického
+posúdenia.
+(6) Rozhodnutie orgánu obce o upustení od vymáhania majetkového práva alebo jeho časti musí
+výslovne obsahovať dovolanie sa na niektoré z ustanovení ods. 2 až 4 a jeho odôvodnenie podľa
+odseku 5. Ochrana osobných údajov podľa osobitných predpisov tým nie je dotknutá. Osobné
+údaje z rozhodnutia orgánu obce podľa ods. 2 až 5 sa nesprístupnia.
+(7) Upustenie od vymáhania majetkového práva alebo jeho časti môže byť trvalé alebo dočasné.
+(8) O dočasnom upustení rozhodne orgán obce z dôvodov podľa ods. 2 až 5 vtedy, ak možno
+odôvodnene predpokladať, že vymáhanie majetkového práva alebo jeho časti je iba prechodné.
+(9) Dočasne možno upustiť od vymáhania majetkového práva alebo jeho časti najdlhšie do
+premlčania alebo preklúzie (zániku) majetkového práva alebo jeho časti. Pred uplynutím doby
+premlčania alebo preklúzie majetkového práva alebo jeho časti orgán obce rozhodne o trvalom
+upustení od vymáhania majetkového práva alebo jeho časti ak dôvody podľa ods. 2 až 5 naďalej
+trvajú alebo o vymáhaní majetkového práva alebo jeho časti. Ustanovenia ods. 5 a ods. 6 sa
+použijú primerane.
+(10) Rozhodnutím príslušného orgánu obce podľa čl. 3 ods. 2 písm. e), čl. 3 ods. 4 písm. a)
+možno dlžníkovi povoliť splnenie záväzku v splátkach alebo povoliť odklad splnenia záväzku
+za podmienky uznania záväzku podľa § 323 zákona č. 513/1991 Zb. Obchodného zákonníka
+v znení neskorších predpisov alebo § 558 zákona č. 40/1964 Zb. Občianskeho zákonníka
+v znení neskorších predpisov, prípadne priznaného právoplatným rozhodnutím súdu alebo
+iného orgánu, ak dlžník bez svojho zavinenia nemôže záväzok splniť v čase splatnosti. Odklad
+splnenia záväzku sa môže povoliť najdlhšie do času premlčania práva vymáhať podľa tohto
+ustanovenia zásad uznaný alebo priznaný záväzok. Povoliť dlžníkovi zaplatenie dlhu v
+splátkach alebo odklad zaplatenia dlhu možno iba za súčasného splnenia podmienok:
+     a) dlžník písomne uzná dlh čo do dôvodu a výšky,
+     b) nemá voči obci iný dlh a
+     c) dohodne sa splatnosť celej pohľadávky v prípade nezaplatenia niektorej splátky.
+(11) Postup podľa čl. 4 zásad nie je možné uplatniť, ak záväzok vznikol v súvislosti
+2
+  Zákon č. 233/2019 Z. z. o ukončení niektorých exekučných konaní a o zmene a doplnení niektorých zákonov
+v z. n. p.
+
+                                                                                                       5
+s úmyselnou trestnou činnosťou dlžníka.
+(12) Postup podľa čl. 4 zásad sa nepoužije na úseku správy daní.
+(13) Postupom podľa čl. 4 zásad nie sú dotknuté ustanovenia predpisov na úseku štátnej
+pomoci.
+                                               Čl. 5
+                           Nadobúdanie majetku do vlastníctva obce
+(1) Obec môže nadobúdať hnuteľné veci a nehnuteľné veci, vrátane finančných prostriedkov
+ako aj pohľadávky a iné majetkové práva (ďalej len „majetok“) od fyzických osôb,
+právnických osôb a štátu odplatne alebo bezodplatne.
+(2) Obec postupuje pri obstarávaní majetku podľa predpisov o verejnom obstarávaní a ďalších
+osobitných predpisov slovenského právneho poriadku.
+(3) Pri nadobúdaní majetku od iných osôb na základe právneho úkonu sa na strane obce jedná
+o nakladanie s finančnými prostriedkami obce (hotovostne) alebo o nakladanie s majetkovými
+právami obce (bezhotovostne), t. j. prostriedkami na účtoch v banke. Kompetenciu orgánov
+obce na vykonanie úkonov smerujúcich k nadobudnutiu vlastníctva upravuje čl. 3. ods. 2 písm.
+d) zásad a čl. 3. ods. 4 písm. a) až c) zásad. Ustanovenia ods. 4 tohto článku zásad tým nie sú
+dotknuté.
+(4) Obecné zastupiteľstvo si nad rámec kompetencií podľa čl. 3. ods. 2 písm. d) zásad a čl. 3.
+ods. 4 písm. a) až c) zásad vyhradzuje uznesením schváliť:
+   a) úkony pri nadobúdaní každého nehnuteľného majetku do vlastníctva obce, vrátane
+   bezodplatného nadobúdania, s výnimkou nadobudnutia zo zákona alebo na základe
+   rozhodnutia súdu alebo iného štátneho orgánu,
+   b) úkony pri bezodplatnom nadobúdaní každého hnuteľného majetku, ktorého zostatková
+   cena prevyšuje 3.500 €.
+
+                                               Čl. 6
+                       Spôsob a zámer prevodu vlastníctva majetku obce
+(1) Kompetencia orgánov obce na vykonanie úkonov smerujúcich k prevodu vlastníctva
+majetku obce je upravená v čl. 3 ods. 2 písm. a) až m) a čl. 3 ods. 4 písm. a) zásad. Ustanovenie
+čl. 3 ods. 5 zásad tým nie je dotknuté.
+(2) Obecné zastupiteľstvo uznesením schváli spôsob a zámer prevodu vlastníctva v prípadoch
+    a) nehnuteľného majetku obce; to neplatí, ak je obec povinná previesť nehnuteľný majetok
+    na základe 9a ods. 15 písm. a) zákona o majetku obcí a
+    b) hnuteľného majetku obce, ak nakladanie s ním spadá do kompetencie obecného
+    zastupiteľstva podľa čl. 3 ods. 2 písm. b) zásad.
+(3) Rozhodnutie obecného zastupiteľstva o spôsobe a zámere prevodu vlastníctva majetku obce
+podľa ods. 2 môže byť súčasťou jedného uznesenia obecného zastupiteľstva, no musí
+obsahovať vždy tieto náležitosti:
+    a) výslovné uvedenie, či sa vlastníctvo majetku obce má previesť spôsobom
+        - podľa § 9a ods. 1 písm. a) zákona o majetku obcí, t. j. na základe obchodnej verejnej
+            súťaže,
+        - podľa § 9a ods. 1 písm. b) zákona o majetku obcí, t. j. dobrovoľnou dražbou,
+        - podľa § 9a ods. 1 písm. c) zákona o majetku obcí, t. j. priamym predajom najmenej
+            za cenu vo výške všeobecnej hodnoty majetku stanovenej podľa osobitného
+            predpisu,3
+        - podľa § 9a ods. 15 písm. b) zákona o majetku obcí, t. j. prevod vlastníctva pozemku
+            zastavaného stavbou vo vlastníctve nadobúdateľa vrátane priľahlej plochy, ktorá
+            svojím umiestnením a využitím tvorí neoddeliteľný celok so stavbou,
+3
+ Vyhláška Ministerstva spravodlivosti Slovenskej republiky č. 492/2004 Z. z. o stanovení všeobecnej hodnoty
+majetku v z. n. p.
+
+                                                                                                         6
+      -   podľa § 9a ods. 15 písm. c) zákona o majetku obcí, t. j. prevod podielu majetku obce,
+          ktorým sa realizuje zákonné predkupné právo,
+      - podľa § 9a ods. 15 písm. e) zákona o majetku obcí, t. j. prevod nehnuteľného majetku
+          obce do vlastníctva registrovaného sociálneho podniku ako formy investičnej
+          pomoci, alebo
+      - podľa § 9a ods. 15 písm. f) zákona o majetku obcí, t. j. z dôvodu hodného osobitného
+          zreteľa,
+  b) výslovné vyjadrenie zámeru prevodu vlastníctva majetku obce, ktorý musí byť
+  nezameniteľným spôsobom identifikovaný, a to
+      - u nehnuteľnej veci podľa katastrálneho územia, pozemku podľa parcelného čísla
+          evidovaného v súbore popisných informácií, pozemku evidovaného ako parcela
+          registra „C“ alebo parcela registra „E“, druhu pozemku, výmery pozemku, súpisného
+          čísla stavby, parcelného čísla pozemku, na ktorom je stavba postavená, čísla bytu
+          alebo nebytového priestoru, čísla poschodia, čísla vchodu, spoluvlastníckeho podielu
+          na spoločných častiach a spoločných zariadeniach domu a na pozemku, prípadne na
+          priľahlom pozemku, súpisného čísla stavby a parcelného čísla pozemku, na ktorom
+          je dom postavený; ak je nehnuteľnosť v spoluvlastníctve viacerých vlastníkov,
+          uvádza sa i podiel vyjadrený zlomkom k celku,
+      - u hnuteľnej veci identifikačnými údajmi, ktoré z nej nespochybniteľným spôsobom
+          robia nezameniteľný predmet prevodu s inou vecou,
+  c) ak obecné zastupiteľstvo rozhodlo o spôsobe prevodu vlastníctva z dôvodu hodného
+  osobitného zreteľa podľa § 9a ods. 15 písm. f) zákona o majetku obcí, uznesenie obecného
+  zastupiteľstva obsahuje aj
+      - nezameniteľným spôsobom označenie osoby, na ktorú sa má vlastníctvo majetku
+          obce previesť. Ochrana osobných údajov podľa osobitných predpisov tým nie je
+          dotknutá,
+      - výslovne zdôvodnenie, v čom dôvod hodný osobitného zreteľa spočíva v súlade so
+          zásadami,
+      - všeobecnú hodnotu prevádzaného majetku,
+      - ak je zamýšľaná kúpna cena nižšia oproti všeobecnej hodnote majetku, uvedenie aj
+          zamýšľanej výšky a zdôvodnenie prečo má byť znížená kúpna cena oproti
+          všeobecnej hodnote majetku v súlade s podmienkami zásad.
+
+                                               Čl. 7
+                                   Obchodná verejná súťaž
+1) V prípade prevodu vlastníctva majetku obce prostredníctvom obchodnej verejnej súťaže
+(ďalej len „súťaž“) sa postupuje podľa zákona o majetku obcí a ustanovení § 281 a nasl. zákona
+č. 513/1991 Zb. Obchodného zákonníka, podľa týchto zásad a podľa schválených podmienok
+obchodnej verejnej súťaže.
+(2) Obecné zastupiteľstvo schvaľuje podmienky súťaže uznesením, ktoré musí obsahovať
+najmä:
+   a) označenie vyhlasovateľa súťaže – obce,
+   b) nezameniteľným spôsobom identifikovaný majetok obce, ktorého prevod je predmetom
+   súťaže, a to
+       - u nehnuteľnej veci podľa katastrálneho územia, pozemku podľa parcelného čísla
+           evidovaného v súbore popisných informácií, pozemku evidovaného ako parcela
+           registra „C“ alebo parcela registra „E“, druhu pozemku, výmery pozemku, súpisného
+           čísla stavby, parcelného čísla pozemku, na ktorom je stavba postavená, čísla bytu
+           alebo nebytového priestoru, čísla poschodia, čísla vchodu, spoluvlastníckeho podielu
+           na spoločných častiach a spoločných zariadeniach domu a na pozemku, prípadne na
+
+                                                                                             7
+           priľahlom pozemku, súpisného čísla stavby a parcelného čísla pozemku, na ktorom
+           je dom postavený; ak je nehnuteľnosť v spoluvlastníctve viacerých vlastníkov,
+           uvádza sa i podiel vyjadrený zlomkom k celku,
+       - u hnuteľnej veci identifikačnými údajmi, ktoré z nej nespochybniteľným spôsobom
+           robia nezameniteľný predmet prevodu s inou vecou,
+   c) určenie minimálnej požadovanej súťažnej kúpnej ceny, alebo výslovné uvedenie, že obec
+nestanovuje minimálnu požadovanú súťažnú kúpnu cenu,
+   d) splatnosť kúpnej ceny,
+   e) lehotu, miesto a spôsob predkladania návrhov na uzavretie zmluvy v súlade s § 9a ods. 4
+zákona o majetku obcí (ďalej len „návrh“),
+   f) povinnosť navrhovateľa predložiť návrh na formulári zmluvy, ktorý môže tvoriť prílohu
+zverejnených podmienok súťaže a počet navrhovateľom vlastnoručne podpísaných rovnopisov
+návrhov, ktorý je potrebné predložiť, ak vyhlasovateľ súťaže rozhodol, že sa súťažné návrhy
+predkladajú na predpísanom formulári,
+   g) kritériá a ich poradie pre výber najvhodnejšieho návrhu,
+   h) určenie lehoty a spôsobu pre oznámenie výsledkov súťaže navrhovateľom,
+   i) vyhradenie práva obce ako vyhlasovateľa súťaže uznesením obecného zastupiteľstva
+podmienky súťaže meniť,
+   j) vyhradenie práva obce ako vyhlasovateľa súťaže uznesením obecného zastupiteľstva
+súťaž zrušiť,
+   k) vyhradenie práva obce ako vyhlasovateľa súťaže uznesením obecného zastupiteľstva
+predĺžiť lehotu na vyhlásenie výsledku súťaže,
+   l) vyhradenie práva súťažnej komisie pre výber najvhodnejšieho návrhu odmietnuť všetky
+predložené návrhy,
+   m) priznanie práva navrhovateľom právo návrh odvolať aj po uplynutí lehoty na
+predkladanie návrhov, a to až do času prijatia úspešného návrhu alebo odmietnutia všetkých
+návrhov súťažnou komisiou. Navrhovateľ, ktorý bol už súťažnou komisiou označený ako
+úspešný, má právo odstúpiť od zmluvy, a to aj bez uvedenia dôvodu v lehote do 30 dní odo dňa
+oznámenia o tom, že jeho návrh bol prijatý. Navrhovateľ je v takomto prípade povinný uhradiť
+obci zmluvnú pokutu vo výške finančnej zábezpeky, o ktorej rozhodne obecné zastupiteľstvo
+podľa čl. 7 ods. 2 písm. n) bod 3.
+   n) rozhodnutie obecného zastupiteľstva,
+       - či návrh musí obsahovať aj vymedzenie budúceho účelu využitia prevádzaného
+           majetku obce,
+       - či návrh musí obsahovať súhlas so zriadením predkupného práva na prevádzaný
+           majetok v prospech obce a podmienky uplatnenia predkupného práva obcou,
+       - či účasť v súťaži je podmienená zložením finančnej zábezpeky navrhovateľmi a
+           v akej výške,
+       - či účasť v súťaži je podmienená povinnosťou úhrady paušálnych nákladov obce
+           spojených so súťažou a v akej výške, najviac však vo výške 16,50 €,
+       - kto znáša náklady (správny poplatok) spojené s podaním návrhu na vklad
+           vlastníckeho práva do katastra nehnuteľností,
+   o) ďalšie podmienky, o ktorých rozhodne obecné zastupiteľstvo.
+(3) Ak sa na navrhovateľa vzťahuje povinnosť zapisovať sa do registra partnerov verejného
+sektora, je povinný k súťažnému návrhu predložiť aj potvrdenie o zápise v registri partnerov
+verejného sektora.4
+
+
+
+
+4
+    Zákon č. 315/2016 Z. z. o registri partnerov verejného sektora a o zmene a doplnení niektorých zákonov
+
+                                                                                                             8
+(4) Prílohou návrhu je vyhlásenie navrhovateľa, že nemá akékoľvek finančné záväzky po lehote
+splatnosti a iné záväzky po uplynutí lehoty na plnenie voči obci alebo voči ňou zriadeným alebo
+založeným právnickým osobám.
+(5) Obecné zastupiteľstvo môže určiť ďalšie povinné prílohy predkladaných návrhov,
+ustanovenia osobitného predpisu tým nie sú dotknuté.5
+(6) Ak obecné zastupiteľstvo uznesením schváli podmienky súťaže, obec zabezpečí do
+pätnástich pracovných dní odo dňa ich schválenia oznámenie o schválenom zámere previesť
+vlastníctvo majetku obce spôsobom súťaže a zverejnenie schválených podmienok súťaže na
+úradnej tabuli obce, na web sídle obce a iným vhodným spôsobom, a to minimálne na 15 dní
+pred uzávierkou podávania návrhov do súťaže.
+(7) Obec umožní vykonať obhliadku majetku obce, ktorá je predmetom súťaže, vrátane náhľadu
+do všetkej relevantnej dostupnej dokumentácie, napríklad revíznych správ, projektovej
+dokumentácie, viažucej sa k predmetu súťaže.
+(8) Obecný úrad je povinný vykonať zapisovanie poradia jednotlivých došlých návrhov tak,
+ako boli priebežne doručované v tomto rozsahu: prijaté, dátum a čas prijatia návrhu, poradie
+návrhu a podpis zodpovedného zamestnanca.
+(9) Po uplynutí lehoty na predkladanie návrhov, doručené návrhy preberá od zodpovedného
+zamestnanca zapisovateľ súťažnej komisie (ďalej len „zapisovateľ“). Zapisovateľa ustanoví zo
+zamestnancov obce starosta obce. Zapisovateľ nie je členom súťažnej komisie a zodpovedá za
+materiálno technické a organizačné zabezpečenie činnosti komisie.
+(10) Zapisovateľ skontroluje doručené návrhy a zabezpečí ich zverejnenie spôsobom podľa §
+9a ods. 4 zákona o majetku obcí do zasadnutia súťažnej komisie na vyhodnocovanie návrhov
+(ďalej len „súťažná komisia“), najkratšie však v lehotách podľa § 9a ods. 4 zákona o majetku
+obcí.
+(11) Súťažnú komisiu tvorí vedúci zamestnanec obecného úradu a ďalší dvaja členovia komisie,
+ktorých určí uznesením obecné zastupiteľstvo pri schválení podmienok súťaže. V prípade
+prevodu vlastníctva nehnuteľného majetku obce, ako i v mimoriadnych prípadoch, na základe
+rozhodnutia obecného zastupiteľstva obce môžu tvoriť súťažnú komisiu všetci poslanci
+obecného zastupiteľstva obce, pri súčasnom rešpektovaní a zohľadnení nižšie uvedených
+obmedzení. Pri nakladaní s majetkom obce, ktorý patrí podľa týchto zásad do kompetencie
+starostu obce a starosta obce rozhodne o nakladaní s týmto majetkom obce spôsobom
+obchodnej verejnej súťaže, menuje trojčlennú súťažnú komisiu z radov zamestnancov obce
+starosta obce. Obmedzenia podľa odseku 12 týmto nie sú dotknuté.
+(12) Člen súťažnej komisie nesmie byť navrhovateľom v súťaži, v rámci ktorej pôsobí ako člen
+súťažnej komisie, ani blízkou osobou k navrhovateľovi. Dôvody podľa prvej vety vylučujú
+členstvo v súťažnej komisii pre konkrétnu súťaž. Vylúčená osoba sa nezarátava do počtu členov
+súťažnej komisie. Ak však bola súťažná komisia len trojčlenná, vykoná sa jej doplnenie podľa
+pravidiel odseku 11. Ak sa člen súťažnej komisie dozvie o skutočnosti, ktorá zakladá jeho
+vylúčenie z účasti v súťažnej komisii alebo zakladá vylúčenie iného člena súťažnej komisie,
+oznámi túto skutočnosť bez zbytočného odkladu predsedovi súťažnej komisie. Predseda
+súťažnej komisie zabezpečí vykonanie opatrení podľa odseku 11 a odseku 12.
+(13) Predsedom súťažnej komisie je starostom obce poverený vedúci zamestnanec obce.
+Predseda je členom komisie. Ak súťažnú komisiu tvoria všetci poslanci obecného zastupiteľstva
+predsedu určia spomedzi seba hlasovaním na začiatku prvého zasadnutia súťažnej komisie. Ak
+je podľa odseku 12 vylúčený predseda súťažnej komisie, jeho úlohy plní zástupca, ktorý sa
+v jednotlivom prípade určí primerane postupom podľa tohto odseku zásad. Predseda vedie
+zasadnutie komisie. Predseda môže na zasadnutie komisie prizvať odborníkov za účelom
+získania odborného stanoviska.
+5
+  Zákon č. 177/2018 Z. z. o niektorých opatreniach na znižovanie administratívnej záťaže využívaním
+informačných systémov verejnej správy a o zmene a doplnení niektorých zákonov (zákon proti byrokracii)
+
+                                                                                                    9
+(14) Súťažná komisia je uznášaniaschopná, ak je na jej zasadnutí prítomná nadpolovičná
+väčšina všetkých jej členov. Súťažná komisia prijíma rozhodnutia hlasovaním. Rozhodnutie je
+prijaté, ak za návrh hlasovala nadpolovičná väčšina prítomných členov súťažnej komisie.
+(15) Zasadnutie súťažnej komisie je neverejné. Zasadnutie komisie zvoláva zapisovateľ.
+Pozvánka na zasadnutie musí byť doručená členom súťažnej komisie najmenej tri dni pred
+zasadnutím, pričom deň konania zasadnutia komisie sa do lehoty nezapočítava. V pozvánke sa
+uvedie miesto, dátum, hodina začiatku zasadnutia a návrh programu zasadnutia súťažnej
+komisie. Zasadnutia sa konajú zásadne na obecnom úrade. Rokovanie komisie vedie predseda
+súťažnej komisie tak, aby všetci členovia boli oboznámení predmetom súťaže a s predloženými
+návrhmi a aby k veci mohli podávať svoje návrhy a pripomienky a vyjadrovať sa. Ak predseda
+súťažnej komisie nie je prítomný, jeho úlohy plní zástupca, ktorý sa v jednotlivom prípade určí
+primerane postupom podľa tohto odseku 13.
+(16) Návrhy vyhodnocuje súťažná komisia v poradí v akom boli doručené.
+(17) Súťažná komisia vylúči návrh z hodnotenia, ak:
+    - nespĺňa súťažné podmienky,
+    - sa preukáže, že navrhovateľom je osoba vylúčená podľa odseku 12.
+    Vylúčenie súťažného návrhu komisia písomne odôvodní a oznámi v lehote podľa § 9a ods.
+6 zákona o majetku obce navrhovateľovi.
+(18) Súťažná komisia vychádzajúc z kritérií určených na posudzovanie návrhov prijme
+najvhodnejší návrh. Najvhodnejším návrhom sa rozumie návrh, ktorý získal najviac hlasov
+členov súťažnej komisie. Ostatné návrhy sa považujú za odmietnuté. Komisia môže hlasovaním
+podľa odseku 14 odmietnuť všetky doručené návrhy bez uvedenia dôvodu.
+(19) Súťaž je skončená momentom prijatia najvhodnejšieho návrhu alebo odmietnutím
+všetkých návrhov.
+(20) O vyhodnotení návrhov vyhotoví zapisovateľ protokol, ktorý musí obsahovať tieto údaje:
+    - označenie predmetu súťaže,
+    - celkový počet doručených návrhov,
+    - overenie splnenia zverejnenia a dodržania lehôt podľa § 9a ods. 2 až 6 zákona o majetku
+         obcí a týchto zásad,
+    - ktoré návrhy komisia vyradila zo súťaže a prečo,
+    - označenie navrhovateľov a obsah návrhov,
+    - prijatie najvhodnejšieho návrhu a odmietnutie ostatných návrhov alebo odmietnutie
+         všetkých súťažných návrhov,
+    - iné závažné skutočnosti,
+    - výpisy o hlasovaní členov súťažnej komisie,
+    - dátum a podpis členov súťažnej komisie.
+(21) Rozhodnutie súťažnej komisie je pre vyhlasovateľa súťaže záväzné. Obecné zastupiteľstvo
+prevod majetku obce na základe výsledkov súťaže neschvaľuje, ak nie je v odseku 22 uvedené
+inak. Starosta obce podpíše zmluvu o nakladaní s majetkom obce do tridsiatich dní od uplynutia
+lehoty pre oznámenie výsledkov súťaže. Starosta obce informuje na najbližšom zasadnutí
+obecného zastupiteľstva poslancov o výsledkoch súťaže.
+(22) Obecné zastupiteľstvo schvaľuje prevod vlastníctva nehnuteľného majetku obce na
+základe výsledkov obchodnej verejnej súťaže, ak v podmienkach tejto súťaže nebola určená
+požadovaná minimálna cena nehnuteľného majetku obce podľa čl. 7 ods. 2 písm. c) zásad.
+(23) Obec oznámi výsledky súťaže navrhovateľom v termíne a spôsobom určeným v súťažných
+podmienkach.
+(24) Po oznámení výsledkov súťaže navrhovateľom podľa odseku 23, oznámi prijatý návrh
+bezodkladne na úradnej tabuli a na web sídle obce.
+(25) Dokumentáciu o súťaži uchováva zapisovateľ na príslušnom organizačnom oddelení
+obecného úradu v originálnom vyhotovení po dobu ustanovenú osobitným zákonom.
+
+                                                                                            10
+                                             Čl. 8
+                                    Dobrovoľná dražba
+(1) Ak obecné zastupiteľstvo rozhodlo o spôsobe prevodu vlastníctva majetku obce
+dobrovoľnou dražbou podľa čl. 6 ods. 3 písm. a) odrážka 2 Zásad prevod vlastníctva sa spravuje
+zákonom č. 527/2002 Z. z. o dobrovoľných dražbách o dobrovoľných dražbách a o doplnení
+zákona Slovenskej národnej rady č. 323/1992 Zb. o notároch a notárskej činnosti (Notársky
+poriadok) v znení neskorších predpisov a zákona o majetku obcí.
+(2) Prevod vlastníctva majetku obce nastáva príklepom licitátora. Obecné zastupiteľstvo prevod
+majetku obce dobrovoľnou dražbou neschvaľuje. Starosta obce informuje na najbližšom
+zasadnutí obecného zastupiteľstva poslancov o výsledkoch dobrovoľnej dražby.
+
+                                             Čl. 9
+                                        Priamy prevod
+(1) Rozhodnutie obecného zastupiteľstva o spôsobe prevodu vlastníctva majetku obce priamym
+predajom podľa čl. 6 ods. 3 písm. a) odrážka 3 zásad je verejnou výzvou, ktorou sa obec obracia
+na neurčitý počet osôb na predkladanie cenových ponúk za nadobudnutie vlastníctva majetku
+obce, a to najmenej za cenu určenú znaleckým posudkom.
+(2) Obecné zastupiteľstvo uznesením určí lehotu a spôsob na predkladanie cenových ponúk pre
+záujemcov o nadobudnutie vlastníctva majetku obce (ďalej len „navrhovateľ“) v súlade s § 9a
+ods. 10 a ods. 11 zákona o majetku obcí.
+(3) Obecné zastupiteľstvo na svojom zasadnutí po uplynutí lehoty na zverejnenie cenových
+ponúk podľa § 9a ods. 11 zákona o majetku obcí vyhodnotí cenové ponuky a uznesením
+rozhodne o schválení prevodu vlastníctva majetku obce minimálne za cenu stanovenú
+v znaleckom posudku.
+(4) Obsahom uznesenia schváleného obecným zastupiteľstvom podľa odseku 3 sú podstatné
+náležitosti konkrétneho zmluvného typu podľa osobitných predpisov, pri odplatnom prevode
+majetku obce však vždy:
+   - označenie nehnuteľnej veci podľa katastrálneho územia, pozemku podľa parcelného čísla
+      evidovaného v súbore popisných informácií, pozemku evidovaného ako parcela registra
+      „C“ alebo parcela registra „E“, druhu pozemku, výmery pozemku, súpisného čísla stavby,
+      parcelného čísla pozemku, na ktorom je stavba postavená, čísla bytu alebo nebytového
+      priestoru, čísla poschodia, čísla vchodu, spoluvlastníckeho podielu na spoločných
+      častiach a spoločných zariadeniach domu a na pozemku, prípadne na priľahlom pozemku,
+      súpisného čísla stavby a parcelného čísla pozemku, na ktorom je dom postavený; ak je
+      nehnuteľnosť v spoluvlastníctve viacerých vlastníkov, uvádza sa i podiel vyjadrený
+      zlomkom k celku;
+   - označenie hnuteľnej veci identifikačnými údajmi, ktoré z nej nespochybniteľným
+      spôsobom robia nezameniteľný predmet prevodu s inou vecou;
+   - označenie nadobúdateľa neza

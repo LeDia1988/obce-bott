@@ -1,0 +1,591 @@
+URL: https://cuet.slovensko.sk/en/dokument/f75b91eb-8417-4dbc-9d0c-18bbfba9073a
+OBEC: Boľ (Trebišov)
+NÁZOV: Návrh rozpočtu Obce Boľ a RO ZŠ s MŠ s VJM v Boli na roky 2027,2028,2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/f75b91eb-8417-4dbc-9d0c-18bbfba9073a
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu Obce Boľ a RO ZŠ s MŠ s VJM v Boli na roky 2027,2028,2029
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - obec Boľ
+Published from:
+21.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - obec Boľ
+Published to:
+20.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu Obce Boľ a RO ZŠ s MŠ s VJM v Boli na roky 2027,2028,2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+navrh-rozpoctu-r.202720282029-obec-bol-prijmy-p44o7m.pdf
+Type and size:
+.pdf, 205.28 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+navrh-rozpoctu-zs-s-ms-rekapitulacia-gnk1k2.pdf
+Type and size:
+.pdf, 382.56 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+navrh-rozpoctu202720282029-ro-zssms-s-vjm-v-boli-us0zpu.pdf
+Type and size:
+.pdf, 41.09 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+navrh-rozpoctu-r.202720282029-obec-bol-vydavky-ernrmu.pdf
+Type and size:
+.pdf, 238.62 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+navrh-rozpoctu-obce-bol-a-ro-zs-s-ms-s-vjm-v-boli-r.2027-rekapitulacia-r2hdl9.pdf
+Type and size:
+.pdf, 209.69 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/e2251af9-bbbe-4026-9c34-22a28f26f9a4
+Obec Boľ S/N 1                                                                     N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený: dňa: .........., Uznesenie č.........                                   Vyvesený: Návrh rozpočtu 2027,2028,2029 16.11.2026
+Účínnosť: dňa: ..........                                                          Zvesený: Návrh rozpočtu 2027,2028,2029 01.12.2026                                           Strana č.   1
+                                 Príjmy podľa ekonomickej klasifikácie                   Skutočné plnenie          Rozpočet roku 2026                         Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka        Popis ekonomickej klasifikácie                2024          2025        Schvávený    Očakávaná skut.    2027 2028 2029
+                                                                                                                                                               2028
+                                                                                                                                                                  2024
+                                                                                                                                                                    2029 2024
+                                                                                                                                                                           2029 2024
+41    R 111003                    Výnos dane z príjmov poukázaný územnej s              317 409,10   275 089,29     302 251,-      300 671,-      314 780,-     333 684,-        353 833,-
+         111 *** DAN Z PRÍJMOV FYZICKEJ OSOBY                                           317 409,10   275 089,29     302 251,-      300 671,-      314 780,-     333 684,-        353 833,-
+41    R 121001                   Dan z pozemkov                                           9 055,50     9 969,85       9 685,-         9 685,-       9 685,-       9 685,-          9 685,-
+41    R 121001 PO-DZP            Daň z pozemkov-PO
+41    R 121002                   Dan zo stavieb                                           2 227,-      2 233,59       2 250,-         2 250,-       2 250,-       2 250,-          2 250,-
+41    R 121002 PO-DZS            Daň zo stavieb-PO
+41    R 121003                   Dan z bytov                                                 13,26        13,26          15,-            15,-          15,-          15,-             15,-
+         121 *** DAŇ Z NEHNUTEĽNOSTÍ                                                     11 295,76    12 216,70      11 950,-        11 950,-      11 950,-      11 950,-         11 950,-
+41    R 133001                    Dan za psa                                               655,-         685,-          680,-           680,-       1 360,-       1 360,-          1 360,-
+41    R 133003                    Dan za zabavne hracie pristroje
+41    R 133004                    Dan za predajne automaty
+41    R 133012                    Dan za uzivanie verejneho priestranstva
+41    R 133013                    Dan za komunalne odpady a drobne stavebn                9 615,02    12 185,20      17 415,-        17 415,-      22 620,-      23 000,-         23 500,-
+41    R 133013 PO-KO              Za komunálne odpady a drobné stavebné PO
+         133 *** DANE ZA ŠPECIFICKÉ SLUŽBY                                               10 270,02    12 870,20      18 095,-        18 095,-      23 980,-      24 360,-         24 860,-
+41    R 211003                   Dividendy
+         211 *** PRÍJMY Z PODNIKANIA
+41    R 212002                    Prijmy z prenajatych pozemkov                           5 266,26     6 002,60       5 270,-         5 270,-       5 270,-       5 270,-          5 270,-
+41    R 212003                    Prijmy z prenajatych budov, priestorov a                1 389,59     1 168,19       1 030,-         1 030,-       1 030,-       1 030,-          1 030,-
+         212 *** PRÍJMY Z VLASTNÍCTVA                                                     6 655,85     7 170,79       6 300,-         6 300,-       6 300,-       6 300,-          6 300,-
+41    R 221002                   Správne poplatky                                         1 124,-      1 671,-        1 700,-         1 700,-       1 700,-       1 700,-          1 700,-
+         221 *** ADMINISTRATÍVNE POPLATKY                                                 1 124,-      1 671,-        1 700,-         1 700,-       1 700,-       1 700,-          1 700,-
+41    R 222003                     Za porusenie predpisov
+         222 *** POKUTY, PENÁLE A INÉ SANKCIE
+41    R 223001 BET.KOC             Za predaj výrobkov, tovarov a služieb
+41    R 223001 DIVADLO             Za predaj výrobkov, tovarov a služieb
+41    R 223001 FAŠ.ZÁB             Za predaj výrobkov, tovarov a služieb                    143,45
+41    R 223001 OMP                 Za predaj výrobkov, tovarov a služieb                  1 048,35     1 500,80       2 500,-         2 500,-       1 300,-       1 300,-          1 300,-
+41    R 223001 SPRPOPL             Poplatky a platby za predaj vyrobkov, to
+41    R 223001 ŠJ                  Za predaj výrobkov, tovarov a služieb
+41    R 223001 VÝHAUTM             Poplatky ostatné, za výherné prístroje
+41    R 223002                     Poplatky a platby za jasle,materske a sk
+41    R 223003                     Poplatky a platby za stravné                           3 335,15     3 502,80       4 050,-         4 050,-       4 500,-       4 700,-          4 900,-
+41    R 223003 PROJEKT             Za stravné
+41    R 223003 ŠJ                  Za stravné
+41    R 223004                     Poplatky a platby za prebytocny hnutelny                               67,50         150,-           150,-         500,-         500,-            500,-
+         223 *** POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO                                 4 526,95     5 071,10       6 700,-         6 700,-       6 300,-       6 500,-          6 700,-
+41    R 242                                UROKY Z VKLADOV                                                               50,-            50,-          50,-          50,-             50,-
+         242 *** Z VKLADOV                                                                                               50,-            50,-          50,-          50,-             50,-
+41    R 243                                Úroky z účtov finančného hospodárenia
+Obec Boľ S/N 1                                                                        N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený: dňa: .........., Uznesenie č.........                                      Vyvesený: Návrh rozpočtu 2027,2028,2029 16.11.2026
+Účínnosť: dňa: ..........                                                             Zvesený: Návrh rozpočtu 2027,2028,2029 01.12.2026                                         Strana č.   2
+                                 Príjmy podľa ekonomickej klasifikácie                      Skutočné plnenie           Rozpočet roku 2026                      Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka        Popis ekonomickej klasifikácie                   2024          2025         Schvávený   Očakávaná skut.   2027 2028 2029
+                                                                                                                                                                 2028
+                                                                                                                                                                    2024
+                                                                                                                                                                      2029 2024
+                                                                                                                                                                             2029 2024
+          243 *** Z ÚČTOV FINANČNÉHO HOSPODÁRENIA
+41    R 291003                  Od ostatných neziskových právnických osô
+41    R 291004                  Vratene prostriedky od fyzickych osob
+         291 *** VRÁTENÉ NEOPRÁVNENE POUŽITÉ ALEBO ZADRŽA
+41    R 292006                             Prijmy z nahrad z poistneho plnenia                              121,27         200,-           200,-      200,-          200,-            200,-
+41    R 292008                             Z odvodov z hazard.hier a iných podob.hi
+41    R 292012                             Prijmy z dobropisov                               3 583,86       144,87         200,-           350,-      400,-          400,-            400,-
+41    R 292012 ZŠPREPL                     Z dobropisov
+111   R 292017                             Vratky
+41    R 292017                             Z vratiek                                           900,-
+41    R 292017 FPORIGK                     Z vratiek                                         2 306,-
+41    R 292017 SOCPOZ                      Z vratiek                                           400,-
+41    R 292017 ZŠPREPZ                     Z vratiek
+111   R 292019                             Z refundácie
+111   R 292019 CNTP3                       Z refundácie
+111   R 292019 COVID19                     Refundácia-MV SR Covid-19
+111   R 292019 PR.REST                     Z refundácie
+111   R 292019 PRAC DS                     Z refundácie
+111   R 292019 PRACNTP                     Prijmy z refundacie
+111   R 292019 PRACŠNZ                     Z refundácie
+111   R 292019 PRAXZAM                     Prijmy z refundacie
+111   R 292019 PUPN                        Z refundácie
+111   R 292019 ŠANCAML                     Prijmy z refundacie
+111   R 292019 ZAM.KC                      Z refundácie
+41    R 292019                             Z refundácie
+41    R 292027                             Iné                                                553,85           82,80     1 600,-         1 610,-      409,-          500,-            600,-
+41    R 292027 RECYKFO                     Iné
+41    R 292027 SOCPOZ                      Iné
+41    R 292027 ŠPORTIH                     Iné
+         292 *** OSTATNÉ PRÍJMY                                                              7 743,71       348,94       2 000,-         2 160,-     1 009,-       1 100,-          1 200,-
+72c   R 311     PSS                        GRANTY-Prvá stavebná sporite
+         311 *** GRANTY
+111   R 312001                             Zo štátneho rozpočtu
+111   R 312001 AED                         Zo št.rozpočtu okrem tranf.na úhradu nák          2 054,-
+111   R 312001 CNTP3                       Zo št.rozpočtu okrem transf.na úhradu ná
+111   R 312001 CO                          Zo štátneho rozpočtu
+111   R 312001 COVID19                     Zo št.rozpočtu okrem transf.na úhradu ná
+111   R 312001 DOT ÚV                      Zo štátneho rozpočtu
+111   R 312001 EP                          Zo štátneho rozpočtu
+111   R 312001 FOLKL.F                     Zo št.rozpočtu okrem transf.na úhradu ná                                                                  3 000,-       3 000,-          3 000,-
+111   R 312001 FR SR                       Zo št.rozpočtu okrem transf.na úhradu ná
+Obec Boľ S/N 1                                                                        N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený: dňa: .........., Uznesenie č.........                                      Vyvesený: Návrh rozpočtu 2027,2028,2029 16.11.2026
+Účínnosť: dňa: ..........                                                             Zvesený: Návrh rozpočtu 2027,2028,2029 01.12.2026                                          Strana č.   3
+                                 Príjmy podľa ekonomickej klasifikácie                      Skutočné plnenie          Rozpočet roku 2026                        Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka        Popis ekonomickej klasifikácie                   2024          2025        Schvávený    Očakávaná skut.   2027 2028 2029
+                                                                                                                                                                 2028
+                                                                                                                                                                    2024
+                                                                                                                                                                      2029 2024
+                                                                                                                                                                             2029 2024
+111 R 312001 KOMVOL                        Zo štátneho rozpočtu
+111 R 312001 KÚCDPK                        Zo štátneho rozpočtu
+111 R 312001 MATR                          Zo štátneho rozpočtu
+111 R 312001 MDV-RR                        Zo štátneho rozpočtu
+111 R 312001 MF DOT                        Zo štátneho rozpočtu
+111 R 312001 MF TELO                       Zo štátneho rozpočtu
+111 R 312001 MFFNM                         Zo št.rozpočtu okrem transf.na úhradu ná                       2 500,-        3 000,-
+111 R 312001 MFSR VP                       Zo št.rozpočtu okrem transf.na úhradu ná          5 976,-      8 172,-        8 500,-         8 500,-      8 500,-       8 500,-          8 500,-
+111 R 312001 MFSR-ZŠ                       Zo štátneho rozpočtu
+111 R 312001 MFSRDOT                       Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 MŠ                            Zo štátneho rozpočtu
+111 R 312001 MŽPNAFT                       Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 NIVM-PR                       Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 P2                            Zo ŠR prezidentské voľby kolo II.
+111 R 312001 PR.ROR                        Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 PR.WIFI                       Zo št.rozpočtu okrem transf.na úhradu ná         14 231,-
+111 R 312001 PRAC§54                       Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 PREZVOL                       Zo ŠR Prezidentské voľby I. a II. kolo
+111 R 312001 PRIDD                         Zo štátneho rozpočtu
+111 R 312001 PRINED                        Zo štátneho rozpočtu
+111 R 312001 PRŠOV                         Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 PUPN                          Zo št.rozpočtu okrem transf.na úhradu ná          4 399,36     3 598,44       3 500,-         3 500,-      3 500,-       3 500,-          3 500,-
+111 R 312001 PUPN2                         Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 REFEREN                       Zo štátneho rozpočtu na referendum
+111 R 312001 REGAD                         Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 REGOB                         Zo štátneho rozpočtu
+111 R 312001 SODB                          Zo štátneho rozpočtu
+111 R 312001 SPOT                          Zo štátneho rozpočtu                                747,-        913,-          913,-           913,-        913,-         950,-          1 000,-
+111 R 312001 STRA                          Zo štátneho rozpočtu                             51 832,50    51 419,10      51 420,-        52 523,-     52 520,-      52 520,-         52 520,-
+111 R 312001 ÚPSVAR                        Zo št.rozpočtu okrem transf.na úhradu ná                                                                  10 910,-
+111 R 312001 VI                            Zo štátneho rozpočtu
+111 R 312001 VOJNHRO                       Zo štátneho rozpočtu
+111 R 312001 VOLNRSR                       Zo štátneho rozpočtu
+111 R 312001 VOĽ.NR                        Zo štátneho rozpočtu
+111 R 312001 ZŠ                            Zo štátneho rozpočtu
+111 R 312001 ŽP                            Zo štátneho rozpočtu
+1151 R 312001 DOT.ŠR 694                   Zo štátneho rozpočtu
+1BB1 R 312001 NIVM-PR                      Zo ŠR-FP proj.PPP3 obd.11/23                     30 644,95    12 185,25      25 358,-
+1BB1 R 312001 NIVM24                       Zo ŠR-NIVM-proj.PPP3 ZŠsMŠ                                     1 357,78
+1BB2 R 312001 NIVM-PR                      Zo ŠR-NIVM-proj.PPP3 obd.11/                      2 504,46     1 871,58       4 474,-
+3BB1 R 312001 NIVM-PR                      Zo ŠR-NIVM-proj.PPP3 obd.                         4 583,90     2 824,39
+3BB1 R 312001 NIVM24                       Zo ŠR-NIVM-proj.PPP3 ZŠsMŠ                                       602,32
+Obec Boľ S/N 1                                                              N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený: dňa: .........., Uznesenie č.........                            Vyvesený: Návrh rozpočtu 2027,2028,2029 16.11.2026
+Účínnosť: dňa: ..........                                                   Zvesený: Návrh rozpočtu 2027,2028,2029 01.12.2026                                               Strana č.   4
+                                 Príjmy podľa ekonomickej klasifikácie            Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka        Popis ekonomickej klasifikácie         2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                            2028
+                                                                                                                                                               2024
+                                                                                                                                                                 2029 2024
+                                                                                                                                                                        2029 2024
+3BB1 R 312001 NIVM25            Zo št.rozpočtu okrem transf.na úhradu ná                                                         3 209,60
+3BB1 R 312001 NIVM26            Zo št.rozpočtu okrem transf.na úhradu ná                                                        25 358,-
+3BB2 R 312001 NIVM-PR           Zo ŠR-NIVM-proj.PPP3 obd.                          1 813,51        563,95
+3BB2 R 312001 NIVM24            Zo ŠR-NIVM-proj.PPP3 ZŠsMŠ                                         345,90
+3BB2 R 312001 NIVM25            Zo št.rozpočtu okrem transf.na úhradu ná                                                           566,40
+3BB2 R 312001 NIVM26            Zo št.rozpočtu okrem transf.na úhradu ná                                                         4 474,-
+111 R 312012 CO                 Zo št.rozpočtu na úhradu nákl. prenes. v             362,04        393,96          350,-           350,-           350,-          350,-           350,-
+111 R 312012 EP                 Zo št.rozpočtu na úhradu nákl. prenes. v           1 731,28
+111 R 312012 KOMVOL             Zo št.rozpočtu na úhradu nákl. prenes. v                                         1 550,-
+111 R 312012 MATR               Zo št.rozpočtu na úhradu nákl. prenes. v           4 736,79       4 771,86       4 775,-         5 055,-         5 300,-        5 500,-         5 700,-
+111 R 312012 MDV-RR             Zo št.rozpočtu na úhradu nákl. prenes. v              31,41          31,58          35,-            35,-            35,-           35,-            35,-
+111 R 312012 MŽPNAFT            Zo št.rozpočtu na úhradu nákl. prenes. v                            798,-          800,-           800,-
+111 R 312012 ODMENY             Zo ŠR-odmeny na pren.výkon Š
+111 R 312012 OSO OSK            Zo št.rozpočtu na úhradu nákl. prenes. v                                                         3 000,-
+111 R 312012 PREZVOL            Zo št.rozpočtu na úhradu nákl. prenes. v           2 244,03
+111 R 312012 PRIDD              Zo št.rozpočtu na úhradu nákl. prenes. v           1 440,-         960,-         1 000,-         1 000,-         1 000,-        1 000,-         1 000,-
+111 R 312012 REFEREN            Zo ŠR-FP pre Referendum                                                                          1 200,-
+111 R 312012 REGAD              Zo št.rozpočtu na úhradu nákl. prenes. v             18,-           18,-            20,-            50,-            50,-           50,-            50,-
+111 R 312012 REGOB              Zo št.rozpočtu na úhradu nákl. prenes. v            239,91         241,23          245,-           300,-           250,-          250,-           250,-
+111 R 312012 SO2021             Zo št.rozpočtu na úhradu nákl. prenes. v
+111 R 312012 ÚÚPV SR            Zo št.rozpočtu na úhradu nákl. prenes. v                          1 198,16       1 200,-         1 200,-         1 200,-        1 200,-         1 200,-
+111 R 312012 VOJNHRO            Zo št.rozpočtu na úhradu nákl. prenes. v                             93,80         100,-           110,-           120,-          120,-           120,-
+111 R 312012 VOLNRSR            Zo št.rozpočtu na úhradu nákl. prenes. v                                                                         3 000,-
+111 R 312012 VOĽBYPR            Zo št.rozpočtu na úhradu nákl. prenes. v
+111 R 312012 ZŠ                 Zo št.rozpočtu na úhradu nákl. prenes. v         696 290,92    854 487,89     841 229,-       925 010,-       764 223,-      850 000,-        900 000,-
+111 R 312012 ŽP                 Zo št.rozpočtu na úhradu nákl. prenes. v              88,-          95,55         100,-           110,-           130,-          130,-            130,-
+        312 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                825 969,06    949 443,74     948 569,-     1 037 264,-       855 001,-      927 105,-        977 355,-
+41    R 331001 PROJ BG                     Projekt BGA
+71    R 331001 PROJ BG                     Od zahranicnych vlad
+         331 *** BEŽNÉ
+13S1 R 332002                              Od medzinarodnych organizacii
+        332 *** KAPITÁLOVÉ
+1152 R 341     DOT.EU 696       PROSTRIEDKY Z ROZPOCTU EUROPSKYCH SPOLOC
+1152 R 341                      PROSTRIEDKY Z ROZPOCTU EUROPSKYCH SPOLOC
+        341 *** PROSTRIEDKY Z ROZPOČTU EURÓPSKEJ ÚNIE
+
+         1 Časť I. Bežný rozpočet                                              1 184 994,45   1 263 881,76   1 297 615,-    1 384 890,-      1 221 070,-    1 312 749,-     1 383 948,-
+41    R 233001                    Z predaja pozemkov
+         233 *** PRÍJEM Z PREDAJA POZEMKOV A NEHMOTNÝCH A
+41    R 239200                    Ostatné                                                                                       20 500,-
+         239 *** ĎALŠIE KAPITÁLOVÉ PRÍJMY                                                                                       20 500,-
+Obec Boľ S/N 1                                                               N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený: dňa: .........., Uznesenie č.........                             Vyvesený: Návrh rozpočtu 2027,2028,2029 16.11.2026
+Účínnosť: dňa: ..........                                                    Zvesený: Návrh rozpočtu 2027,2028,2029 01.12.2026                                               Strana č.   5
+                                 Príjmy podľa ekonomickej klasifikácie             Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka        Popis ekonomickej klasifikácie          2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                             2028
+                                                                                                                                                                2024
+                                                                                                                                                                  2029 2024
+                                                                                                                                                                         2029 2024
+111    R 322001                   Zo štátneho rozpočtu                                                          75 000,-         75 000,-       50 000,-       50 000,-         50 000,-
+111    R 322001 MF DOT            Zo štátneho rozpočtu                                                                                          20 000,-
+111    R 322001 MFSR VP           MR Zo ŠR-MF SR-Všeob.poklad.spr                                  5 000,-
+111    R 322001 MV SR             Zo ŠR-MV SR Havar.stav ZŠsMŠ
+111    R 322001 ÚČ.694            Zo štátneho rozpočtu
+131I   R 322001 MF DOT            Zo štátneho rozpočtu
+          322 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                                5 000,-      75 000,-         75 000,-       70 000,-       50 000,-         50 000,-
+
+         2 Časť I. Kapitálový rozpočet                                                             5 000,-      75 000,-         95 500,-       70 000,-       50 000,-         50 000,-
+131D R 453                       ZOSTATOK PROSTRIEDKOV Z PREDCHADZAJUCICH
+131L R 453                       PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453     OBECBOL           PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453     ZŠ                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131M R 453                       PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131M R 453     REFEREN           PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131M R 453     ZŠ                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131N R 453     ZŠ                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV              17 352,-
+131O R 453     ZŠ                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                            16 678,-       16 678,-         36 820,-       15 000,-       15 000,-         15 000,-
+72a R 453      PSS               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+        453 *** PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                               17 352,-      16 678,-       16 678,-         36 820,-       15 000,-       15 000,-         15 000,-
+46     R 454001                   Z rezervného fondu obce a rezervného fon         82 000,-      50 000,-       35 000,-         35 000,-       35 000,-       35 000,-         35 000,-
+46     R 454001 ZŠ                Z rezervného fondu obce a RF ZŠsMŠ
+46     R 454002                   Z ostatných fondov obce a z ostatných fo
+46     R 454003                   Z peňažných fondov subjektu iného ako ob
+          454 *** PREVOD PROSTRIEDKOV Z PEŇAŽNÝCH FONDOV                           82 000,-      50 000,-       35 000,-         35 000,-       35 000,-       35 000,-         35 000,-
+52     R 513002                            Dlhodobé                                15 000,-
+          513 *** BANKOVÉ ÚVERY                                                    15 000,-
+41     R 514001                    Krátkodobé-Ostatné úvery,pôžičky a NFV
+20     R 514002 MF NÁFV            Zo ŠR-MF SR-NFV
+          514 *** OSTATNÉ ÚVERY, POŽIČKY A NÁVRATNÉ FINANČ
+
+         3 Časť II. Finančné operácie                                             114 352,-      66 678,-       51 678,-         71 820,-       50 000,-       50 000,-         50 000,-
+
+         CELKOM P R Í J M Y                                                     1 299 346,45   1 335 559,76   1 424 293,-    1 552 210,-      1 341 070,-    1 412 749,-     1 483 948,-
+© IFOsoft
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/552fbab5-e7de-4b6d-a24d-5d15e8e034ef
+Návrh rozpočtu na rok 2027         ZŠ s MŠ s VJM v Boli
+ŠJ              23758
+ŠDK             11556
+Normat        675201
+RNŠJ             4500
+ŠP                913
+MŠ              89022
+ŠKD             11591
+ŠJ              52520
+ŠKD školné        400
+MŠ školné         600
+Nájomné           500
+              870561
+
+Vypracovala: Bernadett Očenášová
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/2ac76e32-a6c4-4132-ad82-ec25c75c4888
+ZŠ s MŠ s VJM
+07653, BOĽ, Školská 233                                                                                                                                    IČO:35544546
+
+                                                                               Návrh rozpočtu v eurách na dve desatinné miesta
+                                                                                                                                                            Strana : 1 / 5
+
+
+Ek.klas             FNC     Zdroj   Program Stredisko   Názov                                                     2027                2028         2029
+
+
+
+Príjmy
+212003              09121   41                          Príjmy z prenajatých budov,                             100,00              100,00       100,00
+                                                        priestorov a objektov
+212003              09121   72j                         Príjmy z prenajatých budov,                             500,00              500,00       500,00
+                                                        priestorov a objektov
+223001              09603   41                          Poplatky a platby za predaj výrobkov,                 4 500,00             4 500,00     4 500,00
+                                                        tovarov a služieb
+223002              09111   72g                         Poplatky za školy a školské                             600,00              600,00       600,00
+                                                        zariadenia
+223002              0950    72g                         Poplatky za školy a školské                             400,00              400,00       400,00
+                                                        zariadenia
+223003                      72f                         Poplatky a platby za stravné                         23 758,00            23 758,00    23 758,00
+Výdaje
+611                 09111   111                         Tarifný plat,osobný                                  45 237,00            45 237,00    45 237,00
+                                                        plat,zákl.plat,funk.plat...vrátane ich
+611                 09121   111                         Tarifný plat,osobný                                 195 767,00           195 767,00   195 767,00
+                                                        plat,zákl.plat,funk.plat...vrátane ich
+611                 09211   111                         Tarifný plat,osobný                                 211 219,00           211 219,00   211 219,00
+                                                        plat,zákl.plat,funk.plat...vrátane ich
+611                 0950    41                          Tarifný plat,osobný                                   7 644,00             7 644,00     7 644,00
+                                                        plat,zákl.plat,funk.plat...vrátane ich
+611                 09603   41                          Tarifný plat,osobný                                  34 785,00            34 785,00    34 785,00
+                                                        plat,zákl.plat,funk.plat...vrátane ich
+612001              09603   41                          Osobný príplatok                                      1 482,00             1 482,00     1 482,00
+612002              09111   111                         Ostatné príplatky okrem osobných                      5 500,00             5 500,00     5 500,00
+                                                        príplatkov
+612002              09121   111                         Ostatné príplatky okrem osobných                     19 528,00            19 528,00    19 528,00
+                                                        príplatkov
+612002              09211   111                         Ostatné príplatky okrem osobných                     19 528,00            19 528,00    19 528,00
+                                                        príplatkov
+612002              0950    41                          Ostatné príplatky okrem osobných                        300,00              300,00       300,00
+                                                        príplatkov
+614                 09111   111                         Odmeny                                                4 890,00             4 890,00     4 890,00
+614                 09121   111                         Odmeny                                                8 258,00             8 258,00     8 258,00
+614                 09211   111                         Odmeny                                                7 325,00             7 325,00     7 325,00
+614                 0950    41                          Odmeny                                                  500,00              500,00       500,00
+614                 09603   41                          Odmeny                                                2 000,00             2 000,00     2 000,00
+621                 09111   111                         Poistné do Všeobecnej zdravotnej                      1 141,00             1 141,00     1 141,00
+                                                        poisťovne
+621                 09121   111                         Poistné do Všeobecnej zdravotnej                     21 987,00            21 987,00    21 987,00
+                                                        poisťovne
+621                 09211   111                         Poistné do Všeobecnej zdravotnej                     25 000,00            25 000,00    25 000,00
+                                                        poisťovne
+621                 09603   41                          Poistné do Všeobecnej zdravotnej                      2 690,00             2 690,00     2 690,00
+                                                        poisťovne
+                                                                                                                      Strana : 2 / 5
+
+
+Ek.klas   FNC     Zdroj   Program Stredisko   Názov                                   2027        2028        2029
+
+
+
+
+623       09111   111                         Poistné do ostatných zdravotných     5 083,00    5 083,00    5 083,00
+                                              poisťovní
+623       09121   111                         Poistné do ostatných zdravotných     1 970,00    1 970,00    1 970,00
+                                              poisťovní
+623       09211   111                         Poistné do ostatných zdravotných     1 290,00    1 290,00    1 290,00
+                                              poisťovní
+623       0950    41                          Poistné do ostatných zdravotných      929,00      929,00      929,00
+                                              poisťovní
+623       09603   41                          Poistné do ostatných zdravotných     1 519,00    1 519,00    1 519,00
+                                              poisťovní
+625001    09111   111                         Poistné do Sociálnej poisťovne na     755,00      755,00      755,00
+                                              nemocenské poistenie
+625001    09121   111                         Poistné do Sociálnej poisťovne na    3 129,00    3 129,00    3 129,00
+                                              nemocenské poistenie
+625001    09211   111                         Poistné do Sociálnej poisťovne na    3 346,00    3 346,00    3 346,00
+                                              nemocenské poistenie
+625001    0950    41                          Poistné do Sociálnej poisťovne na     118,00      118,00      118,00
+                                              nemocenské poistenie
+625001    09603   41                          Poistné do Sociálnej poisťovne na     536,00      536,00      536,00
+                                              nemocenské poistenie
+625002    09111   111                         Poistné do Sociálnej poisťovne na    6 546,00    6 546,00    6 546,00
+                                              starobné poistenie
+625002    09121   111                         Poistné do Sociálnej poisťovne na   31 297,00   31 297,00   31 297,00
+                                              starobné poistenie
+625002    09211   111                         Poistné do Sociálnej poisťovne na   33 460,00   33 460,00   33 460,00
+                                              starobné poistenie
+625002    0950    41                          Poistné do Sociálnej poisťovne na    1 201,00    1 201,00    1 201,00
+                                              starobné poistenie
+625002    09603   41                          Poistné do Sociálnej poisťovne na    5 453,00    5 453,00    5 453,00
+                                              starobné poistenie
+625003    09111   111                         Poistné do Sociálnej poisťovne na     445,00      445,00      445,00
+                                              úrazové poistenie
+625003    09121   111                         Poistné do Sociálnej poisťovne na    1 788,00    1 788,00    1 788,00
+                                              úrazové poistenie
+625003    09211   111                         Poistné do Sociálnej poisťovne na    1 912,00    1 912,00    1 912,00
+                                              úrazové poistenie
+625003    0950    41                          Poistné do Sociálnej poisťovne na      68,00       68,00       68,00
+                                              úrazové poistenie
+625003    09603   41                          Poistné do Sociálnej poisťovne na     306,00      306,00      306,00
+                                              úrazové poistenie
+625004    09111   111                         Poistné do Sociálnej poisťovne na    1 595,00    1 595,00    1 595,00
+                                              invalidné poistenie
+625004    09121   111                         Poistné do Sociálnej poisťovne na    6 707,00    6 707,00    6 707,00
+                                              invalidné poistenie
+625004    09211   111                         Poistné do Sociálnej poisťovne na    7 170,00    7 170,00    7 170,00
+                                              invalidné poistenie
+625004    0950    41                          Poistné do Sociálnej poisťovne na     254,00      254,00      254,00
+                                              invalidné poistenie
+625004    09603   41                          Poistné do Sociálnej poisťovne na    1 148,00    1 148,00    1 148,00
+                                              invalidné poistenie
+                                                                                                                      Strana : 3 / 5
+
+
+Ek.klas   FNC     Zdroj   Program Stredisko   Názov                                   2027        2028        2029
+
+
+
+
+625005    09111   111                         Poistné do Sociálnej poisťovne na    1 064,00    1 064,00    1 064,00
+                                              poistenie v nezamestnanosti
+625005    09121   111                         Poistné do Sociálnej poisťovne na    2 236,00    2 236,00    2 236,00
+                                              poistenie v nezamestnanosti
+625005    09211   111                         Poistné do Sociálnej poisťovne na    2 390,00    2 390,00    2 390,00
+                                              poistenie v nezamestnanosti
+625005    0950    41                          Poistné do Sociálnej poisťovne na      85,00       85,00       85,00
+                                              poistenie v nezamestnanosti
+625005    09603   41                          Poistné do Sociálnej poisťovne na     383,00      383,00      383,00
+                                              poistenie v nezamestnanosti
+625007    09111   111                         Poistné do Sociálnej poisťovne do    3 369,00    3 369,00    3 369,00
+                                              rezervného fondu solidarity
+625007    09121   111                         Poistné do Sociálnej poisťovne do   10 619,00   10 619,00   10 619,00
+                                              rezervného fondu solidarity
+625007    09211   111                         Poistné do Sociálnej poisťovne do   11 653,00   11 653,00   11 653,00
+                                              rezervného fondu solidarity
+625007    0950    41                          Poistné do Sociálnej poisťovne do     402,00      402,00      402,00
+                                              rezervného fondu solidarity
+625007    09603   41                          Poistné do Sociálnej poisťovne do    1 818,00    1 818,00    1 818,00
+                                              rezervného fondu solidarity
+631001    09111   111                         Cestovné náhrady - tuzemské           100,00      100,00      100,00
+631001    09121   111                         Cestovné náhrady - tuzemské           301,00      301,00      301,00
+631001    09211   111                         Cestovné náhrady - tuzemské           200,00      200,00      200,00
+632002    09111   111                         Vodné, stočné                         370,00      370,00      370,00
+632002    09121   111                         Vodné, stočné                         400,00      400,00      400,00
+632002    09211   111                         Vodné, stočné                         400,00      400,00      400,00
+632003    09121   111                         Poštové služby                        180,00      180,00      180,00
+632003    09211   111                         Poštové služby                        180,00      180,00      180,00
+632005    09111   111                         Telekomunikačné služby                120,00      120,00      120,00
+632005    09121   111                         Telekomunikačné služby                492,00      492,00      492,00
+632005    09211   111                         Telekomunikačné služby                300,00      300,00      300,00
+632006    09111   111                         Elektrina                            4 831,00    4 831,00    4 831,00
+632006    09121   111                         Elektrina                           12 000,00   12 000,00   12 000,00
+632006    09211   111                         Elektrina                           12 000,00   12 000,00   12 000,00
+632007    09121   111                         Plyn                                 3 000,00    3 000,00    3 000,00
+632007    09211   111                         Plyn                                 3 000,00    3 000,00    3 000,00
+633001    09121   111                         Interiérové vybavenie                 114,00      114,00      114,00
+633001    09211   111                         Interiérové vybavenie                 100,00      100,00      100,00
+633004    09121   111                         Prevádzkové stroje, prístroje,        600,00      600,00      600,00
+                                              zariadenie, technika a náradie
+633004    09211   111                         Prevádzkové stroje, prístroje,        400,00      400,00      400,00
+                                              zariadenie, technika a náradie
+633006    09111   111                         Všeobecný materiál                   2 402,00    2 402,00    2 402,00
+633006    09111   72g                         všeobecný material                    600,00      600,00      600,00
+633006    09121   111                         Všeobecný materiál                   3 000,00    3 000,00    3 000,00
+633006    09121   72j                         Všeobecný materiál                    500,00      500,00      500,00
+                                                                                                                        Strana : 4 / 5
+
+
+Ek.klas   FNC     Zdroj   Program Stredisko   Názov                                     2027        2028        2029
+
+
+
+
+633006    09211   111                         Všeobecný materiál                     2 000,00    2 000,00    2 000,00
+633006    0950    72g                         Všeobecný materil                       400,00      400,00      400,00
+633006    09603   41                          Všeobecný materiál                     4 500,00    4 500,00    4 500,00
+633006    1040    111                         Školské potreby                         913,00      913,00      913,00
+633009    09111   111                         Knihy,časopisy,noviny,učebnice,učeb     913,00      913,00      913,00
+                                              né a kompenzačné pomôcky
+633009    09121   111                         Knihy,časopisy,noviny,učebnice,učeb    2 000,00    2 000,00    2 000,00
+                                              né a kompenzačné pomôcky
+633009    09211   111                         Knihy,časopisy,noviny,učebnice,učeb    2 000,00    2 000,00    2 000,00
+                                              né a kompenzačné pomôcky
+633011    09603   72f                         Potraviny                             23 758,00   23 758,00   23 758,00
+633013    09111   111                         Softvér                                  87,00       87,00       87,00
+633013    09121   111                         Softvér                                 400,00      400,00      400,00
+633013    09211   111                         Softvér                                 400,00      400,00      400,00
+633016    09121   111                         Reprezentačné                           100,00      100,00      100,00
+633016    09211   111                         Reprezentačné                           100,00      100,00      100,00
+637001    09111   111                         Školenia,kurzy,semináre,porady,konf     870,00      870,00      870,00
+                                              erencie,sympóziá
+637001    09121   111                         Školenia,kurzy,semináre,porady,konf     150,00      150,00      150,00
+                                              erencie,sympóziá
+637001    09211   111                         Školenia,kurzy,semináre,porady,konf     150,00      150,00      150,00
+                                              erencie,sympóziá
+637002    09111   111                         Konkurzy a súťaže                       676,00      676,00      676,00
+637004    09111   111                         Všeobecné služby                       1 113,00    1 113,00    1 113,00
+637004    09121   111                         Všeobecné služby                       2 000,00    2 000,00    2 000,00
+637004    09211   111                         Všeobecné služby                       2 000,00    2 000,00    2 000,00
+637012    09121   111                         Poplatky a odvody                       300,00      300,00      300,00
+637012    09211   111                         Poplatky a odvody                       360,00      360,00      360,00
+637014    09111   111                         Stravovanie                             715,00      715,00      715,00
+637014    09121   111                         Stravovanie                            2 500,00    2 500,00    2 500,00
+637014    09211   111                         Stravovanie                            2 000,00    2 000,00    2 000,00
+637015    09111   111                         Poistné                                  85,00       85,00       85,00
+637015    09121   111                         Poistné                                 609,00      609,00      609,00
+637015    09211   111                         Poistné                                 600,00      600,00      600,00
+637016    09111   111                         Prídel do sociálneho fondu              550,00      550,00      550,00
+637016    09121   111                         Prídel do sociálneho fondu             1 400,00    1 400,00    1 400,00
+637016    09211   111                         Prídel do sociálneho fondu             1 400,00    1 400,00    1 400,00
+637016    0950    41                          Prídel do sociálneho fondu               90,00       90,00       90,00
+637016    09603   41                          Prídel do sociálneho fondu              400,00      400,00      400,00
+642015    09111   111                         Transfery na nemocenské dávky           565,00      565,00      565,00
+642015    09121   111                         Transfery na nemocenské dávky          1 200,00    1 200,00    1 200,00
+642015    09211   111                         Transfery na nemocenské dávky           842,00      842,00      842,00
+                                                                                                             Strana : 5 / 5
+
+
+Ek.klas   FNC   Zdroj   Program Stredisko                     Názov        2027         2028         2029
+
+
+
+
+                                            Spolu príjmy :             29 858,00    29 858,00    29 858,00
+                                            Spolu výdavky :           870 561,00   870 561,00   870 561,00
+

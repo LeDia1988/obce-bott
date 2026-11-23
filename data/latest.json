@@ -1,11 +1,39 @@
 {
- "datum": "2026-11-21",
+ "datum": "2026-11-23",
  "nalezy": [
   {
    "firmy": [],
-   "kod": "543233",
+   "kod": "543705",
    "kraj": "Košický kraj",
-   "obec": "Kluknava",
+   "obec": "Veľký Folkmar",
+   "okres": "Gelnica",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Dotácia / výzva"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…e životného prostredia a skvalitnenie verejného športového priestoru vo Veľkom Folkmari prostredníctvom výsadby stromov v okolí futbalového ihriska a obnovy futbalového trávnika. Fond na podporu športu - Telocvičňa pri ZŠ Veľký Folkmar Príspevok na projekt podpory športu schváleného v roku 2026 Dátum vlože…",
+    "…. 2026 Zriadenie Biblioboxu v Obci Veľký Folkmar Dátum vloženia 29. 10. 2026 POZVÁNKA NA SPOLOČNÚ VÝSADBU STROMOV Pomôžme spoločne skrášliť športový areál vo Veľkom Folkmari! Dátum vloženia 2. 9. 2026 Aktuálna teplota: -0.9 °C…",
+    "…erejného športového priestoru vo Veľkom Folkmari prostredníctvom výsadby stromov v okolí futbalového ihriska a obnovy futbalového trávnika. Fond na podporu športu - Telocvičňa pri ZŠ Veľký Folkmar Príspevok na projekt podpory športu schváleného v roku 2026 Dátum vloženia 3. 11. 2026 Zriadenie Biblioboxu v Obci Veľký Folk…"
+   ],
+   "url": "https://www.velkyfolkmar.sk/",
+   "zdroj": "https://www.velkyfolkmar.sk/",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "543705",
+   "kraj": "Košický kraj",
+   "obec": "Veľký Folkmar",
    "okres": "Gelnica",
    "projekcia": false,
    "statut": "OBEC",
@@ -16,145 +44,11 @@
    "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…Otvorenie Altánku vo Vierbinách - 10.06.2016 Pranostika na akt. mesiac November - vlčí mesiac. Pranostika na akt.deň Obetovanie Panny Márie ohlasuje zimu.…"
+    "…Nový turistický altánok a ohnisko Meniny má Klement , Klementín, Kliment, Kolumbín, Klementína, Kolumbína Zajtra má meniny Emília , Milín, Milina Aktuálna teplota: -0.9 °C…"
    ],
-   "url": "https://www.kluknava.sk/zverejnovanie/uradna-tabula/navrh-vzn-obce-kluknava-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kluknava-1532.html",
-   "zdroj": "https://www.kluknava.sk/zverejnovanie/uradna-tabula/navrh-vzn-obce-kluknava-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kluknava-1532.html",
+   "url": "https://www.velkyfolkmar.sk/obec-2/obecne-lesy-sro/dokumenty/zmluvy-faktury-objednavky/",
+   "zdroj": "https://www.velkyfolkmar.sk/obec-2/obecne-lesy-sro/dokumenty/zmluvy-faktury-objednavky/",
    "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "543322",
-   "kraj": "Košický kraj",
-   "obec": "Margecany",
-   "okres": "Gelnica",
-   "prilohy": [
-    "https://www.margecany.sk/e_download.php?file=/data/uredni_deska/obsah1836_1.pdf&original=n%C3%A1vrh%20VZN%20o%20miestnych%20daniach%20a%20o%20miestnom%20poplatku%20za%20komun%C3%A1lne%20odpady%20a%20drobn%C3%A9%20stavebn%C3%A9%20odpady%20a%20o%20miestnom%20poplatku%20za%20rozvoj%20na%20%C3%BAzem%C3%AD%20obce%20Margecany.pdf"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    7728.0
-   ],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "Návrh VZN o miestnych daniach, o miestnom poplatku za komunálne odpady a drobné stavebné odpady a o poplatku za rozvoj na území obce Margecany",
-   "typ": [
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…emí obce Margecany. (2) Obec Margecany na svojom území ukladá tieto miestne dane: a/ daň z nehnuteľností, b/ daň za psa, c/ daň za užívanie verejného priestranstva, d/ daň za ubytovanie, e/ daň za predajné automaty, f/ daň za nevýherné hracie prístroje. (3) Obec Margecany na svojom území ukladá miestny poplatok za komunál…",
-    "… daň za psa o 50 %, ak je predmetom dane pes člena poľovníckeho združenia s platným preukazom o pôvode poľovníckeho psa. §8 Daň za užívanie verejného priestranstva (1) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Margecany, ktorými sa rozumejú nasledovné miesta: a/ hlavné …"
-   ],
-   "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-miestnych-daniach-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-a-o-poplatku-za-rozvoj-na-uzemi-obce-margecany-1995.html?kshow=2",
-   "zdroj": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/"
-  },
-  {
-   "firmy": [],
-   "kod": "543322",
-   "kraj": "Košický kraj",
-   "obec": "Margecany",
-   "okres": "Gelnica",
-   "prilohy": [
-    "https://www.margecany.sk/e_download.php?file=/data/uredni_deska/obsah1836_1.pdf&original=n%C3%A1vrh%20VZN%20o%20miestnych%20daniach%20a%20o%20miestnom%20poplatku%20za%20komun%C3%A1lne%20odpady%20a%20drobn%C3%A9%20stavebn%C3%A9%20odpady%20a%20o%20miestnom%20poplatku%20za%20rozvoj%20na%20%C3%BAzem%C3%AD%20obce%20Margecany.pdf"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    7728.0
-   ],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "21. 11. 2026 Návrh VZN o miestnych daniach, o miestnom poplatku za komunálne odpady a drobné stavebné odpady a o poplatku za rozvoj na území obce Margecany Úradná tabuľa",
-   "typ": [
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…emí obce Margecany. (2) Obec Margecany na svojom území ukladá tieto miestne dane: a/ daň z nehnuteľností, b/ daň za psa, c/ daň za užívanie verejného priestranstva, d/ daň za ubytovanie, e/ daň za predajné automaty, f/ daň za nevýherné hracie prístroje. (3) Obec Margecany na svojom území ukladá miestny poplatok za komunál…",
-    "… daň za psa o 50 %, ak je predmetom dane pes člena poľovníckeho združenia s platným preukazom o pôvode poľovníckeho psa. §8 Daň za užívanie verejného priestranstva (1) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Margecany, ktorými sa rozumejú nasledovné miesta: a/ hlavné …"
-   ],
-   "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-miestnych-daniach-o-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-a-o-poplatku-za-rozvoj-na-uzemi-obce-margecany-1995.html",
-   "zdroj": "https://www.margecany.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "543322",
-   "kraj": "Košický kraj",
-   "obec": "Margecany",
-   "okres": "Gelnica",
-   "prilohy": [
-    "https://www.margecany.sk/e_download.php?file=/data/uredni_deska/obsah1835_1.pdf&original=N%C3%A1vrh%20VZN%20o%20poskytovan%C3%AD%20soci%C3%A1lnych%20slu%C5%BEieb%20soci%C3%A1lnopr%C3%A1vnej%20ochrane%20det%C3%AD%20a%20o%20soci%C3%A1lnej%20pomoci_aktualiz%C3%A1cia.pdf"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "20. 11. 2026 Návrh VZN o poskytovaní sociálnych služieb sociálnoprávnej ochrane detí a o sociálnej pomoci Úradná tabuľa",
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…nie príspevku nie je účelné, rodičia neprejavujú skutočný záujem o dieťa a návštevy nevedú k úprave vzťahov s dieťaťom, môže Obec Margecany žiadosť o poskytnutie príspevku na dopravu zamietnuť. Článok 16 Príspevok na úpravu a obnovu rodinného prostredia 1) Na úpravu a obnovu rodinných, bytových a sociálnych pomerov dieť…",
-    "…ým pobytom v obci Margecany, ktoré sa s občanom v hmotnej núdzi spoločne posudzujú, a ktorým sa poskytuje pomoc v hmotnej núdzi na základe „Žiadosti o poskytnutie sociálnej pomoci” ktorá je prílohou č. 3 tohto VZN, a to najmä na: a) úhradu mimoriadnych výdavkov na nevyhnutné ošatenie, b) základné vybavenie domácnosti, c)…"
-   ],
-   "url": "https://www.margecany.sk/obecny-urad/uradna-tabula-1/navrh-vzn-o-poskytovani-socialnych-sluzieb-socialnopravnej-ochrane-deti-a-o-socialnej-pomoci-1994.html",
-   "zdroj": "https://www.margecany.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "521370",
-   "kraj": "Košický kraj",
-   "obec": "Geča",
-   "okres": "Košice",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Meniny má Elvíra , Ctirad, Ctirada Futbalové ihrisko-príprava na oslavy 760.výročie obce Geča…"
-   ],
-   "url": "https://www.obecgeca.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-faktury-objednavky-do-konca-roka-2013/zmluvy/",
-   "zdroj": "https://www.obecgeca.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-faktury-objednavky-do-konca-roka-2013/zmluvy/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "521426",
-   "kraj": "Košický kraj",
-   "obec": "Hodkovce",
-   "okres": "Košice",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Park / oddych"
-   ],
-   "title": "Stiahnuť súbor Hodkovce_VZN_miestne_dane_2027_NAVRH_na_zverejnenie_Variant_A Veľkosť a typ súboru 987 KB / PDF",
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "… území Hodkovce, evidované Okresným úradom Košice-okolie, katastrálnym odborom: miestne komunikácie vrátane chodníkov a plôch pre peších, ihrisko, priestranstvo pri požiarnej zbrojnici. §9 Osobitné užívanie verejného priestranstva obce Osobitným užívaním verejného priestranstva obce je na účely miestnej da…",
-    "…ieb č. 85, 86 a 123 a priľahlých pozemkov; b) Severná časť (B) – územie pri severnej priečnej ulici v okolí stavieb č. 68 a 69 a smerom k športovému areálu, zahŕňajúce priľahlé pozemky v okolí parciel registra C č. 74, 76, 78 a 80/3; c) Západná časť (C) – územie západnej obytnej zástavby v okolí stavieb č. 136 až 15…",
-    "…om území: a) miestnu daň z nehnuteľností, ktorá zahŕňa daň z pozemkov a daň zo stavieb, b) miestnu daň za psa, c) miestnu daň za užívanie verejného priestranstva, d) miestnu daň za ubytovanie, e) miestnu daň za predajné automaty, f) miestnu daň za nevýherné hracie prístroje. (3) Správu miestnych daní vykonáva obec Hodkovc…",
-    "…SŤ III. OSTATNÉ MIESTNE DANE §7 Sadzba miestnej dane za psa Obec ustanovuje ročnú sadzbu miestnej dane za psa: 12,00 €/kalendárny rok. §8 Verejné priestranstvo obce Verejným priestranstvom obce sú na účely dane za užívanie verejného priestranstva verejnosti prístupné pozemky, ktorých je obec Hodkovce výlučným vlastníkom…"
-   ],
-   "url": "https://hodkovce.eu/wp-content/uploads/dokumenty/navrhy-vzn/hodkovce_vzn_miestne_dane_2027_navrh_na_zverejnenie_variant_a-56qv1f.pdf",
-   "zdroj": "https://hodkovce.eu/dokumenty/obecne-zastupitelstvo/navrhy-vzn/"
   },
   {
    "firmy": [],
@@ -175,7 +69,8 @@
     "Pozvánka na zastupiteľstvo",
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
    ],
    "ukazky": [
     "… s.r.o. - Zvoz elektroodpadu | PDF | 0.37 Mb Dátum vyvesenia: 09.09.2022 ,,Guláš Majster´´ Pozvánka do Obce Rudník | PDF | 0.66 Mb Výstavba detského ihriska v obci Jasov | PDF | 0.29 Mb Dátum vyvesenia: 07.09.2022 Okresný úrad Košice-okolie, odbor starostlivosti o životné prostredie - Rozhodnutie | PDF | 1.11 Mb Dá…",
@@ -185,6 +80,37 @@
    "url": "https://www.jasov.sk/samosprava/uradna-tabula-archiv",
    "zdroj": "https://www.jasov.sk/samosprava/uradna-tabula-archiv",
    "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "521540",
+   "kraj": "Košický kraj",
+   "obec": "Kecerovský Lipovec",
+   "okres": "Košice",
+   "prilohy": [],
+   "projekcia": true,
+   "statut": "OBEC",
+   "sumy_eur": [
+    82506.0,
+    74306.0,
+    33355.0,
+    26349.0,
+    20829.0
+   ],
+   "temy": [
+    "Zastávka"
+   ],
+   "title": "Stiahnuť súbor Rozpočtové opatrenie č. 1_2026 Veľkosť a typ súboru 256 KB / PDF",
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…ho rozpočtu MF 30. 09. 2026 312001 005 8 200,00 € 111 453000 000 7 875,00 € 7 875,00 € Prostriedky z predchádzajúcich rokov - na realizáciu zastávky 41 111003 000 99999 33 355,00 € 33 355,00 € Výnos dane z príjmov poukazaný územ. samospráve 41 121001 000 999 26 349,00 € 26 349,00 € Daň z nehnuteľností, z po…",
+    "…,00 € 8 200,00 € Kamerový systém 30. 09. 2026 713005 000 8 200,00 € 111 04 510 717001 000 7 875,00 € 7 875,00 € Realizácia nových stavieb - zastávka 41 01 110 611000 000 20 829,00 € 20 829,00 € Plat tarifný,osobný,základný,funkčný,hodnostný,vrátane ich náhrad 41 01 110 621000 000 999 300,00 € 300,00 € Poist…"
+   ],
+   "url": "https://kecerovskylipovec.sk/wp-content/uploads/dokumenty/rozpoctove-opatrenia/rozpoctove-opatrenie-c.-1_2026-7c7syd.pdf",
+   "zdroj": "https://kecerovskylipovec.sk/dokumenty/financie/rozpoctove-opatrenia/"
   },
   {
    "firmy": [],
@@ -203,7 +129,8 @@
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Verejné obstarávanie",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
    ],
    "ukazky": [
     "…radu nákladov v škole a školskom zariadení ZVESENÉ 14.10.2009 VZN č. 3/2009 o umiestňovaní volebných plagátov a iných nosičov informácií na verejných priestranstvách v obci Kysak počas volebnej kampane pre voľby do Európskeho parlamentu, ktoré sa konajú dňa 06.06.2009 | PDF | 0.03 Mb Územné rozhodnutie - Mesto Gelnica | PDF…",
@@ -215,179 +142,78 @@
   },
   {
    "firmy": [],
-   "kod": "522406",
+   "kod": "522031",
    "kraj": "Košický kraj",
-   "obec": "Dúbravka",
-   "okres": "Michalovce",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    16080.0
-   ],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Uznesenia OZ z 30.09.2026 | 0.2 Mb",
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica"
-   ],
-   "ukazky": [
-    "…ukáš Šaffo proti: 0 zdržal sa: 0 Uznesenie č. 98/2026 Obecné zastupiteľstvo v Dúbravke schvaľuje: - Zabezpečenie finančných prostriedkov na spolufinancovanie realizácie projektu „Modernizácia miestnych komunikácií v obci Dúbravka“ vo výške 8 % z celkovej sumy oprávnených výdavkov projektu (16.080,00 EUR) - Zabezpeče…"
-   ],
-   "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/uznesenia/2026-11-20-141008-Uznesenia_zo_zasadnutia_obecn__ho_zastupite__stva_30.09.2026.pdf",
-   "zdroj": "https://www.obecdubravka.eu/uznesenia-oz"
-  },
-  {
-   "firmy": [],
-   "kod": "522406",
-   "kraj": "Košický kraj",
-   "obec": "Dúbravka",
-   "okres": "Michalovce",
+   "obec": "Sokoľ",
+   "okres": "Košice",
    "prilohy": [],
    "projekcia": true,
    "statut": "OBEC",
    "sumy_eur": [],
-   "temy": [
-    "Športovisko",
-    "Dotácia / výzva"
-   ],
-   "title": "Zápisnica OZ zo dňa 30.09.2026 | 0.22 Mb",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…nie umývačky riadu a panvice do kultúrneho domu, zaobstaranie pivných setov, zrekonštruovaný náter strechy OFK, zaobstaranie fúkača lístia, multifunkčného náradia, schválenie žiadostí: - na rekonštrukciu MŠ v hodnote 508 000,- € - na výstavbu vodovodu v hodnote 221 000,- €. Rok 2025: výrub stromov pri materskej š…",
-    "…ych komunikácií – je schválený projektový zámer aj projektová dokumentácia. Ohlásenie stavby je v procese prípravy, pripravuje sa žiadosť o nenávratný finančný príspevok. - Rekonštrukcia obecného úradu a kultúrneho domu – pripravuje sa projektová dokumentácia. Poslanci vzali na vedomie informácie o menovaných projektoch. 6. Sta…"
-   ],
-   "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/zapisnice/2026-11-20-140803-Z__pisnica__OZ_z_30.09.2026.pdf",
-   "zdroj": "https://www.obecdubravka.eu/zapisnice-oz"
-  },
-  {
-   "firmy": [],
-   "kod": "522406",
-   "kraj": "Košický kraj",
-   "obec": "Dúbravka",
-   "okres": "Michalovce",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    5798.66
-   ],
    "temy": [
     "Detské ihrisko",
-    "Zastávka"
+    "Park / oddych",
+    "Dotácia / výzva"
    ],
-   "title": "Zápisnica OZ zo dňa 01.06.2026 | 0.22 Mb",
+   "title": "Návrh rozpočtu obce Sokoľ na rok 2027 s výhľadom na roky 2028, 2029",
    "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
+    "Rozpočet / zmena rozpočtu",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…bce na 5 rokov. Modernizácia miestnych komunikácií – je podaná žiadosť, čaká sa na schválenie. Starosta informoval ešte poslancov, že sa na detskom ihrisku vysadili kvety a stromčeky. Ešte sa plánuje nákup stromčekov namiesto vyrúbaných poškodených stromov pri cestičke za autobusovou zastávkou . Ďalej starosta inf…",
-    "… sa na detskom ihrisku vysadili kvety a stromčeky. Ešte sa plánuje nákup stromčekov namiesto vyrúbaných poškodených stromov pri cestičke za autobusovou zastávkou . Ďalej starosta informoval, že cez projekt z úradu práce od apríla na obecnom úrade pracuje pán Martin Gaľa. 10. Poslankyňa Bc. Daniela Hüblerová zhrnula schv…"
+    "… 0,00 rozpočtu- / kanalizácia Environmentálny fond , MIRRI, MAS- technika, MFSR- kuchyňa KD, KSK-Hrad, fotovoltikaVSE- 2025/, MCRŠSR- šatňa Ihrisko- 2026, 2027 rekonstrukcia OÚ pravý trakt-2027 514002 Úver environmentálny fond spoluúčasť kanalizácia 350 000,00 287 923,65 0,00 0,00 0,00 453 Prostriedky z pr…",
+    "…000,00 1 000,00 1 000,00 0810 635006 41 Ruti. a štand. údržba budov, objektov alebo 500,00 0,00 500,00 500,00 500,00 ich častí -šatňa, malé ihrisko 0810 637002 41 Konkurzy, súťaže- futbalový turnaj 500,00 0,00 500,00 500,00 500,00 0810 642001 41 Transfery občianskemu združeniu, nadácii a 14 000,00 8 600,00…",
+    "… 41 Daň za psa 1 100,00 1 237,65 1 100,00 1 100,00 1 100,00 133006 41 Daň za ubytovanie 30,00 0,00 0,00 0,00 0,00 133012 41 Daň za užívanie verejného priestranstva 50,00 0,00 0,00 0,00 0,00 133013 41 Daň za komunálne odpady a drobné 63 440,00 55 821,70 79 300,00 79 300,00 79 300,00 stavebné odpady 212003 41 Príjmy z prena…",
+    "… transfery v rámci VS zo ŠR okrem 168 697,00 111 122,26 110 000,00 110 000,00 110 000,00 prenesené -voľby, MŠ, strava, zaškolactvo, UPSVAR, dotácie KSK, odidenci, rod. pridavky 312001 11T1 Tuzemské bežné transfery v rámci VS zo ŠR 1 000,00 0,00 500,00 500,00 500,00 okrem preneseného - dotácie §54,§52, UPSVAR 3…",
+    "…emské kapitalové transféry v rámci VS zo štátneho 140 000,00 228 441,74 180 000,00 0,00 0,00 rozpočtu- / kanalizácia Environmentálny fond , MIRRI, MAS- technika, MFSR- kuchyňa KD, KSK-Hrad, fotovoltikaVSE- 2025/, MCRŠSR- šatňa Ihrisko- 2026, 2027 rekonstrukcia OÚ pravý trakt-2027 514002 Úver environmentá…"
    ],
-   "url": "https://www.obecdubravka.eu/files/dokumenty-[presun]/zapisnice/2026-11-20-140634-Z__pisnica__OZ_z_01.06.2026.pdf",
-   "zdroj": "https://www.obecdubravka.eu/zapisnice-oz"
+   "url": "https://www.obecsokol.sk/files/2026-11-22-182258-1._Final_N__vrh_rozpo__et_na_rok__2026__s_v__h__adom_na_rok_2027_a_2028.pdf",
+   "zdroj": "https://www.obecsokol.sk/-dokumenty"
   },
   {
    "firmy": [],
-   "kod": "525821",
+   "kod": "521299",
    "kraj": "Košický kraj",
-   "obec": "Kečovo",
-   "okres": "Rožňava",
-   "prilohy": [
-    "https://www.kecovo.sk/data/advertisement/kecovo.sk/544140/208238_zapisnica-4-11-2026.pdf"
-   ],
+   "obec": "Čaňa",
+   "okres": "Košice",
+   "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Detské ihrisko"
+    "Detské ihrisko",
+    "Športovisko"
    ],
-   "title": "Zápisnice a uznesenia Zápisnica 4.11.2026",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
+   "title": "Slávnostné otvorenie Multifunkčného Ihriska 20. 11. 2026 V Čani sa konalo slávnostné otvorenie nového multifunkčného ihriska. Na jeho vybudovanie finančne prispeli Ministerstvo cestovného ruchu a športu SR a obec Čaňa. Deti, mládež aj dospelí tak majú v obci ďalšie miesto na šport a spoločné tráveni",
+   "typ": [],
    "ukazky": [
-    "…, prijatých grantov a transferov, mzdových a prevádzkových výdavkov, odstupného a kapitálových výdavkov na modernizáciu obecného rozhlasu a ihrisko pri Domici. Obecné zastupiteľstvo po prerokovaní návrhu schválilo zmenu rozpočtu obce podľa predloženého rozpočtového opatrenia č. 2/2026, ktoré tvorí prílohu …"
+    "…Slávnostné otvorenie Multifunčného Ihriska 2 Slávnostné otvorenie Multifunčného Ihriska 3 Dátum vloženia: 20. 11. 2026 10:20 Dátum poslednej aktualizácie: 23. 11. 2026 7:51…"
    ],
-   "url": "https://www.kecovo.sk/zverejnovanie/detail/544140/zapisnica-4112026",
-   "zdroj": "https://www.kecovo.sk/"
+   "url": "https://www.obeccana.eu/obec/aktuality/slavnostne-otvorenie-multifunkcneho-ihriska-1654sk.html",
+   "zdroj": "https://www.obeccana.eu/"
   },
   {
    "firmy": [],
-   "kod": "525821",
+   "kod": "521299",
    "kraj": "Košický kraj",
-   "obec": "Kečovo",
-   "okres": "Rožňava",
-   "prilohy": [
-    "https://www.kecovo.sk/data/advertisement/kecovo.sk/544139/208237_uznesenia-28-9-2026.pdf"
-   ],
-   "projekcia": true,
+   "obec": "Čaňa",
+   "okres": "Košice",
+   "projekcia": false,
    "statut": "OBEC",
-   "sumy_eur": [
-    5000.0,
-    1100.0
-   ],
+   "sumy_eur": [],
    "temy": [
-    "Dotácia / výzva"
+    "Detské ihrisko",
+    "Športovisko"
    ],
-   "title": "Zápisnice a uznesenia Uznesenia 28.9.2026",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
+   "title": "Nový text na stránke",
+   "typ": [],
    "ukazky": [
-    "…ejná toaleta pri Domici“ Obecné zastupiteľstvo v Kečove schvaľuje 1. zapojenie obce Kečovo do výzvy programu Terra Incognita 2026 a podanie žiadosti o poskytnutie dotácie na projekt „Verejná toaleta pri Domici“, zahŕňajúci verejné toalety, sprchu pre karavanistov a hygienické zázemie pre zamestnanca obce – samostatnú toa…",
-    "…re zamestnanca obce – samostatnú toaletu a šatňu s výlevkou, 2. zabezpečenie požadovanej 10 % spoluúčasti z rozpočtu obce Kečovo, pričom na spolufinancovanie projektu schvaľuje vlastné zdroje vo výške max. 5 000 eur; 3. úhradu výdavkov na prípravu projektovej dokumentácie z rozpočtu obce najviac do výšky 1 000 eur, …"
+    "…Slávnostné otvorenie Multifunkčného Ihriska dnes, pondelok 23. 11. 2026 zajtra, utorok 24. 11. 2026 utorok 24. 11. slabé sneženie 5/-3 °C streda 25. 11. polojasno 2/-3 °C štvrtok 26. 11. dážď so snehom 2…",
+    "…Slávnostné otvorenie Multifunkčného Ihriska dnes, pondelok 23. 11. 2026 zajtra, utorok 24. 11. 2026 utorok 24. 11. slabé sneženie 5/-3 °C streda 25. 11. polojasno 2/-3 °C štvrtok 26. 11. dážď so …"
    ],
-   "url": "https://www.kecovo.sk/zverejnovanie/detail/544139/uznesenia-2892026",
-   "zdroj": "https://www.kecovo.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "525821",
-   "kraj": "Košický kraj",
-   "obec": "Kečovo",
-   "okres": "Rožňava",
-   "prilohy": [
-    "https://www.kecovo.sk/data/advertisement/kecovo.sk/544138/208236_zapisnica-28-9-2026.pdf"
-   ],
-   "projekcia": true,
-   "statut": "OBEC",
-   "sumy_eur": [
-    5000.0,
-    1100.0,
-    1000.0
-   ],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Zápisnice a uznesenia Zápisnica 28.9.2026",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…jektom „Verejná toaleta pri Domici“ Starostka obce predstavila zámer projektu „Verejná toaleta pri Domici“, ku ktorému pripraví a vypracuje žiadosť o poskytnutie dotácie v rámci výzvy programu Terra Incognita. Informovala poslancov, že požadovaná spoluúčasť obce predstavuje 10 %. Projekt okrem verejných toaliet zahŕňa a…",
-    "…ný predaj jedál a nápojov v tejto lokalite. Strana 4 z 8 Obecné zastupiteľstvo po prerokovaní schválilo podanie projektu, vlastné zdroje na spolufinancovanie maximálne vo výške 5 000 eur a ďalšie výdavky na prípravu projektovej dokumentácie najviac do výšky 1000 eur. Návrh na uznesenie: Uznesenie č. 31/2026 Obecné z…"
-   ],
-   "url": "https://www.kecovo.sk/zverejnovanie/detail/544138/zapisnica-2892026",
-   "zdroj": "https://www.kecovo.sk/"
+   "url": "https://www.obeccana.eu/",
+   "zdroj": "https://www.obeccana.eu/",
+   "zmena_stranky": true
   },
   {
    "firmy": [],
@@ -431,17 +257,47 @@
    "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
-   "sumy_eur": [],
+   "sumy_eur": [
+    20000.0
+   ],
    "temy": [
     "Dotácia / výzva"
    ],
-   "title": "Zmluva o poskytnutí nenávratného finančného príspevku",
-   "typ": [],
-   "ukazky": [
-    "…Zmluva o poskytnutí nenávratného finančného príspevku Zmluva o poskytnutí nenávratného finančného príspevku…"
+   "title": "Zasadnutie obecného zastupiteľstva",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Uznesenie / zápisnica"
    ],
-   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2023-07-13-174302-Zmluva_o_poskytnut___fin_prispevku_02.pdf",
-   "zdroj": "https://www.obeckrasnohorskepodhradie.sk/archiv-zmluv-faktur-a-objednavok"
+   "ukazky": [
+    "…ho kraja ID/2026 – Individuálne dotácie 9. Výzva Ministerstva financií SR č. 2/2026 na individuálne potreby obcí 10. Environmentálny fond – žiadosť o dotáciu, oblasť: Rozvoj odpadového a obehového hospodárstva (C) 11. Interpelácia poslancov 12. Záver Štefan KÚN starosta obce –––––––––––––––––––––––––––––––––––––––––…"
+   ],
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2026-03-06-111812-Pozv__nka_OZ_na___11.3.2026.pdf",
+   "zdroj": "https://www.obeckrasnohorskepodhradie.sk/pozvanky-na-zasadnutie-oz"
+  },
+  {
+   "firmy": [],
+   "kod": "525871",
+   "kraj": "Košický kraj",
+   "obec": "Krásnohorské Podhradie",
+   "okres": "Rožňava",
+   "prilohy": [],
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Zasadnutie obecného zastupiteľstva",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "… Správa z kontroly poistných zmlúv uzavretých za účelom poistenia hnuteľného a nehnuteľného majetku obce 4. Úprava rozpočtu obce 5. Projekt detské ihrisko 6. Zdravotné stredisko – rekonštrukcia priestorov - informácia 7. Návrh na doplnenie členov komisie školstva s sociálnych vecí 8. Interpelácia poslancov 9. Záv…"
+   ],
+   "url": "https://www.obeckrasnohorskepodhradie.sk/files/2024-11-08-172616-Pozv__nka_OZ_na_14.11.2024.pdf",
+   "zdroj": "https://www.obeckrasnohorskepodhradie.sk/pozvanky-na-zasadnutie-oz"
   },
   {
    "firmy": [],
@@ -487,477 +343,66 @@
   },
   {
    "firmy": [],
-   "kod": "525936",
+   "kod": "522856",
    "kraj": "Košický kraj",
-   "obec": "Lúčka",
-   "okres": "Rožňava",
-   "prilohy": [
-    "https://www.lucka-rv.sk/files/2026-11-20-140503-VZN_cintorin___._1_2026.pdf"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Oplotenie",
-    "Mobiliár"
-   ],
-   "title": "11.11. 2026 VZN č. 1/2026 o správe a prevádzkovaní pohrebiska na území obce Lúčka",
-   "typ": [
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…pohrebisku, ako sú domy smútku a iné objekty tvoriace vybavenosť pohrebiska, d) starať sa o inžinierske siete na pohrebisku, e) starať sa o oplotenie pohrebiska, f) zabezpečovať poriadok a čistotu na pohrebisku, g) vykonávať dozor nad dodržiavaním tohto prevádzkového poriadku pohrebiska, h) zriaďovať miesta …",
-    "…dstrániť. Nájomcovia hrobových miest ani iné osoby nesmú bez súhlasu prevádzkovateľa zasahovať do zelene vysadenej prevádzkovateľom. Čl. 16 Lavičky 1. Lavičky možno na pohrebisku umiestňovať len s písomným súhlasom správcu pohrebiska, ktorý môže určiť rozmery i tvar lavičky, prípadne spôsob ich upevnenia. …",
-    "…ájomcovia hrobových miest ani iné osoby nesmú bez súhlasu prevádzkovateľa zasahovať do zelene vysadenej prevádzkovateľom. Čl. 16 Lavičky 1. Lavičky možno na pohrebisku umiestňovať len s písomným súhlasom správcu pohrebiska, ktorý môže určiť rozmery i tvar lavičky, prípadne spôsob ich upevnenia. 2. Lavičky …"
-   ],
-   "url": "https://www.lucka-rv.sk/vzn-c-12026-o-sprave-a-prevadzkovani-pohrebiska-na-uzemi-obce-lucka-a21-293",
-   "zdroj": "https://www.lucka-rv.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "prilohy": [
-    "https://obecorechova.sk/wp-content/uploads/2026/10/eFaktura_MNO_2xA4_final.pdf",
-    "https://obecorechova.sk/wp-content/uploads/2026/10/Oznamenie.docx"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Park / oddych",
-    "Dotácia / výzva"
-   ],
-   "title": "Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 – malé obce bola schvá… 20. novembra 2026 06:40",
-   "typ": [
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…7.2026 a vďaka tomu sme získali finančné prostriedky. Čo sa nám vďaka projektu podarilo zrealizovať? Výsadba zelene: V okolí multifunkčného ihriska a oddychovej zóny sme vysadili 8stromov, ktoré v budúcnosti vytvoria príjemný tieň pre naše deti a skrášlia prostredie pre rodinný oddych. Kvôli pretrvávajúcem…",
-    "… rodinný oddych. Kvôli pretrvávajúcemu suchu bola výsadba stromov možná v neskoršom jesennom období. Modernizácia osvetlenia multifunkčného ihriska: Osvetlenie sme nahradili novými, úspornými a modernejšími svietidlami. Vďaka tomu bude športovanie na ihrisku bezpečnejšie a komfortnejšie aj vo večerných hod…",
-    "…válený dňa 07.07.2026 a vďaka tomu sme získali finančné prostriedky. Čo sa nám vďaka projektu podarilo zrealizovať? Výsadba zelene: V okolí multifunkčného ihriska a oddychovej zóny sme vysadili 8stromov, ktoré v budúcnosti vytvoria príjemný tieň pre naše deti a skrášlia prostredie pre rodinný oddych. Kvôli pretrv…",
-    "… prostredie pre rodinný oddych. Kvôli pretrvávajúcemu suchu bola výsadba stromov možná v neskoršom jesennom období. Modernizácia osvetlenia multifunkčného ihriska: Osvetlenie sme nahradili novými, úspornými a modernejšími svietidlami. Vďaka tomu bude športovanie na ihrisku bezpečnejšie a komfortnejšie aj vo večer…",
-    "… efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schválená , zameraný na skrášlenie a modernizáciu nášho športovo-oddychového areálu. Naša obec reagovala na výzvu vyhlásenú dňa 02.02.2026 Košickým samosprávnym krajom. Projekt bol oficiálne schválený dňa 07.07.2026 a vďaka tomu sme získali fi…"
-   ],
-   "url": "https://obecorechova.sk/mobilny-rozhlas/?message=6affeb4e9b1379e1bf20a9c9",
-   "zdroj": "https://obecorechova.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
+   "obec": "Ostrov",
    "okres": "Sobrance",
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Dotácia / výzva"
+    "Oplotenie"
    ],
    "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
+    "…PUBLICITA- \"VÝSADBA ZELENEJ ALEJE A OBNOVA VEREJNEJ ZELENE\" PUBLICITA- \"Výsadba živého plotu aleje a doplnenie doterajšej výsadby\"…"
    ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/",
+   "url": "https://ostrov-obec.sk/uradna-tabula",
+   "zdroj": "https://ostrov-obec.sk/uradna-tabula",
    "zmena_stranky": true
   },
   {
    "firmy": [],
-   "kod": "522830",
+   "kod": "522856",
    "kraj": "Košický kraj",
-   "obec": "Orechová",
+   "obec": "Ostrov",
    "okres": "Sobrance",
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Dotácia / výzva"
+    "Oplotenie"
    ],
    "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
+    "…PUBLICITA- \"VÝSADBA ZELENEJ ALEJE A OBNOVA VEREJNEJ ZELENE\" PUBLICITA- \"Výsadba živého plotu aleje a doplnenie doterajšej výsadby\"…"
    ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/pozvanky-na-zasadnutia-oz/",
+   "url": "https://ostrov-obec.sk/uradna-tabula?id=13504",
+   "zdroj": "https://ostrov-obec.sk/uradna-tabula?id=13504",
    "zmena_stranky": true
   },
   {
    "firmy": [],
-   "kod": "522830",
+   "kod": "522856",
    "kraj": "Košický kraj",
-   "obec": "Orechová",
+   "obec": "Ostrov",
    "okres": "Sobrance",
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Dotácia / výzva"
+    "Oplotenie"
    ],
    "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
+    "…PUBLICITA- \"VÝSADBA ZELENEJ ALEJE A OBNOVA VEREJNEJ ZELENE\" PUBLICITA- \"Výsadba živého plotu aleje a doplnenie doterajšej výsadby\"…"
    ],
-   "url": "https://obecorechova.sk/uradna-tabula/",
-   "zdroj": "https://obecorechova.sk/uradna-tabula/",
+   "url": "https://ostrov-obec.sk/",
+   "zdroj": "https://ostrov-obec.sk/",
    "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/uznesenia-oz/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/verejne-vyhlasky-a-oznamy/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
-   "zdroj": "https://obecorechova.sk/samosprava/obecny-urad/obecne-zastupitelstvo/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/vzn/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/vzn/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
-   "zdroj": "https://obecorechova.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/aktuality/pozvanka/obecny-urad-pozyva-vsetkych-obcanov-na-oslavu-mesiaca-ucty-k-starsim/",
-   "zdroj": "https://obecorechova.sk/aktuality/pozvanka/obecny-urad-pozyva-vsetkych-obcanov-na-oslavu-mesiaca-ucty-k-starsim/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/aktuality/nezaradene/pozvanka-na-oslavu-mdd-2/",
-   "zdroj": "https://obecorechova.sk/aktuality/nezaradene/pozvanka-na-oslavu-mdd-2/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/financie/rozpoctove-opatrenia/",
-   "zdroj": "https://obecorechova.sk/dokumenty/financie/rozpoctove-opatrenia/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/financie/rozpocty/",
-   "zdroj": "https://obecorechova.sk/dokumenty/financie/rozpocty/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 - malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
-   "zdroj": "https://obecorechova.sk/dokumenty/verejne-obstaravanie/nadlimitne-zakazky/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "522830",
-   "kraj": "Košický kraj",
-   "obec": "Orechová",
-   "okres": "Sobrance",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Získaná dotácia pre obec Orechová od Košického s… S radosťou vám oznamujeme, že naša obec úspešne dokončila žiadosť o dotáciu pre projekt Energetická efektívnosť a úspory energií v dotačnom programe ID/2026 – malé obce bola schvá……"
-   ],
-   "url": "https://obecorechova.sk/",
-   "zdroj": "https://obecorechova.sk/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "543331",
-   "kraj": "Košický kraj",
-   "obec": "Markušovce",
-   "okres": "Spišská Nová Ves",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Mobiliár",
-    "Zastávka"
-   ],
-   "title": "20.11.2026 Jedno volebné obdobie sa končí, nové sa začína. Štyri roky práce pre Markušovce",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…arkušovce urobili. Veríme, že skúsenosti, spolupráca a priateľstvá, ktoré pri spoločnej práci vznikli, budú pokračovať aj mimo poslaneckých lavíc. Nové obecné zastupiteľstvo sa ujme mandátu 23. novembra Už v pondelok 23. novembra 2026 o 17.00 h sa v zasadacej miestnosti Obecného úradu Markušovce uskutočn…",
-    "…volebnom období . V obecnom zastupiteľstve pôsobí nepretržite od roku 2014. Návrat skúseností aj nová tvár v zastupiteľstve Do poslaneckých lavíc sa po štvorročnej prestávke vracia Mgr. Miriama Farkalinová . Tá už má s prácou v obecnej samospráve bohaté skúsenosti, keďže poslanecký mandát vykonávala nepr…",
-    "…tu obce a základnej školy, fakturácii stočného, nakladaniu s obecným majetkom či zavedeniu reklamných služieb v citylightových vitrínach na autobusových zastávkach. Súčasťou programu bola aj správa nezávislého audítora a kontrola plnenia uznesení. Prijaté uznesenia aktuálne čakajú na podpis starostu obce a následné zverej…"
-   ],
-   "url": "https://www.markusovce.sk/novinka/144642/jedno-volebne-obdobie-sa-konci-nove-sa-zacina-styri-roky-prace-pre-markusovce",
-   "zdroj": "https://www.markusovce.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "543519",
-   "kraj": "Košický kraj",
-   "obec": "Rudňany",
-   "okres": "Spišská Nová Ves",
-   "prilohy": [
-    "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_1.pdf&original=Be%C5%BEn%C3%BD%20rozpo%C4%8Det%202027-2029.pdf",
-    "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_2.pdf&original=Finan%C4%8Dn%C3%A9%20oper%C3%A1cie%202027-2029%20n%C3%A1vrh.pdf",
-    "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1018_3.pdf&original=Kapitalov%C3%BD%20rozpo%C4%8Det%202027-2029%20n%C3%A1vrh.pdf"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Oplotenie",
-    "Park / oddych"
-   ],
-   "title": "19. 11. 2026 Finančný Rozpočet na roky 2027- 2029 - NÁVRH Úradná tabuľa",
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…2,57 0,00 0,00 0,00 0,00 0,00 0,00 633004 Kancelárske stroje, prístroje 392,20 700,00 700,00 772,70 1 500,00 1 500,00 1 500,00 633004 Nákup ihrisková zostava 0,00 1 187,00 0,00 0,00 0,00 0,00 0,00 633006 Kancelárske potreby, tonery 8405,60 8 000,00 7 000,00 6 938,68 7 000,00 7 000,00 7 000,00 633006 Súpis. Č…",
-    "…703,46 4 075,00 2 526,93 0,00 0,00 0,00 713 Obstarávanie kapitálových aktív 5491,20 12 703,46 4 075,00 2 526,93 0,00 0,00 0,00 713004 Nákup ihriskovej zostavy 0,00 8 628,46 0,00 0,00 0,00 0,00 0,00 713002 Nákup - Smart Kiosk Galileo 5491,20 4 075,00 4 075,00 2 526,93 0,00 0,00 0,00 714 nákup osobného motorové…",
-    "… zlepšenie vzdelávania žiakov ZS v MRK 629 105,00 0,00 322001 Dotácia na obnovu kultúrnych pamiatok 58 000,00 322001 Dotácia na vybudovanie oplotenia a vstupného chodníka 0,00 0,00 0,00 12 000,00 0,00 322001 Dotácia na odstránenie dvojzmennej prevádzky ZŠ 401 072,29 3 232 220,00 1 927 230,00 2 942 081,26 0,0…",
-    "…615,00 0,00 0,00 0,00 717002 odstránenie dvojzmennej prevádzky ZŠ -111+41 0,00 3 232 220,00 1 927 230,00 2 946 881,64 0,00 0,00 0,00 717002 Oplotenie pri ZS 0,00 0,00 0,00 14 306,60 0,00 0,00 0,00 717002 kanalizácia pri ZS 0,00 0,00 0,00 14 999,08 0,00 0,00 0,00 717002 kamerový systém nová ZS 0,00 0,00 0,00 …",
-    "…5 000,00 5 000,00 130 Dane za tovary a služby 71 374,68 103 050,00 134 050,00 96 707,01 203 050,00 222 343,00 222 343,00 133 Daň - pes, KO, verejne priestranstvá 71 206,16 103 050,00 134 050,00 96 707,01 203 050,00 222 343,00 222 343,00 133001 Daň za psa 2 140,53 3 000,00 4 000,00 1 656,64 3 000,00 3 000,00 3 000,00 133…"
-   ],
-   "url": "https://www.rudnany.sk/samosprava/uradna-tabula/financny-rozpocet-na-roky-2027-2029-navrh-1045.html",
-   "zdroj": "https://www.rudnany.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "543519",
-   "kraj": "Košický kraj",
-   "obec": "Rudňany",
-   "okres": "Spišská Nová Ves",
-   "prilohy": [
-    "https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1017_2.pdf&original=Programov%C3%BD%20rozpo%C4%8Det%20obce%20na%20roky%202027%20-2029%20n%C3%A1vrh.pdf"
-   ],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    744819.0,
-    191844.0,
-    107000.0,
-    86397.0,
-    50000.0
-   ],
-   "temy": [
-    "Športovisko",
-    "Park / oddych"
-   ],
-   "title": "19. 11. 2026 Programový rozpočet na roky 2027-2029 - NÁVRH Úradná tabuľa",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "… klub detí - družina 5.5. Centrá voľného času 6. Program: Šport 6.1. Podpora športovým klubom – dotácia na šport 6.1.1. Futbalový klub 6.2. Športový areál 7. Program: Kultúra 7.1. Knižnica, Klub seniorov 7.3. Podpora kultúrnych podujatí a aktivít pre občanov obce 7.4. Podpora kultúrnych priestorov pre aktivity ob…",
-    "…zdelávacích a výchovných služieb. Zabezpečiť kvalitnú a plnohodnotnú stravu v školskej jedálni. Zabezpečiť starostlivosť o deti pri trávení voľnočasových aktivitách žiakov ZŠ v školskom klube detí. Komentár k programu: V programe sú rozpočtované výdavky na zabezpečenie poskytovania služieb materských škôl, zákla…"
-   ],
-   "url": "https://www.rudnany.sk/samosprava/uradna-tabula/programovy-rozpocet-na-roky-2027-2029-navrh-1044.html",
-   "zdroj": "https://www.rudnany.sk/"
   },
   {
    "firmy": [],
@@ -980,7 +425,8 @@
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Verejné obstarávanie",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
    ],
    "ukazky": [
     "…ály - XXX. zasadnutie OZ | PDF | 0.51 Mb Pozvánka na XXX. zasadnutie OZ - 26.10.2018 | PDF | 0.41 Mb Výzva na predkladanie ponúk - Výstavba detského ihriska | PDF | 0.96 Mb Návrh - Zmluva o dielo | DOCX | 0.03 Mb Zápisnica - XXIX. zas. OZ | PDF | 0.36 Mb Dátum vyvesenia: 10.10.2018 Uznesenia - XXIX. zas. OZ | PDF |…",
@@ -995,169 +441,45 @@
   },
   {
    "firmy": [],
-   "kod": "519006",
+   "kod": "519065",
    "kraj": "Prešovský kraj",
-   "obec": "Bardejov",
-   "okres": "Bardejov",
-   "projekcia": false,
-   "statut": "MESTO",
-   "sumy_eur": [
-    2783767.33,
-    2772042.16,
-    133144.0,
-    126486.0,
-    80231.67
-   ],
-   "temy": [
-    "Turistická infraštruktúra",
-    "Edukačné tabule",
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [
-    "Pozvánka na zastupiteľstvo"
-   ],
-   "ukazky": [
-    "…diaľkovým ovládaním, • Osvetlenie parkoviska. Celkové predpokladané náklady: 62 998,10 € z toho požadovaná dotácia: 59 848,19 € „Realizácia cyklotrás v meste Bardejov v rámci kostrovej siete cyklistických komunikácií PSK – severná časť“ Environmentálny fond - Oblasť: Klimaticky priaznivá infraštruktúra Dátum…",
-    "…ruktúry prepájajúci centrum mesta Bardejov s mestskou časťou Dlhá Lúka a s katastrálnou hranicou obce Zborov, kde nadväzuje na pripravované cyklotrasy kostrovej siete PSK; na Priemyselnej ulici sa napája na existujúcu mestskú cyklotrasu. Po dokončení bude stavba zaradená do kostrovej siete cyklistických komun…",
-    "…opravnej infraštruktúry, realizáciu technického vybavenia vrátane odvodnenia, osvetlenia a sadových úprav, ako aj inštaláciu elektronických informačných tabúľ. Celkové predpokladané náklady: 2 783 767,33 € z toho požadovaná dotácia: 2 772 042,16 € Aktualizovala: Zuzana Graveczová, Ing., 2026-09-02 14:38 zuzana.gravec…",
-    "…elkové predpokladané náklady: 133 144 € z toho požadovaná dotácia: 126 486 € „Pomník vďaky a priateľstva v Bardejove“ Výzva na predkladanie žiadostí o poskytnutie regionálneho príspevku pre prioritný okres Bardejov č. Bardejov/01/2026 Dátum podania: 06.10.2026 Doba realizácie: 09/2026 – 02/2027 Obsah projektu: Realizácia…",
-    "…klady: 133 144 € z toho požadovaná dotácia: 126 486 € „Pomník vďaky a priateľstva v Bardejove“ Výzva na predkladanie žiadostí o poskytnutie regionálneho príspevku pre prioritný okres Bardejov č. Bardejov/01/2026 Dátum podania: 06.10.2026 Doba realizácie: 09/2026 – 02/2027 Obsah projektu: Realizácia nového verejného osvet…"
-   ],
-   "url": "https://www.bardejov.sk/mestsky-urad/projekty-podane",
-   "zdroj": "https://www.bardejov.sk/mestsky-urad/projekty-podane",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "519006",
-   "kraj": "Prešovský kraj",
-   "obec": "Bardejov",
-   "okres": "Bardejov",
-   "projekcia": false,
-   "statut": "MESTO",
-   "sumy_eur": [],
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu"
-   ],
-   "ukazky": [
-    "… VYBAVOVANIA SŤAŽNOSTI ZÁSADY ROZPOČTOVÉHO HOSPODÁRENIA ZÁSADY HOSPODÁRENIA S MAJETKOM SMERNICA NA URČENIE PRAVIDIEL OBJEKTÍVNEHO POSÚDENIA ŽIADOSTI O POSKYTNUTIE DOTÁCIE Z ROZPOČTU MESTA BARDEJOV ROKOVACÍ PORIADOK MESTSKÉHO ZASTUPITEĽSTVA ROKOVACÍ PORIADOK MESTSKEJ RADY ROKOVACÍ PORIADOK STÁLYCH KOMISIÍ MESTSKÉHO ZASTUP…"
-   ],
-   "url": "https://www.bardejov.sk/samosprava/zakl-dokumenty-mesta",
-   "zdroj": "https://www.bardejov.sk/samosprava/zakl-dokumenty-mesta",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "519235",
-   "kraj": "Prešovský kraj",
-   "obec": "Hertník",
+   "obec": "Beloveža",
    "okres": "Bardejov",
    "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Zastávka"
+    "Detské ihrisko"
    ],
-   "title": "Raslavice – Kapušany pri Prešove_26.11.26",
+   "title": "Obvodové športové hry Beloveža 2026! Miesto: Futbalové ihrisko Beloveža Čas: Uskutočnila sa Pi 8.5 09:00",
    "typ": [],
    "ukazky": [
-    "…lavice 13:00 – Kapušany pri Os 9217 Prešov 12:25 – Kapušany pri Prešove 12:36 Raslavice Prešove 13:21 – Prešov 13:33 12:57 – Bardejov 13:30 Zastávky NAD Železničná stanica/zastávka Miesto zastavenia NAD Raslavice pred ŽST Demjata obec autobusová zastávka „Demjata“ Tulčík autobusová zastávka „Tulčík, kostol“…",
-    "…217 Prešov 12:25 – Kapušany pri Prešove 12:36 Raslavice Prešove 13:21 – Prešov 13:33 12:57 – Bardejov 13:30 Zastávky NAD Železničná stanica/zastávka Miesto zastavenia NAD Raslavice pred ŽST Demjata obec autobusová zastávka „Demjata“ Tulčík autobusová zastávka „Tulčík, kostol“ Fulianka autobusová zastávka „F…"
+    "…Dátum a Čas 08. máj 2026 09:00 – 20:00 Miesto Futbalové ihrisko Beloveža…"
    ],
-   "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Raslavice-Kapusany-pri-Presove_26.11.26.pdf",
-   "zdroj": "https://obechertnik.sk/"
+   "url": "https://beloveza.com/udalosti/nezaradene/obvodove-sportove-hry-beloveza-2026/",
+   "zdroj": "https://beloveza.com/"
   },
   {
    "firmy": [],
-   "kod": "519235",
+   "kod": "519065",
    "kraj": "Prešovský kraj",
-   "obec": "Hertník",
+   "obec": "Beloveža",
    "okres": "Bardejov",
-   "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Zastávka"
+    "Detské ihrisko"
    ],
-   "title": "Kapušany pri Prešove – Šarišské Lúky _24.11.26",
+   "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…12:19 Os 9212 Bardejov 10:30 – Kapušany pri Prešove 11:22 – Os 9217 Prešov 12:25 – Kapušany pri Prešove 12:35 – Bardejov Prešov 11:33 13:30 Zastávky NAD Železničná stanica/zastávka Miesto zastavenia NAD Kapušany pri Prešove ŽSR Šarišské Lúky ŽSR Prešov ŽSR Dôležité informácie: • V NAD nie je možné zabezpeči…",
-    "…apušany pri Prešove 11:22 – Os 9217 Prešov 12:25 – Kapušany pri Prešove 12:35 – Bardejov Prešov 11:33 13:30 Zastávky NAD Železničná stanica/zastávka Miesto zastavenia NAD Kapušany pri Prešove ŽSR Šarišské Lúky ŽSR Prešov ŽSR Dôležité informácie: • V NAD nie je možné zabezpečiť prepravu bicyklov a prepravu z…"
+    "…Poskytnutá dotácia z výzvy poslancov PSK Zápis detí do Materskej školy v Beloveži Obvodové športové hry Beloveža 2026! Miesto: Futbalové ihrisko Beloveža Čas: Uskutočnila sa Pi 8.5 09:00 Výstup na Belovežské hory 2026! Čas: Uskutočnila sa Ne 3.5 09:00 Pokojné a požehnané veľkonočné sviatky! Oznam – zber…"
    ],
-   "url": "https://obechertnik.sk/wp-content/uploads/2026/11/Kapusany-pri-Presove-Sarisske-Luky-_24.11.26.pdf",
-   "zdroj": "https://obechertnik.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "520012",
-   "kraj": "Prešovský kraj",
-   "obec": "Adidovce",
-   "okres": "Humenné",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Oplotenie",
-    "Dotácia / výzva"
-   ],
-   "title": "Stiahnuť súbor Z Á P I S N I C A z 27. zasadnutia doc (1) Veľkosť a typ súboru 140 KB / PDF",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…nformovala novozvolenú starostku obce Ing. Michaelu Piatničkovú o rozpracovaných aktivitách a to o podpísaní zmluvy o poskytnutí dotácie na oplotenie cintorína z MIRRI – Milión pre malé obce, o potrebe pre jednania a popísaní dodatku č. 3 k zmluve o poskytovaní služieb č. ZM-FU-OD-25-0130_ZoD so spoločnosťou…",
-    "… starostku obce Ing. Michaelu Piatničkovú o rozpracovaných aktivitách a to o podpísaní zmluvy o poskytnutí dotácie na oplotenie cintorína z MIRRI – Milión pre malé obce, o potrebe pre jednania a popísaní dodatku č. 3 k zmluve o poskytovaní služieb č. ZM-FU-OD-25-0130_ZoD so spoločnosťou KOSIT East. K bod…"
-   ],
-   "url": "https://obecadidovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/z-a-p-i-s-n-i-c-a-z-27.-zasadnutia-doc-1-a0gu2s.pdf",
-   "zdroj": "https://obecadidovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/"
-  },
-  {
-   "firmy": [],
-   "kod": "520012",
-   "kraj": "Prešovský kraj",
-   "obec": "Adidovce",
-   "okres": "Humenné",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [
-    40000.0,
-    31200.0,
-    11273.66,
-    11000.0,
-    10000.0
-   ],
-   "temy": [
-    "Zastávka",
-    "Dotácia / výzva"
-   ],
-   "title": "Stiahnuť súbor Z Á P I S N I C A z 26. zasadnutia doc Veľkosť a typ súboru 171 KB / PDF",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…ína 528,00 Eur Rok 2025 - Rekonštrukcia elektrickej rozvodovej skrine 2957,84 Eur - Oprava elektrických rozvodov v KD 592,82 Eur - Výstavba autobusovej zastávky 18 247, 58 Eur - Výrub nebezpečných drevín na cintoríne 450,00 Eur - Odkúpenie pozemku od Coop Jednoty 1597,50 Eur Rok 2026 - Výrub stromov a odpratávanie drev…",
-    "…R - na opravu strechy DS 11 000,00 Eur Rok 2025 - Výzva poslancov PSK – výmena elektrorozvodovej skrine 2 365,87 Eur - PPA – na vybudovanie autobusovej zastávky 18 247, 58 Eur K bodu č. 7 : Starostka obce sa poďakovala poslancom za účasť na 26. Obecnom zastupiteľstve a zastupiteľstvo ukončila. Overovatelia zápisnice : …",
-    "…obce oboznámila poslancov obecného zastupiteľstva o zapojení do výzvy Milión pre malé obce možnosť získať až 3500 Eur a výzvy o poskytnutie regionálneho príspevku pre prioritný okres Humenné, kde je možné získať dotáciu do 10 000€, ktorá by sa použila na opravu interiéru Domu smútku. Starostka obce zhrnula nadobudnutý ma…",
-    "…597,50 Eur Rok 2026 - Výrub stromov a odpratávanie drevnej hmoty 1 500,00 Eur Získané dotácie Rok 2023 - Výzva poslancov PSK 1 800,00 Eur - MIRRI SR 31 200,00 Eur Rok 2024 - Výzva poslancov PSK na spevnené plochy pri DS 1 300,00 Eur - Min. financií SR - na opravu strechy DS 11 000,00 Eur Rok 2025 - Výzva…"
-   ],
-   "url": "https://obecadidovce.sk/wp-content/uploads/dokumenty/zapisnice-zasadnuti-oz/z-a-p-i-s-n-i-c-a-z-26.-zasadnutia-doc-gnankd.pdf",
-   "zdroj": "https://obecadidovce.sk/dokumenty/obecne-zastupitelstvo/zapisnice-zasadnuti-oz/"
+   "url": "https://beloveza.com/",
+   "zdroj": "https://beloveza.com/",
+   "zmena_stranky": true
   },
   {
    "firmy": [],
@@ -1177,7 +499,8 @@
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Verejné obstarávanie",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
    ],
    "ukazky": [
     "…väzné nariadenia obce Jabloň r. 2025 Všeobecne záväzné nariadenie obce JABLOŇ o parkovaní a odstavení vozidiel na miestnych komunikáciách a verejných priestranstvách – NÁVRH- č. 1/2025 Prípona súboru: pdf 19-03-2025 Veľkosť súboru: 179 kB VZN č. 1/2025 O PARKOVANÍ A ODSTAVENÍ VOZIDIEL NA MIESTNYCH KOMUNIKÁCIÁCH A VEREJNÝCH …",
@@ -1205,7 +528,8 @@
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Verejné obstarávanie",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
    ],
    "ukazky": [
     "…väzné nariadenia obce Jabloň r. 2025 Všeobecne záväzné nariadenie obce JABLOŇ o parkovaní a odstavení vozidiel na miestnych komunikáciách a verejných priestranstvách – NÁVRH- č. 1/2025 Prípona súboru: pdf 19-03-2025 Veľkosť súboru: 179 kB VZN č. 1/2025 O PARKOVANÍ A ODSTAVENÍ VOZIDIEL NA MIESTNYCH KOMUNIKÁCIÁCH A VEREJNÝCH …",
@@ -1217,109 +541,127 @@
   },
   {
    "firmy": [],
-   "kod": "520373",
+   "kod": "520977",
    "kraj": "Prešovský kraj",
-   "obec": "Kochanovce",
+   "obec": "Veľopolie",
    "okres": "Humenné",
-   "prilohy": [
-    "https://www.kochanovce.sk/e_download.php?file=/data/uredni_deska/obsah153_1.pdf&original=N%C3%A1vrh%20VZN%2012026.pdf"
-   ],
+   "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [
-    3309.0,
-    3278.0,
-    1096.0
+    36900.0,
+    36531.0,
+    2925.51,
+    1900.0
    ],
    "temy": [
-    "Športovisko",
-    "Park / oddych"
+    "Detské ihrisko",
+    "Dotácia / výzva"
    ],
-   "title": "20. 11. 2026 Všeobecne záväzné nariadenie č. 1/2026 obce Kochanovce o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Kochanovce- návrh Úradná tabuľa",
+   "title": "Uznesenia z obecného zastupiteľstva rok 2026 - do 23.11.2026 | 0.16 Mb",
    "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…rá je správcom dane, b) pozemky a stavby vo vlastníctve iného štátu užívané fyzickými osobami, c) pozemky, na ktorých sú cintoríny, parky a športoviská, d) pozemky a stavby vo vlastníctve cirkví registrovaných štátom, e) stavby využívané na účely sociálnej pomoci, f) stavby slúžiace vzdelávaniu, g) stavby slúž…",
-    "… obce Kochanovce. (2) Obec Kochanovce na svojom území ukladá tieto miestne dane: a) daň z nehnuteľností , b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za nevýherné hracie prístroje (3) Obec Kochanovce na svojom území ukladá poplatok za komunálne odpady a drobné stavebné odpady. (4) Zdaňovacím obdobím …",
-    "…a komunálne odpady a drobné stavebné odpady. (4) Zdaňovacím obdobím miestnych daní a to dane z nehnuteľností, dane za psa, dane za užívanie verejného priestranstva a dane za nevýherné hracie prístroje je kalendárny rok. Čl. 2 Miestne dane Daň z nehnuteľnosti Daň z nehnuteľností zahŕňa a) daň z pozemkov, b) daň zo stavieb,…"
+    "…č. 157 Obecné zastupiteľstvo vo Veľopolí. berie na vedomie informáciu o schválenej dotácii z rozpočtu PSK vo výške 1900 Eur na modernizáciu detského ihriska pri materskej škole Uznesenie č. 158 Obecné zastupiteľstvo vo Veľopolí. berie na vedomie plnenie rozpočtu obce k 30.6.2026 Uznesenie č. 159 Obecné zastupiteľst…",
+    "…u vo výške 36 531 EUR (v súlade s bodom č. 1) na financovanie Projektu; 3. zabezpečenie finančných prostriedkov z vlastných zdrojov obce na spolufinancovanie Projektu, a to minimálne vo výške 1% z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z Envir…",
+    "…iedkov z vlastných zdrojov obce na spolufinancovanie Projektu, a to minimálne vo výške 1% z oprávnených nákladov Projektu a ich použitie na spolufinancovanie Projektu; 4. návrh zmluvy o poskytnutí podpory z Environmentálneho fondu formou dotácie. Hlasovanie: za: 5 proti: 0 zdržal sa: 0 Vo Veľopolí, 31.3.2026 Ing. Va…"
    ],
-   "url": "https://www.kochanovce.sk/obecny-urad/uradna-tabula/vseobecne-zavazne-nariadenie-c-1-2026-obce-kochanovce-o-miestnych-daniach-a-miestnom-poplatku-za-komunalne-odpady-a-drobne-stavebne-odpady-na-uzemi-obce-kochanovce-navrh-169.html",
-   "zdroj": "https://www.kochanovce.sk/"
+   "url": "https://www.velopolie.sk/files/dokumenty/zapisnice-a-uznesenia-oz/uznesenia/2026-11-23-075540-Uznesenia__2026_do_23.11.2026.pdf",
+   "zdroj": "https://www.velopolie.sk/uznesenia-oz"
   },
   {
    "firmy": [],
-   "kod": "521116",
+   "kod": "523798",
    "kraj": "Prešovský kraj",
-   "obec": "Zubné",
-   "okres": "Humenné",
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
    "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [
-    10126.0
+    20754.0,
+    20745.0,
+    16745.0,
+    8000.0,
+    4000.0
    ],
    "temy": [
-    "Mobiliár",
+    "Detské ihrisko",
+    "Športovisko",
     "Dotácia / výzva"
    ],
-   "title": "22.04.2026 Obstaranie prenosných lavičiek a ozvučenia kultúrneho domu v obci Zubné",
+   "title": "Rekonštrukcia multifunkčného ihriska",
    "typ": [
+    "Rozpočet / zmena rozpočtu",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…ktorá bola zameraná na podporu regionálneho rozvoja. V decembri 2025 prišla príjemná správa, že náš projekt s názvom \"Obstaranie prenosných lavičiek a ozvučenia kultúrneho domu v obci Zubné\" bol v rámci tejto výzvy podporený a že nám bola pridelená dotácia vo výške 10 126 eur, čo tvorí 95% oprávnených nákla…",
-    "…ám bola pridelená dotácia vo výške 10 126 eur, čo tvorí 95% oprávnených nákladov. Spolufinancovanie obce je 5%. Prvú etapu, a to obstaranie lavičiek máme úspešne ukončenú a tešíme sa, že nové lavičky nahradia staré, ktoré už majú svoje najlepšie roky už za sebou, že budú krášliť prostredie amfiteátra a že b…",
-    "…omu v obci Zubné\" bol v rámci tejto výzvy podporený a že nám bola pridelená dotácia vo výške 10 126 eur, čo tvorí 95% oprávnených nákladov. Spolufinancovanie obce je 5%. Prvú etapu, a to obstaranie lavičiek máme úspešne ukončenú a tešíme sa, že nové lavičky nahradia staré, ktoré už majú svoje najlepšie roky už za se…"
+    "…Rekonštrukcia multifunkčného ihriska Vo februári tohto roku Športová komisia obce Rakúsy pod vedením pani poslankyne Mgr. Slavky Birošíkovej reagovala na výzvu Mikroprogram Prešovského samosprávne…",
+    "…kových organizácií a iných oprávnených žiadateľov v okresoch Prešovského kraja. Podaný projekt bol zameraný na rekonštrukciu multifunkčného ihriska v obci. S podporou obce Rakúsy a so súhlasom OZ sme začali písať stručnú charakteristiku projektu a zhromažďovať potrebné dokumenty. Hlavným cieľom projektu bo…",
+    "…Rekonštrukcia multifunkčného ihriska Vo februári tohto roku Športová komisia obce Rakúsy pod vedením pani poslankyne Mgr. Slavky Birošíkovej reagovala na výzvu Mikroprogram Prešovského sam…",
+    "… občanov, neziskových organizácií a iných oprávnených žiadateľov v okresoch Prešovského kraja. Podaný projekt bol zameraný na rekonštrukciu multifunkčného ihriska v obci. S podporou obce Rakúsy a so súhlasom OZ sme začali písať stručnú charakteristiku projektu a zhromažďovať potrebné dokumenty. Hlavným cieľom pro…",
+    "… Rakúsy pod vedením pani poslankyne Mgr. Slavky Birošíkovej reagovala na výzvu Mikroprogram Prešovského samosprávneho kraja na predkladanie žiadostí o poskytnutie dotácie z rozpočtu PSK pre rok 2021 na financovanie projektov realizovaných na podporu verejného života miest, obcí právnických osôb, záujmových združení občan…"
    ],
-   "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/obstaranie-prenosnych-laviciek-a-ozvucenia-kulturneho-domu-v-obci-zubne-a22-872",
-   "zdroj": "https://www.obeczubne.sk/"
+   "url": "https://www.rakusy.sk/zverejnovanie/dotacie/rekonstrukcia-multifunkcneho-ihriska/",
+   "zdroj": "https://www.rakusy.sk/"
   },
   {
    "firmy": [],
-   "kod": "521116",
+   "kod": "523798",
    "kraj": "Prešovský kraj",
-   "obec": "Zubné",
-   "okres": "Humenné",
-   "prilohy": [],
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
+   "prilohy": [
+    "https://www.rakusy.sk/e_download.php?file=data/editor/208sk_1.pdf&original=produktova_publikacia.pdf",
+    "https://www.rakusy.sk/e_download.php?file=data/editor/208sk_2.pdf&original=mapacyklotraspsk.pdf"
+   ],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Park / oddych"
+    "Zastávka",
+    "Turistická infraštruktúra",
+    "Dotácia / výzva"
    ],
-   "title": "01.08.2025 Revitalizácia interiéru kultúrneho domu",
+   "title": "Cyklotrasy v okolí",
    "typ": [
-    "Rozpočet / zmena rozpočtu"
+    "Rozpočet / zmena rozpočtu",
+    "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…Urbárska a pasienková spoločnosť Dokumenty k odvozu odpadov Projekt podporený z rozpočtu PSK Revitalizácia interiéru kultúrneho domu | JPG | 0.18 Mb Dátum vyvesenia: 12.08.2025…"
+    "…ónu otvára 1. júna, otváracie hodiny sú v sobotu a tor rodzinny, pięć torów cross-country przebiegających pozdĺž cesty I/67 vedie až k zastávke Čarda v Tatranskej Kotli- v nedeľu, počas letných prázdnin je bike park otvorený denne, przez piękny obszar Magury Spiskiej, każdy z kolejką linowej ne. Šírka chodn…",
+    "… od- trať, päť tratí crosscountry v krásnom prostredí Spišskej Ma- 250 metrów. Przeznaczona jest nie tylko dla doświadczo- počívadlá s prístreškom, stolíkom a stoličkami, hneď vedľa gury, každá s použitím lanovky TS3, v celkovej dĺžke 130 km, nych rowerzystów i zawodników, bowiem wszystkie trudne sú umiestnené…",
+    "…V blízkosti našej obce sa nachádza niekoľko krásnych cyklotrás, vďaka ktorým je umožnený aktívny relax aj naším obyvateľom. Ako sa hovorí: \"Sto ľudí, sto chutí\" a to isté bude určite platiť aj pri výbere ideálnej cyklotras…",
+    "…rým je umožnený aktívny relax aj naším obyvateľom. Ako sa hovorí: \"Sto ľudí, sto chutí\" a to isté bude určite platiť aj pri výbere ideálnej cyklotrasy. Pre rýchlejšie rozhodnutie Vám v prílohe ponúkame niekoľko variant cyklotrás nielen nášho regiónu. Produktová publikácia - cykloturistika produktová publikáci…",
+    "…p but it is accessible even by a road bike. велосипедов. 10 TATRY 4 SEASONS Klaster turizmu Tatranského regiónu Projekt je spoluﬁnancovaný z prostriedkov Európskej únie, Regionálny ope- račný program, Prio [príloha] ŠPORT tipy na výlet mapa cykloturistických trás odporúčané trasy v Prešovskom samosprávnom kraji Pre…"
    ],
-   "url": "https://www.obeczubne.sk/zivot-v-obci/aktuality/revitalizacia-interieru-kulturneho-domu-a22-870",
-   "zdroj": "https://www.obeczubne.sk/"
+   "url": "https://www.rakusy.sk/obcan-1/navstevnik/cyklotrasy-v-okoli/",
+   "zdroj": "https://www.rakusy.sk/"
   },
   {
    "firmy": [],
-   "kod": "521116",
+   "kod": "523798",
    "kraj": "Prešovský kraj",
-   "obec": "Zubné",
-   "okres": "Humenné",
+   "obec": "Rakúsy",
+   "okres": "Kežmarok",
+   "prilohy": [
+    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah1163_1.pdf&original=zmluva-na-spracovanie-ziadosti-o-nfp.pdf"
+   ],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Mobiliár",
-    "Park / oddych"
+    "Dotácia / výzva"
    ],
-   "title": "Nový text na stránke",
+   "title": "Zmluva na spracovanie žiadostí o NFP",
    "typ": [],
-   "ukazky": [
-    "…Obstaranie prenosných lavičiek a ozvučenia kultúrneho domu v obci Zubné Revitalizácia interiéru kultúrneho domu Obnova vnútorných priestorov kultúrneho domu v obci Zubné…"
-   ],
-   "url": "https://www.obeczubne.sk/",
-   "zdroj": "https://www.obeczubne.sk/",
-   "zmena_stranky": true
+   "ukazky": [],
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/zmluva-na-spracovanie-ziadosti-o-nfp-1163.html?kshow=43",
+   "zdroj": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/zmluvy-do-jula-2020/"
   },
   {
    "firmy": [],
@@ -1368,19 +710,17 @@
    "kraj": "Prešovský kraj",
    "obec": "Rakúsy",
    "okres": "Kežmarok",
-   "prilohy": [
-    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah1609_1.pdf&original=objednavka_201709_612017_objednavka-stanovenia-vseobecn.pdf"
-   ],
+   "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Turistická infraštruktúra"
+    "Detské ihrisko"
    ],
-   "title": "Objednávka stanovenia všeobecnej hodnoty nehnuteľnosti - Cyklotrasa",
+   "title": "Úprava terénu pre výstavbu detského ihriska",
    "typ": [],
    "ukazky": [],
-   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/objednavka-stanovenia-vseobecnej-hodnoty-nehnutelnosti-cyklotrasa-1609.html?kshow=44",
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/uprava-terenu-pre-vystavbu-detskeho-ihriska-2455.html?kshow=44",
    "zdroj": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/"
   },
   {
@@ -1389,28 +729,18 @@
    "kraj": "Prešovský kraj",
    "obec": "Rakúsy",
    "okres": "Kežmarok",
-   "prilohy": [
-    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah25_1.pdf&original=zmena_c_8_rozpoctu_obce_rakusy_r_2016.pdf",
-    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah25_4.pdf&original=zmena_c_7_rozpoctu_obce_rakusy_r_2016.pdf",
-    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah25_5.pdf&original=zmena_c_6_rozpoctu_obce_rakusy_r_2016.pdf"
-   ],
+   "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Športovisko"
+    "Mobiliár"
    ],
-   "title": "Zmeny rozpočtu rok 2016",
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica"
-   ],
-   "ukazky": [
-    "…bce Rakúsy 400,00 400,00 400,00 9. Šport 6 200,00 35 900,00 35 900,00 9.1 Podpora športových podujatí 1 200,00 1 200,00 1 200,00 9.2 Správa športových zariadení 5 000,00 34 700,00 34 700,00 10. Prostredie pre život 100 000,00 168 000,00 - 9 082 158 918,00 10.1 Verejné osvetlenie 10 000,00 10 000,00 10 000,00 10.2 Údržb…",
-    "…eľ 100 000,00 100 000,00 100 000,00 7.5 Centrum voľného času-zriaďovateľ 0,00 0,00 0,00 9. Šport 12 000,00 177 018,00 177 018,00 9.2 Správa športových zariadení 12 000,00 177 018,00 177 018,00 10. Prostredie pre život 62 000,00 62 580,00 62 580,00 10.1 Verejné osvetlenie 10 000,00 10 000,00 10 000,00 10.2 Údržba verejn…"
-   ],
-   "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/zmeny-rozpoctu-rok-2016-25.html?kshow=8",
-   "zdroj": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/"
+   "title": "ICONIQ nastaviteľná lavička BX2",
+   "typ": [],
+   "ukazky": [],
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/iconiq-nastavitelna-lavicka-bx2-2411.html?kshow=44",
+   "zdroj": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/"
   },
   {
    "firmy": [],
@@ -1418,72 +748,18 @@
    "kraj": "Prešovský kraj",
    "obec": "Rakúsy",
    "okres": "Kežmarok",
-   "prilohy": [
-    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah30_1.pdf&original=schvaleny-programovy-rozpocet-r-2017-2019.pdf"
-   ],
-   "projekcia": true,
+   "prilohy": [],
+   "projekcia": false,
    "statut": "OBEC",
-   "sumy_eur": [
-    3389345.0,
-    2090745.0,
-    1261445.0,
-    1238300.0,
-    1227500.0
-   ],
+   "sumy_eur": [],
    "temy": [
-    "Park / oddych",
-    "Turistická infraštruktúra"
+    "Oplotenie"
    ],
-   "title": "Rozpočet obce 2017-2019",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…dpisov platí za komunálne odpady a drobné stavebné odpady, ktoré vznikajú na území obce Rakúsy upravuje príslušné VZN. 1.4. Daň za uţívanie verejného priestranstva ...................................................... 200 € Predmetom dane za užívanie verejného priestranstva je v zmysle zákona č. 582/2004 Z.z. o miestnych…",
-    "…é VZN. 1.4. Daň za uţívanie verejného priestranstva ...................................................... 200 € Predmetom dane za užívanie verejného priestranstva je v zmysle zákona č. 582/2004 Z.z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov osobitné …",
-    "…ných MK • 2 km • Dĺžka prehŕňaných MK • 2 km Zabezpečiť výstavbu miestnej • Počet miestnych komunikácií • 1 komunikácie Zabezpečiť výstavbu cyklotrasy • Počet cyklotrás • 1 Zabezpečiť merače rýchlosti • Počet meračov • 2 Podprogram zabezpečuje stavebnú údržbu obecných komunikácií, výkon zimnej služby podľa po…",
-    "…žka prehŕňaných MK • 2 km Zabezpečiť výstavbu miestnej • Počet miestnych komunikácií • 1 komunikácie Zabezpečiť výstavbu cyklotrasy • Počet cyklotrás • 1 Zabezpečiť merače rýchlosti • Počet meračov • 2 Podprogram zabezpečuje stavebnú údržbu obecných komunikácií, výkon zimnej služby podľa potreby, výstavbu no…"
-   ],
-   "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/rozpocet-obce-2017-2019-30.html?kshow=9",
-   "zdroj": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/"
-  },
-  {
-   "firmy": [],
-   "kod": "523798",
-   "kraj": "Prešovský kraj",
-   "obec": "Rakúsy",
-   "okres": "Kežmarok",
-   "prilohy": [
-    "https://www.rakusy.sk/e_download.php?file=data/uredni_deska/obsah31_1.pdf&original=schvaleny-rozpocet-r-2016-2018.pdf"
-   ],
-   "projekcia": true,
-   "statut": "OBEC",
-   "sumy_eur": [
-    2904660.0,
-    1761460.0,
-    1082150.0,
-    1050000.0,
-    969560.0
-   ],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "Rozpočet obce 2016-2018",
-   "typ": [
-    "Pozvánka na zastupiteľstvo",
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "ukazky": [
-    "…dpisov platí za komunálne odpady a drobné stavebné odpady, ktoré vznikajú na území obce Rakúsy upravuje príslušné VZN. 1.4. Daň za uţívanie verejného priestranstva ...................................................... 150 € Predmetom dane za užívanie verejného priestranstva je v zmysle zákona č. 582/2004 Z.z. o miestnych…",
-    "…é VZN. 1.4. Daň za uţívanie verejného priestranstva ...................................................... 150 € Predmetom dane za užívanie verejného priestranstva je v zmysle zákona č. 582/2004 Z.z. o miestnych daniach a poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov osobitné užívanie …"
-   ],
-   "url": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/rozpocet-obce-2016-2018-31.html?kshow=9",
-   "zdroj": "https://www.rakusy.sk/zverejnovanie/hospodarenie/programovy-rozpocet/"
+   "title": "Betonárske práce - oplotenie cintorína",
+   "typ": [],
+   "ukazky": [],
+   "url": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/betonarske-prace-oplotenie-cintorina-1907.html?kshow=44",
+   "zdroj": "https://www.rakusy.sk/zverejnovanie/zmluvy-faktury-objednavky/objednavky-do-jula-2020/"
   },
   {
    "firmy": [],
@@ -1540,7 +816,9 @@
    "title": "Nový text na stránke",
    "typ": [
     "Verejné obstarávanie",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie",
+    "Objednávka PD / štúdie"
    ],
    "ukazky": [
     "…travín pre školskú jedáleň: cibuľa 5 kg, petržlen 1,5 kg, petržlenová vňať... Internetová objednávka príslušenstva k projektu: Modernizácia multifunkčného športového... Vyvesené: 26. 9. 2017 Dátum zvesenia: 11. 10. 2017 Objednávka potravín pre školskú jedáleň: jablká 1,70 kg, avokádo 1 kus, hrušky 15 ks,... Vyves…",
@@ -1555,191 +833,34 @@
   },
   {
    "firmy": [],
-   "kod": "526401",
+   "kod": "525162",
    "kraj": "Prešovský kraj",
-   "obec": "Bijacovce",
-   "okres": "Levoča",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "… 02.11.2026 Odberateľ : Obec Bijacovce Dodávateľ : Podtatranská vodárenská prevádzková spoločnosť, a.s. vodné - Bijacovce - šatne futbalové ihrisko za obdobie 5.8.2026 - 2.11.2026 vodné - Bijacovce - futbalové ihrisko za obdobie 5.8.2026 - 2.11.2026 vodné - Bijacovce - cintorin za obdobie 5.8.2026 - 2.11.2…",
-    "…nská prevádzková spoločnosť, a.s. vodné - Bijacovce - šatne futbalové ihrisko za obdobie 5.8.2026 - 2.11.2026 vodné - Bijacovce - futbalové ihrisko za obdobie 5.8.2026 - 2.11.2026 vodné - Bijacovce - cintorin za obdobie 5.8.2026 - 2.11.2026…"
-   ],
-   "url": "https://www.bijacovce.sk/faktury",
-   "zdroj": "https://www.bijacovce.sk/faktury",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "543578",
-   "kraj": "Prešovský kraj",
-   "obec": "Spišské Podhradie",
-   "okres": "Levoča",
-   "projekcia": false,
-   "statut": "MESTO",
-   "sumy_eur": [],
-   "temy": [
-    "Park / oddych"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…Revitalizácia národnej kultúrnej pamiatky - Biskupskej záhrady…"
-   ],
-   "url": "https://www.spisskepodhradie.sk/samosprava/mestske-zastupitelstvo/harmonogram-zasadnuti-mz/2024/",
-   "zdroj": "https://www.spisskepodhradie.sk/samosprava/mestske-zastupitelstvo/harmonogram-zasadnuti-mz/2024/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "523381",
-   "kraj": "Prešovský kraj",
-   "obec": "Poprad",
-   "okres": "Poprad",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "MESTO",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Ustanovujúce zasadnutie mestského zastupiteľstva",
-   "typ": [
-    "Pozvánka na zastupiteľstvo"
-   ],
-   "ukazky": [
-    "…19. 11. 2026 Rekonštrukcia detského ihriska v Strážach 19. 11. 2026 Stretnutie riaditeľov škôl k násiliu na školách 16. 11. 2026 Dňa 17.11.2026 bude mestský úrad zatvorený 9. 11. 2026 Celoplošný zber lís…",
-    "…ú pripravené na Dušičky 21. 10. 2026 V Poprade začína verejné korčuľovanie V Poprade začína verejné korčuľovanie 20. 10. 2026 Rekonštrukcia detského ihriska v Strážach 19. 10. 2026 Mesto Poprad s ocenením Senior Friendly 2026 Mesto Poprad s ocenením Senior Friendly 2026 15. 10. 2026 Tretí vek sa zabával 14. 10. 202…"
-   ],
-   "url": "https://www.poprad.sk/aktualita/2206/ustanovujuce-zasadnutiemestskeho-zastupitelstva",
-   "zdroj": "https://www.poprad.sk/"
-  },
-  {
-   "firmy": [],
-   "kod": "523852",
-   "kraj": "Prešovský kraj",
-   "obec": "Spišské Bystré",
-   "okres": "Poprad",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [
-    "Verejné obstarávanie"
-   ],
-   "ukazky": [
-    "…Výzva na predkladanie ponúk \"Detské ihrisko\" dnes, sobota 21. 11. 2026 zajtra, nedeľa 22. 11. 2026 Meniny má Elvíra , Ctirad, Ctirada ONLINE: 0 DNES: 278 TÝŽDEŇ: 6351 CELKOM: 2224481 Posledná aktualizáci…"
-   ],
-   "url": "https://www.spisskebystre.sk/",
-   "zdroj": "https://www.spisskebystre.sk/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "524581",
-   "kraj": "Prešovský kraj",
-   "obec": "Janov",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…dnes, sobota 21. 11. 2026 Vybreženie toku rieky Svinka pri futbalovom ihrisku Dnes je sobota , 21.11.2026 , 12:55:57…"
-   ],
-   "url": "https://www.obecjanov.sk/samosprava/zverejnovanie/uradna-tabula-1/protokol-o-skuskach-surovej-vody-717.html",
-   "zdroj": "https://www.obecjanov.sk/samosprava/zverejnovanie/uradna-tabula-1/protokol-o-skuskach-surovej-vody-717.html",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "524581",
-   "kraj": "Prešovský kraj",
-   "obec": "Janov",
-   "okres": "Prešov",
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko"
-   ],
-   "title": "Nový text na stránke",
-   "typ": [],
-   "ukazky": [
-    "…dnes, sobota 21. 11. 2026 Multifunkčné ihrisko s umelou trávou. 1 Dnes je sobota , 21.11.2026 , 12:56:07…"
-   ],
-   "url": "https://www.obecjanov.sk/aktuality/",
-   "zdroj": "https://www.obecjanov.sk/aktuality/",
-   "zmena_stranky": true
-  },
-  {
-   "firmy": [],
-   "kod": "525448",
-   "kraj": "Prešovský kraj",
-   "obec": "Záborské",
+   "obec": "Seniakovce",
    "okres": "Prešov",
    "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [
-    236369.99,
-    217460.39
+    61200.17,
+    57776.19,
+    55452.16,
+    53219.1,
+    8916.68
    ],
-   "temy": [
-    "Detské ihrisko",
-    "Park / oddych",
-    "Dotácia / výzva"
-   ],
-   "title": "Revitalizácia zelene",
-   "typ": [],
-   "ukazky": [
-    "…rácia a revitalizácia verejných priestorov v obci Záborské. Vznikne príjemný, funkčný a bezpečný verejný priestor troch oddychových zón (Ku ihrisku, Stred, Pri parku) doplnený o prvky Celková výška oprávnených výdavkov: 236 369,99 € drobnej architektúry. Ozelenenie a úprava verejných priestorov prinesie zl…",
-    "…www.obeczaborske.sk Termín realizácie: 02/2026 – 08/2026 Cieľom projektu je podpora zelenej infraštruktúry, regenerácia a revitalizácia verejných priestorov v obci Záborské. Vznikne príjemný, funkčný a bezpečný verejný priestor troch oddychových zón (Ku ihrisku, Stred, Pri parku) doplnený o prv…",
-    "…fraštruktúry, regenerácia a revitalizácia verejných priestorov v obci Záborské. Vznikne príjemný, funkčný a bezpečný verejný priestor troch oddychových zón (Ku ihrisku, Stred, Pri parku) doplnený o prvky Celková výška oprávnených výdavkov: 236 369,99 € drobnej architektúry. Ozelenenie a úprava verejných priestorov…",
-    "…jných priestorov prinesie zlepšenie environmentálnych aspektov obce, estetizáciu prostredia a zvýšenie kvality života jej obyvateľov. Výška nenávratného ﬁnančného príspevku: 217 460,39 €…"
-   ],
-   "url": "https://www.obeczaborske.sk/modules/file_storage/download.php?file=d0564d6d%7C882&inline=1",
-   "zdroj": "https://www.obeczaborske.sk/obec-2/projekty/"
-  },
-  {
-   "firmy": [],
-   "kod": "524344",
-   "kraj": "Prešovský kraj",
-   "obec": "Drienica",
-   "okres": "Sabinov",
-   "prilohy": [],
-   "projekcia": false,
-   "statut": "OBEC",
-   "sumy_eur": [],
    "temy": [
     "Zastávka"
    ],
-   "title": "NÁVRH Všeobecne záväzné nariadenie Obce Drienica č. 1/2026 o miestnom poplatku za komunálne odpady a drobné stavebné odpady",
+   "title": "Vyrocna_sprava_2022.pdf",
    "typ": [
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "… ako na podnikanie, tieto zberné miesta: a. parkovisko pri dolnej stanici sedačkovej lanovky b. parkovisko pod chatou VVS, a. s. c. konečná zástavka SAD, a. s. d. lokalita Pod Hájom e. lokalita Gacky 2. V záujme účelného hospodárenia a nakladania s komunálnymi odpadom sa určuje jedna 110 litrová nádoba na o…",
-    "… rekreačnej oblasti tieto zberné miesta: a) parkovisko pri dolnej stanici sedačkovej lanovky b) parkovisko pod chatou VVS, a. s. c) konečná zástavka SAD, a. s. d) lokalita Pod Hájom e) lokalita Gacky Článok 4 Vrátenie poplatku alebo jeho pomernej časti Podmienky na vrátenie poplatku alebo jeho pomernej čast…"
+    "…erejného vodovodu bolo vydané 19.8.2022. 7.5 Predpokladaný budúci vývoj činnosti Obec Seniakovce plánuje z vlastných zdrojov zrekonštruovať autobusové zastávky a opraviť odpad z KD. 7.6 Udalosti osobitného významu po skončení účtovného obdobia Táto výročná správa sa vyhotovuje za účtovné obdobie od 1.1.2022 do 31.12.2…"
    ],
-   "url": "https://www.ocu.drienica.sk/Z_dokumenty/Vzn/2026/navrh_VZN_1_2026_odpad.pdf",
-   "zdroj": "http://www.ocu.drienica.sk/"
+   "url": "https://seniakovce.sk/wp-content/uploads/2024/09/Vyrocna_sprava_2022.pdf",
+   "zdroj": "https://seniakovce.sk/"
   },
   {
    "firmy": [],
@@ -1764,7 +885,7 @@
    "ukazky": [
     "…aný za realizovateľný. 5. Projekt môže byť zameraný na: a) úpravy verejného priestoru, zlepšenie životného prostredia a jeho zveľadenie, b) voľnočasové aktivity zamerané na kultúrne a pohybové aktivity, záujmové a tvorivé aktivity, c) infraštruktúru, občiansku vybavenosť a aktivity na zlepšenie sociálnych väzi…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=b056eb1587586b71e2da9acfe4fbd19e&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -1789,7 +910,7 @@
    "ukazky": [
     "…kať viac informácií o svojich právach: www.sabinov.sk. Označte iba jednu elipsu. áno nie 7. HLASOVANIE: * Označte iba jednu elipsu. Jožkova lavička Virtuálne prehliadky histórie Sabinova Virtuálna galéria obrazov Teodora Csontváryho-Kostku 8. Ďakujeme za Váš hlas. Zároveň na tomto mieste môžete uviesť podn…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=218a0aefd1d1a4be65601cc6ddc1520e&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -1808,7 +929,7 @@
    "title": "jozkova-lavicka.jpg",
    "typ": [],
    "ukazky": [],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=7d04bbbe5494ae9d2f5a76aa1c00fa2f&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -1834,7 +955,7 @@
    "ukazky": [
     "…aný za realizovateľný. 5. Projekt môže byť zameraný na: a) úpravy verejného priestoru, zlepšenie životného prostredia a jeho zveľadenie, b) voľnočasové aktivity zamerané na kultúrne a pohybové aktivity, záujmové a tvorivé aktivity, c) infraštruktúru, občiansku vybavenosť a aktivity na zlepšenie sociálnych väzi…"
    ],
-   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=c2aea14c6e67c734ebc13eedde43feb5",
+   "url": "https://www.sabinov.sk/index.php?option=com_cwattachments&task=open&id=142949df56ea8ae0be8b5306971900a4&sid=d6c231cb5b97c252fa24eb82e98f237a",
    "zdroj": "https://www.sabinov.sk/obcan/participativny-rozpocet"
   },
   {
@@ -1854,7 +975,8 @@
    "typ": [
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
    ],
    "ukazky": [
     "…haľany Vyvesené: 22. 11. 2019 Dátum zvesenia: 8. 12. 2019 Rozhodnutie o zamietnutí odvolania a potvrdení stavebného povolenia „Multifunkčné ihrisko“ – zverejnenie verejnou vyhláškou Vyvesené: 15. 11. 2019 Dátum zvesenia: 1. 12. 2019 Oznámenie o začatí konania o predĺžení platnosti územného rozhodnutia na s…",
@@ -1884,6 +1006,29 @@
    "url": "https://www.belanadcirochou.sk/zverejnovanie/archiv-zmluv-faktur-a-objednavok",
    "zdroj": "https://www.belanadcirochou.sk/zverejnovanie/archiv-zmluv-faktur-a-objednavok",
    "zmena_stranky": true
+  },
+  {
+   "firmy": [],
+   "kod": "520802",
+   "kraj": "Prešovský kraj",
+   "obec": "Snina",
+   "okres": "Snina",
+   "prilohy": [],
+   "projekcia": false,
+   "statut": "MESTO",
+   "sumy_eur": [],
+   "temy": [
+    "Mobiliár"
+   ],
+   "title": "Nové Mestské zastupiteľstvo v Snine začalo svoje funkčné obdobie 19. 11. 2026 V priestoroch Sninského kaštieľa sa v utorok 17. novembra 2026 uskutočnilo ustanovujúce zasadnutie Mestského zastupiteľstva v Snine.",
+   "typ": [
+    "Pozvánka na zastupiteľstvo"
+   ],
+   "ukazky": [
+    "…pre mesto a jeho obyvateľov. Nové mestské zastupiteľstvo má 18 členov. Dvanásť poslancov svoj mandát obhájilo, šesť zasadlo do poslaneckých lavíc po prvýkrát. Zastúpenie žien sa oproti predchádzajúcemu obdobiu zvýšilo z dvoch na štyri. Novými členmi mestského zastupiteľstva sú Mária Čopová, Peter Čus, Ma…"
+   ],
+   "url": "https://www.snina.sk/udalosti/nove-mestske-zastupitelstvo-v-snine-zacalo-svoje-funkcne-obdobie-4342sk.html",
+   "zdroj": "https://www.snina.sk/"
   },
   {
    "firmy": [],
@@ -1925,6 +1070,28 @@
   },
   {
    "firmy": [],
+   "kod": "526908",
+   "kraj": "Prešovský kraj",
+   "obec": "Mníšek Nad Popradom",
+   "okres": "Stará Ľubovňa",
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko"
+   ],
+   "title": "Nový text na stránke",
+   "typ": [],
+   "ukazky": [
+    "…Jasličková pobožnosť 2024 Otvorenie multifunkcneho ihriska…"
+   ],
+   "url": "http://www.mniseknadpopradom.sk/-zmluvy",
+   "zdroj": "http://www.mniseknadpopradom.sk/-zmluvy",
+   "zmena_stranky": true
+  },
+  {
+   "firmy": [],
    "kod": "527181",
    "kraj": "Prešovský kraj",
    "obec": "Bukovce",
@@ -1939,59 +1106,253 @@
    "title": "Nový text na stránke",
    "typ": [],
    "ukazky": [
-    "…Fico - Otváranie multifunkčného ihriska…"
+    "…Cyrilometodejský trojramenný gréckokatolícky kríž Fico - Otváranie multifunkčného ihriska…"
    ],
-   "url": "https://www.obecbukovce.sk/uradna-tabula",
-   "zdroj": "https://www.obecbukovce.sk/uradna-tabula",
+   "url": "https://www.obecbukovce.sk/archiv-faktur",
+   "zdroj": "https://www.obecbukovce.sk/archiv-faktur",
    "zmena_stranky": true
   },
   {
    "firmy": [],
-   "kod": "527998",
+   "kod": "527823",
    "kraj": "Prešovský kraj",
-   "obec": "Vislava",
+   "obec": "Staškovce",
+   "okres": "Stropkov",
+   "prilohy": [],
+   "projekcia": true,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Pozvánka na OZ 31.03.2025 | 0.06 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…ckého certifikátu. 6 / Informácia o zakúpení motorového vozidla pre potreby obce. 7 / Informácia o podaní žiadosti na projekt „Modernizácia detského ihriska pri MŠ Staškovce“. 8 / Informácia o možnosti zapojenia do výzvy „Podpora najmenej rozvinutých okresov“. 9 / Informácia o uzatvorení zmluvy o poskytovaní služie…"
+   ],
+   "url": "https://www.staskovce.sk/files/2026-11-21-220932-Pozv__nka_na_OZ_31.03.2025.pdf",
+   "zdroj": "https://www.staskovce.sk/dokumenty"
+  },
+  {
+   "firmy": [],
+   "kod": "527823",
+   "kraj": "Prešovský kraj",
+   "obec": "Staškovce",
    "okres": "Stropkov",
    "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
    "sumy_eur": [],
    "temy": [
-    "Park / oddych"
+    "Dotácia / výzva"
    ],
-   "title": "Stiahnuť súbor Navrh VZN 1-2026 Vislava Veľkosť a typ súboru 336 KB / PDF",
+   "title": "Zápisnica zo zasadnutia OZ Staškovce 22.12.2025 | 0.07 Mb",
    "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "ukazky": [
-    "…na území obce Vislava. /2/ Obec Vislava na svojom území ukladá tieto miestne dane : a/ daň z nehnuteľností b/ daň za psa c/ daň za užívanie verejného priestranstva d/daň za predajné automaty e/daň za nevýherné hracie prístroje. /3/ Obec Vislava na svojom území ukladá miestny poplatok za komunálne odpady a drobné stavebné …",
-    "… obdobia. /8/ Spôsoby vyberania dane : a/ v hotovosti do pokladne obecného úradu alebo priamo v banke na účet obce článok 8 Daň za užívanie verejného priestranstva /1/ Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Vislava , ktorými sa rozumejú nasledovné miesta : a/ všetky …"
+    "… aké benefity a výhody z tohto členstva plynú pre obec, najmä pokiaľ ide o možnosť zapájať sa do výziev určených pre rozvoj vidieka, čerpať nenávratné finančné príspevky na menšie obecné projekty, infraštruktúru a podporu komunitného života v regióne. • Hlasovanie: Za: 5, Proti: 0, Zdržali sa: 0. Vstup obce do MAS Laborec bol j…"
    ],
-   "url": "https://obecvislava.sk/wp-content/uploads/dokumenty/navrhy-vzn/navrh-vzn-1-2026-vislava-iliyp1.pdf",
-   "zdroj": "https://obecvislava.sk/dokumenty/obecne-zastupitelstvo/navrhy-vzn/"
+   "url": "https://www.staskovce.sk/files/2026-11-21-230206-Z__pisnica_z_OZ_d__a_22.12.2025.pdf",
+   "zdroj": "https://www.staskovce.sk/dokumenty"
   },
   {
    "firmy": [],
-   "kod": "527866",
+   "kod": "527823",
    "kraj": "Prešovský kraj",
-   "obec": "Šandal",
+   "obec": "Staškovce",
+   "okres": "Stropkov",
+   "prilohy": [],
+   "projekcia": true,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko"
+   ],
+   "title": "Zápisnica zo zasadnutia OZ Staškovce 31.03.2025 | 0.07 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer",
+    "Objednávka PD / štúdie"
+   ],
+   "ukazky": [
+    "…zabezpečovanie prevádzkových činností obce. Poslanci vzali informáciu na vedomie. 7 / Informácia o podaní žiadosti na projekt „Modernizácia detského ihriska pri MŠ Staškovce“ Starosta obce informoval, že bola podaná žiadosť v rámci výzvy Ministerstva financií Slovenskej republiky na projekt „Modernizácia detského i…",
+    "…aškovce“ Starosta obce informoval, že bola podaná žiadosť v rámci výzvy Ministerstva financií Slovenskej republiky na projekt „Modernizácia detského ihriska pri MŠ Staškovce“. Projekt je zameraný na modernizáciu detského ihriska pri materskej škole. Obecné zastupiteľstvo vzalo informáciu na vedomie. 8 / Informácia …"
+   ],
+   "url": "https://www.staskovce.sk/files/2026-11-21-221528-Z__pisnica_z_OZ_d__a_31.03.2025.pdf",
+   "zdroj": "https://www.staskovce.sk/dokumenty"
+  },
+  {
+   "firmy": [],
+   "kod": "527823",
+   "kraj": "Prešovský kraj",
+   "obec": "Staškovce",
    "okres": "Stropkov",
    "prilohy": [],
    "projekcia": false,
    "statut": "OBEC",
-   "sumy_eur": [
-    8315.26
-   ],
+   "sumy_eur": [],
    "temy": [
     "Dotácia / výzva"
    ],
-   "title": "FD102026",
-   "typ": [],
-   "ukazky": [
-    "…, a.s. 31.10.26 15.10.26 02.10.26 59,20 FP- Plyn 2026022 / F 143 Maiana Consulting s.r.o. 06.10.26 13.10.26 06.10.26 300,- FP- vypracovanie žiadosti o dotáciu 8396083080 / F 144 SLOVAK TELEKOM, a.s. 07.10.26 23.10.26 16.10.26 35,06 FP- Telekomunikačné služby 260010 / F 145 JL Real Invest s.r.o. 06.10.26 20.10.26 16.1…",
-    "….10.26 23.10.26 16.10.26 35,06 FP- Telekomunikačné služby 260010 / F 145 JL Real Invest s.r.o. 06.10.26 20.10.26 16.10.26 120,- FP- vyprac. žiadosti o dotáciu 2681000255 / F 146 Jaroslav Saloň - SALY 13.10.26 27.10.26 16.10.26 38,90 FP- Všeobecný materiál do spotreby 2600747 / F 147 Obchod - SVK, s.r.o. 15.10.26 29.1…"
+   "title": "Zápisnica zo zasadnutia OZ Staškovce 16.04.2024 | 0.03 Mb",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
    ],
-   "url": "https://sandal.sk/wp-content/uploads/2026/11/FD102026.pdf",
-   "zdroj": "https://sandal.sk/zverejnovanie/"
+   "ukazky": [
+    "…nke náročná, a preto predložil poslancom na schválenie možnosť čerpania úveru v Prima banka Slovensko, a. s. na zabezpečenie financovania a spolufinancovania projektu. Hlasovanie: Za: 5, Proti: 0, Zdržali sa: 0. Možnosť čerpania úveru v Prima banka Slovensko, a. s. bola schválená. 7 / Prerokovanie kultúrno-spoločens…"
+   ],
+   "url": "https://www.staskovce.sk/files/2026-11-21-194804-Zapisnica_z_OZ_d__a_16.04.2024.pdf",
+   "zdroj": "https://www.staskovce.sk/dokumenty"
+  },
+  {
+   "firmy": [],
+   "kod": "528901",
+   "kraj": "Prešovský kraj",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "prilohy": [
+    "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah627_1.pdf&original=Z%C3%A1pisnica%20z%20ustanovuj%C3%BAceho%20zasadnutia.pdf"
+   ],
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Športovisko"
+   ],
+   "title": "Zápisnica z ustanovujúceho zasadnutia OZ konaného dňa 13.11.2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…u práce je príprava a realizácia športových podujatí organizovaných obcou, príprava plánu týchto podujatí na každý rok, sledovanie využitia športovísk a zapájanie sa mládeže. Hlasovanie: Za: 7, Proti: 0, Zdržal sa: 0 Komisia pre životné prostredie, poriadok v obci a sťažnosti občanov Predseda komisie: Radosla…"
+   ],
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/zapisnica-z-ustanovujuceho-zasadnutia-oz-konaneho-dna-13112026-12925.html?kshow=26",
+   "zdroj": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/"
+  },
+  {
+   "firmy": [],
+   "kod": "528901",
+   "kraj": "Prešovský kraj",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "prilohy": [
+    "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah625_1.pdf&original=Uznesenia%20z%20ustanovuj%C3%BAceho%20zasadnutia%20OZ.pdf"
+   ],
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Športovisko"
+   ],
+   "title": "Uznesenia z ustanovujúceho zasadnutia OZ zo dňa 13.11.2026",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…ň práce, a to príprava a realizácia športových podujatí organizovaných obcou, príprava plánu týchto podujatí na každý rok, sleduje využitie športovísk a zapojenie mládeže C. v o l í a) predsedu komisie: Pavol Žultko b) členov komisie: Mgr. Adam Jonek, Bc. Marcel Jakubo, Milan Gaži, Anton Pelecháč Za: 7 Proti:…"
+   ],
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/uznesenia-z-ustanovujuceho-zasadnutia-oz-zo-dna-13112026-12923.html?kshow=26",
+   "zdroj": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/"
+  },
+  {
+   "firmy": [],
+   "kod": "528901",
+   "kraj": "Prešovský kraj",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "prilohy": [
+    "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah627_1.pdf&original=Z%C3%A1pisnica%20z%20ustanovuj%C3%BAceho%20zasadnutia.pdf"
+   ],
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Športovisko"
+   ],
+   "title": "20. 11. 2026 Zápisnica z ustanovujúceho zasadnutia OZ konaného dňa 13.11.2026 Uznesenia a zápisnice",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…u práce je príprava a realizácia športových podujatí organizovaných obcou, príprava plánu týchto podujatí na každý rok, sledovanie využitia športovísk a zapájanie sa mládeže. Hlasovanie: Za: 7, Proti: 0, Zdržal sa: 0 Komisia pre životné prostredie, poriadok v obci a sťažnosti občanov Predseda komisie: Radosla…"
+   ],
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/zapisnica-z-ustanovujuceho-zasadnutia-oz-konaneho-dna-13112026-12925.html",
+   "zdroj": "https://www.niznyhrabovec.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "528901",
+   "kraj": "Prešovský kraj",
+   "obec": "Nižný Hrabovec",
+   "okres": "Vranov nad Topľou",
+   "prilohy": [
+    "https://www.niznyhrabovec.sk/e_download.php?file=/data/uredni_deska/obsah625_1.pdf&original=Uznesenia%20z%20ustanovuj%C3%BAceho%20zasadnutia%20OZ.pdf"
+   ],
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Športovisko"
+   ],
+   "title": "19. 11. 2026 Uznesenia z ustanovujúceho zasadnutia OZ zo dňa 13.11.2026 Uznesenia a zápisnice",
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "ukazky": [
+    "…ň práce, a to príprava a realizácia športových podujatí organizovaných obcou, príprava plánu týchto podujatí na každý rok, sleduje využitie športovísk a zapojenie mládeže C. v o l í a) predsedu komisie: Pavol Žultko b) členov komisie: Mgr. Adam Jonek, Bc. Marcel Jakubo, Milan Gaži, Anton Pelecháč Za: 7 Proti:…"
+   ],
+   "url": "https://www.niznyhrabovec.sk/obecny-urad/uznesenia-a-zapisnice/uznesenia-z-ustanovujuceho-zasadnutia-oz-zo-dna-13112026-12923.html",
+   "zdroj": "https://www.niznyhrabovec.sk/"
+  },
+  {
+   "firmy": [],
+   "kod": "529001",
+   "kraj": "Prešovský kraj",
+   "obec": "Poša",
+   "okres": "Vranov nad Topľou",
+   "prilohy": [],
+   "projekcia": false,
+   "statut": "OBEC",
+   "sumy_eur": [],
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko"
+   ],
+   "title": "23. 11. 2026 Výberové konanie na pozíciu člena Miestnej občianskej a podpornej služby Výberové konanie Výberové konanie na pozíciu člena Miestnej občianskej a podpornej služby",
+   "typ": [
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
+   ],
+   "ukazky": [
+    "…a oprava výtlkov, odhŕňanie snehu a posyp ciest a chodníkov -správa obecných objektov: údržba a prevádzka obecných budov, športovísk, detských ihrísk, fontán a kultúrnych zariadení -cintorínske služby: správa a údržba areálov cintorínov, domov smútku a vedenie evidencie hrobových miest. -udržiavanie všeobecnej čis…",
+    "…mi: • kontroluje pohyb a miesta stretávania sa maloletých detí a mládeže vo večerných hodinách bez prítomnosti rodičov (napr. cintorín, športoviská,…); • v spolupráci s PZ SR alebo obecnou políciou asistuje pri výkone kontroly maloletých osôb do 15 rokov a mladistvých osôb do 18 rokov, ktoré sa zdržiavajú bez …",
+    "…e chodníkov a oprava výtlkov, odhŕňanie snehu a posyp ciest a chodníkov -správa obecných objektov: údržba a prevádzka obecných budov, športovísk, detských ihrísk, fontán a kultúrnych zariadení -cintorínske služby: správa a údržba areálov cintorínov, domov smútku a vedenie evidencie hrobových miest. -udržiavan…"
+   ],
+   "url": "https://www.posa.sk/modules/file_storage/download.php?file=3dd0e11f%7C296",
+   "zdroj": "https://www.posa.sk/"
   }
  ],
  "nedostupne": [
@@ -2021,6 +1382,7 @@
   "Kečkovce (Svidník): bez webu",
   "Korytné (Levoča): bez webu",
   "Košice - Džungľa (Košice): bez webu",
+  "Košický samosprávny kraj (Košice): web nedostupný: HTTPError",
   "Kožuchov (Trebišov): bez webu",
   "Kožuchovce (Stropkov): bez webu",
   "Krajné Čierno (Svidník): bez webu",
@@ -2087,10 +1449,10 @@
   "Šarbov (Svidník): bez webu",
   "Šmigovec (Snina): bez webu"
  ],
- "obci_nedostupnych": 91,
- "obci_prvy_beh": 0,
- "obci_skontrolovanych": 1035,
- "obci_spolu": 1126,
- "trvanie_s": 4670,
- "vygenerovane": "2026-11-21T12:22:32"
+ "obci_nedostupnych": 92,
+ "obci_prvy_beh": 1,
+ "obci_skontrolovanych": 1036,
+ "obci_spolu": 1128,
+ "trvanie_s": 3740,
+ "vygenerovane": "2026-11-23T08:57:40"
 }

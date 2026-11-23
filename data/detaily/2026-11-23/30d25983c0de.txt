@@ -1,0 +1,372 @@
+URL: https://cuet.slovensko.sk/en/dokument/d138ab04-1e23-4c8d-a84e-176988c0238a
+OBEC: Sokoľ (Košice)
+NÁZOV: Návrh rozpočtu obce Sokoľ na rok 2027 s výhľadom na roky 2028, 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/d138ab04-1e23-4c8d-a84e-176988c0238a
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu obce Sokoľ na rok 2027 s výhľadom na roky 2028, 2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Sokoľ
+Published from:
+22.11.2026
+Registry symbol:
+Documents author:
+Obec Sokoľ
+Published to:
+06.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu obce Sokoľ na rok 2027 s výhľadom na roky 2028, 2029
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+1._final_navrh_rozpocet_na_rok__2026__s_vyhladom_na_rok_2027_a_2028.pdf
+Type and size:
+.pdf, 645.37 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/d47f0f49-058a-4c70-bf64-bb9e4737ceeb
+Obec Sokoľ
+04431, Sokoľ, Sokoľ
+                                    Návrh rozpočtu na rok 2027 a roky 2028, 2029 v eurách na dve desatinné miesta
+
+                                       kapitalové prijmy, výdaje
+                                       finančné prijmy
+FNC     Ek.klas   Zdroj   Názov                                                                              čerpanie 3/4 rok
+                                                                                          rok 2026                                rok 2027            rok 2028             rok 2029
+                                                                                                                  2026
+
+ Príjmy
+        111003    41      Výnos dane z príjmov poukázaný územnej                            429 548,00            334 079,09        429 548,00           429 548,00           429 548,00
+                          samospráve
+
+        121001    41      Daň z pozemkov                                                      13 530,00            10 285,47         13 530,00             13 530,00            13 530,00
+        121002, 03 41     Daň zo stavieb, byty                                                21 450,00            21 769,09         21 450,00             21 450,00            21 450,00
+        133001    41      Daň za psa                                                           1 100,00             1 237,65          1 100,00              1 100,00             1 100,00
+        133006    41      Daň za ubytovanie                                                       30,00                 0,00              0,00                  0,00                 0,00
+        133012    41      Daň za užívanie verejného priestranstva                                 50,00                 0,00              0,00                  0,00                 0,00
+        133013    41      Daň za komunálne odpady a drobné                                    63 440,00            55 821,70         79 300,00             79 300,00            79 300,00
+                          stavebné odpady
+        212003    41      Príjmy z prenajatých budov, priestorov a                            40 000,00            54 838,48         40 000,00             40 000,00            40 000,00
+                          objektov- nájomné byty, fond opráv
+        221004    41      Ostatné administratívne poplatky, stav.,                             2 000,00             5 160,50          2 000,00              2 000,00             2 000,00
+                          rybárske listky
+        223001    111     Poplatky a platby za predaj výrobkov,                                      50,00              0,00             50,00                   50,00                50,00
+                          tovarov a služieb,recyklačný fond
+
+        223001    41      Poplatky a platby za predaj výrobkov,                                1 500,00             4 778,08          1 500,00              1 500,00             1 500,00
+                          tovarov a služieb rozhlas,KD, cintorinsky
+
+        223002    41      Poplatky za školy a školské zariadenia                               3 500,00             3 260,00          3 000,00              3 000,00             3 000,00
+
+
+        223003    41      Poplatky a platby za stravné                                         5 000,00             6 629,85          5 000,00              5 000,00             5 000,00
+        233001    43      Príjem z predaja pozemkov                                            1 000,00             2 380,00          1 000,00              1 000,00             1 000,00
+        243       41      Úroky z tuzemských účtov finančného                                     50,00                10,96             10,00                 10,00                10,00
+                          hospodárenia
+        292006    41      príjmy z náhrad z poistného                                             0,00                  0,00              0,00                 0,00                 0,00
+        292017    41      prijmy, vrátky                                                          0,00              1 635,23              0,00                 0,00                 0,00
+        292027    41      prijmy iné                                                              0,00                315,00              0,00                 0,00                 0,00
+        311               Tuzemské bežné granty                                                   0,00                  0,00              0,00                 0,00                 0,00
+        312001    111     Tuzem. bežné transfery v rámci VS zo ŠR okrem                     168 697,00            111 122,26        110 000,00           110 000,00           110 000,00
+                          prenesené -voľby, MŠ, strava, zaškolactvo,
+                          UPSVAR, dotácie KSK, odidenci, rod. pridavky
+        312001    11T1    Tuzemské bežné transfery v rámci VS zo ŠR                            1 000,00                 0,00            500,00               500,00               500,00
+                          okrem preneseného - dotácie §54,§52,
+                          UPSVAR
+        312012    111     Tuzem. bežné transfery v rámci VS zo ŠR na                           3 300,00             3 476,15          3 000,00              3 000,00             3 000,00
+                          úhradu nákladov ZŚ,reg., Pož.. ochr.,
+                          sponzorské, MŠ
+
+        322001    111     Tuzemské kapitalové transféry v rámci VS zo štátneho              140 000,00            228 441,74        180 000,00                    0,00                 0,00
+                          rozpočtu- / kanalizácia Environmentálny fond , MIRRI, MAS-
+                          technika, MFSR- kuchyňa KD, KSK-Hrad, fotovoltikaVSE-
+                          2025/, MCRŠSR- šatňa Ihrisko- 2026, 2027 rekonstrukcia
+                          OÚ pravý trakt-2027
+
+
+
+
+        514002            Úver environmentálny fond spoluúčasť kanalizácia                  350 000,00            287 923,65                 0,00                 0,00                 0,00
+
+        453               Prostriedky z predchádzajúcich rokov                             3 115 000,00         3 000 000,00        100 000,00           100 000,00           100 000,00
+        454001    46      Prevod prostried. z rezerv. fondu obce a z                         180 000,00                 0,00        100 000,00            70 000,00            70 000,00
+                          rezervného fondu na kapitalové výdavky
+
+                                       spolu príjem                                    4 540 245,00 4 133 164,90 1 090 988,00                       880 988,00           880 988,00
+                                       z toho kapitalový príjem                        491 000,00 518 745,39 181 000,00                              1 000,00             1 000,00
+                                       z toho finančný príjem                          3 295 000,00 3 000 000,00                200 000,00          170 000,00           170 000,00
+                                       z toho bežny príjem                             754 245,00              614 419,51       709 988,00          709 988,00           709 988,00
+ Výdaje                                                               rok 2026        3/4 rok 2026    rok 2027        rok 2028         rok 2029
+
+                                 0111 správa obce
+
+0111   611       41   Tarifný plat,osobný                                170 000,00      119 521,50      180 000,00       180 000,00      180 000,00
+                      plat,zákl.plat,funk.plat...vrátane ich
+0111   621-627   41   Poistné do Všeobecnej zdravotnej poisťovne -        58 000,00       41 171,65       65 000,00        65 000,00       65 000,00
+                      spolu
+0111   631001 41      Cestovné náhrady - tuzemské                          1 000,00            0,00        1 000,00         1 000,00        1 000,00
+0111   632006,07 41   Energie                                             18 000,00        7 228,67       15 000,00        15 000,00       15 000,00
+0111   632002    41   Vodné, stočné                                          800,00          120,15          800,00           800,00          800,00
+0111   632003    41   Poštové služby- tel.,mobil,                          3 145,00        2 237,54        3 375,00         3 375,00        3 375,00
+                      inernet,koncesionárske poplatky
+0111   633001    41   Interiérové vybavenie                                1 000,00        3 825,30        1 000,00         1 000,00        1 000,00
+0111   633002    41   Výpočtová technika                                   1 000,00            0,00        1 000,00         1 000,00        1 000,00
+0111   633003    41   Telekomunikačná technika                               350,00            0,00          350,00           350,00          350,00
+0111   633004    41   prevádzkové stroje a prístroje                       2 000,00        1 001,96        2 000,00         2 000,00        2 000,00
+0111   633006    41   Všeobecný materiál                                  10 000,00       10 150,29       10 000,00        10 000,00       10 000,00
+0111   633009    41   Knihy,časopisy,noviny,učebnice,učebné a                200,00          147,18          200,00           200,00          200,00
+                      kompenzačné pomôcky
+0111   633010    41   pracovné odevy, obuv, pomôcky                          800,00          113,70          800,00           800,00          800,00
+111    633015         paliva ako zdroj energie                                 0,00            0,00            0,00             0,00            0,00
+0111   633016    41   Reprezentačné                                        1 500,00          875,41        1 500,00         1 500,00        1 500,00
+0111   634001    41   Palivo, mazivá, oleje, špeciálne kvapaliny           2 000,00          740,86        2 000,00         2 000,00        2 000,00
+
+0111   634002    41   Servis, údržba, opravy a výdavky s tým               1 000,00          252,00        1 000,00         1 000,00        1 000,00
+                      spojené - MV
+
+0111   634003    41   Poistenie                                            4 000,00        2 768,26        4 000,00         4 000,00        4 000,00
+0111   634004    41   Prepravné nájom dopravných prostriedkov              1 000,00          430,50        1 000,00         1 000,00        1 000,00
+0111   634005    41   Karty, známky, poplatky- Mikroregion, topset,        5 000,00          511,57        5 000,00         5 000,00        5 000,00
+                      SOZA,RVC, Ives
+0111   635002    41   Rutinná a štandardná údržba výpočtovej                200,00             0,00         200,00           200,00          200,00
+                      techniky
+0111   635004    41   Rutinná a štandardná údržba prevádzkových            2 000,00          943,93        2 000,00         2 000,00        2 000,00
+                      strojov a zariadení
+0111   635006    41   Rutinná a štandardná údržba budov,                   1 500,00            0,00        1 500,00         1 500,00        1 500,00
+                      objektov alebo ich častí
+0111   635009    41   Rutinná a štandardná údržba softvéru                  100,00            68,88         100,00           100,00          100,00
+
+0111   636001    41   Nájomne za nájom budov, objektov alebo ich           2 000,00       17 252,58       17 300,00        17 300,00       17 300,00
+                      častí- SPF, urbariát
+0111   637001    41   Školenia,kurzy,semináre,porady,konferencie,          1 000,00          148,00        1 000,00         1 000,00        1 000,00
+                      sympóziá
+0111   637003    41   Propagácia, reklama a inzercia                         100,00            0,00          100,00           100,00          100,00
+0111   637004    41   Všeobecné služby- zriadenie kanal. Pripojok,        60 000,00       28 974,43       60 000,00        60 000,00       60 000,00
+                      prekladka plynu
+0111   637005    41   Špeciálne služby-právne, geom zamer.                 5 000,00        3 756,38        5 000,00         5 000,00        5 000,00
+0111   637011    41   Štúdie, expertízy, posudky                           2 000,00          953,22        2 000,00         2 000,00        2 000,00
+0111   637012    41   Poplatky a odvody, zriadenie vecných                 2 400,00        1 841,98        8 000,00         8 000,00        8 000,00
+                      bremien- kanalizácia
+0111   637014    41   Stravovanie                                         15 000,00       14 375,01       17 000,00        17 000,00       17 000,00
+0111   637015    41   Poistné                                                700,00            0,00          700,00           700,00          700,00
+0111   637016    41   Prídel do sociálneho fondu                             700,00            0,00          700,00           700,00          700,00
+0111   637018    41   vrátenie prijmov z minulých rokov                        0,00          777,00            0,00             0,00            0,00
+0111   637026    41   Odm. a prísp.- poslanci, zast.starostu              10 000,00          283,50       10 000,00        10 000,00       10 000,00
+0111   637027    41   Odmeny pracovníkov mimopracovného                    5 000,00            0,00        5 000,00         5 000,00        5 000,00
+                      pomeru- dohody
+0111   641009    41   Transfery v rámci VS obci okrem transferu            7 000,00        4 102,05        8 000,00         8 000,00        8 000,00
+                      na úhradu nákladov -prenesený výkon VS -
+                      spoločný obecný úrad
+                                        Transfery v rámci VS obci okrem transferu
+                                        na úhradu nákladov -prenesený výkon VS -
+                                        spoločný obecný úrad
+                                        Transfery občianskému združeniu, nadácií a neinvestičnému fondu,cirkvi
+0111           642001-07 41                                                                                               600,00        3 430,50    2 500,00    2 500,00    2 500,00
+0111           642009          41       Transf. nefinančnej právn. osobe CVČ                                             2 400,00         824,40    2 400,00    2 400,00    2 400,00
+111            642014                   Transf. Jednotlivcovi 11 UA- dotácia ubyt.                                           0,00       1 215,00        0,00        0,00        0,00
+0111           653002          41       Provízie                                                                             0,00           0,00        0,00        0,00        0,00
+0111           711001          41       Nákup a prenajom pozemkov                                                       30 000,00           0,00   10 000,00        0,00        0,00
+0111           717001          43       Výstavba kanalizácie a ČOV                                                   3 415 000,00   1 775 428,62        0,00        0,00        0,00
+0111           713             41       Nákup- rozhl. Ustr. ,tepel. čerp, bat ulož                                          0,00      14 277,90         0,00        0,00        0,00
+0111           716             43       Prípravná a projektová dokumentácia- kanal.                                    10 000,00           0,00    10 000,00        0,00        0,00
+0111           717002          43       Rekonštrukcia modernizácia OÚ- pravý trakt                                          0,00      33 848,29    45 000,00        0,00        0,00
+
+
+0170 na 0111 651004na 821005
+                               41       Splácanie úrokov v tuzemsku ostatnému                                            7 900,00           0,00   10 000,00   10 000,00   10 000,00
+                                        veriteľovi- byty, kanalizácia a ČOV
+0170 na 0111
+               821007          41       Splácanie tuzemskej istiny z ostatných                                         42 600,00      18 698,04    42 600,00   42 600,00   42 600,00
+                                        úverov dlhodobých- byty, kanalizácia
+                                                   0160 Všeobecné verejné služby
+0160                                    Voľby- poštové sl., všeob. mat., reprezent.                                      1 000,00       1 818,66    1 000,00    1 000,00    1 000,00
+                                                      0320 požiarna ochrana
+0320           63              111      Všeobecný materiál - požiarna ochrana                                              600,00       2 138,83    3 000,00    3 000,00    3 000,00
+0320           63              41       Všeobecný materiál - požiarna ochrana                                            2 400,00         962,31        0,00        0,00        0,00
+0320           637001          41       školenie, kurzy, semináre                                                          200,00         180,00      200,00      200,00      200,00
+                                               0412 všeobecná pracovná oblasť
+0412           6...            41,111   tarifný plat - všeobecná pracovná oblasť-MOPS                                  67 000,00      24 755,44         0,00        0,00        0,00
+                                                         0451 cestná doprava
+0451           633006          41       Všeobecný materiál- posyp,- zásyp oprava                                         4 000,00           0,00    4 000,00    4 000,00    4 000,00
+                                        chodníkov kanalizácia
+0451           635006          41       Rut. a štand. údržba budov a objektov alebo                                    15 000,00         229,30    15 000,00   15 000,00   15 000,00
+                                        ich častí- cesty, chodníky- real.kanal. Rigoly
+
+0451           637004          41       Všeob. služ- oprava ciest, rigolov,zimna                                       20 000,00            0,00   10 000,00   10 000,00   10 000,00
+                                        údržba, rekonštrukcia. priepustov Sokolia,
+                                        OÚ, Kamenná, oprava ciest, chodníkov-
+                                        kanálizácia
+
+0451           637005          41       Špeciálne služby- označenie ulíc, DZ                                              500,00            0,00     500,00      500,00      500,00
+0451           717002          41       Rekonštrukcia a modernizácia, priepusty ul.                                    15 000,00            0,00       0,00        0,00        0,00
+                                        Sokolia, OU
+                                                         0510 Nakladanie s odpadmi
+0510           633006          41       Všeob. materiál- kuka, kompost., zeleň                                           2 000,00       6 878,72    2 000,00    2 000,00    2 000,00
+510            633004          111      Nákup komunálnej techniky-                                                       1 000,00           0,00    1 000,00    1 000,00    1 000,00
+                                        krovinorezy,kosačka
+0510           633015          41       Palivá ako zdroj energie- kosenie                                                1 000,00       1 051,68    2 500,00    1 500,00    1 500,00
+                                        Doprava-náklady na prevádzku, servis, údržbu a všetky druhy opráv vozidiel
+0510           634             41                                                                                        2 440,00       1 772,70    2 440,00    2 440,00    2 440,00
+0510           635004          41       Rutinná a štandardná údržba- kosačky                                            2 000,00           0,00     3 000,00    1 000,00    1 000,00
+510            637004          41       Všeobecné služby- odvoz odpadu                                                 56 000,00      41 215,98    68 360,00   68 360,00   68 360,00
+
+
+
+
+                                                         0520 nakladanie s odpad. vodami
+
+
+520            63                       náklady na prevádzku kanalizácie a ČOV                                                                      2000,00     2000,00     2000,00
+
+520            632                      elektrina prečerp stanica kanalizácia                                                             40,87      500,00      500,00      500,00
+                                                         0610 Rozvoj bývania
+
+0610           612002          41       Ostatné príplatky okrem osobných príplatkov                                       500,00            0,00     300,00      300,00      300,00
+
+
+0610           632006,-7 41             Energie                                                                        15 000,00      10 592,50    15 000,00   15 000,00   15 000,00
+0610           632002          41       Vodné, stočné                                                                    3 500,00       2 063,52    3 500,00    3 500,00    3 500,00
+0610           632003          41       Poštové služby                                                                      20,00           0,00       20,00       20,00       20,00
+0610           633006          41       Všeobecný materiál                                                               1 000,00         997,62    1 000,00    1 000,00    1 000,00
+0610           635006          41       Rutinná a štandardná údržba budov,                                               2 000,00           0,00    2 000,00    2 000,00    2 000,00
+                                        objektov alebo ich častí
+0610           637037                   vrátky                                                                           5000,00        4828,91     3000,00     3000,00     3000,00
+0610           637004          41       Všeobecné služby                                                                 8 000,00       7 871,66   10 000,00   10 000,00   10 000,00
+620            633015          41       Rozvoj obci -paliva ako zdroj energie                                                0,00           0,00        0,00        0,00        0,00
+                                         0640 verejné osvetlenie
+
+0640    632006    41       Energie                                                        5 000,00     632,00     2 500,00    2 500,00    2 500,00
+0640    635006    41       Rutinná a štandardná údržba budov,                                             0,00
+640     633006             Všeobecný materiál                                             1 000,00        0,00      500,00     500,00      500,00
+0640    637004    41       Všeobecné služby                                               4 000,00     745,84     2 500,00    2 500,00    2 500,00
+
+
+                                         0810 šport
+0810    632006    41       energie-zvonica                                                  350,00      89,00       350,00     350,00      350,00
+0810    633006    41       Všeobecný materiál                                             1 000,00      25,15     1 000,00    1 000,00    1 000,00
+0810    635006    41       Ruti. a štand. údržba budov, objektov alebo                      500,00       0,00       500,00      500,00      500,00
+                           ich častí -šatňa, malé ihrisko
+0810    637002    41       Konkurzy, súťaže- futbalový turnaj                               500,00        0,00      500,00      500,00      500,00
+0810    642001    41       Transfery občianskemu združeniu, nadácii a                    14 000,00    8 600,00   14 000,00   11 000,00   11 000,00
+                           neinvestičnému fondu- ŠK Sokoľ, JDS
+0810    717002,            Rekonštrukcia futbalovej šatne, nákup                         140000,00        0,00   140000,00        0,00        0,00
+        717001             zariadenia, vybavenia
+
+                                         0820 Kultúrny dom- kultúra
+0820    632006,-7 41       Energie                                                        1 000,00        0,00    1 000,00    1 000,00    1 000,00
+0820    632002    41       Vodné, stočné                                                    200,00        0,00      200,00      200,00      200,00
+0820    633004    41       Prevádzkové stroje, prístroje, zariadenie, technika a          4 000,00        0,00    2 000,00    2 000,00    2 000,00
+        633015             náradie,                                                         400,00        0,00      400,00      400,00      400,00
+0820    633006    41       Všeobecný materiál                                             2 000,00        9,45    2 000,00    2 000,00    2 000,00
+820     633010    41       Pracovné odevy, obuv a pracovné pomôcky                          300,00        0,00      300,00      300,00      300,00
+0820    633011    41       potraviny                                                      1 000,00        0,00    1 000,00    1 000,00    1 000,00
+0820    633016    41       reprezentačné- voda, sladkosti, súťaže                           500,00        0,00      500,00      500,00      500,00
+0820    634004    41       Preprava a nájom dopravných prostriedkov                       1 000,00        0,00    1 000,00    1 000,00    1 000,00
+
+0820    635001    41       Rutinná a štandardná údržba interiérového                      1 000,00        0,00    1 000,00    1 000,00    1 000,00
+                           vybavenia
+
+0820    635006    41       Rutinná a štandardná údržba budov,                             1 000,00        0,00    1 000,00    1 000,00    1 000,00
+                           objektov alebo ich častí
+0820    637002    41, 72c Konkurzy a súťaže-klub dôchodcov,                               5 500,00     417,25     5 500,00    5 500,00    5 500,00
+                          vystúpenia Sokoli, kultúrne podujatia
+
+0820    637004    41       Všeobecné služby                                               5 000,00        0,00    5 000,00    5 000,00    5 000,00
+
+820     717002    41,111   Rekonštrukcia kuchyňa KD                                      40 000,00        0,00        0,00        0,00        0,00
+
+
+                                         0830 vysielacie služby
+0830    635006    41       Rutinná a štandardná údržba budov, objektov alebo ich častí    3 000,00        0,00    1 500,00    1 500,00    1 500,00
+0830    637004    41       Všeobecné služby-poplatky aut. Zväzom                            300,00        0,00       70,00       70,00       70,00
+
+
+                                         0840 dom smútku, cintorín
+0840    632006    41       Energie                                                        2 000,00    1 853,44    2 300,00    2 300,00    2 300,00
+0840    632002    41       vodné, stočné                                                     50,00      13,68        50,00       50,00       50,00
+0840    633006    41       Všeobecný materiál                                             1 000,00       0,00     1 000,00    1 000,00    1 000,00
+0840    635006    41       Rut. a štand. Údrž. budov, objektov                            1 000,00       0,00     1 000,00    1 000,00    1 000,00
+0840    637004    41       Všeobecné služby                                                 300,00     121,44       300,00      300,00      300,00
+0840    637027    41       Odm. pracovníkov mimoprac. pomeru                                800,00       0,00       800,00      800,00      800,00
+840     717001    41       Nákup pozemku cintorín                                         1 000,00       0,00     1 000,00    1 000,00    1 000,00
+                                         09111 materská škola
+09111   611       41       Tarifný plat,osobný plat,zákl.plat,funk.plat..                83 000,00   66 477,93   95 000,00   95 000,00   95 000,00
+
+
+09111   621       41       Poistné do Všeobecnej zdravotnej poisťovne                    31 000,00   24 474,40   36 000,00   36 000,00   36 000,00
+
+
+09111   632006,-7 41       Energie                                                       10 000,00    3 533,31   10 000,00   10 000,00   10 000,00
+09111   632002    41       Vodné, stočné                                                    500,00     233,60       500,00      500,00      500,00
+09111   632003    111      Poštové služby, telefon, internet                                500,00     435,81       700,00      700,00      700,00
+09111   633001    41       Interiérové vybavenie                                          2 000,00       0,00     1 000,00    1 000,00    1 000,00
+9111    633002    41       Vypočtová technika                                                 0,00       0,00         0,00        0,00        0,00
+09111   633006    41       Všeobecný materiál                                             1 000,00     275,64     1 000,00    1 000,00    1 000,00
+09111   633009    111      Knihy,časopisy,noviny,učebnice,učebné a                          100,00      47,50       100,00      100,00      100,00
+        633010             kompenzačné pomôcky, pracovné odevy                                0,00      28,90       100,00     100,00      100,00
+09111   634004    41       Prepravné nájom dopravných prostriedkov                          150,00     170,00       200,00     200,00      200,00
+09111   635006    41       Rutinná a štandardná údržba budov,                               500,00       0,00       500,00     500,00      500,00
+                           objektov alebo ich častí
+09111   637001   41    Školenia,kurzy,semináre,porady,konferencie,        100,00            0,00        100,00       100,00       100,00
+                       sympóziá
+09111   637004   41    Všeobecné služby                                  2 000,00        324,81        2 000,00     2 000,00     2 000,00
+
+
+
+
+                                  09601 školská jedáleň
+09601   611      41    Tarifný plat,osobný                             26 000,00      18 117,97      30 000,00     30 000,00    30 000,00
+                       plat,zákl.plat,funk.plat...vrátane ich
+
+09601   623      41    Poistné do ostatných zdravotných poisťovní        8 000,00       4 285,34       9 000,00     9 000,00     9 000,00
+
+
+
+09601   632006,-7 41   Energie                                           3 500,00       1 254,79       3 500,00     3 500,00     3 500,00
+09601   632002   41    vodné, stočné                                      300,00            0,00        300,00       300,00       300,00
+09601   632003   41    Poštové služby                                      30,00            0,00         30,00        30,00        30,00
+09601   633004   41    Prevádzkové stroje, prístroje, zariadenie,         500,00            0,00        500,00       500,00       500,00
+                       technika a náradie
+09601   633006   41    Všeobecný materiál                                 800,00         405,70         800,00       800,00       800,00
+
+09601   633010   41    Pracovné odevy, obuv a pracovné pomôcky             200,00          46,47         200,00       200,00       200,00
+9601    633013   41    Softver                                             150,00           0,00         150,00       150,00       150,00
+09601   635004   41    Rutinná a štand. údržba prevádz. strojov            100,00           0,00         100,00       100,00       100,00
+09601   635006   41    Rutin. a štand. Údrž. budov, objektov               200,00           0,00         200,00       200,00       200,00
+09601   637001   41    školenie kurzy, semináre                            150,00           0,00         150,00       150,00       150,00
+09601   637004   41    Všeobecné služby                                  1 000,00           0,00       1 000,00     1 000,00     1 000,00
+9601    633011         Potraviny                                             0,00       8 352,21           0,00         0,00         0,00
+9601    223003         Poplatky a platby za stravné                          0,00       8 172,10           0,00         0,00         0,00
+                                  výdavky                            4 539 635,00   2 360 666,58   1 090 345,00   879 345,00   879 345,00
+                                  príjmy                             4 540 245,00   4 141 337,00   1 090 988,00   880 988,00   880 988,00
+                       z toho bežné výdavky                           770 135,00     499 970,86     831 745,00    825 745,00   825 745,00
+                       z toho finančne výdavky                         50 500,00      18 698,04      52 600,00     52 600,00    52 600,00
+                       z toho kapitalové výdavky                     3 651 000,00   1 823 554,81    206 000,00      1 000,00     1 000,00
+                       Rozdiel príjmy a výdavky                           610,00    1 780 670,42        643,00      1 643,00     1 643,00
+
