@@ -1,0 +1,720 @@
+URL: https://cuet.slovensko.sk/en/dokument/fd2acb38-33f0-4334-abb9-cd693b2d33c3
+OBEC: Dulova Ves (Prešov)
+NÁZOV: VŠEOBECNE ZÁVÄZNÉ NARIADENIE ktorým sa vyhlasuje záväzná časť - Zmien a doplnkov č. 3 Územného plánu obce Dulova Ves
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/fd2acb38-33f0-4334-abb9-cd693b2d33c3
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+ktorým sa vyhlasuje záväzná časť - Zmien a doplnkov č. 3 Územného plánu obce Dulova Ves
+Search publisher's RSS feeds
+Published on official board:
+Obec Dulova Ves - Zverejňovanie na CUET
+Published from:
+23.11.2026
+Registry symbol:
+Documents author:
+Obec Dulova Ves - Zverejňovanie na CUET
+Published to:
+08.12.2026
+Registry case:
+Name of official document:
+VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+ktorým sa vyhlasuje záväzná časť - Zmien a doplnkov č. 3 Územného plánu obce Dulova Ves
+Document type:
+Iný elektronický dokument
+Document abstract:
+[https://www.dulovaves.sk/oznamy/vseobecne-zavazne-nariadenie--ktorym-sa-vyhlasuje-zavazna-cast-zmien-a--doplnkov-c--3-uzemneho-planu-obce-dulova-ves.html]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Priloha-VZN-Schema-zav-casti-a-VPS.pdf
+Type and size:
+.pdf, 3.33 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Priloha-VZN-Zavazna-cast.pdf
+Type and size:
+.pdf, 1.09 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Navrh-VZN.pdf
+Type and size:
+.pdf, 96.8 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Zverejnenie-navrhu-VZN.pdf
+Type and size:
+.pdf, 56.5 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/9e33c519-1e9e-4faa-a536-97f7808efcdf
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/c95ee06d-7e11-40df-8e96-c6a173af33f5
+MINOR PLAN ARCHITEKTONICKÁ KANCELÁRIA ING.ARCH. DUČAY STANISLAV
+                               PETÖFIHO 14 , 080 01 PREŠOV, TEL: 0949 45 00 21, minorplan@centrum.sk
+----------------------------------------------------------------------------------------------------------------------------- -----
+
+
+
+
+                          ÚPN-O                          DULOVA VES
+                                                   aktualizovaný o ZaD č.1 a č.2
+
+
+                                          Zmeny a doplnky 3/2025
+
+                                                   ZÁVAZNÁ ČASŤ
+                                                        v plnom znení
+
+                                                        čistopis
+
+
+
+
+                                                             Zmeny a doplnky 3/2025 UPN-O DULOVA VES
+                                                             Schválené obecným zastupiteľstvom v Dulovej Vsi
+                                                             Uznesením č.                                 zo dňa:
+                                                             VZN č.:
+                                                             pečiatka :                             Mgr. Lukáš Onofrej
+                                                                                                         starosta obce
+
+
+
+
+                                                      PREŠOV 10. 2026
+                                                 1
+
+
+
+Vysvetlivky ku grafickému vyjadreniu:   čierny text - platné pôvodné znenie
+                                        pôvodný text, ktorý sa vypúšťa
+                                        červený text – návrh/doplnenie
+
+
+3.1. Zásady a regulatívy priestorového usporiadania a funkčného využívania územia
+
+3.1.1.    V oblasti urbanistickej koncepcie
+
+3.1.1.1. Pre oblasť bývania
+3.1.1.1.1. Realizáciu výstavby rodinných domov v nových obytných lokalitách organizovať podľa
+            a územných plánov zón prípadne urbanistických štúdií, ktoré musia obsahovať
+            zastavovacie, priestorové podmienky a dopravné riešenie lokality.
+3.1.1.1.2. Výstavbu nových bytov usmerňovať predovšetkým na využitie nezastavaných pozemkov
+            na území obce s dostatočnou výmerou v rámci zastavaného územia.
+3.1.1.1.3. Pri prestavbe, dostavbe a vytváraní novej zástavby rešpektovať identitu prostredia
+            a zohľadniť charakter obce, ktorá plní funkciu vidieckeho osídlenia.
+3.1.1.1.4. Novou zástavbou rešpektovať historicky vytvorený kolorit obce
+            a jej geomorfológiu, bez dotyku s evidovanou archeologickou lokalitou.
+3.1.1.1.5. Prestavbou v zmysle stavebnotechnických podmienok pre výstavbu usmerniť zvyšovanie
+            kvality bývania.
+3.1.1.1.6 . Pozdĺž cesty III/0682 III/03440 podporiť funkčné zmeny využívania obytných domov
+            predovšetkým pre účely občianskej vybavenosti.
+3.1.1.1.7. Pri využití územia pre obytnú výstavbu v hraniciach chráneného ložiskového územia
+            kamennej soli rešpektovať podmienky a požiadavky Obvodného banského úradu
+            v Košiciach a obytné domy situovať za 60 dB(A) hranicu hluku.
+3.1.1.1.8. Na asanáciu použiť iba stavby, ktoré sú prekážkou pri realizácii verejnoprospešných
+            stavieb, alebo by ich realizáciu obmedzili.
+3.1.1.1.9. Územia v lokalitách Za Delňou, Pri Delni a Pri ihrisku pre obytnú výstavbu a v rekreačnej
+             lokalite Boltocký mlyn použiť na výstavbu až po realizácií zabezpečenia ochrany
+             zastavaného územia obce pred povrchovými vodami vybudovaním úprav vodného toku
+             Delňa na Q100.
+3.1.1.1.10. Plochu v lokalite Košariská na parcelách KNC č. 506/232, 506/233 a 506/302 k. ú.
+             Dulova Ves využívať ako polyfunkčnú plochu (rodinné domy a občianska vybavenosť).
+3.1.1.1.11. Nová navrhovaná obytná zástavba môže byť realizovaná až po vybudovaní kanalizačného
+            zberača odvádzajúceho splaškové vody z pravobrežného územia do prešovskej kanalizácie.
+            Realizácia obytnej zástavby v pásme hydrodynamického tlaku vo vodovodnom potrubí
+            medzi 0,25 Mpa – 0,15 MPa je podmienená vybudovaním domových tlakových staníc na
+            prípojkách.
+3.1.1.1.12. Výstavba v navrhovaných lokalitách č. 34a, b, c, d, je podmienená realizáciou priekopy
+            zachytávajúcej prívalové povrchové vody zo svahu po jej južnej strane
+
+3.1.1.2. Pre oblasť občianskej vybavenosti a sociálnej infraštruktúry
+3.1.1.2.1. Uprednostniť umiestňovanie vybavenosti v jeho centrálnej časti obce a západne od obce, v
+           lokalite Košariská na parcelách KNC číslo 506/232, 506/233 a 506/302 na polyfunkčných
+           plochách formou novostavby, prestavby a dostavby s možnosťou zmeny alebo doplnenia
+           funkcie služieb, kultúry a obchodu, posilňujúcich funkciu obce v štruktúre osídlenia.
+3.1.1.2.2. Občiansku vybavenosť uskutočňovať podľa očakávaného prirodzeného nárastu počtu
+            obyvateľov obce a záujemcov o výstavbu rodinných domov z iných oblastí, najmä z mesta
+            Prešov, kde sa prioritne vytvárajú pracovné príležitosti, nakoľko vidiecky priestor
+            a dostupnosť Dulovej Vsi a jeho prostredie je zvlášť atraktívne.
+3.1.1.2.3. Školské, predškolské a zdravotnícke zariadenia umiestňovať za 50 dB(A) hranicu hluku.
+
+3.1.1.3. Pre oblasť výroby
+3.1.1.3.1. Podporovať využitie poľnohospodárskeho potencionálu obce s návrhom eliminácie
+                                                  2
+
+            nepriaznivých vplyvov na rozvoj obce pri stanovení a dodržaní limitov trvalo udržateľného
+            rozvoja vytvárať územné predpoklady, štruktúru a priority.
+3.1.1.3.2. Hospodárenie na lesnom pôdnom fonde usmerňovať podľa Lesného hospodárskeho plánu.
+3.1.1.3.3. Rešpektovať areál výroby a výrobných služieb v zastavanom území obce, v juhozápadnej
+           časti obce len pre výrobu s mierne ohrozujúcimi výrobnými pochodmi, s možnosťou
+           využitia potenciálu pôvodného hospodárskeho dvora v symbióze s poľnohospodárskym
+           využívaním.
+3.1.1.3.4. Vytvárať predpoklady pre realizáciu výrobného územia v južnej časti katastra pre výrobu so
+           stredne obťažujúcimi až mierne ohrozujúcimi výrobnými pochodmi pre priemyselný park
+           výroby a výrobných služieb v naväznosti na obec Záborské.
+
+3.1.1.4. Pre oblasť zelene
+3.1.1.4.1. Pre vylepšenie systému zelene obce udržať a revitalizovať sprievodnú a ochrannú zeleň
+           v centrálnej časti obce ako nosný skelet urbanizovaného priestoru.
+3.1.1.4.2. Podnecovať kvalitné úpravy priehradzok pri rodinných domoch, akými môžu byť živé ploty,
+           okrasné kríky, popínavé rastliny a podobne.
+3.1.1.4.3. Pre vylepšenie systému zelene obce zriaďovať nové plochy verejnej zelene predovšetkým
+           v areále športov a v nových obytných územiach.
+3.1.1.4.4. Pre vylepšenie zdravého životného prostredia zabezpečiť výsadbu biofiltra na území
+           hospodárskeho dvora.
+3.1.1.4.5. Pre náhradnú výsadbu za vyrúbane dreviny v obci zriadiť plochu v priestore východne od
+           jestvujúcej čistiarne odpadových vôd.
+
+3.1.1.5. Pre oblasť športu a rekreácie
+3.1.1.5.1. Zariadenia pre rekreáciu a šport umiestňovať na plochách s prirodzeným potenciálom a pre
+           túto funkciu realizovať areál športov v juhovýchodnej zastavanej časti obce.
+3.1.1.5.2. Využívať plochy v extraviláne obce pre rekreáciu a cestovného ruchu zohľadňujúcich
+           historické informácie ako súčasť regiónu Prešova v naväznosti na vodný tok Delňa.
+3.1.1.5.3. Zvyšovať možnosť ubytovacích kapacít cestovného ruchu priamo v zastavanom území
+           obce spojenú s využívaním miestnej infraštruktúry a tam lokalizovaných stravovacích,
+           pohostinských, obchodných a iných doplnkových služieb turistickými návštevníkmi.
+3.1.1.5.4. Podporovať realizáciu turistických aktivít v obci ako nástupu do priestoru Slanských
+           vrchov – potenciálu rekreácie a cestovného ruchu a tým prispievať k oživeniu lokálnej
+           ekonomiky a vytvoreniu sezónnych a nesezónnych pracovných miest.
+3.1.1.5.5. Realizovať rekreačný priestor v lokalite Boltockého mlyna s využitím prírodného potenciálu
+           údolia potoka Delňa najmä v súvislosti s pripravovanou cyklotrasou a využiť možnosť
+           vytvorenia viacúčelovej vodnej nádrže pod Boltockým mlynom pre letnú rekreáciu.
+
+3.1.2.     V oblasti dopravy a technického vybavenia
+3.1.2.1. Pre oblasť dopravy a dopravných zariadení
+3.1.2.1.1. Rezervovať územie pre pripravovanú rýchlostnú komunikáciu východného obchvatu mesta
+           Prešov v rámci riešenia cestnej siete v okolí Prešova a napojenie obce.
+3.1.2.1.2. Podnecovať prípravu rekonštrukcie cesty III/0682 na území obce a vytvárať podmienky pre
+           jej realizáciu predovšetkým v jej zastavanej časti.
+3.1.2.1.3. Postupne zabezpečovať rekonštrukcie terajších miestnych komunikácií s cieľom odstránenia
+           jestvujúcich dopravných závad.
+3.1.2.1.4. Zabezpečovať stavby nových miestnych a zberných komunikácií v predstihu v lokalitách
+           novej bytovej výstavby.
+3.1.2.1.5. Pripravovať a postupne realizovať výstavbu peších chodníkov pozdĺž miestnych a zberných
+           komunikácií.
+3.1.2.1.6. Pripravovať a postupne zriaďovať parkoviská pri jednotlivých objektoch občianskej
+           vybavenosti a potrebné odstavné plochy automobilovej dopravy.
+3.1.2.1.7. Zabezpečiť postupnú rekonštrukciu nevyhovujúcich zastávok Slovenskej automobilovej
+           dopravy a zabezpečiť výstavbu nových krytých obojstranných zastávok.
+3.1.2.1.8. Podporovať a vytvárať podmienky pre realizáciu cyklotrasy v pôvodnej trase bývalej
+           úkokoľajnej účelovej železničnej trate.
+3.1.2.1.9. Zabezpečovať výstavbu cyklistického chodníka od cyklotrasy Prešov – Zlatá Baňa do
+                                                 3
+
+          rekreačného priestoru Boltocký mlyn a cyklistického chodníka z obytných lokalít L 23
+          Záhumnie a L 24 Vlčie Doly do centrálnej časti obce.
+
+3.1.2.2. Pre oblasť vodného hospodárstva
+3.1.2.2.1. Pripravovať a postupne realizovať výstavbu celoobecného verejného vodovodu.
+3.1.2.2.2. Pripravovať a postupne realizovať verejnú kanalizáciu.
+3.1.2.2.3. Pripravovať a postupne realizovať rekonštrukciu čistiarne odpadových vôd pre
+            zabezpečenie potrieb rozvoja obce.
+3.1.2.2.4. Pri situovaní parkovacích staní, stojísk pre odpadové nádoby a pod., v miestach trasy
+            jestvujúceho aj navrhovaného vodovodu, či kanalizácie, neobmedzovať prístup k objektom
+            týchto technických zariadení (hydranty, uzávery, armatúrne šachty, kanalizačné šachty a
+            pod.).
+
+3.1.2.3. Pre oblasť energetiky a energetických zariadení
+3.1.2.3.1. Pripravovať a postupne realizovať výstavbu prípojky VN z elektrického vedenia VN linky
+           číslo 207 pre nove trafostanice potrebne pre výstavbu obytných lokalít v západnej časti
+           obce a z linky číslo 314 pre severnú časť obce.
+3.1.2.3.2. Pripravovať a postupne realizovať rekonštrukcie a výstavbu nových trafostaníc pre územný
+           rozvoj obce a preferovať postupne nahrádzanie vzdušných elektrických NN vedení
+           kábelovými rozvodmi v zemi.
+3.1.2.3.3. Pri rozvoji nových obytných lokalít obce realizovať kábelové elektrické rozvody NN vedení
+           v zemi s napojením z jestvujúcich a nových zdrojov elektrickej energie.
+3.1.2.3.4. Pripravovať a postupne realizovať rekonštrukcie jestvujúceho verejného osvetlenia pri
+            preferovaní uloženia jeho elektrických rozvodov v zemi a rovnako realizovať výstavbu
+            nového osvetlenia.
+3.1.2.3.5. Pripravovať a postupne realizovať potrebné rozšírenie STL plynovodov.
+3.1.2.3.6. Podporovať rozvoj netradičných zdrojov energii a tepla získaného spaľovaním biopalív
+.
+3.1.2.4. Pre oblasť telekomunikácií
+3.1.2.4.1. Rezervovať trasu pre realizáciu prekládky vedenia optického kábla Solivar – Kokošovce.
+3.1.2.4.2. Rezervovať trasu pre realizáciu prenosu terestriálneho a káblového signálu a stavby sieti
+           informačnej sústavy.
+3.1.2.4.3. Rezervovať trasy situovanými vedľa miestnych komunikácií pre výstavbu siete kábelovej
+           televízie a vytvoriť podmienky pre jej realizáciu.
+3.1.2.4.4. Pri zabezpečovaní rozvoja nových obytných lokalit, podnikateľskej činnosti a ostatných
+           aktivít rezervovať trasy pre následné uloženie telekomunikačných káblov od bodu napojenia
+           až po rozvod v lokalitách s ohľadom na priestorové usporiadanie v zmysle platných STN.
+
+3.1.3.    V oblasti zachovania kultúrnohistorických hodnôt, ochrany a využívania prírodných
+          zdrojov, ochrany prírody a tvorbu krajiny
+
+3.1.3.1. Pre oblasť ochrany kultúrnohistorických hodnôt
+3.1.3.1.1. Chrániť archeologickú lokalitu v južnej časti obce, sídlisko z neskorej doby kamennej a
+           zaniknutá stredoveká obec Boltovce, evidovanej Archeologickým ústavom Slovenskej
+           akadémie vied v Nitre a vytvoriť podmienky pre jej prieskum a sprístupnenie.
+3.1.3.1.2. Odsúhlasiť akúkoľvek stavebnú, či inú hospodársku činnosť na ploche evidovanej
+           archeologickej lokality a hlásiť možný výskyt dosiaľ neznámych archeologických objektov
+           a nálezov pri stavebnej činnosti mimo archeologickej lokality uvedenej v ústrednom
+            zozname pamiatkového fondu a predložiť na odborné a dokumentačné účely Krajskému
+            pamiatkovému úradu. O zistení alebo narušení archeologických nálezov postupovať
+            v súčinnosti s Krajským pamiatkovým úradom v Prešove a v zmysle § 14 odsek 4
+            pamiatkového zákona kedy obec môže rozhodnúť o otvorení a odbornom vedení evidencie
+            pamätihodnosti obce.
+3.1.3.1.3. Pri akejkoľvek stavebnej činnosti v obci rešpektovať § 127 a 138 zákona číslo 50/1976 Zb.
+            o územnom plánovaní a stavebnom poriadku a § 40, odsek 2 a 3 zákona číslo 49/2002 Z.z.
+            o ochrane pamiatkového fondu a požiadavky príslušných orgánov štátnej správy.
+3.1.3.1.4. Chrániť a primerane zveľaďovať voľne stojace kaplnky a kríže na území obce, ako súčasť
+                                                 4
+
+           kultúrneho dedičstva obce.
+3.1.3.1.5. V k.ú. obce Dulová Ves sa nenachádzajú žiadne evidované kultúrne pamiatky, avšak
+           v miestnom Kostole sv. Michala sa nachádzajú hnuteľné kultúrne pamiatky – Oltár hlavný
+           sv. Michala a kazateľnica
+3.1.3.1.6. V k.ú obce Dulová Ves sú v Centrálnej evidencii archeol. nálezísk evidované archeologické
+           lokality:
+           1. historické jadro obce – územie s predpokladanými archeologic. nálezmi z obdobia
+               stredoveku až novoveku (1. písomná zmienka o obci k roku 414)
+           2. poloha Čergov- sídliska z neskorej doby kamennej (lažnianska skupina), doby
+               bronzovej až železnej? a mladšej doby kamennej
+           3. Poloha Boltocký mlyn – zaniknutá stredoveká obec Boltovce (písomné správy z 13. –
+               15. stor.)
+           Ojedinelé a bližšie nelokalizované náleziská:
+           4. Poloha Košariská – sporadické nálezy z praveku, v nadväznosti na jestvujúcu štátnu
+               cestu - koľajiská komunikácie z mladšieho novoveku
+           5. nelokalizovaná zaniknutá stredoveká obec Pechfalva (písomné správy z 15. storočia)
+           6. na ľavom brehu Delne - nálezy z praveku a včasného stredoveku
+3.1.3.1.7 Pred začatím stavebnej alebo inej hospodárskej činnosti na evidovanom archeologickom
+           nálezisku je vlastník, správca alebo stavebník povinný požiadať o vyjadrenie k zámeru na
+           Krajský pamiatkový úrad Prešov. Stavebník je povinný počas realizácie stavebných prác
+           každý archeologický nález (vec pamiatkovej hodnoty) ohlásiť Krajskému pamiatkovému
+           úradu Prešov
+3.1.3.1.8 Krajský pamiatkový úrad Prešov v zmysle pamiatkového zákona v spolupráci s príslušným
+           stavebným úradom určí podmienky ochrany archeologických nálezov a archeologických
+           nálezísk vo väzbe na pripravovanú stavebnú činnosť v procese územného a stavebného
+           konania.
+
+3.1.3.2. Pre oblasť ochrany a využívania prírodných zdrojov
+3.1.3.2.1. Reštrukturalizovať nevyužívané lúčnopasienkové systémy v štruktúre otvorenej krajiny pre
+           atraktívne účely rekreácie a cestovného ruchu zvýšením sezónneho využívania susediacich
+           území Slanských vrchov s premenou na relatívne homogénnu krajinu.
+3.1.3.2.2. Vykonať protierózne opatrenia na priľahlej poľnohospodárskej pôde.
+3.1.3.2.3. Zabrániť likvidácii brehových porastov a sprievodnej vegetácie vodných tokov,
+           protieroznych teras a medzi. Chrániť rozptýlenú krajinnú zeleň a realizovať jej dosadbu
+           predovšetkým v erózne labilných lokalitách, na svahoch silne a extrémne ohrozených
+           vodnou eróziou, na plochách s ekostabilizačnou funkciou a na plochách navrhovaných
+           ako prvky územného systému ekologickej stability.
+3.1.3.2.4. Zabezpečiť využívanie trvalých trávnych porastov pravidelným kosením.
+3.1.3.2.5. Zásahy do lesných spoločenstiev vykonávať v súlade s lesným hospodárskym plánom,
+           v ktorom je nutné klasť dôraz na podrastové spôsoby hospodárenia s maximálnym
+           využívaním prirodzeného zmladenia a sadbového materiálu miestnej proveniencie.
+3.1.3.2.6. V zaujme minimalizácie pôdnej erózie vykonávať dôslednú údržbu lesných ciest a
+           zvážnic.
+
+3.1.3.3. Pre oblasť ochrany prírody a tvorbu krajiny
+3.1.3.3.1. Zabezpečiť dopracovanie miestneho územného systému ekologickej stability obce pretože v
+           území absentujú plošné interakčné stabilizačné prvky územného systému ekologickej
+           stability územia a obec takúto dokumentáciu nemá.
+3.1.3.3.2. Zvýšiť ekologickú i krajinnoestetickú efektívnosť existujúcich štruktúr územného systému
+           ekologickej stability revitalizáciou pôdneho fondu s využitím pôvodných zachovalých
+           priestorovoekologických a výtvarných danosti za predpokladu zníženia účinnosti
+           stresových faktorov, najmä líniových stavieb a území narušených stavebnou činnosťou.
+3.1.3.3.3. Do k.ú. Dulová Ves zasahuje územie európskeho významu SKUEV4005 Solivarsko-švábske
+            Dúbravy na ktorých platí 2. stupeň ochrany
+3.1.3.3.4 V k.ú. Dulova Ves je tiež evidovaný výskyt:
+            a) prírodných biotopov európskeho významu Ls5.1 Bukové a jedľovo-bukové kvetnaté lesy
+              (kód NATURA 2000 9130);
+                                                  5
+
+           b) prírodných biotopov európskeho významu Ls3.3 Dubové nátržníkové lesy (kód
+             NATURA 2000 *9110);
+           c) prírodných biotopov národného významu Ls2.1 Dubovo – hrabové lesy karpatské.
+3.1.3.3.5. Osobitným záujmom ochrany prírody a krajiny v k. ú. Dulova Ves sú prvky ÚSES
+           nadregionálnej a miestnej úrovne, lokálne prvky ekologickej stability – hydrické
+           biokoridory potoka Delňa a jeho brehové porasty a prítoky.
+           V lokalitách., kde sú evidované prvky R-ÚSES (R-ÚSES okresu Prešov schválený v r.
+           2015) je potrebné rešpektovať nasledujúce manažmentové opatrenia:
+           a) starostlivosť o komplexy lesných biotopov v NRBk5 nadregionálny biokoridor
+               Kokošovce – Niereše – Obišovce;
+           b) vylúčiť výruby brehových porastov s dôrazom na zabránenie zužovaniu regionálneho
+               biokoridoru RBk3 Delňa;
+           c) pozdĺž hydrického biokoridoru Delňa ponechať 20 m široký pás zelene (najmä mimo
+               zastavaného územia obce), v tomto priestore nerealizovať stavby, ktoré by mohli
+               predmetný biokoridor poškodiť a ponechať existujúce brehové porasty a sprievodnú
+               zeleň v súčasnom nezmenenom stave;
+           d) realizovať výsadbu alejí a remízok a podporiť tým zvýšenie krajinnoekologickej
+               stability;
+           e) zmierniť dopady výstavby dopravnej infraštruktúry realizáciou technických opatrení pre
+               priechodnosť a funkčnosť koridorov
+
+
+3.1.4.     V oblasti ochrany a tvorby životného prostredia
+3.1.4.1. Pre oblasť zložiek životného prostredia
+3.1.4.1.1. Zabezpečiť sledovanie čistoty vodného toku Delňa v obci formou trvalého monitoringu.
+3.1.4.1.2. Pre zabezpečenie ochrany zastavaného územia obce pred povrchovými vodami vybudovať
+           úpravu vodného toku Delňa na Q100. Na začiatku uprav ďalších potokov vybudovať
+           prepažky na zachytenie splavenín a polovegetačnú úpravu potokov, priekop a rigolov.
+3.1.4.1.3. Venovať zvýšenú pozornosť eróziou najviac postihnutým orným pôdam na svahoch, ktoré
+           nemožno súčasnou mechanizáciou obrábať po vrstevnici, správnej rekultivácii pozemkov,
+           pri ktorej sa neodstráni pôdoochranná zeleň v rámci riešenia projektov pozemkových úprav
+           a agrotechnickými opatreniami zameranými na optimalizáciu štruktúry pestovaných plodín
+           v nadväznosti na prvky územného systému ekologickej stability.
+3.1.4.1.4. Zalesňovať neproduktívne a nevyužiteľne poľnohospodárske pozemky a pri zalesňovaní
+           využívať pôvodné domáce druhy drevín.
+3.1.4.1.5. Postupným vymiestňovaním spaľovania fosílnych palív v lokálnych kúreniskách a ich
+           nahradzovaním plynovými kotolňami a s prechodom v budúcnosti na biopalivá pri
+           zabezpečovaní tepla a realizáciou miestnych komunikácií s bezprašným povrchom
+           prispievať k zlepšeniu kvality ovzdušia.
+3.1.4.1.6. Rešpektovať pri umiestňovaní jednotlivých aktivít ochranné a bezpečnostné pásma,
+           prípustné hlukové intenzity z cestnej dopravy a iných zdrojov s realizáciou opatrení na ich
+           elimináciu. Protihlukovými opatreniami eliminovať negatívne vplyvy tranzitnej dopravy na
+           ceste III/0682 a chrániť predovšetkým objekt materskej školy.
+
+
+3.1.4.2. Pre oblasť odpadového hospodárstva
+3.1.4.2.1. Nakladanie s odpadmi na území obce riešiť v súlade so schváleným aktualizovaným
+           Programom odpadového hospodárstva okresu Prešov.
+3.1.4.2.2. V odpadovom hospodárstve uprednostňovať minimalizáciu odpadov, separovaný zber
+           a zhodnocovanie odpadov s využitím ekonomických nástrojov a legislatívnych opatrení.
+3.1.4.2.3. Zneškodňovanie odpadov zabezpečiť na riadenej skládke odpadov.
+3.1.4.2.4. Vybudovať na hospodárskom dvore zberne stredisko pre nebezpečne odpady a problémové
+           látky vrátane ich kontajnerizácie.
+
+3.11. Zoznam verejnoprospešných stavieb
+
+Číslovanie stavieb je podľa schémy záväzných častí a verejnoprospešných stavieb,
+                                                    6
+
+
+1.       Stavby občianskej vybavenosti a sociálnej infraštruktúry
+1.1.     Stavba rozšírenia cintorína
+1.2.     Výstavba MŠ v majetku obce
+1.3.     Rekonštrukcia a rozšírenie kultúrneho domu a obecného úradu
+1.4.     Výstavba základnej školy 1 – 5 v majetku obce
+1.5.     Výstavba a rekonštrukcia objektov určených pre sociálnu starostlivosť
+1.6.     Výstavba verejných športových a rekreačných priestorov a zariadení
+1.7.     Výstavba detských ihrísk a športovísk
+
+2.     Stavby dopravy a technického vybavenia
+2.1. Stavby dopravy a dopravných zariadení
+2.1.1. Stavba rýchlostnej komunikácie cesty II. triedy východného obchvatu mesta Prešov
+2.1.2. Rekonštrukcia cesty III/0682 ciest III. triedy na území obce
+2.1.3. Rekonštrukcia miestnych komunikácií ciest
+2.1.4. Stavby nových miestnych komunikácii ciest.
+2.1.5. Stavba peších chodníkov
+2.1.6. Stavba verejných parkovísk P1 – P6
+2.1.7. Stavby 4 nových obojstranných krytých zastávok SAD
+2.1.8. Stavba cyklotrasy v pôvodnej trase bývalej úzkokoľajnej účelovej železničnej trate
+2.1.9 Stavby cyklistic. chodníkov od cyklotrasy Prešov – Zlatá Baňa do centra obce a rekreač.
+        priestoru Boltoc. Mlyn a cyklistic. chodníka z L23 Záhumnie a L24 Vlčie Doly do centrál.
+        časti obce
+
+2.2.   Stavby vodného hospodárstva
+2.2.1. Stavby dokončenia celoobecného vodovodu, výstavba vodovod. siete v nových lokalitách
+2.2.2. Rozšírenie ČOV
+2.2.3. Stavby dobudovania celoobecnej kanalizačnej siete
+2.2.4. Stavby prečerpávacích staníc
+
+2.3.      Stavby energetiky a energetických zariadení
+2.3.1     Stavba prípojky VN z elektrického vedenia VN linky č. 207 pre trafostanice TS7 a TS 8
+2.3.2     Stavba prípojky VN odbočením od trafostanice TS 1 z elektr. vedenia VN linky č.314 pre
+          trafostanicu TS 6
+2.3.3.    Rekonštrukcia trafostaníc TS2 a TS3
+2.3.4.    Stavby nových trafostaníc TS6, TS7, TS8, TS9, TS10 a prípojných VN vedení
+2.3.5.    Stavby trasy NN vedenia kábelových rozvodov v zemi s napojením z jestvujúcich zdrojov
+          elektrickej energie Stavby vedení distribučných NN rozvodov
+2.3.6.    Stavby verejného osvetlenia v nových obytných lokalitách
+2.3.7.    Stavby potrebného rozšírenia STL plynovodov
+
+2.4.      Stavby telekomunikácii
+2.4.1.    Stavba novej trasy optického kábla Solivar – Kokošovce
+2.4.2.    Stavba trasy pre prenos terestriálneho a káblového signálu a stavby sieti informačnej sústavy
+2.4.3.    Stavby trasy siete kábelovej televízie v trasách situovaných vedľa miestnych komunikácií
+
+3.        Stavby v oblasti ochrany a tvorby životného prostredia
+3.1.      Stavba úpravy potoka Delňa s protipovodňovou ochranou
+3.2.      Stavba úpravy potoka Lekeš s protipovodňovou ochranou
+3.3.      Stavby ochrany územia obce proti povrchovým vodám
+3.4.      Stavby monitorovania stavu životného prostredia
+3.5.      Stavba viacúčelovej vodnej plochy v rekreačnom priestore Boltocký Mlyn
+3.6.      Výstavba zberného stanovišťa
+3.7.      Úprava priestorov, výsadba zelene a výstavba náučného chodníka pozdĺž potoka Delňa
+3.8.      Výsadba pobrežnej zelene v pobrežných pásmach vodných tokov
+3.9.      Výsadba uličnej a sprievodnej zelene pozdĺž cyklistických a peších chodníkov a miestnych
+          ciest v extraviláne.
+                                                  7
+
+
+Na uskutočnenie verejnoprospešných stavieb možno podľa ustanovení § 108 zákona č. 50/1976 Zb.
+o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov pozemky,
+stavby a práva k ním vyvlastniť, alebo vlastnícke práva k pozemkom a stavbám obmedziť.
+Pozemky, stavby a práva k nim, potrebné na uskutočnenie stavieb alebo opatrení vo verejnom záujme,
+možno vyvlastniť alebo vlastnícke práva k pozemkom a stavbám možno obmedziť rozhodnutím
+vyvlastňovacieho orgánu v súlade so zákonom č. 282.
+
+
+3.3.    Podmienky na využitie jednotlivých plôch a intenzitu ich využitia a stavebné uzávery
+
+3.3.1. Podmienky na využitie jednotlivých plôch a intenzitu ich využitia
+3.3.1.1. Na plochách novej bytovej výstavby realizovať len malopodlažné obytné domy a drobné
+         stavby pri zohľadnení charakteru obce, ktorá plní funkciu vidieckeho osídlenia. pri veľkosti
+         stavebných pozemkov o výmere cca 1 000 m2.
+3.3.1.2. Na polyfunkčných plochách v centrálnej časti obce umožniť novostavbu, prestavbou a
+         dostavbou stavieb z dôvodu vytvorenia podmienok pre doplnenie novej funkcie občianskej
+         vybavenosti bez obmedzenia pôvodnej obytnej funkcie. Západne od obce, v lokalite Košariská
+         na parcelách KNC číslo 506/232, 506/233 a 506/302 k. ú. Dulova Ves vytvárať podmienky
+         pre nové funkcie občianskej vybavenosti ako súčasť navrhovanej polyfunkčnej plochy.
+3.3.1.3. Na plochách výroby a výrobných služieb vytvárať predpoklady pre ich intenzívne
+         využívanie pri dodržaní podmienok trvalo udržateľného rozvoja realizáciou len takých
+         výrobných programov, ktoré nezhoršia kvalitu životného prostredia územia obce.
+3.3.1.4. Rozširovať plochy verejnej zelene pre vylepšenie stavu zdravého životného prostredia obce
+         revitalizáciou jestvujúcej a zakladaním novej a vytvoriť vhodné organizačné a technické
+         podmienky pre jej trvale udržiavanie.
+3.3.1.5. Na ploche areálu športov realizovať širokú škálu verejných športovísk a vytvoriť vhodné
+         organizačné a technické podmienky pre ich trvale využívanie a udržiavanie.
+3.3.1.6. Chrániť plochy pre verejnoprospešné stavby, ktorými sú jednotlivé druhy technického a
+         občianskeho vybavenia obce a iniciovať a zabezpečovať ich včasnú prípravu a realizáciu.
+3.3.1.7. Pri uskutočňovaní úprav vodných tokov súvisiacich s protipovodňovou úpravou využívať
+         pôvodné domáce druhy drevín.
+3.3.1.8. Pre výsadbu na ploche pre náhradnú výsadbu za vyrúbané dreviny v obci použiť len
+         povodne domáce druhy drevín.
+
+3.3.2    Stavebné uzávery
+        Z riešenia územného plánu obce, ani z jeho prerokovania nevyplynula požiadavka na
+        ochranu takého územia, kde je potrebné vyhlásiť stavebnú uzáveru.
+
+3.4.   Určenie časti obce, na ktoré je potrebné obstarať a schváliť územný plán zóny
+3.4.1. Pre obytné územia označene ako lokality L 23 Košariská, L 24 Vlčie Doly, L 26 Lekeš, L
+       27 Pod hájom a L 28 Čergov je potrebné obstarať a schváliť územné plány zón.
+
+3.5.    Zásady vyplývajúce zo záujmov obrany štátu a ochrany obyvateľstva
+
+3.5.1. V oblasti obrany štátu
+       Z riešenia územného plánu obce, ani z jeho prerokovania nevyplynuli požiadavky na
+       stanovenie osobitných zásad vyplývajúcich zo záujmov obrany štátu.
+
+3.5.2. V oblasti civilnej ochrany obyvateľstva
+3.5.2.1. Realizovať zariadenia na signalizáciu a koordináciu činností v stave ohrozenia.
+3.5.2.2. Zabezpečiť vypracovanie a schválenie plánu ukrytia obyvateľstva obce v prípade ich
+         ohrozenia v zmysle zákona Ministerstva obrany Slovenskej republiky číslo 55/2001 Z.z.
+         a vyhlášky Ministerstva obrany Slovenskej republiky číslo 297/1994 Z.z. a 202/2002. Z.z..
+3.5.2.3. Ukrytie obyvateľstva zabezpečovať priamo v suterénoch rodinných domov.
+3.5.2.4. Ukrytie zamestnancov na území výroby zabezpečiť v účelových objektoch civilnej ochrany
+         s kapacitou pre 50 % celkového stavu zamestnancov.
+                                                 8
+
+
+3.5.3. V oblasti požiarnej ochrany
+3.5.3.1. Realizovať zariadenia na signalizáciu požiarov.
+3.5.3.2. Podporovať rozvoj dobrovoľného požiarneho zboru a zabezpečovať jeho dobre technické
+         a materiálne vybavenie.
+3.5.3.3. Realizovať dostatočne zásobovanie vodou z hľadiska požiarnej ochrany a pri
+         rekonštrukciách a výstavbe nových miestnych komunikáciách realizovať dostatočne šírkové
+         parametre prístupových komunikácií.
+
+3.5.4. V oblasti ochrany pred povodňami
+3.5.4.1. Postupne komplexne revitalizovať vodný tok Delňa s protipovodňovými opatreniami, so
+          zohľadnením ekologických záujmov a dorazom na ochranu zastavanej časti obce pred
+          povodňami.
+3.5.4.2. Zlepšovať vodohospodárske pomery a úpravy tokov na malých vodných tokoch potoka
+          Lekeš a bezmennom potoku v západnej časti obce v povodí zásahmi smerujúcimi
+          k stabilizácii vodohospodárskych pomerov za extrémnych situácií počas povodní aj
+          v období sucha, pri úpravách tokov využívať vhodné plochy na výstavbu poldrov s cieľom
+          zachytávať povodňové prietoky, s cieľom znížiť eróziu a zanášanie tokov pri povodňových
+          stavoch bez narušenia biotopu.
+3.5.4.3. Zabezpečiť likvidáciu povodňových škôd z predchádzajúcich rokov a budovať primerane
+          protipovodňové opatrenia s dorazom na ochranu zastavaného územia obce a ochranu pred
+          veľkými prietokmi.
+3.5.4.4. Pri výstavbe RD prijať opatrenia na zdržanie povrchového odtoku dažďových vôd zo
+         spevnených plôch a striech RD, prípadne iných stavebných objektov tak aby odtok z daného
+         územia do recipientu nebol zvýšený voči stavu pred realizáciou zástavby a aby nebola
+         zhoršená kvalita vody v recipiente v súlade s ustanovením § 36 ods. 17 zákona č. 364/2004 Z.
+         z. o vodách v znení neskorších predpisov (vodný zákon) a v zmysle požiadaviek NV SR č.
+         269/2010 Z. z. podľa § 9.
+3.5.4.5.V úseku mimo zastavané územie obce je potrebné dodržať ustanovenie § 20 ods. 6 písm. c)
+         zákona č. 7/2010 Z. z. o ochrane pred povodňami, v inundačnom území okrem iného je
+         zakázané vykonávať terénne úpravy, ktoré môžu zhoršiť odtok povrchových vôd počas
+         povodne.
+3.5.4.6.Vzhľadom na skutočnosť že pre vodný tok Delňa nie sú vyhotovené mapy povodňového
+         ohrozenia a povodňového rizika, je navrhovaná zástavba v lokalitách „pri ihrisku“, „pri
+         hospodárskom dvore“ a „Medzi jarkami“, podmienená vypracovaním pravdepodobného
+         priebehu záplavovej čiary pre Q100 ročnú vodu vod. toku Delňa a v prípade potreby
+         následným zabezpečením území protipovodňovými opatreniami.
+
+3.6.    Vymedzenie zastavaného územia obce
+Zastavane územie obce je vymedzene čiarou vedenou na severe od katastrálnej hranice s obcou
+Kokošovce západným smerom po severnej hranici terajšieho zastavaného územia pozdĺž potoka
+Lekeš v dĺžke cca 290 m až po jeho križovanie s cestou III/3440 potok Lekeš, potom severnym
+smerom po potoku v dĺžke 70,0 m a odtiaľ zapadnym smerom po severnej hranici Odtiaľ sa vracia
+severným smerom pozdĺž odvodňovacej priekopy v dĺžke cca 309 m, po ktorých sa stáča
+severozápadným smerom po severnej hranici lokality č. 33 v dĺžke cca 560 m až k poľnej ceste
+medzi lokalitami záhumnie a Rovné, kde sa stáča pozdĺž uvedenej poľnej cesty smerom k cintorínu,
+pred ktorým sa napája na novú lokalitu L25. Ďalej prebieha po severnom a severozápadnom okraji
+novej obytnej lokality L 25 Záhumnie 2 až po cestu III/0682 III/3440.
+ Ďalej pokračuje západným smerom po jej severnom okraji po územie v západnej časti obce určene
+na malopodlažnú bytovú výstavbu lokality L23 Košariská, zatáča po východných hraniciach novej
+parcelácie tejto lokality po katastrálnu hranicu, ďalej na západe po katastrálnej hranici západným a
+južným smerom a na juhu je novou hranicou Južný okraj lokality L28 Čergov, Boltocký mlyn
+a potom pokračuje severným smerom po východných okrajoch lokalít L28 L30, L40 a L38, južnú
+hranicu pozemku cesty III/3440 Čergov, Boltocký mlyn a L24 Vlčie Doly po komunikačne
+prepojenie tohto noveho obytneho územia s povodnou zastavbou obce vedenej po južnej strane cesty
+III/0682 III/3440 o širke 20,0 m, vratane cesty III/0682 III/3440 a pre peši a cyklisticky chodnik,
+odvodňovaci rigol a zeleny pasvedene vychodnym smerom k zapadnemu okraju zastavaného územia
+                                                  9
+
+obce. Ďalej hranicu tvori v zapadnej časti obce územíe arealu Boltockeho mlyna vratane pristupovej
+komunikacie, pešieho a cyklistickeho chodnika k nemu o širke 14,2 m odkiaľ pokračuje východným
+smerom pozdĺž cesty III/3440 po západný okraj navrhovaného obytného územia (L41, L42). Tu sa
+stáča smerom na juh po OP navrhovanej cesty II. tr. až k hranici pozemku vodného toku Delňa, po
+ktorej pokračuje východným smerom až k areálu ČOV, za ktorým sa napája na jestvujúcu hranicu
+platnú k 1.1.1990. robnobežne s kde sa po jeho po západnej strane sučasne zastavane územíe obce
+vratane arealu čistiarne odpadovych vod a pristupovej komunikacie k nej, ktore tvori jeho zapadnu
+hranicu po katastralnu hranicu v blizkosti odbočky elektrickeho VN vedenia čislo 314. Po nej
+prechádza lemujúc južnú stranu zastavaného územia až k pozemku koryta miestneho občasného
+potoka (parc.č. 562/1) odvodňujúceho severný svah lokality čierna zem, sa pôvodná hranica Južnu
+hranicu tvori povodna hranica zastavaného územia okolo hospodarskeho dvora a južne hranice zahrad
+rodinných domov na juhu územia po poľnu cestu v blizkosti lesa, kde začína obytná lokalita L22,
+hranicu katastra vedúcu hranicou pozemku vod. toku Delňa. pôvoa ďalej po jej južnej hranici
+vychodnym smerom po južny okraj vedľajšieho ihriska, jeho južnym okrajom, predĺženim po lesny
+porast v juhovychodnej časti obce pri ihrisku, ktoré je zároveň južnou hranicou lokality L21 určenej na
+bytovú výstavbu, ďalej po severnom okraji lesa. Vychodnu hranicu tvori vychodna hranica lokality L
+21, ďalej je to severny okraj novej miestnej komunikacie k tejto lokalite v trase terajšej poľnej cesty
+po sučasne zastavane územíe až po potok Delňa. Východnú hranicu tvorí východný okraj súčasného
+zastavaného územia po potok Lekeš. Do zastavaného územia obce patri tiež územie o výmere 95 324
+m pre priemyselný park výroby a výrobných služieb, ktorého južný okraj tvorí katastrálna hranica,
+ 2
+
+
+vrátane prístupovej komunikácie, odpájajúcej sa z cesty III/06805 na južnom okraji súčasného
+zastavaného územia, pešieho chodníka po jej východnej strane a pasom zelene, vedenej južným
+smerom o celkovej šírke 11,2 m od zastavaného územia obce po cestu III/06811 III/3446 v južnej
+časti obce.
+
+
+3.7. Vymedzenie ochranných pásiem a chránených území
+
+3.7.1. Ochranné pásma
+V riešení územného plánu sú vymedzené ochranné pásma pre jednotlivé siete dopravnej a technickej
+infraštruktúry v súlade so všeobecne platnými právnymi predpismi a STN takto:
+– V celkovej širke 220 m pre vedenie trasy pripravovanej rychlostnej komunikacie vychodneho
+obchvatu mesta Prešov,
+– V šírke 50 m od osi komunikácie po oboch stranách pre cestu východného obchvatu mesta Prešov
+    mimo zastavané územie v súlade s dokumentáciou ÚPN PSK (po úprave v ÚPN PSK sa zruší)
+    V šírke 25 m od osi komunikácie po oboch stranách pre cestu II. triedy (východný obchvat mesta
+    Prešov) mimo zastavané územie - v súlade s ustanovením zákona č 135/161 Zb. a jeho
+    vykonávacej vyhlášky č. 35/1984 Zb.
+– V šírke 20 m od osi komunikácie po oboch stranách pre cestu III/0682 III /3440 mimo
+     zastavané územie,
+– V šírke 20 m od osi komunikácie po oboch stranách pre cestu III/0685 III/ 3443 mimo zastavané
+     územie,
+– V šírke 25 m od krajných vodičov po oboch stranách pre elektrické VVN vedenie číslo 477/478
+     vo východnej časti územia obce,
+– V šírke 10 m od krajných vodičov po oboch stranách pre elektrické VN vedenie linky číslo 314
+     v južnej a západnej časti územia obce,
+– V šírke 10 m od osi potrubia po oboch stranách pre vedenia tras prívodných 160 mm plynových
+     potrubí STL pozdĺž ciest do obce Kokošovce a Záborské, ktorých bezpečnost. pásmo je v šírke 20
+     m od osi potrubia po oboch stranách,
+– V šírke 10 m od vonkajšieho obrysu potrubia po oboch stranách pre vedenie trasy prívodu vody
+      z Východoslovenskej vodárenskej sústavy Starina v západnej časti územia obce,
+– V šírke 1,5 m od osi kábla po oboch stranách pre vedenie trasy optického kábla Solivar–
+     Kokošovce.
+     Ochranne pásma vodných tokov, kde môže správca vodného toku užívať pobrežné pozemky:
+– V šírke 6 m od upravenej brehovej čiary a 10 m od neupravenej brehovej čiary potoka Delňa,
+– V šírke 5 m od neupravenej brehovej čiary potoka Lekeš a bezmenného potoka v západnej časti
+     obce.
+                                                   10
+
+-    Ochranné pásmo lesa v šírke 50 m od hranice lesného pozemku. Všetky činnosti v tomto pásme
+     musia byť v súlade s požiadavkami zákona č. 326/2025 o lesoch. Každý zásah v tomto pásme
+     musí byť posudzovaný orgánom štátnej správy lesného hospodárstva
+-    Ochranne pasmo cintorina v širke 50 m od oplotenia, pretože obec ma riešene celoobecne siete s
+     pitnou vodou.
+-     Ochranné pásmo cintorína v šírke 10 m od oplotenia pozemku cintorína.
+-    Ochranne pásmo poľnohospodárskej časti hospodárskeho dvora je v šírke 50 m od oplotenia po
+     realizácií ochrannej zelene.
+-    Ochranne pásmo je 30 m od oplotenia časti hospodárskeho dvora s výrobnou funkciou.
+-    Ochranne pásmo čistiarne odpadových vôd je v šírke 100 70 m od oplotenia areálu ČOV
+-    Ochranné pásmo okrskového prehľadového rádiolokátora TAR/SRE/KZ, sektor C, ktoré určuje na
+    území obce výškové obmedzenie stavieb a zariadení nestavebnej povahy v rozmedzí nadmorských
+    výšok cca 469,1 – 503,4 m n.m. Bpv (obmedzujúca výška objektov na území obce turbíny s
+    rotujúcimi lopatkami, stúpa v sklone 0,5° v smere od zariadenia, ktoré je umiestnené na Letisku
+    Košice). V zmysle leteckého zákona je Dopravný úrad na území obce dotknutým orgánom v
+    povoľovacom procese stavieb letísk, osobitných letísk, heliportov, letiskových stavieb a stavieb pre
+    letecké pozemné zariadenia a ďalej uvedených stavieb a využitia územia, pre ktoré sa vyžaduje
+    súhlas Dopravného úradu. Súhlas na zhotovenie, umiestnenie alebo užívan
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/996c9c49-adb1-4f92-82c4-9080284c4701
+                                            Návrh
+
+                     Všeobecne záväzné nariadenie obce Dulova Ves č. .../2026,
+                                ktorým sa vyhlasuje záväzná časť
+                     Zmien a doplnkov č. 3 Územného plánu obce Dulova Ves
+
+        Obec Dulova Ves podľa § 6 ods. 1 a § 11 ods. 4 písm. g) zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a podľa § 27 ods. 3 zákona č. 50/1976 Zb.
+o územnom plánovaní a stavebnom poriadku v znení účinnom do 31.3.2024 v spojení s § 40a
+ods. 6 zákona č. 200/2022 Z.z. o územnom plánovaní v znení neskorších predpisov vydáva toto
+všeobecne záväzné nariadenie:
+
+
+                                           Článok 1
+                                      Základné ustanovenia
+
+1. Týmto všeobecne záväzným nariadením sa vyhlasuje záväzná časť Zmien a doplnkov č. 3
+   Územného plánu obce Dulova Ves.
+2. Záväzná časť Zmien a doplnkov č. 3 Územného plánu obce Dulova Ves je uvedená v prílohe
+   tohto všeobecne záväzného nariadenia.
+
+
+                                           Článok 2
+                     Uloženie dokumentácie Územného plánu obce Dulova Ves
+
+Dokumentácia Zmien a doplnkov č. 3 Územného plánu obce Dulova Ves je uložená na:
+ a) Obci Dulova Ves, Obecnom úrade v Dulovej Vsi,
+ b) Stavebnom úrade obce Dulova Ves, Spoločnom stavebnom úrade Prešov,
+ c) Úrade pre územné plánovanie a výstavbu SR, Regionálnom úrade pre územné plánovanie
+    a výstavbu Prešov.
+
+
+                                            Článok 3
+                                      Záverečné ustanovenia
+
+   Toto všeobecne záväzné nariadenie je platné dňom vyvesenia a nadobúda účinnosť 15-tym
+dňom od vyvesenia.
+
+
+V Dulovej Vsi dňa .................
+
+
+
+
+                                                             Mgr. Lukáš Onofrej
+                                                               starosta obce
+

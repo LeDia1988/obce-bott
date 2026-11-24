@@ -1,0 +1,700 @@
+URL: https://cuet.slovensko.sk/en/dokument/7b9ee5d1-b5c6-4316-9519-e500d4c47f3c
+OBEC: Víťaz (Prešov)
+NÁZOV: Návrh rozpočtu obce Víťaz na roky 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/7b9ee5d1-b5c6-4316-9519-e500d4c47f3c
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu obce Víťaz na roky 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Víťaz (OVM)
+Published from:
+23.11.2026
+Registry symbol:
+Documents author:
+Obec Víťaz (OVM)
+Published to:
+31.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu obce Víťaz na roky 2027-2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Webové sídlo
+Date of alternative publication start:
+23.11.2026
+Date of alternative publication end:
+31.12.2026
+Attachment name:
+Návrh rozpočtu 2027-2029 - príjmy.pdf
+Type and size:
+.pdf, 209.73 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh rozpočtu 2027-2029 - výdavky.pdf
+Type and size:
+.pdf, 633.04 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh programového rozpočtu 2027-2029.pdf
+Type and size:
+.pdf, 161.24 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/ff180240-8f6b-45be-b110-ef12a89440f6
+Obec Víťaz S/N 2                                                                N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                      Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                            Zvesený:                                                                                    Strana č.   1
+                                Príjmy podľa ekonomickej klasifikácie                 Skutočné plnenie          Rozpočet roku 2026                         Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                2024          2025        Schvávený    Očakávaná skut.    2027 2028 2029
+                                                                                                                                                            2028
+                                                                                                                                                               2024
+                                                                                                                                                                 2029 2024
+                                                                                                                                                                        2029 2024
+41    R 111003                    Výnos dane z príjmov poukázaný územnej s           846 982,89   701 492,63     770 261,-      770 261,-      822 286,-     855 631,-        897 547,-
+         111 *** DAN Z PRÍJMOV FYZICKEJ OSOBY                                        846 982,89   701 492,63     770 261,-      770 261,-      822 286,-     855 631,-        897 547,-
+41    R 121001                   Daň z pozemkov                                        9 447,91     9 981,61       8 500,-         8 500,-      10 000,-      10 000,-         10 000,-
+41    R 121002                   Daň zo stavieb                                       13 093,85    13 750,08      11 000,-        11 000,-      13 000,-      13 000,-         13 000,-
+         121 *** DAŇ Z NEHNUTEĽNOSTÍ                                                  22 541,76    23 731,69      19 500,-        19 500,-      23 000,-      23 000,-         23 000,-
+41    R 133001                    Daň za psa                                             866,50     1 063,-        1 000,-         1 000,-       1 000,-       1 000,-          1 000,-
+41    R 133012                    Daň za užívanie verejného priestranstva                400,-        395,-          300,-           300,-       1 000,-       1 000,-          1 000,-
+41    R 133013                    Poplatok za komunálne odpady a drobné st            41 787,38    48 248,88      45 000,-        45 000,-
+41    R 133013 999                Za komunálne odpady a drobné stavebné od                                                                      70 000,-      70 000,-         70 000,-
+         133 *** DANE ZA ŠPECIFICKÉ SLUŽBY                                            43 053,88    49 706,88      46 300,-        46 300,-      72 000,-      72 000,-         72 000,-
+41    R 212002                    Príjmy z prenaj.pozemkov - Agrovit,SPP                 217,19       236,19         250,-           250,-         250,-         250,-            250,-
+41    R 212003                    Nájom - kadern., kozmet., pošta                      4 115,31     4 136,71       4 110,-         4 110,-       3 900,-       3 900,-          3 900,-
+41    R 212003 08                 Nájom - sála OcÚ v budove Jednoty                       30,-        180,-          150,-           150,-         300,-         300,-            300,-
+41    R 212003 24                 Nájom - Oddychové centrum                              420,-        653,-          600,-           600,-         600,-         600,-            600,-
+41    R 212003 40                 Nájom - Bytový dom                                  10 354,32    10 353,96      10 355,-        10 355,-      10 355,-      10 355,-         10 355,-
+41    R 212003 46                 Nájom - multifunkčné ihrisko pri RD                     68,-
+41    R 212003 58                 Nájom - stany                                          120,-         25,-          100,-           100,-         100,-         100,-            100,-
+41    R 212003 61                 Nájom - Viacúčelový sál                              4 790,-      6 022,50       4 500,-         4 500,-       6 000,-       6 000,-          6 000,-
+41    R 212004                    Nájom - nákladné autá - Renault,Fiat                 1 270,36       330,40         500,-           500,-         500,-         500,-            500,-
+41    R 212004 24                 Nájom - zariadenie - Odd.centrum                                     45,-           50,-            50,-          20,-          20,-             20,-
+41    R 212004 61                 Nájom - zariadenie - Viacúčel.sál                    1 087,50       513,-                                        200,-         200,-            200,-
+         212 *** PRÍJMY Z VLASTNÍCTVA                                                 22 472,68    22 495,76      20 615,-        20 615,-      22 225,-      22 225,-         22 225,-
+41    R 221002                   Správne poplatky                                      4 721,86     6 088,-        5 000,-         5 000,-       5 000,-       5 000,-          5 000,-
+41    R 221004                   Ostatné poplatky                                         15,80
+         221 *** ADMINISTRATÍVNE POPLATKY                                              4 737,66     6 088,-        5 000,-         5 000,-       5 000,-       5 000,-          5 000,-
+41    R 222003                     Za porušenie predpisov - záškoláctvo                                270,-
+72g   R 222003 13                  Penále - knižnica                                    267,-          246,20
+         222 *** POKUTY, PENÁLE A INÉ SANKCIE                                           267,-          516,20
+41    R 223001                          Poplatky-MR,ryb.lístky,KUKA,VO                 2 485,24     4 437,19       2 500,-         2 500,-       3 500,-       3 500,-          3 500,-
+41    R 223001 11                       Obec-príjemm réž.nákladov od ŠJ               24 138,14    35 104,36      25 000,-        25 000,-      25 000,-      25 000,-         25 000,-
+41    R 223001 17                       Poplatky - za hrobové miesta                     440,-        240,-           50,-            50,-         100,-         100,-            100,-
+41    R 223001 28                       Poplatky - za predaj hrobky                    5 768,-      5 387,60
+41    R 223001 30                       Poplatky - OPS                                 1 861,80     1 571,80       1 500,-         1 500,-
+41    R 223001 43                       Poplatky - vodné                              11 937,98    16 387,01       7 000,-         7 000,-       7 000,-       7 000,-          7 000,-
+72f   R 223001 11                       ŠJ-príjem réž.nákladov                         2 610,56     1 580,99
+72g   R 223001 07                       Poplatky - Obecný výlet                        1 676,68
+72g   R 223001 13                       Poplatky - knižnica                              240,-        560,-          500,-           500,-         500,-         500,-            500,-
+72g   R 223001 61                       Poplatok - lístky na div.predstavenie                         730,-
+72g   R 223001 72                       Poplatky - Zariadenie pre seniorov            70 043,16    92 379,44      91 980,-        91 980,-     100 740,-     100 740,-        100 740,-
+72g   R 223002 10                       Školné - MŠ                                    4 525,-      3 450,-        4 000,-         4 000,-       4 000,-       4 000,-          4 000,-
+Obec Víťaz S/N 2                                                                  N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                        Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                              Zvesený:                                                                                    Strana č.   2
+                                Príjmy podľa ekonomickej klasifikácie                   Skutočné plnenie          Rozpočet roku 2026                         Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                  2024          2025        Schvávený    Očakávaná skut.    2027 2028 2029
+                                                                                                                                                              2028
+                                                                                                                                                                 2024
+                                                                                                                                                                   2029 2024
+                                                                                                                                                                          2029 2024
+72g   R 223002 32                  Školné - ŠKK                                          5 163,-      5 115,-        4 500,-         4 500,-       5 000,-       5 000,-          5 000,-
+72g   R 223002 44                  Školné - Detské jasle                                 3 920,-     15 585,70      19 200,-        19 200,-      15 000,-      15 000,-         15 000,-
+72g   R 223002 93                  Škola v prírode - príspevok rodičov                   2 700,-
+72f   R 223003 11                  ŠJ - príjem stravného                                54 907,40    59 617,89      55 000,-        55 000,-      55 000,-      55 000,-         55 000,-
+41    R 223004                     Za prebytočný hnuteľný majetok                        1 020,-
+         223 *** POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO                              193 436,96   242 146,98     211 230,-      211 230,-      215 840,-     215 840,-        215 840,-
+41    R 229005                   Za znečisťovanie ovzdušia
+         229 *** ĎALŠIE ADMINISTRATÍVNE POPLATKY A INÉ PO
+72e   R 292006                          Z náhrad z poistného plnenia                                  2 400,37
+72g   R 292012 11                       Z dobropisov
+111   R 292017 09                       Z vratiek - ZŠ
+41    R 292017                          Vratky                                          10 074,17     1 370,85
+41    R 292017 40                       Vratky - za vývoz žumpy z min.roka                 822,60       888,37
+41    R 292017 43                       Z vratiek - Obecný vodovod
+72g   R 292017 11                       Z vratiek - ŠJ                                                   182,98
+72g   R 292027 11                       Poukážky na tovar - ŠJ
+         292 *** OSTATNÉ PRÍJMY                                                         10 896,77     4 842,57
+72a   R 311     09                      GRANTY - ZŠ
+72g   R 311     07                      GRANTY                                                          500,-
+72g   R 311     25                      Dotácia - Futbalový turnaj                                    1 000,-
+72g   R 311     44                      Dar - Detské jasle                                               50,-
+72g   R 311     55                      GRANTY - Fašiangová zabíjačka
+72g   R 311     72                      Dar pre ZPS                                      1 200,-
+         311 *** GRANTY                                                                  1 200,-      1 550,-
+111   R 312001                          Dotácia zo ŠR                                      500,-
+111   R 312001 0002                     Zo ŠR - Dotácia na stavebný úsek                              3 307,65       3 500,-         3 500,-
+111   R 312001 07                       Zo ŠR - odmeny - originál.kompetencie           15 949,-     40 969,-
+111   R 312001 09                       Zo ŠR - ZŠ odchodné                                                                                        5 300,-       5 300,-          5 300,-
+111   R 312001 10                       Zo ŠR - MŠ odchodné                                                                                        4 650,-       4 650,-          4 650,-
+111   R 312001 11                       Zo ŠR - dotácia pre ŠJ                                        1 185,33
+111   R 312001 19                       Zo ŠR - dotácia pre DHZ - pohonné hmoty                         103,17
+111   R 312001 32                       Zo ŠR - dotácia pre ŠKK                                         592,67
+111   R 312001 33                       PND - osob.príjemca                              6 540,-      6 180,-        6 000,-         6 000,-       8 500,-       8 500,-          8 500,-
+111   R 312001 38                       Zo ŠR - registrácia obyvateľov                     690,47       712,74         720,-           720,-         720,-         720,-            720,-
+111   R 312001 44                       Zo ŠR - Detské jasle                                                                                      54 000,-      54 000,-         54 000,-
+111   R 312001 52                       Zo ŠR projekt zamestnanosť                         154,20       743,77
+111   R 312001 53                       Zo ŠR - Chránená dielňa                          3 681,20     3 973,60       4 050,-         4 050,-       4 000,-       4 000,-          4 000,-
+111   R 312001 60                       Dávka v HN - osob.príjemca                       2 676,-        559,-
+111   R 312001 63                       Zo ŠR - Voľby do VÚC a samosprávy
+111   R 312001 64                       Zo ŠR - školské potreby pre HN                     282,20       182,60         120,-           120,-         120,-         120,-            120,-
+111   R 312001 69                       Zo ŠR - podpora strav.náv.MŠ                     5 481,-      7 579,60       8 000,-         8 000,-       8 000,-       8 000,-          8 000,-
+Obec Víťaz S/N 2                                                                   N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                         Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                    Strana č.   3
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie           Rozpočet roku 2026                        Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024          2025         Schvávený   Očakávaná skut.    2027 2028 2029
+                                                                                                                                                               2028
+                                                                                                                                                                  2024
+                                                                                                                                                                    2029 2024
+                                                                                                                                                                           2029 2024
+111 R 312001 70                         Zo ŠR - podpora strav.náv.ZŠ                     36 609,30    33 366,90      35 000,-       35 000,-       35 000,-      35 000,-         35 000,-
+111 R 312001 72                         Zo ŠR - Zariadenie pre seniorov                  53 287,22   115 200,-      125 376,-      125 376,-      137 870,-     137 870,-        137 870,-
+111 R 312001 77                         Zo ŠR - na protipovodňové opatrenia                            7 865,96
+111 R 312001 82                         Zo ŠR - na asistenta ZŠ                                                                                    29 630,-      29 630,-         29 630,-
+111 R 312001 83                         Zo ŠR - životné prostredie                          241,93        263,76        270,-           270,-         280,-         280,-            280,-
+111 R 312001 84                         Voľby do Eur.parlamentu                           3 268,44
+111 R 312001 85                         Dotácia - Voľby prezidenta                        4 859,98
+111 R 312001 87                         Zo ŠR - Referendum
+111 R 312001 90                         Zo ŠR - učebnice pre ZŠ a MŠ                                                                                1 500,-       1 500,-          1 500,-
+111 R 312001 91                         Zo ŠR - na školský podpor.tím                                                                               9 972,-       9 972,-          9 972,-
+111 R 312001 92                         Zo ŠR - Voľby do NRSR
+111 R 312001 99                         Zo ŠR - na asistenta MŠ                                                                                     9 876,-       9 876,-          9 876,-
+1AA2 R 312001 44                        Z EFRR - Detské jasle                             3 921,-
+1AA2 R 312001 72                        Zo ŠR - Zariadenie pre seniorov                   9 189,45
+1BA1 R 312001 11                        Z EÚ - dotácia na Rekonštrukciu ŠJ                                                                         17 090,-
+1BA1 R 312001 32                        Z EÚ - dotácia na Školský klub detí                                                                        42 540,-
+1BA1 R 312001 995                       Z EÚ dotácia na Zberný dvor-bežné príjmy                          556,92     33 270,-        33 270,-
+1BA2 R 312001 11                        Zo ŠR - dotácia na Rekonštrukciu ŠJ                                                                         3 020,-
+1BA2 R 312001 32                        Zo ŠR - dotácia na Školský klub detí                                                                        7 510,-
+1BA2 R 312001 995                       ZoŠR dotácia na Zberný dvor-bežné príjmy                            98,28     5 870,-         5 870,-
+1BB1 R 312001 10                        Z EÚ - MŠ asistent                                8 897,24
+1BB1 R 312001 82                        Z EÚ - ZŠ asistent                               10 228,01
+1BB2 R 312001 10                        Zo ŠR - MŠ asistent                               1 070,31
+1BB2 R 312001 82                        Zo ŠR - ZŠ asistent                               1 021,13
+3BB1 R 312001 10                        Z EÚ - MŠ asistent                                3 470,26
+3BB1 R 312001 54                        Z EÚ - Rozvojové tímy I.                        210 102,57   211 520,66     237 013,-      237 013,-      153 805,-     153 805,-        153 805,-
+3BB1 R 312001 82                        Z EÚ - ZŠ asistent                                2 382,19
+3BB1 R 312001 89                        Z EÚ - Dotácia pre MOPS                          55 250,-     51 000,-       60 000,-        60 000,-
+3BB2 R 312001 10                        Zo ŠR - MŠ asistent                               1 112,19
+3BB2 R 312001 54                        Zo ŠR - Rozvojové tímy I.                        37 076,93    37 327,18      41 945,-        41 945,-      27 140,-      27 140,-         27 140,-
+3BB2 R 312001 82                        Zo ŠR - ZŠ asistent                                 918,67
+3BB2 R 312001 89                        Zo ŠR - Dotácia pre MOPS                          9 750,-      9 000,-       10 290,-        10 290,-
+72c R 312001                            Dotácia - "Dajme spolu gól"                         100,-        300,-
+72g R 312001 11                         Poukážka pre ŠJ                                                  169,52
+11H R 312008 61                         Dotácia z PSK - Viacúčelový sál                                5 000,-
+11H R 312011                            MR PBU        182/VÚB dotácia na                  2 000,-      1 000,-
+11H R 312011 13                         Dotácia z FPU - knižnica
+111 R 312012 0001                       Zo ŠR - odmeny - MŠ+MŠA+ŠPT                                   10 873,-
+111 R 312012 09                         Prenesený výkon ZŠ                              438 417,-    424 169,-      476 647,-      476 647,-      445 000,-     445 000,-        445 000,-
+111 R 312012 10                         Prenesený výkon MŠ                               17 836,-    232 827,-      250 000,-      250 000,-      267 960,-     267 960,-        267 960,-
+111 R 312012 20                         Zo ŠR - dotácia pre MŠ-súč.vých.vzdel.pr                       4 200,-        4 200,-        4 200,-        3 800,-       3 800,-          3 800,-
+111 R 312012 34                         Zo ŠR - vzdelávacie poukazy pre ZŠ                3 174,-      3 085,-        4 000,-        4 000,-        3 000,-       3 000,-          3 000,-
+Obec Víťaz S/N 2                                                              N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený:                                                                    Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                          Zvesený:                                                                                        Strana č.   4
+                                Príjmy podľa ekonomickej klasifikácie               Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie              2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                              2028
+                                                                                                                                                                 2024
+                                                                                                                                                                   2029 2024
+                                                                                                                                                                          2029 2024
+111   R 312012 68                Zo ŠR - deti zo soc.znevýh.prostredia               4 400,-       5 150,-                                         4 000,-        4 000,-         4 000,-
+111   R 312012 80                Zo ŠR - odmeny - ZŠ+ZŠA+ŠPT                                      14 901,-
+111   R 312012 82                Zo ŠR - dotácia asistent učit.ZŠ                   22 832,-      35 295,85      37 000,-         37 000,-
+111   R 312012 90                Zo ŠR - učebnice pre ZŠ                             2 601,-       2 960,-        3 000,-          3 000,-
+111   R 312012 91                Zo ŠR - Školský podporný tím                        5 403,-      10 885,-
+111   R 312012 93                Zo ŠR - škola v prírode                             2 700,-                       2 700,-        2 700,-
+111   R 312012 99                Zo ŠR - dotácia asistent učit.MŠ                    3 996,-       11 123,15       9 500,-        9 500,-
+         312 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                 992 069,89   1 294 227,31   1 358 471,-    1 358 471,-      1 284 283,-    1 214 123,-     1 214 123,-
+72c   R 315     42               Transfér-Šanca na čisté okolie                                     4 950,-
+72j   R 315                      Transfér pre DHZ                                    3 000,-                       3 000,-         3 000,-
+72j   R 315     19               Transfer pre DHZ                                                   3 000,-                                        3 000,-        3 000,-         3 000,-
+         315 *** TRANSF.OD SUBJEKT. NEZARAD.VO VER.SPRÁVE                            3 000,-        7 950,-        3 000,-         3 000,-         3 000,-        3 000,-         3 000,-
+
+        1 Časť I. Bežný rozpočet                                                 2 140 659,49   2 354 748,02   2 434 377,-    2 434 377,-      2 447 634,-    2 410 819,-     2 452 735,-
+41    R 233001                    Z predaja pozemkov                                                    1,-
+         233 *** PRÍJEM Z PREDAJA POZEMKOV A NEHMOTNÝCH A                                               1,-
+72g   R 321     36                      IBV Harb - pripojovacie poplatky
+         321 *** GRANTY
+111 R 322001 26                 Dotácia na RD - rekonštruk.strechy                                20 000,-
+111 R 322001 30                 Dotácia na osobný automobil                                       14 000,-
+1BA1 R 322001 11                Z EÚ - dotácia - Rekonštrukcia ŠJ                                                                               226 880,-
+1BA1 R 322001 32                Z EÚ - dotácia - Rekonštrukcia ŠKD                                                                              443 920,-
+1BA1 R 322001 995               Z EÚ dotácia na Zberný dvor-kapitál.príj                            7 956,-     369 840,-       369 840,-
+1BA2 R 322001 11                Zo ŠR - dotácia - Rekonštrukcia ŠJ                                                                               40 040,-
+1BA2 R 322001 32                Zo ŠR - dotácia - Rekonštrukcia ŠKD                                                                              78 340,-
+1BA2 R 322001 995               Zo ŠR dotácia na Zberný dvor-kapitál.prí                            1 404,-      65 270,-         65 270,-
+3AA1 R 322001 10                Dotácia Rozšír. MŠ                                  38 763,74
+3AA2 R 322001 10                Dotácia rozšírenie MŠ                                6 840,67
+45   R 322002 402               Dotácia na výstavbu byt.domu II.-ŠFRB                                           350 000,-       350 000,-
+11H R 322006 61                 Z VÚC na Viacúčelovú sálu
+        322 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                   45 604,41     43 360,-      785 110,-       785 110,-       789 180,-
+
+        2 Časť I. Kapitálový rozpočet                                               45 604,41     43 361,-      785 110,-       785 110,-       789 180,-
+131N R 453         09                   Prostr.z r.2023 - normatívy ZŠ              44 758,98
+131N R 453         095                  Prostr.z r.2023 - "Čítame radi"                750,-
+131N R 453         10                   Prostr.z r.2023 - dotácia pre MŠ             1 809,80
+131N R 453         68                   Prostr.z r.2023 - SZP                        1 712,84
+131N R 453         69                   Prostr.z r.2023 - SNMŠ                       1 950,20
+131N R 453         70                   Prostr.z r.2023 - SNZŠ                       4 302,90
+131N R 453         992                  Prostr. z r.2023 - Energie ZŠ                2 700,-
+131O R 453         09                   Prostriedky z r.2024 - ZŠ normatívy                         1 985,-
+131O R 453         68                   Prostriedky z r.2024 - SZP                                  1 010,40
+Obec Víťaz S/N 2                                                           N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                 Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                       Zvesený:                                                                               Strana č.   5
+                                Príjmy podľa ekonomickej klasifikácie            Skutočné plnenie          Rozpočet roku 2026                    Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie           2024          2025        Schvávený    Očakávaná skut.   2027 2028 2029
+                                                                                                                                                      2028
+                                                                                                                                                         2024
+                                                                                                                                                           2029 2024
+                                                                                                                                                                  2029 2024
+131O R 453     69                Prostriedky z r.2024 - SNMŠ                                   2 259,60
+131O R 453     70                Prostriedky z r.2024 - SNZŠ                                   4 945,50
+131P R 453     09                Prostriedky z r.2025 - ZŠ
+131P R 453     68                Prostriedky z r.2025 - SZP
+131P R 453     69                Prostriedky z r.2025 - SNMŠ
+131P R 453     70                Prostriedky z r.2025 - SNZŠ
+131P R 453     72                Prostriedky z r.2025 - ZPS
+3BB1 R 453     54                Prostriedky z min.rokov - RT I.                              69 105,18
+3BB1 R 453     89                Prostriedky z min.rokov - MOPS                               17 963,60
+3BB2 R 453     54                Prostriedky z min. rokov - RT I.                             12 192,62
+3BB2 R 453     89                Prostriedky z min.rokov - MOPS                                3 170,15
+41   R 453     11                Prostriedky z min. rokov - ŠJ                                 2 610,56
+46   R 453     40                Prostr. z min.rokov - FO BD                        219,60
+71   R 453     40                Prostriedky z min.rokov-BD-zábezpeka                             915,42
+71   R 453     433               Prostriedky z min.rokov - Vodovod
+72f R 453      11                Prostr.z min.rokov - ŠJ                          2 139,66
+72g R 453      10                Prostriedky z min.rokov - MŠ školné                           1 558,71
+72g R 453      13                Prostriedky z r.2024 - členské knižnica              9,19        41,36
+72g R 453      44                Prostriedky z min.rokov - DJ
+72g R 453      72                Prostriedky z min.rokov - ZPS
+        453 *** PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                             60 353,17   117 758,10
+46    R 454001 10                RF - Materská škola
+46    R 454001 17                RF - Cintorín
+46    R 454001 25                RF - Banková                                     2 251,22
+46    R 454001 27                RF - Kanalizácia a ČOV
+46    R 454001 31                RF - IBV Marmužov                                             8 459,73
+46    R 454001 36                RF - IBV Harb                                   13 425,-     12 943,-
+46    R 454001 402               RF - Bytový dom II.
+46    R 454001 43                RF - Obecný vodovod                              5 654,87
+46    R 454001 61                RF - Viacúčlový sál
+46    R 454001 67                RF - Chodník Dlhé - Marmužov                                                40 000,-        40 000,-
+46    R 454001 94                RF - dom č.176                                  50 000,-
+46    R 454001 993               RF - Rekonštrukcia chodníkov - MŠ-Ulica         24 322,20
+46    R 454001 994               RF - Rekonštrukcia chodníkov Dlhé-Cint.         25 677,80
+46    R 454001 995               RF - Zberný dvor v obci Víťaz                    9 360,-
+         454 *** PREVOD PROSTRIEDKOV Z PEŇAŽNÝCH FONDOV                         130 691,09    21 402,73      40 000,-        40 000,-
+41    R 456002 36                 Prijaté finančné zábezpeky-IBV Harb
+71    R 456002 40                 BD - prijaté finančné zábezpeky                                915,42
+72g   R 456002 995                Zberný dvor - prijaté fin. zábezpeky                        42 000,-
+         456 *** INÉ PRÍJMOVÉ FINANČNÉ OPERÁCIE                                               42 915,42
+52    R 513002                          Dlhodobý úver z VÚB                                                 300 000,-      300 000,-
+Obec Víťaz S/N 2                                                             N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený:                                                                   Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                         Zvesený:                                                                                        Strana č.   6
+                                Príjmy podľa ekonomickej klasifikácie              Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie             2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                             2028
+                                                                                                                                                                2024
+                                                                                                                                                                  2029 2024
+                                                                                                                                                                         2029 2024
+            513 *** BANKOVÉ ÚVERY                                                                              300 000,-       300 000,-
+45    R 514002                    Prijatie úveru z Environmentálneho fondu                                     265 680,-       265 680,-
+45    R 514002 402                Prijatý úver zo ŠFRB                                                         650 000,-       650 000,-
+         514 *** OSTATNÉ ÚVERY, POŽIČKY A NÁVRATNÉ FINANČ                                                      915 680,-       915 680,-
+
+        3 Časť II. Finančné operácie                                              191 044,26    182 076,25    1 255 680,-    1 255 680,-
+
+        CELKOM P R Í J M Y                                                      2 377 308,16   2 580 185,27   4 475 167,-    4 475 167,-      3 236 814,-    2 410 819,-     2 452 735,-
+© IFOsoft
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/742b689e-921e-4018-b2c3-02b68402dc42
+Obec Víťaz S/N 2                                                                                     N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                  Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                        Zvesený:                                                                                       Strana č.   1
+
+             Kód                                                  Výdavky podľa                   Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie             2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                           2028
+                                                                                                                                                                              2024
+                                                                                                                                                                                2029 2024
+                                                                                                                                                                                        2029 2024
+111 R 1. 1.            0111 611                      Mzdy OcÚ - dotácia z REGOB                     690,47       712,74            720,-            720,-         720,-          720,-           720,-
+41 R 1. 1.             0111 611                      Mzdy OcÚ                                    92 782,85    94 045,45        107 000,-        107 000,-     132 500,-      132 500,-       132 500,-
+                       0111 611         TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                 93 473,32    94 758,19        107 720,-        107 720,-     133 220,-      133 220,-       133 220,-
+41    R 1. 1.          0111 612001           Osobný príplatok                                     8 506,18     9 235,31         16 000,-         16 000,-      23 000,-       23 000,-        23 000,-
+41    R 1. 1.          0111 612002           Ostatné prípaltky                                    2 536,44     2 416,42          3 000,-          3 000,-       3 000,-        3 000,-         3 000,-
+                       0111 612    PRÍPLATKY                                                     11 042,62    11 651,73         19 000,-         19 000,-      26 000,-       26 000,-        26 000,-
+111 R 1. 1.            0111 614                         ODMENY - dotácia                                       3 040,-
+41 R 1. 1.             0111 614                         ODMENY                                    7 433,50     5 185,-          13 000,-         13 000,-      13 000,-       13 000,-        13 000,-
+                       0111 614         ODMENY                                                    7 433,50     8 225,-          13 000,-         13 000,-      13 000,-       13 000,-        13 000,-
+111 R 1. 1.            0111 621                    Poistné do VšZP - dotácia                                     233,33
+41 R 1. 1.             0111 621                    Poistné do VšZP                               11 433,51    11 437,11         13 620,-         13 620,-      15 030,-       15 030,-        15 030,-
+                       0111 621         POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV                 11 433,51    11 670,44         13 620,-         13 620,-      15 030,-       15 030,-        15 030,-
+111 R 1. 1.            0111 623                    Poistné - Dôvera + Union - dotácia                             70,40
+41 R 1. 1.             0111 623                    Poistné Dôvera + Union                         2 037,19     1 945,29           3 600,-         3 600,-       3 560,-        3 560,-         3 560,-
+                       0111 623         POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                  2 037,19     2 015,69           3 600,-         3 600,-       3 560,-        3 560,-         3 560,-
+111   R   1. 1.        0111    625001            Na nemocenské poistenie - dotácia                                11,20
+41    R   1. 1.        0111    625001            Na nemocenske poistenie                          1 605,64     1 637,29           2 000,-         2 000,-       2 180,-        2 180,-         2 180,-
+111   R   1. 1.        0111    625002            Na starobné poistenie - dotácia                                 112,-
+41    R   1. 1.        0111    625002            Na starobne poistenie                           17 185,19    17 398,76         22 000,-         22 000,-      23 660,-       23 660,-        23 660,-
+111   R   1. 1.        0111    625003            Na úrazové poistenie - dotácia                                    6,40
+41    R   1. 1.        0111    625003            Na urazove poistenie                             1 041,18       962,25           1 300,-         1 300,-       1 350,-        1 350,-         1 350,-
+111   R   1. 1.        0111    625004            Na invalidné poistenie - dotácia                                 24,-
+41    R   1. 1.        0111    625004            Na invalidné poistenie                           3 679,33     3 723,64           4 700,-         4 700,-       5 070,-        5 070,-         5 070,-
+111   R   1. 1.        0111    625005            Na poistenie v nezamestnanosti - dotácia                          8,-
+41    R   1. 1.        0111    625005            Na poistenie v nezamestnanosti                   1 146,71     1 169,39           1 400,-         1 400,-       1 560,-        1 560,-         1 560,-
+111   R   1. 1.        0111    625007            Na poistenie do RF - dotácia                                     38,-
+41    R   1. 1.        0111    625007            Na poistenie do rezervného fondu solidar         5 822,46     5 900,81          7 500,-          7 500,-       8 030,-        8 030,-         8 030,-
+                       0111    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                             30 480,51    30 991,74         38 900,-         38 900,-      41 850,-       41 850,-        41 850,-
+41    R 1. 1.          0111 631001           Cestovné náhrady tuzemské                              410,54       234,96             400,-           400,-         300,-          300,-           300,-
+41    R 1. 1.          0111 631002           Cestovné náhrady zahraničné                            725,54       960,82           1 200,-         1 200,-       1 200,-        1 200,-         1 200,-
+                       0111 631    CESTOVNÉ NÁHRADY                                               1 136,08     1 195,78           1 600,-         1 600,-       1 500,-        1 500,-         1 500,-
+41    R   1. 1.        0111    632001            Energie                                          2 639,09     2 005,25           2 500,-         2 500,-
+41    R   1. 1.        0111    632002            Vodné, stočné                                        9,20        20,15              30,-            30,-          50,-           50,-            50,-
+41    R   1. 1.        0111    632003            Postove a telekomunikacne sluzby                 2 278,98     2 223,10           2 300,-         2 300,-       2 100,-        2 100,-         2 100,-
+41    R   1. 1.        0111    632004            Internet                                           276,66       443,56             510,-           510,-         650,-          650,-           650,-
+41    R   1. 1.        0111    632005            Telefón                                          1 409,22     1 453,24           1 450,-         1 450,-       1 500,-        1 500,-         1 500,-
+41    R   1. 1.        0111    632006            Elektrina                                                                                                      2 300,-        2 300,-         2 300,-
+                       0111    632    ENERGIE, VODA A KOMUNIKÁCIE                                 6 613,15     6 145,30           6 790,-         6 790,-       6 600,-        6 600,-         6 600,-
+41    R 1. 1.          0111    633001                   Interierove vybavenie                       85,20          585,80         1 000,-         1 000,-       1 000,-        1 000,-         1 000,-
+41    R 1. 1.          0111    633002                   Výpočtová technika                                                                                        500,-          500,-           500,-
+Obec Víťaz S/N 2                                                                                             N á v r h r o z p o č t u - podrobný výpis              VÝDAVKY
+Schválený:                                                                                         Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený:                                                                                       Strana č.   2
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024           2025        Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+41    R   1. 1.        0111    633004                   Prevadzkove stroje,pristroje,zariadenia,                       3 111,77           500,-            500,-         500,-          500,-           500,-
+41    R   1. 1.        0111    633006                   Vseobecny material                               3 933,20      2 923,23         3 000,-          3 000,-       3 500,-        3 500,-         3 500,-
+41    R   1. 1.        0111    633009                   Knihy,casopisy,noviny,ucebnice,ucebne a            667,20      1 525,98           300,-            300,-         500,-          500,-           500,-
+41    R   1. 1.        0111    633010                   Pracovné odevy, obuv a pracovné pomôcky             70,75                         150,-            150,-         150,-          150,-           150,-
+41    R   1. 1.        0111    633013                   Softver a licencie                               1 415,11       770,17          1 000,-          1 000,-       1 000,-        1 000,-         1 000,-
+41    R   1. 1.        0111    633015                   Palivá ako zdroj energie                         1 382,73     1 528,28          1 700,-          1 700,-       1 700,-        1 700,-         1 700,-
+41    R   1. 1.        0111    633016                   Reprezentacne                                    3 755,43     4 812,96          4 000,-          4 000,-       4 000,-        4 000,-         4 000,-
+                       0111    633    MATERIÁL                                                          11 309,62    15 258,19         11 650,-         11 650,-      12 850,-       12 850,-        12 850,-
+41    R 1. 1.          0111    634002                   Servis,údržba,opravy,popl.em.kontr.STK             83,-                            100,-           100,-
+41    R 1. 1.          0111    634003                   Poistenie - PZP + HP                              821,48          904,12         1 000,-         1 000,-       1 200,-        1 200,-         1 200,-
+41    R 1. 1.          0111    634005                   Karty, známky, poplatky - dianič.známka                            90,-            100,-           100,-         150,-          150,-           150,-
+                       0111    634    DOPRAVNÉ                                                            904,48          994,12         1 200,-         1 200,-       1 350,-        1 350,-         1 350,-
+41    R 1. 1.          0111 635004            Prevadzkovych strojov,pristrojov,zariade                   1 681,28         820,95         1 000,-         1 000,-       1 000,-        1 000,-         1 000,-
+41    R 1. 1.          0111 635006            Budov, priestorov a objektov                                 400,-                         1 000,-         1 000,-       1 000,-        1 000,-         1 000,-
+                       0111 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                           2 081,28         820,95         2 000,-         2 000,-       2 000,-        2 000,-         2 000,-
+41    R 1. 1.          0111 636001           Nájomné za nájom budov, pozemkov                                7,80
+                       0111 636    NÁJOMNÉ ZA NÁJOM                                                          7,80
+41    R   1. 1.        0111    637001                   Skolenia, kurzy, seminare, porady, konfe         2 248,70      1 813,70          2 500,-         2 500,-       2 000,-        2 000,-         2 000,-
+41    R   1. 1.        0111    637003                   Propagacia, reklama a inzercia                   1 942,68      1 224,55          1 500,-         1 500,-       2 000,-        2 000,-         2 000,-
+111   R   1. 1.        0111    637004                   Všeobecné služby-dotácia zmier.inflácie          3 152,40      3 307,65          3 500,-         3 500,-
+41    R   1. 1.        0111    637004                   Vseobecne sluzby                                 5 029,38      5 727,52          5 000,-         5 000,-       5 000,-        5 000,-         5 000,-
+111   R   1. 1.        0111    637005                   Špeciálne služby-dotácia zmier.inflácie          1 516,02
+41    R   1. 1.        0111    637005                   Specialne sluzby                                 4 996,57      3 614,62         4 500,-          4 500,-       4 500,-        4 500,-         4 500,-
+41    R   1. 1.        0111    637006                   Náhrady-preventívne prehliadky                                                    100,-            100,-         100,-          100,-           100,-
+41    R   1. 1.        0111    637012                   Poplatky a odvody, vkl. do katastra                210,26       105,50            200,-            200,-         200,-          200,-           200,-
+41    R   1. 1.        0111    637014                   Stravovanie-pracovníci OcÚ                       2 577,05     2 692,65          2 600,-          2 600,-       2 600,-        2 600,-         2 600,-
+41    R   1. 1.        0111    637015                   Poistne - OcÚ + cestovné poistenie                 327,71       315,09            500,-            500,-         500,-          500,-           500,-
+41    R   1. 1.        0111    637016                   Pridel do socialneho fondu                       1 140,01       846,60          1 500,-          1 500,-       1 560,-        1 560,-         1 560,-
+41    R   1. 1.        0111    637026                   Odmeny a prispevky - poslanci + komisie         11 928,34    10 877,76         12 000,-         12 000,-      12 000,-       12 000,-        12 000,-
+41    R   1. 1.        0111    637027                   Odmeny na zaklade dohod - kronika                  480,95                         500,-            500,-       1 500,-        1 500,-         1 500,-
+41    R   1. 1.        0111    637031                   Pokuty a penále                                     92,50       602,70
+41    R   1. 1.        0111    637035                   Daň z poistenia                                     21,25        25,56             30,-             30,-          30,-           30,-            30,-
+                       0111    637    SLUŽBY                                                            35 663,82    31 153,90         34 430,-         34 430,-      31 990,-       31 990,-        31 990,-
+41    R 1. 1.          0111    642006            Na členské príspevky                                   18 919,67    14 657,66         14 500,-         14 500,-      14 500,-       14 500,-        14 500,-
+41    R 1. 1.          0111    642014            Jednotlivcovi - príspevok na stravu                       672,23       896,20            800,-            800,-       1 000,-        1 000,-         1 000,-
+41    R 1. 1.          0111    642015            Na nemocenské dávky                                        39,56                         100,-            100,-         100,-          100,-           100,-
+                       0111    642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                          19 631,46    15 553,86         15 400,-         15 400,-      15 600,-       15 600,-        15 600,-
+
+                       0111    Výkonné a zákonodarné orgány                                            233 248,34   230 434,89        268 910,-        268 910,-     304 550,-      304 550,-       304 550,-
+41    R 2. 1.          0112    637005                   Špeciálne služby - audit obce                      950,-         950,-           1 000,-         1 000,-       1 050,-        1 050,-         1 050,-
+41    R 2. 2.          0112    637012                   Poplatky a odvody                                3 371,52      3 618,54          3 800,-         3 800,-       4 000,-        4 000,-         4 000,-
+Obec Víťaz S/N 2                                                                                            N á v r h r o z p o č t u - podrobný výpis             VÝDAVKY
+Schválený:                                                                                         Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený:                                                                                     Strana č.   3
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                    2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025       Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                2028
+                                                                                                                                                                                   2024
+                                                                                                                                                                                     2029 2024
+                                                                                                                                                                                             2029 2024
+                       0112 637         SLUŽBY                                                           4 321,52     4 568,54         4 800,-         4 800,-       5 050,-        5 050,-         5 050,-
+
+                       0112 Finančné a rozpočtové záležitosti                                            4 321,52     4 568,54         4 800,-         4 800,-       5 050,-        5 050,-         5 050,-
+111 R 1. 1.            0160 614                         ODMENY - referendum                               488,83
+                       0160 614         ODMENY                                                            488,83
+111 R 1. 1.            0160 621                    Poistné do VšZP - referendum                            52,80
+                       0160 621         POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV                           52,80
+111   R   1. 1.        0160    625001            Nemocenské - referendum                                    6,72
+111   R   1. 1.        0160    625002            Starobné - referendum                                     73,97
+111   R   1. 1.        0160    625003            Úrazové - referendum                                       4,22
+111   R   1. 1.        0160    625004            Invalidné - referendum                                    15,17
+111   R   1. 1.        0160    625005            V nezamestnanosti - referendum                             4,-
+111   R   1. 1.        0160    625007            RF - referendum                                           25,09
+                       0160    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                      129,17
+111 R 1. 1.            0160 631001           Tuzemské cestovné - referendum                               199,-
+                       0160 631    CESTOVNÉ NÁHRADY                                                       199,-
+111 R 1. 1.            0160    632003            Poštové služby - referendum                               61,40
+111 R 1. 1.            0160    632004            Komunikačná infraštruktúra                                35,80
+111 R 1. 1.            0160    632005            Telekomunikačné služby - referendum                       46,80
+                       0160    632    ENERGIE, VODA A KOMUNIKÁCIE                                         144,-
+111 R 1. 1.            0160 633006                      Všeobecný materiál - referendum                   219,70
+111 R 1. 1.            0160 633016                      Reprezentačné - referendum                        150,67
+                       0160 633    MATERIÁL                                                               370,37
+111   R   1. 1.        0160    637007                   Cestovné náhrady - referendum                     950,-
+111   R   1. 1.        0160    637014                   Stravovanie - referendum
+111   R   1. 1.        0160    637026                   Odmeny a príspevky                               4 874,54
+111   R   1. 1.        0160    637027                   Odmeny - referendum                                134,44
+111   R   1. 1.        0160    637037                   Voľby prezidenta vratka nevyč.dotácie              785,27
+                       0160    637    SLUŽBY                                                             6 744,25
+
+                       0160    Všeobecné verejné služby inde neklasifikované                             8 128,42
+41    R   3. 1.        0320    632001            Energie                                                 1 698,30     1 909,17         2 000,-         2 000,-
+41    R   3. 1.        0320    632002            Vodné, stočné DHZ                                           2,80        34,99            10,-            10,-          20,-           20,-            20,-
+41    R   3. 1.        0320    632003            Poštové služby                                                          13,-
+41    R   3. 1.        0320    632004            Komunikačná infraštruktúra-internet                      104,40        270,54           260,-           260,-         260,-          260,-           260,-
+41    R   3. 1.        0320    632006            Elektrina                                                                                                             400,-          400,-           400,-
+41    R   3. 1.        0320    632007            Plyn                                                                                                                1 900,-        1 900,-         1 900,-
+                       0320    632    ENERGIE, VODA A KOMUNIKÁCIE                                        1 805,50     2 227,70         2 270,-         2 270,-       2 580,-        2 580,-         2 580,-
+41    R 3. 1.          0320    633004                   Prevádzkové stroje,prístroje,zariadenia,                        150,-
+72j   R 3. 1.          0320    633004                   Prevádzkové stroje - dotácia                     1 650,-        911,10         1 500,-         1 500,-       1 000,-        1 000,-         1 000,-
+41    R 3. 1.          0320    633006                   Všeobecný materiál                                 769,08     1 652,14         1 000,-         1 000,-       1 000,-        1 000,-         1 000,-
+Obec Víťaz S/N 2                                                                                             N á v r h r o z p o č t u - podrobný výpis              VÝDAVKY
+Schválený:                                                                                         Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený:                                                                                       Strana č.   4
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024           2025        Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+72j   R   3. 1.        0320    633006                   Všeobecný materiál - dotácia                     1 350,-       1 132,05          1 500,-         1 500,-       1 000,-        1 000,-         1 000,-
+41    R   3. 1.        0320    633010                   Pracovné odevy, obuv a pracovné pomôcky                                                                          300,-          300,-           300,-
+72j   R   3. 1.        0320    633010                   Pracovné odevy, obuv - dotácia                                                                                 1 000,-        1 000,-         1 000,-
+41    R   3. 1.        0320    633011                   Potraviny                                         183,90
+111   R   3. 1.        0320    633015                   MR zúčtovanie dotácie na pohonn                                  103,17
+41    R   3. 1.        0320    633015                   Paliva ako zdroj energie                         1 162,59      1 250,06          1 300,-         1 300,-       1 300,-        1 300,-         1 300,-
+41    R   3. 1.        0320    633016                   Reprezentačné                                      151,95        317,44            300,-           300,-         300,-          300,-           300,-
+                       0320    633    MATERIÁL                                                           5 267,52      5 515,96          5 600,-         5 600,-       5 900,-        5 900,-         5 900,-
+41    R 3. 1.          0320 634002                      Servis,údržba,opravy,popl.em.kontr.STK             69,-            74,-            100,-           100,-         200,-          200,-           200,-
+41    R 3. 1.          0320 634003                      Poistenie-PZP Tatra + Kovoflex                     40,03          198,52           250,-           250,-         250,-          250,-           250,-
+                       0320 634    DOPRAVNÉ                                                               109,03          272,52           350,-           350,-         450,-          450,-           450,-
+41    R 3. 1.          0320    635004            Prevadzkových strojov,prístrojov,zariade                 766,86          546,66           500,-           500,-         300,-          300,-           300,-
+72j   R 3. 1.          0320    635004            Údržba prevádzkovýh strojov - dotácia                                    116,85
+41    R 3. 1.          0320    635007            Pracovných odevov, obuvi a pracovných po                 174,-                            100,-           100,-         200,-          200,-           200,-
+                       0320    635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                         940,86          663,51           600,-           600,-         500,-          500,-           500,-
+41    R   3. 1.        0320    637001                   Školenia, kurzy, semináre, porady, konfe                                                                         500,-          500,-           500,-
+72j   R   3. 1.        0320    637001                   Školenia, kurzy, semináre - dotácia                               840,-
+41    R   3. 1.        0320    637002                   Konkurzy a súťaže - štartovné                     352,-           705,-            550,-           550,-         500,-          500,-           500,-
+41    R   3. 1.        0320    637004                   Všeobecné služby                                   48,55          822,46           400,-           400,-         200,-          200,-           200,-
+41    R   3. 1.        0320    637012                   Poplatky a odvody                                                  10,-
+41    R   3. 1.        0320    637015                   Poistné DHZ                                       130,04
+                       0320    637    SLUŽBY                                                              530,59       2 377,46            950,-           950,-       1 200,-        1 200,-         1 200,-
+41    R 3. 1.          0320 642006            Na členské príspevky                                                         22,-
+                       0320 642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                                                22,-
+
+                       0320 Ochrana pred požiarmi                                                        8 653,50    11 079,15           9 770,-         9 770,-      10 630,-       10 630,-        10 630,-
+41    R 4. 1.          0451    625002            Na starobné poistenie
+41    R 4. 1.          0451    625003            Na úrazové poistenie
+41    R 4. 1.          0451    625007            Na poistenie do rezervného fondu solidar
+                       0451    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE
+41    R 4. 1.          0451 633006                      Všeobecný materiál                               1 449,59      5 343,70          1 500,-         1 500,-       2 000,-        2 000,-         2 000,-
+                       0451 633    MATERIÁL                                                              1 449,59      5 343,70          1 500,-         1 500,-       2 000,-        2 000,-         2 000,-
+41    R 4. 1.          0451 635006            Údržba a vysprávky MK                                      5 214,30      2 901,81          5 000,-         5 000,-      15 000,-       15 000,-        15 000,-
+                       0451 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                           5 214,30      2 901,81          5 000,-         5 000,-      15 000,-       15 000,-        15 000,-
+41    R   4. 1.        0451    637004                   Všeobecné služby - Chodník MŠ-Ulica                102,74      2 216,46          1 500,-         1 500,-       3 000,-        3 000,-         3 000,-
+111   R   4. 1.        0451    637005                   MR VBU        237/VÚB diagnostika                1 080,-
+41    R   4. 1.        0451    637005                   Špeciálne služby                                   340,91         200,-
+41    R   4. 1.        0451    637027                   Odmeny zamestnancov mimopracovného pomer
+                       0451    637    SLUŽBY                                                             1 523,65      2 416,46          1 500,-         1 500,-       3 000,-        3 000,-         3 000,-
+41    R 4. 1.          0451    651003                   Splácanie úrokov z bankového úveru                                               9 300,-         9 300,-
+Obec Víťaz S/N 2                                                                                            N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený:                                                                                       Strana č.   5
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+                       0451 651         SPLÁCANIE ÚROKOV V TUZEMSKU                                                                      9 300,-         9 300,-
+
+                       0451 Cestná doprava                                                               8 187,54    10 661,97         17 300,-         17 300,-      20 000,-       20 000,-        20 000,-
+41   R 5. 1.           0510 632001            Energie - Zberný dvor                                                                      3 500,-         3 500,-
+41   R 5. 1.           0510 632006            Elektrina - Zberný dvor                                                                                                  3 075,-        3 075,-         3 075,-
+                       0510 632    ENERGIE, VODA A KOMUNIKÁCIE                                                                           3 500,-         3 500,-       3 075,-        3 075,-         3 075,-
+41   R 5. 1.           0510 633004                      Prevádzkové stroje,prístroje,zariadenia,                                                                       2 000,-          500,-           500,-
+41   R 5. 1.           0510 633006                      Nádoby na triedený zber - splátky                7 289,62     6 215,61           6 871,-         6 871,-       2 500,-        2 500,-         2 500,-
+                       0510 633    MATERIÁL                                                              7 289,62     6 215,61           6 871,-         6 871,-       4 500,-        3 000,-         3 000,-
+41   R 5. 1.           0510 634003                      Poistenie - traktor+príves                                                                                     1 000,-        1 000,-         1 000,-
+                       0510 634    DOPRAVNÉ                                                                                                                            1 000,-        1 000,-         1 000,-
+111 R    5. 1.         0510    637004                   Starostlivosť o život.prostredie-dotácia         5 483,42       263,76            270,-            270,-         280,-          280,-           280,-
+41 R     5. 1.         0510    637004                   Vývoz VKK a KUKA nádob                          49 102,67    51 714,45         67 000,-         67 000,-      75 000,-       75 000,-        75 000,-
+72c R    5. 1.         0510    637004                   Všeobecné služby-Šanca na čisté okolie                        4 950,-
+72g R    5. 1.         0510    637004                   Všeobecné služby-dotácia                                        500,-
+1BA1 R   5. 1.         0510    637005                   Zberný dvor - špec.služby - dotácia z EÚ                        556,92         33 270,-         33 270,-
+1BA2 R   5. 1.         0510    637005                   Zberný dvor - špec.služby - dotácia zoŠR                         98,28          5 870,-          5 870,-
+41 R     5. 1.         0510    637005                   Zberný dvor - špec.služby - exter.manažm         1 500,-     12 975,60         13 000,-         13 000,-
+41 R     5. 1.         0510    637012                   Zberný dvor - Poplatky a odvody                    337,50                                                      2 000,-        2 000,-         2 000,-
+41 R     5. 1.         0510    637015                   Poistné - kontajnery,nakladač,štiepkovač                                                                         510,-          510,-           510,-
+                       0510    637    SLUŽBY                                                            56 423,59    71 059,01        119 410,-        119 410,-      77 790,-       77 790,-        77 790,-
+41   R 5. 1.           0510 651003            Splácanie úrokov - Environmentálny fond                                                    5 160,-         5 160,-       5 160,-        4 800,-         4 450,-
+                       0510 651    SPLÁCANIE ÚROKOV V TUZEMSKU                                                                           5 160,-         5 160,-       5 160,-        4 800,-         4 450,-
+
+                       0510 Nakladanie s odpadmi                                                        63 713,21    77 274,62        134 941,-        134 941,-      91 525,-       89 665,-        89 315,-
+41   R 8. 4.           0610 632001            Energie-bytovka                                             259,13          211,26           300,-           300,-
+41   R 8. 4.           0610 632006            Elektrina - bytový dom                                                                                                     230,-          230,-           230,-
+                       0610 632    ENERGIE, VODA A KOMUNIKÁCIE                                            259,13          211,26           300,-           300,-         230,-        
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/bba8493d-c8aa-4b62-940f-6277a36f7e51
+                                                                                                                           Obec Víťaz S/N 2
+
+_PROZP3.GMX                                      PROGRAMOVÝ ROZPOČET - rekapitulácia nákladov                                Strana:    1
+
+ VÝDAVKY                                                                       R O Z P O Č E T za rok 2026        v EUR
+                                                                    2025            2026          2027 2028 2029
+                                                                                                               2028
+                                                                                                                 2024
+                                                                                                                    2029 2024
+                                                                                                                            2029 2024
+ 1. 1.     Obec - činnosť Obecného úradu                         230 434,89       281 300,-     319 550,-     304 550,-        304 550,-
+ 1 . Obec - činnosť Obecného úradu                               230 434,89       281 300,-     319 550,-     304 550,-        304 550,-
+ 2. 1.     Audit obce                                                 950,-          1 000,-       1 050,-       1 050,-          1 050,-
+ 2. 2.     Poplatky a odvody bankám                                 3 618,54         3 800,-       4 000,-       4 000,-          4 000,-
+ 2 . Finančná a rozpočtová oblasť                                   4 568,54         4 800,-       5 050,-       5 050,-          5 050,-
+ 3. 1.     Ochrana pred požiarmi - DHZ                            11 079,15          9 771,-     10 630,-      10 630,-         10 630,-
+ 3 . Ochrana pred požiarmi                                        11 079,15          9 771,-     10 630,-      10 630,-         10 630,-
+ 4. 1.     Správa a údržba ciest                                  10 661,97        18 190,-      25 000,-      70 000,-         70 000,-
+ 4. 2.     Výstavba miestnych komunikácií a chodníkov                             343 550,-       5 000,-
+ 4 . Správa a údržba ciest                                        10 661,97       361 740,-      30 000,-      70 000,-         70 000,-
+ 5. 1.     Nakladanie s odpadmi                                  119 274,62       911 463,-     119 245,-     107 385,-        107 035,-
+ 5 . Nakladanie s odpadmi                                        119 274,62       911 463,-     119 245,-     107 385,-        107 035,-
+ 6. 1.     Nakladanie s odpadovými vodami - KČOV                                     4 620,-
+ 6 . Nakladanie s odpadovými vodami                                                  4 620,-
+ 7. 1.     Znižovanie znečisťovania
+ 7 . Znižovanie znečisťovania
+ 8.   1.   Rozvoj obce - kapitálové výdavky                          150,-       1 031 525,-
+ 8.   2.   Správa a údržba verejných priestranstiev               37 208,04         50 130,-     55 010,-      35 010,-         35 010,-
+ 8.   3.   Vodné hospodárstvo
+ 8.   4.   Bytový dom                                             10 785,69        12 080,-      16 275,-      16 270,-         16 270,-
+ 8.   5.   Výstavba infraštruktúry na IBV Hliník                   2 180,97         2 500,-       3 000,-      13 000,-         13 000,-
+ 8.   6.   Výstavba infraštruktúry na IBV Marmužov                16 114,49        18 900,-      20 000,-      30 000,-         30 000,-
+ 8.   7.   Výstavba infraštruktúry na IBV HARB                    12 943,-         30 180,-      25 000,-      40 000,-         40 000,-
+ 8.   8.   Výstavba infraštruktúry na IBV Dlhé                     1 823,44         3 100,-       4 000,-      14 000,-         14 000,-
+ 8 . Rozvoj obce                                                  81 205,63      1 148 415,-    123 285,-     148 280,-        148 280,-
+ 9. 1.     Zásobovanie vodou - údržba                             16 356,66        19 610,-      16 550,-      16 550,-         16 550,-
+ 9. 2.     Zásobovanie vodou - ob.vodovod                         13 357,03        19 928,-      19 701,-      43 411,-         85 677,-
+ 9 . Zásobovanie vodou                                            29 713,69        39 538,-      36 251,-      59 961,-        102 227,-
+10. 1.     Verejné osvetlenie                                     17 324,20        19 680,-      18 870,-      18 870,-         18 870,-
+10 . Verejné osvetlenie                                           17 324,20        19 680,-      18 870,-      18 870,-         18 870,-
+11.   1.   Oddychové centrum                                        3 105,79         2 930,-       4 265,-       4 265,-          4 265,-
+11.   2.   Areál u Hrica                                              822,25           230,-
+11.   3.   Park pri Remeselnom dome
+11.   4.   Ihrisko Banková                                        14 378,64        22 060,-      18 270,-      18 270,-         18 270,-
+11.   7.   Športové podujatia                                      1 051,78         1 000,-       1 000,-       1 000,-          1 000,-
+11.   8.   Turistickoinformačné centrum
+11.   9.   Workoutové ihrisko
+11 . Rekreačné a športové služby                                  19 358,46        26 220,-      23 535,-      23 535,-         23 535,-
+12. 1.     Knižnica                                               16 350,15        17 600,-      17 830,-      17 830,-         17 830,-
+12. 2.     Kultúrne podujatia                                     18 147,40        24 655,-      23 100,-      23 100,-         23 100,-
+12. 3.     Sála OcÚ v budove Coop Jednoty                            147,60           610,-       5 660,-       1 160,-          1 160,-
+12. 4.     Viacúčelový sál                                        10 619,38        25 310,-       9 100,-       5 100,-          5 100,-
+12. 5.     Budova pre kultúru - sála na PD                           167,82           180,-         175,-         175,-            175,-
+12. 6.     Vydavateľské a vysielacie služby                        4 653,41         4 370,-       4 650,-       4 650,-          4 650,-
+12. 7.     Náboženské a iné spoločenské služby                    10 233,51        21 750,-       7 300,-       7 300,-          7 300,-
+12. 10.    Remeselný dom                                          29 303,34         5 835,-       6 530,-       6 530,-          6 530,-
+12. 11.    Dotácie občianskym združeniam                             600,-            600,-         500,-         500,-            500,-
+12. 12.    FS Pridaň, Pridaňčatá                                   9 000,-          9 000,-       7 000,-       7 000,-          7 000,-
+12 . Kultúrne služby                                              99 222,61       109 910,-      81 845,-      73 345,-         73 345,-
+13.    .   Školstvo
+13.   1.   Materská škola                                        274 817,83       307 627,-     295 406,-     295 406,-        295 406,-
+13.   2.   Základná škola                                        510 932,57       555 207,-     497 502,-     497 502,-        497 502,-
+13.   3.   Školský klub                                           47 663,71        46 421,-     639 580,-      57 270,-         57 270,-
+13.   4.   Školská jedáleň                                       167 302,04       170 865,-     462 980,-     165 950,-        165 950,-
+13.   5.   Centrá voľného času                                       310,-            330,-         300,-         300,-            300,-
+13.   6.   MOPS                                                   67 344,33        96 465,-
+13 . Školstvo                                                   1 068 370,48     1 176 915,-   1 895 768,-   1 016 428,-      1 016 428,-
+14.   1.   Opatrovateľská služba                                  56 921,64        26 099,-      12 400,-      12 400,-         12 400,-
+14.   2.   Príspevok k strave + DHN-osob.príjemca                  2 461,68         2 300,-       1 500,-       1 500,-          1 500,-
+14.   3.   Prídavky na deti-osobitný príjemca                      6 180,-          9 500,-       8 500,-       8 500,-          8 500,-
+14.   4.   Podpora stravovacích návykov - dotácia                 40 901,-         50 255,-      43 000,-      43 000,-         43 000,-
+                                                                                                                               Obec Víťaz S/N 2
+
+_PROZP3.GMX                                        PROGRAMOVÝ ROZPOČET - rekapitulácia nákladov                                  Strana:    2
+
+ VÝDAVKY                                                                           R O Z P O Č E T za rok 2026        v EUR
+                                                                        2025            2026          2027 2028 2029
+                                                                                                                   2028
+                                                                                                                     2024
+                                                                                                                        2029 2024
+                                                                                                                                2029 2024
+14. 5.      Rodina a detí-prísp.ku strave a pomoc rodine od obce,                        1 500,-       1 500,-       1 500,-          1 500,-
+14. 6.      Rodičovský príspevok 3.príjemca
+14. 8.      Sociálna pomoc                                           270 271,30       365 173,-     183 780,-     183 780,-        183 780,-
+14. 9.      Výstavba Zariadenia pre seniorov v obci Víťaz
+14. 10.     Detské jasle                                              36 849,90        42 720,-      83 495,-      83 495,-         83 495,-
+14. 11.     Zariadenie pre seniorov                                  229 555,68       220 866,-     238 610,-     238 610,-        238 610,-
+14 . Sociálne služby                                                 643 141,20       718 413,-     572 785,-     572 785,-        572 785,-
+
+CELKOM V Ý D A V K Y                                                2 334 355,44     4 812 785,-   3 236 814,-   2 410 819,-      2 452 735,-
+© IFOsoft
+

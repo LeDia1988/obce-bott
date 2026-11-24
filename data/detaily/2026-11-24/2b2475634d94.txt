@@ -1,0 +1,255 @@
+URL: https://cuet.slovensko.sk/en/dokument/c4e93e5f-bf0f-4973-978b-53125a4c6b3c
+OBEC: Kráľovský Chlmec (Trebišov)
+NÁZOV: Návrh VZN o dani z nehnuteľností 3-2026
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/c4e93e5f-bf0f-4973-978b-53125a4c6b3c
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN o dani z nehnuteľností 3-2026
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Mesto Kráľovský Chlmec
+Published from:
+24.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Mesto Kráľovský Chlmec
+Published to:
+10.12.2026
+Registry case:
+Name of official document:
+Návrh VZN o dani z nehnuteľností 3-2026
+Document abstract:
+Návrh VZN o dani z nehnuteľností 3-2026
+[https://www.kralovskychlmec.org/e_download.php?file=/data/uredni_deska/obsah619_1.pdf&original=Návrh VZN o dani z nehnuteľností 3-2026.pdf]_
+Typ: PDF dokument, Veľkosť: 194.73 kB_
+_Návrh VZN o dani z nehnuteľností 3-2026.docx
+[https://www.kralovskychlmec.org/e_download.php?file=/data/uredni_deska/obsah619_1.docx&original=Návrh VZN o dani z nehnuteľností 3-2026.docx]
+Typ: DOCX dokument, Veľkosť: 37.97 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh VZN o dani z nehnuteľností 3-2026.pdf
+Type and size:
+.pdf, 194.73 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh VZN o dani z nehnuteľností 3-2026.docx
+Type and size:
+.doc, 37.97 kB
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/b651be50-7028-452a-a17a-d86361f284c9
+                                              NÁVRH
+
+Všeobecne záväzné nariadenie Mesta Kráľovský Chlmec č. 3/2026, ktorým sa ruší Všeobecne záväzné
+nariadenie Mesta Kráľovský Chlmec č. 7/2025 o dani z nehnuteľností
+
+
+
+V zmysle § 6 ods. 4 zákona č. 369/1990 Zb. o obecnom zriadení v znení v neskorších predpisov dňom
+vyvesenia návrhu nariadenia začína plynúť najmenej pätnásťdňová lehota, počas ktorej môžu fyzické osoby
+a právnické osoby uplatniť pripomienku k návrhu nariadenia v písomnej forme, elektronicky na internetovej
+stránke mesta www.kralovskychlmec.org alebo ústne do zápisnice na Mestskom úrade v Kráľovskom
+Chlmci. Pripomienkou možno v určenej lehote navrhnúť nový text alebo odporučiť úpravu textu a to
+doplnenie, zmenu, vypustenie alebo spresnenie pôvodného textu. Z pripomienky musí byť zrejmé, kto ju
+predkladá. Na ostatné podnety nemusí navrhovateľ prihliadať a to najmä vtedy, ak nie sú zdôvodnené.
+
+
+ Vyvesený na úradnej tabuli mesta dňa:                    24.11.2026
+ Zverejnený na webovom sídle mesta                        24.11.2026
+ Dátum začiatku lehoty na pripomienkové konanie:          24.11.2026
+ Dátum ukončenia lehoty na pripomienkové konanie:         4.12.2026
+ Vyhodnotenie pripomienok k návrhu VZN č. 3/2026          7.12.2026
+ Pripomienky písomne:          Mestský úrad Kráľovský Chlmec, L. Kossutha 99
+ Pripomienky elektronicky:     mesto@kralovskychlmec.sk
+
+
+
+
+VZN č.3/2026
+                                                             NÁVRH
+
+    Všeobecne záväzného nariadenia mesta Kráľovský Chlmec č. 3/2026 o dani z nehnuteľnosti
+                                       (ďalej len „VZN“)
+
+
+       Mesto Kráľovský Chlmec v súlade s ustanovením § 6 ods. 2 zákona číslo 369/1990 Zb.o obecnom
+    zriadení v znení neskorších predpisov a ustanoveniami § 7 ods. 4 ,5 a 6, § 8 ods. 2 a 3, § 12 ods. 2 a 3,
+    § 16 ods. 2 a 3, § 17 ods. 2, 3, 4 a 7, § 98, § 98a ods. 1, § 98b ods. 5, § 103 a § 104e zákona číslo
+    582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné
+    odpady v znení neskorších predpisov u s t a n o v u j e:
+
+
+                                                                  §1
+                                                      Základné ustanovenie
+
+      (1) Mestské zastupiteľstvo v Kráľovskom Chlmci podľa § 11 ods. 4 písm. d) zákona číslo 369/1990
+    Zb. o obecnom zriadení v znení neskorších predpisov        r o z h o d l o, že v nadväznosti na §
+    98 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+    stavebné odpady v znení neskorších predpisov (ďalej len „zákon“) z a v á d z a s účinnosťou
+    od 1. januára 2027 d a ň z n e h n u t e ľ n o s t í.
+      (2) Toto všeobecne záväzné nariadenie upravuje podmienky určovania a vyberania dane z
+    nehnuteľností na území mesta Kráľovský Chlmec.
+
+                                                     DAŇ Z POZEMKOV
+                                                                  § 2
+                                                              Základ dane
+
+
+       Správca dane ustanovuje na území mesta Kráľovský Chlmec hodnotu pozemku, ktorou sa pri
+    výpočte základu dane z pozemkov násobí výmera pozemku v m2:
+    a) orná pôda a ostatné plochy PHP a LH1                                                                         0,3677        eur/m2
+     b) trvalé trávnaté porasty                                                                                     0,0527        eur/m2
+     c) záhrady                                                                                                     2,12          eur/m2
+     d) lesné pozemky, na ktorých sú hospodárske lesy                                                               0,06          eur/m2
+     e) rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy                                           0,3677        eur/m2
+     f) zastavané plochy a nádvoria                                                                                 2,12          eur/m2
+     g) stavebné pozemky                                                                                            21,24         eur/m2
+     h) ostatné plochy okrem ostatných plôch podľa písmena a)                                                       2,12          eur/m2
+
+,
+                                                                  §3
+                                                            Sadzba dane
+
+       Ročná sadzba dane z pozemkov na území mesta Kráľovský Chlmec je :
+
+
+
+
+1
+ Poznámka: orná pôda, chmeľnice, vinice, ovocné sady, ostatné plochy, ak sa využívajú na poľnohospodárstvo, lesné hospodárstvo alebo účel
+spojený s poľnohospodárstvom alebo lesným hospodárstvom
+
+
+VZN č.3/2026
+     a) orná pôda a ostatné plochy PHP a LH2                                                                                0,52 %
+     b) trvalé trávnaté porasty                                                                                             0,52 %
+     c) záhrady                                                                                                             0,78 %
+     d) lesné pozemky, na ktorých sú hospodárske lesy                                                                       1,56 %
+     e) rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy                                                   1,56 %
+     f) zastavané plochy a nádvoria                                                                                         0,78 %
+     g) stavebné pozemky                                                                                                    0,78 %
+     h) ostatné plochy okrem ostatných plôch podľa písmena a)                                                               0,78 %
+
+                                                      DAŇ ZO STAVIEB
+                                                                   §4
+                                                             Sadzba dane
+
+
+       (1) Správca dane určuje pre stavby na území Mesta Kráľovský Chlmec ročnú sadzbu dane zo stavieb
+    za každý aj začatý m2 zastavanej plochy:
+    a) 0,260 eur za stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu
+    b) 0,260 eur za stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné hospodárstvo,
+    stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane stavieb na vlastnú
+    administratívu
+    c) 0,520 eur za stavby rekreačných a záhradkárskych chát a domčekov na individuálnurekreáciu
+    d) 0,650 eur za samostatne stojace garáže a samostatné stavby hromadných garáží a stavby určené
+    alebo používané na tieto účely postavené mimo bytových domov
+    e) 1,170 eur za priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu, stavby
+    využívané na skladovanie vlastnej produkcie vrátane stavieb na vlastnú administratívu
+    f) 2,590 eur za stavby na ostatné podnikanie a na zárobkovú činnosť, skladovaniea
+    administratívu súvisiacu s ostatným podnikaním a zárobkovou činnosťou,
+    g) 0,780 eur za ostatné stavby
+       (2) Správca dane určuje pri viacpodlažných stavbách pre všetky druhy stavieb príplatok za podlažie
+    0,052 eur za každé ďalšie podlažie okrem prvého nadzemného podlažia.
+
+                                                        DAŇ Z BYTOV
+                                                                   §5
+                                                             Sadzba dane
+
+
+       (1) Ročná sadzba z bytov za byty na území mesta Kráľovský Chlmec za každý aj začatý m2
+    podlahovej plochy bytu nachádzajúceho sa v bytovom dome je:
+     0,260 eur za byt, ktorý slúži výlučne na bývanie
+       (2) Ročná sadzba dane z bytov za nebytové priestory na území mesta Kráľovský Chlmecj e za
+    každý aj začatý m2 podlahovej plochy nebytového priestoru nachádzajúceho sa v bytovom
+    dome:
+
+    a) 1,300 eur za nebytové priestory, ktoré neslúžia na podnikanie alebo inú zárobkovú
+    činnosť
+    b) 2,600 eur za nebytové priestory, ktoré sa využívajú na podnikanie alebo inú zárobkovú činnosť,
+    pričom podľa platného znenia ustanovenia § 14 odsek 2 zákona číslo 582/2004 Z. z.o miestnych
+    daniach a miestnom poplatku v znení neskorších predpisov byt alebo časť bytuv bytovom dome,
+    ktorý sa k 1. januáru zdaňovacieho obdobia využíva na iný účel ako bývanie, sa na účely tohto zákona
+    považuje za nebytový priestor. V zmysle uvedeného touto sadzbou je určená aj sadzba za byt alebo časť
+
+2
+ Poznámka: orná pôda, chmeľnice, vinice, ovocné sady, ostatné plochy, ak sa využívajú na poľnohospodárstvo, lesné hospodárstvo alebo účel
+spojený s poľnohospodárstvom alebo lesným hospodárstvom
+
+
+VZN č.3/2026
+ bytu, ktorá sa využíva na iný účel ako bývanie (t. zn. na podnikanie a inú zárobkovú činnosť).
+
+                                  SPOLOČNÉ USTANOVENIA
+                                                  §6
+                                  Oslobodenie od dane a zníženie dane
+
+
+    Správca dane v zmysle ustanovenia § 17 ods. 2 zákona od dane z pozemkov oslobodzuje:
+ a) pozemky, na ktorých sú cintoríny
+ b) pozemky verejne prístupných parkov, priestorov a športovísk
+
+                                                  §7
+                                        Minimálna výška dane
+
+    Daň z nehnuteľností správca dane nevyrubí a nevyberie, ak výška dane nepresiahne sumu
+ 3,00 eurá.
+                                                  §8
+                                              Platenie dane
+
+
+    Vyrubená daň z nehnuteľností je splatná naraz do 15 dní odo dňa nadobudnutia právoplatnosti
+ rozhodnutia v prípade, že nepresiahne u fyzickej osoby sumu 50,00 eur a u právnickej osoby
+ sumu 500,00 eur. Ak je vyrubená daň vyššia, správca dane môže určiť platenie dane z nehnuteľností v
+ splátkach. Splátky dane sú splatné v lehotách určených správcom dane v rozhodnutí, ktorým sa
+ vyrubuje daň.
+                                                   §9
+                                        Záverečné ustanovenie
+
+   (1) Dňom účinnosti tohto všeobecne záväzného nariadenia o dani z nehnuteľnosti sa zrušuje
+ Všeobecne záväzné nariadenie Mesta Kráľovský Chlmec č. 7/2025 o dani z nehnuteľností na území
+ mesta Kráľovský Chlmec účinné od 1.1.2026.
+
+    (2) Mestské zastupiteľstvo mesta Kráľovský Chlmec sa na tomto všeobecne záväznom nariadení o
+ dani z nehnuteľností uznieslo dňa
+
+                                                 § 10
+                                               Účinnosť
+
+    Toto nariadenie nadobúda účinnosť 1. januára 2027.
+
+
+
+
+VZN č.3/2026
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/9b6c30ba-6574-4c2c-9236-0b2744666122
+ 
+              N Á V R H                             Všeobecne záväzné nariadenie                  Mesta K         ráľovský Chlmec č.          3         /202         6         ,          ktorým sa          ruší          Všeobecne záväzné nariadenie                  Mesta K         ráľovský Chlmec          č.          7         /20         2         5          o          dani z nehnuteľností                          V zmysle  § 6 ods. 4 zákona č. 369/1990 Zb. o obecnom zriadení v znení v neskorších predpisov     d    ňom vyvesenia návrhu     nariadenia     začína plynúť     najmenej     pätnásťdňová         lehota, počas ktorej môžu fyzické osoby a právnické osoby uplatniť pripomienku k návrhu nariadenia v písomnej forme, elektronicky na internetovej stránke mesta        www.kralovskychlmec.org             alebo ústne do zápisnice na Mestskom úrade v Kráľovskom Chlmci. Pripomienkou možno v určenej lehote navrhnúť nový text alebo odporučiť úpravu textu a to doplnenie, zmenu, vypustenie alebo spresnenie pôvodného textu. Z pripomienky musí byť zrejmé, kto ju predkladá. Na ostatné podnety nemusí navrhovateľ prihliadať a to najmä vtedy, ak nie sú zdôvodnené.                                         Vyvesený na úradnej tabuli mesta dňa:                   2    4    .11.202    6                     Zverejnený na webovom sídle mesta                  2    4    .11.    202    6                      Dátum začiatku lehoty na pripomienkové konanie:                   2    4    .11.    202    6                      Dátum ukončenia lehoty na pripomienkové konanie:                   4    .    12    .    202    6                      Vyhodnotenie pripomienok k návrhu     VZN č.     3    /    202    6                   7    .    1    2    .    202    6                     Pripomienky písomne:                    Mestský úrad Kráľovský Chlmec, L. Kossutha 99                     Pripomienky elektronicky:                        mesto@kralovskychlmec.sk                                                       1028700    23495                                                               0    0                                                                                                                                                                     N Á V R H                               Všeobecne záväzné       ho nariadenia        mesta Kráľovský Chlmec č       .        3       /202       6               o        dani z nehnuteľnosti                 (ďalej len „VZN“)                     Mesto            Kráľovský            Chlmec            v súlade            s ustanovením            §            6            ods.            2            zákona            číslo            369/1990            Zb.            o obecnom zriadení v znení neskorších predpisov a ustanoveniami     § 7 ods. 4 ,5 a 6, § 8 ods. 2            a 3, § 12 ods.            2 a 3, § 16 ods.            2 a 3, § 17 ods. 2, 3, 4            a 7, § 98,            § 98a ods. 1, § 98b ods. 5, §            103            a §            104e zákona číslo            582/2004            Z.            z.            o miestnych            daniach            a miestnom            poplatku            za            komunálne            odpady            a            drobné            stavebné            odpady            v znení neskorších predpisov  u s t a            n            o v u j e:                §            1                Základné                ustanovenie                                Mestské zastupiteľstvo v Kráľovskom Chlmci podľa § 11 ods. 4 písm. d) zákona číslo            369/1990            Zb.            o obecnom            zriadení            v znení            neskorších            predpisov              r                o z h                o d                l                o    ,    že            v nadväznosti na § 98 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za            komunálne            odpady            a            drobné            stavebné            odpady            v            znení            neskorších            predpisov            (ďalej            len         „zákon“)               z                a v á                d                z                a             s účinnosťou od               1. januára 202       7                d                a ň                  z                n                e                h n                u                t                e                ľ                n                o s t                í.                      Toto            všeobecne            záväzné            nariadenie            upravuje            podmienky            určovania            a            vyberania            dane            z nehnuteľností na            území            mesta            Kráľovský            Chlmec.                D            A            Ň            Z            P            O            Z            E M            K            O V                §                2          Základ            dane                     Správca dane ustanovuje na území mesta Kráľovský Chlmec hodnotu pozemku, ktorou sa            pri            výpočte            základu dane            z pozemkov násobí výmera            pozemku            v m       2    :                                     a)              orná              pôda           a           ostatné           plochy      PHP a LH                                              0,3677                          eur         /m         2                            b)                           trvalé                  trávnaté                  porasty                                         0,0527                          eur         /m         2                            c)                  záhrady                                         2,12                          eur         /m         2                            d)                  lesné                  pozemky        ,                 na                  ktorých                  sú                  hospodárske                  lesy                                         0,06                          eur         /m         2                            e)                  rybníky                 s                  chovom                          rýb                  a                 ostatné                  hospodársky                  využívané                  vodné                  plochy                                         0,3677                          eur         /m         2                            f)                  zastavané                 plochy         a         nádvoria                                         2,12                          eur         /m         2                            g)                  stavebné                  pozemky                   h)         ostatné                 plochy                 okrem                 ostatných                 plôch                 podľa                 písmena         a)                                        21,24                   2,12                           eur         /m         2                     eur         /m         2                             ,         §            3                Sadzba dane                    Ročná            sadzba            dane            z            pozemkov            na            území            mesta            Kráľovský            Chlmec            je            :                                            a)              orná              pôda           a           ostatné           plochy      PHP a LH                               0,52                  %                            b)                           trvalé                  trávnaté                  porasty                          0,52                  %                            c)                  záhrady                          0,78                  %                            d)                  lesné                  pozemky        ,                 na                  ktorých                  sú                  hospodárske                  lesy                          1,56                  %                             e)                  rybníky                 s                  chovom                          rýb                  a                 ostatné                  hospodársky                  využívané                  vodné                  plochy                   f)                  zastavané                 plochy         a         nádvoria                          1,56                  %                    0,78 %                      g)                 stavebné                pozemky                                                                           0,78 %                    h)        ostatné plochy okrem ostatných plôch podľa písmena a)                                             0,78 %                    D            A            Ň            Z            O            S            T A            V            I            E B                §                4          Sadzba dane                                Správca dane určuje pre stavby na území Mesta Kráľovský Chlmec ročnú sadzbu dane            zo            stavieb za            každý            aj začatý            m       2            zastavanej plochy:                         0,       26       0               eur     za stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú            stavbu                         0,       26       0                eur             za            stavby            na            pôdohospodársku            produkciu,            skleníky,            stavby            pre            vodné            hospodárstvo, stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane            stavieb            na            vlastnú administratívu                         0,52       0                eur             za            stavby rekreačných            a            záhradkárskych            chát            a            domčekov            na            individuálnu            rekreáciu                         0,65       0 eur     za samostatne stojace garáže a samostatné stavby hromadných garáží a stavby            určené alebo používané            na            tieto            účely            postavené            mimo bytových            domov                         1,170        eur     za priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu,            stavby            využívané            na            skladovanie            vlastnej            produkcie            vrátane            stavieb            na            vlastnú            administratívu                         2,590                eur             za            stavby            na            ostatné            podnikanie            a            na            zárobkovú            činnosť,            skladovanie            a            administratívu súvisiacu            s ostatným            podnikaním a            zárobkovou            činnosťou,                         0,780                eur             za            ostatné            stavby                      Správca dane určuje pri viacpodlažných stavbách pre všetky druhy stavieb príplatok za            podlažie               0,052        eur             za            každé            ďalšie            podlažie            okrem            prvého nadzemného            podlažia.                 D            A            Ň            Z            B Y            T O V                §                5          Sadzba dane                                Ročná            sadzba z bytov za byty na území            mesta Kráľovský Chlmec za každý aj            začatý            m       2     podlahovej plochy            bytu nachádzajúceho sa            v bytovom dome            je:                          0,       26       0                eur             za            byt,            ktorý            slúži výlučne            na            bývanie                      Ročná sadzba dane z bytov        za nebytové priestory             na území mesta Kráľovský Chlmec            j         e            za            každý            aj            začatý            m       2            podlahovej            plochy            nebytového            priestoru            nachádzajúceho            sa                 v            bytovom dome:                                      1,300                eur             za            nebytové            priestory,  ktoré            neslúžia            na            podnikanie            alebo            inú  zárobkovú          činnosť                         2       ,       6       00        eur             za nebytové priestory, ktoré sa využívajú na podnikanie alebo inú zárobkovú            činnosť,            pričom            podľa            platného            znenia            ustanovenia            §            14            odsek            2            zákona            číslo            582/2004            Z.            z.            o            miestnych            daniach            a            miestnom            poplatku            v            znení            neskorších            predpisov            byt            alebo            časť            bytu            v            bytovom            dome,            ktorý            sa            k 1.            januáru            zdaňovacieho            obdobia            využíva            na            iný            účel            ako         bývanie, sa na účely tohto zákona považuje za nebytový priestor. V zmysle uvedeného touto            sadzbou je určená aj sadzba za byt alebo časť      bytu, ktorá sa využíva na iný účel ako bývanie            (t.            zn. na            podnikanie            a            inú zárobkovú činnosť).                   S P            O L O Č            N            É             U            S            T A            N            O V            E N            I A                §                6          Oslobodenie            od            dane a            zníženie dane                    Správca            dane            v            zmysle            ustanovenia            § 17            ods. 2            zákona            od dane            z            pozemkov oslobodzuje:                    pozemky,            na            ktorých sú            cintoríny                     pozemky            verejne            prístupných            parkov, priestorov            a            športovísk               §            7                Minimálna                výška dane                    Daň            z nehnuteľností            správca            dane            nevyrubí            a            nevyberie,            ak            výška            dane nepresiahne            sumu              3,00            eurá       .                §                8          Platenie            dane                      Vyrubená            daň            z            nehnuteľností            je            splatná            naraz            do            15            dní            odo            dňa            nadobudnutia            právoplatnosti            rozhodnutia            v            prípade,            že            nepresiahne            u            fyzickej            osoby            sumu               50       ,00                eur                     a u právnickej osoby sumu        500,00 eur.     Ak je vyrubená daň vyššia, správca dane môže určiť            platenie            dane            z            nehnuteľností            v            splátkach.            Splátky dane            sú            splatné            v            lehotách            určených            správcom            dane            v rozhodnutí, ktorým sa            vyrubuje            daň.          §            9                 Záverečné                ustanovenie                                Dňom            účinnosti            tohto            všeobecne            záväzného            nariadenia            o dani            z nehnuteľnosti            sa            zrušuje            Všeobecne záväzné nariad    enie Mesta Kráľovský Chlmec č.     7    /20    2    5            o     dani     z nehnuteľností            na            území            mesta            Kráľovský            Chlmec            účinné od            1    .1.20    2    6    .                           Mestské zastupiteľstvo mesta Kráľovský Chlmec sa na tomto všeobecne záväznom            nariadení            o            dani z nehnuteľností uznieslo            dňa                       §            10                Účinnosť                    Toto            nariadenie            nadobúda            účinnosť            1.            januára 20    2    7    .                              

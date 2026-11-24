@@ -1,0 +1,466 @@
+URL: https://obec.dobraobec.sk/files/27/uradna_tabula/56b86_ŽSR, Elektrifikácia_BnO-HE - UČS 01, UČS 02.pdf
+OBEC: Laškovce (Michalovce)
+NÁZOV: 56b86_ŽSR, Elektrifikácia_BnO-HE - UČS 01, UČS 02.pdf
+ZDROJ: web obce
+
+                                                                    sekcia železničnej dopravy a dráh
+                                                        odbor špeciálny stavebný úrad pre stavby dráh
+
+
+Číslo: 36092/2026/SŽDD/114451                                                                          18. 11. 2026
+Stupeň dôvernosti: VJ
+
+
+
+Vec
+Oznámenie verejnou vyhláškou o začatí kolaudačného konania
+a nariadenie ústneho pojednávania spojeného s miestnym zisťovaním
+
+
+        Stavebník, Železnice Slovenskej republiky, Klemensova 8, 813 61 Bratislava,
+v zastúpení spoločnosťou DIPRO Consult, s.r.o., Štefanovičova 14, 811 04 Bratislava dňa
+22. 07. 2026 podal a dňa 20. 10. 2026 doplnil na Ministerstvo dopravy Slovenskej republiky
+(ďalej len ,,MD SR“) návrh na začatie kolaudačného konania stavby dráhy s názvom:
+
+                           „Železnice Slovenskej republiky,
+                Elektrifikácia trate Bánovce nad Ondavou - Humenné“
+
+UČS 00      Úpravy pre elektrifikáciu trate a diaľkové riadenie
+UČS 01      Železničná stanica Bánovce nad Ondavou
+UČS 02      Medzistaničný úsek Bánovce nad Ondavou – Michalovce
+
+v rozsahu prevádzkových súborov (PS) a stavebných objektov (SO):
+
+Odbor 22 Oznamovacie zariadenia
+PS 00-22-01 RSE - Košice, prenosové zariadenie
+PS 00-22-02 RSE - Košice, klient nadstavbového systému
+
+Odbor 29 Kontrola a riadenie TP NET
+PS 00-29-01 RSE – Košice, dispečerský telefónny systém, úpravy
+PS 00-29-02 RSE – Košice, rádiotelefónny systém, úpravy
+PS 00-29-03 RSE – Košice, dispečerský riadiaci systém (DLR), úpravy
+PS 00-29-04 RSE – Košice, dispečerský zobrazovací systém, úpravy
+
+Odbor 37 Inžinierske siete
+SO 00-37-01 Bánovce nad Ondavou – Humenné,
+              ochrana stavby, zariadení a konštrukcií pred účinkami bludných prúdov
+
+Odbor 22 Oznamovacie zariadenia
+PS 01-22-01 Železničná stanica Bánovce nad Ondavou, výstavba optorúr
+PS 01-22-02 Železničná stanica Bánovce nad Ondavou, optická kabelizácia
+PS 01-22-03 Železničná stanica Bánovce nad Ondavou, traťová a miestna kabelizácia
+PS 01-22-04 Železničná stanica Bánovce nad Ondavou, prenosové zariadenie
+PS 01-22-05 Železničná stanica Bánovce nad Ondavou, TNS, prenosové zariadenie
+PS 01-22-06 Železničná stanica Bánovce nad Ondavou,
+            zapojenie oznamovacích zariadení do prevádzky
+
+                  Ministerstvo dopravy Slovenskej republiky | Námestie slobody 6 | 810 05 Bratislava | Slovenská republika
+                                               tel.: +421 905 638 517 | e-mail: nikola.mihalova@mindop.sk | www.mindop.sk
+Odbor 24 Silnoprúdová technológia
+PS 01-24-01 Železničná stanica Bánovce nad Ondavou, TNS, úprava technológie
+PS 01-24-02 Železničná stanica Bánovce nad Ondavou,
+             transformátorová stanica 22/0,4 kV, technológia
+             TNS, transformátorová stanica 22/0,4 kV, technológia
+
+Odbor 26 Elektrická požiarna signalizácia (EPS)
+PS 01-26-01 Železničná stanica Bánovce nad Ondavou, EPS
+
+Odbor 27 Poplachový systém narušenia (PSN) a priemyselná televízia (PTV)
+PS 01-27-01 Železničná stanica Bánovce nad Ondavou, TNS, PSN a PTV
+
+Odbor 29 Kontrola a riadenie TP NET
+PS 01-29-01 Železničná stanica Bánovce nad Ondavou,
+            TNS, dispečerský telefónny systém, úpravy
+PS 01-29-02 Železničná stanica Bánovce nad Ondavou,
+            TNS, rádiotelefónny systém, úpravy
+PS 01-29-04 Železničná stanica Bánovce nad Ondavou, diaľkové riadenie (DLR),
+            úpravy
+PS 01-29-05 Železničná stanica Bánovce nad Ondavou,
+            TNS, riadiaci systém (RSS) a diaľkové riadenie (DLR), úpravy
+
+Odbor 31 Príprava územia
+SO 01-31-02 Železničná stanica Bánovce nad Ondavou, územná rezerva pre striedavú
+             TNS
+
+Odbor 32 Železničný zvršok, železničný spodok, nástupištia, priepusty
+SO 01-32-01 Železničná stanica Bánovce nad Ondavou, železničný zvršok, čistenie
+             a úprava
+SO 01-32-02 Železničná stanica Bánovce nad Ondavou, káblová chráničková trasa
+SO 01-32-03 Železničná stanica Bánovce nad Ondavou, železničný priepust žkm
+             31,521, rekonštrukcia
+
+Odbor 34 Pozemné stavby
+SO 01-34-01 Železničná stanica Bánovce nad Ondavou, TNS, rekonštrukcia objektu
+SO 01-34-02 Železničná stanica Bánovce nad Ondavou, TNS, anténny stožiar
+SO 01-34-03 Železničná stanica Bánovce nad Ondavou, TNS, oplotenie, rekonštrukcia
+SO 01-34-04 Železničná stanica Bánovce nad Ondavou, úpravy priestorov pre
+             technológie
+
+Odbor 35 Trakčné vedenie a energetika
+SO 01-35-01 Železničná stanica Bánovce nad Ondavou, trakčné vedenie, úprava
+SO 01-35-02 Železničná stanica Bánovce nad Ondavou,
+             TNS, pripojenie na trakčné vedenie, doplnenie
+SO 01-35-03 Železničná stanica Bánovce nad Ondavou,
+             TNS, pripojenie spätného vedenia, doplnenie
+SO 01-35-04 Železničná stanica Bánovce nad Ondavou, ukoľajnenie
+SO 01-35-05 Železničná stanica Bánovce nad Ondavou, rozvody DOO a SNZ
+SO 01-35-07 Železničná stanica Bánovce nad Ondavou, transformačná stanica,
+             prípojka VN
+SO 01-35-09 Železničná stanica Bánovce nad Ondavou, TNS rozvody NN, úpravy
+Odbor 21 Železničné zabezpečovacie zariadenia
+PS 02-21-01 Bánovce nad Ondavou – Michalovce, TZZ – AH
+PS 02-21-02 Bánovce nad Ondavou – Michalovce, PZS žkm 32,598
+PS 02-21-03 Bánovce nad Ondavou – Michalovce, PZS žkm 33,278
+PS 02-21-04 Bánovce nad Ondavou – Michalovce, PZS žkm 34,881
+PS 02-21-05 Bánovce nad Ondavou – Michalovce, PZS žkm 37,497
+PS 02-21-06 Bánovce nad Ondavou – Michalovce, PZS žkm 37,803
+
+Odbor 22 Oznamovacie zariadenia
+PS 02-22-01 Bánovce nad Ondavou – Michalovce, výstavba optorúr
+PS 02-22-02 Bánovce nad Ondavou – Michalovce, optická kabelizácia
+PS 02-22-03 Bánovce nad Ondavou – Michalovce, traťová kabelizácia
+PS 02-22-04 Bánovce nad Ondavou – Michalovce,
+             zapojenie oznamovacích zariadení do prevádzky
+PS 02-22-05 Bánovce nad Ondavou – Michalovce, preložky a úpravy káblov ŽSR
+
+Odbor 32 Železničný zvršok, železničný spodok, nástupištia a priepusty
+SO 02-32-01 Bánovce nad Ondavou – Michalovce, čistenie a úprava
+SO 02-32-01.1 Bánovce nad Ondavou – Michalovce, železničný spodok, rekonštrukcia
+SO 02-32-01.2 Bánovce nad Ondavou – Michalovce, železničný zvršok, čistenie a úprava
+SO 02-32-02 Bánovce nad Ondavou – Michalovce, káblová chráničková trasa
+SO 02-32-03 Bánovce nad Ondavou – Michalovce, zastávka Laškovce, nástupište
+SO 02-32-04 Bánovce nad Ondavou – Michalovce, zastávka Michalovce, nástupište
+SO 02-32-05 Bánovce nad Ondavou – Michalovce, priecestie žkm 32,598, rekonštrukcia
+SO 02-32-06 Bánovce nad Ondavou – Michalovce, priecestie žkm 33,278, rekonštrukcia
+SO 02-32-07 Bánovce nad Ondavou – Michalovce, priecestie žkm 34,881, rekonštrukcia
+SO 02-32-08 Bánovce nad Ondavou – Michalovce, priecestie žkm 37,497, rekonštrukcia
+SO 02-32-09 Bánovce nad Ondavou – Michalovce, priecestie žkm 37,803, rekonštrukcia
+SO 02-32-10 Bánovce nad Ondavou – Michalovce, žel. priepust žkm 37,514,
+             rekonštrukcia
+SO 02-32-11 Bánovce nad Ondavou – Michalovce, žel. priepust žkm 37,789,
+             rekonštrukcia
+SO 02-32-12 Bánovce nad Ondavou – Michalovce, žel. priepust žkm 38,625, prestavba
+
+Odbor 33 Mosty a umelé stavby
+SO 02-33-02 Bánovce nad Ondavou – Michalovce, žel. most žkm 33,338, rekonštrukcia
+SO 02-33-03.1 Bánovce nad Ondavou – Michalovce, inundačný priepust žkm 33,613
+SO 02-33-04 Bánovce nad Ondavou – Michalovce, žel. most žkm 33,883, prestavba
+SO 02-33-05.1 Bánovce nad Ondavou – Michalovce, inundačný priepust žkm 34,228
+SO 02-33-06.1 Bánovce nad Ondavou – Michalovce, inundačný priepust žkm 35,067
+SO 02-33-06.2 Bánovce nad Ondavou – Michalovce, ochrana VTL plynovodu DN150
+              v žkm 35,067
+SO 02-33-07 Bánovce nad Ondavou – Michalovce, žel. most žkm 35,212, rekonštrukcia
+SO 02-33-07.1 Bánovce nad Ondavou – Michalovce, inundačný priepust žkm 35,212
+SO 02-33-08.1 Bánovce nad Ondavou – Michalovce, inundačný priepust žkm 39,377
+
+Odbor 34 Pozemné stavby
+SO 02-34-01 Bánovce nad Ondavou – Michalovce, zastávka Laškovce, prístrešok pre
+             cestujúcich
+SO 02-34-02 Bánovce nad Ondavou – Michalovce, zastávka Michalovce, prístrešok pre
+             cestujúcich
+Odbor 35 Trakčné vedenie a energetika
+SO 02-35-01 Bánovce nad Ondavou – Michalovce, trakčné vedenie
+SO 02-35-02 Bánovce nad Ondavou – Michalovce, ukoľajnenie
+SO 02-35-03 Bánovce nad Ondavou – Michalovce, zastávka Laškovce, prípojka NN,
+             úprava
+SO 02-35-05 Bánovce nad Ondavou – Michalovce, priecestie žkm 32,598, prípojka NN,
+             úprava
+SO 02-35-06 Bánovce nad Ondavou – Michalovce, priecestie žkm 33,278, prípojka NN,
+             úprava
+SO 02-35-07 Bánovce nad Ondavou – Michalovce, priecestie žkm 34,881, prípojka NN
+SO 02-35-08 Bánovce nad Ondavou – Michalovce, priecestie žkm 37,497, prípojka NN,
+             úprava
+SO 02-35-09 Bánovce nad Ondavou – Michalovce, priecestie žkm 37,803, prípojka NN,
+             úprava
+SO 02-35-10 Bánovce nad Ondavou – Michalovce, zastávka Laškovce, osvetlenie
+             nástupištia
+SO 02-35-11 Bánovce nad Ondavou – Michalovce, zastávka Michalovce, osvetlenie
+             nástupištia
+
+SO a PS, ktoré nepodliehajú vydaniu kolaudačného rozhodnutia:
+
+SO 01-31-01 Železničná stanica Bánovce nad Ondavou, výruby stromov
+PS 02-21-07 Bánovce nad Ondavou – Michalovce, demontáž existujúcich
+            zabezpečovacích zariadení
+SO 02-31-01 Bánovce nad Ondavou – Michalovce, výruby stromov
+SO 02-33-03 Bánovce nad Ondavou – Michalovce, žel. most žkm 33,613, asanácia
+SO 02-33-05 Bánovce nad Ondavou – Michalovce, žel. most žkm 34,228, asanácia
+SO 02-33-06 Bánovce nad Ondavou – Michalovce, žel. most žkm 35,067, asanácia
+SO 02-33-08 Bánovce nad Ondavou – Michalovce, žel. most žkm 39,377, asanácia.
+
+Stavba dráhy je umiestnená na pozemkoch:
+
+Číslo                   Číslo
+parcely                 parcely
+            Číslo LV                 Vlastník parcely
+registra                registra
+C-KN                    E-KN
+
+k. ú. Bánovce nad Ondavou (okres: Michalovce, kraj: Košický)
+
+1325/1      776                      Slovenská republika v správe ŽSR
+1326        776                      Slovenská republika v správe ŽSR
+1171/1      776                      Slovenská republika v správe ŽSR
+1179/16     789         1176         Slovenská republika v správe ŽSR
+1179/36     789         1176         Slovenská republika v správe ŽSR
+1179/36     503         1179/2       fyzické osoby a právnická osoba
+1171/13     776                      Slovenská republika v správe ŽSR
+1171/17     776                      Slovenská republika v správe ŽSR
+1171/11     776                      Slovenská republika v správe ŽSR
+1094/3      508         1147         fyzické osoby
+1171/10     776                      Slovenská republika v správe ŽSR
+1172        776                      Slovenská republika v správe ŽSR
+1016        776                      Slovenská republika v správe ŽSR
+990/4       776                     Slovenská republika v správe ŽSR
+992/1       776                     Slovenská republika v správe ŽSR
+1094/14     575        1026         právnická osoba
+1094/14     668        1025         fyzické osoby
+1094/14     560        1024         fyzické osoby a právnická osoba
+1017        776                     Slovenská republika v správe ŽSR
+1018        776                     Slovenská republika v správe ŽSR
+1011/2      891                     právnická osoba
+1011/3      891                     právnická osoba
+990/4       776                     Slovenská republika v správe ŽSR
+
+k. ú. Laškovce (okres: Michalovce, kraj: Košický)
+
+882/16      442        882/15       fyzická osoba a právnická osoba
+882/16      166        882/16       fyzické osoby
+886         159                     Slovenská republika v správe ŽSR
+843         159                     Slovenská republika v správe ŽSR
+842         159                     Slovenská republika v správe ŽSR
+841         159                     Slovenská republika v správe ŽSR
+238/2       159                     Slovenská republika v správe ŽSR
+238/1       159                     Slovenská republika v správe ŽSR
+239         159                     Slovenská republika v správe ŽSR
+240         159                     Slovenská republika v správe ŽSR
+233/6       485                     fyzické osoby a právnická osoba
+241         159                     Slovenská republika v správe ŽSR
+242         159                     Slovenská republika v správe ŽSR
+
+k. ú. Žbince (okres: Michalovce, kraj: Košický)
+
+964         192                     Slovenská republika v správe ŽSR
+
+k. ú. Šamudovce (okres: Michalovce, kraj: Košický)
+
+1561        146                     Slovenská republika v správe ŽSR
+
+k. ú. Pozdišovce (okres: Michalovce, kraj: Košický)
+
+784         420                     Slovenská republika v správe ŽSR
+782/4       1147       782/4        fyzická osoba a fyzické osoby v správe SPF
+
+k. ú. Krásnovce (okres: Michalovce, kraj: Košický)
+
+1785        438                     Slovenská republika v správe ŽSR
+1567/1      868        1505         fyzická osoba
+1567/1      120        1502         fyzická osoba
+1567/1      868        1501         fyzická osoba
+1345/23     978        1429         fyzická osoba
+1345/22     717                     fyzická osoba
+1345/21     977        1427         fyzická osoba a fyzické osoby v správe SPF
+1345/20     717                     fyzická osoba
+k. ú. Močarany (okres: Michalovce, kraj: Košický)
+
+670         3410                    Slovenská republika v správe ŽSR
+
+k. ú. Michalovce (okres: Michalovce, kraj: Košický)
+
+5254/15     3478                    Slovenská republika v správe ŽSR
+2573        3478                    Slovenská republika v správe ŽSR
+5254/1      3478                    Slovenská republika v správe ŽSR
+
+k. ú. Stredné Mesto (okres: Košice , kraj: Košický)
+
+2633/185    10268                   Slovenská republika v správe ŽSR
+
+
+        Stavba dráhy bola povolená stavebným povolením vydaným MD SR
+č. 07277/2020/SŽDD/26995 zo dňa 24. 03. 2020, ktoré nadobudlo právoplatnosť dňa
+26. 05. 2020.
+
+       Dňom podania návrhu začalo kolaudačné konanie.
+
+        MD SR ako orgán verejnej správy vo veciach dráh podľa § 101 písm. a) zákona
+č. 513/2009 Z. z. o dráhach a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov (ďalej len ,,zákon o dráhach“) a zároveň ako špeciálny stavebný úrad pre stavby
+dráh podľa § 102 ods. 1 písm. aa) zákona o dráhach a podľa § 120 zákona č. 50/1976 Zb.
+o územnom plánovaní a stavebnom poriadku (stavebný zákon) v znení neskorších predpisov
+(ďalej len ,,stavebný zákon“) nariaďuje podľa § 80 stavebného zákona a podľa § 21 zákona
+č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov
+k predloženému návrhu ústne pojednávanie spojené s miestnym zisťovaním na deň
+
+                        10. 12. 2026 (štvrtok) o 08:00 hod.
+       so stretnutím pozvaných pred schodišťom pri výškovej budove žst. Košice
+                    s následným odchodom na miesto stavby dráhy.
+
+      Stavebníka žiadame o zabezpečenie vhodnej rokovacej miestnosti.
+
+       Do podkladov rozhodnutia možno nahliadnuť do dňa ústneho pojednávania
+na pracovisku MD SR, Sekcia železničnej dopravy a dráh, odbor špeciálny stavebný úrad pre
+stavby dráh, oddelenie Východ, Hlavná č. 6/6, Košice a pri samotnom ústnom pojednávaní.
+
+       Účastníci konania a dotknuté orgány môžu svoje námietky a stanoviská uplatniť
+najneskôr pri ústnom pojednávaní, inak sa na ne nebude prihliadať. Ak sa niektorý
+z účastníkov konania nechá v konaní zastupovať, musí jeho zástupca predložiť písomnú plnú
+moc s overeným podpisom toho účastníka konania, ktorý sa nechá zastupovať.
+
+
+
+
+                                                            JUDr. Matej Klamo
+                                                 riaditeľ odboru špeciálny stavebný úrad
+                                                             pre stavby dráh
+spracovateľ   Ing. Nikola Mihaľová
+telefón       +421 905 638 517
+e-mail        nikola.mihalova@mindop.sk
+
+        Toto oznámenie bude doručené verejnou vyhláškou podľa § 26 ods. 2 správneho
+poriadku vyvesením po dobu 15 dní na úradnej tabuli MD SR a zároveň bude zverejnené na
+webovom sídle MD SR, v časti Verejné vyhlášky, ako aj na centrálnej úradnej elektronickej
+tabuli na stránke www.slovensko.sk v časti „Úradná tabuľa“. MD SR žiada dotknuté mestá:
+Košice, Michalovce a obce: Bánovce nad Ondavou, Laškovce, Žbince, Šamudovce,
+Pozdišovce a Krásnovce, aby vyvesili verejnú vyhlášku podľa § 26 ods. 2 správneho poriadku
+na úradnej tabuli mesta a obce aj na ich webovom sídle, a to najmenej na tú istú dobu, ako sa
+zverejňuje na úradnej tabuli MD SR.
+
+Po uplynutí 15 dňovej lehoty určenej na vyvesenie, žiadame túto verejnú vyhlášku
+zaslať späť na MD SR s vyznačením dátumu jej vyvesenia a zvesenia.
+
+Oznámenie sa doručí:
+Účastníkom konania:
+Železnice Slovenskej republiky, Klemensova 8, 813 61 Bratislava
+DIPRO Consult, s.r.o., Štefanovičova 14, 811 04 Bratislava
+Slovenský pozemkový fond, Búdkova 36, 817 15 Bratislava
+Flaga spol. s r. o., Šenkvická 14/R, 902 01 Pezinok
+
+Ostatným:
+MD SR, Námestie slobody 6, 810 05 Bratislava
+       ÚVHR, oddelenie oblastného hygienika Košice
+       SŽDD, odbor dráhovej štátnej železničnej správy a železničnej dopravy
+MO SR, Agentúra správy majetku Košice, Kutuzovova 8, 832 47 Bratislava
+MV SR, odbor požiarnej prevencie, Drieňová 22, 826 86 Bratislava
+OR HaZZ v Michalovciach, Fraňa Kráľa 1119/21 071 01 Michalovce
+OR PZ v Michalovciach, Jána Hollého 46, 071 01 Michalovce
+       okresný dopravný inšpektorát
+Okresný úrad Košice, Komenského 52, 041 26 Košice
+       odbor cestnej dopravy a pozemných komunikácií
+       odbor starostlivosti o životné prostredie (EIA)
+Okresný úrad Michalovce, Námestie slobody 1, 071 01 Michalovce
+       odbor cestnej dopravy a pozemných komunikácií
+       odbor krízového riadenia
+       odbor starostlivosti o životné prostredie
+       pozemkový a lesný odbor
+Krajský pamiatkový úrad Košice, Hlavná 25, 040 01 Košice
+Prešovský samosprávny kraj, Námestie mieru 2, 080 01 Prešov
+Košický samosprávny kraj, Námestie Maratónu mieru 1, 040 01 Košice
+Správa ciest KSK, Ostrovského 1, 040 01 Košice
+Slovenská správa ciest, Miletičova 19, 826 19 Bratislava
+Mesto Košice, Trieda SNP 1280/48A, 040 11 Košice + 1x na vyvesenie
+       stavebný úrad
+Mesto Michalovce, Námestie Osloboditeľov 30, 071 01 Michalovce + 1x na vyvesenie
+       orgán územného plánovania
+       MČ Močarany
+       stavebný úrad
+Obec Bánovce nad Ondavou, Bánovce n./ O. č. 191, 072 04 Trhovište + 1x na vyvesenie
+       stavebný úrad
+Obec Laškovce, Laškovce 36, 072 01 Pozdišovce + 1x na vyvesenie
+       stavebný úrad
+Obec Žbince, Žbince 34, 072 16 Hatalov + 1x na vyvesenie
+       stavebný úrad
+Obec Šamudovce, Šamudovce 99, 072 01 Pozdišovce + 1x na vyvesenie
+       stavebný úrad
+Obec Pozdišovce, 072 01 Pozdišovce č. 144, + 1x na vyvesenie
+       stavebný úrad
+Obec Krásnovce, Krásnovce 131, 072 01 Pozdišovce + 1x na vyvesenie
+       stavebný úrad
+Obvodný banský úrad v Košiciach, Timonova 23, 040 01 Košice
+Štátna ochrana prírody Slovenskej republiky, Tajovského 28B, 974 01 Banská Bystrica
+Slovenský vodohospodársky podnik, š. p., Karloveská 2, 841 04 Bratislava
+Hydromeliorácie, š. p., Vrakunská 29, 825 63 Bratislava 211
+Dopravný úrad, Letisko M. R. Štefánika, 823 05 Bratislava
+Slovenský zväz telesne postihnutých, Ševčenkova 19, 851 01 Bratislava
+Únia nevidiacich a slabozrakých Slovenska, Sekulská 1, 842 50 Bratislava
+SPP- distribúcia, a. s., Plátennícka 19013/2, 821 09 Bratislava
+NAFTA, a. s., Votrbuova 1, 821 09 Bratislava
+Slovenská elektrizačná prenosová sústava, a. s., Mlynské nivy 59/A, 824 84 Bratislava 26
+Východoslovenská distribučná a. s., Mlynská 31, 042 91 Košice
+Východoslovenská vodárenská spoločnosť, a. s., Komenského 50, 042 48 Košice
+Železničná spoločnosť Slovensko, a. s., Rožňavská 1, 832 72 Bratislava 3
+ARRIVA Michalovce, a. s., Lastomírska 1, 071 80 Michalovce
+Sladovňa, a. s., Michalovce, Močarianska 14, 071 01 Michalovce
+CASSPOS a. s., závod ZEST, Továrenská 6, 071 01 Michalovce
+Lesy Slovenskej republiky, š. p., Námestie SNP 8, 975 66 Banská Bystrica
+Inšpektorát práce Košice, Masarykova 1887, 040 01 Košice
+REMING CONSULT, a. s., Trnavská cesta 27, 831 04 Bratislava
+SUDOP Košice a. s., Žriedlová 1, 040 01 Košice
+ELTRA, s.r.o., Rampová 4, 040 01 Košice
+
+Známym a neznámym právnickým osobám a fyzickým osobám, ktorých vlastnícke
+alebo iné práva k pozemkom alebo stavbám, ako aj susedným pozemkom a stavbám,
+môžu byť rozhodnutím priamo dotknuté.
+
+Potvrdenie dátumu vyvesenia a zvesenia verejnej vyhlášky:
+
+
+Vyvesené dňa:                                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného                    Pečiatka a podpis zodpovedného
+zamestnanca mesta Košice                          zamestnanca mesta Košice
+
+
+Vyvesené dňa:                                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného                    Pečiatka a podpis zodpovedného
+zamestnanca mesta Michalovce                      zamestnanca mesta Michalovce
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca obce Bánovce n./ O.   zamestnanca obce Bánovce n./ O.
+
+
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca obce Laškovce         zamestnanca obce Laškovce
+
+
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca obce Žbince           zamestnanca obce Žbince
+
+
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca obce Šamudovce        zamestnanca obce Šamudovce
+
+
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca obce Pozdišovce       zamestnanca obce Pozdišovce
+
+
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca obce Krásnovce        zamestnanca obce Krásnovce
+
+
+Vyvesené dňa:                     Zvesené dňa:
+
+
+Pečiatka a podpis zodpovedného    Pečiatka a podpis zodpovedného
+zamestnanca MD SR                 zamestnanca MD SR
+

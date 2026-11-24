@@ -1,0 +1,485 @@
+URL: https://cuet.slovensko.sk/en/dokument/7648296c-03ae-410d-a272-56a75d3bc72f
+OBEC: Štrba (Poprad)
+NÁZOV: Návrh programového rozpočtu obce Štrba
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/7648296c-03ae-410d-a272-56a75d3bc72f
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh programového rozpočtu obce Štrba
+Search publisher's RSS feeds
+Published on official board:
+Obec Štrba (OVM)
+Published from:
+24.11.2026
+Registry symbol:
+FU1
+Documents author:
+Obec Štrba (OVM)
+Published to:
+09.12.2026
+Registry case:
+250/7527/2026-RPav
+Name of official document:
+Návrh programového rozpočtu obce Štrba
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh programového rozpočtu obce Štrba na rok 2027 s výhľadom na roky 2028 - 2029
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Navrh_programoveho_rozpoctu_obce_Strba.pdf
+Type and size:
+.pdf, 1.95 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/064e1187-15f3-4756-b19e-155318798cad
+NÁVRH PROGRAMOVÉHO ROZPOČTU
+         OBCE ŠTRBA
+           NA ROK 2027
+ S VÝHĽADOM NA ROKY 2028 – 2029
+
+
+
+
+        V Štrbe 23. novembra 2026
+              Programový rozpočet obce Štrba pre rok 2027
+                   (s výhľadom na roky 2028 – 2029)
+        Rozpočet obce Štrba pre rok 2027 je vypracovaný v súlade so zákonom č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov, zákonom 523/2004 Z.z. o rozpočtových
+pravidlách verejnej správy v znení neskorších predpisov, zákonom č. 583/2004 Z.z.
+o rozpočtových pravidlách územnej samosprávy v znení neskorších predpisov a ústavným
+zákonom č. 493/2011 Z.z. o rozpočtovej zodpovednosti. Vláda SR uznesením č. 407 z 23.
+septembra 2026 schválila materiál „Návrh zistenia, že výdavky z verejných prostriedkov
+súvisiace s odstraňovaním následkov živelných pohrôm a prírodných katastrof, ktoré zasiahli
+územie Slovenskej republiky a výdavky z verejných prostriedkov vyplývajúce z plnenia
+medzinárodných zmlúv presiahli v úhrne 3 % hrubého domáceho produktu“ a uložila
+ministrovi financií pripraviť a predložiť na rokovanie vlády SR Návrh rozpočtu verejnej správy
+na roky 2027 až 2029 zohľadňujúc zistenie vyplývajúce z bodu A.1 tohto uznesenia s termínom
+do 14. októbra 2026. Ministerstvo financií SR vydalo usmernenie pre obce, že platí výnimka
+na uplatňovanie sankcií podľa čl. 12 ods. 10 ústavného zákona o rozpočtovej zodpovednosti
+a subjekty územnej samosprávy pri tvorbe rozpočtu na rok 2027 postupujú bez obmedzení
+dlhovej brzdy. K rozpočtu je vypracovaný aj programový rozpočet na roky 2027 až 2029.
+Informuje verejnosť o rozpočte v jednotlivých programoch a podprogramoch.
+Rozpočet obce je základným nástrojom finančného hospodárenia, ktorým sa riadi financovanie
+úloh a funkcií obce v príslušnom rozpočtovom roku. Uplatňuje sa v ňom rozpočtová
+klasifikácia, podľa ktorej sa jednotne určujú a triedia príjmy a výdavky rozpočtu verejnej
+správy.
+Rozpočet obce obsahuje príjmy a výdavky, v ktorých sú vyjadrené finančné vzťahy
+k právnickým a fyzickým osobám pôsobiacim na území obce a k obyvateľom žijúcim v obci.
+Súčasťou rozpočtu obce sú rozpočty príjmov a výdavkov rozpočtových organizácii, ako aj
+finančné vzťahy k právnickým osobám, ktorých zakladateľom je obec.
+Rozpočet obce Štrba na rok 2027 je zostavený v súlade s § 10 ods. 3 až 7 zákona č. 583/2004
+Z. z. o rozpočtových pravidlách územnej samosprávy v znení neskorších predpisov v členení
+na:
+a) bežný rozpočet, t. j. bežné príjmy a bežné výdavky,
+bežné príjmy ........................................................................ 6 076 519 €
+bežné výdavky ..................................................................... 5 042 271 €
+prebytok ............................................................................... 1 034 248 €
+b) kapitálový rozpočet, t. j. kapitálové príjmy a kapitálové výdavky,
+kapitálové príjmy ................................................................. 3 828 083 €
+kapitálové výdavky .............................................................. 6 570 063 €
+schodok ................................................................................ 2 741 980 €
+Spolu schodok rozpočtu ....................................................... 1 707 732 €
+c) finančné operácie
+finančné operácie príjmové ................................................... 2 071 705 €
+finančné operácie výdavkové ................................................           363 973 €
+prebytok ................................................................................ 1 707 732 €
+Pri zostavovaní rozpočtu obce boli splnené zákonom stanovené určité pravidlá:
+a) rozpočet obce sa zostavuje ako vyrovnaný alebo prebytkový
+b) bežný rozpočet sa zostavuje ako vyrovnaný alebo prebytkový
+c) kapitálový rozpočet sa zostavuje ako vyrovnaný alebo prebytkový, môže byť zostavený aj
+ako schodkový, ak tento schodok sa vykryje zostatkami finančných prostriedkov obce
+z minulých rokov, návratným zdrojmi financovania, alebo je krytý prebytkom bežného
+rozpočtu v príslušnom rozpočtovom roku.
+Celkový rozpočet obce Štrba na rok 2027 je predkladaný ako vyrovnaný. Príjmy rozpočtu sú
+vo výške 11 976 307 € a výdavky vo výške 11 976 307 €.
+Programový rozpočet výdavkov obsahuje údaje o zámeroch a cieľoch obce. Rozpracovanie
+rozpočtu do programov, podprogramov značne zvyšuje informačnú hodnotu s možnosťou
+prezentovať ciele a monitorovať ich dosahovanie.
+Na roky 2027 – 2029 je rozpočtovaných 14 programov, každý podprogram má určenú
+zodpovednosť za plnenie, sledovanie a hodnotenie cieľov. Schváleniu rozpočtu obce na rok
+2027 predchádzalo viacnásobné analyzovanie príjmových a následne výdavkových možností
+obce. Pri rozpočtovaní príjmov sme vychádzali z určeného podielu na výnosoch daní v správe
+štátu ustanovených osobitným predpisom, z návrhu zákona o štátnom rozpočte na rok 2027,
+z poznania miery financovania prenesených kompetencií štátu a z predpokladu vlastných
+príjmových možností rozpočtu obce. V súlade s očakávanými príjmami na rok 2027 boli
+analyzované výdavky obce pre bežný a kapitálový rozpočet. Schválený rozpočet obce
+zohľadňuje hlavne výdavky obce potrebné na zabezpečenie samosprávnych funkcií obce
+a výkonu funkcií prenesenej štátnej správy.
+
+                                     Rozpočet obce Štrba na rok 2027
+                                                                                                  Rozpočet na rok 2027
+
+ Príjmy celkom                                                                                                11 976 307
+ z toho :
+ Bežné príjmy                                                                                                  5 934 709
+ Kapitálové príjmy                                                                                             3 828 083
+ Finančné príjmy                                                                                               2 071 705
+ Príjmy RO s právnou subjektivitou                                                                               141 810
+ Výdavky celkom                                                                                               11 976 307
+ z toho :
+ Bežné výdavky                                                                                                 5 042 271
+ Kapitálové výdavky                                                                                            6 570 063
+ Finančné výdavky                                                                                                363 973
+               Programový rozpočet obec Štrba                        Rozpočet na rok 2027
+
+
+ Výdavky spolu:                                                                      11 976 307
+ Program 1 : Plánovanie, manažment a kontrola                                          6 778 288
+ Program 2 : Propagácia a marketing                                                      500 700
+ Program 3 : Interné služby                                                               59 365
+ Program 4 : Služby občanom                                                              150 672
+ Program 5 : Bezpečnosť                                                                  277 641
+ Program 6 : Odpadové hospodárstvo                                                       294 794
+ Program 7 : Komunikácie                                                                 169 603
+ Program 8 : Vzdelávanie                                                               2 069 982
+ Program 9 : Šport                                                                       148 918
+ Program 10 : Kultúra                                                                     68 939
+ Program 11 : Prostredie pre život                                                       116 435
+ Program 12 : Bývanie                                                                      1 715
+ Program 13 : Sociálne služby                                                            118 933
+ Program 14 : Administratíva                                                           1 220 322
+
+
+I. BEŽNÝ ROZPOČET
+Bežné príjmy             (bez ZŠ, MŠ, ZUŠ)                                        5 934 709 €
+
+
+
+1. Daňové príjmy                                                                   4 183 196 €
+
+1.1. Výnos dane z príjmov poukázaný územnej samospráve ............................ 1 788 200 €
+  - v zmysle zákona č. 564/2004 Z.z. o rozpočtovom určení výnosu dane z príjmov územnej
+samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov výnos dane
+z príjmov fyzických osôb je príjmom rozpočtu obce vo výške 14,93 %. Výnos dane sa
+rozdeľuje podľa kritérií v zmysle nariadenia vlády o rozdeľovaní výnosu dane z príjmov
+územnej samospráve nasledovne:
+   a) 28 % podľa počtu obyvateľov obce s trvalým pobytom na území obce k 1.januáru
+      predchádzajúceho kalendárneho roka, z toho 57% prepočítaný koeficientom
+      nadmorskej výšky obce,
+   b) 38,9 % podľa počtu obyvateľov obce s trvalým pobytom na území obce k 1.januáru
+      predchádzajúceho kalendárneho roka prepočítaného koeficientom v závislosti od
+      zaradenia obce do veľkostnej kategórie,
+   c) 27 % podľa počtu žiakov (detí, poslucháčov) škôl a školských zariadení zisteného
+      zberom údajov podľa osobitného predpisu a prepočítaného príslušným koeficientom,
+     d) 6,1 % podľa počtu obyvateľov obce, ktorí dovŕšili vek šesťdesiatdva rokov, s trvalým
+        pobytom na území obce k 1. januáru predchádzajúceho kalendárneho roka.
+
+
+1.2. Daň z nehnuteľnosti ........................................................................................... 538 000 €
+        Daň z nehnuteľnosti upravuje zákon č.582/2004 o miestnych daniach a poplatku za
+komunálne odpady a drobné stavebné odpady v znení neskorších predpisov. Daň
+z nehnuteľností sa člení na daň z pozemkov, daň zo stavieb a daň z bytov a nebytových
+priestorov. Pre vyrubenie dane je rozhodujúci stav k 1. januáru zdaňovacieho obdobia. Na
+zmeny skutočností rozhodujúcich pre daňovú povinnosť, ktoré nastanú v priebehu
+zdaňovacieho obdobia sa neprihliada, ak zákon neustanovuje inak. Výška sadzby tejto dane
+bude pre rok 2027 rovnaká, ako platila pre rok 2026.
+
+1.3. Poplatok za komunálne odpady a drobný stavebný odpad ........................... 283 000 €
+       Miestny poplatok za komunálne odpady a drobné stavebné odpady sa v zmysle zákona
+č. 582/2004 Z. z. o miestnych daniach a poplatku za komunálne a drobné stavebné odpady
+v znení neskorších predpisov sa platí za komunálne odpady a drobné stavebné odpady, ktoré
+vznikajú na území obce. Poplatníkom je:
+   a) fyzická osoba, ktorá má v meste trvalý pobyt alebo prechodný pobyt alebo užíva
+       nehnuteľnosť na území obce na iný účel ako na podnikanie
+   b) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa
+       na území obce na iný účel ako na podnikanie
+   c) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na
+       území obce na účel podnikania
+Podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť na území obce na účel
+podnikania a právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť na území
+obce na iný účel ako na podnikanie môže realizovať v zmysle vyššie uvedeného VZN platenie
+poplatku množstvovým zberom prostredníctvom dohody o využívaní a vyúčtovaní
+množstvového zberu z poplatku za komunálne odpady a drobné stavebné odpady.
+
+V zmysle zákona č. 79/2015 Z. z. o odpadoch môže obec z vybraného miestneho poplatku za
+komunálne odpady a drobné stavebné odpady uhradiť náklady na likvidáciu:
+•  komunálneho odpadu z domácností fyzických osôb (FO), právnických osôb (PO)
+   a fyzických osôb podnikateľov (FOP),
+•  odpadu z čistenia ulíc,
+•  odpadu z údržby verejnej zelene, parkov, cintorínov,
+•  bioodpadu z verejnej zelene, parkov, cintorínov, z pozemkov FO, PO, FOP, občianskych
+   združení,
+•  drobného stavebného odpadu od FO,
+•  separáciu odpadu.
+
+Výška tohto poplatku sa bude pre rok 2027 navyšovať. Je to spôsobené najmä zvýšením
+nákladov na likvidáciu komunálneho odpadu z titulu zavedenia mechanicko biologickej úpravy
+odpadu a zvýšenia nákladov na zneškodnenie a uloženie odpadu z dôvodu nárastu miezd,
+inflácie a cien pohonných hmôt.
+
+1.4. Daň za psa .............................................................................................................. 3 000 €
+Predmetom dane za psa je v zmysle VZN obce Štrba pes starší ako 6 mesiacov chovaný FO
+alebo PO. Sadzba dane je určená v € za jedného psa a kalendárny rok. Výška sadzby tejto dane
+pre rok 2027 sa nemení.
+1.5. Daň za ubytovanie .......................................................................................... 1 100 000 €
+Predmetom dane za ubytovanie je v zmysle VZN obce Štrba odplatné ubytovanie fyzickej
+osoby v zariadení poskytujúcom služby prechodného ubytovania. Sadzba dane je určená v € na
+osobu a prenocovanie. Výška sadzby tejto dane bude pre rok 2027 rovnaká, ako platila v roku
+2026.
+1.6. Daň za špecifické služby............................................................................................ 996 €
+1.7. Poplatok za rozvoj ............................................................................................. 470 000 €
+       Obce podľa zákona č. 447/2015 Z. z. o miestnom poplatku za rozvoj vyberajú poplatok
+na základe rozhodnutia podľa zákona č. 563/2009 Z. z. o správe daní. Podľa §4 ods. 1 zákona
+o miestnom poplatku za rozvoj poplatková povinnosť vzniká dňom právoplatnosti stavebného
+povolenia, dňom právoplatnosti rozhodnutia o povolení zmeny stavby pred jej dokončením,
+dňom právoplatnosti rozhodnutia o dodatočnom povolení stavby alebo dňom doručenia
+oznámenia stavebnému úradu k ohlásenej stavbe. Obec vyrubuje poplatok za rozvoj
+rozhodnutím podľa daňového poriadku. Výnos z poplatku za rozvoj je príjmom rozpočtu obce.
+Výnos z poplatku za rozvoj sa použije na úhradu kapitálových výdavkov súvisiacich so
+stavebnými nákladmi na stavbu vrátane nákladov na vysporiadanie pozemku. Kapitálové
+výdavky sa použijú na zariadenia starostlivosti o deti, na účel slúžiaci na poskytovanie
+sociálnych, športových a kultúrnych služieb, na účely sociálneho bývania, školského zariadenia
+a zariadenia slúžiace na praktické vyučovanie, na zdravotnícke zariadenia, na verejne prístupné
+parky a úpravu verejnej zelene, na miestne komunikácie, parkovacie plochy, verejné osvetlenie
+a technickú infraštruktúru, opatrenia na zadržanie vody v území a na zmierňovanie zmeny
+klímy a adaptácie na jej nepriaznivé dôsledky.
+
+
+2. Nedaňové príjmy                                                                                                   334 709 €
+
+2.1. Príjmy z prenajatých pozemkov .......................................................................... 2 420 €
+2.2. Príjmy z prenajatých budov, priestorov a objektov priestorov ........................ 40 889 €
+2.3. Príjmy z prenajatých strojov, prístrojov, zariadení a techniky ................................. 0 €
+2.4. Ostatné administratívne poplatky ...................................................................... 31 000 €
+        - administratívne poplatky – správne poplatky vyberané podľa zákona č. 145/1995 Z.
+z. o správnych poplatkoch v znení neskorších predpisov – vyhotovenie a osvedčenie
+matričných dokladov, vyhotovenie odpisu, výpisu z úradných kníh, správny poplatok
+z reklamy, za vydanie rybárskych lístkov, žiadosť o povolenie stavby a o dodatočné povolenie
+stavby a pod.
+2.5. Ostatné príjmy ..................................................................................................... 260 400 €
+
+
+3. Granty a transfery                                                                                            1 416 804 €
+
+Predpokladané príjmy z tuzemských grantov a dotácií v roku 2027 budú realizované
+v nasledujúcej štruktúre:
+
+1. Hmotná núdza – dotácia na stravu                                                                      8 000 €
+2. Hmotná núdza – osobitný príjemca prídavky na deti                                                     8 000 €
+3. Skladník CO – prenesený výkon štátnej správy                                                            442 €
+4. Základná škola – prenesený výkon štátnej správy                         792 300 €
+5. Materská škola – prenesený výkon štátnej správy                         483 294 €
+6. Stavebný úrad – prenesený výkon štátnej správy                            6 000 €
+7. Matričný úrad – prenesený výkon štátnej správy                            7 200 €
+8. Evidencia obyvateľstva a register adries – prenesený výkon                1 185 €
+9. Dotácia - životné prostredie - prenesený výkon štát. správy                 472 €
+10. DHZ - dotácia zo štátneho rozpočtu (cez DPO SR)                          5 000 €
+11. Obecná polícia – dotácia pre MOaPS v obci                               58 790 €
+12. Príspevok z ÚPSVaR na pracovisko chránenej dielne                        6 400 €
+13. Cyklotrasa – dotácia cez cezhraničný PL-SK projekt                      39 721 €
+
+Predpokladané príjmy z tuzemských transferov zo štátneho rozpočtu na náklady preneseného
+výkonu štátnej správy sú pre rok 2027 rozpočtované nižšie ako na rok 2026. Je to spôsobené
+najmä poklesom detí v materskej škole. Bežný rozpočet obce na rok 2027 zohľadňuje výdavky
+obce potrebné na zabezpečenie samosprávnych funkcií obce a výkonu funkcií prenesenej
+štátnej správy. Výdavková časť rozpočtu je spracovaná v zmysle platnej legislatívy.
+
+
+Bežné príjmy            ZŠ, MŠ, ZUŠ                                                    141 810 €
+Materská škola a školská jedáleň                                                        28 950 €
+
+Štruktúra príjmov je uvedená v tabuľke
+                                                                 z predaja
+                  poplatky za školské        poplatky za
+                                                                 výrobkov         SPOLU
+                      kluby detí               stravné
+                                                                 a služieb
+ MŠ                       8 000                 18 000             2 950           28 950
+
+
+
+Základná škola a školská jedáleň                                                        93 500 €
+
+Štruktúra príjmov je uvedená v tabuľke
+                                                                 z nájmu,
+                  poplatky za školské        poplatky za          predaja
+                                                                                  SPOLU
+                      kluby detí               stravné           výrobkov
+                                                                 a služieb
+ ZŠ                      6 000                  55 000            32 500           93 500
+
+
+
+Základná umelecká škola                                                                 19 360 €
+
+Štruktúra príjmov je uvedená v tabuľke
+
+                              poplatky za školské kluby detí                      SPOLU
+
+ ZUŠ                                       19 360                                 19 360
+II. KAPITÁLOVÝ ROZPOČET
+Kapitálové príjmy sú rozpočtované vo výške 3 828 083,- €, kapitálové výdavky vo výške
+6 570 063,- € a schodok 2 741 980,- €.
+V roku 2027 obec očakáva nasledovné kapitálové príjmy:
+• z NFP EÚ – Cezhraničný PL-SK projekt (cyklotrasa) – 607 297 €,
+• z NFP ŠR – Výstavba obecných nájomných bytov – Tatranská Štrba – 1 151 970 €,
+• z NFP EÚ – Multimodálny dopravný terminál Tatranská Štrba – 2 000 000 €,
+• z NFP Fond na podporu športu – Rekonštrukcia školského areálu ZŠ – 68 816 €.
+III. FINANČNÉ OPERÁCIE
+Príjmové finančné operácie rozpočtujeme v celkovej sume 2 071 705 €.
+• 1 924 940 € z úveru zo Štátneho fondu rozvoja bývania,
+• 1 500 € nevyčerpané prostriedky z Fondu na podporu umenia na nákup kníh do knižnice a
+• 145 265 € nevyčerpané prostriedky z Fondu na podporu športu na rekonštrukciu školského
+ areálu ZŠ.
+
+Výdavkové finančné operácie vo výške 363 973,- € sú rozpočtované na splátky úverov
+a leasing:
+• 267 508 € splátky úverov – dlhodobé investičné úvery prijaté na realizáciu investičných
+projektov obce (Slovenská sporiteľňa, Prima banka),
+• 9 942 € splátky úverov prijatých zo Štátneho fondu rozvoja bývania na výstavbu obecných
+nájomných bytov,
+• 5 763 € splátka leasingu a
+• 80 760 € splátky úverov z Environmentálneho fondu.
+        Podľa zákona o rozpočtovej zodpovednosti rozpočet obce obsahuje údaje za dva
+predchádzajúce rozpočtové roky 2024 a 2025, bežný rozpočtový rok 2026 schválený aj
+očakávanú skutočnosť a tri nasledujúce rozpočtové roky 2027, 2028 a 2029. Rozpočet obce na
+rok 2027 sa predkladá na schválenie obecnému zastupiteľstvu v členení na kategórie
+ekonomickej rozpočtovej klasifikácie. Súčasne sa predkladá na schválenie aj rozpočet
+výdavkov podľa kategórii a programov obce. Rozpočty na nasledujúce dva rozpočtové roky
+majú orientačný charakter, ich ukazovatele sa spresňujú v ďalších rozpočtových rokoch. Na
+účely zostavenia rozpočtu verejnej správy sa zaviedla od r. 2014 povinnosť obci poskytovať
+Ministerstvu financií Slovenskej republiky údaje o schválenom rozpočte obce a hospodárení
+prostredníctvo rozpočtového informačného systému pre samosprávu RIS SAM v stanovenom
+rozsahu a termíne. Obec ako subjekt verejnej správy je povinný pri používaní verejných
+prostriedkov zachovávať hospodárnosť, efektívnosť a účinnosť použitia verejných
+prostriedkov.
+Samotné zostavenie rozpočtu obce na rok 2027 ovplyvnili nasledovné skutočnosti:
+1/ usmernenie MF SR o výnimke na uplatňovanie sankcií podľa čl. 12 ods. 10 ústavného zákona
+o rozpočtovej zodpovednosti - tvorba rozpočtu na rok 2027 bez obmedzení dlhovej brzdy,
+2/ nárast výdavkov na likvidáciu a MBÚ odpadu a
+3/ nárast výdavkov - všeobecne nárast cien všetkých tovarov a služieb z titulu inflácie a rast
+cien energií.
+
+
+
+V Štrbe dňa 23.11.2026
+Spracovala : Ing. Romana Paverová
+                                                                       ROZPOČET PRÍJMOV OBCE ŠTRBA NA ROK 2027 až 2029
+
+                                                                                                               Schválený           Očakávaná
+Ekonomická                                                             Skutočnosť k         Skutočnosť k                                            Návrh rozpočtu na Výhľad rozpočtu          Výhľad rozpočtu
+                                 PRÍJMY OBCE                                                                rozpočet na rok       skutočnosť k
+klasifikácia                                                            31.12.2024           31.12.2025                                                   rok 2027            na rok 2028         na rok 2029
+                                                                                                                 2026              31.12.2026
+                                                                         4 598 041,41        5 636 083,30          5 392 295             5 711 000             6 076 519            5 614 836           5 713 019
+110            Dane z príjmov a kapitálového majetku                    1 730 970,12         1 527 089,09          1 677 580             1 684 654             1 788 200            1 869 420           1 982 301
+120            Dane z majetku                                              427 716,76          545 151,16            539 000               539 000               538 000              538 000             538 000
+130            Dane za tovary a služby                                     949 006,42        1 322 006,16          1 264 396             1 346 076             1 856 996            1 386 996           1 386 996
+210            Príjmy z podnikania a vlastníctva majetku                    49 855,72          106 105,84             75 299                79 248                45 809               45 809              45 809
+220            Administratívne poplatky a iné poplatky a platby            217 167,69          437 054,43            333 580               397 907               365 610              355 610             355 610
+240            Úroky z tuzemských úverov, pôžičiek, NFV, vkladov                 0,00               38,83                    0                    0                     0                   0                   0
+290            Iné nedaňové príjmy                                         152 079,32          122 303,05             56 365                85 192                65 100               65 100              65 100
+310            Tuzemské bežné granty a transfery                         1 071 245,38        1 576 334,74          1 446 075             1 578 923             1 416 804            1 353 901           1 339 203
+                                                                 Obec naplánovala na rok 2027 bežné príjmy vyššie oproti očakávaným príjmom roku 2026 o 365 519 EUR. Navýšené sú najmä príjmy z podielových
+Zdôvodnenie významných zmien:                                    daní, kde obec očakáva príjmy vyššie o 103 546 EUR oproti roku 2026 a príjmy z poplatku za rozvoj, kde obec očakáva príjem vo výške 470 000
+                                                                 EUR.
+
+                                                                             826 519,94         1 048 928,65             7 689 116             7 743 374            3 828 083             4 300 000                        0
+230            Kapitálové príjmy                                              18 700,00             5 434,44                     0                 5 435                    0                     0                        0
+320            Tuzemské kapitálové granty a transfery                        807 819,94         1 043 494,21             7 689 116             7 737 939            3 828 083             4 300 000                        0
+                                                                    Obec na rok 2027 rozpočtovala príjmy z kapitálových grantov a transferov vo výške investičných projektov, ktoré pokračujú v realizácii v roku 2027 -
+Zdôvodnenie významných zmien:
+                                                                    2028.
+
+                                                                             401 793,20           716 211,37                25 405               536 605              146 765                      0                       0
+               Zo splátok tuzemských úverov, pôžičiek a
+410            návratných finančných výpomocí                                      0,00                 0,00                     0                     0                    0                      0                       0
+450            Z ostatných finančných operácií                               401 793,20           716 211,37                25 405               536 605              146 765                      0                       0
+                                                                    Príjem v roku 2027 predstavuje nedočerpanú dotáciu z Fondu na podporu športu na realizáciu projektu "Rekonštrukcia školského areálu ZŠ" a
+Zdôvodnenie významných zmien:
+                                                                    dotáciu z Fondu na podporu umenia na kúpu nových kníh do knižnice.
+
+                                                                             167 842,53         2 518 298,73             1 773 000             2 031 459            1 924 940                      0                       0
+510            Tuzemské úvery, pôžičky a návratné finančné príjmy            167 842,53         2 518 298,73             1 773 000             2 031 459            1 924 940                      0                       0
+
+Zdôvodnenie významných zmien:                                       Obec v roku 2027 plánuje čerpať úver zo Štátneho fondu rozvoja bývania na výstavbu obecných nájomných bytov (30 b. j. ) na Tatranskej Štrbe.
+
+
+               Bežné príjmy programu                                       4 598 041,41         5 636 083,30             5 392 295            5 711 000             6 076 519             5 614 836            5 713 019
+               Kapitálové príjmy programu                                    826 519,94         1 048 928,65             7 689 116            7 743 374             3 828 083             4 300 000                    0
+               Finančné operácie programu                                    569 635,73         3 234 510,10             1 798 405            2 568 064             2 071 705                     0                    0
+               Spolu príjmy                                                5 994 197,08         9 919 522,05            14 879 816           16 022 438            11 976 307             9 914 836            5 713 019
+                                                                      Programový rozpočet 2027 - 2029
+                                                                                                                       Očakávaná
+Číslo programu/        Názov programu/podprogramu, položky   Skutočnosť k      Skutočnosť k      Schválený rozpočet                      Návrh rozpočtu na Výhľad rozpočtu na Výhľad rozpočtu na
+                                                                                                                      skutočnosť k
+ podprogramu                  rozpočtovej klasifikácie        31.12.2024        31.12.2025          na rok 2026                              rok 2027           rok 2028           rok 2029
+                                                                                                                       31.12.2026
+ Program 1        Plánovanie, manažment a kontrola              822 267,84      3 901 286,58            8 720 986          9 583 362            6 778 288         4 707 056            518 476
+                  Bežné výdavky programu                          150 589,51        180 285,80              236 021            244 503             223 225            191 742           199 361
+                  Kapitálové výdavky programu                     617 678,33      3 691 000,78            8 484 965          9 338 859           6 555 063          4 515 314           319 115
+                  Finančné operácie programu                       54 000,00         30 000,00                    0                  0                   0                  0                 0
+ Program 2        Propagácia a marketing                        350 700,00        650 700,00              500 700            500 700              500 700           500 700            500 700
+                  Bežné výdavky programu                          350 700,00        650 700,00             500 700            500 700              500 700            500 700           500 700
+                  Kapitálové výdavky programu                           0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0                 0
+ Program 3        Interné služby                                 63 017,72         99 428,32               57 654              61 570              59 365             55 265             55 265
+                  Bežné výdavky programu                           63 017,72         99 428,32              57 654              61 570              59 365             55 265             55 265
+                  Kapitálové výdavky programu                           0,00              0,00                   0                   0                   0                  0                  0
+                  Finančné operácie programu                            0,00              0,00                   0                   0                   0                  0                  0
+ Program 4        Služby občanom                                100 302,51        111 130,39              114 131            130 781              150 672           157 458            162 152
+                  Bežné výdavky programu                          100 302,51        111 130,39             114 131            130 781              150 672            157 458           162 152
+                  Kapitálové výdavky programu                           0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0                 0
+ Program 5        Bezpečnosť                                    296 586,33        285 475,52              250 838            255 754              277 641           216 270            200 770
+                  Bežné výdavky programu                          278 699,91        282 789,00             245 301            250 217              271 878            213 301           200 770
+                  Kapitálové výdavky programu                      17 886,42              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00          2 686,52               5 537              5 537                5 763              2 969                 0
+ Program 6        Odpadové hospodárstvo                         209 067,45        221 180,95              222 401            222 401              294 794           294 794            294 794
+                  Bežné výdavky programu                          209 067,45        221 180,95             222 401            222 401              294 794            294 794           294 794
+                  Kapitálové výdavky programu                           0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0                 0
+ Program 7        Komunikácie                                    23 297,16        245 062,10              158 056            287 056              169 603           175 603            175 603
+                  Bežné výdavky programu                           23 297,16        245 062,10             158 056            287 056              169 603            175 603           175 603
+                  Kapitálové výdavky programu                           0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0                 0
+ Program 8        Vzdelávanie                                 1 862 003,70      1 988 561,21            2 047 272          2 251 106            2 069 982         2 099 642          2 095 451
+                  Bežné výdavky programu MŠ                       357 268,73        417 263,11             518 915            514 523              491 294            512 204           512 204
+                  Bežné výdavky programu ZŠ                       784 016,40        821 817,50             803 160            926 353              803 160            803 160           803 160
+                  Bežné výdavky programu ZUŠ                      327 614,91        346 908,07             379 605            381 085              404 776            426 460           422 269
+                  Bežné výdavky programu ŠJ MŠ                     62 616,40         74 703,85              72 761             77 491               75 954             78 020            78 020
+                  Bežné výdavky programu ŠJ ZŠ                    234 839,26        238 420,34             175 639            254 782              185 122            185 122           185 122
+                  Bežné výdavky programu ŠKD                       85 029,00         86 338,80              96 072             95 592               93 396             93 396            93 396
+                  Bežné výdavky programu CVČ                        1 120,00            800,00               1 120              1 280                1 280              1 280             1 280
+                  Kapitálové výdavky programu MŠ                        0,00              0,00                   0                  0                    0                  0                 0
+                  Kapitálové výdavky programu ZŠ                        0,00              0,00                   0                  0                    0                  0                 0
+                  Kapitálové výdavky programu ZUŠ                   9 499,00              0,00                   0                  0               15 000                  0                 0
+                  Kapitálové výdavky programu ŠJ MŠ                     0,00          2 309,54                   0                  0                    0                  0                 0
+                  Kapitálové výdavky programu ŠJ ZŠ                     0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0                 0
+ Program 9        Šport                                         129 066,22        139 367,26              127 761            128 612              148 918           145 362            146 018
+                  Bežné výdavky programu                          129 066,22        139 367,26             127 761            128 612              148 918            145 362           146 018
+                  Kapitálové výdavky programu                           0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0                 0
+ Program 10       Kultúra                                       106 330,28         92 900,64               63 246              89 396              68 939             70 121             71 879
+                  Bežné výdavky programu                          106 330,28         92 900,64              63 246              89 396              68 939             70 121             71 879
+                  Kapitálové výdavky programu                           0,00              0,00                   0                   0                   0                  0                  0
+                  Finančné operácie programu                            0,00              0,00                   0                   0                   0                  0                  0
+ Program 11       Prostredie pre život                          109 992,69         97 865,43               84 900            117 061              116 435           102 365            102 689
+                  Bežné výdavky programu                          109 992,69         97 865,43              84 900            117 061              116 435            102 365           102 689
+                  Kapitálové výdavky programu                           0,00              0,00                   0                  0                    0                  0                 0
+                  Finančné operácie programu                            0,00              0,00                   0                  0                    0                  0  

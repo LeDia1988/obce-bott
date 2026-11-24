@@ -1,0 +1,214 @@
+URL: https://cuet.slovensko.sk/en/dokument/d15f8231-cda1-40a2-bc83-548f4481725b
+OBEC: Poprad (Poprad)
+NÁZOV: Výmena výťahov, Záborského 3009/15,17, Poprad
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/d15f8231-cda1-40a2-bc83-548f4481725b
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Výmena výťahov, Záborského 3009/15,17, Poprad
+Search publisher's RSS feeds
+Published on official board:
+Mesto Poprad (OVM)
+Published from:
+24.11.2026
+Registry symbol:
+TF
+Documents author:
+Mesto Poprad (OVM)
+Published to:
+09.12.2026
+Registry case:
+89594/9267/2026
+Name of official document:
+Výmena výťahov, Záborského 3009/15,17, Poprad
+Document type:
+Iný elektronický dokument
+Document abstract:
+Overovacia doložka projektu stavby na ohlásenie
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+eF000009906.pdf
+Type and size:
+.pdf, 74.14 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/0e793fde-bdf0-4cc7-a898-e96a3c9e1e63
+                                                                                                               Mesto Poprad
+                                                                                               Oddelenie stavebného poriadku
+                                                                                                Nábrežie Jána Pavla II. 2802/3
+____________________________________________________________________________________
+                                                                            05842 Poprad
+
+
+
+
+  Váš list číslo/zo dňa                         Naše číslo                         Vybavuje/linka                Poprad
+                                          89594/9267/2026                      Ing. Malatínová/7167269         24. 11. 2026
+
+
+
+
+Vec
+OVEROVACIA DOLOŽKA PROJEKTU STAVBY NA OHLÁSENIE - verejná vyhláška
+
+
+Mesto Poprad ako príslušný stavebný úrad podľa § 15 ods. 5 zákona č. 25/2025 Z. z. Stavebný zákon a o zmene a
+doplnení niektorých zákonov (Stavebný zákon) v znení neskorších predpisov (ďalej len „Stavebný zákon“) posúdil
+Vami predložené ohlásenie stavby zo dňa 13.11.2026 a podľa § 63 ods. 7 Stavebného zákona v spojení s § 13 vyhlášky
+č. 60/2025 Z. z. o štruktúre a prevádzke informačného systému územného plánovania a výstavby, o obsahu podaní
+a obsahu a rozsahu dokumentácie stavby (ďalej len „vyhláška č. 60/2025 Z. z.“) v rozsahu uvedenom v ohlásení
+
+overuje projekt stavby na ohlásenie
+
+názov stavby: „Výmena výťahov a výťahových šácht“
+miesto stavby: Bytový dom Ľúbosť, Záborského 3009/15,17, 058 01 Poprad
+stavebné pozemky: parcelné č. 3222/177 v k. ú. Poprad, list vlastníctva č. 3940
+stavebník: vlastníci bytov a nebytových priestorov domu Ľúbosť, Záborského 3009/15,17, 058 01 Poprad v zastúpení
+splnomocnencom E - Byt správa domov s. r. o., Hraničná 5, 058 01 Poprad, IČO: 36 502 081
+účel stavby: 1120 viacbytová budova
+typ stavby: stavebná úprava existujúcej stavby
+projektant: Ing. Martin Mrava, Kvetná 54/39, 059 14 Spišský Štiavnik, reg. č. 5420*I1
+uskutočnenie stavby: dodávateľsky
+zhotoviteľ: Schindler výťahy a eskalátory a.s., Karadžičova 8, 821 08 Bratislava, IČO: 31402828
+
+Opis stavby alebo stavebných prác:
+
+Predmetom je v existujúcom BD realizovať komplexnú výmenu jestvujúcich osobných výťahov za nové v
+schodiskovom priestore 2 vchodov BD. Nové výťahy budú osadené na pôvodnom mieste v schodiskovom priestore
+jednotlivých vchodov BD - v jestvujúcom zrkadle schodiska, v novej výťahovej šachte, ktorá bude pôdorysne
+zväčšená v zmysle potrieb novej technológie výťahov. Predmetom riešenia vypracovanej PD sú potrebné asanačné,
+búracie a demontážne práce jestvujúcej technológie a výťahovej šachty, stavebné úpravy priehlbne, stavebné úpravy
+hlavy šachty v strojovni, vytvorenie novej nástupnej/výstupnej stanice výťahu, výstavba novej výťahovej šachty a
+osadenie a montáž novej technológie výťahu. Navrhovaný výťah SCHINDLER 3000+ je určený k zvislej doprave
+osôb a nákladu do celkovej maximálnej nosnosti 600kg s maximálnym počtom dopravovaných osôb 8. Výťah bude
+nepriechodný a bude premávať medzi 1.NP až 9.NP BD s využitím jednej novovytvorenej stanice situovanej na 9.NP
+BD. Počet nástupných / výstupných staníc v BD sa zvýši o jednu na 9 so situovaním na každom jednom podlaží BD.
+Druh výťahu: Elektrický trakčný osobný výťah so samoobsluhou.
+Nosnosť / Počet osôb: 600 kg / 8 osôb.
+Rýchlosť: 1,0 m/s.
+Počet staníc: 9 staníc / 9 nástupíšť (1. NP až 9. NP).
+Stavebno-technické a konštrukčné riešenie pozostáva z demontáže jestvujúcich výťahov a oceľových šácht s
+pletivom v schodiskovom priestore oboch vchodov BD. Následne sa stavebne upraví ich priehlbeň (zväčšenie
+pôdorysu, nová hydroizolácia) a podlaha so stenou strojovne (vytvorenie novej stanice výťahu na poslednom podlaží
+
+
+____________________________________________________________________________________
+           Telefón                     E-mail                     Internet                            IČO
+        052/7167111           mestskyurad@msupoprad.sk         www.poprad.sk                        00326470
+BD). Nové výťahové šachty budú montované z oceľových profilov, kotvené do konštrukcie schodísk a opláštené
+pomocou sádrovláknitých dosiek.
+
+Upozorňujeme Vás, že pri realizácii stavebných úprav je potrebné rešpektovať:
+
+1. Pri uskutočňovaní stavby je nutné dodržiavať predpisy týkajúce sa bezpečnosti práce a technických zariadení,
+dbať o ochranu zdravia osôb na stavenisku a dodržiavať všeobecné technické požiadavky na uskutočňovanie stavieb
+a technické normy.
+2. Pri uskutočňovaní stavby musia byť dodržané príslušné ustanovenia stavebného zákona.
+3. Stavebník na viditeľnom mieste označí stavbu štítkom, na ktorom bude uvedené meno stavebníka, zhotoviteľ
+stavby, orgán, ktorý stavbu povolil, číslo a dátum povolenia.
+4. Na stavbu možno v súlade s ustanovením § 32 ods. 2 písm. g) Stavebného zákona použiť iba také stavebné výrobky,
+ktoré sú podľa základných požiadaviek na stavby vhodné na zamýšľané použitie, a spôsobom určeným výrobcom.
+5. V prípade zásahu do verejného priestranstva požiadať Mesto Poprad o povolenie na osobitné užívanie verejného
+priestranstva.
+6. V zmysle § 77 ods. 2 zákona o odpadoch pôvodcom odpadov vznikajúcich pri stavebných prácach je investor
+stavby. Pôvodca odpadov zodpovedá za nakladanie s odpadmi podľa zákona o odpadoch a plní povinnosti podľa §
+14 tohto zákona. So stavebnými odpadmi a odpadmi z demolácií nakladať v súlade s ustanoveniami § 77 zákona o
+odpadoch a ustanoveniami § 1 vyhlášky MŽP SR č. 344/2022 Z. z. o stavebných odpadoch a odpadoch z demolácií,
+stavebné odpady a odpady z demolácií prednostne materiálovo zhodnotiť. V súlade s ustanoveniami § 14 zákona
+o odpadoch predložiť pri kolaudácii uvedenej stavby evidenciu o druhoch a množstvách stavebných odpadov, ich
+zhodnotení a zneškodnení.
+7. Po dokončení stavebných prác, pred uvedením nového výťahu do trvalého užívania/prevádzky, je stavebník
+povinný zabezpečiť vykonanie záverečnej/overovacej prehliadky, požadovaných odborných revízií a inšpekcií a
+kontrolu a revíziu požiarneho zabezpečenia stavby.
+8. Vzhľadom na to, že predmetnou stavebnou úpravou výťahovej šachty, zriadením novej stanice a zmenou
+umiestnenia strojovne dochádza k zmene technických parametrov prevádzky stavby, ktorou sa mení pôvodný vplyv
+stavby na protipožiarnu bezpečnosť a bezpečnosť jej užívania, je stavebník povinný po dokončení stavebných úprav
+a montáže výťahu (pred jeho uvedením do trvalej prevádzky) požiadať stavebný úrad o prerokovanie zmeny v
+užívaní stavby v zmysle § 68 ods. 1 a ods. 3 zákona.
+
+Zoznam súhlasných záväzných stanovísk a súhlasných záväzných vyjadrení uplatnených pri ohlásení:
+Okresný úrad Poprad – odbor starostlivosti o životné prostredie, orgán štátnej správy odpadového hospodárstva;
+Okresné riaditeľstvo Hasičského a záchranného zboru v Poprade a Technická inšpekcia Bratislava.
+
+Stavbu „Výmena výťahov a výťahových šácht“ na pozemku parcelné č. 3222/177 k. ú. Poprad odsúhlasili vlastníci
+bytov a nebytových priestorov BD Ľúbosť nadpolovičnou väčšinou formou zápisnice zo zhromaždenia a hlasovania
+vlastníkov bytov, ktoré sa konalo dňa 23.10.2026 v zmysle § 14a zákona č. 182/1993 Z. z. v znení neskorších
+predpisov.
+
+Lehota na začatie uskutočňovania ohlásenej stavby:
+Ohlásené stavebné práce možno podľa § 63 ods. 10 Stavebného zákona začať uskutočňovať do troch rokov odo dňa
+overenia projektu ohlásenej stavby.
+
+Správny poplatok podľa zákona č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov vo výške
+150,- € bol zaplatený dňa 09.11.2026 v hotovosti v pokladni Mesta Poprad.
+
+Overenie projektu stavby na ohlásenie podľa § 63 ods. 9 nenahrádza rozhodnutia, stanoviská, vyjadrenia, súhlasy
+alebo iné opatrenia dotknutých orgánov a dotknutých právnických osôb požadované podľa osobitných predpisov.
+
+Stavebný úrad oznamuje vlastníkom bytov a nebytových priestorov BD Ľúbosť, že bola vydaná overovacia doložka
+projektu stavby na ohlásenie. Toto oznámenie sa dotknutým vlastníkom doručuje verejnou vyhláškou podľa § 26
+zákona č. 71/1967 Zb. o správnom konaní (Správny poriadok) v znení neskorších predpisov. Oznámenie sa vyvesí
+po dobu 15 dní na úradnej tabuli správneho orgánu – Mesta Poprad. Posledný deň tejto lehoty je dňom doručenia.
+Overovacia doložka projektu stavby na ohlásenie sa súčasne zverejní aj na elektronickej úradnej tabuli Mesta Poprad.
+
+                                                                                                               2/3
+Vyvesené dňa: ................................
+
+Zvesené dňa: ..................................
+
+
+odtlačok pečiatky
+a podpis oprávnenej osoby
+
+
+
+                                                                         Ing. Alexandra Šifrová
+                                                                    vedúca odboru rozvoja mesta na
+                                                                   základe poverenia primátora mesta
+
+
+
+Prílohou overovacej doložky projektu stavby na ohlásenie je:
+Projektová dokumentácia
+
+
+Doručuje sa
+vlastníkom bytov a nebytových priestorov BD Ľúbosť verejnou vyhláškou
+
+Na vedomie
+Okresné riaditeľstvo Hasičského a záchranného zboru, Huszova 4430/4, 058 01 Poprad
+Okresný úrad Poprad, odbor starostlivosti o životné prostredie (odpadové hospodárstvo), Nábrežie Jána Pavla II.
+16, 058 44 Poprad
+Technická inšpekcia, a. s., Tomášikova 64, 821 01 Bratislava
+E - Byt správa domov s. r. o., Hraničná 5, 058 01 Poprad, IČO: 36 502 081 - splnomocnený zástupca vlastníkov
+bytov a nebytových priestorov domu Ľúbosť, Záborského 3009/15,17, 058 01 Poprad
+
+
+
+
+                                                                                                          3/3
+

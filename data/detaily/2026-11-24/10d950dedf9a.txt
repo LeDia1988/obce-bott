@@ -1,0 +1,394 @@
+URL: https://cuet.slovensko.sk/en/dokument/4c08baf3-8415-454f-bac4-1c997f7afb80
+OBEC: Rohožník (Humenné)
+NÁZOV: OSBD - zastrešenie - BD - 398
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/4c08baf3-8415-454f-bac4-1c997f7afb80
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document OSBD - zastrešenie - BD - 398
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Rohožník
+Published from:
+24.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Rohožník
+Published to:
+03.12.2026
+Registry case:
+Name of official document:
+OSBD - zastrešenie - BD - 398
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+osbd-zastressnie-bd-398-sz-r4ul9s.pdf
+Type and size:
+.pdf, 446.03 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/0bc7ed46-ce79-467b-8ad1-377a6e97df8a
+                                OBEC ROHOŽNÍK
+                                      Školské námestie 406/1
+                                          906 38 Rohožník
+č.j. SOÚ-R-26/190/136/MA                                                     V Rohožníku 20.11.2026
+
+
+                                       ROZHODNUTIE
+      Obec Rohožník ako príslušný stavebný úrad (ďalej len „stavebný úrad“) podľa § 15 zákona č.
+25/2025 Z. z. Stavebný zákon a o zmene a doplnení niektorých zákonov (Stavebný zákon) v znení
+neskorších predpisov (ďalej len „Stavebný zákon“), podľa § 46 a § 47 zákona č. 71/1967 Zb. o správnom
+konaní (správny poriadok) v znení neskorších predpisov (ďalej len „správny poriadok“), rozhodujúc
+podľa § 60 Stavebného zákona v spojení s § 14 vyhlášky č. 60/2025 Z. z. o štruktúre a prevádzke
+informačného systému územného plánovania a výstavby, o obsahu podaní a obsahu a rozsahu
+dokumentácie stavby (ďalej len „vyhláška č. 60/2025 Z. z.“) vydáva
+
+                                  rozhodnutie o stavebnom zámere
+
+názov stavby:          ,, Zastrešenie bytového domu v Rohožníku, Školské námestie 398/4-7“
+ID stavby:             251131
+kód stavby:            1120
+miesto stavby:         obec Rohožník, Školské námestie
+stavebné pozemky:      reg. ,,C-KN“ 3045/135 v k. ú. Rohožník (stavba bytového domu súp. č. 398/4-7)
+stavebník:             Vlastníci bytov a nebytových priestorov bytového domu Školské námestie
+                       398/4-7 , Rohožník (vlastníci uvedený na výpise z LV č. 1427); (ďalej len
+                       „stavebník“)
+typ stavby:             stavebná úprava jestvujúcej stavby podľa § 2 ods. 9 písm. a) stavebného zákona
+projektant:            Ing. Michal Grec PhD. Strechy 92 s.r.o., I. Olbrachta 900/6, Trenčín
+                       (autorizovaný stavebný inžinier, č. autorizácie 5159*SP*13).
+dokumentácie:          ,,SZP- stavebný zámer vyhotovená 15/2025, ktorú vypracovala Ing. Michal Grec
+                       PhD. Strechy 92 s.r.o., I. Olbrachta 900/6, Trenčín
+
+Zoznam účastníkov konania:
+▪ Vlastníci bytov a nebytových priestorov bytového domu Školské námestie 398/4-7 , Rohožník
+  (vlastníci uvedený na výpise z LV č. 1427)
+▪ Okresné stavebné bytové družstvo Senica, Štefánikova 718, Senica
+▪ Osoby, ktoré majú vlastnícke alebo iné práva k susedným pozemkom a stavbám, ak ich vlastnícke
+  alebo iné práva k týmto pozemkom a stavbám môžu byť priamo dotknuté: Obec Rohožník (ako
+  vlastník susedného pozemku) )
+▪ Ing. Michal Grec PhD. Strechy 92 s.r.o., I. Olbrachta 900/6
+
+Podrobné údaje o stavbe:
+Jestvujúci bytový dom súp. č. 398/4-7 je samostatne stojaci, panelovej konštrukcie o pôdorysnom rozmere
+72,94x 12,79m je zastrešený plochou strechou s krytinou z PVC fólie s atikou na úrovni +11,880m.
+Predmetom bude stavebná úprava strešného plášťa. Navrhuje sa zastrešenie valbovou strechou so
+sklonom 13° a hrebeňom strechy na úrovni + 13,890m. Týmito stavebným i úpravami vznikne neobytný-
+technický, povalový priestor.
+Nosnú konštrukciu budú tvoriť drevené priehradové väzníky umiestnené v osovej vzdialenosti 3,600m
+systému Gang- Nail s obojstrannými oceľovými styčníkovými plechmi s prelisovanými hrotmi. Budú
+ukotvené na atikách a podopreté na drevených stĺpikoch, kotvených do stropnej konštrukcie v mieste nad
+
+
+
+
+Strana 1 / 6
+priečnymi nosnými stenami. Strecha bude bezpresahová a ako nová strešná krytina sa použije
+lakoplastovaný trapézový plech na drevených strešných väzniciach.
+Skladba nového strešného plášťa:
+lakoplastovaný trapézový plech
+väznice
+priehradový väzník.
+Odkvapové plechové žľaby Ø150mm budú zvedené pomocou ležatých zvodov z PVC rúr do jestvujúcich
+strešných vpustov.
+
+Údaje zo zisťovacieho konania: Pre navrhovanú činnosť nebolo vedené zisťovacie konanie podľa
+zákona č. 24/2006 Z. z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov.
+
+Zoznam záväzných stanovísk a záväzných vyjadrení uplatnených v konaní:
+Zoznam - Záväzné stanoviská dotknutých orgánov:
+1. OÚ Malacky, OSOŽP (OPaK), záväzné stanovisko: č. OU-MA-OSZP-2026/028397-002 zo dňa
+    24.03.2026;
+2. OÚ Malacky, OSOŽP (OH), vyjadrenie: č. OU-MA-OSZP-2026/028627-002 zo dňa 27.03.2026;
+3. ORHAZZ v Malackách, záväzné stanovisko č. ORHZ-MAI-2026/000724-002 zo dňa 23.07.2026;
+
+Podmienky pre uskutočnenie stavby:
+1. Stavenisko sa vymedzuje na stavebnom pozemku reg. ,,C“-KN par. č. 3045/135 v k. ú. Rohožník
+    (stavba bytového domu súp. č. 398/4-7). Stavenisko má byť vytvorené v súlade s ustanoveniami § 6
+    stavebného zákona, § 13 vyhlášky č. 532/2002 Z.z., ktorou sa ustanovujú podrobnosti o všeobecných
+    technických požiadavkách na výstavbu a o všeobecných technických požiadavkách na stavby užívané
+    osobami s obmedzenou schopnosťou pohybu a orientácie a nariadením vlády č. 396/2006 Z.z. o
+    minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko a iných súvisiacich právnych
+    predpisov.
+a) stavenisko je potrebné podľa § 6 ods. 3 stavebného zákona:
+- zabezpečiť pred vstupom cudzích osôb na miesta, kde môže dôjsť k ohrozeniu života alebo zdravia ľudí,
+a to prípadne aj úplným ohradením alebo oplotením,
+- označiť ako stavenisko s uvedením základných údajov o stavbe a účastníkoch výstavby,
+- musí umožňovať bezpečný pohyb osôb vykonávajúcich stavebné práce,
+- musí mať zabezpečený odvoz alebo likvidáciu odpadu,
+- musí mať vybavenie potrebné na uskutočňovanie stavebných prác, na prevádzku stavebných
+mechanizmov a na pobyt osôb uskutočňujúcich stavebné práce,
+- musí byť zriadené a prevádzkované tak, aby bola zabezpečená bezpečnosť ľudí na stavenisku, ako aj
+ochrana životného prostredia podľa osobitných predpisov,
+2. Stavba bude uskutočnená podľa: projektu ,,SZP- stavebný zámer vyhotovená 15/2025, ktorú
+    vypracovala Ing. Michal Grec PhD. Strechy 92 s.r.o., I. Olbrachta 900/6, Trenčín autorizovaným
+    stavebným inžinierom (č. autorizácie 5159*SP*13).
+3. Projektant stavby v zmysle § 35 ods. 5 stavebného zákona zodpovedá za komplexnosť, úplnosť
+    a vecnú správnosť projektovej dokumentácie a za jej použiteľnosť.
+4. Prípadné zmeny stavby, alebo zmeny v spôsobe užívania stavby, nie je možné uskutočniť bez
+    predchádzajúceho rozhodnutia stavebného úradu.
+5. Stavebník zabezpečí vytýčenie priestorovej polohy stavby právnickou alebo fyzickou osobou na to
+    oprávnenou podľa § 40 stavebného zákona.
+6. Doklady o vytýčení stavby je potrebné predložiť stavebnému úradu pri kolaudačnom konaní.
+
+
+
+
+Strana 2 / 6
+7. Stavebník je povinný dodržiavať ostatné ustanovenia § 30 stavebného zákona, najmä oznámiť
+    stavebnému úradu začatie uskutočňovania povolených stavebných prác v súlade s § 30 ods. 3 písm. a)
+    stavebného zákona.
+8. Stavebník je povinný v súlade s § 60 ods. 1 písm. h) stavebného zákona oznámiť stavebnému úradu
+    do 15 dní od uzatvorenia zmluvy obchodné meno zhotoviteľa stavby a meno a priezvisko
+    stavbyvedúceho, ak zhotoviteľ stavby bude určený až po overení projektu stavby. O priebehu
+    realizácie stavby je stavbyvedúci povinný viesť stavebný denník podľa § 39 stavebného zákona a v
+    rozsahu § 28 ods. 1 a 2 vyhlášky č. 453/2000 Z. z., ktorou sa vykonávajú niektoré ustanovenia
+    stavebného zákona. Na stavbe musí byť k dispozícií dokumentácia a všetky doklady týkajúce sa
+    uskutočňovanej stavby.
+9. Určuje sa vykonanie kontrolnej prehliadky stavby v štádiu zhotovenia: neurčuje sa
+10. Prípadné zmeny v spôsobe užívania stavby, nie je možné uskutočniť bez predchádzajúceho
+    rozhodnutia stavebného úradu.
+11. Stavebník/ zhotoviteľ je povinný viesť stavebný denník v súlade s §30 ods. 6 písm. g) alebo §32 ods.
+    3 stavebného zákona.
+12. Stavebník je povinný zabezpečiť vytýčenie všetkých existujúcich podzemných vedení u ich správcov
+    pred začatím stavebných prác.
+13. Pri uskutočňovaní stavby je nutné dodržiavať predpisy týkajúce sa bezpečnosti práce a technických
+    zariadení a dbať na ochranu zdravia osôb na stavenisku.
+14. Pri výstavbe musia byť dodržané všeobecne technické požiadavky na výstavbu a príslušné technické
+    normy a použité len vhodné stavebné výrobky v súlade s ust. zák. č. 90/1998 Z.z. o stavebných
+    výrobkoch v znení neskorších predpisov.
+15. Stavebník je povinný dbať na to, aby pri uskutočňovaní stavebných prác nedošlo ku spôsobeniu škody
+    na cudzích nehnuteľnostiach a majetku.
+16. Stavebník musí dbať na to, aby vplyvom stavebných prác neboli znečisťované verejné komunikácie.
+    V prípade znečistenia verejnej komunikácie je zhotoviteľ povinný zabezpečiť jej okamžité očistenie.
+17. Stavebník je povinný pri realizácii predmetnej stavby dbať na to, aby svojou stavebnou činnosťou
+    nezasahoval do práv a právom chránených záujmov vlastníkov susedných nehnuteľností, hlavne
+    nadmerným hlukom, prachom a zbytočnou prevádzkou stavebných mechanizmov.
+18. Stavebný materiál môže byť uskladnený len na pozemku vo vlastníctve stavebníka. Ak by nastala
+    skutočnosť vylučujúca uskladňovanie materiálu tak, ako je to vyššie uvedené, tunajší úrad zaväzuje
+    stavebníka pred uskladnením materiálu vyžiadať si súhlas vlastníkov pozemku.
+19. Dažďové vody nesmú byť vyvedené na priľahlú komunikáciu.
+20. Lehota výstavby podľa §60 ods.1 písm. i) sa stanovuje najneskôr do 48 mesiacov od právoplatnosti
+    rozhodnutia.
+21. Stavebník je povinný oznámiť začatie stavby príslušnému stavebnému úradu.
+22. Stavebník je povinný oznámiť tunajšiemu stavebnému úradu termín ukončenia stavby pred jej
+    uvedením do trvalého užívania a požiadať o vydanie kolaudačného osvedčenia.
+23. Stavebník je pri uskutočňovaní stavby povinný dodržať požiadavky dotknutých orgánov uplatnené v
+    záväzných stanoviskách, ak nie sú určené správnymi rozhodnutiami a požiadavky uplatnené vo
+    vyjadreniach dotknutých právnických osôb:
+OÚ Malacky, OSOŽP (OPaK), záväzné stanovisko: č. OU-MA-OSZP-2026/028397-002 zo dňa
+24.03.2026:;
+Okresný úrad Malacky, odbor starostlivosti o životné prostredie - úsek štátnej správy ochrany prírody a
+krajiny v zmysle§ 9 ods. 1 písm. b) zákona č. 543/2002 Z.z. o ochrane prírody a krajiny v znení neskorších
+predpisov (ďalej len „zákon") dáva nasledovné záväzné stanovisko:
+Okresný úrad stanovuje pre realizáciu navrhovanej činnosti nasledovné podmienky:
+1. Realizáciu výstavby uskutočniť prednostne po skončení hniezdneho obdobia. Začiatok a rozsah prác
+konzultovať so ŠOP SR Správou CHKO Záhorie.
+2. V prípade zistenia výskytu chránených druhov živočíchov kontaktovať emailom alebo telefonicky ŠOP
+SR Správu CHKO Záhorie.
+3. Pri realizácii činnosti rešpektovať všeobecné podmienky ochrany prírody ustanovené v § 4 ods. 1
+
+
+
+
+Strana 3 / 6
+zákona, podľa ktorého „každý je pri vykonávaní činnosti, ktorou môže ohroziť, poškodiť alebo zničiť
+rastliny alebo živočíchy, alebo ich biotopy, povinný postupovať tak, aby nedochádzalo k ich zbytočnému
+úhynu alebo poškodzovaniu a ničeniu".
+ 4. Žiadame stavebníka použiť také technické riešenie, ktoré by zabránilo usmrcovaniu chránených
+živočíchov a zachovanie existujúcich úkrytov v budovách (podkrovia, vetracie otvory a pod.). Ak sa
+existujúce úkryty, hniezdiská nachádzajú na miestach, kde je ich zachovanie problematické napr. špáry
+medzi panelmi alebo strešné priestory žiadame použiť' také technické riešenie, ktoré v dostatočnom
+rozsahu nahradí ich stratu. Jedná sa napr. o inštaláciu špeciálnych búdok pre dažďovníky a netopiere.
+Z hľadiska náročnosti vykonávania dodatočných opatrení je pre stavebníkov výhodnejšie prispôsobiť
+časový harmonogram stavby horeuvedeným podmienkam a použiť' vhodné technické riešenie už pri
+plánovaní stavby, ako zanedbať problematiku ochrany chránených druhov živočíchov a riešiť ju až počas
+realizácie stavby alebo po jej ukončení. Vzhľadom na potrebu ochrany životných podmienok chránených
+druhov vtákov a netopierov je potrebné predchádzať zásahom, ktorými by mohlo dochádzať k ich
+ohrozeniu alebo usmrteniu a k likvidácii ich biotopov.
+Orgán ochrany prírody, ktorý je dotknutým orgánom v konaniach podľa osobitných predpisov vo veciach
+ochrany prírody a krajiny nežiada byt' dotknutým orgánom v procese overovania projektu stavby a
+kolaudácie stavby.
+OÚ Malacky, OSOŽP (OH), vyjadrenie: č. OU-MA-OSZP-2026/028627-002 zo dňa 27.03.2026
+1. Počas výstavby sa predpokladá vznik nasledovných stavebných odpadov, zaradených podľa Katalógu
+odpadov
+(Vyhláška MŽP SR č. 365/2015 Z.z., ktorou sa ustanovuje Katalóg odpadov):
+Druh odpadu Názov odpadu Kat. Predp.množ. (t)
+17 01 01 Betón O 1,23
+17 01 02 Tehly O 0,21
+17 03 02 Bitúmenové zmesi iné ako uvedené v 17 03 01 O 0,10
+17 04 05 Železo a oceľ O 0,18 ·
+17 09 04 Zmiešané odpady zo stavieb a demolíácií iné ako uvedené v 17 09 01, 17 09 02 a 17 09 03
+O 1,17
+2. Pôvodca (Investor) stavebných odpadov je povinný dodržiavať ustanovenia§ 14 a§ 77 zákona o
+odpadoch:
+- zabezpečiť spracovanie odpadu v zmysle hierarchie odpadového .hospodárstva (predchádzanie vzniku
+odpadu, príprava na opätovné použitie, recyklácia, zhodnotenie, zneškodnenie),
+- odovzdať odpady len osobe oprávnenej na nakladanie s odpadmi podľa zákona o odpadoch, ak
+nezabezpečuje ich zhodnotenie alebo zneškodnenie sám.
+3. Pôvodcovi stavebných odpadov a odpadov z demolácií sa povoľuje zhromažďovať odpad v mieste jeho
+vzniku (t.j. v mieste stavby) iba nevyhnutný čas (napr. do naplnenia veľkoobjemového kontajnera),
+následne je povinný odovzdať odpad oprávnenému odberateľovi.
+4. Pôvodca nebezpečného odpadu je povinný odovzdať odpad len· osobe/organizácii oprávnenej na
+nakladanie s takýmto druhom odpadu.
+5. Odpad, kat. č. 17 05 04 - zemina a kamenivo iné ako uvedené v 17 05 03 a kat. č. 17 05 06 -výkopová
+zemina iná ako uvedená v 17 05 05, použitý na skladovanie a na terénne úpravy mimo miesta vzniku (t.
+j. mimo miesta stavby) bez súhlasu Okresného úradu v sídle kraja je v rozpore so zákonom o odpadoch.
+6. Pôvodca stavebných odpadov je následne v kolaudačnom konaní povinný Okresnému úradu v
+Malackách, odboru starostlivosti o životné prostredie, úseku štátnej správy odpadového hospodárstva
+dokladovať spôsob nakladania so vzniknutým stavebným odpadom (originál potvrdenia o odovzdaní
+odpadu z predmetnej stavby do zariadenia na zhodnocovanie alebo zneškodňovanie stavebného odpadu)
+a doložiť kópiu vydaného stavebného povolenia.
+7) Okresný úrad Malacky, odbor starostlivosti o životné prostredie súhlasí s návrhom stavebného zámeru
+na stavbu za dodržania podmienok uvedených v tomto vyjadrení. V znení§ 99 ods. (2) zákona o odpadoch
+sa toto vyjadrenie považuje za záväzné stanovisko. Jeho obsah je pre správny orgán záväzný. Bez jeho
+zosúladenia s inými záväznými stanoviskami, správny orgán nemôže vo veci rozhodnúť.
+8) Toto vyjadrenie platí do doby, kým sa nezmenia skutočnosti, za ktorých bolo vydané.
+9) Toto vyjadrenie zároveň nahrádza stanovisko pre posúdenie nasledujúcich stupňov dokumentácie
+podľa Stavebného zákona.
+10) K predmetnej stavbe nebolo vydané predchádzajúce záväzné stanovisko.
+ORHAZZ v Malackách, záväzné stanovisko č. ORHZ-MAI-2026/000724-002 zo dňa 23.07.2026:
+záväzné stanovisko súhlasné s predloženým riešením požiarnej bezpečnosti stavby.
+
+
+
+
+Strana 4 / 6
+Námietky účastníkov konania: V zákonom stanovenej lehote neboli uplatnené námietky účastníkov
+konania.
+Lehota platnosti rozhodnutia o stavebnom zámere:
+Podľa § 61 ods. 1 Stavebného zákona rozhodnutie o stavebnom zámere platí dva roky odo dňa, keď
+nadobudlo právoplatnosť, nestráca však platnosť, ak bola v týchto lehotách podaná žiadosť o overenie
+projektu stavby. Rozhodnutie o stavebnom zámere stráca platnosť dňom straty platnosti overovacej
+doložky. Podľa § 61 ods. 4 stavebného zákona rozhodnutie o stavebnom zámere je záväzné aj pre
+právnych nástupcov účastníkov konania. Podľa § 62 ods. 3 stavebného zákona možno lehotu platnosti
+rozhodnutia o stavebnom zámere predĺžiť na žiadosť stavebníka podanú pred jej uplynutím najviac o dva
+roky.
+Správny poplatok:
+Správny poplatok podľa zákona č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov
+vo výške 2000,- € bol zaplatený dňa 21.09.2026.
+                                           ODÔVODNENIE
+Dňa 21.09.2026 podal: Okresné stavebné bytové družstvo Senica, Štefánikova 718, Senica v zastúpení
+stavebníka žiadosť podľa § 50 ods. 1) stavebného zákona, o vydanie rozhodnutia o stavebnom zámere na
+stavbu: ,, Zastrešenie bytového domu v Rohožníku, Školské námestie 398/4-7“ ktorá sa bude realizovať
+na pozemku reg. ,,C-KN“ par. č. reg. ,,C-KN“ 3045/135 v k. ú. Rohožník (stavba bytového domu súp. č.
+398/4-7) pre stavebníka: Vlastníci bytov a nebytových priestorov bytového domu Školské námestie
+398/4-7, Rohožník (vlastníci uvedený na výpise z LV č. 1427) podľa projektovej dokumentácie, ktorú
+vypracoval 12/2025 autorizovaný stavebný inžinier Ing. Michal Grec PhD. Strechy 92 s.r.o., I. Olbrachta
+900/6, Trenčín ( č. autorizácie 5159*SP*13). Dňom podania žiadosti bolo začaté konanie o stavebnom
+zámere. V zmysle §51. 1 stavebného zákona správny orgán začne konanie o stavebnom zámere, keď je
+žiadosť úplná.
+Stavebný pozemok reg.,,C-KN“ par. č. 3045/135 a stavba bytového domu súp. č. 398/4-7 je podľa výpisu
+z LV č. 1427 vo vlastníctve fyzických osôb, ktoré žiadajú o vydanie rozhodnutia o stavebnom zámere.
+Stavebník na konanie predložil: žiadosť, výpis z LV, snímku z KM, ,,zápisnicu zo schôdze vlastníkov
+bytov a nebytových priestorov“, správu o prerokovaní stavebného zámeru a dokumentáciu pre stavebný
+zámer. Stavebník predložil:
+Záväzné stanoviská dotknutých orgánov:
+Zoznam - Záväzné stanoviská dotknutých orgánov:
+1. OÚ Malacky, OSOŽP (OPaK), záväzné stanovisko: č. OU-MA-OSZP-2026/028397-002 zo dňa
+     24.03.2026;
+2. OÚ Malacky, OSOŽP (OH), vyjadrenie: č. OU-MA-OSZP-2026/028627-002 zo dňa 27.03.2026;
+3. ORHAZZ v Malackách, záväzné stanovisko č. ORHZ-MAI-2026/000724-002 zo dňa 23.07.2026.
+Stavebný úrad dňa 13.10.2026 listom č. SOÚ-R-26/190/136/MA oznámil v súlade s ustanovením § 51
+ods.1, 2 a 3 stavebného zákona začatie konania o stavebnom zámere všetkým účastníkom konania,
+dotknutým orgánom a dotknutým právnickým osobám. Podľa §51 ods.3 ,,Ak počet účastníkov konania je
+väčší ako 20, alebo ak konaniu predchádzal proces posudzovania vplyvov na životné prostredie alebo ak
+účastník konania alebo pobyt účastníkov konania nie je správnemu orgánu známy, sa oznámenie o začatí
+konania oznamuje verejnou vyhláškou; týmto nie je dotknuté doručenie úradného dokumentu do
+elektronickej schránky dotknutých orgánov a dotknutých právnických osôb.“ Keďže účastníkov konania
+je viac ako 20, stavebný úrad oznámil začatie konania verejnou vyhláškou a stavebnému úradu boli dobre
+známe pomery staveniska a žiadosť poskytovala dostatočný podklad pre posúdenie navrhovanej stavby,
+stavebný úrad podľa § 53 ods. 2 stavebného zákona upustil od ústneho pojednávania a miestneho
+zisťovania.
+Stavebný úrad v uskutočnenom správnom konaní preskúmal predloženú žiadosť z hľadísk uvedených
+v § 57 stavebného zákona, prerokoval ju s účastníkmi konania a s dotknutými orgánmi a dotknutými
+právnickými osobami a zistil, že jej realizáciou alebo užívaním nie sú ohrozené záujmy chránené
+stavebným zákonom, predpismi vydanými na jeho uskutočnenie a osobitnými predpismi. Stavebný úrad
+zaistil vzájomný súlad predložených stanovísk dotknutých orgánov a dotknutých právnických osôb
+
+
+
+
+Strana 5 / 6
+požadovaných osobitnými predpismi, zabezpečil plnenie požiadaviek vlastníkov a správcov pre napojenie
+do sietí technického vybavenia a ich stanoviská a požiadavky zahrnul do podmienok tohto rozhodnutia.
+         Rozhodnutie o stavebnom zámere nie je dokladom na samotnú realizáciu stavby. Stavebník
+je povinný pre realizáciu stavby požiadať stavebný úrad o overenie projektu stavby podľa § 65
+stavebného zákona. Na základe vyššie uvedeného stavebný úrad rozhodol tak, ako sa uvádza vo
+výrokovej časti tohto rozhodnutia. Toto rozhodnutie o stavebnom zámere bude doručované do vlastných
+rúk podľa § 24 a nasl. Správneho poriadku v súlade s § 61 ods.2 Stavebného zákona.
+                                             POUČENIE
+Proti tomuto rozhodnutiu má účastník konania právo podať odvolanie v súlade s § 53 a § 54 Správneho
+poriadku v lehote do 15 dní odo dňa oznámenia (doručenia) rozhodnutia. Odvolanie sa podáva na
+Stavebný úrad Obec Rohožník, Obecný úrad Rohožník, Školské nám. 406/1, 906 38 Rohožník, pričom
+odvolacím orgánom je Regionálny úrad pre územné plánovanie a výstavbu Bratislava. Toto rozhodnutie
+je preskúmateľné súdom až po vyčerpaní riadnych opravných prostriedkov.
+
+
+
+                                                                                Mgr. Peter Švaral
+                                                                                   starosta obce
+
+
+Podľa §61 ods.2 ,,rozhodnutie o stavebnom zámere sa oznamuje rovnako ako začatie“. Toto oznámenie má povahu
+verejnej vyhlášky podľa § 51 ods. 3 zákona č. 25/2025 Stavebný zákon a podľa § 26 zákona č. 71/1967 Zb. správny
+poriadok, musí byť vyvesené po dobu 15 dní na úradnej tabuli obce Rohožník a súčasne na svojom webovom sídle.
+Posledný deň tejto lehoty je dňom doručenia.
+
+
+Doručuje sa:
+1. Obec Rohožník -so žiadosťou o vyvesenie tohto oznámenia
+2. Vlastníci bytov a nebytových priestorov bytového domu Školské námestie 398/4-7 , Rohožník (vlastníci uvedený na výpise
+    z LV č. 1427)- doručenie verejnou vyhláškou
+3. Okresné stavebné bytové družstvo Senica, Štefánikova 718, Senica- doručenie verejnou vyhláškou
+Účastník konania:
+4. Osoby, ktoré majú vlastnícke alebo iné práva k susedným pozemkom a stavbám, ak ich vlastnícke alebo iné práva k týmto
+    pozemkom a stavbám môžu byť priamo dotknuté- doručenie verejnou vyhláškou:
+5. Obec Rohožník (ako vlastník susedného pozemku) )- doručenie verejnou vyhláškou
+6. Ing. Michal Grec PhD. Strechy 92 s.r.o., I. Olbrachta 900/6, Trenčín- doručenie verejnou vyhláškou
+Dotknuté orgány:
+7. Okresný úrad Malacky, odbor starostlivosti o životné prostredie - úsek štátnej správy OH Záhorácka č. 2492/60, Malacky
+8. Okresný úrad Malacky, odbor starostlivosti o životné prostredie - úsek OPaK, Záhorácka č. 2492/60, Malacky
+9. Okresné riaditeľstvo Hasičského a záchranného zboru v Malackách, Legionárska 6, Malacky
+Ostatní (nemá povahu doručovania):
+10. Okresné stavebné bytové družstvo Senica, Štefánikova 718, Senica; 11.spis
+
+
+Obec Rohožník úradná tabuľa
+Vyvesené dňa 23.11.2026                                      Zvesené dňa 8.12.2026
+
+
+
+Obec Rohožník web stránka
+Vyvesené dňa 23.11.2026                                      Zvesené dňa 8.12.2026
+
+
+
+
+Strana 6 / 6
+

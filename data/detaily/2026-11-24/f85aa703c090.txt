@@ -1,0 +1,196 @@
+URL: https://www.petkovce.sk/files/2026-11-23-090739-N__vrh_Rozpo__tu_obce_Petkovce_na_roky__2027_-_2029.pdf
+OBEC: Petkovce (Vranov nad Topľou)
+NÁZOV: Návrh rozpočtu obce Petkovce na roky 2027-2029
+ZDROJ: web obce
+
+Obec Petkovce                                                                 ROZPOČET - PRÍJMY
+Schválený:                            Vyvesený: 23.11.2026
+Účinný:                               Zvesený:
+
+Druh      Funč.kl. Ekon.kl.   Zdroj   Str.       Názov                                                                          Skutočné plnenie                Rozpočet roku 2026                   Návrh rozpočtu
+                                                                                                                                                                         Očakávaná
+                                                                                                                         2024                   2025          Schválený                 2027              2028        2029
+Príjmy                                                                                                                                                                   skutočnosť
+1                                                1-bežný rozpočet
+                   111003     41                 Výnos dane z príjmov poukázaný územnej s                                      36187,53            38464,79      38 500        41000       42700             44640       47335
+                   121001     41                 Z pozemkov                                                                       1235,48            1301,1       1 300         1251        1250              1250        1250
+                   121002     41                 Zo stavieb                                                                           419,26         428,08         450           451        450               450         450
+                   133001     41                 Za psa                                                                                   83          79,68         100            63         63                63          63
+                   133013     41                 Za komunálne odpady a drobné stavebné od                                               2200         3437,5       4 050         3975        4770              4770        4770
+                   212003     41                 Z prenajatých budov, priestorov a objekt                                              539,1         389,25         300             0          0                 0           0
+                   221002     41                 Správne poplatky (overovanie, kolaudačné, stavebné)                                      68            427         200           200        200               200         200
+                   221004     41                 Ostatné poplatky (banský úrad)                                                       312,79         338,79         400            65         65                65          65
+                   223001     41                 Za predaj výrobkov, tovarov a služieb (prenájom sály, vyhlásenie v rozhlase, vrecia)     25          149,5         100           240        300               300         300
+                   292012     41                 Z dobropisov                                                                                                         0             8          0                 0           0
+                   312001     111                Zo štátneho rozpočtu okrem transf.                                                      681         377,02           0             0          0                 0           0
+                   312001     111     10         Zo ŠR PUPN                                                                                                           0           100        100                 0           0
+                   312001     111     12         Dotácia voľby Prezidenta 2024                                                    2429,99                             0             0          0                 0           0
+                   312001     111     15         Dotácia - výjazdové rokovanie                                                          2500                          0             0          0                 0           0
+                   312001     111     16         Dotácia Voľby do EU parlamentu                                                   1782,74                             0             0          0                 0           0
+                   312001     111     20         Zo št.rozpočtu okrem transf.na úhradu nákl.prenes. 847,62                                           123,33           0             0          0                 0           0
+                   312001     111     21         Zo ŠR okrem transf.na úhr.nákl.prenes.výk.-voľby                                          0                      3000          2726        2000                 0        5000
+                   312001     111     23         Zo ŠRokrem transf.na úhr.nákl.prenes.výk.-REGOB,RA                                   139,99                         65            64         65                65          65
+                   312001     111     24         Zo ŠRokrem transf.na úhr.nákl.pren.výk.-referendum                                        0                          0         1 176          0                 0           0
+                   312001     111     6          Dotácia UPSVAR PUPUN 2                                                               104,93                          0             0          0                 0           0
+                   312001     111                Dotácia PSK                                                                            2000           2000           0         2000           0                 0           0
+                   312012     111     17         Dotácia ŽP                                                                            16,21                          0             0          0                 0           0
+*1                                               1-bežný rozpočet                                                              51572,64            47516,04      48465         53319       51963             51803       59498
+2                                                2-kapitálový rozpočet
+                   322001     111     26         Zo štátneho rozpočtu-ind.potr.-traktor.kosačka                                                                       0         5 600            0                0            0
+*2                                               2-kapitálový rozpočet                                                                                                0         5 600            0                0            0
+3                                                3-finančné operácie
+                   454001     46                 Použitie F                                                                                         1320,87        2 400        2 400            0                0            0
+                   454001     46      13         Z rezervného fondu obce a rezervného fondu VÚC1859,11                                               977,07            0            0            0                0            0
+                   454001     46      25         Použitie RF - čistenie potoka                                                                                         0       682,65            0                0            0
+*3                                               3-finančné operácie                                                              1859,11             2 298        2 400     3 082,65            0                0            0
+Spolu                                                                                                                53431,75                  49813,98        50 865      62001,65     51 963           51 803       59 498
+Obec Petkovce                                                       ROZPOČET - VÝDAJE
+Schválený:                            Vyvesený: 23.11.2026
+Účinný:                               Zvesený:
+
+Druh      Funč.kl. Ekon.kl.   Zdroj   Str.       Názov                                               Skutočné plnenie                Rozpočet roku 2026               Návrh rozpočtu
+                                                                                                                                              Očakávaná
+                                                                                                2024                2025           Schválený                2027           2028        2029
+Výdaje                                                                                                                                        skutočnosť
+1                                                1-bežný rozpočet
+     01.1.1        611        41                 TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P 9760,24                       18238,03      20 774       18 774     22000           23000      24000
+     01.1.1        611        41      16         TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P               1,11                               0            0         0               0          0
+     01.1.1        614        41                 Poist                                                 1010                                0            0         0               0          0
+     01.1.1        621        41                 POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV           1132,91               1921,5       2 100        1900       2200            2300       2400
+     01.1.1        623        41                 POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV77                                 84,7         110          110       110             110        110
+     01.1.1        625001     41                 Na nemocenské poistenie                             136,19               239,27         300          262       308             320        330
+     01.1.1        625002     41                 Na starobné poistenie                              1553,65              2553,18       2 900        2620       3080            3220       3360
+     01.1.1        625003     41                 Na úrazové poistenie                                 88,39               145,63         170          150       170             185        190
+     01.1.1        625004     41                 Na invalidné poistenie                               330,8               546,94         510          560       660             690        720
+     01.1.1        625005     41                 Na poistenie v nezamestnanosti                       97,18               170,88         200          190       220             230        240
+     01.1.1        625007     41                 Na poistenie do rezervného fondu solidar            526,83               865,93       1000           890      1050            1100       1140
+     01.1.1        631001     41                 Tuzemské                                                452                 393         400          310         0               0          0
+     01.1.1        632001     111                Energie                                             2005,8              2313,29           0            0         0               0          0
+     01.1.1        632001     111     11         Energie                                                 681                               0            0         0               0          0
+     01.1.1        632001     41                 Energie                                                                               2000             0         0               0          0
+     01.1.1        632003     41                 Poštové služby                                      192,05                 76,1         200          120       150             150        150
+     01.1.1        632004     41                 Komunikačná infraštruktúra                           435,4               699,59         800          800       900             900        900
+     01.1.1        632005     41                 Telekomunikačné služby                              356,54               308,33         400          400       400             400        400
+     01.1.1        632006     41                 Elektrina                                                                                 0        2300       2500            2500       2500
+     01.1.1        633001     111                Interiérové vybavenie                                                      1201           0            0         0               0          0
+     01.1.1        633001     46                 Interiérové vybavenie                                                    409,07           0            0         0               0          0
+     01.1.1        633002     111     19         Výpočtová technika - PC                                 420                               0            0         0               0          0
+     01.1.1        633004     111                Prevádzkové stroje,prístroje,zariadenia,technika a                         799            0            0         0               0          0
+     01.1.1        633004     111     19         Prevádzkové stroje - multif. zariadenie                 232               18,55           0            0         0               0          0
+     01.1.1        633004     41                 Prevádzkové stroje                                  565,49                                0            0         0               0          0
+     01.1.1        633006     111                Všeobecný materiál, Regob, Register adri             62,22                64,15       1065            64        65              65         65
+     01.1.1        633006     111     20         Vš. mat.: PUPN 2                                       5,62                9,42           0            0         0               0          0
+     01.1.1        633006     111     6          Všeobecný materiál, UPSVAR, PUPN 2                   52,25                36,08           0            0         0               0          0
+     01.1.1        633006     41                 Všeobecný materiál                                  2086,2               831,99           0        1000       1000            1283       1493
+     01.1.1        633009     41                 Knihy,časopisy,noviny,učebnice,učebné a                57,2                             100            0       100             100        100
+     01.1.1        633010     111     20         Pracovné odevy UPSVAR, optatrenie č. 2                   3,1              75,36           0            0         0               0          0
+     01.1.1        633010     111     6          Pracovné odevy UPSVAR, optatrenie č. 2               37,68                                0            0         0               0          0
+     01.1.1        633010     41                 Pracovné odevy, obuv a pracovné pomôcky                                    2,49           0            0         0               0          0
+     01.1.1        633010     41      6          Pracovné odevy                                       44,62                                0            0         0               0          0
+     01.1.1        633011     41                 Potraviny                                                 43              64,55           0           50        50              50         50
+     01.1.1        633013     111     19         Softvér                                                 180               99,63           0            0         0               0          0
+     01.1.1        633015     41                 Palivá ako zdroj energie                                                                  0           20         0               0          0
+        01.1.1   633016   41         Reprezentačné                                    838,86           1243,51      500      780      550      750    1000
+        01.1.1   634001   41         Palivo                                              29,3                         0        0        0        0        0
+        01.1.1   635002   41         Výpočtovej techniky                              162,09                        200        0      100      100      100
+        01.1.1   635006   111        Budov, objektov - PSK strecha                      2000                          0        0        0        0        0
+        01.1.1   635006   41         Budov, objektov alebo ich častí                 4259,34            262,73      200        0      100      100      100
+        01.1.1   635006   46         MR Úhrada MK Hlas montáž a elek                                     419,8        0        0        0        0        0
+        01.1.1   635009   41         Softvéru                                          253,2                        100       65      100      100      100
+        01.1.1   635011   41         Špeciálneho konfig.                                                 184,5        0        0        0        0        0
+        01.1.1   637001   41         Školenia, kurzy, semináre, porady, konfe                               20      300        0      100      100      100
+        01.1.1   637002   41         Konkurzy a súťaže                                   41,7                         0        0        0        0        0
+        01.1.1   637004   46         Vš. Služby RF                                                         492        0        0        0        0        0
+        01.1.1   637004   111        Všeobecné služby                                   2500                      1000         0        0        0        0
+        01.1.1   637004   41         Všeobecné služby                                2363,62            2956,1      300    1000     1000     1000     1500
+        01.1.1   637004   41    15   Všeobecné služby                                 570,84                          0        0        0        0        0
+        01.1.1   637004   52         MR Zrušenie KZ                                                                   0        0        0        0        0
+        01.1.1   637005   111        Špeciálne služby                                                             1000         0        0        0        0
+        01.1.1   637005   41         Špeciálne služby (audit,GDPR,ITVS)                703,2               492        0      900    1000     1000     1000
+        01.1.1   637012   111        Poplatky a odvody                                                  238,92        0        0        0        0        0
+        01.1.1   637012   41         Poplatky a odvody                                 71,18             126,8      100       34      100      100      100
+        01.1.1   637015   111   19   Poistenie                                             15                         0        0        0        0        0
+        01.1.1   637015   111   20   Poistné                                                                20        0        0        0        0        0
+        01.1.1   637015   111   6    Poistné, UPSVAR, PUPN 2                               10                         0        0        0        0        0
+        01.1.1   637015   41         Poistné                                          354,37            354,37      400      355      400      400      400
+        01.1.1   637016   41         Prídel do sociálneho fondu                        76,65            152,09      150      150      150      150      150
+        01.1.1   637026   41         Odmeny a príspevky                                   300             13,4    1000     1000     1000     1000     1000
+        01.1.1   637027   41         Odmeny zamestnancov mimopracovného pomer          46,66                          0        0        0        0        0
+        01.1.1   641009   41         Obci okrem transferu na úhradu nákladov prenes.výk                               0      666      100      100      100
+        01.1.1   641013   111   17   Prevod - dotácia ŽP                               16,21                          0        0        0        0        0
+        01.1.1   642006   41         Na členské príspevky                              239,3            364,89      500      300      400      400      400
+        01.1.1   642014   41         Jednotlivcovi (stravné)                                                          0      570      600      600      600
+*0111                                Výkonné a zákonodárne záležitosti      37477,99          39508,77           38 779   36 340   40 663   42 503   44 798
+        01.1.2 637012     41         Poplatky a odvody                                214,60             219,6      300      230      300      300      300
+*0112                                Finančné a rozpočtové záležitosti                214,60             219,6      300      230      300      300      300
+        01.6.0   625002   111        Starobné                                            12,2                         0        0        0        0        0
+        01.6.0   625002   111   24   Starobné Referendum                                                              0       20
+        01.6.0   625003   111        úrazové                                             0,68                         0        0       0        0        0
+        01.6.0   625003   111   24   Na úrazové poistenie-Referendum                                                  0        2       0        0        0
+        01.6.0   625007   111        na poistenie do RF                                  4,14                         0        0       0        0        0
+        01.6.0   625007   111   24   Na poist.do RF-Referendum                                                        0        8       0        0        0
+        01.6.0   632005   111        Referendum - Telefón                                  15                         0        0       0        0        0
+        01.6.0   632005   111   24   Referendum - Telekomunik.sl.                                                     0       10       0        0        0
+        01.6.0   633006   111   12   Voľby Prezidenta 2024 - všeobecný materi          112,9                          0        0       0        0        0
+        01.6.0   633006   111   24   Všeobecný materiál - Referendum                                                  0      131       0        0        0
+        01.6.0   633016   111   12   Voľby Prezidenta 2024 - Reprezentačné                175                         0        0       0        0        0
+        01.6.0   633016   111 21     Reprezentačné- Voľby do OSO a VÚC                                     0        54       0       0       0
+        01.6.0   633016   111 24     Reprezentačné- Referendum                                             0        59       0       0       0
+        01.6.0   633016   111 7      Voľby do NRSR 2023 reprezentačné                366,2                 0         0       0       0       0
+        01.6.0   637007   111 12     Voľby Prezidenta 2024 - Cestovné náhrady        427,8                 0         0       0       0       0
+        01.6.0   637007   111 24     Cestovné náhrady-Referendum                                           0       410       0       0       0
+        01.6.0   637026   111 21     Odmeny a príspevky-Voľby do OSO a VÚC                                 0     2 074       0       0       0
+        01.6.0   637026   111 24     Odmeny a príspevky-Referendum                                         0       667       0       0       0
+        01.6.0   637026   111 7      Voľby do NRSR 2023 Odmeny a príspevky         2664,67                 0         0   2000        0   5000
+        01.6.0   637027   111        Odmeny zamestnancov mimopracovného pomer        70,18                 0         0       0       0       0
+        01.6.0   637027   111 24     Odmeny zamestnancov mimoprac. pomeru-Referendum                       0       180       0       0       0
+        01.6.0   637037   111 24     Referendum - Vratky                                                   0        87       0       0       0
+        01.6.0   637037   111 7      Voľby do NRSR -Vratky                                                 0       200       0       0       0
+        01.6.0   637037   131M       Referendum vratky                              363,96                 0         0       0       0       0
+*0160                                Všepbcené verejné služby - Voľby              4212,73         0       0      3902   2000        0   5000
+        05.1.0 633006     41         Všeobecný materiál                                        134,4       0        30      30      30      30
+        05.1.0 637004     41         Všeobecné služby                               2327,7   1813,89   2 025     3 205   3 770   3 770   3770
+        05.1.0 637012     41         Poplatky a odvody                              231,93   2188,85   2 025       740     970     970     970
+*0510                                Nakladanie s odpami                           2559,63   4137,14   4 050     3 975   4 770   4 770   4 770
+        06.2.0   633006   111   10   Všeobecný materiál                                                    0        40      40       0       0
+        06.2.0   633006   41         Všeobecný materiál                             111,59      14,1     220       120     300     300     300
+        06.2.0   633010   111   10   Pracovné odevy, obuv a pracovné pomôcky                               0        40      40       0       0
+        06.2.0   633010   41         Pracovné odevy, obuv a pracovné pomôcky                               0        95       0       0       0
+        06.2.0   633015   111        Palivá                                          77,77     73,95       0         0       0       0       0
+        06.2.0   633015   41         Palivá ako zdroj energie (benzín kosačka)       29,58     38,05       0       100     200     200     200
+        06.2.0   634001   41         Palivo, mazivá, (traktor - vývoz konárov)        31,9         0     300        50      50      50      50
+        06.2.0   634002   41         Servis, údržba, opravy a výdavky Kosačka        20,85         0     200         0     200     200     200
+        06.2.0   635004   41         Prevadzkových strojov,prístrojov,zariade        115,4         0     250         0     100     100     100
+        06.2.0   637004   41         Všeobecné služby (odhrňanie snehu)                            0       0       190     200     200     200
+        06.2.0   637004   46         Všeobecné služby-čist.potoka                                  0       0         0       0       0       0
+        06.2.0   637004   46    25   Všeobecné služby-čist.potoka                                  0       0    682,65       0       0       0
+        06.2.0   637015   111   10   Poistné                                                       0       0        20      20       0       0
+*0620                                Rozvoj obcí                                    387,09     126,1     970   1337,65   1150    1050    1050
+        06.4.0 632001     41         Energie                                        916,16   1090,03   2 366         0       0       0       0
+        06.4.0 632006     41         Elektrina                                           0         0       0       920   1100    1200    1500
+*0640                                Verejné osvetlenie                             916,16   1090,03   2 366       920   1 100   1 200   1 500
+        08.1.0 633006     41         Všeobecný materiál - altánok ihrisko           312,35                 0         0       0       0       0
+        08.1.0 635006     41         Budov, objektov alebo ich častí                                       0         0       0       0       0
+        08.1.0 637002     41         Konkurzy a súťaže-šport.podujatia                                     0       412     450     450     550
+*0810                                Rekreačné a športové podujatia - športový deň  312,35                 0       412     450     450     550
+        08.2.0   633006   11H        Vš.materiál-na kult.poduj.-výzva posl.PSK                             0      2000       0       0       0
+        08.2.0   633006   41         Vš.materiál-výzva poslancov PSK                                       0       424       0       0       0
+        08.2.0   633016   41         Reprezentačné                                  924,35     590,5     500         0       0       0       0
+        08.2.0   637002   41         KONKURZY A SÚŤAŽE - KULT. PODUJATIA            729,97      150    1000        750   1000    1000    1000
+        08.2.0   637004   41         Všeobecné služby                               166,95      150      500       420     500     500     500
+*0820                                Kultúrne služby - úcta k starším a Mikuláš     1821,27      890,5    2000     3594     1500     1500     1500
+        08.3.0 637012     41         Poplatky a odvody                                                        0       28       30       30       30
+*0830                                Vysielacie služby SOZA                                                   0       28       30       30       30
+        10.4.0 642001     41         Občianskemu združeniu, nadácii a neinvestičnému fo                       0       14       14       14       14
+*0830                                Rodina a deti - memorandum                                               0       14       14       14       14
+*1                                   1-bežný rozpočet                              47901,82   45972,14   48 465   50 739   51 963   51 803   59 498
+2                                    2-kapitálový rozpočet
+        06.2.0   713004   111   26   Prevádzk.strojov,techniky-traktor.kosačka                               0     5600        0        0        0
+        06.2.0   713004   41    26   Prevádzk.strojov,techniky-traktor.kosačka                               0      320        0        0        0
+        06.3.0   716      46         Použitie F - voda                                                    2400     2400        0        0        0
+        06.3.0   716      46    13   Použitie F - pozemky                           1859,11     977,07       0        0        0        0        0
+*2                                   2-kapitálový rozpočet                          1859,11     977,07    2400     8320        0        0        0
+3                                    3-finančné operácie
+*3                                   3-finančné operácie                                  0          0        0        0        0        0        0
+Spolu                                                                              49760,93   46949,21   50 865   59 059   51 963   51 803   59 498
+

@@ -1,21 +1,136 @@
 {
- "datum": "2026-11-23",
+ "datum": "2026-11-24",
  "obstaravania": [
   {
-   "cpv": "Stavebné práce na stavbe budov",
-   "datum": "23.11.2026",
-   "nazov": "ZNÍŽENIE ENERGETICKEJ NÁROČNOSTI ADMINISTRATÍVNEHO CENTRA „PARK“",
+   "cpv": "Podjazdy/podchody",
+   "datum": "24.11.2026",
+   "nazov": "Podchod Trieda arm. gen. L. Svobodu – pri zastávke MHD Postupimská, Košice - rekonštrukcia",
    "nuts": "Košický kraj",
-   "obec": "Trebišov",
-   "obstaravatel": "Mesto Trebišov",
-   "okres": "Trebišov",
+   "obec": "",
+   "obstaravatel": "Mesto Košice",
+   "okres": "",
    "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/569826?cHash=e6dcf997e293693f45fe7c94f487bf8f",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/569080?cHash=44d4e5bf3f531d0f0aad19de778b72ef",
    "zdroj": "ÚVO"
+  },
+  {
+   "cpv": "Stavebné práce na objektoch tematických parkov",
+   "datum": "24.11.2026",
+   "nazov": "Budovanie prvkov zelenej a modrej infraštruktúry prostredníctvom revitalizácie fontány a jej okolia v MČ Košice - Západ, Luník I",
+   "nuts": "Košický kraj",
+   "obec": "Košice - Západ",
+   "obstaravatel": "Mestská časť Košice - Západ",
+   "okres": "Košice",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/549519?cHash=8af0973d3ed1618a5f4e62d3c7353ee0",
+   "zdroj": "ÚVO"
+  },
+  {
+   "datum": "2026-11-24",
+   "nazov": "Slovensko – Nábytok – DNS - Nábytok",
+   "obec": "",
+   "obstaravatel": "Univerzita Pavla Jozefa Šafárika v Košiciach",
+   "okres": "",
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/814497-2026",
+   "zdroj": "TED (EÚ)"
+  },
+  {
+   "datum": "2026-11-24",
+   "nazov": "Slovensko – Nábytok – DNS - Nábytok",
+   "obec": "",
+   "obstaravatel": "Univerzita Pavla Jozefa Šafárika v Košiciach",
+   "okres": "",
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/814976-2026",
+   "zdroj": "TED (EÚ)"
   }
  ],
- "prepojenia": [],
+ "prepojenia": [
+  {
+   "datum": "23. November 2026",
+   "dodavatel": "Stavoprojekt Prešov s.r.o.",
+   "firma": "Stavoprojekt Prešov",
+   "nazov": "Dodatok č. 1 k Zmluve o dielo na vypracovanie projektovej dokumentácie pre stavbu \"Obnova zariadenia za účelom zvýšenia energetickej efektívnosti a zníženia prevádzkových nákladov - ZŠ s MŠ, Námestie Kráľovnej pokoja 4, Prešov\", vrátane výkonu inžinier... 202601176/2026",
+   "obec": "Prešov",
+   "objednavatel": "Mesto Prešov",
+   "okres": "Prešov",
+   "relevantne": false,
+   "suma": "86 223,00 €",
+   "typ": "projektant",
+   "url": "https://www.crz.gov.sk/zmluva/13114757/"
+  }
+ ],
  "prvy_beh": false,
- "vyzvy": [],
- "zmluvy": []
+ "vyzvy": [
+  {
+   "kategoria": "fond",
+   "nazov": "Výzva MoF – 8/2026 (“EE v podnikoch”)",
+   "temy": [],
+   "url": "https://envirofond.sk/2026/11/23/vyzva-mof-8-2026-ee-v-podnikoch-2/",
+   "zdroj": "Environmentálny fond",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "ministerstvo",
+   "nazov": "Vytvoríme 1 000 nových miest v jasliach, na podporu starostlivosti o najmenšie deti pôjde viac ako 41 miliónov eur",
+   "temy": [],
+   "url": "https://www.employment.gov.sk/sk/uvodna-stranka/informacie-media/aktuality/vytvorime-1-000-novych-miest-jasliach-podporu-starostlivosti-najmensie-deti-pojde-viac-ako-41-milionov-eur.html",
+   "zdroj": "MPSVR SR (Ihrisko pre každé dieťa)",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na výskum tradičnej ľudovej kultúry (2027) Dotácia podporuje vedecko-výskumné a odborné projekty v oblasti tradičnej ľudovej kultúry, vrátane vydávania odbornej literatúry, konferencií, vzdelávania a inventarizácie či dokumentácie tradičnej kultúry. Výška dotácie 15 000 € Miera do",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vyskum-tradicnej-ludovej-kultury-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na výskum a literárnu vedu pre kultúrne subjekty (2027) Dotácia podporuje výskumné a odborné projekty v oblasti literatúry a knižnej kultúry, vrátane vydávania odbornej literatúry, odborných prekladov, konferencií a vzdelávacích aktivít pre odbornú i laickú verejnosť. Výška dotáci",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vyskum-a-literarnu-vedu-pre-kulturne-subjekty-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na výskum vo výtvarnom a vizuálnom umení (2027) Dotácia podporuje vedecko-výskumné a odborné projekty, kritickú reflexiu, odborné podujatia a vzdelávacie aktivity v oblasti výtvarného a vizuálneho umenia vrátane vydávania odbornej a prekladovej literatúry. Výška dotácie 15 000 € M",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vyskum-vo-vytvarnom-a-vizualnom-umeni-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na vedu, výskum a vzdelávanie v hudbe (2027) Dotácia podporuje vedecko-výskumné a odborné projekty v oblasti hudobného umenia, odborné podujatia, edukačné aktivity a vydávanie odbornej a prekladovej literatúry o hudbe. Výška dotácie 15 000 € Miera dotácie 90 % Ostáva dní 27 Od 23.",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vedu-vyskum-a-vzdelavanie-v-hudbe-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na vedu a výskum v tanci pre organizácie (2027) Dotácia podporuje vedecko-výskumné a odborné projekty v oblasti tanečného umenia, odborné podujatia, vydávanie odbornej a prekladovej literatúry a edukačné aktivity zamerané na rozvoj publika a vzdelávanie v tanci. Výška dotácie 15 0",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-vedu-a-vyskum-v-tanci-pre-organizacie-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": [
+  {
+   "datum": "23. November 2026",
+   "dodavatel": "ELVOSOLAR, a.s.",
+   "nazov": "Darovacia zmluva detské ihrisko 40/2026",
+   "obec": "Mokrance",
+   "objednavatel": "Obec Mokrance",
+   "okres": "Košice",
+   "projekcia": false,
+   "suma": "27 308,35 €",
+   "url": "https://www.crz.gov.sk/zmluva/13113789/"
+  }
+ ]
 }
