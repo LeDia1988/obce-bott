@@ -1,0 +1,41 @@
+{
+ "datum": "2026-11-25",
+ "obstaravania": [],
+ "prepojenia": [],
+ "prvy_beh": false,
+ "vyzvy": [
+  {
+   "kategoria": "fond",
+   "nazov": "Výzva MoF – 8/2026 (“EE v podnikoch”)",
+   "temy": [],
+   "url": "https://envirofond.sk/2026/11/24/vyzva-mof-8-2026-ee-v-podnikoch-3/",
+   "zdroj": "Environmentálny fond",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "Krajské kolo ZENIT 2026 - technické talenty, skvelé výsledky 24. 11. 2026",
+   "temy": [],
+   "url": "https://psk.sk/krajske-kolo-zenit-2026-technicke-talenty-skvele-vysledky/",
+   "zdroj": "Prešovský samosprávny kraj",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na coworkingy a inkubátory pre podnikanie (2026) Výzva podporuje vznik, rekonštrukciu a rozšírenie podnikateľských inkubátorov, coworkingových centier a hubov v vybraných okresoch troch krajov, vrátane ich materiálno-technického vybavenia a nástrojov na posilnenie ich postavenia. ",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-coworkingy-a-inkubatory-pre-podnikanie-2026",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "agregátor",
+   "nazov": "Nová výzva Dotácia na územné plány pre obce a VÚC (2027) Dotácia podporuje spracovanie návrhov územnoplánovacej dokumentácie obcí, zón a mikroregiónov. Určená je pre obce a vyššie územné celky Slovenskej republiky. Výška dotácie nie je určená Miera dotácie 80 % Ostáva dní 82 Od 24.11.2026 Do 15.2.20",
+   "temy": [],
+   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-uzemne-plany-pre-obce-a-vuc-2027",
+   "zdroj": "GrantExpert – prehľad výziev",
+   "zhoda_tem": false
+  }
+ ],
+ "zmluvy": []
+}

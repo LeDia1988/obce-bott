@@ -1,0 +1,808 @@
+URL: https://cuet.slovensko.sk/en/dokument/b7543c8d-0418-455b-b985-491405c7df69
+OBEC: Veľký Šariš (Prešov)
+NÁZOV: Návrh na pripomienkovanie Všeobecne záväzné nariadenie Mesta Veľký Šariš č. .../2026 o miestnych daniach a miestnych poplatkoch na území mesta Veľký Šariš
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/b7543c8d-0418-455b-b985-491405c7df69
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh na pripomienkovanie
+Všeobecne záväzné nariadenie
+Mesta Veľký Šariš
+č. .../2026
+o miestnych daniach a miestnych poplatkoch na území mesta Veľký Šariš
+Search publisher's RSS feeds
+Published on official board:
+Mesto Veľký Šariš - Zverejňovanie na CUET
+Published from:
+24.11.2026
+Registry symbol:
+Documents author:
+Mesto Veľký Šariš - Zverejňovanie na CUET
+Published to:
+10.12.2026
+Registry case:
+Name of official document:
+Návrh na pripomienkovanie
+Všeobecne záväzné nariadenie
+Mesta Veľký Šariš
+č. .../2026
+o miestnych daniach a miestnych poplatkoch na území mesta Veľký Šariš
+Document type:
+Iný elektronický dokument
+Document abstract:
+[https://www.velkysaris.sk/oznamy/navrh-na-pripomienkovanie--vseobecne-zavazne-nariadenie--mesta-velky-saris--c--2026--o-miestnych-daniach-a-miestnych-poplatkoch-na-uzemi-mesta-velky-s.html]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VZN_VI-o-daniach-a-poplatkoch.pdf
+Type and size:
+.pdf, 420.6 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/4f180feb-ae09-4544-b019-96c3bdd596ff
+         Návrh na pripomienkovanie
+
+
+Všeobecne záväzné nariadenie
+     Mesta Veľký Šariš
+         č. .../2026
+o miestnych daniach a miestnych poplatkoch
+        na území mesta Veľký Šariš
+       Mesto Veľký Šariš podľa § 6 zákona č. 369/1990 Zb. o obecnom zriadení v znení
+neskorších predpisov, § 7 a nasl. zákona č. 582/2004 Z. z. o miestnych daniach a miestnom
+poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov (ďalej
+len „zákon o miestnych daniach“) a § 2 a nasl. zákona č. 447/2015 Z. z. o miestnom poplatku
+za rozvoj v znení neskorších predpisov (ďalej len „zákon o poplatku za rozvoj“)
+
+                                        vydáva
+
+   toto Všeobecne záväzné nariadenie Mesta Veľký Šariš č. .../2026 o miestnych daniach
+                  a miestnych poplatkoch na území mesta Veľký Šariš:
+
+
+                                          I. časť
+
+                                           §1
+                                  Základné ustanovenia
+
+       1. Toto Všeobecne záväzné nariadenie Mesta Veľký Šariš č. .../2026 o miestnych
+daniach a miestnych poplatkoch na území mesta Veľký Šariš (ďalej len „VZN“) podrobne
+upravuje podmienky ukladania miestnych daní a miestnych poplatkov na území mesta Veľký
+Šariš vrátane jeho miestnej časti Kanaš (ďalej len „miestne dane“ a „miestne poplatky“).
+
+       2. Mesto Veľký Šariš na svojom území (ďalej len „mesto“) ukladá miestne dane, ktorými
+sú:
+a) daň z nehnuteľností,
+b) daň za psa,
+c) daň za užívanie verejného priestranstva,
+d) daň za ubytovanie,
+e) daň za predajné automaty,
+f) daň za nevýherné hracie prístroje.
+
+       3. Mesto ukladá miestne poplatky, ktorými sú:
+a) poplatok za komunálne odpady a drobné stavebné odpady (ďalej len „poplatok za odpad“),
+b) poplatok za rozvoj.
+
+        4. Zdaňovacím obdobím miestnych daní a poplatku za odpad je príslušný kalendárny
+rok, ak ďalej nie je ustanovené inak.
+
+
+                                         II. časť
+                                      Miestne dane
+
+                                           §2
+                                   Daň z nehnuteľností
+
+       Daň z nehnuteľností zahŕňa:
+a) daň z pozemkov,
+b) daň zo stavieb,
+c) daň z bytov a nebytových priestorov v bytovom dome (ďalej len „daň z bytov“).
+
+
+                                           §3
+                                     Daň z pozemkov
+
+       1. Daňovníkom dane z pozemkov sú osoby uvedené v § 5 zákona o miestnych daniach.
+
+
+
+                                           2/17
+       2. Predmetom dane z pozemkov sú pozemky na území mesta vymedzené v § 6 zákona
+o miestnych daniach.
+
+        3. Základom dane z pozemkov pre pozemky druhu orná pôda, chmeľnice, vinice,
+ovocné sady, ostatné plochy využívané na poľnohospodárstvo, lesné hospodárstvo alebo účel
+spojený s poľnohospodárstvom alebo lesným hospodárstvom a trvalé trávnaté porasty je
+hodnota pozemku bez porastov, určená vynásobením príslušného koeficientu a výmery
+pozemkov v m2 (ďalej len „m2“) nasledovne:
+a) orná pôda, chmeľnice, vinice, ovocné sady, ostatné plochy využívané
+   na poľnohospodárstvo, lesné hospodárstvo alebo účel spojený
+   s poľnohospodárstvom alebo lesným hospodárstvom                         0,3448 € x m2,
+b) trvalé trávnaté porasty                                                 0,0365 € x m2.
+
+       4. Základom dane z pozemkov pre lesné pozemky, na ktorých sú hospodárske lesy,
+rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy je hodnota pozemku
+bez porastov, určená v súlade s § 7 ods. 6 zákona o miestnych daniach vo výške 0,20 € x m2.
+
+       5. Základom dane z pozemkov pre pozemky druhu záhrady, zastavané plochy a
+nádvoria, ostatné plochy okrem ostatných plôch podľa odseku 3 a stavebné pozemky je
+hodnota pozemku určená nasledovne:
+a) stavebné pozemky                                                      21,24 € x m2,
+b) záhrady, zastavané plochy a nádvoria, ostatné plochy okrem
+   ostatných plôch podľa odseku 3                                         2,12 € x m2.
+
+       6. Základom dane z pozemkov, na ktorých sa nachádza transformačná stanica alebo
+predajný stánok, je hodnota pozemku určená vynásobením skutočnej výmery transformačnej
+stanice alebo predajného stánku v m2 a koeficientu 21,24 €; ustanovenia odsekov 3 až 5 sa tu
+nepoužijú.
+
+       7. Mesto určuje ročnú sadzbu dane z pozemkov pre jednotlivé druhy pozemkov
+nasledovne:
+a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty        1,25 %,
+b) záhrady, stavebné pozemky, lesné pozemky, na ktorých sú hospodárske lesy,
+   rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy         1,30 %,
+c) zastavané plochy a nádvoria, ostatné plochy – extravilán                  0,75 %,
+d) zastavané plochy a nádvoria, ostatné plochy – intravilán                  1,25 %.
+
+       8. Mesto určuje pre pozemky, na ktoré bolo vydané povolenie dobývania ložiska
+nevyhradeného nerastu alebo na ktorých sa nachádza zariadenie na výrobu elektriny zo
+slnečnej energie, transformačná stanica alebo predajný stánok, ročnú sadzbu dane z
+pozemkov vo výške 3,40 %; ustanovenie odseku 7 sa tu nepoužije.
+
+
+                                           §4
+                                      Daň zo stavieb
+
+       1. Daňovníkom dane zo stavieb sú osoby uvedené v § 9 zákona o miestnych daniach.
+
+       2. Predmetom dane zo stavieb sú stavby na území mesta, ktoré majú jedno alebo viac
+nadzemných podlaží alebo podzemných podlaží, sú spojené so zemou pevným základom
+alebo ukotvené pilótami a sú vymedzené v § 10 ods. 1, 3 a 4 zákona o miestnych daniach.
+
+
+
+
+                                           3/17
+       3. Základom dane zo stavieb je výmera zastavanej plochy v m2. Zastavanou plochou
+sa rozumie pôdorys stavby na úrovni najrozsiahlejšej nadzemnej časti stavby, pričom do
+zastavanej plochy sa nezapočítava prečnievajúca časť strešnej konštrukcie stavby; pri stavbe
+hromadných garáží umiestnených pod zemou sa zastavanou plochou rozumie pôdorys stavby
+na úrovni najrozsiahlejšej podzemnej časti stavby.
+
+       4. Mesto určuje ročnú sadzbu dane zo stavieb pre jednotlivé druhy stavieb za m 2 ich
+zastavanej plochy nasledovne:
+a) stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú
+   stavbu                                                                           0,35 €,
+b) stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné hospodárstvo,
+   stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane
+   stavieb na vlastnú administratívu                                                0,35 €,
+c) chaty a stavby na individuálnu rekreáciu                                         1,25 €,
+d) samostatne stojace garáže                                                        1,00 €,
+e) stavby hromadných garáží                                                         1,00 €,
+f) priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu,
+   stavby využívané na skladovanie vlastnej podnikateľskej produkcie vrátane
+   stavieb na vlastnú administratívu                                                3,05 €,
+g) stavby na ostatné podnikanie a zárobkovú činnosť, skladovanie a administratívu
+   súvisiacu s ostatným podnikaním a zárobkovou činnosťou                           3,05 €,
+h) stavby neuvedené v písm. a) až g)                                                3,05 €.
+
+        5. Pri viacpodlažných stavbách, ktorými sú stavby uvedené v odseku 4 písm. b) a e)
+až g), mesto určuje príplatok za podlažie v sume 0,33 €.
+
+       6. Ak ide o stavby, ktoré sú neudržiavanými stavbami v zmysle § 12 ods. 8 zákona o
+miestnych daniach, mesto určuje koeficient vo výške 10, a to pre všetky druhy stavieb uvedené
+v odseku 4. Koeficient uvedený v prvej vete je koeficientom ročnej sadzby dane zo stavieb
+podľa § 12 ods. 7 zákona o miestnych daniach.
+
+
+                                            §5
+                                        Daň z bytov
+
+       1. Daňovníkom dane z bytov sú osoby uvedené v § 13 zákona o miestnych daniach.
+
+       2. Predmetom dane z bytov sú byty a nebytové priestory v bytovom dome na území
+mesta, ktoré sú vymedzené v § 14 zákona o miestnych daniach.
+
+        3. Základom dane z bytov je výmera podlahovej plochy bytu alebo nebytového
+priestoru v m2.
+
+        4. Mesto určuje ročnú sadzbu dane z bytov pre jednotlivé druhy bytov a nebytových
+priestorov za m2 ich podlahovej plochy nasledovne:
+a) 0,35 € za byty,
+b) 1,00 € za nebytové priestory, ktoré neslúžia na podnikanie a inú zárobkovú činnosť,
+c) 3,05 € za nebytové priestory, ktoré sa využívajú na podnikanie a inú zárobkovú činnosť.
+
+
+                                            §6
+
+      1. Od dane z nehnuteľností sú oslobodené pozemky, stavby, byty a nebytové priestory
+uvedené v § 17 ods. 1 zákona o miestnych daniach.
+
+
+
+
+                                            4/17
+        2. Mesto ďalej poskytuje oslobodenie od dane z pozemkov pre:
+a) pozemky, na ktorých sú cintoríny,
+b) pozemky vo vlastníctve cirkví, zastavané stavbami, ktoré neslúžia na podnikanie a inú
+   zárobkovú činnosť,
+c) pozemky verejných parkov, parkovísk a športovísk,
+d) močiare, plochy slatín a slancov, rašeliniská, remízky, háje, vetrolamy a pásma hygienickej
+   ochrany vodných zdrojov I. a II. stupňa, pásma ochrany prírodných liečivých zdrojov I. a II.
+   stupňa a zdrojov prírodných minerálnych vôd stolových I. a II. stupňa,
+e) časti pozemkov, na ktorých sú zriadené meračské značky, signály a iné zariadenia bodov
+   podľa osobitného predpisu, geodetických základov, stožiare rozvodu elektrickej energie,
+   stĺpy telekomunikačného vedenia a televízne prevádzače, nadzemné časti zariadení na
+   rozvod vykurovacích plynov a pásy pozemkov v lesoch vyčlenené na rozvod elektrickej
+   energie a vykurovacích plynov,
+f) pozemky, ktorých hospodárske využívanie je obmedzené vzhľadom na podkopanie, ich
+   umiestnenie v oblasti dobývacích priestorov alebo pásiem hygienickej ochrany vody II. a III.
+   stupňa, ochranu a tvorbu životného prostredia, ich postihnutie ekologickými katastrofami,
+   nadmerným imisným zaťažením, pozemky rekultivované investičným zúrodňovaním okrem
+   rekultivácií plne financovaných zo štátneho rozpočtu, rokliny, výmole, vysoké medze s
+   kroviskami alebo kamením, pásma ochrany prírodných liečivých zdrojov II. a III. stupňa a
+   zdrojov prírodných minerálnych vôd stolových II. a III. stupňa, genofondové plochy, brehové
+   porasty a iné plochy stromovej a krovinatej vegetácie na nelesných pozemkoch s
+   pôdoochrannou, ekologickou alebo krajinotvornou funkciou,
+g) pozemky užívané školami a školskými zariadeniami.
+
+       3. Mesto ďalej poskytuje oslobodenie od dane zo stavieb a dane z bytov pre:
+a) stavby a byty slúžiace školám, školským zariadeniam a zdravotníckym zariadeniam,
+b) stavby slúžiace ako múzeá, galérie, knižnice, kiná, osvetové zariadenia, výstavné siene a
+   stavby užívané na účely sociálnej pomoci.
+
+        4. Mesto poskytuje zníženie dane z pozemkov vo výške 50 % na pozemky, ktorých
+vlastníkmi sú fyzické osoby staršie ako 70 rokov.
+
+        5. Mesto poskytuje zníženie dane zo stavieb a dane z bytov vo výške 50 % na:
+a) stavby na bývanie a byty vo vlastníctve fyzických osôb starších ako 70 rokov, držiteľov
+   preukazu osoby s ťažkým zdravotným postihnutím alebo držiteľov preukazu osoby
+   s ťažkým zdravotným postihnutím so sprievodcom, ak im tieto stavby na bývanie alebo byty
+   slúžia na ich trvalý pobyt,
+b) garáže a nebytové priestory v bytovom dome slúžiace ako garáž vo vlastníctve držiteľov
+   preukazu osoby s ťažkým zdravotným postihnutím alebo držiteľov preukazu osoby s
+   ťažkým zdravotným postihnutím so sprievodcom, ak im tieto garáže a nebytové priestory v
+   bytovom dome slúžia pre motorové vozidlo, ktorého sú vlastníkom alebo držiteľom.
+
+        6. V súlade s § 17a zákona o miestnych daniach mesto ustanovuje jednotlivé časti
+mesta, a to:
+a) intravilán – zastavané územie mesta definované katastrom nehnuteľností,
+b) extravilán – územie mesta mimo intravilánu.
+
+
+                                            §7
+                                         Daň za psa
+
+       1. Predmetom dane za psa je pes starší ako 6 mesiacov, chovaný na území mesta.
+
+       2. Predmetom dane za psa nie je pes:
+a) chovaný na vedecké a výskumné účely,
+b) umiestnený v útulku zvierat,
+
+
+                                             5/17
+c) so špeciálnym výcvikom, ktorého používa držiteľ preukazu osoby s ťažkým zdravotným
+   postihnutím alebo držiteľ preukazu osoby s ťažkým zdravotným postihnutím so
+   sprievodcom,
+d) vlastnený alebo držaný odídencom podľa osobitného predpisu.
+
+        3. Daňovníkom dane za psa je osoba, ktorá je:
+a) vlastníkom psa alebo
+b) držiteľom psa, ak sa nedá preukázať, kto psa vlastní.
+Daňovníkom dane za psa nie je mesto.
+
+       4. Základom dane za psa je počet psov.
+
+       5. Mesto určuje ročnú sadzbu dane za psa nasledovne:
+a) 28,25 € za jedného psa chovaného v rodinných domoch alebo na záhradkárskych chatkách
+   a pozemkoch,
+b) 56,50 € za jedného psa v ostatných prípadoch.
+
+        6. Mesto poskytuje oslobodenie od dane za psa pre:
+a) psa chovaného v rodinnom dome (ďalej len „miesto zdanenia“), ak vlastníkom alebo
+   držiteľom tohto psa je dôchodca, v prípade ktorého:
+   1a. nie je v mieste zdanenia prihlásená k trvalému pobytu žiadna osoba, alebo
+   2a. sú v mieste zdanenia prihlásené k trvalému pobytu iba osoby, ktoré sú dôchodcami,
+b) psa, ktorého vlastníkom alebo držiteľom je držiteľ preukazu osoby s ťažkým zdravotným
+   postihnutím alebo držiteľ preukazu osoby s ťažkým zdravotným postihnutím so
+   sprievodcom,
+c) poľovne upotrebiteľného psa.
+Oslobodenie od dane za psa sa vzťahuje iba na jedného psa u toho istého daňovníka.
+
+
+                                           §8
+                         Daň za užívanie verejného priestranstva
+
+        1. Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného
+priestranstva nachádzajúceho sa na území mesta. Osobitné užívanie verejného priestranstva
+je užívaním verejného priestranstva iným spôsobom ako obvyklým v zmysle osobitného
+predpisu.
+
+        2. Osobitným užívaním verejného priestranstva sa rozumie umiestnenie zariadenia
+cirkusu, lunaparku a iných obdobných atrakcií, umiestnenie stavebného zariadenia alebo
+skládky, a podobne. Osobitným užívaním verejného priestranstva nie je užívanie verejného
+priestranstva v súvislosti s odstránením poruchy alebo havárie rozvodov inžinierskych sietí.
+
+        3. Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo
+vlastníctve mesta okrem pozemkov, ktoré mesto prenechalo do užívania alebo zverilo do
+správy podľa osobitných predpisov.
+
+       4. Verejným priestranstvom podľa odseku 3 sa rozumejú najmä:
+a) miestne cesty a verejné účelové cesty,
+b) chodníky, prípadne inak upravené plochy pre peších,
+c) námestia, detské ihriská, športoviská,
+d) všetky neknihované parcely v intraviláne,
+e) mosty, verejná zeleň,
+f) parkoviská, priestranstvá okolo rieky Torysa, verejné parky.
+
+
+
+
+                                            6/17
+        5. Daňovníkom dane za užívanie verejného priestranstva je osoba, ktorá verejné
+priestranstvo užíva, ak ide o osobitné užívanie verejného priestranstva. Daňovníkom dane za
+užívanie verejného priestranstva nie je mesto.
+
+        6. Základom dane za užívanie verejného priestranstva je výmera verejného
+priestranstva v m2, ktoré je zabraté osobitným užívaním verejného priestranstva.
+
+        7. Mesto určuje sadzbu dane za užívanie verejného priestranstva za každý začatý deň
+osobitného užívania verejného priestranstva nasledovne:
+a) umiestnenie stavebného zariadenia alebo skládky                               1,35 €/m2,
+b) umiestnenie informačno-reklamného zariadenia alebo
+   zariadenia cirkusu, lunaparku a iných obdobných atrakcií                      0,35 €/m2,
+c) letná terasa                                                                  0,10 €/m2,
+d) v ostatných prípadoch                                                         0,75 €/m2.
+
+       8. Daňová povinnosť k dani za užívanie verejného priestranstva vzniká dňom začatia
+osobitného užívania verejného priestranstva a zaniká dňom skončenia osobitného užívania
+verejného priestranstva. Začať osobitné užívanie verejného priestranstva možno iba na
+základe povolenia mesta.
+
+        9. Daňovník uvedený v odseku 5 je povinný písomne podať mestu oznámenie o začatí
+osobitného užívania verejného priestranstva, a to najneskôr v deň vzniku daňovej povinnosti
+k dani za užívanie verejného priestranstva, a uviesť v ňom všetky skutočnosti, ktoré majú vplyv
+na vyrubenie dane za užívanie verejného priestranstva alebo jej výšku.
+
+       10. Daňovník uvedený v odseku 5 je povinný písomne oznámiť mestu zánik daňovej
+povinnosti k dani za užívanie verejného priestranstva, a to do 30 kalendárnych dní odo dňa,
+keď táto skutočnosť nastala.
+
+       11. Daňovník uvedený v odseku 5 je povinný písomne oznámiť mestu každú zmenu
+skutočností uvedených v odsekoch 9 a 10, a to do 30 kalendárnych dní odo dňa, keď táto
+zmena nastala.
+
+        12. Mesto poskytuje oslobodenie od dane za užívanie verejného priestranstva pre
+osoby, ktoré na verejnom priestranstve organizujú:
+a) kultúrne, športové alebo iné spoločenské podujatia bez výberu vstupného,
+b) podujatia, ktorých celý výťažok je určený na charitatívne alebo verejnoprospešné účely.
+
+
+                                            §9
+                                     Daň za ubytovanie
+
+       1. Predmetom dane za ubytovanie je odplatné prechodné ubytovanie fyzickej osoby v
+ubytovacom zariadení, ktorého kategorizáciu určuje § 37 zákona o miestnych daniach,
+nachádzajúcom sa na území mesta.
+
+      2. Daňovníkom dane za ubytovanie je fyzická osoba, ktorá sa v ubytovacom zariadení
+podľa odseku 1 prechodne ubytuje za odplatu (ďalej len „zdaniteľná osoba“). Zdaniteľnou
+osobou nie je odídenec podľa osobitného predpisu.
+
+       3. Základom dane za ubytovanie je počet odplatných prenocovaní zdaniteľnej osoby v
+ubytovacom zariadení podľa odseku 1, najviac však 60 odplatných prenocovaní tej istej
+zdaniteľnej osoby v tom istom ubytovacom zariadení za jeden kalendárny rok.
+
+       4. Mesto určuje sadzbu dane za ubytovanie vo výške 0,85 € za jednu fyzickú osobu a
+jedno odplatné prenocovanie podľa odseku 3.
+
+
+                                             7/17
+       5. Platiteľom dane za ubytovanie sú osoby uvedené v § 38 ods. 2 zákona o miestnych
+daniach (ďalej len „platiteľ dane“). Platiteľ dane je povinný voči mestu plniť oznamovacie
+povinnosti uvedené v § 41a ods. 1 a 3 zákona o miestnych daniach, a to písomne. Platiteľom
+dane nie je mesto.
+
+       6. Platiteľ dane je povinný viesť o zdaniteľných osobách evidenciu podľa § 41a ods. 2
+a 3 zákona o miestnych daniach (ďalej len „evidenčná kniha“). Platiteľ dane je povinný viesť
+evidenčnú knihu osobitne za každé ubytovacie zariadenie podľa odseku 1, v rámci ktorého
+odplatné prechodné ubytovanie fyzickým osobám poskytuje.
+
+        7. Platiteľ dane je povinný po skončení každého kalendárneho štvrťroka písomne
+vyhotoviť hlásenie k dani za ubytovanie (ďalej len „Hlásenie“) podľa evidencie uvedenej v
+odseku 6 a na jej podklade určiť základ dane za ubytovanie a vypočítať sumu dane za
+ubytovanie za príslušný kalendárny štvrťrok. Hlásenie s uvedením základu dane za ubytovanie
+a vypočítanou sumou dane za ubytovanie podľa prvej vety je platiteľ dane povinný podať mestu
+do 10.01., 10.04., 10.07. a 10.10. kalendárneho roka vždy za predchádzajúci kalendárny
+štvrťrok. Tlačivo Hlásenia poskytne platiteľovi dane mesto.
+
+        8. Daň za ubytovanie vyrubí mesto rozhodnutím; ak platiteľ dane mestu písomne
+oznámil, že namiesto neho daňovú povinnosť k dani za ubytovanie (ďalej len „daňová
+povinnosť“) alebo jej časť plní v zmysle § 41a ods. 3 a 4 zákona o miestnych daniach zástupca
+platiteľa dane, ktorým je osoba uvedená v § 38 ods. 3 zákona o miestnych daniach (ďalej len
+„zástupca platiteľa dane“), daň za ubytovanie alebo jej časť sa vyrubí zástupcovi platiteľa dane;
+ak ide o čiastočné prebratie daňovej povinnosti zástupcom platiteľa dane namiesto platiteľa
+dane, daň za ubytovanie v zostávajúcej časti daňovej povinnosti sa vyrubí platiteľovi dane.
+Zástupca platiteľa dane nie je povinný oznamovať mestu žiadne skutočnosti. Daň za
+ubytovanie je splatná do 15 kalendárnych dní odo dňa nadobudnutia právoplatnosti
+rozhodnutia podľa prvej vety.
+
+        9. Ak platiteľ dane po uplynutí stanovených lehôt podľa odseku 7 zistí, že v podanom
+Hlásení v zmysle odseku 7 uviedol nesprávne údaje, ktoré sú rozhodujúce na vyrubenie dane
+za ubytovanie alebo jej výšku, je povinný bez zbytočného odkladu po tomto zistení podať
+mestu opravné Hlásenie so správnymi údajmi v zmysle odseku 7; mesto je oprávnené
+neprihliadať na opravné Hlásenie, ktoré by malo za následok zníženie dane za ubytovanie
+vyrubenej podľa pôvodného Hlásenia.
+
+       10. Ustanovenie odseku 9 platí primerane aj v prípade, ak nesprávnosť údajov, ktoré
+sú rozhodujúce na vyrubenie dane za ubytovanie alebo jej výšku, zistí mesto, pričom je
+oprávnené vyrubiť platiteľovi dane alebo zástupcovi platiteľa dane rozdiel na dani za
+ubytovanie, ktorý z tohto zistenia vyplýva, ak je to nepochybné.
+
+
+                                           § 10
+                                 Daň za predajné automaty
+
+        1. Predmetom dane za predajné automaty sú automaty, ktoré vydávajú tovar za odplatu
+a sú umiestnené v priestoroch prístupných verejnosti nachádzajúcich sa na území mesta
+(ďalej len „predajné automaty“). Predmetom dane za predajné automaty nie sú automaty, ktoré
+vydávajú cestovné lístky.
+
+      2. Daňovníkom dane za predajné automaty je osoba, ktorá predajné automaty
+prevádzkuje. Daňovníkom dane za predajné automaty nie je mesto a právnické osoby, ktoré
+mesto založilo podľa osobitného predpisu.
+
+       3. Základom dane za predajné automaty je počet predajných automatov.
+
+
+
+                                              8/17
+       4. Mesto určuje ročnú sadzbu dane za predajné automaty vo výške 85,00 € za jeden
+predajný automat.
+
+      5. Mesto poskytuje oslobodenie od dane za predajné automaty pre prevádzkovateľov
+bankomatov a automatov na ochranné prostriedky proti šíreniu pohlavných chorôb.
+
+
+                                          § 11
+                             Daň za nevýherné hracie prístroje
+
+       1. Predmetom dane za nevýherné hracie prístroje sú hracie prístroje, ktoré sa spúšťajú
+za odplatu, pričom nevydávajú peňažnú výhru a sú prevádzkované v priestoroch prístupných
+verejnosti nachádzajúcich sa na území mesta (ďalej len „nevýherné hracie prístroje“).
+
+       2. Nevýherné hracie prístroje podľa odseku 1 sú:
+a) elektronické prístroje na počítačové hry,
+b) mechanické prístroje, elektronické prístroje, automaty a iné zariadenia na zábavné hry.
+
+        3. Daňovníkom dane za nevýherné hracie prístroje je osoba, ktorá nevýherné hracie
+prístroje prevádzkuje. Daňovníkom dane za nevýherné hracie prístroje nie je mesto.
+
+        4. Základom dane za nevýherné hracie prístroje je počet nevýherných hracích
+prístrojov.
+
+       5. Mesto určuje ročnú sadzbu dane za nevýherné hracie prístroje vo výške 280,00 € za
+jeden nevýherný hrací prístroj.
+
+      6. Mesto poskytuje oslobodenie od dane za nevýherné hracie prístroje pre
+prevádzkovateľov nevýherných hracích prístrojov, ktoré sú určené na počítačové hry a sú
+umiestnené v školách a centrách voľného času.
+
+
+                                          III. časť
+                                      Miestne poplatky
+
+                                           Diel 1
+                                     Poplatok za odpad
+
+                                             § 12
+
+        1. Ak ďalej nie je ustanovené inak, poplatok za odpad platí poplatník, ktorým je:
+a) fyzická osoba, ktorá má v meste trvalý pobyt,
+b) fyzická osoba, ktorá má v meste prechodný pobyt,
+c) fyzická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť, ktorou je byt, nebytový
+   priestor, budova, objekt, ktorý nie je budovou, záhrada, vinica, ovocný sad, trvalý trávnatý
+   porast alebo iný pozemok okrem lesného pozemku a vodnej plochy, nachádzajúcu sa na
+   území mesta (ďalej len „nehnuteľnosť“), a to na iný účel ako na podnikanie,
+d) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť na iný účel ako na
+   podnikanie,
+e) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť na účel podnikania.
+
+
+
+
+                                             9/17
+       2. Poplatok za odpad neplatí mesto a právnické osoby, ktoré mesto založilo podľa
+osobitného predpisu; poplatníkmi nie sú tiež osoby uvedené v § 77 ods. 4 zákona o miestnych
+daniach; poplatníkom nie je ani právnická osoba, ktorá má sídlo v mieste trvalého pobytu alebo
+prechodného pobytu jej vlastníka, ktorým je poplatník uvedený v odseku 1 písm. a) až c); to
+sa nevzťahuje na právnickú osobu, ktorá je podnikateľom, ak má na území mesta zriadenú
+prevádzkareň mimo miesta trvalého pobytu alebo prechodného pobytu jej vlastníka.
+
+
+                                            § 13
+
+       1. Sadzba poplatku za odpad je pre:
+a) poplatníka uvedeného v § 12 odsek 1 písm. a):
+   1a. 0,16 € za osobu a kalendárny deň,
+   2a. 0,13 € za jeden kilogram drobných stavebných odpadov,
+b) ostatných poplatníkov, ak ďalej nie je ustanovené inak:
+   1b. 0,10 € za jeden liter komunálnych odpadov a drobných stavebných odpadov pri
+       systéme zberu komunálneho odpadu a drobného stavebného odpadu prostredníctvom
+       zberných nádob s objemom zbernej nádoby do 120 litrov,
+   2b. 0,08 € za jeden liter komunálnych odpadov a drobných stavebných odpadov pri
+       systéme zberu komunálneho odpadu a drobného stavebného odpadu prostredníctvom
+       zberných nádob s objemom zbernej nádoby 240 litrov,
+   3b. 0,05 € za jeden liter komunálnych odpadov a drobných stavebných odpadov pri
+       systéme zberu komunálneho odpadu a drobného stavebného odpadu prostredníctvom
+       zberných nádob s objemom zbernej nádoby 1100 litrov a viac
+c) poplatníkov podľa písm. b), ktorí nevyužívajú systém zberu komunálneho odpadu a
+   drobného stavebného odpadu prostredníctvom zberných nádob v zmysle písm. b):
+   1c. 0,16 € za osobu a kalendárny deň,
+   2c. 0,13 € za jeden kilogram drobných stavebných odpadov.
+
+      2. Pre poplatníka uvedeného v § 12 odsek 1 písm. a) je v meste zavedený vážený
+množstvový zber drobného stavebného odpadu; to isté platí aj pre ostatných poplatníkov, ktorí
+nevyužívajú systém zberu komunálneho odpadu a drobného stavebného odpadu podľa
+odseku 1 písm. b).
+
+        3. Mesto určuje poplatok za odpad na zdaňovacie obdobie pre:
+a) poplatníka uvedeného v § 12 odsek 1 písm. a) ako súčin príslušnej sadzby poplatku za
+   odpad a počtu kalendárnych dní v príslušnom kalendárnom roku, počas ktorých má alebo
+   bude mať v meste trvalý pobyt,
+b) poplatníka uvedeného v § 12 odsek 1 písm. b), ktorý nevyužíva systém zberu komunálneho
+   odpadu a drobného stavebného odpadu podľa odseku 1 písm. b), ako súčin príslušnej
+   sadzby poplatku za odpad a počtu kalendárnych dní v príslušnom kalendárnom roku, počas
+   ktorých má alebo bude mať v meste prechodný pobyt,
+c) poplatníka uvedeného v § 12 odsek 1 písm. c), ktorý nevyužíva systém zberu komunálneho
+   odpadu a drobného stavebného odpadu podľa odseku 1 písm. b), ako súčin príslušnej
+   sadzby poplatku za odpad a počtu kalendárnych dní v príslušnom kalendárnom roku, počas
+   ktorých je oprávnený užívať alebo užíva nehnuteľnosť,
+d) poplatníka uvedeného v § 12 odsek 1 písm. b) až e), ktorý využíva systém zberu
+   komunálneho odpadu a drobného stavebného odpadu podľa odseku 1 písm. b), ako súčin
+   príslušnej sadzby poplatku za odpad, objemu zbernej nádoby, ktorú tento poplatník užíva
+   v rámci systému zberu komunálneho odpadu a drobného stavebného odpadu podľa
+   odseku 1 písm. b), a počtu jej vývozov za príslušný kalendárny rok, ktoré sú stanovené
+   v harmonograme podľa osobitného predpisu,
+
+
+
+
+                                            10/17
+e) poplatníka uvedeného v § 12 odsek 1 písm. d) alebo e), ktorý nevyužíva systém zberu
+   komunálneho odpadu a drobného stavebného odpadu podľa odseku 1 písm. b), ako súčin
+   príslušnej sadzby poplatku za odpad, počtu kalendárnych dní v príslušnom kalendárnom
+   roku a jeho ukazovateľa dennej produkcie komunálnych odpadov vypočítaného
+   v zmysle § 79 ods. 3 a 4 zákona o miestnych daniach; mesto na tento účel ustanovuje
+   koeficient vo výške 1.
+
+       4. Mesto poplatok za odpad odpustí za dobu, za ktorú poplatník mestu preukáže, že sa
+viac ako 275 kalendárnych dní v zdaňovacom období zdržiava alebo zdržiaval mimo územia
+mesta, a to:
+a) z dôvodu pracovnoprávneho alebo obdobného vzťahu s miestom výkonu práce alebo iného
+   druhu povolania mimo územia Slovenskej republiky,
+b) z dôvodu štúdia mimo územia Slovenskej republiky,
+c) z akéhokoľvek dôvodu v inej obci na území Slovenskej republiky.
+
+        5. Pre účel preukázania skutočnosti podľa odseku 4 písm. a) je poplatník povinný
+predložiť mestu potvrdenie zamestnávateľa alebo iného obdobného subjektu o existencii a
+trvaní pracovnoprávneho alebo obdobného vzťahu s miestom výkonu práce alebo iného druhu
+povolania mimo územia Slovenskej republiky, ktoré znie na tohto poplatníka a vzťahuje sa na
+príslušný kalendárny rok.
+
+       6. Pre účel preukázania skutočnosti podľa odseku 4 písm. b) je poplatník povinný
+predložiť mestu potvrdenie o návšteve školy alebo iné potvrdenie o štúdiu mimo územia
+Slovenskej republiky, ktoré znie na tohto poplatníka a vzťahuje sa na príslušný kalendárny rok.
+
+       7. Pre účel preukázania skutočnosti podľa odseku 4 písm. c) je poplatník povinný
+predložiť mestu:
+a) rozhodnutie o vyrubení poplatku za odpad v inej obci na území Slovenskej republiky, ktoré:
+   1a. znie na tohto poplatníka alebo
+   2a. zahŕňa tohto poplatníka
+   a vzťahuje sa na príslušný kalendárny rok, alebo
+b) potvrdenie alebo iný doklad o zaplatení poplatku za odpad v inej obci na území Slovenskej
+   republiky, ktorý:
+   1b. znie na tohto poplatníka alebo
+   2b. zahŕňa tohto poplatníka
+   a vzťahuje sa na príslušný kalendárny rok.
+
+        8. Potvrdenia a iné doklady podľa odsekov 5 až 7 a prehlásenie podľa odseku 12 je
+poplatník povinný predložiť mestu najneskôr do 30 kalendárnych dní po skončení príslušného
+kalendárneho roka, inak mu nárok na odpustenie poplatku za odpad v zmysle odseku 4
+zaniká.
+
+      9. Mesto poplatok za odpad zníži vo výške 80 % za dobu, za ktorú poplatník mestu
+preukáže, že sa viac ako 275 kalendárnych dní v zdaňovacom období zdržiava alebo zdržiaval
+mimo územia mesta, a to z dôvodu štúdia v inej obci na území Slovenskej republiky.
+
+       10. Pre účel preukázania skutočnosti podľa odseku 9 je poplatník povinný predložiť
+mestu potvrdenie o jeho ubytovaní v študentskom domove alebo jeho ubytovací preukaz, ktorý
+sa vzťahuje na príslušný kalendárny rok.
+
+       11. Potvrdenie o ubytovaní alebo ubytovací preukaz podľa odseku 10 a prehlásenie
+podľa odseku 12 je poplatník povinný predložiť mestu najneskôr do 30 kalendárnych dní po
+skončení príslušného kalendárneho roka, inak mu nárok na zníženie poplatku za odpad
+v zmysle odseku 9 zaniká.
+
+
+
+
+                                            11/17
+       12. K dokladom podľa odsekov 5 až 7 a 10 je poplatník povinný priložiť písomné
+prehlásenie:
+a) o počte kalendárnych dní v príslušnom kalendárnom roku, počas ktorých sa zdržiava alebo
+   zdržiaval mimo územia mesta, pokiaľ to nevyplýva už z týchto dokladov,
+b) o tom, či nehnuteľnosť, ku ktorej sa mu viaže poplatková povinnosť k poplatku za odpad
+   (ďalej len „poplatníkova nehnuteľnosť“), je oprávnená užívať alebo užíva iná osoba,
+   s uvedením:
+   1b. mena, priezviska, rodného čísla, adresy trvalého pobytu a adresy prechodného pobytu
+       (ďalej len „identifikačné údaje“) tejto osoby,
+   2b. informácie na základe akého právneho vzťahu je táto osoba oprávnená užívať alebo
+       užíva poplatníkovu nehnuteľnosť.
+
+        13. Mesto poskytuje zníženie poplatku za odpad vo výške 50 % pre fyzické osoby
+staršie ako 70 rokov.
+
+        14. Mesto vráti poplatok za odpad alebo jeho časť (ďalej len „poplatok na vrátenie“)
+poplatníkovi, ktorému zanikla poplatková povinnosť k poplatku za odpad (ďalej len „poplatková
+povinnosť“), ak:
+a) si za týmto účelom splnil oznamovaciu povinnosť podľa § 15 odsek 2, inak mesto uplatní
+   primerane postup v zmysle § 15 odsek 4 až 6,
+b) ide o vrátenie poplatku za odpad alebo jeho časti podľa § 82 ods. 1 zákona o miestnych
+   daniach,
+c) poplatok na vrátenie bol mestu zaplatený,
+d) poplatok na vrátenie prevyšuje 5,00 €.
+
+       15. Ustanovenia odsekov 4 až 12 sa vzťahujú primerane aj na poplatníka v zmysle § 15
+odsek 2 písm. c), a to za osoby, za ktoré plní povinnosti poplatníka podľa § 77 ods. 7 zákona
+o miestnych daniach.
+
+
+                                            § 14
+
+      1. Ustanovenia § 13 sa nevzťahujú na poplatníkov, pre ktorých je v meste zavedený
+vážený množstvový zber komunálneho odpadu, ak sú do neho zapojení od začiatku
+zdaňovacieho obdobia (ďalej len „nepaušálni poplatníci“).
+
+       2. Nepaušálny poplatník platí poplatok za odpad preddavkovým spôsobom (ďalej len
+„preddavok“).
+
+       3. Sadzba preddavku je 0,06 € za jeden liter komunálnych odpadov.
+
+      4. Pre nepaušálneho poplatníka je v meste zavedený vážený množstvový zber
+drobného stavebného odpadu, pričom sadzba poplatku za odpad je 0,13 € za jeden kilogram
+drobných stavebných odpadov.
+
+       5. Mesto určuje preddavok na zdaňovacie obdobie ako súčin sadzby preddavku podľa
+odseku 3, objemu zbernej nádoby, ktorú nepaušálny poplatník užíva v rámci váženého
+množstvového zberu komunálneho odpadu v zmysle odseku 1, a počtu jej vývozov za
+príslušný kalendárny rok, ktoré sú stanovené v harmonograme podľa osobitného predpisu;
+zúčtovanie preddavku sa vykonáva podľa § 79a ods. 2 a § 81 ods. 2 alebo 4 zákona o
+miestnych daniach.
+
+
+
+
+                                           12/17
+        6. Preddavok sa zníži o 50 %, ak ide o fyzickú osobu staršiu ako 70 rokov. Ak
+nepaušálnym poplatníkom je poplatník v zmysle § 15 odsek 2 písm. c), zníženie preddavku
+podľa prvej vety sa uplatní alikvotne za každú osobu, za ktorú plní povinnosti poplatníka
+podľa § 77 ods. 7 zákona o miestnych daniach, pokiaľ ňou je fyzická osoba staršia ako 70
+rokov. O 50 % sa zníži aj suma skutočných nákladov váženého množstvového zberu
+komunálneho odpadu vypočítaná nepaušálnemu poplatníkovi v zmysle § 79a ods. 5 alebo 6
+zákona o miestnych daniach, ak ide o fyzickú osobu staršiu ako 70 rokov; ustanovenie druhej
+vety tu platí obdobne.
+
+       7. Na účely tohto VZN sa preddavok považuje za miestny poplatok.
+
+       8. Komunálnym odpadom sa rozumie zmesový komunálny odpad v zmysle osobitného
+predpisu.
+
+
+                                             § 15
+
+        1. Poplatok za odpad alebo preddavok od poplatníkov pre mesto vyberá a za jeho
+vybratie mestu ručí:
+a) vlastník nehnuteľnosti, ku ktorej sa im viaže poplatková povinnosť„ ak nejde o nehnuteľnosť,
+   ktorej vlastníkom je štát, vyšší územný celok alebo obec (ďalej len „súkromná
+   nehnuteľnosť“), alebo
+b) správca v zmysle osobitného predpisu, ak vlastníkom nehnuteľnosti, ku ktorej sa im viaže
+   poplatková povinnosť, je štát, vyšší územný celok alebo obec
+(ďalej len „platiteľ“).
+Ak je súkromná nehnuteľnosť v spoluvlastníctve alebo je ňou bytový dom, poplatok za odpad
+alebo preddavok od poplatníkov, na ktorých sa vzťahuje písm. a), pre mesto vyberá a za jeho
+vybratie mestu ručí zástupca platiteľa písomne určený spoluvlastníkmi súkromnej
+nehnuteľnosti, pokiaľ s uskutočňovaním výberu poplatku za odpad alebo preddavku a ručením
+za jeho vybratie v zmysle prvej vety (ďalej len „hromadný výber poplatku za odpad alebo
+preddavku“) písomne súhlasí. Ak nedošlo k určeniu zástupcu platiteľa podľa druhej vety,
+spomedzi spoluvlastníkov súkromnej nehnuteľnosti ho písomne určí mesto, pokiaľ
+s uskutočňovaním hromadného výberu poplatku za odpad alebo preddavku vyjadrí písomný
+súhlas.
+
+        2. Poplatník je povinný do 30 kalendárnych dní odo dňa vzniku poplatkovej povinnosti
+písomne oznámiť mestu jej vznik a uviesť:
+a) svoje identifikačné údaje, ak je osobou podľa § 12 odsek 1 písm. a) až c),
+b) svoj názov alebo obchodné meno, IČO a sídlo alebo miesto podnikania, ak je osobou podľa
+   § 12 odsek 1 písm. d) alebo e),
+c) identifikačné údaje iných osôb, ak za nich plní povinnosti poplatníka podľa § 77 ods. 7
+   zákona o miestnych daniach,
+d) údaje rozhodujúce na určenie:
+   1d. poplatku za odpad podľa § 13 odsek 3 alebo
+   2d. preddavku podľa § 14 odsek 5;
+v rovnakej lehote je poplatník povinný mestu písomne oznámiť zánik poplatkovej povinnosti.
+
+       3. Poplatník je povinný písomne oznámiť mestu každú zmenu skutočností uvedených
+v odseku 2, a to do 30 kalendárnych dní odo dňa, keď táto zmena nastala.
+
+        4. Ak si poplatník nesplní oznamovacie povinnosti podľa odsekov 2 a 3, mesto ho
+písomne vyzve na ich splnenie v dodatočnej lehote, a to 8 kalendárnych dní odo dňa doručenia
+mu tejto výzvy. Ustanovenie prvej vety platí iba v prípade, ak mesto na základe vlastných
+zistení disponuje informáciami, ktoré zakladajú postup v zmysle prvej vety.
+
+
+
+
+                                            13/17
+        5. Ak si poplatník nesplní oznamovacie povinnosti podľa odsekov 2 a 3 ani na základe
+výzvy podľa odseku 4, pokiaľ bol dôvod na jej urobenie, mesto prihliadne na oznámenia
+v zmysle odsekov 2 a 3, ktoré poplatník vykonal po uplynutí lehôt uvedených v odsekoch 2
+až 4, iba s platnosťou spätne 30 kalendárnych dní predchádzajúcich dňu, keď boli tieto
+oznámenia mestu podané; mesto je oprávnené prihliadnuť spätne aj na dlhší časový úsek,
+ktorý z týchto oznámení vyplýva, ak je to v prospech mesta.
+
+      6. Ustanovenie odseku 5 platí primerane aj v prípade, ak skutočnosti uvedené v
+odseku 2 alebo ich zmeny zistí mesto bez súčinnosti poplatníka, pokiaľ je to nepochybné.
+
+       7. Poplatok za odpad alebo preddavok vyrubí mesto rozhodnutím okrem poplatku za
+odpad, ktorý sa vzťahuje na vážený množstvový zber drobného stavebného odpadu (ďalej len
+„poplatok za drobný stavebný odpad“), ktorý mesto určuje pre poplatníka podľa § 13 odsek 2
+alebo nepaušálneho poplatníka ako súčin príslušnej sadzby poplatku za odpad a skutočného
+množstva drobného stavebného odpadu odváženého na zbernom dvore mesta; poplatok za
+drobný stavebný odpad sa uhrádza v hotovosti naraz pracovníkovi zberného dvora mesta pri
+odovzdaní drobného stavebného odpadu na zbernom dvore mesta, o čom sa poplatníkovi
+podľa § 13 odsek 2 alebo nepaušálnemu poplatníkovi vydá účtovný doklad. Na poplatok za
+drobný stavebný odpad sa nevzťahujú odseky 1 až 6 a 8, § 13 odsek 3 až 15 a § 14 odsek 2, 3
+a 5 až 8.
+
+      8. Poplatníkovi v zmysle odseku 2 písm. c) sa vyrubí poplatok za odpad alebo
+preddavok v sume za všetky osoby, za ktoré plní povinnosti poplatníka podľa § 77 ods. 7
+zákona o miestnych daniach.
+
+       9. Poplatníkovi, ktorým je fyzická osoba mladšia ako 70 rokov, ktorá mestu preukáže,
+že je zdravotne postihnutá diagnózou majúcou za následok zvýšenú tvorbu komunálneho
+odpadu, mesto môže poskytnúť mestské nákupné poukážky v sume 70,00 €/kalendárny rok;
+mestské nákupné poukážky možno poskytnúť iba poplatníkovi, v prípade ktorého poplatok za
+odpad vyrubený na príslušný kalendárny rok prevyšuje 50,00 €; mestské nákupné poukážky
+nemožno poskytnúť poplatníkovi, ktorý nemá v meste trvalý pobyt.
+
+       10. O poskytnutie mestských nákupných poukážok v zmysle odseku 9 je poplatník
+povinný mesto požiadať, a to písomne (ďalej len „žiadosť“). Pre účel preukázania skutočnosti
+podľa odseku 9 je poplatník povinný predložiť mestu potvrdenie o tom, že je zdravotne
+postihnutý diagnózou majúcou za následok zvýšenú tvorbu komunálneho odpadu, ktoré je
+vystavené jeho ošetrujúcim lekárom a vzťahuje sa na príslušný kalendárny rok (ďalej len
+„lekárske potvrdenie“).
+
+      11. Žiadosť, lekárske potvrdenie a prehlásenie podľa odseku 12 (ďalej len
+„dokumenty“) je poplatník povinný predložiť mestu najneskôr do 30.09. prísluš

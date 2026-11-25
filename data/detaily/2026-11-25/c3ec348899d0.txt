@@ -1,0 +1,438 @@
+URL: https://www.podolinec.eu/resources/File/navrh-rozpoctu-mesta-podolinec-na-rok-2027.pdf
+OBEC: Podolínec (Stará Ľubovňa)
+NÁZOV: Stiahnuť hlavný dokument
+ZDROJ: web obce
+
+                                                Návrh rozpočtu mesta Podolínec na rok 2027
+                                                                                                        2026           2026
+Ek.klas            Text                                                                                                                 2027
+                                                                                                      schválený       upravený
+
+Príjmová časť
+111003             Výnos dane z príjmov                                                               1 607 421,00    1 691 017,00    1 842 520,00
+121001             Daň z nehnuteľnosti - pozemky                                                         60 000,00        5 308,00       25 000,00
+121002             Daň z nehnuteľnosti -stavby                                                           45 000,00       59 761,00       59 000,00
+121003             Daň z nehnuteľnosti -byty                                                              7 000,00        8 400,00        8 400,00
+131001             Daň za psa                                                                             2 500,00        2 500,00        2 500,00
+133012             Daň za verejné priestranstvo                                                           2 100,00        2 100,00        2 100,00
+133013             Poplatok za komunálny odpad                                                          112 500,00      112 500,00      121 533,00
+139002             Zo zrušených miestnych poplatkov                                                           0,00            0,00            0,00
+100                Daňové príjmy spolu                                                                1 836 521,00    1 881 586,00    2 061 053,00
+211003             Dividenda PVS                                                                              0,00        2 073,45            0,00
+211004             Iné príjmy - z LMP                                                                         0,00       25 000,00            0,00
+212002             Príjmy z prenajatých pozemkov                                                         26 000,00       26 000,00       26 000,00
+212002 - 46 40     Príjmy z prenajatých pozemkov - hrobové miesta                                         1 500,00        1 500,00        1 500,00
+                   Príjmy z prenaj. nebyt. priest a bytov                                               205 500,00      221 500,00      221 500,00
+212003                                                                  budovy, garáže a ostatné         100 000,00      100 000,00      100 000,00
+212003 - 46 30                                                                                MsKS         5 000,00        5 000,00        5 000,00
+212003 - 46 50                                                                       Chata Kyčora          3 000,00        3 000,00        3 000,00
+212003 - 66                                                                                 bytové        56 000,00       56 000,00       56 000,00
+                                                                                           Vináreň         1 500,00        1 500,00        1 500,00
+                                                                                           Kasárne        40 000,00       56 000,00       56 000,00
+212004                                          Príjmy z prenajatých strojov, prístrojov, zariadení       5 000,00        5 000,00        5 000,00
+                   Správne poplatky                                                                       9 300,00       11 200,00       11 200,00
+221002                                                                                  ostatné            3 000,00        3 000,00        3 000,00
+221002 - 13 3                                                                            matrika           1 300,00        1 400,00        1 400,00
+221002 - 44 5                                                   stavebný úrad - správny poplatok           5 000,00        6 800,00        6 800,00
+222003             Príjem za porušenie predpisov                                                          2 000,00        2 800,00        2 500,00
+                   Poplatky za predaj výrobkov, tovarov a služieb                                        41 630,00       41 630,00       39 030,00
+223001                                                               za predaj výrobkov a služieb          8 000,00        5 000,00        5 000,00
+223001 - 33 01                                                             protipožiarna ochrana           6 000,00        6 000,00        6 000,00
+223001 - 42                                                                               kultúra          4 800,00        4 800,00        5 000,00
+223001 - 42 42 5                                                             Podolínsky jarmok             6 000,00        6 000,00        6 000,00
+223001 - 46 60                                                                       dom smútku            2 000,00        2 000,00        2 000,00
+223001 - 46 40 6                                                                      sviečkomat             800,00          800,00            0,00
+223001 - 61 03                                                                    IOMO poplatky               30,00           30,00           30,00
+223001 - 61 15                                                     domáca opatrovateľská služba                0,00            0,00            0,00
+223001 - 61 22                                                                  zmluva o reklame           2 000,00        2 000,00            0,00
+                                                                                        Parkovné               0,00        3 000,00        3 000,00
+223001 - 45              Príjem za poskytovanie služieb Spol. stavebný úrad Podolínec - Lomnička          12 000,00       12 000,00       12 000,00
+223004             prebytočný hnuteľný mjetok                                                                 0,00            0,00            0,00
+229005             Za znečisťovanie ovzdušia                                                                330,00          330,00          330,00
+244                Z účtov finančného hospodárenia - úroky z bankových účtov                              3 000,00          500,00          500,00
+292006             Z náhrad z poistného plnenia                                                               0,00            0,00            0,00
+292008             Z výťažkov lotérií a iných podobných hier                                                  0,00            0,00            0,00
+292027             Príjem za škody                                                                            0,00            0,00            0,00
+292012             Z dobropisov                                                                               0,00            0,00            0,00
+292017             Z vratiek                                                                                  0,00            0,00            0,00
+292027 - 61 77     Iné - náhrada škody                                                                        0,00          248,00            0,00
+292027 - 61 77 5   Iné - vykúpenie z viazanosti                                                               0,00        1 116,00            0,00
+200000             Vlastné príjmy školy                                                                  69 104,00       67 100,57       70 450,00
+300000             Vlastné príjmy školy-školská jedáleň                                                  50 000,00       50 000,00            0,00
+200                Nedaňové príjmy spolu                                                                413 364,00      455 998,02      378 010,00
+312001 - 13 3      Dotácia na matriku                                                                    16 700,00       17 816,83       17 816,00
+312001 - 45        Dotácia na stavebný úrad a životné prostredie                                          5 550,00        5 550,00        5 550,00
+312001 - 61 10     Dotácia - rodinné prídavky                                                             4 000,00        6 424,00        6 424,00
+312001 - 71 5      Dotácia - strava, školské potreby                                                    100 000,00      100 000,00      100 000,00
+312001 - 61 61     Dotácia na správu - evidencia obyvateľov                                               1 050,00        1 035,04        1 035,00
+312001 - 71        Dotácia na prenes. kompetencie ZŠ a MŠ                                             1 850 061,00    2 032 282,68    2 214 650,00
+312001 - 71 8      MŠ – projekt EÚ NIVAM Pomáhajúce profesie III. (POP III.)                             26 296,00       28 696,40            0,00
+312001 - 71 8      ZŠ – projekt EÚ NIVAM Pomáhajúce profesie III. (POP III.)                                  0,00            0,00            0,00
+312001 - 73        Príjem zo ŠR Duálne vzdelávanie                                                       24 000,00       24 000,00       24 000,00
+312001 - 16 1      Dotácie voľby                                                                          2 000,00        2 000,00        2 000,00
+312007 - 95 02     Príjem pre CVČ od iných obcí                                                               0,00            0,00            0,00
+311                Granty, sponzorské                                                                         0,00          200,00            0,00
+311-33 01          Granty, sponzorské DHZ                                                                     0,00          700,00            0,00
+312001 - 33 03     Dotácia pre DHZ                                                                        5 000,00        5 000,00        7 000,00
+312001 - 11 62     Dotácia - úrad práce I + II                                                           10 000,00       10 000,00       10 000,00
+312001 - 51 53     Dotácia MOPS                                                                          67 734,57       67 734,57            0,00
+312001 - 61 50     Dotácia NP Ľudia a hrady                                                                   0,00            0,00            0,00
+312001 - 61 45     Dotácia - TSP                                                                         26 650,00       35 000,00       35 000,00
+312001 - 61 15     Projekt - domáca opatrovateľská služba                                                     0,00            0,00            0,00
+ 312001 - 61      Odmeny 800€                                                                                 0,00           0,00           0,00
+ 312001-71 13     Paušálne príjmy NFP Telocvičňa ZŠ s MŠ                                                      0,00     148 107,18           0,00
+ 312001-14 11     Pušálne príjmy NFP Zvýšenie bezpečnosti ul. J. Smreka                                       0,00      22 467,37           0,00
+ 312001-61 27     Paušálne príjmy NFP Cyklocesta úprava a rekonštrukcia                                       0,00      54 013,29      54 013,29
+ 300              Transfery spolu                                                                     2 139 041,57   2 561 027,36   2 477 488,29
+ BEŽNÉ PRÍJMY SPOLU                                                                                   4 388 926,57   4 898 611,38   4 916 551,29
+ 322001 - 72 5    NFP - PD cyklotrasa                                                                         0,00           0,00           0,00
+ 322001 - 61 72   Dotácia úrad vlády - miestna komunikácia                                                    0,00           0,00           0,00
+ 239200 - 61 14   Kapitálové príjmy ostatné - zriadenie vecného bremena                                       0,00           0,00           0,00
+ 231 - 61 04      Z predaja budov                                                                             0,00           0,00           0,00
+ 231              Z predaja kapitálových aktív                                                                0,00           0,00           0,00
+ 233001 - 61 04   Z predaja pozemkov a pozemkov v IBV                                                         0,00     180 000,00           0,00
+ 322001 - 32 18 5 Cyklotrasa Podolínec - Vyšné Ružbachy - NFP                                                 0,00           0,00           0,00
+ 322001 - 71 4    Prístavba Materskej škôlky vrátane vybavenia - NFP                                          0,00           0,00           0,00
+                  Cezhraničná spolupráca obcí patriacich do združenia gmin povodia rieky
+                  Wisloka a Prešovského samosprávneho kraja pri zvyšovaní odolnosti voči
+ 322001 - 33 05   prírodným katastrofám v dôsledku klimatických zmien posilnením spolupráce                  0,00           0,00           0,00
+                  záchranných zložiek v oblasti krízového manažmentu
+ 322001 - 61 25   detské ihrisko ul. Bernoláková - dotácia                                                    0,00           0,00          0,00
+                  NFP Rekonštrukcia chodníka na cintoríne                                                     0,00           0,00          0,00
+                  NFP Rekreačno-náučná cesta do Doliny v Podolínci                                            0,00           0,00          0,00
+                  Dotácia BD Námestie Mariánske č. 39                                                         0,00           0,00          0,00
+                  Dotácia Rekonštrukcia domu smútku                                                           0,00           0,00          0,00
+                  Dotácia SFZ - zavlažovanie ihriska                                                          0,00           0,00          0,00
+                  NFP Telocvičňa ZŠ s MŠ v Podolínci                                                  2 317 853,60   2 115 816,92          0,00
+                  Podolínske strašidlo - bronzová socha NFP                                                   0,00           0,00          0,00
+                  NFP Zvýšenie bezpečnosti ciest Hliník, Družstevná, J. Smreka                          362 060,05     320 962,45          0,00
+                  NFP Cyklocesta úprava a rekonštrukcia                                                 828 747,24     771 618,42    771 618,42
+ KAPITÁLOVÉ PRÍJMY SPOLU                                                                              3 508 660,89   3 388 397,79    771 618,42
+ 456005 - 61 03   IOMO                                                                                       30,00          30,00         30,00
+ 454001           Presun prostriedkov z rezervného fondu                                                      0,00           0,00          0,00
+ 453              Prostriedky z predchádzajúcich rokov                                                        0,00           0,00          0,00
+ 513001-14 11     J. Smreka, Družstevná, Hliník - prekleňovací úver                                           0,00     352 340,60          0,00
+ 514002           Modernizácia verejného osvetlenia v meste Podolínec                                         0,00           0,00          0,00
+ PRÍJMY - FINANČNÉ OPERÁCIE SPOLU                                                                            30,00     352 370,60         30,00
+                                        PRÍJMY SPOLU                                                  7 897 617,46   8 639 379,77   5 688 199,71
+Výdavková časť
+ 633016            reprezentačné výdavky                                                                 2 700,00       2 700,00       3 000,00
+ 642002            dotácie - transfer neziskovým organizáciám                                           39 000,00      46 000,00      40 000,00
+ 642 200           mikrodotácie                                                                          2 400,00       2 400,00       3 000,00
+Podprogram 1.1 Výkon funkcie primátora                                                                  44 100,00      51 100,00      46 000,00
+                   OSOBNÉ NÁKLADY                                                                      436 858,00     569 496,00     664 660,00
+ 610                                                                       Mzdové prostriedky          309 700,00     412 900,00     482 280,00
+ 611                             mzdové prostriedky - tarifny plat + príplatky - zamestnanci MsÚ        190 000,00     284 200,00     330 000,00
+ 611                                                        mzdové prostriedky - primátor mesta          52 000,00      52 000,00      55 680,00
+ 611                                                        mzdové prostriedky - hlavný konrolór          6 700,00       6 700,00       6 900,00
+                                                                                    životné jubileá           0,00           0,00       2 700,00
+ 612001                                                                           osobný príplatok       61 000,00      70 000,00      77 000,00
+ 614                                                                                      odmeny              0,00           0,00      10 000,00
+ 616                                                                 doplatok k platu a ďalší plat            0,00           0,00           0,00
+ 620                                                                                      Odvody       127 158,00     156 596,00     182 380,00
+ 621                                                            Poistné do zdravotných poisťovní
+ 625001                                                                    Nemocenské poistenie
+ 625002                                                                        Starobné poistenie
+ 625003                                                                         Úrazové poistenie       119 000,00     148 438,00     173 380,00
+ 625004                                                                        Invalidné poistenie
+ 625005                                                              Poistenie v nezamestnanosti
+ 625007                                                 Poistenie do rezervného fondu solidarity
+ 627                                                             doplnkové dôchodkové sporenie            8 158,00       8 158,00       9 000,00
+ 631001            CESTOVNÉ                                                                                500,00         500,00         500,00
+ 632               ENERGIE, POŠTOVÉ a TELEKOMUNIKAČNÉ SLUŽBY                                           138 742,00     141 122,00     141 420,00
+ 632006            Elektrická energia                                                                   47 200,00      48 700,00      48 700,00
+ 632006                                                                   Elektrická energia, plyn       30 000,00      30 000,00      30 000,00
+ 632006 - 07 1                                                                            NC Shop           500,00       1 600,00       1 600,00
+ 632006 - 22 1                                                                           Lesy s.r.o       1 500,00       1 500,00       1 500,00
+ 632006 - 44                                                                  nájomný dom č. 10           4 400,00       4 400,00       4 400,00
+ 632006 - 46 1                                                                         Dom služieb        2 700,00       2 700,00       2 700,00
+ 632006 - 46 20 1                                                                            ObZS         2 900,00       2 900,00       2 900,00
+ 632006 - 42 12 1                                                                         Knižnica          800,00         800,00         800,00
+ 632006 - 46 30 1                                                                            MsKS         2 200,00       2 200,00       2 200,00
+ 632006 - 46 50                                                                      Chata Kyčora         1 100,00       1 100,00       1 100,00
+ 632006 - 46 60                                                                            Vináreň        1 100,00       1 500,00       1 500,00
+ 632007            Plyn                                                                                 51 300,00      51 300,00      51 300,00
+ 632007 - 07 3                                                                            NC Shop         8 000,00       8 000,00       8 000,00
+ 632007 - 22 3                                                                           Lesy s.r.o       4 000,00       4 000,00       4 000,00
+632007 - 46 3                                                                      Dom služieb       16 000,00    16 000,00     16 000,00
+632007 - 46 20 3                                                                         ObZS         9 000,00     9 000,00      9 000,00
+632007 - 42 12 3                                                                      Knižnica        4 200,00     4 200,00      4 200,00
+632007 - 46 30 3                                                                         MsKS        10 000,00    10 000,00     10 000,00
+632007 - 61 70                                                                        Kasárne           100,00       100,00        100,00
+632002             Vodné, stočné                                                                    30 002,00    30 802,00     31 100,00
+632002                                                                          Vodné, stočné        21 102,00    20 702,00     21 000,00
+632002 - 07 5                                                                        NC Shop            500,00       800,00        800,00
+                                                                                   AS - stánok          400,00       400,00        400,00
+632002 - 46 5                                                                     Dom služieb         1 150,00     1 150,00      1 150,00
+632002 - 44 5                                                              nájomný dom č. 10              0,00       400,00        400,00
+632002 - 46 20 5                                                                         ObZS           900,00     1 500,00      1 500,00
+632002 - 42 12 5                                                                      Knižnica          300,00       300,00        300,00
+632002 - 46 30 5                                                                         MsKS         1 700,00     1 700,00      1 700,00
+632002 - 61 70                                                                        Kasárne         3 200,00     3 200,00      3 200,00
+632002 - 48                                                                   Fitnes-Reľovská           200,00       200,00        200,00
+632002 - 61 2                                                                       Baštová 2           100,00         0,00          0,00
+632002 - 46 60                                                                         Vináreň          450,00       450,00        450,00
+632003             Poštové a telekomunikačné služby                                                  5 000,00     5 000,00      5 000,00
+632003                                                                          Poštové služby        5 000,00     5 000,00      5 000,00
+632004             Komunikačná infraštruktúra                                                            0,00       240,00        240,00
+632004                                                                        Knižnica-internet           0,00       240,00        240,00
+632005             Telekomunikačné služby                                                            5 240,00     5 080,00      5 080,00
+632005                                                                                 Telefón        5 000,00     5 000,00      5 000,00
+632005 - 42 12 7                                                             Telefón - knižnica         240,00        80,00         80,00
+633                MATERIÁLOVÉ NÁKLADY                                                              55 569,80    59 621,80     65 857,02
+633001             Interiérové vybavenie                                                             3 000,00     3 000,00      3 000,00
+633001-46 30       Interiérové vybavenie - MsKs                                                          0,00     6 000,00          0,00
+633002             Výpočtová technika                                                                3 000,00     4 800,00     15 000,00
+633003             Telekomunikačná technika                                                            300,00       500,00        500,00
+633004             Prevádzkové stroje, prístroje, technika .....                                       500,00       500,00        500,00
+633005             Kamerový systém                                                                   1 000,00     1 000,00      1 000,00
+633006             Všeobecný materiál                                                               37 569,80    33 369,80     35 557,02
+633006                                                                      Všeobecný materiál       27 519,80    22 519,80     25 057,02
+633006 - 46 30                                                      Všeobecný materiál - MsKS           500,00       600,00        500,00
+633006 - 42 12                                                   Všeobecný materiál - knižnica          500,00       500,00        500,00
+633006 - 4                                                                  Čistiace prostriedky        600,00       600,00        600,00
+633006 - 46 4                                               Čistiace prostriedky - Dom služieb          300,00       300,00        300,00
+633006 - 46 20 4                                                    Čistiace prostriedky - ObZS         300,00       300,00        300,00
+633006 - 46 30 4                                                    Čistiace prostriedky - MsKS         500,00       600,00        500,00
+633006 - 8                                                                 Kancelárske potreby        6 000,00     6 000,00      6 000,00
+633006 - 8                                                       Kancelárske potreby - matrika            0,00         0,00          0,00
+633006 - 8 42                                                   Kancelárske potreby - knižnica            0,00         0,00          0,00
+633006 - 46 50                                             Všeobecný materiál - Chata Kyčora            600,00     1 200,00      1 000,00
+633006 - 46 50 4                                           Čistiace prostriedky - Chata Kyčora          150,00       150,00        200,00
+633006 - 46 60                                                    Všeobecný materiál - Vináreň          600,00       600,00        600,00
+633009             Knihy, časopisy, noviny ...                                                         800,00       952,00        800,00
+633009 - 42 12     Knihy, časopisy, noviny ... - knižnica                                              800,00       800,00        800,00
+633010             Pracovné odevy, obuv, pomôcky                                                     2 500,00     2 500,00      2 500,00
+633013             Softvér a licencie                                                                3 000,00     3 100,00      3 100,00
+633016 - 61 77     reprezentačné výdavky - správa ostatné                                            3 000,00     3 000,00      3 000,00
+633016 - 42 12     reprezentačné výdavky - Knižnica                                                    100,00       100,00        100,00
+634                NÁKLADY NA DOPRAVU                                                                9 600,00    12 615,00     12 600,00
+634001             Palivo (phm)                                                                      2 500,00     5 000,00      5 000,00
+634002             Servis, údržba a opravy                                                           5 000,00     5 000,00      5 000,00
+634003             Poistenie                                                                         2 000,00     2 500,00      2 500,00
+634004             Prepravné a nájom dopravných prostriedkov                                             0,00         0,00          0,00
+634005             Karty, známky, poplatky                                                             100,00       115,00        100,00
+635                ÚDRŽBA VT, PRÍSTROJOV, BUDOV a ZARIADENÍ                                         27 000,00    22 000,00     30 000,00
+635002             Údržba výpočtovej techniky                                                          500,00       479,00        500,00
+635004             Údržba prev. strojov, prístrojov, techn. a náradia                                3 000,00     3 000,00      3 000,00
+635004             Údržba špeciálnch strojov, prístrojov a ObZS                                          0,00         0,00          0,00
+635006             Údržba budov, objektov a ich častí                                               10 000,00     5 000,00     10 000,00
+635006 - 46 60     Údržba budov, objektov a ich častí - Vináreň                                        500,00       500,00      1 500,00
+635006 - 46 50     Údržba budov, objektov a ich častí - Chata Kyčora                                 1 000,00     1 000,00      1 000,00
+635009             Údržba softvéru                                                                  12 000,00    12 021,00     14 000,00
+636                PRENÁJOM                                                                          5 904,00     7 810,00      7 690,00
+636001             Prenájom budov, objektov a ich častí - pozemkov                                     504,00       860,00        860,00
+636002             Prenájom prev. strojov, prístrojov, techn. a náradia                                  0,00     1 250,00      1 250,00
+636002-46 40 2     Prenájom prev. strojov, prístrojov, techn. a náradia-sviečkomat                       0,00       300,00          0,00
+636005 - 34 2      Prenájom s právom kúpy pren.veci - Parkovací automat                              5 400,00     5 400,00      5 580,00
+637                SLUŽBY a DOHODY                                                                 295 750,00    98 500,00    106 650,00
+637001             Školenia, kurzy, semináre, porady ...                                             2 000,00     2 100,00      3 000,00
+637003             Propagácia, reklama a inzercia                                                       50,00         0,00         50,00
+637004             Všeobecné služby                                                                212 000,00    26 000,00     27 000,00
+ 637004                                                                           Všeobecné služby        30 000,00       23 000,00       25 000,00
+ 637004 - 42 71                                                        Všeobecné služby - časopis          1 000,00        1 000,00            0,00
+ 637004 - 46 30 5                                                        Všeobecné služby - MsKS           1 000,00        1 000,00        1 000,00
+ 637004 - 46 50                                                   Všeobecné služby - chata Kyčora              0,00        1 000,00        1 000,00
+                         Všeobecné služby - údržba, čistota mesta, správa budov a ďalších služieb
+                                                                                                         180 000,00            0,00            0,00
+ 637004 - 88                                                 týkajúcich sa verejných priestranstiev
+ 637005             Špeciálne služby                                                                     30 000,00       23 650,00       25 000,00
+ 637006             Náhrady                                                                                 100,00          100,00          100,00
+ 637007             Cestovné náhrady                                                                        350,00            0,00            0,00
+ 637009             Náhrada platu                                                                             0,00            0,00            0,00
+ 637011             Štúdie, expertízy, posudky                                                              400,00          400,00          400,00
+ 637012             Poplatky, dane                                                                        5 300,00        5 300,00        5 300,00
+ 637014             Stravovanie - zamestnanci                                                            16 930,00       16 930,00       17 000,00
+ 637014                                                            Stravovanie zamestnanci - MsÚ          16 000,00       16 000,00       16 050,00
+ 637014                                                                      Stravovanie - matrika           930,00          930,00          950,00
+ 637014 - 61 45                                                                  Stravovanie - TSP             0,00            0,00            0,00
+ 637015             Poistné                                                                               8 100,00        9 000,00       11 000,00
+ 637016             Prídel do sociálneho fondu                                                            5 520,00        5 520,00        5 300,00
+ 637016                                                                        Sociálny fond - MsÚ         4 500,00        4 500,00        4 500,00
+ 637016                                                                     Sociálny fond - matrika          350,00          350,00          350,00
+ 637016 - 61 45                                                                Sociálny fond - TSP           450,00          450,00          450,00
+ 637016 - 61 50                                                      Sociálny fond - Ľudia a hrady             0,00            0,00            0,00
+ 637016 - 51 53                                                              Sociálny fond - MOPS            220,00          220,00            0,00
+ 637026 - 42 62     Odmeny a príspevky (SOZA, Slovgram)                                                   7 000,00        2 000,00        2 000,00
+ 637027             Odmeny - dohody o prácach mimo prac. pomeru                                           7 000,00        7 000,00       10 000,00
+ 637030             Preddavky - pokladňa                                                                      0,00            0,00            0,00
+ 637031             Pokuty, penále                                                                            0,00            0,00            0,00
+ 637032             Zúčtovanie miezd                                                                          0,00            0,00            0,00
+ 637200 - 61 14     Ostatné - správa                                                                          0,00            0,00            0,00
+ 637035             Dane                                                                                  1 000,00          500,00          500,00
+ 642                TRANSFERY JEDNOTLIVCOM                                                               14 025,00       14 315,00       23 425,00
+ 642012                                                                                   Odstupné             0,00            0,00            0,00
+ 642001                                                         OZ, nadácii, neinvestičnému fondu          3 600,00        4 800,00        7 000,00
+ 642013                                                                                  Odchodné              0,00            0,00        6 000,00
+ 642014 61 40                                       Jednotlivcom - ocenenia "Beh Soviou poľanou"             910,00            0,00          910,00
+ 642014 - 43                                              Transfer jednotlivcom sociálna podpora             500,00          500,00          500,00
+ 642014 - 73                                                    Jednotlivcom - duálne vzdelávanie          9 000,00        9 000,00        9 000,00
+ 642014 - 80                                                                Jednotlivcom - ostatné            15,00           15,00           15,00
+ 651                ÚROKY Z ÚVEROV                                                                       19 056,02       19 056,02       17 337,41
+ 651002                                                                             banke - SZaRB          7 200,00        7 200,00        5 800,00
+ 651003 - 1                                                                    ŠFRB - ul. Sv. Anny         1 973,66        1 973,66        1 751,46
+ 651003 - 14 5                                                                     ŠFRB - ul. Lesná        3 582,36        3 582,36        3 485,95
+ 651002 71 4                                                                     Úver Prístavba MŠ         6 000,00        6 000,00        6 000,00
+ 651003 47                                          Úver Verejné osvetlenie Environmentálny fond             300,00          300,00          300,00
+Podprogram 1.2 Výkon administratívy a prevádzky                                                       1 003 004,82      945 035,82    1 070 139,43
+Podprogram 1.3 Členské príspevky - členstvo v samospávnych org. a združ. (642006)                         3 400,00        4 250,00        4 250,00
+Podprogram 1.4 Komunikácia s inšt. a obyv.-komunikačná infraštruktúra internet (632004)                     400,00        2 370,00        2 370,00
+Podprogram 1.6 Účtovníctvo - audit - špeciálne služby AUDIT (637005)                                      6 000,00        6 000,00        6 500,00
+Podprogram 1.7 Evidencia ulíc a budov - materiál a služby - všeobecný materiál (633006)                        0,00            0,00            0,00
+Program č. 1: Manažment a kontrola                                                                    1 056 904,82    1 008 755,82    1 129 259,43
+ 621                  Poistné do zdravotných poisťovní                                                     2 200,00        2 200,00        2 200,00
+ 625                  Poistné do sociálnej poisťovne                                                       5 800,00        5 800,00        5 800,00
+ 637                  Odmeny a príspevky                                                                  23 000,00       23 000,00       23 000,00
+Podprogram 2.1 Zasadnutia orgánov mesta                                                                  31 000,00       31 000,00       31 000,00
+Podprogram 2.2 Zabezpečenie úkonov s voľbami                                                              2 000,00        2 000,00        2 000,00
+Program č. 2: Interné služby mesta                                                                       33 000,00       33 000,00       33 000,00
+ 633006 - 61 61       Všeobecný materiál - ZPOZ                                                              200,00          200,00            0,00
+ 633010 - 61 61       Pracovné prostriedky - ZPOZ                                                            100,00          100,00            0,00
+ 637027 - 61 61       Odmeny za práce mimo pracovného pomeru (vrátane odvodov)                             1 000,00        1 000,00            0,00
+Podprogram 3.1 Organizácia obč. obradov                                                                   1 300,00        1 300,00             0,00
+ 633006 - 61 01       Všeobecný materiál - poplatky za psa                                                 1 000,00        1 000,00          500,00
+Podprogram 3.4 Evidencia psov v meste                                                                     1 000,00        1 000,00          500,00
+ 632001 - 46 40 1     Dom smútku - energie                                                                 5 000,00        5 000,00        5 000,00
+ 632002 - 46 40       Dom smútku - vodné a stočné                                                            100,00          100,00          100,00
+ 633006 - 46 40       Dom smútku - materiál                                                                1 000,00        1 000,00        1 000,00
+ 637004 - 46 40 5     Dom smútku - všeobecné služby ostatné                                                  200,00          200,00          200,00
+ 637004 - 46 40 2     Dom smútku - všeobecné služby (Bilák)                                                4 320,00        4 320,00        4 320,00
+Podprogram 3.6 Cintorínske a pohrebné služby                                                             10 620,00       10 620,00       10 620,00
+ 637004 - 49          Mestský rozhlas - všeobecné služby                                                     500,00          500,00          500,00
+Podprogram 3.7 Mestský rozhlas                                                                              500,00          500,00          500,00
+Program č. 3: Služby občanom                                                                             13 420,00       13 420,00       11 620,00
+ 633010 - 51 51       Pracovné odevy, obuv a pracovné pomôcky - MsP                                          500,00          500,00          500,00
+ 634001 - 51 51       Palivo, mazivá, špeciálne kvapaliny - MsP                                              600,00          800,00        1 000,00
+ 633006 - 51 51       Všeobecný materiál, dopravné značky                                                  2 000,00        7 200,00        2 000,00
+ 634002 - 51 51       Servis, údržba, opravy                                                                 500,00          500,00          500,00
+ 637001 - 51 51      Školenia, kurzy, semináre ...                                                              500,00          500,00          500,00
+ 633013 - 51 51      Softvér a licencie                                                                       1 400,00        1 400,00        1 400,00
+ 637004 - 51 51      Všeobecné služby - MsP                                                                   1 000,00          600,00          600,00
+Podprogram 4.1 Verejný poriadok a bezpečnosť                                                                 6 500,00       11 500,00        6 500,00
+ 631001 - 33 01      Cestovné                                                                                     0,00            0,00            0,00
+ 632001 - 33 01      Elektrická energia                                                                       1 200,00        1 200,00        1 200,00
+ 632002 - 33 01      Vodné a stočné                                                                             100,00          100,00          100,00
+ 633006 - 33 01      Všeobecný materiál                                                                       3 600,00        9 300,00        3 000,00
+ 633010 - 33 01      Pracovné odevy, obuv, pomôcky                                                            2 000,00        2 000,00        6 500,00
+ 633016 - 33 01      Reprezentačné                                                                            1 000,00        1 000,00        1 000,00
+ 634001 - 33 01      Palivo, mazivá, špeciálne kvapaliny                                                      1 500,00        1 700,00        2 000,00
+ 634002 - 33 01      Servis, údržba, opravy                                                                   3 000,00        1 130,00        3 000,00
+ 634005 - 33 01      Karty, známky, poplatky                                                                    100,00          100,00          100,00
+ 637001 - 33 01      Školenia, kurzy, semináre, porady ...                                                    1 000,00        1 000,00        1 500,00
+ 637002 - 33 01      Súťaže                                                                                   2 500,00          500,00        1 700,00
+ 637004 - 33 01      Všeobecné služby                                                                         2 000,00        1 766,00        1 500,00
+ 637006 - 33 01      Náhrady                                                                                      0,00          170,00            0,00
+ 637027 - 33 01      Odmeny zamestnancov mimopracovného pomeru                                                3 000,00            0,00            0,00
+ 637012 - 33 01      Poplatky a odvody                                                                            0,00           30,00           50,00
+ 637031 - 33 01      Pokuty, penále                                                                               0,00            0,00            0,00
+ 637036 - 33 01      Reprezentačné výdavky                                                                        0,00        1 004,00        1 000,00
+ 642006 - 33 01      Členské príspevky                                                                            0,00            0,00            0,00
+ 642014 - 33 01      Jednotlivcom                                                                               100,00          100,00          100,00
+Podprogram 4.2 Ochrana pred požiarmi                                                                        21 100,00       21 100,00       22 750,00
+Program č. 4: Bezpečnosť a poriadok                                                                         27 600,00       32 600,00       29 250,00
+ 633006 - 53         Všeobecný materiál - Ekos konvy                                                         4 000,00        4 000,00        4 000,00
+ 637004              Všeobecné služby                                                                      104 400,00      104 400,00      108 533,00
+ 637004 - 51                                                    Všeobecné služby - Ekos vrecia                  900,00          900,00        1 000,00
+ 637004 - 57                                               Všeobecné služby - Ekos zber šatstva                 500,00          500,00        1 500,00
+ 637004 - 52                                                 Všeobecné služby - Ekos kontajner               22 000,00       22 000,00       24 000,00
+ 637004 - 53                                                    Všeobecné služby - Ekos konvy                76 000,00       76 000,00       78 000,00
+ 637004 - 54                                                Všeobecné služby - Ekos VOO a NO                  5 000,00        5 000,00        4 033,00
+ 637012 - 52         Poplatok za likvidáciu TDO Environmentálnemu fondu                                     10 000,00       10 000,00        9 000,00
+Podprogram 5.1 Odvoz odpadu                                                                                118 400,00      118 400,00      121 533,00
+Program č. 5: Odpadové hospodárstvo                                                                        118 400,00      118 400,00      121 533,00
+ 633006 - 61 71      Všeobecný materiál                                                                      8 000,00        5 000,00        5 000,00
+ 635006 - 61 71      Údržba - pozemné komunikácie                                                           10 000,00        6 600,00        7 000,00
+ 637004 - 61 71     Všeobecné služby                                                                         3 000,00        1 000,00        1 500,00
+Podprogram 6.1 Správa a údržba pozemných komunikácii                                                        21 000,00       12 600,00       13 500,00
+ 633006 - 61 11     Všeobecný materiál - kvety a vianočná výzdoba                                            3 000,00        3 000,00        3 000,00
+ 637004 - 61 11     Všeobecné služby - kvety a vianočná výzdoba                                              3 000,00        3 000,00        2 000,00
+Podprogram 6.2 Správa a údržba verejných priestranstiev                                                      6 000,00        6 000,00        5 000,00
+Program č. 6: Pozemné komunikácie                                                                           27 000,00       18 600,00       18 500,00
+                      NEŠTÁTNE ŠKOLY a ŠKOLSKÉ ZARIADENIA                                                  345 119,44      423 465,78      471 374,27
+ 642004               Škola Sv. Klementa Hofbauera                                                          82 550,99      114 408,58      130 233,47
+ 642004                                                                         Školský internát ŠZŠI        66 717,00       98 493,42      112 464,00
+ 642004                                                                         Školská jedáleň ŠZŠI         15 833,99       15 915,16       17 769,47
+ 642004 - 95 02       CVČ pátra A. Krajčíka                                                                       0,00           0,00             0,00
+ 642005               Súkromná ZUŠ                                                                          262 568,45     309 057,20       341 140,80
+                      ZŠ s MŠ                                                                            2 236 622,00    2 453 443,33    2 582 816,00
+                                                                    ZŠ s MŠ - prenesené kompetencie       1 850 061,00    2 032 282,68    2 214 650,00
+                                               ŠKD, CVČ a ZŠ s MŠ Jedáleň - originálne kompetencie          241 161,00      275 363,68      297 716,00
+                      MŠ – originálne kompetencie (pokrytie výdavkov projektu POP I. – 12/2024...)                0,00            0,00            0,00
+                                         MŠ – projekt EÚ NIVAM Pomáhajúce profesie III. (POP III.)           26 296,00       28 696,40            0,00
+                                    ZŠ – originálne kompetencie pokrytie výdavkov projektu POP III.               0,00            0,00            0,00
+                                         ZŠ – projekt EÚ NIVAM Pomáhajúce profesie III. (POP III.)                0,00            0,00            0,00
+                                                  ZŠ s MŠ - originálne kompetencie - odmeny z KZVS                0,00            0,00            0,00
+                                                                      Školská jedáleň - vlastné príjmy       50 000,00       50 000,00            0,00
+                                                                             ZŠ s MŠ - vlastné príjmy        69 104,00       67 100,57       70 450,00
+                                                                           CVČ - príjem od iných obcí             0,00            0,00            0,00
+                                                                                                Vrátky            0,00            0,00            0,00
+Program č. 7: Vzdelávanie                                                                                2 581 741,44    2 876 909,11    3 054 190,27
+ 633006               Všeobecný materiál - kultúrna komisia                                                    600,00          600,00          600,00
+ 637002               Podujatia - kultúrna komisia                                                          30 000,00       30 000,00       30 000,00
+                      Úprava lyž. trate                                                                          0,00            0,00            0,00
+Podprogram 8.1 Podpora kultúrnych podujatí                                                                  30 600,00       30 600,00       30 600,00
+Program č. 8: Kultúra                                                                                       30 600,00       30 600,00       30 600,00
+ 632001 - 61 31       Elektrická energia - verejné osvetlenie                                               20 000,00       20 000,00       20 000,00
+ 633006 - 61 31       Všeobecný materiál                                                                     1 000,00        1 000,00        1 000,00
+ 637004 - 61 31       Všeobecné služby                                                                       1 000,00        1 000,00        1 000,00
+Podprogram 10.1 Verejné osvetlenie                                                                          22 000,00       22 000,00       22 000,00
+ 637004 - 61 21       Všeobecné služby                                                                           0,00            0,00            0,00
+ 633006 - 61 21       Všeobecný materiál                                                                         0,00            0,00            0,00
+ 633015 - 61 21       Palivá ako zdroj energie                                                                   0,00        1 500,00        2 000,00
+ 634001 - 61 21       Palivo, mazivá, špeciálne kvapaliny                                                        0,00          500,00          600,00
+ 635004 - 61 21       Údržba prevádzkových strojov a náradia                     0,00         0,00         0,00
+Podprogram 10.2 Verejná zeleň                                                     0,00    2 000,00     2 600,00
+Program č. 10: Prostredie pre život                                         22 000,00    24 000,00    24 600,00
+ 642014               Príspevok na stravu seniorom                           2 000,00     2 000,00     1 000,00
+                      Príspevok na sociálnu a opatrovateľskú službu          2 000,00     2 000,00     2 000,00
+Podprogram 11.1 Pomoc občanom v starobe                                      4 000,00     4 000,00     3 000,00
+ 633006 - 44          Transfer - Klub dôchodcov                              1 500,00     1 300,00     2 000,00
+ 633016 - 44          Repre - Klub dôchodcov                                     0,00       200,00         0,00
+Podprogram 11.2 Klub dôchodcov                                               1 500,00     1 500,00     2 000,00
+Program č. 11: Sociálne služby                                               5 500,00     5 500,00     5 000,00
+ 631001 - 66          Cestovné náhrady tuzemské                                 20,00        20,00        20,00
+ 632001 - 66          Energie                                                2 000,00     6 000,00     6 000,00
+ 632002 - 66          Vodné, stočné                                          8 500,00    10 000,00    10 000,00
+ 633006 - 66          Všeobecný materiál                                       500,00       500,00       500,00
+ 635004 - 66          Údržba prevádzkových strojov, prístrojov, tech. ...    1 100,00     1 100,00     1 100,00
+ 635006 - 66          Údržba budov, objektov alebo ich častí                 5 000,00     3 000,00     3 000,00
+ 637001 - 66          Školenia, kurzy, semináre ...                              0,00         0,00         0,00
+ 637004 - 66          Všeobecné služby                                         200,00       200,00       200,00
+ 637012 - 66          Poplatky a odvody                                        150,00       150,00       150,00
+ 637015 - 66          Poistné                                                  720,00       900,00       900,00
+ 637031 - 66          Pokuty, penále                                             0,00         0,00         0,00
+Podprogram 12.1 Bytové hospdárstvo                                          18 190,00    21 870,00    21 870,00
+Program č. 12: Bytové hospodárstvo                                          18 190,00    21 870,00    21 870,00
+                      SPRÁVA REGISTRATÚRY                                    1 050,00     1 035,04     1 035,00
+ 611 - 61 61          mzdy                                                      772,00       761,34       761,30
+ 620 - 61 61          odvody                                                    278,00       273,70       273,70
+                      ÚRAD PRÁCE I                                          10 000,00    10 000,00    10 000,00
+ 637006 - 01 611      mzdy                                                    7 410,00     7 410,00     7 410,00
+ 637006 - 01 620      odvody                                                  2 590,00     2 590,00     2 590,00
+ 637006 - 01 633      všeobecný materiál                                          0,00         0,00         0,00
+                      príspevok na stravovanie                                    0,00         0,00         0,00
+ 637006 - 01 637      služby                                                      0,00         0,00         0,00
+                      MATRIKA                                               16 700,00    17 816,83    17 816,00
+ 611 - 13 3           mzdy                                                   11 684,00    12 400,83    12 400,00
+ 620 - 13 3           odvody                                                  4 201,00     4 601,00     4 601,00
+ 627 - 13 3           ddp                                                       335,00       335,00       335,00
+ 632003 - 13 3        Poštové služby                                            241,00       241,00       241,00
+ 637013 - 13 3        pracovné odevy                                            100,00       100,00       100,00
+ 633006 - 13 3        všeobecný materiál                                         89,00        89,00        89,00
+ 637016 - 13 3        prídel do sociálneho fondu                                 50,00        50,00        50,00
+                      STAVEBNÝ ÚRAD                                         15 500,00    15 500,00    15 500,00
+ 611 - 45             mzdy                                                   11 401,00    11 401,00    11 401,00
+ 620 - 45             odvody                                                  4 099,00     4 099,00     4 099,00
+                      ÚRAD PRÁCE pre ZŠ s MŠ                                74 000,00    75 000,00    74 000,00
+ 642026 - 71          príspevok na stravu MŠ                                      0,00         0,00         0,00
+ 642026 - 71          príspevok na stravu ZŠ                                 74 000,00    75 000,00    74 000,00
+ 633009 - 71          príspevok na školské pomôcky ZŠ s MŠ                        0,00         0,00         0,00
+ 637037 - 71          poskytnuté ZŠ s MŠ resp. vrátené UPSVaR (vratky)            0,00         0,00         0,00
+                      OSOBITNÝ PRÍJEMCA SOC. DÁVOK                           4 000,00     6 424,00     6 424,00
+ 611 - 61 10          mzdy                                                      130,00       175,00       175,00
+ 620 - 61 10          odvody                                                     45,00        63,00        63,00
+ 633011 - 61 10       potraviny                                               2 190,00     4 190,00     4 190,00
+ 637006 - 61 10       iné náhrady                                             1 635,00     1 996,00     1 996,00
+                      DHZ - dotácia                                          5 000,00     5 000,00     7 000,00
+ 633006 - 33 03       všeobecný materiál                                      1 000,00     1 000,00     3 000,00
+ 633010 - 33 03       pracovné odevy, o

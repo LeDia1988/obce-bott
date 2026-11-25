@@ -1,0 +1,172 @@
+URL: https://cuet.slovensko.sk/en/dokument/44c6588e-42ec-43c9-8fd8-19768d9137e7
+OBEC: Rudňany (Spišská Nová Ves)
+NÁZOV: Návrh Sadzobníka na rok 2027
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/44c6588e-42ec-43c9-8fd8-19768d9137e7
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh Sadzobníka na rok 2027
+Search publisher's RSS feeds
+Published on official board:
+Obec Rudňany (OVM)
+Published from:
+24.11.2026
+Registry symbol:
+Documents author:
+Obec Rudňany (OVM)
+Published to:
+14.12.2026
+Registry case:
+Name of official document:
+Návrh Sadzobníka na rok 2027
+Document abstract:
+Návrh Sadzobníka na rok 2027.pdf
+[https://www.rudnany.sk/e_download.php?file=/data/uredni_deska/obsah1019_1.pdf&original=Návrh Sadzobníka na rok 2027.pdf]_
+Typ: PDF dokument, Veľkosť: 155.07 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh Sadzobníka na rok 2027.pdf
+Type and size:
+.pdf, 155.07 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/9c377121-d6b1-411c-b0d3-5bc00191d598
+                                                        NÁVRH                                        1
+
+                                                SADZOBNÍK CIEN
+           (návrh ceny podľa Občianského zákonníka § 3 ods. 1 zák. NR SR č. 18/1996 Z.z. o cenách
+                                 v znení neskorších platných predpisov)
+                                    platný pre obec R U D Ň A N Y
+
+1) Úsek vodného hospodárstva
+   vodné a stočné-obecné byty
+   24 b.j., 17 b.j.BZ 29 bj.                                               4,00 € /na osobu/mesiac
+   ZS, 2x10 b.j., MŠ č.89-4 bj.                                            3,50 € /na osobu/mesiac
+   29 b.j.Rochus                                                           3,00 € /na osobu/mesiac
+   výdajný automat na pitnú vodu v časti Zabíjanec                         2,00 € /za m3 vody
+   výška zálohových platieb je stanovená ako minimálna
+
+   poplatok za el. číp na pitnú vodu                                         10 € /za ks
+   za každý ďalší (strata) el. čip                                           15 € /za ks
+
+    Hygienické centrum
+    a) platba za využitie sprchy                                           1,00 €
+    b) platba za využitie toalety                                          0,20 €
+    c) pranie - 1 pracovný cyklus                                          2,00 €
+               1 sušiaci cyklus                                            1,00 €
+
+2) Úsek bytového hospodárstva
+   elektrická energia obecné byty (spoloč.priestory-obec.elektromer)
+
+   obecné byty 5 RP II súp. č.510,511,512                                  0,80 € /mes./domácnosť
+   obecné byty 5RP II súp.č. 359 (okrem bytov 28-31)                       1,80 € /mes./domácnosť
+   ostatné byty                                                            1,80 € /mes./domácnosť
+   výška zálohových platieb je stanovená ako minimálna
+
+3) Úsek stravovania-prenájom miestnosti
+    a) stravné lístky   dôchodcovia                                        4,50 €
+                        zamestnanci, ostatní                               6,50 €
+                        poplatok za rozvoz obedov                          0,50 € / za 1 obed
+    b) schôdzková činnosť a propagácia výrobkov /najviac do 4 hod./       40,00 €
+    c) schôdzková činnosť pre organizácie a spoločenstvá                  20,00 €
+    d) spoločenské podujatia s možnosťou podávania stravy
+        prenájom spoločenskej miestnosti:                                 80,00 € občania obce
+                                                                         120,00 € cudzí
+                                              kar                         30,00 €
+                                              za každú ďalšiu hodinu      10,00 €
+   e) režijné náklady pri akciách v spoločenskej sále /do 8 hod./
+      svadobné hostiny                                                    10,00 € / osoba
+      kar, krstiny, jubileá         s podaním 1 chodu jedla                6,00 € / osoba
+                                    s podaním 2 chodov jedál              12,00 € / osoba
+                                    s podaním 3 chodov jedál              18,00 € / osoba
+                                    s podaním 1 chodu + švédske stoly     18,00 € / osoba
+     zábavy, plesy                                                        18,00 € /na osobu
+
+4) Činnosť v kultúre
+    a) vysielanie v miestnom rozhlase :      fyzické osoby                 4,00 €
+                                             právnicke osoby               5,00 €
+   b) pohľadnice                                                           0,50 €
+   c) inzercia v obecnom časopise - 1 slovo                                0,50 €
+   d) plošná inzercia v obecnom časopise
+             (reklama formou obrázka max formát A6)                        0,20 € /1 cm2
+5) Prenájom nebytových priestorov-ročne                                                                2
+a) na podnikateľské účely                                                     8,30 € /m2
+b) skladové priestory                                                         8,30 € /m2
+c) garáže - Rochus, Stupy                                                     5,00 € /m2
+d) Zdravotné stredisko RY                                                     6,50 € /m2
+e) Slovenská pošta B.B.                                                       4,30 € /m2
+   výška prenájmu sú stanovené ako minimálne
+
+6) Kopírovacie služby
+a) formát A4- jednostranný        fyzické osoby                               0,10 €
+b) formát A4-obojstranný          fyzické osoby                               0,20 €
+c) formát A3-jenostranný          fyzické osoby                               0,20 €
+d) formát A3-obojstranný          fyzické osoby                               0,40 €
+
+7) Športová činnosť
+     -prenájom mini ihriska pri ZŠ                                           10,00 € / 1 hod
+     -za umelé osvetlenie mini ihriska pri ZŠ                                 2,00 € / 1 hod
+     -prenájom multifunkčného ihriska v areáli OŠK                            2,00 € / 1 hod
+
+9) Ostatná činnosť
+     - evidenčná znamka pre psa                                               1,90 €
+     - vystavenie potvrdenia na žiadosť občana                                3,00 €
+                         (o úhrade dane, TKO, pohľadávky na nájomnom)
+    - vystavenie potvrdenia, výpisu, odpisu, upomienky                        3,00 €
+1kuka nádoba/1 odvoz/ počet dní                                               9,63 €
+1 kontajnér 1100 l/1 odvoz/ počet dní DSS                                    93,34 €
+1 Avia Vok kontajner/ 1 odvoz                                               332,51 €
+1 Prenájom kontajner VOK za 1/byt/1rok                                       11,59 €
+1 Avia Vok kontajner/ prenájom                                              463,76 € / rok
+   (ak má platiteľ bytového domu/spoločenstva vl. bytov prenajatú zbernú nádobu
+    pripočíta sa mu poplatok za prenájom)
+
+   - nákladné vozidlo IVECO
+   - preprava                                                                 1,50 € / 1 km
+   - stojné IVECO                                                             1,00 €
+                                                                        (za každých začatých 15 min)
+
+   - pracovny stroj HIDROMEK
+    - preprava                                                                2,00 €
+    - práca                                                                  40,00 € /1 motohodina
+
+   - nákladné vozidlo špeciálne V3S fekal
+    - preprava                                                                1,50 € / 1 km
+    - práca                                                                  20,00 €
+    - uloženie na skládke                                                        4 € / 1m3
+
+Sadzobník miestnych poplatkov schválený Obecným zastupiteľstvom v Rudňanoch
+Uznesením č. ......../02/2026 zo dňa 14.12.2026 platný od 01.01.2027.
+
+
+Pečiatka Obec Rudňany
+                                                              Bc. Rastislav Neuvirth
+                                                                   starosta obce
+
+
+Vyvesené: 24.11.2026
+Zvesené:
+

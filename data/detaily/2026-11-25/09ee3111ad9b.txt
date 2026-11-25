@@ -1,0 +1,46 @@
+URL: https://www.hnojne.sk/faktury?&eregister=faktury&ur_page=1&count=10&detail=1408939
+OBEC: Hnojné (Michalovce)
+NÁZOV: Vypracovanie a kompletné spracovanie žiadosti o dotáciu na "Zvyšovanie energetickej účinnosti budovy kultúrneho domu"
+ZDROJ: web obce
+
+=== STRÁNKA https://www.hnojne.sk/faktury?&eregister=faktury&ur_page=1&count=10&detail=1408939
+Faktúry | Hnojné
+Oficiálne stránky obce
+Hnojné
+Faktúry
+zoznam faktúr
+Detail faktúry
+Číslo
+2026113
+Interné číslo
+136/2026
+Predmet
+Vypracovanie a kompletné spracovanie žiadosti o dotáciu na "Zvyšovanie energetickej účinnosti budovy kultúrneho domu"
+Typ faktúry
+odberateľská
+Splatnosť
+22-01-2027
+Dátum zverejnenia
+24-11-2026
+Dátum vystavenia
+23-11-2026
+Dátum evidencie
+24-11-2026
+Dátum zdan. plnenia
+23-11-2026
+Zmluvná strana
+Odberateľ
+: obec HNOJNÉ, IČO: 00325171, Adresa: Hnojné 20, Mesto: Hnojné, PSČ: 07234
+Dodávateľ
+: Project Advisor s.r.o., IČO: 54962960, Adresa: Štúrova 485/15, Mesto: Sobrance, PSČ: 07301
+Suma s DPH*
+1450
+Mena
+€
+Prílohy
+fa_advisor.pdf
+*
+Uvedená cena je konečná. Ak je dodávateľ platcom DPH, cena je vrátane DPH.
+zoznam faktúr
+Generované portálom
+Uradne.sk

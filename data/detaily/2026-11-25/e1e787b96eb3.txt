@@ -1,0 +1,146 @@
+URL: https://obec.dobraobec.sk/files/41/uradna_tabula/3971c_návrh rozpočtu 2027-2029 príjmová časť.pdf
+OBEC: Byšta (Trebišov)
+NÁZOV: 3971c_návrh rozpočtu 2027-2029 príjmová časť.pdf
+ZDROJ: web obce
+
+Obec Byšta S/N 1                                                                                     N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený:                                                                                           Vyvesený: 24.11.2026
+Účínnosť:                                                                                            Zvesený: 09.12.2026                                                                           Strana č.   1
+                                   Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                             Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024          2025         Schvávený rozp. Očakávaná skut.   2027 2028 2029
+                                                                                                                                                                                   2028
+                                                                                                                                                                                      2024
+                                                                                                                                                                                        2029 2024
+                                                                                                                                                                                                2029 2024
+  41      R        111003                       Prázdne stredisko                                         40 096,86    41 450,22         44 375,-         44 375,-     44 375,-        44 375,-        44 375,-
+                   111003          Výnos dane z príjmov poukázaný územnej s                               40 096,86    41 450,22         44 375,-         44 375,-     44 375,-        44 375,-        44 375,-
+                   111 ***         DAN Z PRÍJMOV FYZICKEJ OSOBY                                           40 096,86    41 450,22         44 375,-         44 375,-     44 375,-        44 375,-        44 375,-
+  41      R        121001                       Prázdne stredisko                                         20 960,66    20 921,29         21 000,-         21 000,-     21 000,-        21 000,-        21 000,-
+  41      R        121001          MR           minulé roky                                                1 198,29       572,36            400,-            400,-        400,-           400,-           400,-
+                   121001          Z pozemkov                                                             22 158,95    21 493,65         21 400,-         21 400,-     21 400,-        21 400,-        21 400,-
+  41      R        121002                    Prázdne stredisko                                             3 041,58     3 090,50           3 500,-         3 500,-      3 500,-         3 500,-         3 500,-
+  41      R        121002          MR        minulé roky                                                     239,30       110,69             250,-           250,-        250,-           250,-           250,-
+                   121002          Zo stavieb                                                              3 280,88     3 201,19           3 750,-         3 750,-      3 750,-         3 750,-         3 750,-
+                   121 ***         DAŇ Z NEHNUTEĽNOSTÍ                                                    25 439,83    24 694,84         25 150,-         25 150,-     25 150,-        25 150,-        25 150,-
+  41      R        133001                       Prázdne stredisko                                           116,-           116,-            120,-           129,32       120,-           120,-           120,-
+  41      R        133001          MR           minulé roky                                                                                   20,-            20,-         20,-            20,-            20,-
+                   133001          Za psa                                                                   116,-           116,-            140,-           149,32       140,-           140,-           140,-
+  41      R        133013                       Prázdne stredisko                                          4 615,92     5 253,46           5 300,-         7 757,87     5 300,-         5 300,-         5 300,-
+  41      R        133013          MR           minulé roky                                                   60,-        102,50             100,-           100,-        100,-           100,-           100,-
+                   133013          Komunálne odpady MR                                                     4 675,92     5 355,96           5 400,-         7 857,87     5 400,-         5 400,-         5 400,-
+                   133 ***         DANE ZA ŠPECIFICKÉ SLUŽBY                                               4 791,92     5 471,96           5 540,-         8 007,19     5 540,-         5 540,-         5 540,-
+  41      R        212002                       Prázdne stredisko                                           122,19          183,62           820,-           820,-        820,-           820,-           820,-
+  41      R        212002          MR           minulé roky                                                 272,99          320,92
+                   212002          Z prenajatých pozemkov min.r.                                            395,18          504,54           820,-           820,-        820,-           820,-           820,-
+                   212 ***         PRÍJMY Z VLASTNÍCTVA                                                     395,18          504,54           820,-           820,-        820,-           820,-           820,-
+  41      R        221002          OVER         Správne poplatky                                            337,-           241,-            500,-           500,-        500,-           500,-           500,-
+                   221002          Správne poplatky                                                         337,-           241,-            500,-           500,-        500,-           500,-           500,-
+                   221 ***         ADMINISTRATÍVNE POPLATKY                                                 337,-           241,-            500,-           500,-        500,-           500,-           500,-
+  41      R        223001                  Prázdne stredisko                                                373,80        287,75             500,-         1 200,-        500,-           500,-           500,-
+  41      R        223001          EL 2025 Elektrina 2025                                                                 126,30           3 000,-         3 000,-      3 000,-         3 000,-         3 000,-
+  41      R        223001          EL.E.MR príjrm za el.ener.minule roky                                  -1 815,63     2 076,44
+  41      R        223001          ELEK.E  elektrická energia kupele                                       7 960,-     11 797,-          10 200,-         10 200,-     10 200,-        10 200,-        10 200,-
+  41      R        223001          HONKA   Zapožičanie UN nakladača                                           30,-        380,-             300,-            300,-        300,-           300,-           300,-
+  41      R        223001          MR 2019 Za spotrebu vody 2019                                              22,57
+  41      R        223001          MR 2020 Za spotrebu vody 2020                                              22,57
+  41      R        223001          MR 2021 Za spotrebu vody 2021                                              25,53
+  41      R        223001          MR2022 Spotreba voda za 2022                                               17,37
+  41      R        223001          MR2023 Spotreba voda za 2023                                                              49,37
+  41      R        223001          MR2024 Spotreba voda za 2024                                                                                               21,06
+  41      R        223001          OSPOPL poplatky MRO,zasadačka ,kopir.                                    290,63          238,48           400,-           400,-        400,-           400,-           400,-
+  41      R        223001          RF      Rezervný fond -kúpele                                            928,-           912,-          1 000,-         1 000,-      1 000,-         1 000,-         1 000,-
+  41      R        223001          RFMIPOP Poplatok stav.povolenie EE                                                                                        784,-
+  41      R        223001          VLEČ    Zapožičanie traktor.vlečky                                        40,-           150,-            200,-           320,-        200,-           200,-           200,-
+Obec Byšta S/N 1                                                                                     N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený:                                                                                           Vyvesený: 24.11.2026
+Účínnosť:                                                                                            Zvesený: 09.12.2026                                                                           Strana č.     2
+                                   Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                             Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024          2025         Schvávený rozp. Očakávaná skut.   2027 2028 2029
+                                                                                                                                                                                   2028
+                                                                                                                                                                                      2024
+                                                                                                                                                                                        2029 2024
+                                                                                                                                                                                                2029 2024
+  41      R        223001          VO BEŽR voda bežný rok                                                  4 989,58     6 905,17          8 000,-          8 000,-      8 000,-         8 000,-         8 000,-
+  41      R        223001          VODA      Prijem za spotrebu vody                                         120,-         80,-             150,-            176,-        150,-           150,-           150,-
+  41      R        223001          VREC      vrecia na odpad                                                                                 20,-             20,-         20,-            20,-            20,-
+                   223001          Vrecia na odpad                                                        13 004,42    23 002,51         23 770,-         25 421,06    23 770,-        23 770,-        23 770,-
+  41      R        223003                       Prázdne stredisko                                          1 035,31                        1 000,-         1 000,-      1 000,-         1 000,-         1 000,-
+                   223003          Za stravné                                                              1 035,31                        1 000,-         1 000,-      1 000,-         1 000,-         1 000,-
+                   223 ***         POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO                               14 039,73    23 002,51         24 770,-         26 421,06    24 770,-        24 770,-        24 770,-
+  41      R        242             POŠ     poštová banka                                                       0,13           0,08             1,-              1,-         1,-             1,-                1,-
+                   242             Z VKLADOV                                                                   0,13           0,08             1,-              1,-         1,-             1,-                1,-
+                   242 ***         Z VKLADOV                                                                   0,13           0,08             1,-              1,-         1,-             1,-                1,-
+  41      R        246                          Prázdne stredisko                                                           485,91           500,-           584,85       500,-           500,-           500,-
+                   246             Výnos CP - voda spieva I                                                                 485,91           500,-           584,85       500,-           500,-           500,-
+                   246 ***         OSTATNÉ PLATBY                                                                           485,91           500,-           584,85       500,-           500,-           500,-
+  41      R        292012                       Prázdne stredisko                                           559,16           27,85
+                   292012          preplatok energií                                                        559,16           27,85
+  41      R        292017                       Prázdne stredisko                                                           218,51
+                   292017          Z vratiek                                                                                218,51
+                   292 ***         OSTATNÉ PRÍJMY                                                           559,16          246,36
+  111     R        312001          DOTVOJH KaMO-123-OSE/2026-4 Dot.voj.hr                                                                                  9 000,-
+  111     R        312001          ODMENY Odmeny 800 Eur máj 2025                                                       1 090,-
+  111     R        312001          PUPN 2  Podpora udržiavania prac.návyk                                   126,70         17,90
+  111     R        312001          PUPN 3  Podpora udržiavania prac.návyk                                                 395,89                              37,20
+  111     R        312001          VOJHROB vojnové hroby                                                     64,65                            65,-            65,-         65,-            65,-            65,-
+                   312001          vojnové hroby                                                            191,35      1 503,79              65,-         9 102,20        65,-            65,-            65,-
+  45      R        312002                       Prázdne stredisko                                                                                            107,63
+                   312002          Zo štátneho účelového fondu                                                                                               107,63
+  11H     R        312008          AUZ KSK Oprava autobusovej zastávky                                                                                     2 000,-
+  11H     R        312008          LAV KSK Osádzanie -lavičiek                                                                                             2 000,-
+  11H     R        312008          POT KSK Čistenie časti potoka                                                                                           5 000,-
+  11H     R        312008          SU KSK   sadové úpravy KSK ver.priest.                                                                                  1 000,-
+                   312008          Zo štátneho účelového fondu                                                                                            10 000,-
+  111     R        312012          INFL         dotácia -dopad inflácie                                     755,-
+  111     R        312012          REF          Referendum                                                                                                 1 276,83
+  111     R        312012          REGADR       register adries                                               19,60          21,20            22,-            22,-         22,-            22,-            22,-
+  111     R        312012          REGOB        register obyvateľov                                           46,20          45,87            47,-            47,-         47,-            47,-            47,-
+  111     R        312012          RODP         Rodinné prídavky                                             720,-           60,-
+  111     R        312012          VOLBYEP      voľby ep                                                   1 634,22
+  111     R        312012          VOLBYPR      voľby prezident                                            2 197,54
+  111     R        312012          VOĽOSSK      voľby doorgánov Samosp. a VUC                                                                              2 160,06
+Obec Byšta S/N 1                                                                                       N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený:                                                                                             Vyvesený: 24.11.2026
+Účínnosť:                                                                                              Zvesený: 09.12.2026                                                                            Strana č.   3
+                                     Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                              Návrh rozpočtu
+
+  Zdroj     T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                      2028
+                                                                                                                                                                                         2024
+                                                                                                                                                                                           2029 2024
+                                                                                                                                                                                                   2029 2024
+  111       R       312012           VYS       ˇUuemné plánovanie a výstavba                                                  227,83
+  111       R       312012           ŽP        životné prostredie                                               16,95          18,16            20,-            20,-          20,-            20,-            20,-
+                    312012           Zo št.rozpočtu na úhradu nákl. prenes. v                                5 389,51         373,06            89,-         3 525,89         89,-            89,-            89,-
+                    312 ***          TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                       5 580,86     1 876,85             154,-        22 735,72        154,-           154,-           154,-
+
+                                     1 Časť I. Bežný rozpočet                                               91 240,67    97 974,27        101 810,-        128 594,82    101 810,-       101 810,-      101 810,-
+  43        R       233001                        Prázdne stredisko                                          9 323,20     7 824,20
+                    233001           Z predaja pozemkov                                                      9 323,20     7 824,20
+  43        R       233002                        Prázdne stredisko                                          1 201,-
+                    233002           predaj hmotného majetku                                                 1 201,-
+                    233 ***          PRÍJEM Z PREDAJA POZEMKOV A NEHMOTNÝCH A                               10 524,20     7 824,20
+  111       R       322001           VYJ.MK   vyjazdové rokovanie MK MFSR                                                 4 000,-
+                    322001           Zo štátneho rozpočtu                                                                 4 000,-
+                    322 ***          TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                                    4 000,-
+
+                                     2 Časť I. Kapitálový rozpočet                                          10 524,20    11 824,20
+  43        R       431                           Prázdne stredisko                                          9 747,52
+                    431              MR PBU           12/BU inkaso za p                                      9 747,52
+                    431 ***          PRÁVNICKEJ OSOBY                                                        9 747,52
+  131P      R       453              MFSRVYR dotácia miest.komun.ul.Partizá                                                                  4 000,-         4 000,-
+                    453              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                                                    4 000,-         4 000,-
+                    453 ***          PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                                                    4 000,-         4 000,-
+  46        R       454001                   Prázdne stredisko                                              29 971,48    14 100,-
+  46        R       454001           DOTVOJH KaMO-123-OSE/2026-4 Dot.voj.hr                                                                                  1 000,-
+  46        R       454001           ÚZEMPLÁ Územný plán                                                                                     6 600,-         5 600,-
+                    454001           Z rezervného fondu obce a rezervného fon                               29 971,48    14 100,-            6 600,-         6 600,-
+                    454 ***          PREVOD PROSTRIEDKOV Z PEŇAŽNÝCH FONDOV                                 29 971,48    14 100,-            6 600,-         6 600,-
+
+                                     3 Časť II. Finančné operácie                                           39 719,-     14 100,-          10 600,-         10 600,-
+
+                                     CELKOM P R Í J M Y                                                    141 483,87   123 898,47        112 410,-        139 194,82    101 810,-       101 810,-      101 810,-
+© IFOsoft
+

@@ -1,0 +1,1077 @@
+URL: https://cuet.slovensko.sk/en/dokument/bfbc1973-cfb9-4234-ace7-00dc96d652d3
+OBEC: Liptovská Teplička (Poprad)
+NÁZOV: Návrh rozpočtu obce na rok 2027
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/bfbc1973-cfb9-4234-ace7-00dc96d652d3
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu obce na rok 2027
+Search publisher's RSS feeds
+Published on official board:
+Obec Liptovská Teplička (OVM)
+Published from:
+24.11.2026
+Registry symbol:
+Documents author:
+Obec Liptovská Teplička (OVM)
+Published to:
+09.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu obce na rok 2027
+Document abstract:
+Návrh rozpočtu obce na rok 2027
+[https://www.liptovskateplicka.sk/e_download.php?file=/data/uredni_deska/obsah1295_1.pdf&original=Návrh rozpočtu obce na rok 2027.pdf]_
+Typ: PDF dokument, Veľkosť: 1.57 MB_
+_Príjmová časť rozpočtu 2027-2029
+[https://www.liptovskateplicka.sk/e_download.php?file=/data/uredni_deska/obsah1295_2.pdf&original=Príjmová časť rozpočtu 2027-2029.pdf]
+Typ: PDF dokument, Veľkosť: 315.65 kB_
+_Výdavková časť rozpočtu 2027-2029
+[https://www.liptovskateplicka.sk/e_download.php?file=/data/uredni_deska/obsah1295_3.pdf&original=Výdavková časť rozpočtu 2027-2029.pdf]
+Typ: PDF dokument, Veľkosť: 1011.49 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Príjmová časť rozpočtu 2027-2029.pdf
+Type and size:
+.pdf, 315.65 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh rozpočtu obce na rok 2027.pdf
+Type and size:
+.pdf, 1.57 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Výdavková časť rozpočtu 2027-2029.pdf
+Type and size:
+.pdf, 1011.49 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/36fbe432-da30-44f5-b1bc-3da2832a887e
+                          PRÍJMOVÁ ČASŤ ROZPOČTU OBCE LIPTOVSKÁ TEPLIČKA NA ROKY 2027 -2029
+                                                                                                                                   Očakávaná
+                                                                                 Skutočnosť       Skutočnosť                       skutočnosť
+         Sk. EK           Názov                                                     2024             2025          Rozpočet 2026      2026          Návrh 2027       Návrh 2028       Návrh 2029
+1. Bežný rozpočet
+         110              Dane z príjmov a kapitálového majetku                     1 086 448         934 753            936 777       997 338         1 073 479        1 120 812        1 188 490
+         120              Dane z majetku                                             104 795          107 054            103 757       121 701          121 886          121 886          121 886
+         130              Dane za tovary a služby                                     76 288           82 645             98 380        99 380          128 810          128 810          128 810
+                          DAŇOVÉ PRÍJMY                                             1 267 531        1 124 452         1 138 914      1 218 419        1 324 175        1 371 508        1 439 186
+         210              Príjmy z podnikania a z vlastníctva majetku                 35 029           37 760             39 725        45 125           41 857           41 857           41 857
+         220              Administratívne poplatky a iné poplatky a platby            31 126           32 439             28 303        46 200           42 580           42 580           42 430
+         240              Úroky z tuzemských úverov, pôžičiek, vkladov a ážio          6 842            3 731              2 500          3 200           2 500            2 500            2 500
+         290              Iné nedaňové príjmy                                          5 254            5 449                  0          3 472                  0                0                0
+         290              Príjmy RO                                                   55 878         52 176,67            44 887        62 129           48 280           48 280           48 280
+                          NEDAŇOVÉ PRÍJMY                                            134 129          131 556            115 415       160 126          135 217          135 217          135 067
+         310              Tuzemské bežné granty a transfery                         1 471 118        1 697 730         1 412 946      1 625 895        1 461 275        1 439 895        1 401 275
+         310              Granty a transfery RO                                       19 646                   0               0                0                0                0                0
+         330              Zahraničné transfery                                        48 001                   0               0                0                0                0                0
+                          GRANTY A TRANSFERY                                        1 538 765        1 697 730         1 412 946      1 625 895        1 461 275        1 439 895        1 401 275
+1.                        Bežný rozpočet :                                          2 940 425        2 953 738         2 667 275      3 004 440        2 920 667        2 946 620        2 975 528
+2 . Kapitálový rozpočet
+         230              Kapitálové príjmy                                            9 909           16 208                  0          3 936                  0                0                0
+                          VLASTNÉ PRÍJMY                                               9 909           16 208                  0          3 936                  0                0                0
+         320              Tuzemské kapitálové granty a transfery                     228 393           82 477                  0        85 479                   0                0                0
+                          GRANTY A TRANSFERY                                         228 393           82 477                  0        85 479                   0                0                0
+2.                        Kapitálový rozpočet:                                       238 302           98 685                  0        89 415                   0                0                0
+3. Finančné operácie
+         450              Z ostatných finančných operácií                            102 476          217 791             60 000       133 914           60 000                   0                0
+         450              Z ostatných finančných operácií RO                           2 719            3 826                             3 502                  0                0                0
+         510              Tuzemské úvery, pôžičky a návratné finančné výpomoci                0                0          67 000        67 000                   0                0                0
+3.                        Finančné operácie:                                         105 195          221 617            127 000       204 416           60 000                   0                0
+
+                          PRÍJMY SPOLU:                                             3 283 922        3 274 040         2 794 275      3 298 271        2 980 667        2 946 620        2 975 528
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/a31edc3e-ad83-4c3e-82b6-078fd12443a0
+                     OBEC LIPTOVSKÁ TEPLIČKA
+
+
+
+
+                         ROZPOČET OBCE
+                      NA ROKY 2027 – 2029
+                                   (Návrh)
+
+
+
+
+Návrh rozpočtu obce vyvesený na úradnej tabuli dňa 24.11.2026
+
+
+
+
+                                        1
+Obsah
+1.     ÚVOD .............................................................................................................................................. 3
+2.     VÝCHODISKOVÉ RÁMCE .............................................................................................................. 3
+3.     ROZPOČET PRÍJMOV OBCE ........................................................................................................ 5
+     3.1 Bežné príjmy (vrátane bežných príjmov RO)                                                      .................................................... 5
+     3.2 Kapitálové príjmy                                ................................................................................................... 7
+     3.3 Príjmové finančné operácie                                      .................................................................................... 7
+4.     ROZPOČET VÝDAVKOV OBCE ..................................................................................................... 7
+     4.1 Bežné výdavky              (600)                             ....................................................................................... 8
+     4.2 Kapitálové výdavky (700)                                                 .......................................................................... 8
+     4.3 Výdavkové finančné operácie                     (800)            ................................................................................... 8
+5.     PROGRAMOVÝ ROZPOČET ......................................................................................................... 8
+6.     REKAPITULÁCIA ROZPOČTU ..................................................................................................... 37
+
+
+
+
+                                                                            2
+1.      ÚVOD
+       Návrh rozpočtu obce Liptovská Teplička je vypracovaný v súlade s nasledovnými právnymi
+normami:
+• so zákonom 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+• so zákonom č., 523/2004 Z.z. o rozpočtových pravidlách verejnej správy v znení neskorších
+   predpisov,
+• so zákonom č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene
+   a doplnení niektorých zákonov v znení neskorších predpisov,
+• so zákonom č. 493/2011 Z.z. o rozpočtovej zodpovednosti,
+• so zákonom č. 582/2004 Z.z o miestnych daniach a miestnom poplatku za komunálne odpady
+   a drobné stavebné odpady v znení neskorších predpisov,
+• so zákonom č. 596/2003 Z.z. o štátnej správe v školstve a školskej samospráve a o zmene
+   a doplnení niektorých zákonov v znení neskorších predpisov
+• so zákonom č. 564/2004 Z.z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a
+   o zmene a doplnení niektorých zákonov,
+• s Nariadením vlády č. 668/2004 Z.z. o rozdeľovaní a poukazovaní výnosu dane z príjmov územnej
+   samosprávy,
+• s Opatrením MF SR č. MF/010175/2004-42 zo dňa 8.12.2004 v znení neskorších predpisov, ktorým
+   sa ustanovuje druhová klasifikácia, organizačná klasifikácia a ekonomická klasifikácia rozpočtovej
+   klasifikácie v platnom znení,
+• s Vyhláškou ŠÚ SR č. 257/2014 zo dňa 18.9.2014, ktorou sa vydáva štatistická klasifikácia
+   výdavkov verejnej správy (SK COFOG).
+
+
+
+2.      VÝCHODISKOVÉ RÁMCE
+         V zmysle zákona č. 493/2011 Z. z. o rozpočtovej zodpovednosti čl. 9 je obec povinná zostavovať
+rozpočet v členení na skutočné plnenie za predchádzajúce 2 roky, schválený rozpočet bežného roka,
+očakávaná skutočnosť bežného roka a návrh rozpočtu na 3 nasledujúce roky. Dlh štátu prekročil horné
+sankčné limitné pásmo (nad 59% HDP) a podľa článku 5 ods. 6, písm. d) zákona č. 493/2011 Z.z.
+platí: „Obec a vyšší územný celok sú povinní schváliť rozpočet na nasledujúci rozpočtový rok s
+výdavkami maximálne vo výške výdavkov rozpočtu predchádzajúceho rozpočtového roka, okrem
+výdavkov na likvidáciu škôd spôsobených živelnými pohromami a výdavkov na financovanie spoločných
+programov Slovenskej republiky a Európskej únie.“ Podľa oficiálneho Metodického usmernenia
+Ministerstva financií SR č. MF/018798/2026-45 zo dňa 29.10.2026 aktuálne platí výnimka na
+uplatňovanie sankcií podľa čl. 12 ods. 10 ústavného zákona o rozpočtovej zodpovednosti. Vláda SR
+uznesením č. 407 zistila, že celoštátne výdavky na odstraňovanie následkov živelných pohrôm a plnenie
+medzinárodných zmlúv dosiahli 3,21 % HDP, čím presiahli limit 3 % HDP. Rada pre rozpočtovú
+zodpovednosť (RRZ) však tento výklad odmieta. Koncom septembra 2026 RRZ konštatovala, že vláda
+uplatnenie tejto výnimky riadne nepreukázala, koná v rozpore s predchádzajúcim nálezom Ústavného
+súdu a ústavná povinnosť zostaviť vyrovnané rozpočty (a pre obce neprekračovať výdavky minulého
+roka). Obec vychádzajúc z uvedeného Metodického usmernenia pri tvorbe rozpočtu na rok 2027
+postupuje bez reštriktívnych obmedzení dlhovej brzdy, ale výdavky sú rozpočtované s veľkou mierou
+opatrnosti.
+         V návrhu rozpočtu na rok 2027 je výška podielových daní rozpočtovaná podľa zverejnenej
+prognózy Ministerstvom financií SR na rok 2027. Nasledujúce 2 roky sú rozpočtované s miernym
+navýšením, pričom prognóza Rady pre rozpočtovú zodpovednosť na nasledujúce roky je
+optimistickejšia.
+         Daňové príjmy tvoria 44,4 % celkových príjmov, granty a transfery tvoria 49 % celkových
+príjmov, nedaňové príjmy tvoria 4,5 % a zapojenie finančných operácií do príjmov tvorí 2 % . Takmer
+89 % grantov a transferov je určených na financovanie preneseného výkonu štátnej správy v oblasti
+školstva. S vyššími príjmami sa počíta pri výbere poplatku za komunálny odpadu z dôvodu zvýšenia
+sadzby na sumu 50 € /1 osoba. Novela zákona o odpadoch prináša pre obce nové povinnosti, s ktorými
+sú spojené zvýšené náklady na likvidáciu odpadu, čo má dopad na zvýšenie poplatku za komunálny
+odpad a drobný stavebný odpad.
+
+
+
+
+                                                  3
+        Výdavková časť rozpočtu je rozčlenená do 14 programov a 61 podprogramov. Rozpočet obce
+je zostavený v súlade s § 10 ods. 3 zákona č. 583/2004 Z.z. o rozpočtových pravidlách územnej
+samosprávy v znení neskorších predpisov v členení na:
+    • bežný rozpočet – bežné príjmy a bežné výdavky
+    • kapitálový rozpočet – kapitálové príjmy a kapitálové výdavky
+    • finančné operácie – príjmové a výdavkové.
+
+Predložený rozpočet obce Liptovská Teplička na rok 2027 je zostavený ako prebytkový. Rozdiel
+celkových príjmov a výdavkov je prebytok vo výške 63 298 €. Bežný rozpočet je navrhovaný ako
+prebytkový vo výške 113 280 €. Kapitálový rozpočet je schodkový, schodok je vo výške 5 000 € a bude
+krytý z prebytku bežných príjmov. Výdavkové finančné operácie sú vo výške 104 982 € a budú kryté
+z prostriedkov rezervného fondu vo výške 60 000 € na splátky úveru, zvyšok bude krytý z prebytku
+bežného rozpočtu.
+
+
+
+ Rozpočet                        Príjmy                          Výdavky                       Rozdiel
+
+ Bežný rozpočet                               2 920 667,00                     2 807 387,00                 113 280,00
+ Kapitálový rozpočet                                  0,00                         5 000,00                 - 5 000,00
+ Finančné operácie                               60 000,00                       104 982,00                 - 44 982,00
+ CELKOM                                       2 980 667,00                     2 917 369,00                   63 298,00
+
+Prehľad o príjmoch a výdavkoch rozpočtu obce za obdobie od rokov 2024 až 2026 s návrhom rozpočtu
+na rok 2027 a výhľadom na roky 2028 a 2029 je uvedený v tabuľke:
+
+                  Skutočnosť     Skutočnosť     Rozpočet         Očakávaná        Návrh 2027    Výhľad        Výhľad
+                     2024           2025          2026           skutočnosť                      2028          2029
+                                                                    2026
+ príjmy            3 283 922      3 274 040     2 794 275         3 298 271       2 980 667     2 946 620    2 975 528
+ výdavky           3 045 129      3 129 006     2 793 150         3 073 170       2 917 369     2 865 702    2 806 155
+
+ rozdiel            238 793        145 034          1 125            225 101         63 298       80 918       169 373
+ (prebytok)
+
+
+
+
+                                    Prehľad o príjmoch a výdavkoch
+
+     3500000
+     3000000
+     2500000
+     2000000
+     1500000
+     1000000
+      500000
+              0
+                    Skutočnosť   Skutočnosť     Rozpočet     Očakávaná      Návrh 2027 Výhľad 2028 Výhľad 2029
+                       2024         2025          2026       skutočnosť
+                                                                2026
+
+
+                                               príjmy      výdavky      rozdiel
+
+
+
+
+                                                             4
+3.         ROZPOČET PRÍJMOV OBCE
+                               Skutočnosť 2024    Skutočnosť 2025     Očakávaná         Návrh 2027
+                                                                      skutočnosť 2026
+    Bežné príjmy                   2 940 424,58        2 953 738,01         3 004 440       2 920 667,00
+    z toho:
+     daňové príjmy obce            1 267 529,85        1 124 451,92         1 218 419       1 324 175,00
+    nedaňové príjmy obce              78 251,89          79 379,47             97 967         86 937,00
+    granty a transfery             1 519 119,23        1 697 729,95         1 625 895       1 461 275,00
+
+    bežné príjmy školy                75 523,61          52 176,67             62 159         48 280,00
+    Kapitálové príjmy                238 302,43          98 685,17             89 415                0,00
+    z toho:
+    vlastné príjmy                     9 909,48          16 208,00              3 936                0,00
+    granty a transfery               228 392,95          82 477,17             85 479                0,00
+    Finančné operácie obce           102 476,33          217 790,64           200 914         60 000,00
+    Finančné operácie školy            2 719,05            3 825,97             3 502
+    PRÍJMY SPOLU:                  3 283 922,39        3 274 039,79         3 298 271       2 980 667,00
+
+
+
+
+3.1 Bežné príjmy (vrátane bežných príjmov RO)                                           2 920 667 €
+
+100 Daňové príjmy                                                                        1 324 175 €
+
+Položka 110 - Dane z príjmov a kapitálového majetku                                        1 073 497 €
+
+Príjem z podielových daní tvorí viac ako 81 % daňových príjmov obce. Výška výnosu dane z príjmu
+fyzických osôb je rozpočtovaná podľa východiskových štatistických údajov MF SR na rok 2027. Príjem
+z podielových daní je rozpočtovaný vo výške 1 073 175 €, čo je o 136 720 € viac oproti roku 2026.
+
+Položka 120 – Daň z nehnuteľnosti                                                           121 886 €
+
+Daň z nehnuteľnosti upravuje zákon č.582/2004 o miestnych daniach a poplatku za komunálne odpady
+a drobné stavebné odpady v znení neskorších predpisov. Obec v návrhu príjmu dane z nehnuteľnosti
+vychádza z predpisu v roku 2026 a jednotlivé druhy dane sú rozpočtované nasledovne:
+
+•      daň zo stavieb – 37 288 €
+•      daň z pozemkov – 84 170 €
+•      daň z bytov – 428 €
+
+Položka 130 – Dane za tovary a služby                                                       128 810 €
+
+•      Daň za psa – ročná sadzba dane za psa je 10 €, daň je rozpočtovaná vo výške 1 510 €.
+•      Daň za ubytovanie - vo výške 2 400 €
+•      Daň za užívanie verejného priestranstva – vo výške 7 900 €.
+•      Poplatok za komunálne odpady a drobný stavebný odpad – poplatok je rozpočtovaný vo výške 115
+       000 € za rok 2027 pri sadzbe 50 € na osobu, na úhradu poplatku za KO z minulých rokov je
+       rozpočtovaná suma 2 000 €.
+
+
+200 Nedaňové príjmy                                                                          135 217 €
+
+A) Nedaňové príjmy – Obec                                                                     86 937 €
+
+Položka 210 – Príjmy z podnikania a z vlastníctva majetku                                    41 857 €
+
+
+
+                                                   5
+V položke sú započítané príjmy z nájmov, ostatné príjmy za služby spojené s nájmom, príjem
+nájomného za hrobové miesta a príjem z podnikateľskej činnosti. Rozpočet jednotlivých položiek je
+nasledovný:
+
+•     Nájom hrobového miesta – 2 300 €
+•     nájom bytových a nebytových priestorov – 36 007 €
+•     nájom strojov a zariadení – 550 €
+•     príjmy z podnikania – 3 000 €
+
+Položka 220 – Administratívne poplatky a iné poplatky a platby                              42 580 €
+
+V položke sú rozpočtované príjmy z výberu správnych poplatkov (matrika, stavebný úrad, osvedčovacia
+agenda) vo výške 8 250 €, príjem zo vstupného FS vo výške 18 000 €, príjmy za opatrovateľskú službu
+12 000 €, príjem za vyhlásenie správ v rozhlase, príjem z predaja publikácií a propagačného materiálu
+a ďalšie .
+
+Položka 240 – Úroky z tuzemských úverov, pôžičiek a vkladov                                   2 500 €
+
+Kreditné úroky z účtov termínovaných vkladov sú rozpočtované vo výške 2 500 €.
+
+
+B) Nedaňové príjmy – RO                                                                     48 280 €
+
+Príjmy RO – ZŠ s MŠ tvoria:
+
+•     príjem z príspevkov rodičov detí v MŠ                  - 3 300,00 €
+•     Príjmy za stravné a réžiu od stravníkov                - 40 000,00 €
+•     Príjmy za výber poplatku za CVČ                        - 2 690,00 €
+•     Príjmy za výber poplatku za ŠKD                        - 1 250,00 €
+•     Príjmy z nájmu priestorov                              - 1 040,00 €
+
+
+300 Granty a transfery                                                                   1 461 275 €
+
+
+Položka 312 – Transfery v rámci verejnej správy
+
+V položke sú zahrnuté transfery na prenesený výkon štátnej správy v oblasti školstva, stavebného
+poriadku, matriky, hlásenia pobytu, registra obyvateľov, registra adries. Ďalej dotácie z ÚPSVaR na
+chránené pracovisko, dotácie na stravu a školské pomôcky pre deti zo sociálne znevýhodneného
+prostredia, dotácia na TSP, na miestnu občiansku preventívnu službu.
+Transfery určené na prenesený výkon štátnej správy v oblasti školstva a dotácie z ÚPSVaR pre školu
+sú vo výške 1 297 882 €, čo je 88,9 % z celkových bežných transferov.
+
+Prehľad rozpočtovaných grantov a transferov určených na financovanie bežných výdavkov je uvedený
+v nasledujúcej tabuľke:
+
+    Ekon.kl.   zdroj:      Účel dotácie:                                     Rozpočet 2027:
+
+    312001     111         Dotácia - Chránené pracovisko - Obec (ŠR)                  10 760,00
+    312012     111         Dotácia - Krajský úrad - Životné prostredie                   330,00
+    312012     111         Dotácia - Matrika                                           5 060,00
+    312012     111         Dotácia - Register adries                                      20,00
+    312012     111         Dotácia - REGOB                                               780,00
+    312012     111         Dotácia - stavebný úrad                                     2 700,00
+    312012     111         Dotácia - Špec.stav.úrad pre MK                               105,00
+    312001     1BB1        Dotácia TSP II - ESF                                       60 672,00
+
+
+                                                       6
+ 312001       1BB2       Dotácia TSP II - ŠR                                                 10 706,00
+ 312001       111        Dotácia - Voľby                                                      2 000,00
+ 312001       1BB1       Dotácia MOPS 4 - EU                                                 51 000,00
+ 312001       1BB2       Dotácia MOPS 4 - ŠR                                                  9 000,00
+ 312012       111        Dotácia MŠ - deti zo soc.znevýh.prostredia                           5 100,00
+ 312012       111        Dotácia MŠ - nenormatívne FP                                         4 500,00
+ 312012       111        Dotácia MŠ - PK                                                    258 960,00
+ 312012       111        Dotácia MŠ- PA a ŠP                                                 34 610,00
+ 312012       111        Dotácia ZŠ - deti zo soc.znevýh.prostredia                          27 825,00
+ 312001       111        Dotácia ZŠ - Chránené pracovisko - ŠR                                5 380,00
+ 312012       111        Dotácia ZŠ - PK                                                    775 511,00
+ 312012       111        Dotácia ZŠ - príspevok na špecifiká                                 29 916,00
+ 312012       111        Dotácia ZŠ - školský digitálny koordinátor                           5 778,00
+ 312012       111        Dotácia ZŠ - Vzdelávacie poukazy                                     7 136,00
+ 312012       111        Dotácia ZŠ- asistent učiteľa                                        83 946,00
+ 312012       111        Dotácia ZŠ- Lyžiarsky kurz                                           4 950,00
+ 312012       111        Dotácia ZŠ- príspevok na učebnice                                    4 002,00
+ 312001       111        Dotácia ZŠ- Strava                                                  42 873,00
+ 312012       111        Dotácia ZŠ- Škola v prírode                                          6 100,00
+ 312001       111        Dotácia ZŠ-deti v hmotnej núdzi-Pomôcky                              1 295,00
+ 312001       111        Odmena skladníka CO                                                    260,00
+ 312001       111        Osobitný príjemca - sociálne dávky                                  10 000,00
+ SPOLU:                                                                                    1 461 275,00
+
+
+
+
+3.2 Kapitálové príjmy                                                                                     0€
+
+Kapitálové príjmy nie sú rozpočtované.
+
+3.3 Príjmové finančné operácie                                                                  60 000 €
+
+400 Finančné operácie                                                                            60 000 €
+
+Finančné prostriedky z rezervného fondu vo výške 60 000 € sú určené na splácanie úverov.
+
+
+
+4.         ROZPOČET VÝDAVKOV OBCE
+
+                            Skutočnosť           Skutočnosť              Očakávaná         Návrh 2027
+                            2024                 2025                    skutočnosť
+                                                                         2026
+ Bežné výdavky                   2 646 242,78             2 835 566,28      2 802 115,00       2 807 387,00
+ z toho:
+ bežné výdavky obce              1 235 889,54             1 304 655,69      1 331 586,00       1 277 934,00
+ bežné výdavky školy             1 410 353,24             1 530 910,59      1 470 529,00       1 529 453,00
+ Kapitálové výdavky                279 861,92               195 775,66        176 567,00           5 000,00
+
+
+                                                      7
+    z toho:
+    kapitálové výdavky obce          279 861,92          195 775,66     176 567,00         5 000,00
+    kapitálové výdavky školy               0,00                 0,00          0,00             0,00
+    Finančné operácie                119 025,65           97 663,52      94 488,00       104 982,00
+    VÝDAVKY SPOLU:                 3 045 130,35         3 129 005,46   3 073 170,00    2 917 369,00
+
+
+
+
+4.1 Bežné výdavky(600)                                                                2 807 387 €
+Vzhľadom na ekonomicky zložité a nepredvídateľné prostredie sú bežné výdavky obce rozpočtované
+len na nevyhnutné výdavky a vo väčšine podprogramov nedosahujú ani úroveň rozpočtu roku 2026.
+Výrazný nárast rozpočtu je len v programe 6 Odpadové hospodárstvo a to z dôvodu legislatívnej zmeny
+v zákone o odpadoch, ktorá pre obec znamená zvýšenie nákladov na likvidáciu odpadu. Súčasťou
+výdavkovej časti sú aj výdavky rozpočtovej organizácie – ZŠ s MŠ Liptovská Teplička. Sú rozpočtované
+so 4,6%-ným navýšením oproti roku 2026.
+
+4.2 Kapitálové výdavky (700)                                                              5 000 €
+
+Kapitálové výdavky sú rozpočtované vo výške 5 000 € a sú určené na stavebné práce súvisiace
+s rekonštrukciou trhoviska.
+
+
+4.3 Výdavkové finančné operácie                   (800)                                 104 982 €
+Výdavkové finančné operácie sú rozpočtované vo výške 104 982 € a sú určené na splácanie bankových
+úverov, úveru ŠFRB a lízingových splátok:
+
+•      lízingové splátky za osobný automobil Škoda Octavia - 9 382 €
+•      splácanie istín bankových úverov – 90 000 €
+•      splácanie istiny úveru ŠFRB – 5 600 €
+
+
+5.            PROGRAMOVÝ ROZPOČET
+Návrh rozpočtu je spracovaný v súlade s príslušnými ustanoveniami zákona č. 583/2004 Z.z. o
+rozpočtových pravidlách územnej samosprávy ako viacročný programový rozpočet na roky 2027 - 2029.
+Rozpočet obce je rozdelený do 14 programov a 61 podprogramov so zapracovaním zámerov, cieľov
+a merateľných ukazovateľov k jednotlivým podprogramom.
+
+
+
+
+                                                    8
+                                                                    Očakávaná
+Prog                               Skutočnosť Skutočnosť            skutočnosť
+ram Názov                             2024       2025    Návrh 2026    2026    Návrh 2027 Výhľad 2028 Výhľad 2029
+1    PLÁNOVANIE,MANAŽMENT,KONTROLA
+     Bežné výdavky                  21 640,00    14 083,58    13 600,00    22 500,00    13 300,00    11 300,00    11 300,00
+     Kapitálové výdavky             91 360,00    18 092,54    67 000,00    67 000,00         0,00         0,00         0,00
+2    PROPAGÁCIA A MARKETING
+     Bežné výdavky                   4 475,00     4 031,14     7 876,00     9 076,00     7 226,00     7 226,00     7 226,00
+     Kapitálové výdavky                  0,00         0,00         0,00         0,00         0,00         0,00         0,00
+3    INTERNÉ SLUŽBY OBCE
+     Bežné výdavky                 109 669,00    82 591,76 101 847,00 125 717,00        99 289,00    93 312,00    91 977,00
+     Kapitálové výdavky              4 906,00    60 273,73         0,00    24 088,00         0,00         0,00         0,00
+     Finančné operácie               7 738,00     2 169,93     8 944,00     8 944,00     9 382,00     7 337,00     7 337,00
+4    SLUŽBY OBČANOM
+     Bežné výdavky                  21 602,00    22 912,81    21 981,00    25 331,00    22 392,00    22 392,00    22 392,00
+     Kapitálové výdavky                  0,00         0,00         0,00    15 000,00     5 000,00         0,00         0,00
+5    BEZPEČNOSŤ, PRÁVO A PORIADOK
+     Bežné výdavky                  98 495,00 134 754,92 104 225,00 116 864,00 100 848,00            72 113,00    22 133,00
+     Kapitálové výdavky              7 375,00         0,00         0,00         0,00         0,00         0,00         0,00
+6    ODPADOVÉ HODPODÁRSTVO
+     Bežné výdavky                  92 559,00 118 865,49 106 600,00 124 500,00 156 300,00 156 300,00 156 300,00
+     Kapitálové výdavky                  0,00         0,00         0,00         0,00         0,00         0,00         0,00
+7    POZEMNÉ KOMUNIKÁCIE
+     Bežné výdavky                  65 253,00    12 024,43    14 300,00    14 300,00    12 050,00    12 050,00    12 050,00
+     Kapitálové výdavky            122 002,00 109 459,47           0,00         0,00         0,00         0,00         0,00
+8    VZDELÁVANIE
+     Bežné výdavky               1 421 907,00 1 654 975,06 1 462 300,00 1 470 529,00 1 529 453,00 1 529 453,00 1 529 453,00
+     Kapitálové výdavky                  0,00         0,00         0,00         0,00         0,00         0,00         0,00
+9    KULTÚRA
+     Bežné výdavky                  58 034,00    62 074,63    48 485,00    79 735,00    56 100,00    55 900,00    55 900,00
+     Kapitálové výdavky                  0,00     7 949,92                                   0,00         0,00         0,00
+10   ŠPORT
+     Bežné výdavky                  18 504,00    13 777,54    15 004,00    15 450,00    15 647,00    15 447,00    15 447,00
+     Kapitálové výdavky                  0,00         0,00         0,00         0,00         0,00         0,00         0,00
+11   PROSTREDIE PRE ŽIVOT
+     Bežné výdavky                  49 368,00    53 401,80    52 157,00    62 257,00    55 623,00    50 123,00    49 218,00
+     Kapitálové výdavky             54 219,00         0,00                                   0,00         0,00         0,00
+12   SOCIÁLNE SLUŽBY
+     Bežné výdavky                 196 525,00 176 061,65 191 776,00 212 875,00 219 303,00 219 303,00 219 303,00
+     Kapitálové výdavky                  0,00         0,00         0,00         0,00         0,00         0,00         0,00
+13   PODPORNÁ ČINNOSŤ
+     Bežné výdavky                 478 733,00 474 136,98 481 402,00 506 450,00 509 203,00 507 203,00 507 203,00
+     Kapitálové výdavky                  0,00         0,00         0,00         0,00         0,00         0,00         0,00
+     Výdavkové finančné operácie   105 660,00    90 000,00    80 000,00    80 000,00    90 000,00    90 000,00    90 000,00
+14   BÝVANIE
+     Bežné výdavky                   9 477,00    11 874,49    10 109,00    16 531,00    10 653,00    10 591,00    10 548,00
+     Kapitálové výdavky                  0,00         0,00         0,00    70 479,00         0,00         0,00         0,00
+     Výdavkové finančné operácie     5 628,00     5 493,59     5 544,00     5 544,00     5 600,00     5 652,00     5 652,00
+     REKAPITULÁCIA
+     Bežné výdavky               2 646 241,00 2 835 566,28 2 631 662,00 2 802 115,00 2 807 387,00 2 762 713,00 2 710 450,00
+     Kapitálové výdavky            279 862,00 195 775,66      67 000,00 176 567,00       5 000,00         0,00         0,00
+     Výdavkové finančné operácie   119 026,00    97 663,52    94 488,00    94 488,00 104 982,00 102 989,00        95 705,00
+     SPOLU:                      3 045 129,00 3 129 005,46 2 793 150,00 3 073 170,00 2 917 369,00 2 865 702,00 2 806 155,00
+
+
+
+
+                                                            9
+PROGRAM Č. 1: PLÁNOVANIE, MANAŽMENT A KONTROLA
+
+
+
+
+ZÁMER PROGRAMU :                            Trvalo udržateľný rozvoj obce Liptovská Teplička
+
+  Rozpočet programu                 očakávaná                       2027                   2028                2029
+                                 skutočnosť 2026
+  Bežné výdavky                               22 500               13 300                 11 300              11 300
+  Kapitálové výdavky                          67 000                    0                      0                   0
+
+
+
+Podprogram 1.1                     Výkon funkcie starostu obce
+
+Zámer podprogramu : Moderná obec s transparentným a otvoreným manažmentom a reprezentáciou
+
+ Rozpočet programu                    očakávaná                      2027                   2028               2029
+                                   skutočnosť 2026
+ Bežné výdavky                          7 000                       3 000                  3 000              3 000
+
+ Cieľ:                              Merateľný ukazovateľ:                    Cieľová         Cieľová        Cieľová
+                                                                             hodnota         hodnota        hodnota
+                                                                             2027            2028           2029
+  zabezpečiť     reprezentovanie        •     počet oficiálnych návštev       • 3             • 3           • 3
+ obce a udržiavanie priateľských             počas roka
+ vzťahov s partnermi
+
+
+Komentár:
+Program zahŕňa všetky činnosti týkajúce sa reprezentácie starostu obce, udržiavanie vzťahov
+s partnerskými obcami a dodávateľmi. Výdavky budú použité na reprezentačné účely, zabezpečenie
+ubytovania a stravovanie pre hostí.
+
+
+Podprogram 1.2 Členstvo v samosprávnych organizáciách a združeniach
+Zámer podprogramu:           Záujmy obce Liptovská Teplička. presadzované na regionálnych,
+                             celoslovenských i medzinárodných fórach
+
+ Rozpočet programu                    očakávaná                      2027                  2028                2029
+                                   skutočnosť 2026
+ Bežné výdavky                                 5 000                5 000                  5 000              5 000
+
+
+ Cieľ:                              Merateľný ukazovateľ:                   Cieľová          Cieľová        Cieľová
+                                                                            hodnota          hodnota        hodnota
+                                                                            2027             2028           2029
+
+ Zabezpečiť aktívnu účasť obce         •     počet členstiev obce v            •      10           •   10       •     10
+ v záujmových organizáciách a                organizáciách a združeniach
+ združeniach                           •     počet podujatí v obci             •      2            •   2        •     2
+                                             podporených záujmovými
+                                             združeniami
+
+
+
+Komentár:
+Obec je aktívnym členom viacerých združení a organizácii a toto členstvo umožňuje obci využívať
+viaceré benefity. Prehľad o členstve v jednotlivých organizáciách:
+
+
+
+                                                       10
+   -     RVC Štrba
+   -     Regionálne združenie tatranských a podtatranských obcí (RZTPO)
+   -     OZ PRO Tatry
+   -     Spolok pre obnovu dediny
+   -     Oblastná organizácia cestovného ruchu Vysoké Tatry Podhorie
+   -     Asociácia horských sídel
+   -     ZMOS
+   -     Mikroregión „Pramene Hornádu a Čierneho Váhu
+   -     Nadácia PSK
+
+
+Podprogram 1.3        Strategické plánovanie
+Zámer podprogramu: Organizácia a usporiadanie územia s dôrazom na trvalo udržateľný rozvoj
+                          obce
+
+ Rozpočet programu                    očakávaná                  2027                   2028               2029
+                                   skutočnosť 2026
+ Bežné výdavky                                       0               0                      0                  0
+ Kapitálové výdavky                                  0               0                      0                  0
+
+
+
+Podprogram 1.4        Audit a rating
+Zámer podprogramu : Objektívny a nezávislý posudok o schopnosti obce plniť si záväzky
+
+ Rozpočet programu                    očakávaná                  2027                   2028               2029
+                                   skutočnosť 2026
+ Bežné výdavky                          2 100                    2 100                  2 100             2 100
+
+
+ Cieľ:                              Merateľný ukazovateľ:                 Cieľová        Cieľová        Cieľová
+                                                                          hodnota        hodnota        hodnota
+                                                                          2027           2028           2029
+
+ Zabezpečiť dôslednú nezávislú      • počet zrealizovaných audítorských      •      2           •   2      •      2
+ kontrolu hospodárenia a vedenia    kontrol za rok
+ účtovníctva obce, IÚZ a KÚZ za
+ rok 2026
+
+Komentár:
+V podprograme sú rozpočtované výdavky na vykonanie auditu ročnej účtovnej závierky obce, KÚZ,
+priebežná kontrola a konzultácie v oblasti účtovníctva.
+
+
+Podprogram 1.5            Príprava a implementácia rozvojových projektov
+
+Zámer podprogramu: Rozvoj obce a kvality života jej obyvateľov
+
+ Rozpočet programu                    očakávaná                  2027                   2028               2029
+                                   skutočnosť 2026
+ Bežné výdavky                                  4 500             2 000                     0                  0
+ Kapitálové výdavky                            67 000                 0                     0                  0
+
+
+ Cieľ:                              Merateľný ukazovateľ:                 Cieľová        Cieľová        Cieľová
+                                                                          hodnota        hodnota        hodnota
+                                                                          2027           2028           2029
+
+
+
+
+                                                     11
+ Zabezpečiť prípravné činnosti            •     počet úspešných projektov na       •      1           •   1      •      1
+ pre ďalšie investičné aktivity           investičné akcie
+
+
+Komentár: V podprograme sú rozpočtované výdavky na spracovanie podkladov a žiadosti o NFP.
+
+
+
+Podprogram 1.6               Evidencia ulíc, verejných priestranstiev a budov
+Zámer podprogramu: Prehľadná orientácia v obci
+
+
+ Rozpočet programu                       očakávaná                    2027                    2028               2029
+                                      skutočnosť 2026
+ Bežné výdavky                                     2 000                    0                     0                  0
+ Kapitálové výdavky                                    0                    0                     0                  0
+
+
+Podprogram 1.7               Správa geografického informačného systému
+
+Zámer podprogramu: Jednoduchšia geografická a katastrálna orientácia
+
+ Rozpočet programu                       očakávaná                    2027                    2028               2029
+                                      skutočnosť 2026
+ Bežné výdavky                                    1 900              1 200                    1 200             1 200
+
+
+
+ Cieľ:                                 Merateľný ukazovateľ:                    Cieľová        Cieľová        Cieľová
+                                                                                hodnota        hodnota        hodnota
+                                                                                2027           2028           2029
+
+ Sprehľadnenie         a rýchlejšia        •    počet používaných modulov          •      2           •   2      •      2
+ orientácia v katastrálnom území
+ obce
+
+Komentár:
+Na efektívnejšie vyhľadávanie a orientáciu v katastri sa využívajú IS geoportál, interatívne mapy,
+mapovanie elektrickej a telekomunikačnej siete v obci. Výdavky sú rozpočtované na úhradu ročných
+poplatkov za uvedené moduly.
+
+
+
+PROGRAM Č. 2: PROPAGÁCIA A MARKETING
+
+
+Zámer programu :                    Obec Liptovská Teplička známa ako otvorená, komunikujúca
+                             a priateľská obec, ktorú sa oplatí navštíviť, spoznať a zostať v nej žiť či
+                             podnikať
+
+ Rozpočet programu                       očakávaná                   2027                     2028               2029
+                                      skutočnosť 2026
+ Bežné výdavky                                     9 076              7 226                   7 226              7 226
+ Kapitálové výdavky                                    0                  0                       0                  0
+
+Komentár:
+
+Cieľom programu je budovanie pozitívneho imidžu obce, prezentovanie výsledkov na verejnosti
+a zachytenie najdôležitejších udalostí v kronike obce pre ďalšie generácie.
+
+Podprogram 2.1                                 Propagácia a prezentácia obce Liptovská Teplička
+
+                                                        12
+Zámer podprogramu: Pozitívny imidž obce
+
+ Rozpočet programu                     očakávaná                          2027                       2028                   2029
+                                    skutočnosť 2026
+ Bežné výdavky                                  5 200                     5 800                      5 800                   5 800
+ Kapitálové výdavky                                0                         0                          0                       0
+
+
+ Cieľ:                              Merateľný ukazovateľ:                         Cieľová            Cieľová             Cieľová
+                                                                                  hodnota            hodnota             hodnota
+                                                                                  2027               2028                2029
+
+ Prezentácia obce na webových           •     Počet webových stránok                 •       2           •       2          •      2
+ portáloch                                    prezentujúcich obec
+ (okrem webovej stránky obce)
+
+Komentár:
+Výdavky podprogramu sú určené na činnosti a aktivity súvisiace s propagáciou obce, nákup
+reklamných predmetov, tlač propagačných materiálov, pohľadníc, kalendárov a na licenčné poplatky za
+webstránku.
+
+Podprogram 2.2. Podpora rozvoja turistického ruchu
+
+Zámer podprogramu :                         Využitie okolitej prírody na regeneráciu síl
+
+ Rozpočet programu                     očakávaná                          2027                       2028                   2029
+                                    skutočnosť 2026
+ Bežné výdavky                                 2 750                       300                        300                        300
+ Kapitálové výdavky                                0                         0                          0                          0
+
+
+
+ Cieľ:                              Merateľný ukazovateľ:                          Cieľová            Cieľová            Cieľová
+                                                                                   hodnota            hodnota            hodnota
+                                                                                   2027               2028               2029
+
+ Zvyšovanie návštevnosti turistov       •      počet aktivít na podporu                  •       2           •       2       •     2
+ a podporovanie turistiky medzi                turizmu počas roka
+ obyvateľmi obce
+
+Komentár:
+Výdavky podprogramu súvisia s internetovými službami v informačnom centre Pajta.
+
+Podprogram 2.3. Kronika obce Liptovská Teplička
+
+Zámer podprogramu :                         Trvalý záznam o dôležitých udalostiach obce
+
+ Rozpočet programu                     očakávaná                          2027                       2028                   2029
+                                    skutočnosť 2026
+ Bežné výdavky                                 1 126                      1 126                      1 126                  1 126
+
+ Cieľ:                              Merateľný ukazovateľ:                          Cieľová            Cieľová            Cieľová
+                                                                                   hodnota            hodnota            hodnota
+                                                                                   2027               2028               2029
+
+ Pravidelné zápisy o udalostiach        •      počet užívateľov kroniky za rok           •       5           •       5       •     5
+ a živote v obci pre budúce
+ generácie
+
+
+
+
+                                                      13
+Komentár:
+
+Výdavky podprogramu sú určené na odmenu za vedenie obecnej kroniky a výdavky na kancelárske
+potreby, tlač a knižnú väzbu a iné materiálne vybavenie kronikára.
+
+
+PROGRAM Č. 3:           INTERNÉ SLUŽBY OBCE
+
+
+
+Zámer programu :                             Plynulá a flexibilná činnosť obecnej samosprávy vďaka
+                                     kvalitným a efektívnym službám
+
+ Rozpočet programu                        očakávaná                      2027                     2028                    2029
+                                       skutočnosť 2026
+ Bežné výdavky                                   125 717                99 289                   93 312          
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/90d3ee00-97bc-4995-abb6-79d96af16e54
+                                                                                        1
+
+                                     VÝDAVKOVÁ ČASŤ ROZPOČTU OBCE LIPTOVSKÁ TEPLIČKA NA ROKY 2027-2029
+
+Bežné výdavky
+                                                                                                                                   Očakávaná
+                     Skupina                                                      Skutočnosť       Skutočnosť       Rozpočet       skutočnosť
+Program   Funč.kl.   EK        Názov                                                 2024             2025            2026            2026          Návrh 2027    Návrh 2028       Návrh 2029
+1.                             PLÁNOVANIE, MANAŽMENT, KONTROLA                         21 640           14 084          13 600          22 500           13 300        11 300          11 300
+1.1                            Výkon funkcie starostu obce                              3 954            3 738           4 000           7 000            3 000         3 000           3 000
+          01.1.1     63        Tovary a služby                                          3 954            3 738           4 000           7 000            3 000         3 000           3 000
+                               Členstvo v samosprávnych organizáciách a
+1.2                            združeniach                                              3 186            3 568           3 600           5 000            5 000         5 000           5 000
+          01.1.1     64        Bežné transfery                                          3 186            3 568           3 600           5 000            5 000         5 000           5 000
+1.3                            Strategické plánovanie                                   2 100            1 010                 0                0            0                 0            0
+          01.1.1     63        Tovary a služby                                          2 100            1 010                 0                0            0                 0            0
+1.4                            Audit a rating                                           1 920            2 066           2 100           2 100            2 100         2 100           2 100
+          01.1.2     63        Tovary a služby                                          1 920            2 066           2 100           2 100            2 100         2 100           2 100
+1.5                            Príprava a implementácia rozvojových projektov           8 722            2 963           2 000           4 500            2 000                0            0
+          01.1.1     63        Tovary a služby                                           250             1 450           2 000           4 500            2 000                0            0
+          04.4.3     63        Tovary a služby                                          8 472            1 513                 0                0            0                 0            0
+1.6                            Evidencia ulíc, verejných priestranstiev a budov                0                0              0         2 000               0                 0            0
+          06.2.0     63        Tovary a služby                                                 0                0              0         2 000               0                 0            0
+1.7                            Správa geografického IS                                  1 758             738            1 900           1 900            1 200         1 200           1 200
+          01.1.1     63        Tovary a služby                                          1 758             738            1 900           1 900            1 200         1 200           1 200
+2.                             PROPAGÁCIA A MARKETING                                   4 475            4 031           7 876           9 076            7 226         7 226           7 226
+2.1                            Propagácia a prezentácia obce Lipt. Teplička             3 743            3 895           4 000           5 200            5 800         5 800           5 800
+          01.1.1     63        Tovary a služby                                                 0                0              0                0            0                 0            0
+          04.7.3     63        Tovary a služby                                          3 743            3 895           4 000           5 200            5 800         5 800           5 800
+2.2                            Podpora rozvoja turistického ruchu                              0          136            2 750           2 750             300           300              300
+          04.7.3     63        Tovary a služby                                                 0          136            2 750           2 750             300           300              300
+2.3                            Kronika Obce Liptovská Teplička                           732                    0        1 126           1 126            1 126         1 126           1 126
+          08.2.0     62        Poistné a príspevok do poisťovní                             93                  0         286             286              286           286              286
+          08.2.0     63        Tovary a služby                                           639                    0         840             840              840           840              840
+3.                             INTERNÉ SLUŽBY OBCE                                    109 669           82 592         101 847         125 717           99 289        93 312          91 977
+3.1                            Zasadnutia orgánov obce                                 13 687           19 143          20 292          20 292           20 972        20 972          20 972
+
+
+
+                                                                                    Strana 1
+                                                                                        2
+
+                                                                                                                                   Očakávaná
+                     Skupina                                                      Skutočnosť       Skutočnosť       Rozpočet       skutočnosť
+Program   Funč.kl.   EK        Názov                                                 2024             2025            2026            2026          Návrh 2027    Návrh 2028       Návrh 2029
+
+          01.1.1     62        Poistné a príspevok do poisťovní                         3 265            4 539           4 692           4 692            5 272         5 272           5 272
+          01.1.1     63        Tovary a služby                                         10 422           14 604          15 600          15 600           15 700        15 700          15 700
+          01.1.1     64        Bežné transfery                                                 0                0              0                0            0                 0            0
+3.2                            Zabezpečenie úkonov spojených s voľbami                  4 499                   0        3 000           3 000            2 000                0        2 000
+          01.6.0     62        Poistné a príspevok do poisťovní                                5                0          50               50              50                 0           50
+          01.6.0     63        Tovary a služby                                          4 494                   0        2 950           2 950            1 950                0        1 950
+                               Hospodárska správa a evidencia nehn.maj obce -
+3.3                            pozemky                                                   694              700             720             720              750           750              750
+          01.1.1     63        Tovary a služby                                           694              700             720             720              750           750              750
+3.4                            Prevádzka a údržba budov - energie, voda, údržba        60 911           41 065          49 430          73 000           50 175        49 775          49 370
+          01.3.3     62        Poistné a príspevok do poisťovní                                0                0              0                0            0                 0            0
+          01.3.3     63        Tovary a služby                                         23 826           18 275          19 560          35 641           20 680        20 280          19 980
+          03.2.0     63        Tovary a služby                                          6 587            4 438           7 070           7 595            7 030         7 030           7 030
+          04.7.3     63        Tovary a služby                                                 0         1 023           2 000           2 290            1 360         1 360           1 360
+          06.2.0     63        Tovary a služby                                                 0                0              0                0            0                 0            0
+          08.1.0     63        Údržba budov                                            12 438            1 473           2 100           2 200            1 700         1 700           1 600
+          08.2.0     63        Tovary a služby                                         16 807           14 308          16 600          22 874           17 405        17 405          17 400
+          08.4.0     63        Tovary a služby                                          1 253            1 549           2 100           2 400            2 000         2 000           2 000
+3.5                            Vzdelávanie zamestnancov obce                            3 849            3 846           4 000           4 300            4 000         4 000           4 000
+          09.5.0     63        Tovary a služby                                          3 849            3 846           4 000           4 300            4 000         4 000           4 000
+3.6                            Autodoprava                                             20 415           17 237          22 405          22 405           19 392        17 815          14 885
+          01.3.3     63        Tovary a služby                                         20 415           16 913          21 370          21 370           18 795        17 668          14 885
+          01.3.3     65        Splácanie úrokov z úverov a NFV                                 0          325            1 035           1 035             597           147                0
+3.7                            Verejné obstarávanie                                     5 614             600            2 000           2 000            2 000                0            0
+          01.1.1     63        Tovary a služby                                          5 614             600            2 000           2 000            2 000                0            0
+4.                             SLUŽBY OBČANOM                                          21 602           22 913          21 981          25 331           22 392        22 392          22 392
+4.1                            Organizácia občianských obradov                          1 473            1 230           1 300           3 100            1 500         1 500           1 500
+          08.2.0     63        Tovary a služby                                          1 473             666             700             800              900           900              900
+          09.1.2.1   63        Tovary a služby                                                            464             400             400              300           300              300
+          08.2.0     64        Bežné transfery                                                 0          100             200            1 900             300           300              300
+4.2                            Činnosť matriky                                          6 831            5 600           5 295           6 045            5 585         5 585           5 585
+
+
+                                                                                    Strana 2
+                                                                                     3
+
+                                                                                                                         Očakávaná
+                     Skupina                                                   Skutočnosť     Skutočnosť    Rozpočet     skutočnosť
+Program   Funč.kl.   EK        Názov                                              2024           2025         2026          2026       Návrh 2027    Návrh 2028    Návrh 2029
+                               Mzdy, platy, služobné príjmy a ostatné osobné
+          01.3.3     61        vyrovnania                                            4 415          3 612        3 420         3 420         3 670         3 670        3 670
+          01.3.3     62        Poistné a príspevok do poisťovní                      1 891          1 409        1 295         1 295         1 335         1 335        1 335
+          01.3.3     63        Tovary a služby                                        525            579          580          1 330          580           580           580
+4.3                            Evidencia obyvateľstva                                 818            807          825           825           800           800           800
+          01.1.1     63        Tovary a služby                                        818            807          825           825           800           800           800
+4.5                            Cintorínske a pohrebné služby                         7 760          8 282        8 491         8 991         8 437         8 437        8 437
+                               Mzdy, platy, služobné príjmy a ostatné osobné
+          08.4.0     61        vyrovnania                                            4 645          5 086        5 240         5 440         5 500         5 500        5 500
+          08.4.0     62        Poistné a príspevok do poisťovní                      1 700          1 830        1 901         2 001         2 087         2 087        2 087
+          08.4.0     63        Tovary a služby                                        992            901          900          1 100          400           400           400
+          08.4.0     64        Bežné transfery                                        423            464          450           450           450           450           450
+4.6                            Miestný rozhlas                                       3 800          5 637        4 500         4 500         4 500         4 500        4 500
+          08.3.0     63        Tovary a služby                                       3 800          5 637        4 500         4 500         4 500         4 500        4 500
+4.7                            Obecné noviny                                          659           1 313        1 300         1 600         1 300         1 300        1 300
+          08.3.0     63        Tovary a služby                                        659           1 313        1 300         1 600         1 300         1 300        1 300
+4.8                            Internetové služby, wifi                               261              44         270           270           270           270           270
+          01.3.3     63        Tovary a služby                                        261              44         270           270           270           270           270
+5.                             BEZPEČNOSŤ, PRÁVO, PORIADOK                          98 495        134 755      104 225       116 864       100 848        72 113       22 133
+5.1                            Kamerový systém                                        270            198          250           250           250           250           250
+          01.3.3     63        Tovary a služby                                        270            198          250           250           250           250           250
+5.2                            Civilná ochrana                                        260            304          300           300           353           353           353
+          02.2.0     62        Poistné a príspevok do poisťovní                          54            80          80             80           93            93            93
+          02.2.0     63        Tovary a služby                                        206            224          220           220           260           260           260
+5.3                            Ochrana pred požiarmi                                28 208         25 868       20 434        27 434        21 530        21 530       21 530
+          03.2.0     62        Poistné a príspevok do poisťovní                      2 540          2 548        2 684         2 684         2 680         2 680        2 680
+          03.2.0     63        Tovary a služby                                      25 668         23 320       17 750        24 750        18 850        18 850       18 850
+5.4                            Miestna občianska poriadková služba                  69 757        108 385       83 241        88 880        78 715        49 980            0
+          03.6.0     61        Mzdy, platy                                          38 815         72 285       58 600        61 338        54 133        34 879            0
+          03.6.0     62        Poistné a príspevok do poisťovní                     13 647         24 180       19 564        21 222        19 382        12 501            0
+          03.6.0     63        Tovary a služby                                      11 953          5 211         300          1 480          200           100             0
+
+
+
+                                                                                 Strana 3
+                                                                                4
+
+                                                                                                                           Očakávaná
+                     Skupina                                              Skutočnosť       Skutočnosť       Rozpočet       skutočnosť
+Program   Funč.kl.   EK        Názov                                         2024             2025            2026            2026          Návrh 2027    Návrh 2028       Návrh 2029
+          03.6.0     64        Bežné transfery                                  5 342            6 709           4 777           4 840            5 000         2 500               0
+6.                             ODPADOVÉ HOSPODÁRSTVO                           92 559          118 866         106 600         124 500          156 300       156 300         156 300
+6.1                            Zvoz a odvoz odpadu                             44 009           53 300          51 000          52 500           56 000        56 000          56 000
+          05.1.0     63        Tovary a služby                                 44 009           53 300          51 000          52 500           56 000        56 000          56 000
+6.2                            Zneškodňovanie odpadu                           48 384           65 516          55 600          72 000          100 300       100 300         100 300
+          05.1.0     63        Tovary a služby                                 48 384           65 516          55 600          72 000          100 300       100 300         100 300
+6.3                            Nakladanie s odpadovými vodami                    166                50                 0                0            0                 0            0
+          05.2.0     62        Poistné a príspevok do poisťovní                        0                0              0                0            0                 0            0
+          05.2.0     63        Tovary a služby                                   166                50                 0                0            0                 0            0
+7.                             POZEMNÉ KOMUNIKÁCIE                             65 253           12 024          14 300          14 300           12 050        12 050          12 050
+7.1                            Správa a údržba pozemných komunikácií           19 871            6 893           9 000           9 000            7 750         7 750           7 750
+          01.3.3     62        Poistné a príspevok do poisťovní                        0                0              0                0            0                 0            0
+          01.3.3     63        Tovary a služby                                 19 871            6 893           9 000           9 000            7 750         7 750           7 750
+7.2                            Správa a údržba verejných priestranstiev         5 237            5 131           5 300           5 300            4 300         4 300           4 300
+          06.2.0     62        Poistné a príspevok do poisťovní                     98                  0              0                0            0                 0            0
+          06.2.0     63        Tovary a služby                                  5 139            5 131           5 300           5 300            4 300         4 300           4 300
+7.3                            Stavby (Projekt HUSKROUA)                       27 755                   0              0                0            0                 0            0
+          06.2.0     61        Mzdy, platy                                             0                0              0                0            0                 0            0
+          06.2.0     62        Poistné a príspevok do poisťovní                        0                0              0                0            0                 0            0
+          06.2.0     63        Tovary a služby                                         0                0              0                0            0                 0            0
+          06.2.0     64        Bežné transfery                                 27 755                   0              0                0            0                 0            0
+7.5                            Stavby (Multifunkčná hala)                      12 390                   0              0                0            0                 0            0
+          06.2.0     63        Tovary a služby                                 12 390                   0              0                0            0                 0            0
+8.                             VZDELÁVANIE                                  1 421 907        1 654 975       1 462 300       1 470 529        1 529 453     1 529 453        1 529 453
+8.1                            Materská škola                                 270 463          288 082         283 238         283 238          306 586       306 586         306 586
+          09.1.1.1   61        Mzdy, platy                                    162 495          185 159         188 416         188 416          189 273       189 273         189 273
+          09.1.1.1   62        Poistné a príspevok do poisťovní                59 979           68 134          68 448          68 448           68 043        68 043          68 043
+          09.1.1.1   63        Tovary a služby                                 47 989           34 789          26 374          26 374           49 270        49 270          49 270
+          06.2.0     63        Tovary a služby - zriaď.                                0                0              0                0            0                 0            0
+8.2                            Základná škola                                 901 800        1 124 547         972 426         972 426          968 627       968 627         968 627
+
+
+
+                                                                            Strana 4
+                                                                        5
+
+                                                                                                                   Očakávaná
+                     Skupina                                      Skutočnosť       Skutočnosť       Rozpočet       skutočnosť
+Program   Funč.kl.   EK        Názov                                 2024             2025            2026            2026          Návrh 2027    Návrh 2028       Návrh 2029
+
+          09.1.1.1   61        Mzdy, platy                            575 395          614 228         668 418         668 418          607 358       607 358         607 358
+          09.1.1.1   62        Poistné a príspevok do poisťovní       216 757          241 511         243 893         243 893          218 346       218 346         218 346
+          09.1.1.1   63        Tovary a služby                        108 050          154 262          60 115          60 115          142 923       142 923         142 923
+          09.1.1.1   63        Tovary a služby - zriaď.                 1 598          114 546                 0                0
+8.3                            Školská jedáleň                        185 571          178 664         133 724         141 953          180 019       180 019         180 019
+          09.6.0     61        Mzdy, platy                             67 212           67 378          66 499          66 499           69 251        69 251          69 251
+          09.6.0     62        Poistné a príspevok do poisťovní        24 876           25 593          25 175          25 175           24 895        24 895          24 895
+          09.6.0     63        Tovary a služby                         83 527           76 175          42 050          42 050           85 873        85 873          85 873
+                               Tovary a služby ŠJ - zriaď.              9 956            9 518                 0         8 229               0                 0            0
+8.5                            Centrum voľného času                    29 393           33 411          39 162          39 162           38 071        38 071          38 071
+          09.5.0     61        Mzdy, platy                              8 600           12 491          15 663          15 663           14 514        14 514          14 514
+          09.5.0     62        Poistné a príspevok do poisťovní         5 119            5 930           5 630           5 630            8 105         8 105           8 105
+          09.5.0     63        Tovary a služby                         15 674           14 990          17 869          17 869           15 452        15 452          15 452
+8.6                            Školský klub detí                       34 680           30 272          33 750          33 750           36 150        36 150          36 150
+                     61        Mzdy, platy                             19 952           16 317          18 918          18 918           20 901        20 901          20 901
+                     62        Poistné a príspevok do poisťovní         7 392            5 861           6 801           6 801            7 514         7 514           7 514
+                     63        Tovary a služby                          7 336            8 094           8 031           8 031            7 735         7 735           7 735
+9.                             KULTÚRA                                 58 034           62 075          48 485          79 735           56 100        55 900          55 900
+9.1                            Podpora kultúrnych podujatí             35 854           43 908          30 000          55 555           39 000        39 000          39 000
+          08.2.0     62        Poistné a príspevok do poisťovní         1 232            1 578           1 510           2 545            1 800         1 800           1 800
+          08.2.0     63        Tovary a služby                         34 622           42 330          28 490          53 010           37 200        37 200          37 200
+9.2                            Organizácia kultúrnych stredísk         16 532           14 518          14 005          19 700           12 730        12 530          12 530
+          08.2.0     62        Poistné a príspevok do poisťovní          916              815             695            1 915            1 080         1 080           1 080
+          08.2.0     63        Tovary a služby                         15 616           13 703          13 310          17 785           11 650        11 450          11 450
+9.3                            Miestna televízia                        5 648            3 649           4 480           4 480            4 370         4 370           4 370
+          08.3.0     62        Poistné a príspevok do poisťovní             91              26            180             390              370           370              370
+          08.3.0     63        Tovary a služby                          5 557            3 623           4 300           4 090            4 000         4 000           4 000
+9.4                            Monografia                                      0                0              0                0            0                 0            0
+          08.3.0     63        Tovary a služby                                 0                0              0                0            0                 0            0
+10.                            ŠPORT                                   18 504           13 778          15 004          15 450           15 647        15 447          15 447
+
+
+
+                                                                    Strana 5
+                                                                           6
+
+                                                                                                                      Očakávaná
+                     Skupina                                         Skutočnosť       Skutočnosť       Rozpočet       skutočnosť
+Program   Funč.kl.   EK        Názov                                    2024             2025            2026            2026          Návrh 2027    Návrh 2028       Návrh 2029
+
+10.1                           Podpora športových podujatí                18 504           13 778          15 004          15 450           15 647        15 447          15 447
+          08.1.0     61        Mzdy, platy                                 5 444            6 512           6 600           6 900            7 500         7 500           7 500
+          08.1.0     62        Poistné a príspevok do poisťovní            2 597            2 509           2 504           2 650            2 847         2 847           2 847
+          08.1.0     63        Tovary a služby                             9 628            3 866           5 150           5 150            4 500         4 300           4 300
+          08.1.0     64        Bežné transfery                              835              891             750             750              800           800              800
+11.                            PROSTREDIE PRE ŽIVOT                       49 368           53 402          52 157          62 257           55 623        50 123          49 218
+11.1                           Verejné osvetlenie                          7 101           10 244           9 105           9 105            7 105         7 105           6 500
+          06.4.0     62        Poistné a príspevok do poisťovní                81            204             105             105              105           105                0
+          06.4.0     63        Tovary a služby                             7 020           10 040           9 000           9 000            7 000         7 000           6 500
+11.2                           Verejná zeleň                              11 315            6 211           8 102           8 102           10 684         6 184           6 184
+          05.6.0     62        Poistné a príspevok do poisťovní             982              414             902             902              684           684              684
+          05.6.0     63        Tovary a služby                            10 333            5 797           7 200           7 200           10 000         5 500           5 500
+11.3                           Obecné služby                              30 819           35 032          31 100          36 200           35 984        35 984          35 984
+          06.2.0     61        Mzdy, platy                                18 921           21 122          21 160          23 600           24 500        24 500          24 500
+          06.2.0     62        Poistné a príspevok do poisťovní            6 866            7 885           7 940           8 500            9 284         9 284           9 284
+          06.2.0     63        Tovary a služby                             3 323            4 354            500            2 600             700           700              700
+          06.2.0     64        Bežné transfery                             1 709            1 671           1 500           1 500            1 500         1 500           1 500
+11.4                           Protipovodňová ochrana                             0         1 586                 0                0            0                 0            0
+          05.4.0     63        Tovary a služby                                    0         1 586                 0                0            0                 0            0
+11.5                           Kontajneroviská a kompostéry                       0                5        3 000           8 000            1 000                0            0
+          05.1.0     63        Tovary a služby                                    0                5        3 000           8 000            1 000                0            0
+11.6                           Detské ihriská                                     0          205             300             300              300           300                0
+          06.2.0     63        Tovary a služby                                    0          205             300             300              300           300                0
+11.7                           Oddychové zóny                                     0                0              0                0            0                 0            0
+          06.2.0     63        Tovary a služby                                    0                0              0                0            0                 0            0
+11.9                           Karantenizácia a deratizácia                 133              120             550             550              550           550              550
+          01.3.3     63        Tovary a služby                              133              120             550             550              550           550              550
+12.                            SOCIÁLNE SLUŽBY                           196 525          176 062         191 776         212 875          219 303       219 303         219 303
+12.1                           Opatrovateľská služba v byte občana        88 757           58 979          83 211         102 710          123 375       123 375         123 375
+          10.2.0     61        Mzdy, platy                                50 041           40 174          57 000          71 200           84 850        84 850          84 850
+
+
+
+                                                                       Strana 6
+                                                                        7
+
+                                                                                                                   Očakávaná
+                     Skupina                                      Skutočnosť       Skutočnosť       Rozpočet       skutočnosť
+Program   Funč.kl.   EK        Názov                                 2024             2025            2026            2026          Návrh 2027    Návrh 2028       Návrh 2029
+
+          10.2.0     62        Poistné a príspevok do poisťovní        18 237           14 353          20 701          26 000           32 225        32 225          32 225
+          10.2.0     63        Tovary a služby                         13 409             247             510             510              300           300              300
+          10.2.0     64        Bežné transfery                          7 070            4 205           5 000           5 000            6 000         6 000           6 000
+12.2                           Terénná sociálna práca                  93 458          101 578          93 165          93 165           79 928        79 928          79 928
+          09.5.0     61        Mzdy, platy                             60 598           68 520          64 455          60 395           54 800        54 800          54 800
+          09.5.0     62        Poistné a príspevok do poisťovní        22 760           25 360          22 940          22 610           20 496        20 496          20 496
+          09.5.0     63        Tovary a služby                          5 970            3 558           1 590           4 000            1 532         1 532           1 532
+          09.5.0     64        Bežné transfery                          4 130            4 140           4 180           6 160            3 100         3 100           3 100
+12.3                           Rodinná politika                        14 310           15 505          15 400          17 000           16 000        16 000          16 000
+          10.7.0     63        Tovary a služby                         14 310           15 505          15 400          17 000           16 000        16 000          16 000
+12.4                           Komunitné centrum                               0                0              0                0            0                 0            0
+          06.2.0     63        Tovary a služby                                 0                0              0                0            0                 0            0
+13.                            PODPORNÁ ČINNOSŤ                       478 733          474 136         481 402         506 450          509 203       507 203         507 203
+13.1                           Podporná činnosť - správa obce         452 308          456 583         461 902         486 950          497 703       495 703         495 703
+          01.1.1     61        Mzdy, platy                            258 415          276 346         279 536         291 260          297 000       297 000         297 000
+          01.1.1     62        Poistné a príspevok do poisťovní        99 737          104 317         103 921         110 530          111 895       111 895         111 895
+          01.1.1     63        Tovary a služby                         44 617           41 169          44 205          50 960           44 955        42 955          42 955
+          01.1.2     63        Tovary a služby                          2 803            2 650           2 580           2 580            2 535         2 535           2 535
+          01.3.3     63        Tovary a služby                          9 190            9 203           9 400           8 660            9 000         9 000           9 000
+          04.1.1     63        DzMV                                      127              254             260             260              318           318              318
+          10.7.0     63        To

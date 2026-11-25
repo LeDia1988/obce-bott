@@ -1,0 +1,480 @@
+URL: https://www.obechazlin.sk/Dokumenty/Rok2026/Navrh_rozpocet-2027.pdf
+OBEC: Hažlín (Bardejov)
+NÁZOV: Celý návrh rozpočtu
+ZDROJ: web obce
+
+                                                             Návrh rozpočtu na roky
+
+
+
+Príjmy
+Druh     Funč.kl.
+             Ekon.kl. Zdroj   An.    Názov                                              2027      2028      2029
+1                                    Bežný rozpočet
+             111003   41             MF SR - Výnos dane z príjmov - podielové dane    360 000   360 000   360 000
+             121001   41             Z pozemkov                                        20 000    20 000    20 000
+             121002   41             Zo stavieb                                        11 000    11 000    11 000
+             121003   41             Z bytov a nebytových priestorov v bytovom dome 144             144       144
+             133001   41             Za psa                                             1000      1000      1000
+             133013   41             Za komunálne odpady a drobné stavebné odpady      34 000    34 000    34 000
+             212003   41             Z prenajatých budov /KSB, DN, Mikroregión,WI-NET/  3 000     3 000     3 000
+             212003   41      1      Príjmy z nájmu - BD I,II,III-nájom-trans.ver. dlhu23 000    23 000    23 000
+             212003   41      2      Príjmy z nájmu - BD I,II,III - fond PÚaO           5 000     5 000     5 000
+             212003   41      3      Príjmy z nájmu - BD I,II,III - mesačné poistné     1 000     1 000     1 000
+             212003   41      4      Príjmy z nájmu-BD I,II,III - výdavky na správu     2 000     2 000     2 000
+             212003   41      5      Príjmy z nájmu - Byty I,II.III-ost. fin. náklady   1 000     1 000     1 000
+             212003   41      7      Z prenájmu /Sl.Telekom, Slov. pošta,Mikroregión/ 600           600       600
+             212003   41      8      Príjmy z prenájmu hrobového miesta                   200       200       200
+             212004   41      SPP    Príjem z prenájmu zariadenia - SPP                   120       120       120
+             221002   41             Správne poplatky                                   3 000     3 000     3 000
+             223001   41             Za predaj tovarov a služieb, doprava detí do MŠ 1 000        1 000     1 000
+             223001   41      1      Príjem za pohrebnícke služby                         500       500       500
+             223001   41      2      Za užívanie priestorov /posilovňa, zumba,/           500       500       500
+             223001   41      3      Príjem z cintorínskych poplatkov                   5 000     5 000     5 000
+             223001   41      BD1    Príjem zo záloh.platieb BD I,II,III - plyn        10 000    10 000    10 000
+             223001   41      BD2    Príjem zo záloh.platieb BD I,II,III - voda         4 000     4 000     4 000
+             223001   41      BD3    Príjem zo záloh.platieb BD I,II,III - stočné       1 500     1 500     1 500
+             223001   41      BD4    Príjem zo záloh.platieb BD I,II,III - elektrina    1 000     1 000     1 000
+             223001   41      KAN    Príjmy od obyvateľov za stočné - Kanalizácia 30 000         30 000    30 000
+             223002   41             Príjem z príspevkov za pobyt v MŠ                  1 800     1 800     1 800
+             223003   72f     ŠJ     Za stravné ŠJ                                      5 000     5 000     5 000
+             246      41      VVS    Výnosový úrok VVS - Voda spieva                    5 854     5 854     5 854
+             292012   41             Z dobropisov                                      10 000    10 000    10 000
+             292019   41             Z refundácie /energie Mikroregión,Pošta,WI-NET/2 500         2 500     2 500
+             311      72a     FEST   Granty-sponzorské dary /Festival/                  1 000     1 000     1000
+             312001   111     §54M   UPSVAR - PUPN - §54 - materiál                       100       100       100
+
+
+
+                                                                     Page 1
+                                                            Návrh rozpočtu na roky
+
+
+             312001   111     SŠJ    UPSVR - Strava ŠJ /MŠ/                      2 000         2 000       2 000
+             312001   111     VH     MV SR - Vojnové hroby                       2 000         2 000       2 000
+             312002   45      ENVI   ENVF - Odpady - separovanie, vytriedenosť     850           850         850
+             312008   11H     MSKD   PSK-Modernizácia sály KD /BV/               1 000         1 000       1 000
+             312011   11H     FEST   Fond na podporu umenia - Festival           2 000         2 000       2 000
+             312012   111     DEC    MV SR - decentr. dot. REGOB, RA               370           370         370
+             312012   111     MŠ     MŠVVaŠ - MŠ - normatív                    110 000       110 000     110 000
+             312012   111     VVP    MŠVVaŠ - MŠ - VVP /vých.-vzdel. program/      900           900         900
+             315      72j     DPO    Transfer DPO - príspevok pre DHZ            3 000         3 000       3 000
+         *                           Bežný rozpočet spolu                      666 938       666 938     666 938
+*1
+2                                  Kapitálový rozpočet
+             322002 111       ZPS  Zariadenie pre seniorov                      1 500 000   1 500 000   1 500 000
+             322002 111       ZSKD Modernizačný fond-Zateplenie sály KD           993 000     993 000     993 000
+                                   Rekonštrukcia obecného rozhlasu MAS             22 000      22 000      22 000
+                                   Vodozadržné opatrenia zar. pre seniorov        300 000     300 000     300 000
+             322002 45        RH   ENVF - Rozvoj hospodárstva - traktor            70 000      70 000      70 000
+         *                         Kapitalový rozpočet spolu                    2 885 000   2 885 000   2 885 000
+*2
+3                                    Finančné operácie
+             322001   111     IBV2   MFSR - Výstavba MK - IBV 2                    9 750       9 750       9 750
+             322001   111     RPCH   MFSR - Rek. prístup. chodníka - Cintorín     19 000      19 000      19 000
+             453      131P    VH-2   Zost. dot. z r.2026-Vojnové hroby 2 /BT/          0           0           0
+             454001   46      RF     Z rezervného fondu obce                           0           0           0
+             514001   45      ENVF   ENVFF - poskytnutý úver                     204 918     196 000     187 158
+         *                           Finančné operácie                           233 668     224 750     215 908
+*3
+                                     SPOLU PRÍJMY                               3 785 606   3 776 688   3 767 846
+
+
+
+
+Výdaje
+Druh     Funč.kl.
+             Ekon.kl. Zdroj   An.    Názov                                        Upravený Čerpanie    Rozdiel
+1                                    Bežný rozpočet
+         01.1.1                      Výkonné a zákonodarné orgány
+              611     41             Tarifný plat, osobný plat, základný plat, funkčný160 000  160 000    160 000
+
+
+                                                                    Page 2
+                                            Návrh rozpočtu na roky
+
+
+621      41         Poistné do Všeobecnej zdravotnej poisťovne 15 000        15 000   15 000
+623      41         Poistné do ostatných zdravotných poisťovní       1 000    1 000    1 000
+625001   41         Na nemocenské poistenie                          2 240    2 240    2 240
+625002   41         Na starobné poistenie                           22 400   22 400   22 400
+625003   41         Na úrazové poistenie                             1 280    1 280    1 280
+625004   41         Na invalidné poistenie                           4 800    4 800    4 800
+625005   41         Na poistenie v nezamestnanosti                   1 600    1 600    1 600
+625007   41         Na poistenie do rezervného fondu solidarity      7 600    7 600    7600
+627      41         Príspevok do doplnkových dôchodkových poisťovní  6 400    6 400    6 400
+631001   41         Tuzemské                                         1 000    1 000    1 000
+632002   41         Vodné, stočné                                      350      350      350
+632003   41    POŠT Poštové služby                                     500      500      500
+632004   41         Komunikačná infraštruktúra - internet              400      400      400
+632005   41         Telekomunikačné služby                           1 500    1 500    1 500
+632006   41         Elektrina                                        3 000    3 000    3 000
+632007   41         Plyn                                             6 000    6 000    6 000
+633001   41         Interiérové vybavenie                              200      200      200
+633002   41         Výpočtová technika                                 200      200      200
+633003   41         Telekomunikačná technika, splátky za zariadenie 500         500      500
+633004   41         Prevádzkové stroje, prístroje, zariadenie,       1 000    1 000    1 000
+633006   111   DEC  Všeobecný materiál                                 370      370      370
+633006   41         Všeobecný materiál OÚ                            3 000    3 000    3 000
+633015   41         Palivá ako zdroj energie                           100      100      100
+633015   41    PHM Palivá - oleje, mazivá                              100      100      100
+633016   41         Reprezentačné, občerstvenie                        800      800      800
+634001   41    BENZ Palivá- benzín, oleje, kavapaliny Fábia I,II       800      800      800
+634001   41    NAFT Palivá - nafta do traktora, oleje                  800      800      800
+634002   41         Servis, údržba, opravy - dopr. prostr., traktor  1 000    1 000    1 000
+634003   41         Poistenie - auto, autobus,traktor /zák. a hav./    800      800      800
+634005   41         Karty, známky, poplatky /STK, EK/                  100      100      100
+635002   41         Výpočtovej techniky                                200      200      200
+635004   41         Prevádzkových strojov, prístrojov, zariadení,      300      300      300
+635006   41         Údržba OcU, priestranstiev                       1 500    1 500    1 500
+635009   41         Údržba softvéru, aktualizácie,prístupy           1 000    1 000    1 000
+636001   41         Prenájom - tok Hažlínka, nájomné                     7        7        7
+637001   41         Školenia, kurzy, semináre, porady, konferencie, 800         800      800
+
+
+
+                                                    Page 3
+                                                 Návrh rozpočtu na roky
+
+
+     637004   41          Všeobecné služby                              3 000        3 000     3 000
+     637004   41    2     Všeobecné služby - revízie                      500          500       500
+     637004   41    3     Všeobecné služby - odchyt psov                    0            0         0
+     637005   41          Špeciálne služby ,audit, geometr. plány       1 800        1 800     1 800
+     637012   41          Poplatky a odvody                                50           50        50
+     637014   41          Stravovanie                                  10 000       10 000    10 000
+     637015   41          Poistné                                       1 000        1 000     1 000
+     637016   41          Prídel do sociálneho fondu                    1 600        1 600     1 600
+     637026   41          Odmeny a príspevky poslancom                  8 000        8 000     8 000
+     637031   41          Pokuty a penále                                  10           10        10
+     637037   41          Vratky                                           50           50        50
+     641009   41    SUO   Transfer obci Becherov - služby SUO           6 500        6 500     6 500
+     642006   41          Na členské príspevky /ZMOS, ZMOŠ.../          3 000        3 000     3 000
+     642015   41          Na nemocenské dávky                             200          200       200
+*01.1.1                   Výkonné a zákonodarné orgány                284 357      284 357   284 357
+
+01.1.2                    Finančné a rozpočtové záležitosti
+     637012 41            Poplatky a odvody banke                          1 000     1 000     1 000
+*01.1.2                   Finančné a rozpočtové záležitosti                1 000     1 000     1 000
+
+01.7.0                    Transakcie verejného dlhu
+     651002   41          Úroky z úveru                                   10 000    10 000    10 000
+     651003   41    1     Úroky z úveru ŠFRB I.                            1 350     1 350     1 350
+     651003   41    2     Úroky z úveru ŠFRB II.                           1 417     1 417     1 417
+     651003   41    3     Úroky z úveru ŠFRB III.                          1 772     1 772     1 772
+     651003   41    KAN   Úroky z úveru Envir. fond - Kanalizácia             10        10        10
+     653001   41          Manipulačné poplatky, záv. provízie                200       200       200
+*01.7.0                   Transakcie verejného dlhu                       14 749    14 749    14 749
+
+03.2.0                    Ochrana pred požiarmi
+     633004   72j   DPO   Prevádzkové stroje, prístroje - DPO                200       200       200
+     633006   72j   DPO   Všeobecný materiál - príspevok pre DHZ           2 200     2 200     2 200
+     633010   72j   DPO   Pracovné odevy, obuv a pracovné pomôcky            600       600       600
+     634002   41          Servis, údržba, opravy                             200       200       200
+     637001   41    DPO   Školenia, kurzy - príspevok DPO                     70        70        70
+     637002   41          Súťaže DHZ                                          30        30        30
+
+
+
+                                                          Page 4
+                                                  Návrh rozpočtu na roky
+
+
+     642006 41            Na členské príspevky                                100       100      100
+*03.2.0                   Ochrana pred požiarmi                             3 400     3 400    3 400
+
+04.5.1                    Cestná doprava
+     633006 41            Všeobecný materiál, posypová soľ, dopravné značky
+                                                                         100           100      100
+*04.5.1                   Cestná doprava                                 100           100      100
+
+05.1.0                    Nakladanie s odpadmi
+     633015   41          Palivá ako zdroj energie - na kosenie           500           500      500
+     637004   41          Vývoz odpadu, odpadu, hlásenia o odpade      27 500        27 500   27 500
+     637004   41   2      Vývoz odpadu - veľkoobjemový kontajner        2 000         2 000    2 000
+     637004   45   ENVI   Vývoz odpadu - veľkoobjemový kontajner - dot.ENVF
+                                                                          850           850      850
+     637035   41          Zákonné poplatky za odpad                     4 000         4 000    4 000
+*05.1.0                   Nakladanie s odpadmi                         34 850        34 850   34 850
+
+05.2.0                    Nakladanie s odpadovými vodami
+     611      41          Tarifný plat, osobný plat, zákl. plat Kanalizácia 7 500     7 500    7 500
+     621      41          Poistné do Všeobecnej zdravotnej poisťovne           825      825      825
+     625001   41          Na nemocenské poistenie                              100      100      100
+     625002   41          Odvody do SP                                       1 000    1 000    1 000
+     625003   41          Na úrazové poistenie                                  60       60       60
+     625004   41          Na invalidné poistenie                               250      250      250
+     625005   41          Na poistenie v nezamestnanosti                        75       75       75
+     625007   41          Na poistenie do rezervného fondu solidarity          350      350      350
+     627      41          Príspevok na doplnkové dôchodkové sporenie           300      300      300
+     632006   41   KAN    Elektrina                                         15 000   15 000   15 000
+     633004   41          Prevádzkové stroje, prístroje, zariadenia          1 000    1 000    1 000
+     633006   41          Všeobecný materiál                                 1 000    1 000    1 000
+     635006   41          Údržba, servis ČOV                                   100      100      100
+     637004   41          Prevádzkovanie obecnej ČOV, odb. pomoc pri 2     správe
+                                                                               000    2 000    2 000
+     637011   41          Kontroly, merania, rozbory - Obecná ČOV              500      500      500
+     637014   41          Stravovanie                                           50       50       50
+     637016   41          Prídel do sociálneho fondu                           100      100      100
+*05.2.0                   Nakladanie s odpadovými vodami                    30 210   30 210   30 210
+
+06.2.0                    Rozvoj obcí
+
+
+
+                                                          Page 5
+                                                  Návrh rozpočtu na roky
+
+
+     632006   41        Elektrina Hospodárska budova                          100           100      100
+     633004   41        Prevádzkové stroje, prístroje, zariadenia             200           200      200
+     633006   41        Všeobecný materiál                                  1 000         1 000    1 000
+     633015   41        Palivá ako zdroj energie                              100           100      100
+     634001   41   NAFT Palivo, mazivá, oleje, špec.kvapaliny - traktor       300           300      300
+     637004   41   TRAK Služby - Obst. Traktora s príslušenstvom              500           500      500
+     637015   41        Poistné - Hospodárska budova                          300           300      300
+*06.2.0                 Rozvoj obcí                                         2 500         2 500    2 500
+
+06.4.0                     Verejné osvetlenie
+     632006 41             Elektrina VO                                     3 500         3 500    3 500
+     635006 41             Údržba VO                                          500           500      500
+*06.4.0                    Verejné osvetlenie                               4 000         4 000    4 000
+
+06.6.0                  Bývanie a občianska vybavenosť inde neklasifikovaná
+     632002   41   BD   Vodné - Byt. dom I.,II.,III                           3 000       3 000    3 000
+     632006   41        Elektrina - Bytový dom I.,II.,III.                    1 000       1 000    1 000
+     632007   41        Plyn - Bytový dom I.,II.,III.                       17 000       17 000   17 000
+     633015   41        Palivá ako zdroj energie                                100         100      100
+     635006   41   BDFO Fond PÚaO - BDI.,II.,III. - opravy, údržba            1 500       1 500    1 500
+     637004   41   BDFO Služby,kontroly,revízie BDI.,II.,III. - prostr. FO      500         500      500
+     637015   41   BD   Poistné BD I.II.III.                                  1 100       1 100    1 100
+     637037   41   BD   Vratky - preplatky nájomného BDI,II,III               5 000       5 000    5 000
+*06.6.0                 Bývanie a občianska vybavenosť inde            neklasifikovaná
+                                                                            29  200      29 200   29 200
+
+07.4.0                     Ochrana, podpora a rozvoj verejného zdravia
+     637004 41             Vypracovanie zdravotných posudkov                  100          100      100
+*07.4.0                    Ochrana, podpora a rozvoj verejného zdravia        100          100      100
+
+08.1.0                     Rekreačné a športové služby
+     637004 41             Všeobecné služby - Detské ihrisko                  250          250      250
+*08.1.0                    Rekreačné a športové služby                        250          250      250
+
+08.2.0                  Kultúrne služby
+     632002 41          Vodné, stočné                                         300           300      300
+     633001 11H    MSKD Interiérové vybavenie - Sála KD                     1 000         1 000    1 000
+
+
+
+                                                           Page 6
+                                                   Návrh rozpočtu na roky
+
+
+     633006   41         Všeob.materiál KD                                   200       200      200
+     633006   41    SKAN Všeobecný materiál - Skanzém                        200       200      200
+     637002   11H   FEST Fond na podporu umenia-Kult. podujatia /Festival/2 000      2 000    2 000
+     637002   41         Kultúrne podujatia - Uvítanie detí, MDŽ, Deň detí1 000      1 000    1 000
+     637002   41    1    Kultúrne podujatia - Mikuláš, Vianočné vystúpenie 800         800      800
+     637002   41    2    Kultúrne podujatia - Festival                     5 000     5 000    5 000
+     637002   41    3    Kultúrne podujatia - Odmeny hudobníkom Hažlín 500             500      500
+     637002   41    4    Kultúrne podujatia - Obecná zabíjačka                 0         0        0
+     637002   72a   FEST Kultúrne podujatia - Festival - sponzor. príspevky1 000     1 000    1 000
+     637004   41         Všeobecné služby                                    100       100      100
+*08.2.0                  Kultúrne služby                                  12 100    12 100   12 100
+
+08.3.0                     Vysielacie a vydavateľské služby
+     633006 41             Všeobecný materiál - Verejný rozhlas              100      100      100
+     635004 41             Údržba MR                                         100      100      100
+     637012 41             Poplatky SOZA, Slovgram                           200      200      200
+*08.3.0                    Vysielacie a vydavateľské služby                  400      400      400
+
+08.4.0                     Náboženské a iné spoločenské služby
+     632002   41           Vodné, stočné Cintorín, DN                         100      100      100
+     632006   41           Elektrina                                          800      800      800
+     633006   41           Všeobecný materiál                                 400      400      400
+     633015   111   VH     Palivá - kosenie vojenského cintorína              100      100      100
+     633015   41           Palivá ako zdroj energie - kosenie cintorína       100      100      100
+     635004   41           Údržba chladiaceho zariadenia                      110      110      110
+     635006   111   VH     Údržba vojnových hrobov                          1 900    1 900    1 900
+     635006   41           Údržba cintorína, DN                             2 000    2 000    2 000
+     637004   41           Služby - Dom nádeje, Vojnové hroby                 200      200      200
+     637015   41           Poistné DN                                         126      126      126
+*08.4.0                    Náboženské a iné spoločenské služby              5 836    5 836    5836
+
+09.1.1.1                   Predprimárne vzdelávanie s bežnou starostlivosťou
+     611      111   MŠ     Tarifný plat, osobný plat, zákl. plat - MŠ 70 000        70 000   70 000
+     621      111   MŠ     Poistné do Všeobecnej zdrav.poisť.          5 000         5 000    5 000
+     623      111   MŠ     Poistné do ostatných zdravotných poisťovní  2 700         2 700    2 700
+     625001   111   MŠ     Na nemocenské poistenie - MŠ                  980           980      980
+
+
+
+                                                           Page 7
+                                                Návrh rozpočtu na roky
+
+
+     625002   111   MŠ    Odvody do SP - dot. MŠ-normatív                  9 800     9 800     9 800
+     625004   111   MŠ    Na invalidné poistenie - MŠ                      2 100     2 100     2 100
+     625005   111   MŠ    Na poistenie v nezamestnanosti - MŠ                700       700       700
+     625007   111   MŠ    Na poistenie do rezervného fondu solidarity - MŠ 3 325     3 325     3 325
+     632002   111   MŠ    Vodné, stočné - MŠ                                 300       300       300
+     632004   111   MŠ    Komunikačná infraštruktúra-internet, webstránka 200          200       200
+     632005   111   MŠ    Telekomunikačné služby                             145       145       145
+     632006   111   MŠ    Elektrina                                        2 500     2 500     2 500
+     632007   111   MŠ    Plyn                                             5 000     5 000     5 000
+     633001   111   MŠ    Interiérové vybavenie - MŠ                         500       500       500
+     633002   111   MŠ    Výpočtová technika                                 500       500       500
+     633006   111   MŠ    Všeobecný materiál - MŠ                          1 400     1 400     1 400
+     633009   111   MŠ    Knihy, časopisy, noviny , učebnice, učebné pomôcky 200       200       200
+     633010   111   MŠ    Pracovné odevy, obuv a pracovné pomôcky            100       100       100
+     633015   111   MŠ    Palivá ako zdroj energie MŠ                        100       100       100
+     635006   111   MŠ    Údržba MŠ                                          100       100       100
+     637001   111   MŠ    Školenia, kurzy, semináre, porady, konferencie      50        50        50
+     637002   111   MŠ    Akcie, súťaže, karneval                            200       200       200
+     637002   111   VVP   Akcie, súťaže - Vých. vzd. proces                  300       300       300
+     637004   111   MŠ    Všeobecné služby                                   500       500       500
+     637004   111   VVP   Všeobecné služby - Výchovno-vzdel. proces          600       600       600
+     637012   111   MŠ    Poplatky banke MŠ                                  100       100       100
+     637014   111   MŠ    Stravovanie MŠ                                     300       300       300
+     637015   111   MŠ    Poistné majetku, detí                              300       300       300
+     637016   111   MŠ    Prídel do sociálneho fondu MŠ                      700       700       700
+     641009   111   MŠ    SUO Becherov - služby                            2 000     2 000     2 000
+     642015   111   MŠ    Na nemocenské dávky                                200       200       200
+*09.1.1.1                 Predprimárne vzdelávanie s bežnou starostlivosťou
+                                                                         110 900   110 900   110 900
+
+09.1.2.1                  Primárne vzdelávanie s bežnou starostlivosťou
+     632002   41          Vodné - budova bývalej ZŠ                         50          50        50
+     632006   41          Elektrina - budova bývalej ZŠ                    200         200       200
+     632007   41          Plyn - budova bývalej ZŠ                       5 000       5 000     5 000
+     637004   41          Všeob. služby, servisné prehliadky-budova býv.ZŠ 100         100       100
+     637015   41          Poistné - budova bývalej ZŠ                      900         900       900
+*09.1.2.1                 Primárne vzdelávanie s bežnou starostlivosťou  6 250       6 250     6 250
+
+
+
+                                                         Page 8
+                                                  Návrh rozpočtu na roky
+
+
+
+09.5.0                      Vzdelávanie nedefinované podľa úrovne
+     641009 41       CVČ    Príspevok na činnosť CVČ                           0            0            0
+     642004 41       CVČ    Príspevok na CVČ - cirkevnej škole               650          650          650
+     642005 41       CVŠ    Súkromnej škole - príspevok na CVČ                 0            0            0
+*09.5.0                     Vzdelávanie nedefinované podľa úrovne            650          650          650
+
+09.6.0.1                    Vedľajšie služby poskytované v rámci predprimárneho vzdelávania
+     611      41            Tarifný plat, osobný plat, základný plat, funkčný 20 000     20 000      20 000
+     621      41            Poistné do Všeobecnej zdravotnej poisťovne         1 300      1 300       1 300
+     623      41            Poistné do ostatných zdravotných poisťovní           700        700         700
+     625001   41            Na nemocenské poistenie                              280        280         280
+     625002   41            Na starobné poistenie                              2 800      2 800       2 800
+     625003   41            Na úrazové poistenie                                 160        160         160
+     625004   41            Na invalidné poistenie                               600        600         600
+     625005   41            Na poistenie v nezamestnanosti                       200        200         200
+     625007   41            Na poistenie do rezervného fondu solidarity          950        950         950
+     627      41            Príspevok do doplnkových dôchodkových poisťovní400              400         400
+     632006   41            Elektrina                                            800        800         800
+     633006   41            Všeobecný materiál                                   100        100         100
+     633011   111    SŠJ    Potraviny - dotácia na stravu ŠJ/MŠ/               2 000      2 000       2 000
+     633011   72f    ŠJ     Potraviny                                          5 000      5 000       5 000
+     635009   41            Úudržba softvéru, aktualizácie, prístupy              70         70          70
+     637016   41            Prídel do sociálneho fondu                           200        200         200
+     637018   131P   SŠJ    Vrátka dot. z r.2023 - Strava ŠJ pre deti MŠ           0          0           0
+     642015   41            Na nemocenské dávky                                  200        200         200
+*09.6.0.1                   Vedľajšie služby poskytované v rámci        predprimárneho
+                                                                              35 760   vzdelávania
+                                                                                         35 760      35 760
+
+10.2.0                      Staroba
+     632001   41            Energie - elektrina Zariadenie pre seniorov        0            0             0
+     632002   41            Vodné ZPS                                         30           30            30
+     632006   41            Elektrina                                        200          200           200
+     637002   41            Posedenie s dôchodcami, dary pre dôchodcov 2 000            2 000         2 000
+     637014   41     S-PS   Stravovanie dôchodcov- príspevok na stravu     2 700        2 700         2 700
+     642002   41            Príspevok pre Jednotu dôchodcov                    0            0             0
+     642002   41     ZPS    Príspevok- Zariadenie pre seniorov Minor, Zborov   0            0             0
+
+
+
+                                                           Page 9
+                                                       Návrh rozpočtu na roky
+
+
+     *10.2.0                    Staroba                                          4 930     4 930     4 930
+
+     10.4.0                     Rodina a deti
+          642014 41             Príspevok pri narodení dieťaťa                   2 000     2 000     2 000
+     *10.4.0                    Rodina a deti                                    2 000     2 000     2 000
+
+     10.5.0                     Nezamestnanosť
+          611      41           Tarifný, základný,osobný plat - Finančné stimuly 4 860
+          623      41           Poistné do ostatných ZP - Finančné stimuly         530
+          625001   41           Na nemocenské poistenie - Finančné stimuly          70
+          625002   41           Na starobné poistenie - Finančné stimuly           680
+          625003   41           Na úrazové poistenie - Finančné stimuly             40
+          625004   41           Na invalidné poistenie - Finančné stimuly          145
+          625005   41           Na poistenie v nezamestnanosti - Finančné stimuly 50
+          625007   41           Na poistenie do RF - Finančné stimuly              230
+          633006   111   §54M   Všeobecný materiál §54 PUPN                         40
+          633006   41           Všeobecný materiál                                   0
+          633010   111   §54M   Pracovné odevy, obuv, pomôcky PUPN                  40
+          633010   41           Pracovné odevy, obuv a pracovné pomôcky              0
+          637014   41           Stravovanie                                        300
+          637015   111   §54M   Poistné PUPN                                        20
+          637016   41           Prídel do sociálneho fondu - Finačné stimuly        50
+     *10.5.0                    Nezamestnanosť                                   7 055        0         0
+
+*1                              Bežný rozpočet spolu                         590 597     583 542   583 542
+
+
+2                               Kapitálový rozpočet
+     01.1.1                     Výkonné a zákonodarné orgány
+          713004 45      RH     ENVF-rozvoj hospodársktva - traktor             70 000    70 000    70 000
+     *01.1.1                    Výkonné a zákonodarné orgány                    70 000    70 000    70 000
+
+     04.5.1                     Cestná doprava
+          717001 111     IBV2   Výstavba MK - IBV 2                              9 750     9 750     9 750
+     *04.5.1                    Cestná doprava                                   9 750     9 750     9 750
+
+
+
+
+                                                                 Page 10
+                                                     Návrh rozpočtu na roky
+
+
+     08.2.0                  Kultúrne služby
+          717002 111    ZSKD Modernizačný fond - Zateplenie sály KD        993 000       993 000     993 000
+          717002 41     ZSKD Zateplenie sály KD - spoluúčasť                33 000        33 000      33 000
+     *08.2.0                 Kultúrne služby                             1 026 000     1 026 000   1 026 000
+
+     08.4.0                  Náboženské a iné spoločenské služby
+          717002 111    RPCH Rekonštrukcia prístupového chodníka              19 000     19 000      19 000
+     *08.4.0                 Náboženské a iné spoločenské služby              19 000     19 000      19 000
+     10.2.0                  Staroba
+          717001 111    ZPS  Zariadenie pre seniorov                     1 500 000     1 500 000   1 500 000
+     *10.2.0                 Staroba                                     1 500 000     1 500 000   1 500 000
+                             Rekonštrukcia obecného rozhlasu MAS            22 000        22 000      22 000
+                             Vodozadržné opatrenia zar. pre seniorov       300 000       300 000     300 000
+*2                           Kapitálový rozpočet                         2 946 750     2 946 750   2 946 750
+
+3                              Finančné operácie
+     01.7.0                  Transakcie verejného dlhu
+          821004   41        Z bankových úverov krátkodobých                  6 350       6 350       6 350
+          821006   41   1    Splátka istiny ŠFRB I. - krátkodobá časť         6 860       6 860       6 860
+          821006   41   2    Splátka istiny ŠFRB II. - krátkodobá časť        6 790       6 790       6 790
+          821006   41   3    Splátka istiny ŠFRB III.- krátkodobá časť        7 246       7 246       7 246
+          821006   41   KAN  Z ostat. úverov-Envir.fond-Kanalizácia-kratkodobý9 000       9 000       9 000
+          821007   45   ENVF Z ostatných úverov - Envir.fond               204 918      196 000     187 158
+     *01.7.0                 Transakcie verejného dlhu                     241 164      232 246     223 404
+*3                           Finančné operácie                             241 164      232 246     223 404
+
+                               SPOLU VÝDAJE                              3 778 511     3 762 538   3 753 696
+
+
+
+
+                                                             Page 11
+
