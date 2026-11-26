@@ -1,0 +1,916 @@
+URL: https://cuet.slovensko.sk/en/dokument/10418688-6831-434a-b56e-c3eb2e43b6cc
+OBEC: Markušovce (Spišská Nová Ves)
+NÁZOV: Zverejnenie návrhu rozpočtu obce
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/10418688-6831-434a-b56e-c3eb2e43b6cc
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Zverejnenie návrhu rozpočtu obce
+Search publisher's RSS feeds
+Published on official board:
+Obec Markušovce (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Markušovce (OVM)
+Published to:
+10.12.2026
+Registry case:
+Name of official document:
+Zverejnenie návrhu rozpočtu obce
+Document type:
+Iný elektronický dokument
+Document abstract:
+Zverejnenie návrhu rozpočtu obce markušovce na rok 2027 s výhľadom na roky 2028 a 2029.
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Webové sídlo
+Date of alternative publication start:
+25.11.2026
+Date of alternative publication end:
+10.12.2026
+Attachment name:
+Návrh rozpočtu OcÚ na roky 2027-2029 na vyvesenie.pdf
+Type and size:
+.pdf, 431.35 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rozpočet 2027 - návrh na roky 2027,2028,2029.pdf
+Type and size:
+.pdf, 383.47 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Programový rozpočet 2027 -2029 výdaj.pdf
+Type and size:
+.pdf, 605.35 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/3393d732-0c42-42b2-ba04-fae2ebd3314d
+                                 Návrh rozpočtu Obce Markušovce na rok 2027 s výhľadovým rozpočtom na roky: 2028, 2029
+                                                                 PRíJMY
+
+1
+                                                                    Skutočné        Skutočné        Schválený       Očakávaná
+                                                                                                                                     Rozpočet na     Rozpočet na     Rozpočet na
+                             PRÍJMY                              plneneie za rok plneneie za rok   rozpočet na     skutočnosť za
+                                                                      2024            2025           rok 2026
+                                                                                                                                      rok 2027        rok 2028        rok 2029
+                                                                                                                     rok 2026
+2
+
+
+3    1        Daňové príjmy                                       2 150 392,64     1 974 278,19    2 033 430,00      2 007 345,00    2 253 450,00    2 333 450,00     2 433 450,00
+
+4
+                    Výnos dane z príjmov poukaz. Samospráve (+
+     111003    41                                                  2 071 886,25     1 720 297,04    1 840 090,00      1 912 000,00    2 020 000,00    2 100 000,00     2 200 000,00
+                    za PO)
+5    121001    41 Z pozemkov
+                                                                      13 807,62       13 148,73        17 500,00          9 200,00       17 500,00       17 500,00       17 500,00
+6                   Z pozemkov - nedoplatky minulých rokov               717,06       27 907,20        11 000,00          3 100,00       11 000,00       11 000,00       11 000,00
+7    121002    41 Zo stavieb                                          17 977,33       28 737,85        37 000,00        30 000,00        38 000,00       38 000,00       38 000,00
+8                   Zo stavieb - nedoplatky minulých rokov               960,29      138 968,41        20 000,00          1 900,00       18 000,00       18 000,00       18 000,00
+9    121003    41 Z bytov                                                318,39          343,27          350,00            345,00          350,00          350,00           350,00
+10 133001      41 Za psa                                                 854,43          627,25          800,00            600,00          800,00          800,00           800,00
+11
+     133012    41 Za užívanie verejného priestranstva                    400,00          134,00          330,00           2 000,00        2 000,00        2 000,00         2 000,00
+12 133013      41 Za komunálne odpady                                 40 394,54       37 830,00      101 400,00         43 500,00       140 000,00      140 000,00      140 000,00
+13                Za komunálne odpady - nedoplatky minulých
+                                                                       2 125,00         5 327,77        4 000,00          2 900,00        4 000,00        4 000,00         4 000,00
+                  rokov
+14 134001      41 Z úhrad za dobývací priestor                           951,73          956,56          960,00           1 800,00        1 800,00        1 800,00         1 800,00
+15
+     2        Nedaňové príjmy                                       547 081,10      170 656,53      172 095,00        144 620,00       166 495,00      161 495,00      161 495,00
+
+16 211003      41 Dividendy                                                 0,00        1 414,90        1 400,00          2 100,00        2 000,00        2 000,00         2 000,00
+17 212002      41 Z prenajatých pozemkov                               5 666,30         5 207,65        5 000,00        10 400,00         5 000,00        5 000,00         5 000,00
+18
+     212002    41 Z prenajatých pozemkov Poľovnícky revír                   0,00        1 743,00         581,00            580,00          581,00          581,00           581,00
+19 212002      41 Z prenajatých pozemkov - hroby                       1 785,00         2 275,00        1 500,00          2 200,00        1 000,00        1 000,00         1 000,00
+20 212003      41 Nájomné byty                                        60 051,56       57 248,61        55 700,00        55 000,00        55 700,00       55 700,00       55 700,00
+21
+     212002    41 Vecné bremeno:inžinierske siete                           0,00         165,97         3 000,00          3 860,00        3 000,00        3 000,00         3 000,00
+
+
+
+                                                                                                                                                                                      Strana 1
+22 212003     41 Nájomné nebytové priestory                          403,00     3 381,60    1 840,00    3 650,00    1 800,00    1 800,00    1 800,00
+23            41 Garáž                                                           228,06         0,00        0,00     840,00      840,00      840,00
+24            41 - Dom smútku                                        750,00     1 350,00    1 000,00    1 300,00    1 000,00    1 000,00    1 000,00
+25            41 - Zdrav. Stredisko                                 2 775,72    2 253,87    2 500,00    2 450,00    2 300,00    2 300,00    2 300,00
+26            41 - Prenájom kultúrneho domu                          820,00      800,00     1 000,00      900,00    1 000,00    1 000,00    1 000,00
+27                 Ostatné poplatky (správ.poplatky matrika,
+     221004   41                                                    5 222,20    9 576,10    8 000,00    6 000,00    8 000,00    8 000,00    8 000,00
+                   st.úrad, SHR, REGOB, rybár. lístky)
+28 222003     41 Poplatky, pokuty                                       0,00        1,80        0,00        0,00        0,00        0,00        0,00
+29
+     292006   72 Z náhrad z poistného plnenia/KP-požiar                 0,00        0,00        0,00        0,00        0,00        0,00        0,00
+30 223001     41
+                   Za predaj výrobkov, tovarov a služieb (vodné,
+                                                                   24 396,42   25 010,04   57 500,00   30 000,00   45 000,00   45 000,00   45 000,00
+                   stočné)
+                   Vodné/stočné - fixný poplatok                                                           20,00     100,00      100,00      100,00
+31                 Za vodné stočné - nedoplatky                     5 750,45   11 820,75   10 000,00    4 000,00   15 000,00   10 000,00   10 000,00
+32   223001   41 Voda - dobitie karty                                   0,00     210,00                    50,00     100,00      100,00      100,00
+33 223001     41 Príjem z predaja knih                               167,58      191,54      150,00       130,00     150,00      150,00      150,00
+34            41 Za dodávku elektriny, plynu
+     223001                                                         7 186,96    7 326,55    6 000,00    7 200,00    7 500,00    7 500,00    7 500,00
+35            41 - refundácia Zdrav.stredisko
+
+36            41 Refundácia za el.energiu od firmy PROFIROB
+     223001                                                             0,00        0,00    9 474,00        0,00    9 474,00    9 474,00    9 474,00
+37 223001     41 Za dodávku elektriny, - zmrzlinár                  2 393,72    1 941,16    2 000,00    1 900,00    2 000,00    2 000,00    2 000,00
+38 223001     41 Elektrina/výstavba ZŠ nová                                      578,67                     0,00        0,00        0,00        0,00
+39
+     223001   41 Poplatok za vstup na pohrebisko                                                          360,00     500,00      500,00      500,00
+                                                                     339,00      335,00      500,00
+40 223001     41 Poplatok za vyhlásenie v obecnom rozhlase            98,00      187,00      350,00       200,00     350,00      350,00      350,00
+41 223001     41 Príjem z predaja železného šrotu                       0,00        0,00        0,00        0,00        0,00        0,00        0,00
+42
+     229005   41 Za znečistenie ovzdušia                                0,00        0,00        0,00        0,00        0,00        0,00        0,00
+43 244        41 Úrok z terminovaného vkladu                       33 500,00   22 300,01        0,00        0,00        0,00        0,00        0,00
+44 292006     41 Z náhrad z poistného plnenia                           0,00        0,00        0,00        0,00        0,00        0,00        0,00
+45 292012     41 Z dobropisov - plyn, EE, voda                     11 828,13    5 033,41    1 000,00        0,00    1 000,00    1 000,00    1 000,00
+46 292017     41 Z vrátiek                                          2 017,62     214,16     1 000,00      200,00    1 000,00    1 000,00    1 000,00
+47 292027     41 Iné príjmy                                          573,83     1 800,48     100,00       100,00     100,00      100,00      100,00
+48 292027     41 Iný príjem/pohľadávka na základe rozsudku              0,00        0,00    1 000,00       20,00                    0,00        0,00
+49 292027     41 Iné príjmy - obecné akcie                          4 814,50    2 202,00    1 500,00   12 000,00    2 000,00    2 000,00    2 000,00
+50 292017     41 Zúčtovanie Charita                                  639,15         0,00        0,00        0,00        0,00        0,00        0,00
+51 292017     41 Vrátky/iné/ZP,SP,Daň,PZP                                       2 198,41                    0,00        0,00        0,00        0,00
+52 292017     41 Vrátky mýta                                          28,15         0,00        0,00        0,00        0,00        0,00        0,00
+
+
+                                                                                                                                                       Strana 2
+53 292017      41 Vrátky /VZN                                          10 324,50        3 660,79            0,00            0,00            0,00            0,00            0,00
+54 292027      71 Finančná náhrada za výrub drevín                    365 549,31            0,00            0,00            0,00            0,00            0,00            0,00
+55
+     31       Dotácie a granty                                      2 743 403,12    3 393 874,84    3 542 247,00    3 679 449,00    3 803 094,00    3 790 430,00    3 889 430,00
+
+56 312001     111 ÚPSVaR – záškoláci, HN,RP,PnD, OP                    68 488,00       47 558,60       80 000,00       60 000,00       80 000,00       80 000,00       80 000,00
+57
+                    ÚPSVaR- AČ, MOS a podpora reg. a miestnej
+     312001   111
+                    zamestnanosti
+58                                                                   15 390,25         13 932,18       10 200,00         7 000,00        9 000,00        9 000,00        9 000,00
+59
+                    ÚPSVaR - PUPN § 54     (podpora udržania
+     312001   111
+                    pracovných návykov)
+60
+                    ÚPSVaR – podpora výchovy k stravovacím
+     312001   111                                                     209 200,10      211 867,90      260 000,00             0,00      43 000,00       43 000,00       43 000,00
+                    návykom dieťaťa ZŠsMŠ Markušovce
+
+
+     312001   111 ÚPSVaR - dotácie                                           0,00            0,00            0,00     218 000,00      239 000,00      240 000,00      240 000,00
+
+61                  ÚPSVaR – podpora výchovy k plneniu
+     312001   111 školských povinnosti dieťaťa ZŠsMŠ                         0,00        4 282,80        9 500,00            0,00            0,00            0,00            0,00
+                    Markušovce
+63
+     312001   111 Sociálna poisťovňa - dôchodok/OP                       5 524,98            0,00        5 500,00        4 800,00        5 500,00        5 500,00        5 500,00
+64
+     312012   111 Transfer pre školstvo                              1 936 648,00    2 628 560,40    2 780 392,00    2 991 578,00    3 156 664,00    3 228 500,00    3 390 500,00
+65 312012     111 Odmeny 800 Eur/ZŠsMŠ                                       0,00      84 771,00             0,00            0,00            0,00            0,00            0,00
+66
+              1BB1
+              1BB2 ZŠsMŠ - projekt POP3
+     312012                                                           131 000,65       33 692,98       41 765,00       30 000,00             0,00            0,00            0,00
+
+67
+              1BB1
+              1BB2 ÚV SR/ Miestne občianske a preventívne služby
+     312001                                                            79 530,35      203 096,86      202 160,00      185 000,00      148 500,00       71 000,00             0,00
+
+68 312        111 Voľby, referendum                                      9 806,93            0,00        8 410,00        7 600,00        8 000,00            0,00        8 000,00
+69 312        111 Starostlivosť o vojnové hroby                           150,85          164,15          170,00          180,00          180,00          180,00          180,00
+70 312        111 Matrika                                              14 587,14       14 709,88       15 000,00       15 700,00       15 000,00       15 000,00       15 000,00
+71
+     312      111 Hlásenie pobytu občanov a registra obyvateľstva        1 552,98        1 582,68        1 600,00        1 600,00        1 600,00        1 600,00        1 600,00
+
+72 312        111 Skladník CO                                             362,04          393,96          380,00          380,00          420,00          420,00          420,00
+73 312        111 Register adries                                          51,60           53,20           70,00           27,00           30,00           30,00           30,00
+74 312        111 Stavebný úrad + cestná doprava                         7 878,74        8 068,19        9 000,00        5 400,00        6 000,00        6 000,00        6 000,00
+75 312        111 Životné prostredie                                      569,55          626,87          700,00          684,00          600,00          600,00          600,00
+76 312        111 Sčítanie domov a bytov                                     0,00            0,00            0,00            0,00            0,00            0,00            0,00
+77 312        111 Dotácia pre DHZ                                        3 000,00        3 000,00        3 000,00        3 000,00        3 000,00        3 000,00        3 000,00
+
+
+
+                                                                                                                                                                                    Strana 3
+78             3AC
+     312            ÚV SR-odborní pracovníci / nové KC                  64 949,41      58 405,33       66 000,00      58 000,00      65 600,00      65 600,00      65 600,00
+                1-2
+79
+     312001     111 MH SR - ENERGOSEKY                                  23 972,51            0,00           0,00           0,00           0,00           0,00           0,00
+
+80
+     312       11H Dotácia od KSK                                        2 174,00        1 250,00       1 500,00       1 000,00       1 000,00       1 000,00       1 000,00
+
+81
+     312002        45 Environmentálny fond                              14 417,45      16 851,14       20 000,00      20 000,00      20 000,00      20 000,00      20 000,00
+82
+     312001      111 MF-dotácia/inflácia                                39 006,00            0,00           0,00           0,00           0,00           0,00           0,00
+83
+     312001      111 MV SR-dotácia                                           0,00            0,00           0,00           0,00           0,00           0,00           0,00
+
+     312001       72c MAS Miloj Spiš/dotácia                                                                           5 600,00           0,00           0,00           0,00
+84
+     312001      111 Odmeny 800 Eur/OcÚ                                      0,00      49 572,92            0,00           0,00           0,00           0,00           0,00
+85                        Minsterstvo školstva/výstavba
+     312001      111                                                         0,00      11 433,80       26 900,00           0,00           0,00           0,00           0,00
+                          ZŠ/mzdy+odvody
+                          Minsterstvo školstva/výstavba
+     312001    3P01                                                                                                   63 900,00           0,00           0,00           0,00
+                          ZŠ/mzdy+odvody
+86
+     312001      111 ÚPSVaR - dotácia/vodičské oprávneneie               1 813,30            0,00           0,00           0,00           0,00           0,00           0,00
+87                        Geologický prieskum životného
+     312001      111                                                   104 331,09            0,00           0,00           0,00           0,00           0,00           0,00
+                          prostredia/dotácia
+88
+     Bežné príjmy spolu                                              5 440 876,86   5 538 809,56    5 747 772,00   5 831 414,00   6 223 039,00   6 285 375,00   6 484 375,00
+
+89
+     233001        43 Predaj pozemkov                                        0,00        1 687,71       5 000,00         150,00       1 000,00       1 000,00       1 000,00
+
+90
+     233001        43 Predaj pozemkov BLAUMONT                          35 000,00        4 611,86       4 620,00           0,00           0,00           0,00           0,00
+91
+                          Transfer : Výstavba MŠ v obci Markušovce
+     322      1AA1,1AA2
+                                                                             0,00            0,00                          0,00           0,00           0,00           0,00
+92                        Transfer: interietové vybavenie MŠ
+93            3AA
+     322002   1,3A MŠ novostavba Jareček                                55 726,90            0,00           0,00           0,00           0,00           0,00           0,00
+                A2
+94
+                          Ministerstvo školstva - výstavba ZŠ
+     322        111                                                          0,00    1 263 750,04     200 000,00    472 000,00            0,00           0,00           0,00
+                          Markušovce
+95 322
+                          MV /MRK - pitná voda (stavebné práce
+                111 263088,29 €, stavebný dozor 3200,00 €              136 623,71            0,00           0,00           0,00           0,00           0,00           0,00
+                          projektová dokumentácia 7020,00 €)
+
+
+                                                                                                                                                                               Strana 4
+96 322
+               111 Miloj Spiš                                                                      200 000,00            0,00             0,00            0,00            0,00
+
+97 322
+               111 Zberný dvor/dotácia                                    0,00            0,00     580 000,00     580 000,00              0,00            0,00            0,00
+
+98 322
+               111 Detské ihrisko                                         0,00            0,00      50 000,00      50 000,00              0,00            0,00            0,00
+99
+      Kapitálové príjmy spolu                                     227 350,61     1 270 049,61    1 039 620,00    1 102 150,00        1 000,00        1 000,00        1 000,00
+100
+101
+      454001    46 Čerpanie z RF                                   237 837,94      901 779,84     1 332 450,00     530 000,00      420 000,00             0,00            0,00
+102
+      454001    71 Čerpanie z fondu prevádzky údržby a opráv              0,00            0,00      37 000,00       30 000,00             0,00            0,00            0,00
+103 453        131
+                M Zostatok prostriedkov z predch. rokov/ZŠsMŠ             0,00            0,00            0,00            0,00            0,00            0,00            0,00
+
+104 453        131
+                M Voľby- zostatok prostriedkov z predch. rokov            0,00            0,00            0,00            0,00            0,00            0,00            0,00
+
+105 453        11H
+                     Amfiteáter                                                                                           0,00      37 000,00             0,00            0,00
+106 453        111
+                     Pomník padlých vojakov                                                                               0,00      14 000,00             0,00            0,00
+107 453        45
+                     Environmentálny fond/Geologický prieskum
+                                                                          0,00      78 600,00             0,00            0,00            0,00            0,00            0,00
+                     životného prostredia/dotácia
+108
+      456002    71 Finančná zabezpeka/byty                                0,00         734,16             0,00            0,00            0,00            0,00            0,00
+109
+      456002    71 Finančné zabezpeky na vyplatenie/byty              1 837,44            0,00        3 500,00           0,00         3 500,00        3 500,00        3 500,00
+110
+      456002    71 Finančná zábezpeka/Zberný dvor                                   10 000,00             0,00           0,00             0,00            0,00            0,00
+111
+      456002    41 Finančné prostriedky z PRE-MARK                    8 400,00      25 200,00       25 200,00       25 200,00       25 200,00       16 000,00             0,00
+112
+      513002    41 Bankový úver od VÚB banky                                                      1 000 000,00           0,00             0,00            0,00            0,00
+113                  Finančné prostriedky z predchádzajúcich
+      453       71                                                                  30 433,51      347 550,00       123000,00      210 000,00             0,00            0,00
+                     rokov/Finančná náhrada za výrub drevín
+114
+      Finančné operácie spolu                                     248 075,38     1 046 747,51    2 745 700,00     708 200,00      709 700,00       19 500,00         3 500,00
+115
+116 Bežný príjem / OcÚ                                            5 440 876,86    5 538 809,56    5 747 772,00    5 831 414,00    6 223 039,00    6 285 375,00    6 484 375,00
+117 Kapitálový príjem / OcU                                        227 350,61     1 270 049,61    1 039 620,00   1 102 150,00         1 000,00        1 000,00        1 000,00
+118 Finančné operácie / OcÚ                                        248 075,38     1 046 747,51    2 745 700,00     708 200,00      709 700,00       19 500,00         3 500,00
+119
+      PRÍJMY SPOLU :                                             5 916 302,85    7 855 606,68    9 533 092,00    7 641 764,00    6 933 739,00    6 305 875,00    6 488 875,00
+
+                                                                                                                                                                                 Strana 5
+120 Vlastné príjmy ZŠ s MŠ
+                                                                       62 296,60      69 016,69      82 000,00     97 950,00       94 500,00      92 500,00      92 500,00
+121
+      Finančné operácie - Zostatok prostr. z predch.rokov ZŠsMŠ /
+      strava
+                                                                       54 425,48      65 180,27           0,00     65 180,27            0,00           0,00           0,00
+
+122
+      PRÍJMY obecný celok SPOLU:                                    6 033 024,93   7 989 803,64   9 615 092,00   7 804 894,27   7 028 239,00   6 398 375,00   6 581 375,00
+
+
+
+
+                                                                                                                                                                             Strana 6
+                                     Návrh rozpočtu Obce Markušovce na rok 2027 s výhľadovým rozpočtom na roky: 2028, 2029
+                                                                        VÝDAVKY
+
+
+
+                                                                                                                                                                                               Zodpoved
+                                                                                                     Schválený       Očakávaná
+                                                                Skutočné plnenie Skutočné plnenie                                    Rozpočet na     Rozpočet na     Rozpočet na     PROG   ný
+                          VÝDAVKY                                 za rok 2024      za rok 2025
+                                                                                                    rozpočet na     skutočnosť za
+                                                                                                                                      rok 2027        rok 2028        rok 2029       RAM zamestnan
+                                                                                                     rok 2026         rok 2026                                                                    ec
+
+1    0111        Výdavky verejnej správy                             807 311,17       793 276,75      901 778,00       913 106,20      925 618,00      920 218,00      919 638,00
+2    41     611        Mzda                                                                            265 900,00                       265 900,00      265 900,00      265 900,00       1.1
+3    41     612        Príplatok 15%                                                                    27 300,00                        27 300,00       27 300,00       27 300,00       1.1
+                                                                     234 647,73        229 496,72                       356 000,00
+4    41     612        Osobný príplatok                                                                 61 500,00                        67 900,00       67 900,00       67 900,00       1.1
+5    41     612        Príplatky za prácu nadčas                                                         2 000,00                         4 000,00        4 000,00        4 000,00       1.1      M
+6    111    611        Mzda                                            39 006,00             0,00            0,00             0,00            0,00            0,00            0,00                D
+7    111    611        Mzda/ÚPSVaR/vodičské oprávnenie                   163,30              0,00            0,00             0,00            0,00            0,00            0,00
+8    111    611        Mzda/ 800€ odmeny                                                36 647,68                             0,00            0,00            0,00            0,00                a
+9                      Odmeny na základe kolektívnej zmluvy
+     41     637026                                                      1 900,00         8 898,88       13 450,00         9 000,00        6 000,00        6 000,00        6 000,00
+                                                                                                                                                                                                  M
+10   41     637004     Rekreácie zamestnancov                               0,00         1 232,83        5 000,00         1 300,00        5 000,00        5 000,00        5 000,00
+11                     Odvody do poisťovní
+     41     62                                                         94 021,87        95 362,82      131 100,00       128 160,00      132 000,00      132 000,00      132 000,00       1.1
+12   41     627        Príspevok do doplnkových poistení                5 065,76         5 507,70        5 500,00         5 200,00        6 000,00        6 000,00        6 000,00       1.1
+13   41     631001     Cestovné, ubytovanie, stravné                     383,19            439,60        1 000,00           950,00        1 000,00        1 000,00        1 000,00       3.3    Pokladňa
+14                     El. energia OcÚ, KD, garáž,budova
+     41     632001
+                       Michalská,Obecná hala, Nová ZŠ
+                                                                       10 751,51         9 766,05       12 000,00        13 000,00       13 000,00       13 000,00       13 000,00       1.1
+                                                                                                                                                                                                 KS
+15                     Plyn – OcÚ, KD, garáž,budova
+     41     632001                                                     17 593,96        13 769,30       20 000,00        18 000,00       16 000,00       16 000,00       16 000,00       1.1
+                       Michalská,Obecná hala
+16   41     632003     Poštovné                                         3 120,67         3 448,96        4 000,00         3 400,00        4 000,00        4 000,00        4 000,00     3.2.2 Pokladňa
+17   41     632005     SMS info pre občanov                             1 748,61         1 702,70        2 500,00         1 600,00        2 500,00        2 500,00        2 500,00       1.1 Sekretariát
+18   41     632005     Telekomunikačné služby                           4 227,19         4 079,39        7 000,00         4 200,00        5 000,00        5 000,00        5 000,00       1.1
+                                                                                                                                                                                              SOM
+19   41     632004     Komunikačná infraštruktúra- internet              376,36          2 933,56        1 000,00           990,00        1 000,00        1 000,00        1 000,00     3.2.5
+20   41     633001     Interiérové vybavenie,lieky,KD                  14 014,24         9 283,38       10 000,00         6 000,00        3 000,00        2 000,00        2 000,00     3.2.1
+21   41     633002     Výpočtová technika                               6 700,60         4 912,83       10 000,00         4 000,00        3 000,00        2 000,00        2 000,00     3.2.5
+                                                                                                                                                                                             Zástupca
+22   41     633003     Telekomunikačná technika                          908,69          1 039,40        2 000,00         1 500,00        1 500,00        1 000,00        1 000,00     3.2.5
+23   41     633004     Prevádzkové stroje, prístroje                     451,20              0,00        1 000,00           500,00         500,00          500,00          500,00      3.2.4
+24   41     633004     Dochádzkový systém elektronický                   180,00          1 283,49            0,00         5 000,00         180,00          180,00          180,00      3.2.4 Sekretariát
+25   41     633004     GPS automobily obce                               788,00            369,60          600,00           700,00         700,00          700,00          700,00      3.2.4    KS
+26   41     633006     Kancelárske potreby:                             5 162,13         4 870,30        6 000,00         3 500,00        6 000,00        6 000,00        6 000,00     3.2.4 Sekretariát
+27   41     633006     Materiál, náhr. diely - dielňa                   9 537,28         7 744,65        5 000,00        13 000,00       10 000,00       12 000,00       12 000,00     3.2.4    KS
+28   41     633006     Kvety, výzdoba                                    958,90            520,95        1 000,00           500,00        1 000,00        1 000,00        1 000,00     3.2.1 Sekretariát
+29   41     633006     Orientačné, supisné čísla                         974,20            258,30          400,00           150,00         250,00          250,00          250,00      3.2.1 Matrika
+30   41     633006     Čistiace a hygienické prostr.                    1 423,02         2 345,00        1 500,00         1 500,00        1 500,00        1 500,00        1 500,00     3.2.4
+                                                                                                                                                                                                KS
+31   41     633006     Bocian - kamerový systém                          350,40              0,00            0,00             0,00            0,00            0,00            0,00
+32   41     633006     Súprava ozvučenia                                5 847,87             0,00            0,00             0,00            0,00            0,00            0,00
+33   41     633009     Knihy, časopisy, noviny                          1 482,56           717,75          700,00           700,00         700,00          700,00          700,00        3.3 Sekretariát
+34   41     633010     Pracovné odevy, obuv                             1 539,56         1 482,75        1 000,00         1 350,00        1 500,00        1 500,00        1 500,00     3.2.4
+                                                                                                                                                                                                KS
+35   41     633011     Pitný režim                                        39,84             94,16          150,00           100,00         150,00          150,00          150,00
+36   41     633013     Softvér                                          1 155,00         1 701,46        1 000,00         3 000,00        1 000,00        1 000,00        1 000,00     3.2.5 AČ a MOS
+37                     Palivo ako zdroj energie-dielňa
+     41     633015     (buldozer, generátor, centrála,                  5 756,46         7 072,22        6 000,00         8 000,00        8 000,00        8 000,00        8 000,00     3.2.3     KS
+                       vib.doska)
+38   41     633016     Reprezentačné                                    3 869,19         3 058,79        2 500,00         1 500,00        2 500,00        2 500,00        2 500,00       1.1
+                                                                                                                                                                                             Sekretariát
+39   41     633016     Reprezentačné poslanci                            760,98            525,70          600,00           500,00         600,00          600,00          600,00        3.1
+40   41     633018     Licencia - VS SR ročný prístup                    216,00          3 535,27          350,00           600,00         350,00          350,00          350,00      3.2.5 AČ a MOS
+41                     PHM – osobné a nákladné auta                     4 720,92         5 344,42        5 500,00         6 500,00        6 000,00        6 000,00        6 000,00     3.2.3
+     41     634001
+42                     Mazivá, oleje, kvapaliny                          175,20            211,76        1 000,00           200,00        1 000,00        1 000,00        1 000,00     3.2.3    KS
+43   41     634002     Servis, údržba, opravy a výdavky                27 735,70        23 090,43        8 000,00        18 000,00       20 000,00       20 000,00       20 000,00     3.2.3
+44                     Poistenie: povinné zmluvné, havarijné,
+     41     634003
+                       úrazové poistenie
+                                                                        1 753,61         2 431,51        2 000,00         1 800,00        2 000,00        2 000,00        2 000,00     3.2.3    SOM
+45                     Karty, známky, poplatky (dialničné
+     41     634005     poplatky, parkovacie karty, parkovné,             133,50            160,00          160,00            70,00         200,00          200,00          200,00      3.2.3     KS
+                       zelené karty a pod.)
+46   41     635002     Údržba výpočtovej techniky                        137,64              0,00          500,00         1 000,00         500,00          500,00          500,00              AČ a MOS
+47   41     635004     Údržba prevádzkov. strojov                         49,43            676,50        3 000,00         2 000,00        3 000,00        3 000,00        3 000,00     3.2.4     KS
+48   41     635006     Údržba budov - objektov OCÚ                     37 860,06         3 416,35       20 000,00        17 000,00       10 000,00       10 000,00       10 000,00     3.2.1
+49                     Asanácia múr Odorínska cesta / Bocian                                                                                                                                     KS
+     41     637005                                                          0,00             0,00        3 000,00             0,00        3 000,00            0,00            0,00     3.2.1
+50   41     635009     Údržba Softvéru Dataland                        15 107,94        12 966,81        9 000,00        14 000,00       10 000,00       10 000,00       10 000,00     3.2.5
+51                     Údržba Softvéru Human – klasik                                                                                                                                          AČ a MOS
+     41     635009
+                       (mzd.program)/Humanet
+                                                                         260,87            753,65        1 000,00         1 300,00        1 000,00        1 000,00        1 000,00     3.2.5
+52   41     636001     Prenájom pozemku SL.PF                               7,27             7,27           10,00             8,00           10,00           10,00           10,00      11.1
+53   41     636001     Prenájom pozemku Urbariát                        2 092,20         2 092,20        2 100,00         2 092,20        2 100,00        2 100,00        2 100,00      11.1 SOM
+54   41     636001     Prenájom pozemku cintorín                         497,55            497,55          498,00           498,00         498,00          498,00          498,00       11.1
+55   41     636002     Prenájom kopírky                                 2 243,86         2 169,05        1 500,00         1 900,00         500,00          500,00          500,00      3.2.4 AČ a MOS
+56   41     637001     Školenie pracovníkov OcÚ                         6 041,20         4 638,07        4 500,00         5 500,00        5 500,00        5 500,00        5 500,00       3.3 Zástupca
+57                     Školenie-rozšírenie vodičského
+     111    637001                                                      1 650,00             0,00            0,00             0,00            0,00            0,00            0,00
+                       oprávnenia
+
+                                                                                                                                                                                                Strana 7
+58   41     637001     Teambuilding pracovníkov OcÚ               1 025,30    2 061,00    2 500,00    2 500,00    2 500,00    2 500,00    2 500,00           Zástupca
+59                     Dotácia KSK/nákup zariadení,
+     11H 637001                                                       0,00    1 250,00        0,00
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/86ad5ce6-3228-4ac4-b8f4-6e22fff550aa
+               Základná škola s materskou školou Školská 16 Markušovce
+
+               NÁVRH               ROZPOČTU                  NA ROKY              2027, 2028, 2029
+
+                                                                                    skutočnosť      skutočnosť     schvál. rozp.     očakávaná      rozpočet       rozpočet       rozpočet
+                    PRÍJMOVÁ ĆASŤ ROZPOČTU                                           rok 2024        rok 2025         2026          skutoč. 2026    rok 2027       rok 2028       rok 2029
+1.             PRÍJMY CELKOM                                                          116 722,28      134 196,96       82 000,00       163 130,27     94 500,00      92 500,00      92 500,00
+2.             PRÍJMY SPOLU                                                            62 296,80       69 016,69       82 000,00        97 950,00     94 500,00      92 500,00      92 500,00
+3.      200    Príjmy od FO alebo PO - orig.komp. - poplatky MŠ                         1 250,00        1 390,00         2 000,00        1 600,00      2 000,00           0,00           0,00
+4.      200    Príjmy od FO alebo PO - orig.komp .- poplatky ŠKD                          970,00        1 095,00         2 000,00        1 700,00      2 000,00       2 000,00       2 000,00
+5.      200    Príjmy od FO alebo PO - orig.komp. - prísp. na rež. nákl. pre ŠJ        27 607,50       29 705,40       40 000,00        46 000,00     46 000,00      46 000,00      46 000,00
+6.      200    Príjmy od FO alebo PO - orig.komp. (dobropisy)                             469,10          627,59          500,00             0,00        500,00         500,00         500,00
+7.      200    Príjmy od FO alebo PO - pren.komp. (nájom.,dary,poistné pln.)            1 500,00            0,00          500,00         2 350,00      1 000,00       1 000,00       1 000,00
+8.      200    Príjmy súvisiace so stravovaním (žiaci, zam.,prísp.SF-stravné)          30 500,20       34 098,70       37 000,00        43 500,00     43 000,00      43 000,00      43 000,00
+9.      300    Granty - Výnimočné školy, SPP                                                0,00        2 100,00            0,00         2 800,00          0,00           0,00           0,00
+10.     453    FINANČNÉ OPER. - Zostatok prostr. z predch. rokov (strav. šj)           54 425,48       65 180,27             0,00       65 180,27          0,00           0,00           0,00
+
+
+
+                                                                                    skutočnosť      skutočnosť     schvál. rozp.     očakávaná      rozpočet       rozpočet       rozpočet
+                   VÝDAVKOVÁ ČASŤ ROZPOČTU                                           rok 2024        rok 2025         2026          skutoč. 2026    rok 2027       rok 2028       rok 2029
+12.            ROZPOČET CELKOM (bežné + kapitálové)                                  2 847 916,12   3 175 884,59    3 381 057,00     3 589 877,87   3 717 764,00   3 790 500,00   3 958 500,00
+13.            BEŽNÉ VÝDAVKY CELKOM                                                  2 844 918,52   3 161 455,61    3 359 057,00     3 579 877,87   3 711 764,00   3 790 500,00   3 958 500,00
+14.            VZDELÁVANIE CELKOM (prenes., orig., projekty)                         2 652 765,01   2 945 034,04    3 083 057,00     3 319 369,00   3 429 764,00   3 507 500,00   3 675 500,00
+15.            PRENESENÉ KOMPETENCIE - ZŠ a MŠ spolu                                 1 895 480,59   2 626 714,21    2 780 392,00     2 991 578,00   3 156 664,00   3 107 000,00   3 267 000,00
+16.            Základná škola - spolu                                                1 905 076,99   2 124 348,75    2 226 085,00     2 368 518,00   2 436 065,00   2 512 500,00   2 672 500,00
+17.            Základná škola - prenesené kompetencie                                1 805 527,09   2 080 469,84    2 202 468,00     2 325 075,00   2 435 065,00   2 512 000,00   2 672 000,00
+18.            Základná škola - normatívne prostriedky                               1 653 298,09   1 816 280,84    1 920 000,00     1 993 000,00   2 080 000,00   2 150 000,00   2 300 000,00
+19.   610, 620 Mzdy a poistné                                                        1 501 445,00   1 632 789,00    1 730 000,00     1 803 000,00   1 890 000,00   1 950 000,00   2 100 000,00
+20.   630, 640 Tovary, služby a platby jednotlivcom                                   151 853,09      183 491,84      190 000,00       190 000,00    190 000,00     200 000,00     200 000,00
+21.            Základná škola - nenormatívne prostriedky                              109 255,00       43 409,00       34 416,00        30 850,00    355 065,00     362 000,00     372 000,00
+22.     600    Odchodné                                                                     0,00        5 853,00             0,00        2 109,00          0,00           0,00           0,00
+23.     600    Príspevok na záujmové vzdelávanie                                       16 595,00       16 109,00       16 416,00        17 811,00     19 904,00      17 000,00      17 000,00
+24.     600    Príspevok na deti a žiakov zo SZP                                       70 150,00            0,00             0,00            0,00    110 025,00     110 000,00     110 000,00
+25.     600    Príspevok na špecifiká                                                       0,00        4 036,00             0,00            0,00          0,00           0,00           0,00
+26.     600    Prípevok na edukačné publikácie                                         16 802,00       17 411,00       18 000,00        10 930,00      7 000,00       7 000,00       7 000,00
+27.     600    Príspevok na školu v prírode                                                 0,00            0,00             0,00            0,00          0,00           0,00           0,00
+28.     600    Príspevok na pohybové aktivity                                               0,00            0,00             0,00            0,00          0,00           0,00           0,00
+29.     600    Asistenti učiteľa                                                         5708,00            0,00             0,00            0,00          0,00           0,00           0,00
+30.            Základná škola - podporné opatrenia                                     42 974,00      220 780,00      248 052,00       301 225,00
+31.     600    Príspevok na podporné opatrenia - činnnosť ped. asist.                  25 686,00       79 416,00       87 210,00       102 052,00    128 388,00     134 000,00     140 000,00
+32.     600    Príspevok na školský podporný tím                                       17 288,00       71 414,00       88 092,00        89 748,00     89 748,00      94 000,00      98 000,00
+33.     600    Skvalitnenie podmienok pre žiakov zo SZP                                     0,00       69 950,00       72 750,00       109 425,00
+                                                                            skutočnosť     skutočnosť     schvál. rozp.    očakávaná       rozpočet      rozpočet      rozpočet
+                                                                             rok 2024       rok 2025         2026          skutoč. 2026    rok 2027      rok 2028      rok 2029
+34.     630    Základná škola - čerpanie z príjmov ZŠ a MŠ(dobrop.)             1 500,00       2 100,00          500,00         1 664,00      1 000,00        500,00        500,00
+35.     630    Základná škola - nevyč. prostr. z predch. r.                    40 962,94      30 770,91            0,00        30 771,00          0,00          0,00          0,00
+36.     600    ZŠ NP POP 3 (ped.asist. Škol.dig.koord.)                        57 086,96      11 008,00       23 117,00        11 008,00          0,00          0,00          0,00
+37.            Materská škola - spolu                                         152 150,09     573 251,35      598 572,00       686 751,00    723 599,00    718 500,00    720 500,00
+38.            Materská škola - prenesené kompetencie                          89 953,50     546 244,37      577 924,00       666 503,00    721 599,00    595 000,00    595 000,00
+39.            Materská škola - normatívne prostriedky                              0,00     460 436,37      474 400,00       556 707,00    565 500,00    595 000,00    595 000,00
+40.   610, 620 Mzdy a poistné                                                       0,00     379 991,00      398 900,00       486 707,00    490 000,00    510 000,00    510 000,00
+41.   630, 640 Tovary, služby a platby jednotlivcom                                 0,00      80 445,37       75 500,00        70 000,00     75 500,00     85 000,00     85 000,00
+42.            Materská škola - nenormatívne prostriedky                            0,00      15 000,00       14 700,00        15 050,00    156 099,00    121 500,00    123 500,00
+43.     600    Materská škola - príspevok na súčasti VVP                            0,00      15 000,00       14 700,00        15 050,00     12 750,00          0,00          0,00
+44.     600    Príspevok na deti a žiakov zo SZP                                                                                             23 625,00     21 000,00     21 000,00
+45.            Materská škola - podporné opatrenia                             13 556,50      70 808,00       88 824,00        94 746,00
+46.     600    Prísp.na podp.opatr. - pedagogický asistent                     11 416,00      34 719,00       38 760,00        46 088,00     59 256,00     39 000,00     39 000,00
+47.     600    Prísp.na podp.opatr.- pomocný vychovávateľ                                                                                    30 552,00     32 000,00     34 000,00
+48.     600    Príspevok na školský podporný tím                                2 140,50      16 139,00       29 364,00        26 983,00     29 916,00     29 500,00     29 500,00
+49.     600    Skvalitnenie podmienok pre žiakov zo SZP                             0,00      19 950,00       20 700,00        21 675,00
+50.     600    MŠ predškolská výchova                                          76 397,00           0,00             0,00            0,00          0,00          0,00          0,00
+51.     600    MŠ - nevyč.prostr. z predch. roka                                    0,00           0,00             0,00            0,00          0,00          0,00          0,00
+52.     630    MŠ čerpanie z vlastných príjmov - poplatky                           0,00       1 390,00        2 000,00         1 600,00      2 000,00      2 000,00      2 000,00
+53.     600    MŠ NP POP3 (ped. asist. + pom. vych.)                           62 196,59      25 616,98       18 648,00        18 648,00          0,00          0,00          0,00
+                                                                            skutočnosť     skutočnosť     schvál. rozp.     očakávaná      rozpočet      rozpočet      rozpočet
+                                                                             rok 2024       rok 2025         2026          skutoč. 2026    rok 2027      rok 2028      rok 2029
+54.            ORIGINÁLNE KOMPETENCIE - Školské zariadenia spolu              595 537,93     247 433,94      258 400,00       264 100,00    270 100,00    276 500,00    282 500,00
+55.            Orig. kompetencie - Školské zariadenia z rozpočtu obce         565 710,43     216 633,54      216 400,00       216 400,00    222 100,00    228 500,00    234 500,00
+56.            Orig. kompetencie - Školské zariadenia z vlastných príjmov      29 827,50      30 800,40       42 000,00        47 700,00     48 000,00     38 000,00     38 000,00
+57.            Materská škola 1 Školská 18                                    101 536,35           0,00             0,00            0,00          0,00          0,00          0,00
+58.   610, 620 Mzdy a poistné                                                  80 909,18           0,00
+59.   630, 640 Tovary, služby a platby jednotlivcom                            19 377,17           0,00
+60.     600    Vlastné príjmy - poplatky MŠ                                     1 250,00           0,00
+61.            Materská škola 2 Markušovce 739                                259 930,59           0,00             0,00            0,00          0,00          0,00          0,00
+62.   610, 620 Mzdy a poistné                                                 228 557,18           0,00
+63.   630, 640 Tovary, služby a platby jednotlivcom                            31 373,41           0,00
+64.            Školský klub detí                                               31 187,16      21 365,42       17 300,00        17 000,00     25 500,00     26 500,00     27 500,00
+65.   610, 620 Mzdy a poistné                                                  29 044,99      19 211,98       14 800,00        14 800,00     23 000,00     24 000,00     25 000,00
+66.   630, 640 Tovary, služby a platby jednotlivcom                             1 172,17       1 058,44          500,00           500,00        500,00        500,00        500,00
+67.     600    Vlastné príjmy - poplatky ŠKD                                      970,00       1 095,00         2 000,00        1 700,00      2 000,00      2 000,00      2 000,00
+68.            Školská jedáleň                                                202 883,83     226 068,52      241 100,00       247 100,00    244 600,00    250 000,00    255 000,00
+69.   610, 620 Mzdy a poistné                                                 163 749,41     183 342,00      197 500,00       197 500,00    195 000,00    200 000,00    205 000,00
+70      610    Mzdy a poistné z vlastných príjmov                                                                                            10 000,00     10 000,00     10 000,00
+71    630, 640 Tovary, služby a platby jednotlivcom                            11 526,92      13 021,12         3 600,00        3 600,00      3 600,00      4 000,00      4 000,00
+72      630    Tovary, služby a platby jednotlivcom z vlastných príjmov        27 607,50      29 705,40       40 000,00        46 000,00     36 000,00     36 000,00     36 000,00
+                                                                                      skutočnosť     skutočnosť     schvál. rozp.     očakávaná      rozpočet      rozpočet      rozpočet
+                                                                                       rok 2024       rok 2025         2026          skutoč. 2026    rok 2027      rok 2028      rok 2029
+ 72.             ÚPSVaR - dotácia                                                       160 957,02     183 278,89      239 000,00       217 008,87    239 000,00    240 000,00    240 000,00
+ 73.      633    Materiál - učebné pomôcky                                                8 997,20       8 416,20         9 000,00        8 781,40      9 000,00     10 000,00     10 000,00
+ 74.      630    Tovary a služby - dotácia ÚPSVaR na strav. návyky detí (strav.šj)      144 085,74     169 446,43      230 000,00       205 000,00    230 000,00    230 000,00    230 000,00
+ 75.      453    Zostatok prostriedkov z predchádzajúcich rokov (strav. šj)               7 874,08       5 416,26             0,00        3 227,47          0,00          0,00          0,00
+ 76.             Školské stravovanie                                                     31 196,49      33 142,68       37 000,00        43 500,00     43 000,00     43 000,00     43 000,00
+ 77.      630    Tovary a služby - stravné žiaci, zamestnanci, prísp.SF (potraviny)      31 196,49      33 142,68       37 000,00        43 500,00     43 000,00     43 000,00     43 000,00
+
+
+ 78.             KAPITÁLOVÉ VÝDAVKY CELKOM                                                2 997,60      14 428,98       22 000,00        10 000,00      6 000,00          0,00          0,00
+ 79.      700    Základná škola                                                               0,00       4 828,98       10 000,00        10 000,00      6 000,00          0,00          0,00
+ 80.      700    Školské zariadenia                                                       2 997,60       9 600,00       12 000,00             0,00                        0,00          0,00
+
+
+
+
+V Markušovciach 20. 11. 2026
+Vypracoval: Zuzana Kozáková
+Zodpovedný: Ing. Iveta Dutková, riaditeľka školy
+Základná škola s materskou školou Školská 16 Markušovce
+
+
+S U M Á R R O Z P O Č T U N A R O K Y 2026, 2027, 2028
+                                                                skutočnosť     skutočnosť     schvál. rozp.    očakávaná       rozpočet        rozpočet       rozpočet
+                                                                 rok 2024       rok 2025         2026          skutoč. 2026    rok 2027        rok 2028       rok 2029
+                                                                   v€             v€              v€               v€             v€             v€             v€
+ZŠ s MŠ - Výdavky spolu                                         2 847 916,12   3 175 884,59   3 381 057,00     3 589 877,87    3 717 764,00   3 790 500,00   3 958 500,00
+SPOLU Výd.bežné ZŠ a MŠ - pren.komp.- normatívne                1 653 298,09   2 276 717,21   2 394 400,00     2 549 707,00    2 645 500,00   2 745 000,00   2 895 000,00
+SPOLU Výd.bežné ZŠ a MŠ - pren.komp.- nenormatívne               109 255,00      58 409,00       49 116,00        45 900,00     511 164,00     483 500,00     495 500,00
+Výdavky bežné ZŠ - prenesené kompetencie - normatívne           1 653 298,09   1 816 280,84   1 920 000,00     1 993 000,00    2 080 000,00   2 150 000,00   2 300 000,00
+Výdavky bežné ZŠ - prenesené kompetencie - nenormatívne          109 255,00      43 409,00       34 416,00        30 850,00     355 065,00     362 000,00     372 000,00
+Výdavky bežné ZŠ - prenesené kompetencie - podporné opatrenia     42 974,00     220 780,00      248 052,00       301 225,00
+Výdavky bežné MŠ - prenesené kompetencie - normatívne                   0,00    460 436,37      474 400,00       556 707,00     565 500,00     595 000,00     595 000,00
+Výdavky bežné MŠ - prenesené kompetencie - nenormatívne                 0,00     15 000,00       14 700,00        15 050,00     156 099,00     121 500,00     123 500,00
+Výdavky bežné MŠ - prenesené kompetencie - podporné opatrenia     13 556,50      70 808,00       88 824,00        94 746,00
+Výdavky bežné MŠ - predškolská výchova                            76 397,00            0,00             0,00            0,00           0,00           0,00           0,00
+NIVAM POP3 ZŠ a MŠ                                               119 283,55      36 624,98       41 765,00        29 656,00            0,00           0,00           0,00
+ZŠ s MŠ - originálne kompetencie                                 594 287,93     216 633,54      216 400,00       216 400,00     222 100,00     238 500,00     244 500,00
+ZŠ s MŠ - originálne kompetencie - poplatky a stravovanie          1 250,00      30 800,40       42 000,00        47 700,00      48 000,00      38 000,00      38 000,00
+Základná škola - čerpanie z príjmov ZŠ                             1 500,00       2 100,00           500,00        1 664,00        1 000,00        500,00         500,00
+Základná škola - nevyč. prostr. z predch. r.                      40 962,94      30 770,91              0,00      30 771,00            0,00           0,00           0,00
+MŠ - čerpanie z príjmov MŠ - poplatky                                   0,00      1 390,00         2 000,00        1 600,00        2 000,00      2 000,00       2 000,00
+MŠ predškolská výchova - nevyč. prostr. z predch. r.                    0,00           0,00             0,00            0,00           0,00           0,00           0,00
+Školské pomôcky a hmotná núdza                                     8 997,20       8 416,20
+Školské stravovanie                                              183 156,31     208 005,37       37 000,00        43 500,00      43 000,00      43 000,00      43 000,00
+Kapitálové výdavky                                                 2 997,60      14 428,98       22 000,00        10 000,00        6 000,00           0,00           0,00
+ÚPSVaR - dotácie                                                                                239 000,00       217 008,87     239 000,00     240 000,00     240 000,00
+
+
+
+
+V Markušovciach 20. 11. 2026
+Vypracoval: Zuzana Kozáková
+Zodpovedný: Ing. Iveta Dutková, riaditeľka školy
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/2f65c997-c7f5-47b1-8c99-a98276df49bb
+Rok: 2027                                                   Zostava programový rozpočet                                                    25.11.2026
+IČO: 00329355            Názov: Obec Markušovce                                   Sídlo: Michalská 34/51 Markušovce 05321
+
+                                                                Program:             1
+      Názov:                       Plánovanie, manažment a kontrola
+                                       Návrh                  Návrh                  Návrh
+                                rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                     781 710,00           780 710,00              780 630,00
+       Kapitálový rozpočet:                    324 000,00            40 000,00              110 000,00
+        Finančné operácie:                      27 500,00            27 500,00               27 500,00
+                      Spolu:               1 133 210,00             848 210,00              918 130,00
+      Časovo neohraničené          Dátum od:                          Dátum do:
+      Správca programu: Starosta obce
+      Gestor programu:         Starosta obce
+      Zámer:                   Samospráva, ktorá flexibilne reaguje na potreby obyvateľov, podnikateľov, či návštevníkov obce Markušovce. Obec, ktorá
+                               plánuje v zmysle trvalo udržeteľného rozvoja a riadiaca všetky procesy s maximálnou efektívnosťou a transparentnosťou.
+      Komentár:                Riadenie všetkých procesov samosprávy, stanovenie úloh pre jednotlivé útvary a subjekty samosprávy . V programe sú
+                               rozpočtované výdavky súvisiace s operatívnym a strategickým riadením chodu obce.
+                                                              Podprogram: 1.1
+      Názov:             Manažment
+                                       Návrh                  Návrh                  Návrh
+                                rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                     200 404,00           200 404,00              200 404,00
+       Kapitálový rozpočet:                          0,00                 0,00                    0,00
+        Finančné operácie:                           0,00                 0,00                    0,00
+                      Spolu:                   200 404,00           200 404,00              200 404,00
+      Zodpovednosť: Starosta obce
+      Zámer:             Zabezpečiť efektívne a trasparentné riadenie samosprávy .
+      Komentár:          V podprograme sú rozpočtované všetky výdavky (mzdy, odvody a prevádzka) na starostu obce, zástupca, poslanci.
+                         Podprogram zahŕňa všetky aktivity a činnosti obce súvisiace s profesionálnym zabezpečením chodu obce vo všetkých
+                         aspektoch,     t.j.    činnosti       a       aktivity     starostu,      zástupcu     obce     a      poslancov.
+      Cieľ:      Zabezpečiť účinné riadenie výkonu kompetencií obce
+
+
+
+
+              Zdroj   Fnc        Pol     S1 S2 S3               Názov účtu               Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                               2027                2028                2029
+
+
+1.1            41     0111       611                  Obce - tarifný plat                       82 440,00           82 440,00           82 440,00
+1.1            41     0111       621                2 OcU - VšZP/poslanci                        1 200,00            1 200,00            1 200,00
+1.1            41     0111       621                4 OcU - VšZP/10%                             4 034,00            4 034,00            4 034,00
+1.1            41     0111       623                3 Poslanci - UNION/10%                         700,00              700,00              700,00
+1.1            41     0111       623                4 OcU - UNION/10%                            5 335,00            5 335,00            5 335,00
+1.1            41     0111       623                2 Poslanci - Dôvera/10%                      1 800,00            1 800,00            1 800,00
+1.1            41     0111     625001               2 Poslanci - NP/1,4%                           520,00              520,00              520,00
+1.1            41     0111     625001               1 OcU - NP/1,4%                              1 354,00            1 354,00            1 354,00
+1.1            41     0111     625002               1 OcU - SP/14%                              14 067,00           14 067,00           14 067,00
+1.1            41     0111     625002               2 Poslanci - SP/14%                          4 200,00            4 200,00            4 200,00
+1.1            41     0111     625003               2 Poslanci - UP/0,8%                           240,00              240,00              240,00
+1.1            41     0111     625003               1 OcU - UP/0,8%                                660,00              660,00              660,00
+1.1            41     0111     625004               1 OcU - IP/3%                                2 473,00            2 473,00            2 473,00
+1.1            41     0111     625004               2 Poslanci - IP/3%                             900,00              900,00              900,00
+1.1            41     0111     625005               2 Poslanci - PvN/1%                            300,00              300,00              300,00
+1.1            41     0111     625005               1 OcU - PvN/1%                                 825,00              825,00              825,00
+1.1            41     0111     625007               1 OcU - PdoRF/4,75%                          3 916,00            3 916,00            3 916,00
+1.1            41     0111     625007               2 Poslanci - PdoRF/4,75%                     1 440,00            1 440,00            1 440,00
+1.1            41     0111     633016               1 OcU - reprezentačné                        2 500,00            2 500,00            2 500,00
+1.1            41     0111     633016               2 Poslanci - občerstvenie                      600,00              600,00              600,00
+                                                                1 / 55
+      Zdroj   Fnc     Pol     S1 S2 S3          Názov účtu           Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                           2027                2028                2029
+
+
+1.1    41     0111   637001           OcU - školenia, kurzy, semináre         2 500,00           2 500,00            2 500,00
+1.1    41     0111   637005   06    3 Špeciálne služby - sigmalizácie, kódy     200,00             200,00              200,00
+1.1    41     0111   637005   10    1 Služby externého manažmentu na projekty25 000,00          25 000,00           25 000,00
+1.1    41     0111   637005   03    1 OcU - advok, právn, notár. poradenstvo 8 200,00            8 200,00            8 200,00
+1.1    41     0111   637005   07    1 Vyjadrovačky - Sl.Telekom, PO a ostatné 1 500,00           1 500,00            1 500,00
+1.1    41     0111   637011         1 OcU - štúdie, expertízy, posudky        3 500,00           3 500,00            3 500,00
+1.1    41     0111   637026           OcU - odmeny poslanci OZ+člen ob.komisií
+                                                                             30 000,00          30 000,00           30 000,00
+                                                               Spolu:       200 404,00         200 404,00          200 404,00
+
+
+
+
+                                                2 / 55
+                                                                Podprogram: 1.2
+      Názov:             Plánovanie
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                        6 000,00              6 000,00             6 000,00
+       Kapitálový rozpočet:                     324 000,00             40 000,00           110 000,00
+        Finančné operácie:                            0,00                  0,00                 0,00
+                       Spolu:                   330 000,00             46 000,00           116 000,00
+      Zodpovednosť: Ing. Peter Hamrák - samostatný odborný referent Ing.Martina Zummerová -samostatný odborný referent
+      Zámer:             Trvalo udržateľný rozvoj obce.
+
+      Komentár:          V podprograme sú rozpočtované výdavky súvisiace s prípravami projektov. Pre rok 2025 je to zabezpečenie dokumentácií k
+                         rekonštrukciám a výstavbám miestnych komunikácií a protipovodňovej ochrane obce. Ďalej sú rozpočtované výdavky na nákup
+                         pozemkov, Kapitalové výdavky su narozpočtované na : PD na miestne komunikácie ul Banická, PD- chodník okolo cesty do
+                         Jarečeka, chodníky v obci, PD - MK - Sv.J.N. - Roztocká kolónia PD - oddvodňovací žľab Slovenská, PD - Vodovod SJN, PD-
+                         kuria Michalská č.49, PD - kanalizácia Pod Horou č.13, 15, 16,PD- kanalizácia Za Tehelňou, PD - nový most Jareček, PD -
+                         zmena hokejové ihrisko, PD - úprava priestoru pri Milk Agre, PD - dažďová voda ul.Komenského/Bystrá/Michalská.PD- voda
+                         Hornadska,PD- kanalizácia Hornádska,PD -Rozšírenie kuchyne a školskej jedálne.PD-Osvetlenie cintorína,PD - cyklotrasa, PD-
+                         zachytávanie daždovej vody v centrálnej zone obce,PD- vyhliadková cesta babiná.Taktiež sú zahrnuté náklady na vypracovanie
+                         geometrického plánu na vysporiacanie vecných bremien, znalecké posudky a vykup pozemkov v obci. Rekonštrukcie budov
+                         OcU.Plynárenské zariadenia Brezová.rekonstrukcia cesty Banícka ulica.
+
+
+
+      Cieľ:      Zabezpečiť zdroje pre realizáciu schválených investičných zámerov obce
+
+
+
+  Mu:                 Počet vypracovaných projektov
+
+  Rok:                            2027                 2028                2029
+  Plánovaná hodnota:              10,00                10,00               0
+
+
+
+
+  Mu:                 Nákup pozemkov na zaklade schvaleného rozpočtu v %
+
+  Rok:                            2027                 2028                2029
+  Plánovaná hodnota:              100,00               100,00              0
+
+
+
+
+              Zdroj    Fnc       Pol       S1 S2 S3               Názov účtu           Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                             2027                2028                2029
+
+
+1.2            41      0111     637002     01          Verejné obstarávanie                     5 000,00           5 000,00            5 000,00
+1.2            41      0111     637012               5 Poplatky a odvody (kolky)                1 000,00           1 000,00            1 000,00
+1.2            46      0111     711005                 Územný plán, zmeny a doplnky            20 000,00               0,00                0,00
+1.2            46      0111       716       1       07 PD - Ošust                               5 000,00               0,00                0,00
+1.2            41      0451       716      05          PD - chodník okolo cesty do Jarečka      3 000,00               0,00                0,00
+1.2            46      0451       716      03        1 PD - nový most Jareček                   3 000,00               0,00                0,00
+1.2            46     09121       716      01          PD - rozšírenie kuchyne a školskej jedál 5 000,00               0,00                0,00
+1.2            41      0451       716                  PD - dopravné značenie v obci            5 000,00               0,00                0,00
+1.2            41      0560       716      01          PD - úprava priestoru pri Milk Agre      3 000,00               0,00                0,00
+1.2            41      0111       716      01       01 PD - dažďová voda ul. Kom.-Bystr.-Michal2 000,00                0,00                0,00
+1.2            41      0111       716       4          Geometrické plány /Projektová dokumentác 0,00              20 000,00           20 000,00
+1.2           11H      0111     717001      1          Amfiteáter/Fond na podporu umenia       37 000,00               0,00                0,00
+1.2            46      0810     717001     01          Detské ihrisko                          42 000,00               0,00                0,00
+1.2            46      0520     717001     01        1 Kanalizácia-Matejovce KU Markušovce 37 000,00                   0,00                0,00
+1.2            46      0630     717002     01          Vodovod-rozšírenie,rekonštrukcia tech 80 000,00                 0,00           20 000,00
+1.2            41      0111     717002     04          Rekonštrukcia a modernizácia budov OcÚ5 000,00             20 000,00           20 000,00
+1.2            46      0111     717002     05          Rekonštrukcia budovy Školská č. 1        3 000,00               0,00                0,00
+1.2            46      0111     717002     02          Rekonštrukcia Obecnej haly              10 000,00               0,00           50 000,00
+1.2            46      0111     717002     03          Rekonštrukcia budovy Michalská č. 20 50 000,00                  0,00                0,00
+1.2           111      0111     717002     03          Pomník padlých vojakov                  14 000,00               0,00                0,00
+                                                                                Spolu:        330 000,00          46 000,00          116 000,00
+                                                                  3 / 55
+                                                           Podprogram: 1.3
+      Názov:            Finančné riadenie
+                                       Návrh                  Návrh                  Návrh
+                                rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                   45 500,00              45 500,00              45 500,00
+       Kapitálový rozpočet:                       0,00                   0,00                   0,00
+        Finančné operácie:                   27 500,00              27 500,00              27 500,00
+                      Spolu:                 73 000,00              73 000,00              73 000,00
+      Zodpovednosť: Lucia Gerdová - samostatný odborný referent
+      Zámer:            Finančne konsolidovaná samospráva.
+      Komentár:         V položke rozpočtujeme splácanie úveru zo ŠFRB na 3x8 b.j. na ulici Školská, poplatky za vedenie účtov v bankách a
+                        zaplatené zrážkové dane z úrokov, príjem úroku z termínovaného vkladu, Učtovnícke a personálne služby.
+      Cieľ:      Zabezpečiť trvalú rozpočtovú stabilitu obce
+
+
+
+
+              Zdroj   Fnc       Pol     S1 S2 S3               Názov účtu             Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                            2027                2028                2029
+
+
+1.3            41     0111     637004   02          Spracovanie účtovníctva                   39 600,00          39 600,00           39 600,00
+1.3            41     0112     637012   01          POPLATKY BANKE                             2 500,00           2 500,00            2 500,00
+1.3            41     0170     651001   01          Splátka UROzUVE - ŠFRB                     3 400,00           3 400,00            3 400,00
+1.3            41     0170     821007   02          3x8bj - splátka úveru                     27 500,00          27 500,00           27 500,00
+                                                                           Spolu:             73 000,00          73 000,00           73 000,00
+
+
+
+
+                                                               4 / 55
+                                                               Podprogram: 1.4
+      Názov:             Kontrolná činnosť
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                    25 330,00                 25 330,00                     25 330,00
+       Kapitálový rozpočet:                        0,00                      0,00                          0,00
+        Finančné operácie:                         0,00                      0,00                          0,00
+                       Spolu:                 25 330,00                 25 330,00                     25 330,00
+      Zodpovednosť: Hlavný kontrolór
+      Zámer:             Samospráva                          bez                        porušovania                     právnych                   predpisov.
+      Komentár:          V podprograme sú rozpočtované výdavky súvisiace so všetkými náležitosťami hlavného kontrolóra obce a audítorské služby.
+                         Samospráva bez porušovania právnych predpisov. Súlad činností a rozhodnutí samosprávy so zákonmi, všeobecne záväznými
+                         nariadeniami a vnútornými normami obce.
+      Cieľ:      Zabezpečiť kontrolu vedenia účtovníctva v súlade so zákonom o účtovníctve.
+
+
+
+  Mu:                 Počet              úloh                 v                 pláne                  činností             hlavného               kontrolóra
+                      schválených OZ za rok
+
+  Rok:                            2027               2028                   2029
+  Plánovaná hodnota:              16,00              16,00                  0
+
+
+
+
+              Zdroj   Fnc        Pol      S1 S2 S3                 Názov účtu                  Návrh rozpočtu r.     Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                                     2027                  2028                2029
+
+
+1.4            41     0112        611                HK - tarifný plat                                   14 500,00          14 500,00           14 500,00
+1.4            41     0112        623     1          HK-Dôvera/10%                                        1 800,00           1 800,00            1 800,00
+1.4            41     0112      625001               HK - NP/1,4%                                           190,00             190,00              190,00
+1.4            41     0112      625002               HK - SP/14%                                          1 990,00           1 990,00            1 990,00
+1.4            41     0112      625003               HK - UP/0,8%                                           140,00             140,00              140,00
+1.4            41     0112      625004               HK - IP/3%                                             420,00             420,00              420,00
+1.4            41     0112      625005               HK - PvN/1%                                            140,00             140,00              140,00
+1.4            41     0112      625007               HK - PdoRF/4,75%                                       620,00             620,00              620,00
+1.4            41     0112      637001               Školenie, semináre                                     300,00             300,00              300,00
+1.4            41     0112      637005               Auditorské služby                                    5 000,00           5 000,00            5 000,00
+1.4            41     0112      637016               HK - povinný prídel do SF                              170,00             170,00              170,00
+1.4            41     0112      642006               HK - členské príspevky/ZHK                              60,00              60,00               60,00
+                                                                             Spolu:                      25 330,00          25 330,00           25 330,00
+
+
+
+
+                                                                   5 / 55
+                                                             Podprogram: 1.5
+      Názov:              Členstvá a partnerstvá obce
+                                       Návrh                  Návrh                  Návrh
+                                rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                    11 500,00               11 500,00                11 500,00
+       Kapitálový rozpočet:                        0,00                    0,00                     0,00
+        Finančné operácie:                         0,00                    0,00                     0,00
+                       Spolu:                 11 500,00               11 500,00                11 500,00
+      Zodpovednosť: Starosta obce
+      Zámer:              Členstvo obce v združeniach a organizáciách.
+      Komentár:           V podprograme sú rozpočtované výdavky na členstva v týchto združeniach, v ktorých je obec organizovaná : RVC Štrba, RVC
+                          Košice, Miloj Spiš , OOCR Spiš, ZMOS Špiša ,
+      Cieľ:      Zabezpečiť účasť obce v členských organizáciách.
+
+
+
+  Mu:                 Počet združení a organizácií v ktorých je obec zapojená.
+
+  Rok:                           2027               2028                  2029
+  Plánovaná hodnota:             5,00               5,00                  0
+
+
+
+
+              Zdroj   Fnc        Pol     S1 S2 S3                Názov účtu                Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                                 2027                2028                2029
+
+
+1.5            41     0111      642002 01         1 CVC - poskytnuté FP                            5 500,00            5 500,00            5 500,00
+1.5            41     0111      642006 01         1 Členské príspevoky                             6 000,00            6 000,00            6 000,00
+                                                                                  Spolu:          11 500,00           11 500,00           11 500,00
+
+
+
+
+                                                                 6 / 55
+                                                             Podprogram: 1.6
+      Názov:             Administratíva
+                                       Návrh                  Návrh                  Návrh
+                                rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                    492 976,00           491 976,00             491 896,00
+       Kapitálový rozpočet:                         0,00                 0,00                   0,00
+        Finančné operácie:                          0,00                 0,00                   0,00
+                      Spolu:                  492 976,00           491 976,00             491 896,00
+      Zodpovednosť: Starosta obce
+      Zámer:             Riadenie                                chodu                                 obecného                               úradu.
+      Komentár:          V prvku sú rozpočtované celoročné nákupy všeobecného materiálu (kancelárske potreby, čistiace potreby, ochranné pomôcky,
+                         knihy , noviny a pod.). Prenájom kopírky a účtovnícke služby. Zároveň prvok zahrňa mzdové náklady samostatných odborných
+                         referentov.
+                         Sú rozpočtované výdavky na interiérove vybavenie: kancelária SÚ a sekretariát, výdavky na kvety, kancelárske potreby, údržbu
+                         obecného úradu (rekonštrukcia okien, zistenie a odstránenie zatekania vody na chodbe OÚ), , náklady na poskytnuté služby:
+                         poštovné,     telekomunikačné,    Human     -    mzdy,    Korwin    -   ekonomika,     správca    informačných     systémov,
+      Cieľ:      Plynulé zabezpečenie chodu obce
+
+
+
+  Mu:                 Počet                                     zamestnancov                                       verejná                   správa
+
+  Rok:                           2027                2028               2029
+  Plánovaná hodnota:             39,00               39,00              0
+
+
+
+
+              Zdroj   Fnc       Pol      S1 S2 S3              Názov účtu              Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                             2027                2028                2029
+
+
+1.6            41     0111       611               1 OcU - tarifný plat                     183 460,00            183 460,00          183 460,00
+1.6            41     0111     612001    01        1 Osobný príplatok                        95 200,00             95 200,00           95 200,00
+1.6            41     0111     612002    01        2 OcU -príplatky za nadčas                 4 000,00              4 000,00            4 000,00
+1.6            41     0111       621               1 OcU - VšZP/10%                          17 972,00             17 972,00           17 972,00
+1.6            41     0111       623               1 OcU - Dôvera/10%                         6 324,00              6 324,00            6 324,00
+1.6            41     0111       623     01        5 OcU - UNION/10% dohoda                   2 775,00              2 775,00            2 775,00
+1.6            41     0111     625001              3 OcU - NP/1,4% ZM                         5 580,00              5 580,00            5 580,00
+1.6            41     0111     625002              3 OcU - SP/14% ZM                         40 396,00             40 396,00           40 396,00
+1.6            41     0111     625003              3 OcU - UP/0,8% ZM                         3 194,00              3 194,00            3 194,00
+1.6            41     0111     625004              3 OcU - IP/3% ZM                           9 728,00              9 728,00            9 728,00
+1.6            41     0111     625005              3 OcU - PvN/1% ZM                          3 243,00              3 243,00            3 243,00
+1.6            41     0111     625007              3 OcU - PdoRF/4,75% ZM                    15 024,00             15 024,00           15 024,00
+1.6            41     0111       627                 Príspevok na DDP                         6 000,00              6 000,00            6 000,00
+1.6            41     0111     632001    01          Elektrická energia                      13 000,00             13 000,00           13 000,00
+1.6            41     0111     632001    02          Plyn                                    16 000,00             16 000,00           16 000,00
+1.6            41     0111     632005    01          Telekomunikačné služby                   5 000,00              5 000,00            5 000,00
+1.6            41     0111     

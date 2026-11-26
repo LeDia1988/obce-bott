@@ -1,0 +1,569 @@
+URL: https://cuet.slovensko.sk/en/dokument/90aaaae3-b3f2-4475-a18f-bf542a9ef946
+OBEC: Chlmec (Humenné)
+NÁZOV: Návrh VZN Obce Chlmecč.1/2026
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/90aaaae3-b3f2-4475-a18f-bf542a9ef946
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN Obce Chlmecč.1/2026
+Search publisher's RSS feeds
+Published on official board:
+Obec Chlmec
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Chlmec
+Published to:
+10.12.2026
+Registry case:
+Name of official document:
+Návrh VZN Obce Chlmecč.1/2026
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh VZN Obce Chlmecč.1/2026 [https://www.obecchlmec.sk/download_file_f.php?id=2503530]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Navrh-VZN-Obce-Chlmec-c-1-2026-ktorym-sa-vyhlasuje-Zavazna-cast-Uzemneho-planu-obce-Chlmec.pdf
+Type and size:
+.pdf, 423.67 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/a1c67f94-78e1-4f8b-8cc2-5753e90e36c4
+                                OBEC CHLMEC
+
+                             NÁVRH
+           VŠEOBECNE ZÁVÄZNÉHO NARIADENIA
+                        OBCE CHLMEC
+                            č. 1/2026,
+ktorým sa vyhlasuje Záväzná časť Územného plánu obce CHLMEC -
+                     Zmeny a doplnky č.3/2026
+                           ktoré mení a dopĺňa VZN zo dňa 10.3.1997
+                     pôvodný územný plán rok 1997 schválený uznesením zo dňa 7.3.1997
+                     ZaD č.1 2005 schválený uznesením č. 29/2006 zo dňa 9.2.2006 VZN zo dňa
+                     ZaD č.2 2009 schválený uznesením č. 1/34/2010 zo dňa 12.11.2010
+
+Návrh všeobecne záväzného nariadenia:
+
+Spracovalo obec CHLMEC:
+   - Marián Macko starosta obce
+
+Vyvesený na úradnej tabuli obce dňa:                                               25. 11. 2026
+Zverejnený na elektronickej úradnej tabuli obce dňa:                               25. 11. 2026
+Dátum začiatku lehoty na pripomienkové konanie:                                    25. 11. 2026
+Dátum ukončenia pripomienkového konania (včítane):                                 00. 00. 2026
+Pripomienky zasielať:
+     písomne na adresu: Obec Chlmec, Obecný úrad Chlmec, Chlmec 83,
+     067 41 Chlmec
+     elektronicky na adresu: ouchlmec@minet.sk
+Doručené pripomienky v počte:
+Vyhodnotenie pripomienok k návrhu VZN uskutočnené dňa:                             00. 00. 2026
+Vyhodnotenie pripomienok k návrhu VZN zaslané poslancom dňa:                       00. 00. 2026
+Dátum zvesenia návrhu VZN:                                                         00. 00. 2026
+
+Všeobecne záväzné nariadenie:
+
+Schválené na rokovaní ObZ uznesením číslo: xxx/2026               dňa:             00. 00. 2026
+Vyhlásené vyvesením na úradnej tabuli obce a elektronickej úradnej tabuli na       00. 00. 2026
+webovom sídle obce dňa:
+Zvesené z úradnej tabule obce a elektronickej úradnej tabule obce dňa:             00. 00. 2026
+Zverejnené na webovom sídle obce dňa:                                              00. 00. 2026
+Nadobúda účinnosť dňom:                                                            00. 00. 2026
+                                                                                        Strana 2 z 9
+
+       Obec Chlmec v zmysle § 4 ods. 3 písm. j) a § 6 ods. 1 zákona č. 369/1990 Zb. o obecnom
+zriadení v znení neskorších zmien a doplnkov a na základe § 27 ods. 3 stavebného zákona č. 50/1976
+Zb. v spojení s ust. § 40a ods. 6 zákona č. 200/2022 Z.z. o územnom plánovaní v znení účinnom od
+01.04.2024
+
+                                             vydáva
+
+                        VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                                    OBCE CHLMEC
+                                        č. 1/2026,
+   ktorým sa vyhlasuje Záväzná časť Územného plánu obce CHLMEC - Zmeny a doplnky
+                                         č.3/2026
+                          ktoré mení a dopĺňa VZN z roku 1997
+                    pôvodný územný plán rok 1997 schválený uznesením zo dňa 7.3.1997
+                    ZaD č.1 2005 schválený uznesením č. 29/2006 zo dňa 9.2.2006 VZN zo dňa
+                    ZaD č.2 2009 schválený uznesením č. 1/34/2010 zo dňa 12.11.2010
+
+                                            Článok 1
+
+      Vyhlasuje sa Záväzná časť Územného plánu obce CHLMEC - Zmeny a doplnky č.3/2026
+vyznačená v úplnom znení, uvedená v prílohe č. 1 tohto VZN.
+
+                                            Článok 2
+
+       Dokumentácia schváleného Územného plánu obce CHLMEC - Zmeny a doplnky č.3/2026 je
+uložená na Obci Chlmec, Obecný úrad Chlmec, Chlmec 83, 067 41 Chlmec, na stavebnom úrade
+Obce Chlmec - Spoločný Stavebný úrad, Kukorelliho 34, Humenné 066 01 a na Regionálnom úrade
+pre územné plánovanie a výstavbu, Kúpeľná 6 080 01 Prešov.
+
+                                            Článok 3
+
+      Toto VZN bolo schválené Obecným zastupiteľstvom v Chlmci dňa 00. 00. 2026 je platné
+dňom vyvesenia a musí byť vyvesené na úradnej tabuli a internetovej stránke obce 30 dní.
+      Účinnosť nadobúda 15 dňom od vyvesenia a na úradnej tabuli a internetovej stránke.
+
+
+
+Chlmec, 25. 11. 2026
+
+
+                                                                            Marián Macko
+                                                                            starosta obce
+                                                                                                                 Strana 3 z 9
+
+                                                                                             Príloha č. 1 k VZN č. 1/2026
+
+                Záväzná časť Územného plánu obce CHLMEC - Zmeny a doplnky č.3/2026
+
+                                     Úplné znenie s vyznačením ZaD č. 3/2026
+
+Kompletný text obsahuje kompilát regulatívov pôvodného Územného plánu obce , ZaD č.01 a ZaD č.02 . Je upravený
+o číslovanie regulatívov a doplnený v rámci ZaD č.03/2026 nasledovným spôsobom :
+
+                                                                           platný text
+                                                                           zrušený platný text
+                                                                           doplnený nový text ZaD č.3/2026
+
+1.0     Návrh Regulatívov územného rozvoja
+
+1.1.    Rozhodujúce úlohy
+        Pre zabezpečenie úspešného rozvoja a udržanie kvalitného životného prostredia a identity obce je potrebná :
+
+                 1.1.14    - plynofikácia obce, vytvorenie podmienok pre prechod domácností na vykurovanie plynom alebo
+                           elektrickou energiou
+                 1.1.15    – technická príprava pozemkov ( vybudovanie inžinierskych sietí) pre výstavbu rodinných domov
+                 1.1.16    - výstavba kanalizácie a napojenie na čistiareň odpadových vôd
+                 1.1.17    - rozšírenie vodovodnej siete podľa výkresu č.3 A,B ZaD č.2 ÚPN O
+                 1.1.18    – rozšírenie kanalizačnej siete podľa výkresu č.3 A,B ZaD č.2 ÚPN O
+                 1.1.19    – vybudovanie lapačov splavenín na vyústení priekop
+                 1.1.20    – vybudovanie vonkajšej sekundárnej elektrickej siete káblovým vedením a trafostaníc podľa výkresu č.
+                           4 A,B ZaD č. 2 ÚPN O
+                 1.1.21    – dobudovanie STL a NTL plynovodnej siete podľa výkresu č. 4 A,B ZaD č.2 ÚPN O
+                 1.1.22    – kabelizácia miestnej telefónnej siete
+                 1.1.23    – výstavba lyžiarskeho areálu SKI PARKU
+                 1.1.24    – v priestorovom usporiadaní rešpektovať určené ochranné pásma a bezpečnostné pásma
+                           jestvujúcich a navrhovaných elektrických vedení a transformačných staníc v zmysle platnej
+                           legislatívy
+                 1.1.25    – v priestorovom usporiadaní rozvojových lokalít vytvoriť dostatočné územné rezervy pre
+                           koncepčné rozšírenie elektrických vedení VN a NN pre osadenie transformačných staníc v zmysle
+                           platnej legislatívy
+                 1.1.26    – pri návrhu nových úsekov NN siete je potrebné zohľadniť technologické limity vedení NN
+                           rozvodov , ktorá je do 400 m.
+                 1.1.27    – zohľadniť v ÚPD možnosť výstavby/rozšírenia verejnej elektronickej komunikačnej siete ( VEKS
+                           – jej podzemných sietí aj nadzemných staníc), ako technickej infraštruktúry vybavenia územia
+
+1.2.    Určenie prípustných, obmedzujúcich a vylučujúcich podmienok využitia jednotlivých plôch
+
+        1.2.1    - Budovy pre bývanie a občianske vybavenie
+                 1.2.1.1 - výstavbu rodinných domov uskutočňovať na pozemkoch pre tento účel vymedzených územným
+                         plánom, a to vo voľných prielukách, alebo v novo navrhovaných súboroch rodinných domov ( podľa
+                         výkresovej dokumentácie ZaD č. 2 ÚPN O )
+                 1.2.1.2 - okrem platných technických predpisov vyplývajúcich z platnej legislatívy, pri výstavbe rodinných domov
+                         dodržať tieto podmienky a formy výstavby
+                         1.2.1.2.1 - izolované(sólo) , dvojdomy a radové domy
+                         1.2.1.2.2 - výška maximálne dve nadzemné podlažia
+                         1.2.1.2.3 - garáž ako súčasť domu, alebo na jeho pozemku
+                         1.2.1.2.4 - všetky budovy musia môžu mať sedlovú strechu o sklone cca 30 – 50 stupňov alebo plochú
+                                   strechu
+                         1.2.1.2.5 - zástavba musí dodržať záväzné stavebné čiary znázornené vo výkresovej dokumentácii, ( 6m
+                                   od kraja komunikácie)
+                 1.2.1.3 - Na pozemkoch rodinných domov je povolený chov drobného hospodárskeho zvieratstva
+                         a hospodárskych zvierat v množstve zodpovedajúcom vlastnej spotrebe obyvateľov domu
+                                                                                                                   Strana 4 z 9
+
+                1.2.1.4   - na pozemkoch rodinných domov je povolené vykonávať podnikateľskú činnosť ( obchod, služby, drobné
+                          remeslá ) bez negatívnych vplyvov na životné prostredie
+                1.2.1.5   - Prebudovať starý kostol na dom smútku
+                1.2.1.6   - Rozostavané mechanizačné stredisko využiť najmä pre výrobné účely, ktoré z dôvodov negatívnych
+                          vplyvov na životné prostredie nemôžu byť umiestnené v obci
+
+       1.2.2    - Funkčná plocha rekreácie a občianskej vybavenosti                                          R/OV
+                1.2.2.1. - územie slúži pre túto hlavnú funkciu:
+                         1.2.2.1.1 - pre umiestnenie objektov a zariadení pre individuálnu a hromadnú rekreáciu
+                         1.2.2.1.2 - pre stavby základnej a vyššej občianskej vybavenosti;
+                         1.2.2.1.3 - pre stavby na ubytovanie a stravovanie
+                1.2.2.2. - na území je prípustné umiestňovať tieto doplnkové funkcie k hlavnej funkcií:
+                         1.2.2.2.1 - verejné dopravné a technické vybavenie,
+                         1.2.2.2.2 - objekty a zariadenia pre jednotlivé alebo skupinové rekreačné aktivity,
+                         1.2.2.2.3 - objekty pre doplňujúcu vybavenosť, súvisiacu s hlavnou funkciou,
+                         1.2.2.2.4 - agroturistika, služobné byty pre správcov zariadení,
+                         1.2.2.2.5 - plochy zelene.
+                1.2.2.3 - na území je zakázané umiestňovať:
+                         1.2.2.3.1 - plochy a objekty bývania, priemyselnej a poľnohospodárskej výroby, skladového
+                                   hospodárstva.
+                1.2.2.4 - Priestorová regulácia:
+                         1.2.2.4.1 - stavby môžu byť maximálne dvojpodlažné s využitým podkrovím (ustúpeným
+                                   podlažím) – 2 NP+P(UP), alebo tomu zodpovedajúca výška stavieb, t.j. maximálne 9 m
+                                   od úrovne pôvodného rastlého terénu po hrebeň šikmej alebo 7 m po atiku plochej
+                                   strechy.
+                         1.2.2.4.2 - zástavba samostatne stojacimi alebo radovými objektmi, zastavanosť pozemku
+                                   samostatne stojacimi budovami do 35 %. Podiel zelene minimálne 30 %.
+
+       1.2.3    - Zmiešané územie s polyfunkčnou zástavbou – bývanie + občianska vybavenosť - B/OV
+                1.2.3.1 - územie slúži pre túto hlavnú funkciu:
+                        1.2.3.1.1 - pre umiestnenie obytných , občianskych a polyfunkčných objektov, plôch a zariadení
+                                   pre bývanie v kombinácii s občianskou vybavenosťou, s možnosťou penziónového
+                                   ubytovania.
+                1.2.3.2 - na území je prípustné umiestňovať tieto doplnkové funkcie k hlavnej funkcií:
+                        1.2.3.2.1 - verejné dopravné a technické vybavenie,
+                        1.2.3.2.2 - objekty pre doplňujúcu vybavenosť, súvisiacu s hlavnou funkciou maloobchod
+                                   a nevýrobné služby v spojení s bývaním v služobnom resp. prevádzkovom byte,
+                                   živnostenské aktivity nerušivého charakteru, remeselné činnosti,
+                        1.2.3.2.3 - plochy športovísk, rekreačných objektov, zelene.
+                1.2.3.3 - na území je zakázané umiestňovať:
+                        1.2.3.3.1 - plochy priemyselnej a poľnohospodárskej výroby, výrobné služby a skladové
+                                   hospodárstvo.
+                1.2.3.4 Priestorová regulácia:
+                        1.2.3.4.1 - stavby môžu byť maximálne trojpodlažné s využitým podkrovím (ustúpeným podlažím)
+                                   –
+                        1.2.3.4.2 - 3 NP+P(UP), alebo tomu zodpovedajúca výška stavieb, t.j. maximálne 12 m od úrovne
+                                   pôvodného rastlého terénu po hrebeň šikmej alebo 10 m po atiku plochej strechy.
+                        1.2.3.4.3 - zástavba samostatne stojacimi alebo radovými objektmi, zastavanosť pozemku
+                                   samostatne stojacimi budovami do 50 %. Podiel zelene minimálne 30 %.
+                        1.2.3.4.4 - parkovanie musí byť riešené na pozemku jednotlivých domov v počte odstavných miest
+                                   minimálne zhodnom s počtom stanoveným podľa príslušnej STN.
+
+1.3.   Priestorové usporiadanie
+       1.3.1     - V záujme dodržania mierky a identity obce nepripustiť výstavbu domov s nadmerným objemom ( viac ako dve
+                 nadzemné podlažia ) a s plochou strechou .
+       1.3.2     - Verejnú zeleň v centrálnej časti obce a okolo nového kostola vysadiť a sústavne udržiavať
+       1.3.3     - Chrániť a udržiavať prvky ekologickej stability ( potoky a ich sprievodnú zeleň, cintorín a verejnú zeleň obce).
+
+1.4.   Komunikácie
+       1.4.1   - rešpektovať trasu cesty III/55913, výhľadovej kategórie C7,5/70 s obojstranným cestným ochranným pásom šírky
+               20 m podľa výkr. č. ZaD č.2 ÚPN O .
+                                                                                                              Strana 5 z 9
+
+       1.4.2    - ponechať územnú rezervu v cestnom ochrannom pásme cesty III/55913 pre možnosť rozšírenia cesty na
+                kategóriu C11,5/70 a pásu pešieho a cyklistického chodníka
+       1.4.3    - rešpektovať trasu cesty III/55815 a postupne ju prestavať na kategóriu MO 7,5/40
+       1.4.4    - základný systém cestnej siete obce nebude menený, vybudujú sa obslužné komunikácie pre sprístupnenie
+                navrhovaných skupín rodinných domov a športového areálu
+       1.4.5    - pre sprístupnenie lyžiarského strediska zrealizovať samostatnú prístupovú komunikáciu kategórie MO 7,5/40
+                podľa výkr.č.1 ZaD č.2 ÚPN O
+       1.4.6    - podmienkou pre výstavbu nových rodinných domov a občianskej vybavenosti v lokalite beláky je prestavba
+                existujúcej komunikácie na kategóriu MO 6,5/40
+       1.4.7    - dopravnú obsluhu územia s novou výstavbou lokalít rodinnej zástavby zrealizovať obslužnými komunikáciami
+                funkčnej triedy C2,C3, kategórie MO 7,5/40 , s celkovou šírkou uličného priestoru 10 -12,0 m podľa výkresu č.2
+                A,B ZaD č.2 ÚPN O
+       1.4.8    - v križovatkách komunikácií je potrebné voliť oplotenie pozemkov rodinných domov tak, aby boli zabezpečené
+                dĺžky rozhľadových polí v zmysle STN 73 6110
+       1.4.9    - autobusové zastávky budú vybavené samostatnými zastávkovými pruhmi
+       1.4.10   - pri umiestňovaní podnikateľských aktivít do objektov rodinných domov zabezpečovať potrebný počet parkovacích
+                státí na vlastnom pozemku
+       1.4.11   - parkoviská pre osobné automobily a autobusy návštevníkov SKI PARKU budú vybudované v areáli SKI PARKU
+       1.4.12   - podrobnejšiu dokumentáciu spracovať pre lokality bývania Záhumienky a Cigánky, lokality chatovej rekreácie
+                Panské Cigánky, Pod majirom, Pod hákoviskom a pod Sniščakovou a lokality CR Pod Kovčíom a Pod Zajačkovou
+       1.4.13   - V zastavanom území obce rešpektovať výhľadové šírkové usporiadanie cesty III. triedy v kategórii MZ
+                8,5(8,0)/50 , resp MOK 7,5/40 ( funkčná trieda B3) v zmysle STN 736110
+
+1.5.   Kultúrne pamiatky
+       1.5.1     - rešpektovať ochranu archeologických nálezísk podľa výkr. č.1 ZaD č.2 ÚPN O.
+       1.5.2     - v Ústrednom zozname pamiatkového fondu v registri nehnuteľných kultúrnych pamiatok nie je
+                 v súčasnosti v k.ú. Chlmec zapísaná žiadna národná kultúrna pamiatka .
+       1.5.3     - KPÚ Prešov eviduje v Evidencii archeologických nálezísk v k.ú. Chlmec arch.é náleziská :
+                 1.5.3.1 - historické jadro obce – územie s evidovanými archeologickými nálezmi ( Prvá zmienka o obci
+                           k roku 1416) – pravdepodobne z intravilánu obce pochádza kamenná industria z mladšej doby
+                           kamennej(?)
+                 1.5.3.2 - Poloha Uhliská – v lese JZ od intravilánu – nálezy zo stredoveku a novoveku , terénne relikty po
+                           ťažbe a následnom spracovaní vápenca (pingy a pece)
+                 1.5.3.3 - Vo vzdialenosti cca 600 m od cesty vedúcej do Porúbky – nálezy kamennej industrie zo staršej
+                           doby kamennej
+                 1.5.3.4 - Ojedinelé nálezy keramiky zo stredoveku až novoveku
+
+1.6.   Ochrana prírody , krajiny a životného prostredia
+       1.6.1   - chrániť lokality , ktoré sa pripravujú na vyhlásenie za prírodné pamiatky :
+               1.6.1.1 - dve lipy z roku 1863 pri odbočke z cesty III/55813 do obce .
+               1.6.1.2 - lokalitu Skalka severne od starého kostola .
+       1.6.2   - pozemkovými úpravami, usporiadaním pozemkového vlastníctva a užívacích pomerov v poľnohospodárskom
+               a lesnom extraviláne podporovať výsadbu plošnej a líniovej zelene, prirodzený spôsob obnovy a revitalizáciou
+               krajiny v prvkoch územného systému ekologickej stability, s maximálnym využitím pôvodných ( domácich) druhov
+               rastlín
+       1.6.3   - nakladanie s odpadmi riešiť komplexným separovaným zberom
+       1.6.4   - zriadiť v areáli hospodárskeho dvora zberný dvor na objemný odpad z domácností, drobný stavebný odpad,
+               nebezpečný odpad a pod podľa výkr. č. 1 ZaD č.2 ÚPN O
+       1.6.5   - zriadiť v areáli hospodárskeho dvora kompostovisko pre nakladanie s odpadom podľa výkr. č. 1 ZaD č.2 ÚPN O
+       1.6.6   - pri zriaďovaní technických zariadení na výrobu tepla využívať technológie s obnoviteľnými zdrojmi energie
+       1.6.7   - realizácia zámerov výstavby v CHVÚ(plochy bývania v lokalite Berčalovky, plochy rekreácie v lokalitách Pod
+               Hájkoviskom, Pod Zajačkovou, Panské Cigánky, Pod Majirom, Pod Siniščakovou ) je podmienená spracovaním
+               podrobnejšej dokumentácie (ÚPN Z ) a posúdením vplyvov na životné prostredie ( §18 ods.1 a ods.12 zákona
+               24/2006 Z.z. )
+       1.6.8   - nezasahovať do území s 5.stupňom ochrany prírody
+       1.6.9   - zachovať pozdĺž tokov plochy pre výsadbu sprievodnej brehovej vegetácie
+       1.6.10 - rešpektovať inundačné územie tokov
+       1.6.11 - rešpektovať ochranné pásma vodárenských zdrojov – pramene Jasenovská , Zimný kúpeľ, Lúky, Blaciny,
+               Rúbanisko a Pod Cholmom podľa výkr. č. 1 ZaD č.2 ÚPN O
+       1.6.12 - rešpektovať ochranné pásma zariadení a líniových stavieb inžinierskych stavieb všetkého druhu
+                                                                                                               Strana 6 z 9
+
+       1.6.13   - Pri riešeniach rozvoja obce je potrebné dôsledne rešpektovať príslušné ustanovenia zákona
+                a v riešených lokalitách riešiť zásobovanie pitnou vodou a odvedenie splaškových vôd v zmysle vodného
+                zákona č.442/2002 Z.z. o verejných vodovodoch a verejných kanalizáciách a o zmene a doplnení zákona
+                276/2001 Z.z. o regulácii v sieťových odvetviach.
+       1.6.14   Pri návrhu koncepcie nakladania s dažďovými vodami, vzhľadom na klimatickú zmenu, riešenie sucha
+                a nedostatku vody, SVP š.p. žiada navrhnúť opatrenia na zdržanie povrchového odtoku dažďových vôd zo
+                spevnených plôch v prípade nových lokalít určených na zástavbu ( z komunikácií, spevnených plôch
+                a striech rodinných domov, prípadne iných stavebných objektov ) na pozemku stavebníka prostredníctvom
+                vsakovacích objektov ( prípadne s retenčnými nádržami ), dažďových záhrad, jazierok a podobne tak, aby
+                nedochádzalo k zhoršeniu odtokových pomerov v území. Ak nie je možné zachytávať vodu z povrchového
+                odtoku na mieste dopadu zrážok alebo v jeho tesnej blízkosti, možno ju odvádzať do povrchových vôd.
+                Uvedené opatrenia však žiadame navrhnúť tak, aby prípadný odtok z daného územia do recipientu nebol
+                zvýšený voči stavu pred realizáciou prípadnej navrhovanej zástavby a aby nebola zhoršená kvalita vody
+                v recipiente v súlade s ustanovením § 36 ods. 17 zákona č. 364/2004 Z. z. o vodách v znení neskorších
+                predpisov ( vodný zákon) a v zmysle požiadaviek NV SR č. 269/2010 Z. z. podľa § 9.
+       1.6.15   Odvádzanie splaškových odpadových vôd bude riešené prednostne prostredníctvom verejnej kanalizácie
+                . V prípadoch , kde nie je možné napojenie na verejnú kanalizáciu, je nutné zabezpečiť. Iný spôsob
+                odvádzania a zneškodňovania odpadových vôd, napr. výstavbou vlastnej čistiarne odpadových vôd,
+                prípadne akumuláciou produkovaných splaškových odpadových vôd z jednotlivých objektov vo
+                vodotesných žumpách a zneškodňovanie žumpových vôd riešiť v súlade s ustanovením § 36 ods. 3
+                zákona č. 364/2004 Z. z. o vodách v znení neskorších predpisov vývozom do čistiarne odpadových vôd
+                s kapacitnými a technologickými možnosťami pre príjem týchto vôd.
+
+1.7.   Osobitné záujmy v území
+       1.7.1    - realizovať stavby tak aby spĺňali požiadavky CO a PO
+       1.7.2    - realizovať protipovodňové opatrenia na vodných tokoch v katastrálnom území, dodržať ochranné pásma vodných
+                tokov
+
+1.8.   Regulatívy pre územie zábavného parku „Vtáčie územie“
+       1.8.1    - rešpektovať vymedzenie a funkčné určenie plôch pre funkciu zábavného parku „ Vtáčie údolie“ a koncepciu
+                dopravnej obsluhy podľa ZaD č.2 ÚPN O – výkres č.7
+       1.8.2    - na úseku statickej dopravy dobudovať potrebné plochy odstavných a parkovacích miest pri objektoch
+                existujúceho a navrhovaného občianskeho vybavenia
+       1.8.3    - rešpektovať koncepciu zásobovania vodou , el. energiou, plynom a koncepciu odkanalizovania v zmysle
+                dokumentácie ZaD č.2 ÚPN O – výkres č.8
+       1.8.4    - spracovať podrobnejšiu dokumentáciu územia zábavného parku pre detailné priestorové usporiadania a výškové
+                členenie objektov
+       1.8.5    - prístupové komunikácie do zábavného parku realizovať v takej trase, ktorá nebude vyžadovať likvidáciu
+                ostrovčekovitej a líniovej stromovej a krovinovej krajinnej vegetácie pozdĺž vodných tokov a terénnych depresií
+       1.8.6    - akceptovať biotopy európskeho a národného významu, CHVÚ a prvky ÚSES na všetkých hierarchických
+                úrovniach a záujmové územie ochrany prírody podľa výkr. č. 1 ZaD č.2 ÚPN O a navrhovanými aktivitami nenarušiť
+                ich funkciu
+       1.8.7    - zabezpečiť čistenie odtoku vôd z parkovísk cez odlučovače ropných látok
+       1.8.8    - v zariadeniach s vysokými nárokmi na úžitkovú vodu využívať technológie na recykláciu vody
+       1.8.9    - zabezpečiť ,aby v prípade, že sa výstavba zábavného parku neuskutoční, plochy neboli využité pre iný projekt
+                a navrátili sa do pôvodného funkčného určenia – poľnohospodárskej pôdy
+
+1.9.   Dopravný úrad – Súhlas úradu na zhotovenie, umiestnenie alebo užívanie stavby zariadenia nestavebnej povahy
+       alebo vykonávanie činnosti alebo využívanie územia , ktoré by svojimi vlastnosťami mohli ohroziť bezpečnosť
+       leteckej prevádzky , sa vyžaduje ak :
+       1.9.1     - sa ich najvyšší bod nachádza vo výške 40 m a viac nad terénom,
+       1.9.2     - sú ich súčasťou veterné turbíny s rotujúcimi lopatkami alebo sú na nich umiestnené veterné turbíny
+                 s rotujúcimi lopatkami
+       1.9.3     - môžu rušiť funkciu leteckých palubných prístrojov alebo leteckých pozemných zariadení, najmä
+                 zariadenia priemyselných podnikov, vedenia veľmi vysokého napätia 110 kV a viac, energetické zariadenia
+                 alebo vysielacie stanice
+       1.9.4     - môžu ohroziť let lietadla, najmä zariadenia na generovanie alebo zosilňovanie elektromagnetického
+                 žiarenia, klamlivé svetlá alebo silné svetelné zdroje a nadzemné elektrické vedenia s napätím viac ako 1000
+                 V vedúce ponad údolia alebo v blízkosti diaľnic, rýchlostných ciest a ciest I.triedy
+                                                                                                                 Strana 7 z 9
+
+2.      Vymedzenie zastavaného územia
+
+2.01    Zastavané územie je územie vnútri terajších hraníc zastavaného územia k 1.1. 1990.
+
+2.02    Ďalšie zastavané územia budú územia určených lokalít na výstavbu, kde sa hranica stanovuje hranicami jednotlivých parciel
+        s odčleneným pozemkom pre výstavbu.
+
+3.      Vymedzenie ochranných pásiem a chránených území
+
+Ochranné pásma :
+          3.01 Ochranné pásmo lesa
+                     3.01.01    Ochranné pásmo lesa 50 m od hranice lesného porastu v zmysle § 10 zákona NR SR č.
+                                326/2005 Z. z. o lesoch.
+
+          3.02 Cestné ochranné pásma slúžia na ochranu diaľnic, ciest a miestnych ciest mimo územia zastavaného, alebo
+               určeného na súvislé zastavanie.
+
+                       3.02.01      50 m cesta I. triedy od osi cesty na každú stranu v úseku mimo zastavaného územia
+                                    obce vymedzeného platným územným plánom obce.
+                       3.02.02      20 m cesta III. triedy od osi cesty na každú stranu v úseku mimo zastavaného územia
+                                    obce vymedzeného platným územným plánom obce.
+
+          3.03 Ochranné pásma elektrických zariadení je vymedzené zvislými rovinami po oboch stranách vedenia vo
+               vodorovnej vzdialenosti meranej kolmo na vedenie od krajného vodiča. V ochrannom pásme elektrickej
+               stanice vymedzenej v odseku 9 písm. a) a b) je zakázané vykonávať činnosti, pri ktorých je ohrozená
+               bezpečnosť osôb, majetku a spoľahlivosť a bezpečnosť prevádzky elektrickej stanice. Zriaďovať stavby v
+               ochrannom pásme elektroenergetického zariadenia možno iba po predchádzajúcom súhlase
+               prevádzkovateľa sústavy. Súhlas prevádzkovateľa sústavy na zriadenie stavby v ochrannom pásme
+               elektroenergetického zariadenia je dokladom pre územné konanie a stavebné konanie. Ochranné pásmo
+               elektrických zariadení v zmysle § 43 zákona č. 251/2012 Zb. o energetike:
+
+                       3.03.01      25 m pre nadzemné vedenie od 220 kV do 400 kV
+                       3.03.02      20 m pre nadzemné vedenie od 110 kV do 220 kV
+                       3.03.03      10 m pre nadzemné vedenie bez izolácie pri napätí od 1 kV do 35 kV a 7 m v súvislých
+                                    lesných priesekoch (od krajného vodiča na každú stranu vedenia),
+                       3.03.04      10 m od transformovne VN/NN.
+                       3.03.05      4 m pre vodiče so základnou izoláciou pri napätí od 1 kV do 35 kV a 2 m v súvislých
+                                    lesných priesekoch (od krajného vodiča na každú stranu vedenia),
+                       3.03.06      1m pre nadzemné káblové vedenie pri napätí od 1 kV do 35 kV (na každú stranu vedenia).
+
+          3.04 Vodárenské ochranné pásma vymedzené sú vodorovnou vzdialenosťou od vonkajšieho pôdorysného okraja
+               vodovodného potrubia alebo kanalizačného potrubia na obidve strany. V ochrannom pásme je zakázané
+               vykonávať zemné práce, umiestňovať stavby, konštrukcie alebo iné podobné zariadenia alebo vykonávať
+               činnosti, ktoré obmedzujú prístup k verejnému vodovodu alebo verejnej kanalizácii alebo ktoré by mohli
+               ohroziť ich technický stav, vysádzať trvalé porasty, vykonávať terénne úpravy.
+
+                       3.04.01      o 1,5 m pásmo ochrany verejného vodovodu a verejnej kanalizácii do priemeru 500 mm
+                                    vrátane,
+                       3.04.02      2,5 m pásmo ochrany verejného vodovodu a verejnej kanalizácii nad priemer 500 mm,
+                       3.04.03      15 m ochranné pásmo vodovodného radu „ Starina“
+                       3.04.04       Pozdĺž brehov miestneho vodného toku Bystrý potok, ponechať v šírke 5,0 m voľný
+                                    manipulačný nezastavaný pás.
+                       3.04.05      20 m - PHO okolo oploteného vodojemu.
+                       3.04.06      Pozdĺž hydro melioračných zariadení rešpektovať ochranného pásma 5 m od brehovej
+                                    čiary u otvorených kanálov a 5 m od osi krytého kanála
+                       3.04.07      Pri výstavbe objektov v lokalite 03/01 bude zabezpečená individuálna protipovodňová
+                                    ochrana stavebných objektov na Q100. Objekty budú situované v čo najväčšej
+                                    vzdialenosti od vodného toku. Bude rešpektované prirodzené trasovanie vodného toku
+                                    bez prekrývania a zasypávania.
+                                                                                                 Strana 8 z 9
+
+3.05 Ochranné a bezpečnostné pásmo plynárenských zariadení a priamych plynovodov v zmysle § 79 a § 80
+     zákona č. 251/2012 Zb. o energetike: Ochranné pásmo v zmysle zákona č. 251/2012 Z. z., § 79 vymedzené
+     vodorovnou vzdialenosťou od osi priameho plynovodu alebo od pôdorysu technologickej časti
+     plynárenského zariadenia merané kolmo na os plynovodu alebo na hranu pôdorysu technologickej časti
+     plynárenského zariadenia:
+
+           3.05.01     8 m pre plynovod s menovitou svetlosťou od 201 do 500 mm, na každú stranu od osi
+                       plynovodu,
+           3.05.02     4 m pre plynovod s menovitou svetlosťou do 200 mm, na každú stranu od osi plynovodu,
+           3.05.03     1 m pre plynovod s prevádzkovaným tlakom nižším ako 0,4 MPa, na každú stranu od osi
+                       plynovodu v zastavanom území,
+           3.05.04     8 m pre technologické objekt. Bezpečnostné pásmo v zmysle zákona č. 251/2012 Z. z., §
+                       80 vymedzené vodorovnou vzdialenosťou od osi priameho plynovodu alebo od
+                       pôdorysu technologickej časti plynárenského zariadenia merané kolmo na os
+                       plynovodu alebo na hranu pôdorysu technologickej časti plynárenského zariadenia:
+           3.05.05     50 m pri regulačných staniciach,
+           3.05.06     20 m pri plynovod s tlakom do 4,0 MPa prevádzkovaných na voľnom priestranstve a na
+                       nezastavanom území
+
+3.06 Ochranné pásma telekomunikačných zariadení . V ochrannom pásme je zakázané umiestňovať stavby,
+    zariadenia a porasty, vykonávať zemné práce, ktoré by mohli ohroziť vedenie alebo bezpečnú prevádzku
+    siete. Vykonávať prevádzkové činnosti spojené s používaním strojov a zariadení, ktoré rušia prevádzku sietí,
+    pridružených prostriedkov a služieb.
+
+           3.06.01     ochranné pásmo vedenia verejnej telekomunikačnej siete je široké 1 m od osi jeho trasy
+                       a prebieha po celej dĺžke jeho trasy. V niektorých bodoch trasy sa môže ochranné pásmo
+                       rozširovať až na 1,5 m. Hĺbka a výška ochranného pásma je 2 m od úrovne zeme, ak ide
+                       o podzemné vedenie, a v okruhu 2 m, ak ide o nadzemné vedenie.
+
+ 3.07 Ochrana archeologických lokalít a kultúrnych pamiatok
+
+           3.07.01     Z hľadiska ochrany archeologických nálezísk ku stavbe, ktorá si vyžiada vykonanie
+                       zemných prác investor/stavebník je povinný od Krajského pamiatkového úradu v
+                       Prešove už v stupni územného konania si vyžiadať v zmysle zákona č. 25/2025 Zb. –
+                       Stavebný zákon - v znení neskorších predpisov odborné stanovisko.
+           3.07.02     Pred začatím stavebnej činnosti alebo hospodárskej činnosti na evidovanom
+                       archeologickom nálezisku je vlastník , správca alebo stavebník povinný podať žiadosť
+                       o vyjadrenie k zámeru na Krajský pamiatkový úrad Prešov.
+           3.07.03     V prípade nevyhnutnosti, vykonať záchranný archeologický výskum ako predstihové
+                       opatrenie na záchranu archeologických nálezísk a nálezov rozhoduje o výskume podľa
+                       § 37 pamiatkového zákona Pamiatkový úrad Slovenskej republiky.
+           3.07.04     Zachovať charakteristické a jedinečné diaľkové pohľady a siluety KOSTOL, ktorý je
+                       historickou dominantou obce, ako aj na charakteristické panorámy územia.
+           3.07.05     Zachovať na pôvodných miestach všetky Božie muky, prícestné kríže, sochy, kaplnky
+                       a historické objekty vodojemov a iné prvky malej architektúry, ktoré sú kultúrno-
+                       historickým dedičstvom obce.
+
+ 3.08 Ochrana objektov občianskej vybavenosti
+
+           3.08.01     50 m – PHO od hraníc využívaného cintorína
+           3.08.02     25 m – PHO od hraníc nevyužívaného cintorína
+           3.08.03     200 m – PHO od hraníc poľnohospodárskeho dvora
+           3.08.04     50 25 m – PHO od objektov rušivej drevovýroby
+
+  3.09 Zosuvné územia a erózne javy
+           3.09.01    V predmetnom území sú zaregistrované viaceré potenciálnych svahové deformácie.
+                      Jedná sa o svahové deformácie typu zosuvov. Svahové deformácie sa registrujú priamo
+                      prevažne v severozápadnej, východnej časti katastrálneho územia obce.
+           3.09.02    Vhodnosť a podmienky stavebného využitia územia s výskytom potenciálnych a
+                      stabilizovaných svahových deformácií je potrebné posúdiť a overiť
+                      inžinierskogeologickým prieskumom.
+                                                                                                                Strana 9 z 9
+
+
+               3.10 Radónové riziko
+
+                        3.10.01       Podľa § 20 ods. 3 zákona č. 569/2007 Z. z. o geologických prácach (geologický zákon) v
+                                      znení neskorších predpisov ministerstvo vymedzuje nasledovné riziká stavebného
+                                      využitia územia: - nízke až stredné radónové riziko. Vhodnosť a podmienky stavebného
+                                      využitia územia s výskytom stredného radónové rizika je potrebné posúdiť podľa zákona
+                                      č. 355/2007 Z. z. o ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení
+                                      niektorých zákonov v znení neskorších predpisov a vyhlášky MZ SR č. 98/2018 Z. z.,
+                                      ktorou sa ustanovujú podrobnosti o požiadavkách na obmedzenie ožiarenia z
+                                      prírodného žiarenia.
+
+
+
+4.       Zoznam verejnoprospešných stavieb
+         Vymedzenie verejnoprospešných stavieb bolo urobené po konzultáciách s obstarávateľom ( viď záznam z 2.5.1995 )
+v nasledovnom poradí .
+         Zoznam bol priebežne doplnený v rámci ZaD č.1 a ZaD č.2 . a doplnený v rámci ZaD č.03/2026 nasledovným
+spôsobom :
+                                                                           platný text
+                                                                           zrušený platný text
+                                                                           doplnený nový text ZaD č.3/2026
+         1. Výstavba plynovodu
+         2. Prestavba starého kostola na dom smútku
+         3. Výstavba kanalizácie ( a ČOV v prípade, že nebude spoločná ČOV v Humennom)
+         4. Rekonštrukcia a dostavba elektrorozvodov a transformačných staníc
+         5. Rekonštrukcia a rozšírenie cestnej siete a výstavba autobusových zastávkových pruhov
+         6. Predĺženie jestvujúcej úpravy potoka
+         7. Dostavba a rozšírenie vodovodu
+         8. Výstavba nového kultúrneho domu
+         9. Výstavba prepojovacích chodníkov
+         10. Rekonštrukcia a rozšírenie telefónnej siete a obecného rozhlasu
+         11. Terénne a sadové úpravy
+         12. Výsadba kvetinových záhonov a verejnej zelene
+         13. Rekonštrukcia požiarnej zbrojnice
+         14. Výstavba miestnej obslužnej komunikácie do SKI PARKU
+         15. vybudovanie obslužných a prístupových komunikácií v navrhovaných lokalitách podľa výkr.č.2A,B ZaD č, ÚPN O
+         16. rozšírenie vodovodnej siete pre novonavrhované lokality podľa výkr.č. 3A,B ZaD č.2 ÚPN O
+         17. rozšírenie kanalizačnej siete pre novonavrhované lokality podľa výkr.č. 3A,B ZaD č.2 ÚPN O
+         18. vybudovanie lapačov splavenín na vyústení priekop
+         19. trafostanice a vybudovanie vzdušnej a káblovej prípojky 22 kV vedenia k nim podľa výkr.č. 4A,B ZaD č.2 ÚPNO
+         20. vybudovanie sekundárnej siete káblovým vedením podľa výkr. č. 4A,B ZaD č.2 ÚPN O
+         21. vybudovanie vonkajšieho osvetlenia komunikácií v lokalitách navrhovanej výstavby
+         22. dobudovanie STL a NTL plynovodnej siete podľa výkr.č. 4A,B ZaD č.2 ÚPN O
+         23. kabelizácia miestnej telefónnej siete
+         24. zberný dvor podľa výkr.č. 1 ZaD č.2 ÚPN O
+         25. kompostovisko podľa výkr.č. 1 ZaD č.2 ÚPN O
+
+          Postup realizácie verejnoprospešných stavieb nebol časovo fixovaný . Práce sa budú v závislosti od finančných možností
+realizovať v hore uvedenom poradí.
+          Určenie verejnoprospešných stavieb je podkladom pre prípadné vyvlastnenie pozemkov, alebo stavieb podľa § 108 ods. 2,
+písmeno a zákona č. 50/1976 Zb. a jeho zmien a doplnkov , pokiaľ nebude možné riešenie majetko právnych vzťahov dosiahnuť
+dohodou, alebo iným spôsobom.
+          Na uskutočnenie verejnoprospešných stavieb možno podľa § 108 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom
+poriadku ( stavebný zákon) v znení zákona 262/1992 Zb., zákona Národnej rady Slovenskej republiky č. 199/1995 Z.z. , zákona
+229/1997 Z.z. a nálezu Ústavného súdu Slovenskej republiky č. 286/1996 Z.z. pozemky, stavby a práva k nim vyvlastniť alebo
+vlastnícke práva k pozemkom a stavbám obmedziť.
+

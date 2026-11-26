@@ -1,0 +1,353 @@
+URL: https://cuet.slovensko.sk/en/dokument/5062b16a-5460-4623-969e-1e96ca39337f
+OBEC: Poprad (Poprad)
+NÁZOV: VN prípojka a trafostanica, k.ú. Spišská Sobota
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/5062b16a-5460-4623-969e-1e96ca39337f
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VN prípojka a trafostanica, k.ú. Spišská Sobota
+Search publisher's RSS feeds
+Published on official board:
+Mesto Poprad (OVM)
+Published from:
+26.11.2026
+Registry symbol:
+TS1
+Documents author:
+Mesto Poprad (OVM)
+Published to:
+11.12.2026
+Registry case:
+89962/6172/2026
+Name of official document:
+VN prípojka a trafostanica, k.ú. Spišská Sobota
+Document type:
+Iný elektronický dokument
+Document abstract:
+Stavebné povolenie
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+eF000011119.pdf
+Type and size:
+.pdf, 98.78 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/5aeb2008-0fc3-4edd-8fd2-e61b64143c28
+                                          MESTO POPRAD
+                                      Oddelenie stavebného poriadku
+                          Nábrežie Jána Pavla II. 2802/3, 05842 Poprad
+____________________________________________________________________________________
+Číslo konania: 89962/6172/2026                                                 Poprad
+Vybavuje: Jana Karafová                                                        Dňa: 25. 11. 2026
+Číslo telefónu: 052/7167269
+
+
+
+
+                                         STAVEBNÉ POVOLENIE
+
+                                            VEREJNÁ VYHLÁŠKA
+
+Stavebník Východoslovenská distribučná, a.s., Mlynská 31, 042 01 Košice, IČO: 36 599 391, zastúpená
+spoločnosťou JANJU, spol. s r.o., Hviezdoslavova 270, 059 21 Svit, IČO: 36 490 512, podal dňa 22.05.2026 na Mesto
+Poprad žiadosť na vydanie stavebného povolenia na stavbu „SO 502 VN prípojka a trafostanica“ na pozemkoch
+parc.č. 1344/46, 1344/47, 1344/1, 1350/17, 1344/58, 1344/77 v k.ú. Spišská Sobota, ktorá sa vybuduje v rámci
+hlavnej stavby „BD Bulharská“. Dňom podania návrhu bolo začaté stavebné konanie.
+
+Na stavbu vydalo Mesto Poprad územné rozhodnutie pod č. 88202/4605/2025 dňa 11.07.2025.
+
+Mesto Poprad, ako príslušný stavebný úrad podľa § 117 ods. 1 zákona č. 50/1976 Zb. o územnom plánovaní a
+stavebnom poriadku (ďalej „pôvodný stavebný zákon“) v znení neskorších predpisov v spojení § 84 ods. 5 a ods.
+8 zákona č. 25/2025 Z.z. Stavebný zákon a o zmene a doplnení niektorých zákonov (ďalej „nový stavebný zákon“)
+prerokovalo žiadosť stavebníka v stavebnom konaní s dotknutými orgánmi a so známymi účastníkmi konania
+postupom podľa § 61 ods. 2 pôvodného stavebného zákona a po preskúmaní podľa § 62 pôvodného stavebného
+zákona rozhodlo takto:
+
+inžinierska stavba „SO 502 VN prípojka a trafostanica“ na pozemkoch parc.č. 1344/46, 1344/47, 1344/1, 1350/17,
+1344/58, 1344/77 v k.ú. Spišská Sobota, ktorá sa vybuduje v rámci hlavnej stavby „BD Bulharská“ sa podľa § 66 a
+§ 10 vyhlášky č. 453/2000 Z.z., ktorou sa vykonávajú niektoré ustanovenia stavebného zákona
+
+povoľuje
+
+
+Popis stavby
+Predmetom tohto konania je inžinierska líniová stavba „SO 502 VN prípojka a trafostanica“ v Spišskej Sobote, ktorá
+sa navrhuje v rámci hlavnej stavby „BD Bulharská“.
+VN prípojka sa urobí z jestvujúcej trafostanice TS0485-0137 Štefánikova Poprad – linky č. 266 podzemným
+káblovým vedením. VN prípojka sa ukončí v novej kioskovej trafostanici o výkone 630 kVA. Dĺžka kábla bude
+186 m. Trasa bude prechádzať pozemkami v k.ú. Spišská Sobota. VN prípojka bude vedená podzemným káblom
+vedeným v zelenom páse, v chodníku a pod miestnou komunikáciou.
+Nová VN sieť zabezpečí prívod elektrickej energie pre plánovanú výstavbu BD Bulharská v Spišskej Sobote. Ku
+káblu sa v spoločnej ryhe uloží rúrka HDPE 40/33, ktorá bude pre optické vedenie.
+Trafostanica – kiosková s výkonom 630 kVA
+
+Druh stavby:
+Podľa § 43a ods. 3 písm. k) pôvodného stavebného zákona sa jedná o inžiniersku stavbu energetického zariadenia.
+
+Zodpovedný projektant: Ing. Jozef Cerva, autorizovaný stavebný inžinier, č. oprávnenia 3257*A*2-3 inžinierske
+stavby, AVREC, Levočská 866, 058 01 Poprad.
+
+Pre uskutočnenie stavby stavebný úrad určuje tieto podmienky:
+
+1. Stavba bude uskutočnená podľa dokumentácie overenej v stavebnom konaní, ktorá je súčasťou tohto rozhodnutia,
+prípadné zmeny nesmú byť vykonané bez predchádzajúceho povolenia stavebného úradu.
+2. Stavba a jej súčasti budú umiestnené na pozemkoch v súlade s územným rozhodnutím vydaným Mestom Poprad
+pod č. 88202/4605/2025 dňa 11.07.2025.
+                                                                                                             1/5
+3. Pri uskutočňovaní stavby je nutné dodržiavať predpisy týkajúce sa bezpečnosti práce a technických zariadení,
+dbať o ochranu zdravia osôb na stavenisku a dodržiavať všeobecné technické požiadavky na uskutočňovanie stavieb
+a technické normy.
+4. Stavba bude dokončená do 12/2029.
+5. Stavbu bude stavebník uskutočňovať realizovať zhotoviteľom, ktorý bude známy po ukončení výberového
+konania. Názov zhotoviteľa stavebník písomne oznámi stavebnému úradu do 15 dní odo dňa ukončenia výberového
+konania.
+6. Podľa § 44 pôvodného stavebného zákona stavbu môže uskutočňovať len právnická osoba alebo fyzická osoba
+oprávnené na vykonávanie stavebných prác a vedenie uskutočňovania stavby vykonáva stavbyvedúci.
+7. Stavebník je povinný na viditeľnom mieste označiť stavbu štítkom, na ktorom bude uvedené meno stavebníka,
+zhotoviteľ stavby, názov orgánu, ktorý stavbu povolil, číslo a dátum povolenia.
+8. Pred začatím prác je stavebník povinný zabezpečiť vytýčenie stavby fyzickou alebo právnickou osobou
+oprávnenou vykonávať geodetické a kartografické činnosti.
+9. Pred začatím prác je stavebník povinný zabezpečiť vytýčenie všetkých existujúcich podzemných inžinierskych
+sietí za prítomnosti ich vlastníkov a správcov fyzickou alebo právnickou osobou oprávnenou vykonávať geodetické
+a kartografické činnosti.
+10. Na stavbu možno v súlade s ustanovením § 43 pôvodného stavebného zákona použiť iba také stavebné výrobky,
+ktoré sú podľa osobitných predpisov (zákon č. 133/2013 Z. z. o stavebných výrobkoch a o zmene a doplnení
+niektorých zákonov) vhodné na použitie v stavbe (vhodný stavebný výrobok).
+11. Stavebník je povinný v zmysle § 66 ods. 3 písm. h) pôvodného stavebného zákona oznámiť písomne stavebnému
+úradu začatie stavby.
+12. Pri stavebných prácach dodržiavať ustanovenia Nariadenia vlády SR č. 396/2006 Zb. o minimálnych
+bezpečnostných a zdravotníckych požiadavkách na stavenisko.
+13. Počas stavebných prác nesmie byť stavebný materiál skladovaný na verejnom priestranstve.
+14. Oprávnená osoba, ktorá bude uskutočňovať stavbu je povinná dbať na to, aby pri realizácii prác nebola spôsobená
+na cudzích nehnuteľnostiach a na majetku škoda, v prípade spôsobenia škody bude táto odstránená na náklady
+oprávnenej osoby v zmysle ustanovenia § 127 ods. 3 zákona č. 47/1992 Zb. Občiansky zákonník.
+15. Pri realizácii stavby nesmú byť znečisťované verejné priestranstvá a komunikácia. V prípade ich znečistenia je
+ten, kto znečistenie spôsobil, priestranstvo a komunikáciu vyčistiť na vlastné náklady.
+16. Dodržať podmienky z vyjadrenia Okresného úradu Poprad, OSŽP, orgánu štátnej správy odpadového
+hospodárstva č. OU-PP-OSZP-2025/014547-002 zo dňa 17.02.2025 – pôvodca odpadov vznikajúcich pri stavebných
+prácach zodpovedá za nakladanie s odpadmi podľa zákona o odpadoch; so stavebnými odpadmi nakladať v súlade
+s ustanoveniami § 77 zákona o odpadoch a ustanoveniami § 1 vyhlášky MŽP SR č. 344/2022 Z.z. o stavebných
+odpadoch; odpady materiálovo zhodnotiť; odpady odovzdať osobe oprávnenej na nakladanie s odpadmi.
+17. Dodržať podmienky z vyjadrenia PVPS a.s. Poprad č. 20215/2026, 20910/2026 zo dňa 03.08.2026 – v mieste
+stavby dôjde do styku káblov s verejným vodovodom a verejnou splaškovou kanalizáciou v súbehu a aj križovaním;
+požadujeme dodržať vodovodné a kanalizačné zariadenia a ich ochranné pásma (ďalej OP); v miestach tesného
+styku s verejným vodovodom, alebo kanalizáciou požadujeme dodržať umiestnenie káblových vedení podľa STN
+736005 alebo STN 1997-1; pred začatím výkopových prác požadujeme vytýčenie sietí v správe PVPS a.s.; tri dni
+pred začatím výkopových prác požadujeme nahlásiť začiatok výkopových prác správcovi vodovodu a správcovi
+kanalizácie; požadujeme, aby chráničky a HDPE materiál používaný na stavbe nebol čiernej farby s modrými
+pásikmi;
+18. Dodržať podmienky z vyjadrenia Krajského pamiatkového úradu Prešov č. Z-PUSR-036707/2026 zo dňa
+13.05.2026 - ak v priebehu úpravy stavbou dotknutých nehnuteľností v ochrannom pásme dôjde k odkrytiu
+nepredpokladaného nálezu, ten, kto práce vykonáva, je povinný ohlásiť nález KPÚ Prešov a až do vydania
+rozhodnutia KPÚ Prešov zastaviť tieto práce, ktoré ohrozujú nález alebo nálezovú situáciu.
+19. Dodržať podmienky z vyjadrenia Dopravného úradu Bratislava č. 16434/2025/ROP-002/35707 zo dňa
+21.05.2025 – zakazuje sa realizovať nové vedenie, prípojky a prekládky elektrického vedenia VN a VVN formou
+vzdušného vedenia bez predchádzajúceho súhlasu Dopravného úradu.
+20. Dodržať podmienky z vyjadrenia VSD a.s. Košice č. 19/2026 zo dňa 22.01.2026 – pred pripojením nového
+odberného miesta, alebo úprave maximálnej rezervovanej kapacity pripojenia (ďalej MRK) je žiadateľ povinný
+uzatvoriť Zmluvu o pripojení.
+21. Dodržať podmienky z odborného stanoviska S2026/01652/EIC IO/STA zo dňa 22.06.2026 – dodávateľ je
+povinný vyrábať, montovať vyhradené technické zariadenie iba podľa dokumentácie, ku ktorej bolo vydané odborné
+stanovisko podľa § 14 ods. 1 písm. d) zákona č. 124/2006 Z.z.; dodávateľ/prevádzkovateľ je povinný pred
+uvedením do prevádzky vyhradeného technického zariadenia zabezpečiť vykonanie úradnej skúšky; počas výstavby
+                                                                                                             2/5
+dodržiavať vyhlášku č. 147/20213 Z.z. a nariadenie vlády č. 396/2006 Z.z.; pri každe j zmene dokumentácie,
+ktorá môže ovplyvniť bezpečnosť pri práci s technickými zariadeniami je stavebník povinný predložiť zmenenú
+dokumentáciu na opätovné posúdenie.
+21. Dodržať podmienky z vyjadrenia SPP – D, a.s. Bratislava č. TD/NS/0699/2026/An zo dňa 19.11.2026 – stavebník
+je povinný: pred realizáciou zemných prác požiadať SPP-D o vytýčenie existujúcich plynárenských zariadení /
+ďalej PZ); oznámiť začatie prác v ochrannom pásme (ďalej OP) PZ najneskôr 3 pracovné dni pred ich plánovaným
+zahájením; zabezpečiť prístupnosť PZ počas realizácie činnosti z dôvodu potreby prevádzkovania PZ, najmä výkonu
+kontroly, údržby a výkonu odborných prehliadok, skúšok a opráv PZ; umožniť zástupcovi SPP-D vstup na stavenisko
+a výkon kontroly realizácie činností v OP PZ; zemné práce vo vzdialenosti menšej ako 1,00 m na každú stranu
+obrysu NPL plynovodu a STL plynovodu a vo vzdialenosti menšej ako 1,50 m od obrysu VTL plynovodu, až po
+predchádzajúcom vytýčení, realizovať výhradne ručne; pri realizácii v menších vzdialenostiach od obrysu ako je
+uvedené, iným spôsobom ako ručne je stavebník povinný v mieste križovania s PZ obnažiť PZ ručne kopanou
+kontrolnou sondou pre overenie priestorového uloženia PZ; v prípade zemných prác vo vzdialenosti menšej ako 1,00
+m na každú stranu obrysu NPL plynovodu a STL plynovodu a vo vzdialenosti menšej ako 1,50 m od obrysu VTL
+plynovodu práce nie je možné realizovať ručne alebo bezvýkopovou metódou s ručne kopanými sondami, stavebník
+je povinný predložiť realizačnú projektovú dokumentáciu a vopred požiadať o stanovenie podmienok;
+vykonávať zemné práce bezvýkopovou metódou bez ručne kopaných sond vo vzdialenosti menšej ako 1,50 m od
+obrysu VTL plynovodu je zakázané; ak pri zemných prácach dôjde k odkrytiu PZ, stavebník je povinný kontaktovať
+pred zasypaním výkopu pracovníka SPP-D na vykonanie kontroly; prístup k technologickým zariadeniam SPP-D
+nie je povolený a manipulácia s nimi je zakázaná; stavebník je povinný zabezpečiť odkryté plynovody a káble proti
+poškodeniu; stavebník nesmie bez súhlasu SPP-D nad trasou plynovodu realizovať terénne úpravy, ktoré by zmenili
+krytie a hĺbku uloženia; každé poškodenie zariadenia ihneď ohlásiť SPP-D; pri realizácii dodržať ustanovenia zákona
+o energetike, stavebného zákona, technické pravidlá pre plyn najmä TPP 700 02; rešpektovať a zohľadniť existenciu
+PZ a ich ochranných a bezpečnostných pásiem; pri súbehu a križovaní dodržať minimálne odstupové vzdialenosti
+v zmysle STN 73 6005 a TPP 906 01; stavebník nesmie bez súhlasu prevádzkovateľa siete v OP PZ vykonávať
+činnosti ani umiestňovať stavby, kontrolné šachty, trvalé trávnaté porasty a pod; nesmie bez súhlasu prevádzkovateľa
+v bezpečnostnom pásme PZ umiestňovať stavby.
+22. Dodržať podmienky z vyjadrenia Okresného úradu Poprad, odbor starostlivosti o ŽP, ŠOP č. OU-PP-
+OSZP-2025/014585-002 zo dňa 20.02.2025 – pri realizácii stavby používať mechanizmy a technológie v dobrom
+stave a dbať aby nedošlo k znečisteniu dotknutej lokality a širšieho okolia; zabezpečiť ochranu vzrastlých drevín, aby
+nedošlo k ich poškodeniu; prípadný výrub drevín je potrebné riešiť samostatným povolením; pri stavebnej činnosti
+chrániť okolité prírodné prostredie pred znečistením od stavebného odpadu; zabezpečiť šíreniu inváznych druhov
+rastlín pri terénnych úpravách a manipulácii sa zeminou; ku kolaudácii stavby odstrániť všetky zariadenia staveniska
+a zrealizovať terénne úpravy.
+23. Po ukončení stavby požiadať stavebný úrad v súlade s ustanovením § 79 pôvodného stavebného zákona o
+kolaudáciu stavby.
+24. Ku kolaudácii predložiť doklad o evidencii, o druhoch a množstvách stavebných odpadov a o spôsobe ich
+zhodnotenia a zneškodnenia.
+
+V konaní neboli uplatnené námietky účastníkov konania.
+
+Stavba nesmie byť začatá, pokiaľ stavebné povolenie nenadobudne právoplatnosť v zmysle § 52 ods. 1 zákona č.
+71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov.
+
+Podľa § 67 ods. 2 pôvodného stavebného zákona stavebné povolenie stráca platnosť, ak do dvoch rokov odo dňa,
+kedy nadobudlo právoplatnosť, nebola stavba začatá.
+
+
+
+
+                                                   Odôvodnenie
+
+Stavebník Východoslovenská distribučná, a.s., Mlynská 31, 042 01 Košice, IČO: 36 599 391, zastúpená
+spoločnosťou JANJU, spol. s r.o., Hviezdoslavova 270, 059 21 Svit, IČO: 36 490 512, podal dňa 22.05.2026 na Mesto
+Poprad žiadosť na vydanie stavebného povolenia na stavbu „SO 502 VN prípojka a trafostanica“ na pozemkoch
+parc.č. 1344/46, 1344/47, 1344/1, 1350/17, 1344/58, 1344/77 v k.ú. Spišská Sobota, ktorá sa vybuduje v rámci
+hlavnej stavby „BD Bulharská“. Dňom podania návrhu bolo začaté stavebné konanie.
+                                                                                                                3/5
+Na stavbu vydalo Mesto Poprad územné rozhodnutie pod č. 88202/4605/2025 dňa 11.07.2025.
+
+Nakoľko pri podaní žiadosti nebol zaplatený správny poplatok a podaná žiadosť nebola úplná, stavebný úrad listom č.
+66118/6172/2026 zo dňa 03.06.2026 vyzval stavebníka na zaplatenie správneho poplatku a na doplnenie chýbajúcich
+dokladov. Na zaplatenie stavebný úrad určil lehotu 15 dní a na doplnenie dokladov 40 dní odo dňa doručenia uvedenej
+výzvy. Stavebné konanie bolo zároveň rozhodnutím prerušené.
+
+Po zaplatení správneho poplatku a po doplnení dokladov stavebný úrad listom č. 80440/6172/2026 zo dňa 18.09.2026
+v súlade s ustanovením § 61 ods. 1 pôvodného stavebného zákona oznámil začatie stavebného konania účastníkom
+konania a dotknutým orgánom. Vzhľadom na to, že podaná žiadosť s podkladmi a dokumentáciou poskytuje
+dostatočný podklad pre posúdenie navrhovanej stavby, podľa § 61 ods. 2 pôvodného stavebného zákona stavebný
+úrad upustil od ústneho pojednávania a miestneho zisťovania.
+
+V súlade s § 33 ods. 2 zákona č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov
+bolo možné vyjadriť sa k podkladom pre rozhodnutie a k spôsobu ich zistenia, prípadne navrhnúť ich doplnenie. Do
+podkladov pre rozhodnutie bolo možné nahliadnuť na stavebnom úrade mesta Poprad.
+Podľa § 61 ods. 3 pôvodného stavebného zákona účastníci konania mohli svoje námietky uplatniť najneskôr do 7
+pracovných dní odo dňa doručenia tohto oznámenia, inak sa na ne neprihliadne.
+
+Podľa § 61 ods. 6 pôvodného stavebného zákona v rovnakej lehote mohli oznámiť svoje stanoviská dotknuté orgány.
+Ak niektorý z orgánov štátnej správy potreboval na riadne posúdenie dlhší čas, predĺžil by stavebný úrad na jeho
+žiadosť lehotu pred jej uplynutím. Ak dotknutý orgán v určenej alebo predĺženej lehote neoznámil svoje stanovisko
+k povoľovanej stavbe, má sa za to, že so stavbou z hľadiska ním sledovaných záujmov súhlasí.
+
+Oznámenie o začatí stavebného konania bolo účastníkom stavebného konania doručené verejnou vyhláškou
+vzhľadom na veľký počet účastníkov konania, dotknutým orgánom jednotlivo.
+
+V zákonom stanovenej lehote neboli uplatnené k povoľovanej stavbe žiadne pripomienky ani námietky.
+
+K žiadosti stavebník predložil projektovú dokumentáciu vypracovanú odborne spôsobilou osobou, vyjadrenia
+dotknutých orgánov.
+
+K stavbe sa vyjadrili dotknuté orgány: Mesto Poprad, odd. územného plánu a dopravy, Ministerstvo vnútra SR
+Bratislava, Ministerstvo obrany SR Bratislava, Dopravný úrad Bratislava, Okresný úrad Poprad, odbor starostlivosti
+o ŽP – OH, ŠOP, Krajský pamiatkový úrad Prešov, Slovak Telekom a.s. Bratislava, SPP – D a.s. Bratislava, VSD
+a.s. Košice, PVPS a.s. Poprad, Okresné riaditeľstvo HaZZ v Poprade, E.I.C. Engineering inspection company s.r.o.
+Prešov. Ich stanoviská neboli záporné ani protichodné a podmienky boli zapracované do podmienok tohto povolenia.
+
+Stavebník predložil k pozemkom, na ktorých sa umiestňuje navrhovaná stavba podľa § 8 ods. 2 písm. a) vyhlášky
+Ministerstva životného prostredia SR č. 453/2000 Z.z., ktorou sa vykonávajú niektoré ustanovenia stavebného
+zákona Zmluvu o uzavretí budúcej zmluvy.
+
+Predložená žiadosť bola preskúmaná z hľadísk uvedených v § 62, § 63 pôvodného stavebného zákona a bolo
+zistené, že uskutočnením stavby nie sú ohrozené záujmy spoločnosti ani neprimerane obmedzené či ohrozené záujmy
+účastníkov konania. Dokumentácia spĺňa všeobecné technické požiadavky na výstavbu. Navrhovaná stavba je v
+súlade s územným plánom mesta Poprad.
+
+Stavebný úrad v priebehu konania nezistil dôvody, pre ktoré by stavbu nepovolil a preto bolo rozhodnuté tak, ako
+je uvedené vo výroku tohto rozhodnutia.
+
+Správny poplatok v zmysle zákona č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších predpisov bol
+uhradený podľa položky 60 písm. g) sadzobníka správnych poplatkov vo výške 800 € prevodom na účet Mesta
+Poprad dňa 113.07.2026.
+
+
+
+                                                                                                             4/5
+                                                   Poučenie
+
+Podľa § 53 a § 54 správneho poriadku v znení neskorších predpisov proti tomuto rozhodnutiu možno podať
+odvolanie v lehote 15 dní odo dňa doručenia rozhodnutia podaním na Mesto Poprad, Nábrežie Jána Pavla II. 2802/3,
+058 01 Poprad. Včas podané odvolanie má odkladný účinok. Po vyčerpaní riadnych opravných prostriedkov toto
+rozhodnutie možno preskúmať súdom.
+
+
+Stavebný úrad doručuje stavebné povolenie účastníkom konania podľa § 59 ods. 1 písm. a), b), d), e) pôvodného
+stavebného zákona verejnou vyhláškou podľa § 61 ods. 4 pôvodného stavebného zákona tak, že písomnosť vyvesí
+po dobu 15 dní na úradnej tabuli správneho orgánu – Mesta Poprad. Posledný deň tejto lehoty je dňom doručenia.
+Písomnosť sa súčasne zverejní na elektronickej úradnej tabuli Mesta Poprad.
+
+Vyvesené dňa: .......................
+Zvesené dňa: .........................
+
+odtlačok pečiatky
+a podpis oprávnenej osoby
+
+
+Príloha pre stavebníka: 1 x overená projektová dokumentácia
+
+                                                                         Ing. Alexandra Šifrová
+                                                                    vedúca odboru rozvoja mesta na
+                                                                   základe poverenia primátora mesta
+
+Doručuje sa:
+
+
+Účastníci konania podľa § 59 ods. 1 písm. a), b), d), e) pôvodného stavebného zákona verejnou vyhláškou
+
+Na vedomie:
+Mesto Poprad, odd. územného plánu, Nábrežie Jána Pavla II. č. 2802/3, 058 42 Poprad
+Mesto Poprad, odd. dopravy, Nábrežie Jána Pavla II. č. 2802/3, 058 42 Poprad
+Okresný úrad Poprad, odbor starostlivosti o ŽP, orgán ochrany prírody a krajiny, Nábrežie Jána Pavla II. 16, 058
+44 Poprad
+Okresný úrad Poprad, odbor starostlivosti o ŽP, odpadové hospodárstvo, Nábrežie Jána Pavla II. 16, 058 44 Poprad
+Krajský pamiatkový úrad , Hlavná 115, 080 01 Prešov
+Dopravný úrad, Letisko M. R. Štefánika, 823 05 Bratislava
+Okresné riaditeľstvo HaZZ, Huszova 4430/4, 058 01 Poprad
+Slovenský plynárenský priemysel – distribúcia, a.s., Plátennícka 19013/2, 821 09 Bratislava – Ružinov
+Východoslovenská distribučná, a.s., Mlynská 31, 042 91 Košice
+Slovak Telekom, a.s., Bajkalská 28, 817 62 Bratislava
+Podtatranská vodárenská prevádzková spoločnosť, a.s., Hraničná 17, 058 01 Poprad
+Ministerstvo obrany SR, Sekcia majetku a infraštruktúry, odbor správy nehnuteľného majetku, Námestie generála
+Viesta 2, 832 47 Bratislava
+Ministerstvo vnútra, SR, Centrum podpory Prešov, odd. telekomunikačných služieb, Štúrova 7, 080 01 Prešov
+Východoslovenská distribučná, a.s. Mlynská 31, 042 01 Košice, zastúpená spoločnosťou JANJU s.r.o.,
+Hviezdoslavova 270, 059 21 Svit
+
+
+___
+
+
+                                                                                                           5/5
+____________________________________________________________________________________
+       Telefón                  E-mail               Internet         IČO
+      052/7167111       mestskyurad@msupoprad.sk   www.poprad.sk     00326470
+
+                                                                                6/5
+

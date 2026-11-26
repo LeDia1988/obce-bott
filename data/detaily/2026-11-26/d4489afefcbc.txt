@@ -1,0 +1,731 @@
+URL: https://cuet.slovensko.sk/en/dokument/5e7fe1f3-2ec0-4318-8984-0093de531a92
+OBEC: Oreské (Michalovce)
+NÁZOV: Návrh VZN č. 2/2026 o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Oreské
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/5e7fe1f3-2ec0-4318-8984-0093de531a92
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN č. 2/2026 o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Oreské
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - obec Oreské
+Published from:
+26.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - obec Oreské
+Published to:
+11.12.2026
+Registry case:
+Name of official document:
+Návrh VZN č. 2/2026 o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Oreské
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+navrh-oreske-vzn_2_2026-o_nakladani_s_ko-eaopxi.pdf
+Type and size:
+.pdf, 436.52 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/02c062ed-7371-48ac-8625-7c0c1d555eb9
+                                            NÁVRH
+
+
+
+                               OBEC ORESKÉ
+
+
+
+
+                      Všeobecne záväzné nariadenie
+
+                                        č. 2/2026
+
+       o nakladaní s komunálnymi odpadmi a s drobnými
+          stavebnými odpadmi na území obce Oreské
+
+Návrh VZN
+Vyvesený na úradnej tabuli obce, zverejnený na webovom sídle obce a na CUET dňa:   26.11.2026
+Lehota na predloženie pripomienok k návrhu VZN do (včítane):                       06.12.2026
+Doručené pripomienky (počet):                                                      ..................
+Vyhodnotenie pripomienok k návrhu VZN uskutočnené dňa:                             ..................
+Vyhodnotenie pripomienok k návrhu VZN doručené poslancom dňa:                      ..................
+
+VZN schválené
+Obecným zastupiteľstvom v Oreskom dňa:                                             ..................
+
+VZN vyhlásené
+Vyvesením na úradnej tabuli obce dňa:                                              ..................
+VZN zverejnené na webovom sídle obce a na CUET dňa:                                ..................
+VZN zvesené z úradnej tabule obce dňa:                                             ..................
+
+VZN účinné dňom:                                                                   01.01.2027
+Obsah
+1. ČASŤ – ÚVODNÉ USTANOVENIA .................................................................................... 3
+   Predmet úpravy ...................................................................................................................... 3
+   Vymedzenie základných pojmov ............................................................................................ 3
+2. ČASŤ – SYSTÉM NAKLADANIA S KOMUNÁLNYMI ODPADMI A DROBNÝMI STAVEBNÝMI
+ODPADMI ......................................................................................................................... 4
+   Všeobecné ustanovenia nakladania s komunálnymi odpadmi a drobnými stavebnými
+   odpadmi ................................................................................................................................. 4
+   Zberné nádoby na odpad a ich umiestnenie .......................................................................... 4
+   Spôsob zberu a prepravy komunálnych odpadov .................................................................. 6
+   Nakladanie so zmesovým komunálnym odpadom ................................................................ 6
+   Nakladanie s drobným stavebným odpadom ........................................................................ 7
+   Nakladanie s objemným odpadom ........................................................................................ 7
+   Nakladanie s biologicky rozložiteľným komunálnym odpadom ............................................ 8
+   Nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od
+   prevádzkovateľa kuchyne....................................................................................................... 9
+   Nakladanie s odpadmi z obalov a z neobalových výrobkov zbieraných spolu s obalmi
+   (papier, plasty, kovy, sklo a kompozitné obaly) ..................................................................... 9
+   Nakladanie s odpadmi z domácností s obsahom nebezpečných látok ................................ 10
+   Nakladanie s elektroodpadmi z domácností ........................................................................ 11
+   Nakladanie s použitými prenosnými batériami a akumulátormi a automobilovými
+   batériami a akumulátormi.................................................................................................... 11
+   Nakladanie s textíliami a šatstvom....................................................................................... 12
+   Nakladanie s odpadovými pneumatikami ............................................................................ 12
+   Nakladanie s veterinárnymi liekmi a humánnymi liekmi nespotrebovanými fyzickými
+   osobami a so zdravotníckymi pomôckami ........................................................................... 12
+   Spôsob nahlasovania nezákonne umiestneného odpadu ................................................... 13
+3. ČASŤ – ZÁVEREČNÉ USTANOVENIA .............................................................................. 13
+   Zodpovednosť za porušenie povinností ............................................................................... 13
+   Záverečné ustanovenia ........................................................................................................ 13
+
+
+
+
+                                                                     2
+      Obecné zastupiteľstvo v Oreskom podľa § 6 ods. 2 zákona č. 369/1990 Zb. o obecnom zriadení
+      v znení neskorších predpisov a podľa zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení
+             niektorých zákonov v znení neskorších predpisov (ďalej len „zákon o odpadoch“)
+
+                                                 vydáva
+
+                              VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+
+                                              č. 2/2026
+
+  o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na
+                            území obce Oreské
+
+
+                              1. ČASŤ – ÚVODNÉ USTANOVENIA
+
+                                                §1
+                                           Predmet úpravy
+
+(1) Toto všeobecne záväzné nariadenie (ďalej len „nariadenie“) upravuje podrobnosti nakladania
+s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území obce Oreské (ďalej len „obec“),
+najmä spôsob ich zberu a prepravy, ako aj práva a povinnosti orgánov obce, právnických osôb
+a fyzických osôb pri predchádzaní vzniku odpadov a pri nakladaní s nimi.
+
+(2) Toto nariadenie sa vydáva s cieľom stanoviť pre obec vhodný systém nakladania s komunálnymi
+odpadmi, a to v záujme zabezpečenia predchádzania vzniku odpadov, ich zberu, prepravy,
+zhodnocovania a zneškodňovania, v súlade so zákonom o odpadoch.
+
+                                               §2
+                                  Vymedzenie základných pojmov
+
+(1)     Komunálny odpad (KO) je
+      a) zmesový odpad a oddelene vyzbieraný odpad z domácností vrátane papiera a lepenky, skla,
+         kovov, plastov, biologického odpadu, dreva, textílií, obalov, odpadu z elektrických zariadení a
+         elektronických zariadení, použitých batérií a akumulátorov a objemného odpadu vrátane
+         matracov a nábytku,
+      b) zmesový odpad a oddelene vyzbieraný odpad z iných zdrojov, ak je tento odpad svojím
+         charakterom a zložením podobný odpadu z domácností.
+
+(2) Zložka komunálnych odpadov je ich časť, ktorú možno mechanicky oddeliť a zaradiť ako
+samostatný druh odpadu. Zložka komunálneho odpadu sa považuje za vytriedenú, ak neobsahuje iné
+zložky komunálneho odpadu alebo iné nečistoty, ktoré možno zaradiť ako samostatné druhy odpadov.
+
+(3) Triedený zber komunálnych odpadov je činnosť, pri ktorej sa oddelene zbierajú zložky
+komunálnych odpadov.
+
+(4) Zmesový komunálny odpad je nevytriedený komunálny odpad alebo komunálny odpad po
+vytriedení zložiek komunálneho odpadu.
+
+
+
+
+                                                    3
+  2. ČASŤ – SYSTÉM NAKLADANIA S KOMUNÁLNYMI ODPADMI A DROBNÝMI
+                        STAVEBNÝMI ODPADMI
+
+                                            §3
+      Všeobecné ustanovenia nakladania s komunálnymi odpadmi a drobnými stavebnými
+                                         odpadmi
+
+(1)      Za nakladanie s KO zodpovedá
+      a) obec, ak ide o
+              1. zmesový odpad a oddelene vyzbieraný odpad z domácností,
+              2. zmesový odpad z iných zdrojov,
+              3. drobný stavebný odpad,
+      b) ako pôvodca odpadu fyzická osoba – podnikateľ a právnická osoba, ak ide o
+              1. oddelene vyzbieraný odpad z iných zdrojov, na ktoré sa nevzťahuje rozšírená
+                   zodpovednosť výrobcov,
+              2. elektroodpad a použité batérie a akumulátory,
+              3. oddelene vyzbieraný odpad z obalov z iných zdrojov a oddelene vyzbieraný odpad z
+                   neobalových výrobkov z iných zdrojov,
+              4. oddelene vyzbieraný odpad z jednorazových obalov na nápoje, ktoré distribútor
+                   obalov odmietol z dôvodu, že nespĺňajú požiadavky na odber podľa osobitného
+                   predpisu.
+
+(2) Za nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od
+prevádzkovateľa kuchyne zodpovedá prevádzkovateľ kuchyne.
+
+(3) Náklady na činnosti nakladania so zmesovým komunálnym odpadom, drobným stavebným
+odpadom, ak v obci nebol zavedený množstvový zber drobného stavebného odpadu a biologicky
+rozložiteľným komunálnym odpadom, náklady triedeného zberu zložiek komunálneho odpadu, na
+ktoré sa nevzťahuje rozšírená zodpovednosť výrobcov, a náklady spôsobené nedôsledným triedením
+oddelene zbieraných zložiek komunálneho odpadu, na ktoré sa vzťahuje rozšírená zodpovednosť
+výrobcov, a náklady presahujúce výšku obvyklých nákladov podľa § 59 ods. 8 zákona o odpadoch, hradí
+obec z miestneho poplatku za komunálne odpady a drobné stavebné odpady podľa osobitného
+predpisu.
+
+(4) Náklady triedeného zberu oddelene zbieranej zložky komunálneho odpadu patriacej do
+vyhradeného prúdu odpadu, vrátane zberu a vytriedenia týchto zložiek na zbernom dvore, znášajú
+výrobcovia vyhradených výrobkov, tretie osoby alebo organizácie zodpovednosti výrobcov, ktorí
+zodpovedajú za nakladanie s vyhradeným prúdom odpadu v tejto obci.
+
+(5) Obec pri ustanovení výšky miestneho poplatku za komunálny odpad a drobný stavebný odpad
+vychádza zo skutočných nákladov obce na nakladanie s komunálnym odpadom a drobným staveným
+odpadom vrátane nákladov uvedených v odseku 3. Do miestneho poplatku obec nemôže zahrnúť
+náklady uvedené v odseku 4. Výnos miestneho poplatku za komunálne odpady a drobné stavebné
+odpady použije obec výlučne na zber, prepravu, zhodnocovanie a zneškodňovanie komunálnych
+odpadov a drobných stavebných odpadov.
+
+                                             §4
+                           Zberné nádoby na odpad a ich umiestnenie
+
+(1) Náklady na zbernú nádobu na zmesový komunálny odpad znáša pôvodný pôvodca odpadu. Tieto
+náklady nie sú zahrnuté v miestnom poplatku za komunálne odpady a drobné stavebné odpady.
+
+
+
+
+                                                 4
+(2) Zberné nádoby na zmesový KO sú pôvodcovia odpadov povinní zabezpečiť si vlastnou cestou.
+V prípade dostatočných kapacít môže tieto nádoby pôvodcom odpadu zabezpečiť aj obec. Pôvodca
+odpadu zaplatí obci za poskytnutú nádobu pri jej prevzatí sumu, za ktorú obec túto nádobu obstarala.
+
+(3) Náklady na zabezpečenie zberných nádob na triedený zber zložiek komunálnych odpadov, pri
+ktorých sa uplatňuje rozšírená zodpovednosť výrobcov, znáša výrobca vyhradeného výrobku, príslušná
+organizácia zodpovednosti výrobcov alebo tretia osoba.
+
+(4) Náklady na zabezpečenie zberných nádob a kompostovacích zásobníkov na triedený zber zložiek
+komunálnych odpadov, pri ktorých sa neuplatňuje rozšírená zodpovednosť výrobcov, znáša obec a
+môže ich zahrnúť do miestneho poplatku za komunálne odpady a drobné stavebné odpady.
+
+(5)     Zakazuje sa:
+      a) ukladať do zberných nádob určených obcou na zber zmesového komunálneho odpadu iný
+         odpad ako zmesový komunálny odpad a do zberných nádob určených na triedený zber
+         komunálneho odpadu zložku komunálneho odpadu, pre ktorú nie je nádoba určená,
+      b) ukladať oddelene vyzbierané zložky komunálneho odpadu, na ktoré sa uplatňuje rozšírená
+         zodpovednosť výrobcov, a vytriedený biologicky rozložiteľný komunálny odpad na skládku
+         odpadov, okrem nezhodnotiteľných odpadov po dotriedení,
+      c) vyberať komunálny odpad alebo vytriedené zložky komunálneho odpadu zo zberných nádob
+         osobami neoprávnenými na nakladanie s nimi.
+
+(6)     Obec určuje pre zhromažďovanie komunálneho odpadu jednotný typ zberných nádob:
+      a) 120 a 240 litrové KUKA nádoby, 1100 litrové maloobjemové kontajnery (MOK) na zmesový
+         odpad,
+      b) veľkoobjemové kontajnery (VOK) na objemný odpad,
+      c) plastové vrecia a MOK na triedený zber komunálnych odpadov pre papier, plasty, kovy, sklo
+         a kompozitné obaly
+      d) kompostovacie zásobníky na biologicky rozložiteľný komunálny odpad.
+
+(7) Pôvodca odpadu je povinný zriadiť vyhradené miesto pre zberné nádoby na zmesový odpad. Pri
+jeho určovaní musí dbať, aby:
+     a) bol k vyhradenému miestu zabezpečený prístup a dostatočný priestor na manipuláciu so
+        zbernými nádobami,
+     b) nebol narušený vzhľad okolia a hygiena prostredia,
+     c) nádoby boli umiestnené na spevnenom podklade,
+     d) nádoby neboli trvalo umiestnené na chodníku, komunikácii alebo parkovisku,
+     e) boli nádoby umiestnené vo vzdialenosti max. 2 m od komunikácie.
+
+(8)    V sporných prípadoch rozhoduje o umiestnení zbernej nádoby obec.
+
+(9) Pôvodca odpadu je povinný starať sa o vyhradené miesto pre zberné nádoby, udržiavať na ňom
+poriadok a čistotu. V zimných mesiacoch je povinný odhrňovať sneh tak, aby bol k zberným nádobám
+zabezpečený prístup.
+
+(10) Na chodníkoch, parkoviskách a komunikáciách možno zberné nádoby ponechať iba na dobu
+nevyhnutnú na ich vyprázdnenie. Po vyprázdnení sa musia nádoby v čo najkratšej možnej dobe
+umiestniť na vyhradené miesto.
+
+(11) Ak nastanú okolnosti, ktoré znemožnia prístup k zberným nádobám a k ich vyprázdneniu, je
+pôvodca odpadu povinný postarať sa o ich premiestnenie na miesto prístupné pre ich vyprázdnenie
+a po vyprázdnení tieto nádoby následne uložiť späť na vyhradené miesto.
+
+
+
+
+                                                 5
+                                             §5
+                        Spôsob zberu a prepravy komunálnych odpadov
+
+(1) Zber jednotlivých druhov komunálnych odpadov sa vykonáva spôsobom, ktorý určuje toto
+nariadenie v príslušných ustanoveniach.
+
+(2) Prepravu komunálnych odpadov vykonávajú oprávnené organizácie, ktoré majú na tento účel
+uzavretú zmluvu s obcou. Preprava komunálnych odpadov sa vykonáva zberovými vozidlami
+oprávnených organizácií.
+
+(3) Obec na svojom území neprevádzkuje zberný dvor a nie je ani členom združenia obcí, ktoré by
+prevádzku zberného dvora zabezpečovalo.
+
+(4)     Obec na svojom území zavádza a zabezpečuje nasledovný systém zberu komunálnych odpadov:
+      a) nevážený množstvový zber komunálneho odpadu a drobného stavebného odpadu pre
+         zmesový odpad,
+      b) kalendárový zber oddelene zbieraných zložiek komunálnych odpadov pre papier, plasty, kovy,
+         sklo a kompozitné obaly,
+      c) kalendárový zber ostatných oddelene zbieraných zložiek komunálnych odpadov pre objemný
+         odpad.
+
+(5)     Obec na svojom území zavádza aj zber nasledovných odpadov:
+      a) elektroodpady,
+      b) batérie a akumulátory,
+      c) lieky nespotrebované fyzickými osobami a zdravotnícke pomôcky.
+
+(6)    Zber odpadov podľa odseku 3 nezabezpečuje obec.
+
+(7) Každý pôvodca je povinný zapojiť sa do systému zberu komunálnych odpadov v obci a na
+komunálny odpad používať len ten typ zberných nádob, ktorý ustanovuje toto nariadenie.
+
+                                             §6
+                        Nakladanie so zmesovým komunálnym odpadom
+
+(1) Na území obce je pre všetkých pôvodcov odpadov zavedený nevážený množstvový zber
+zmesového komunálneho odpadu.
+
+(2) Každá domácnosť (v prípade fyzických osôb) a každý poplatník, ktorým je právnická osoba alebo
+podnikateľ1, je povinná(ý) používať na zber zmesového odpadu minimálne 1 nádobu o minimálnom
+objeme 120 litrov, s vývozným intervalom podľa harmonogramu na aktuálny kalendárny rok, ktorý
+obec zverejňuje na svojom webovom sídle a ktorý doručuje obyvateľom obce do domácností
+a prevádzkam právnických osôb a fyzických osôb-podnikateľov, pôsobiacim na území obce (ďalej len
+„Harmonogram“).
+
+(3) Pôvodca odpadu si na zber zmesového KO môže zvoliť nádobu o objeme 120, 240 alebo 1 100
+litrov.
+
+(4) Pôvodca odpadu je povinný v termíne do 31. januára kalendárneho roka (ak poplatková
+povinnosť vznikla v priebehu zdaňovacieho obdobia, tak do 30 dní od vzniku poplatkovej povinnosti2)
+oznámiť obci Oreské veľkosť zvolenej zbernej nádoby, ktorú bude v príslušnom zdaňovacom období
+užívať. Oznámenie podľa prvej vety je možné vykonať osobne aj písomne (v listinnej podobe alebo
+
+1
+  § 77 ods. 2 písm. b) a c) zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne
+odpady a drobné stavebné odpady v znení neskorších predpisov
+2
+  § 80 zákona č. 582/2004 Z. z.
+                                                   6
+elektronicky). V ďalších zdaňovacích obdobiach oznamuje pôvodca odpadu len prípadnú zmenu
+veľkosti zbernej nádoby, ktorú bude v nasledujúcom zdaňovacom období užívať.
+
+(5) Pôvodca odpadu užívajúci nádobu o objeme 120 l, ktorý je členom jednočlennej domácnosti, je
+povinný vyložiť nádobu na vyprázdnenie najmenej 4x za kalendárny rok; ak je členom viacčlennej
+domácnosti, najmenej 7x za kalendárny rok.
+
+(6) Pôvodca odpadu užívajúci nádobu o objeme 240 l, ktorý je členom jednočlennej domácnosti, je
+povinný vyložiť nádobu na vyprázdnenie najmenej 2x za kalendárny rok; ak je členom viacčlennej
+domácnosti, najmenej 4x za kalendárny rok.
+
+(7) Pôvodca odpadu, ktorý na základe lekárskeho potvrdenia potrebuje používanie inkontinenčných
+pomôcok alebo zdravotníckych plienok, je oprávnený užívať osobitnú nádobu s označením „zdravotná
+popolnica“. Do tejto nádoby je oprávnený ukladať len použité zdravotnícke pomôcky podľa prvej vety.
+Za používanie zdravotnej popolnice platí pôvodca odpadu poplatok osobitne.
+
+                                             §7
+                          Nakladanie s drobným stavebným odpadom
+
+(1) Drobný stavebný odpad môžu obyvatelia ukladať priebežne počas roka na vyhradené zberné
+miesto. Pôvodca DSO je povinný každý vývoz DSO na vyhradené miesto vopred nahlásiť na obecnom
+úrade.
+
+(2)   Zber drobných stavebných odpadov sa vykonáva v rozsahu do 1 m3 od jednej fyzickej osoby.
+
+(3)   Medzi drobný stavebný odpad patria zmesi betónu, tehál, obkladačiek, dlaždíc, keramiky a pod.
+
+(4) Ak bežné udržiavacie práce či rekonštrukčné práce pre fyzickú osobu vykonáva právnická osoba
+alebo fyzická osoba – podnikateľ, nejedná sa o drobný stavebný odpad, ale o stavebný odpad
+a pôvodcom je ten, kto tieto práce pre fyzickú osobu vykonáva. Náklady na nakladanie s takýmto
+stavebným odpadom znáša jeho pôvodca.
+
+(5) Zakazuje sa zmiešavať drobný stavebný odpad s ostatnými druhmi odpadov a ukladať tento DSO
+na iné miesto, ako na miesto určené v ods. 1.
+
+(6) Pôvodcovia DSO sú povinní z tohto odpadu prednostne vytriediť jednotlivé zložky (najmä papier,
+plasty, sklo a kovy) a uložiť ich do príslušných zberných nádob.
+
+                                              §8
+                               Nakladanie s objemným odpadom
+
+(1) Obec zabezpečuje zber objemného odpadu prostredníctvom oprávnenej organizácie podľa
+potreby v priebehu roka, minimálne však 2x za jeden kalendárny rok (spravidla na jar a na jeseň). Obec
+s dostatočným predstihom upovedomí obvyklým spôsobom obyvateľov o tom, v ktorý deň bude
+prebiehať zber objemného odpadu. V ohlásený deň zberu môžu obyvatelia ukladať objemný odpad do
+pristaveného veľkoobjemového kontajnera.
+
+(2) Pôvodcovia objemného odpadu sú povinní v období medzi vývozmi tohto odpadu dočasne ho
+uložiť na vhodnom mieste mimo verejného priestranstva.
+
+(3)   Zakazuje sa zmiešavať objemný odpad s ostatnými druhmi odpadov.
+
+
+
+
+                                                  7
+(4) Medzi objemný odpad patria komunálne odpady, ktoré sa svojou veľkosťou nevojdú do bežne
+používanej nádoby na zmesový odpad. Sú to najmä nábytky, staré okná, dvere, nádoby, plechové rúry
+a pod.
+
+                                             §9
+                Nakladanie s biologicky rozložiteľným komunálnym odpadom
+
+(1)   Medzi biologicky rozložiteľný komunálny odpad (BRKO), ktorého zber zabezpečuje obec, patrí:
+      a) kuchynský odpad (okrem biologicky rozložiteľného kuchynského odpadu od prevádzkovateľa
+         kuchyne),
+      b) jedlé oleje a tuky z domácností,
+      c) odpad z verejnej zelene, zo záhrad, parkov a cintorínov - tzv. „zelený odpad“.
+
+(2) Zber kuchynského odpadu od fyzických osôb obec nezavádza, nakoľko si uplatňuje výnimku
+podľa § 81 ods. 21 zákona o odpadoch (100 % domácností kompostuje vlastný odpad).
+
+(3) Obec zabezpečuje zber, prepravu a zhodnocovanie jedlých olejov a tukov prostredníctvom
+oprávnenej organizácie. Obyvatelia môžu tieto jedlé oleje a tuky ukladať v plastových uzatvárateľných
+PET fľašiach alebo v pôvodných obaloch na zbernom mieste.
+
+(4) Zelený odpad zo záhrad rodinných domov obyvatelia prednostne kompostujú na vlastných
+domácich kompostoviskách (resp. v kompostovacích zásobníkoch). Tento odpad môžu obyvatelia
+ukladať aj do kontajnerov, rozmiestnených na území obce.
+
+(5) Zber zeleného odpadu z verejných priestranstiev, parkov a cintorínov zabezpečuje obec vo
+vlastnej réžii.
+
+(6) Medzi kuchynský odpad patria: šupy z čistenia zeleniny a ovocia, kávové a čajové zvyšky, vaječné
+škrupiny, starý chlieb, zvyšky jedla, škrupinka z orecha, vlasy, chlpy, trus malých zvierat, papierové
+vrecko znečistené zeleninou, ovocím, maslom, džemom, potraviny po záručnej dobe alebo inak
+znehodnotené, triesky, hnedá lepenka, novinový papier, nespracované zostatky surovín,
+neskonzumované zostatky pokrmov a potravín rastlinného ale i živočíšneho pôvodu a pod.
+
+(7) Medzi kuchynský odpad nepatria: zelený odpad, lístie, drevo, drevený odpad, burina, kvety
+a pod.
+
+(8) Medzi jedlé oleje a tuky patria: oleje a tuky z prípravy jedál, zvyšky nespotrebovaných olejov,
+prepálené oleje, zvyšky margarínov, masla či tuku.
+
+(9) Medzi jedlé oleje a tuky nepatria: oleje a tuky, ktoré neboli pôvodne určené na konzumáciu
+alebo prípravu jedla.
+
+(10) Medzi zelený odpad patria: kvety, tráva, lístie, drevný odpad zo strihania a orezávania krovín
+a stromov, vypletá burina, pozberové zvyšky z pestovania, zhnité ovocie a zelenina, piliny, drevná
+štiepka, hobliny, drevný popol.
+
+(11) Medzi zelený odpad nepatria: kamene, obväzy, cigaretové ohorky, zvyšky jedál, uhynuté
+zvieratá, časti zvierat zabitých doma (tzv. „domáce zakáľačky“) a pod.
+
+
+
+
+                                                  8
+                                            § 10
+       Nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od
+                                  prevádzkovateľa kuchyne
+
+(1) Za nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od
+prevádzkovateľa kuchyne zodpovedá prevádzkovateľ kuchyne. Zakazuje sa zmiešavať biologicky
+rozložiteľný kuchynský a reštauračný odpad s ostatnými druhmi odpadov.
+
+(2) Náklady spojené so zberom, skladovaním, prepravou a spracovaním vrátane nákladov na zberné
+kontajnery znáša prevádzkovateľ kuchyne (nie sú súčasťou miestneho poplatku).
+
+(3) Zber kuchynského a reštauračného odpadu musí spĺňať hygienické požiadavky ustanovené
+nariadením EP a Rady (ES) č. 1069/2009 a 852/2004 o hygiene potravín.
+
+(4) Prevádzkovateľ kuchyne musí primerane zabezpečiť skladovanie kuchynského a reštauračného
+odpadu do doby odovzdania na jeho spracovanie tak, aby sa k obsahu kontajnera nedostali hlodavce
+a iné živočíchy, ani verejnosť.
+
+(5)    Zberné nádoby musia byť umiestnené v areáli prevádzkovateľa kuchyne.
+
+(6) Frekvencia zberu musí byť v súlade s hygienickými predpismi, zohľadňujúc aj teploty prostredia
+(leto/zima), pričom v letnom období musí byť frekvencia zberu vyššia ako v ostatných obdobiach (v
+lete minimálne 1x za dva týždne).
+
+(7) Prevádzkovateľ kuchyne je povinný zabezpečiť zhodnotenie biologicky rozložiteľného
+kuchynského a reštauračného odpadu, ktorého je pôvodcom, sám v zariadeniach na to určených. Ak
+túto povinnosť nedokáže sám zabezpečiť, musí na tento účel uzavrieť zmluvu s oprávnenou
+organizáciou, ktorá má na túto činnosť oprávnenie a všetky osobitné povolenia.
+
+                                             § 11
+      Nakladanie s odpadmi z obalov a z neobalových výrobkov zbieraných spolu s obalmi
+                       (papier, plasty, kovy, sklo a kompozitné obaly)
+
+(1) Všetci pôvodcovia odpadov na území obce sú povinní zapojiť sa do triedeného zberu papiera,
+plastov, kovov, skla a kompozitných obalov.
+
+(2) Všetky náklady na zber, prepravu a triedenie odpadu z obalov, vrátane zberných nádob, znáša
+organizácia zodpovednosti výrobcov.
+
+(3) Zakazuje sa zmiešavať triedený komunálny odpad so zmesovým komunálnym odpadom
+a s inými oddelene zbieranými zložkami komunálneho odpadu.
+
+(4) Triedený zber papiera sa vykonáva prostredníctvom modrých plastových vriec. Vývozný interval
+triedeného zberu papiera je podľa Harmonogramu.
+
+(5) Do odpadu z papiera patria: noviny, časopisy, zošity, knihy, listy, kancelársky papier, papierové
+vrecká, lepenka, krabice z tvrdého papiera, kartón, obálky, letáky, katalógy, telefónne zoznamy,
+plagáty, pohľadnice, zakladače, baliaci a krepový papier, papierový obal a pod.
+
+(6) Do odpadu z papiera nepatria: plastové obaly, kompozitné obaly (napr. tetrapakové obaly),
+voskovaný papier, papier s hliníkovou fóliou, obaly na mrazené potraviny, škatuľky od cigariet (s
+výnimkou kartónovej časti), silne znečistený či mastný papier, kopírovací papier a pod.
+
+
+
+                                                 9
+(7) Obaly z papiera (kartóny, krabice...) musia byť v nádobách poskladané a uložené tak, aby sa čo
+najviac zmenšil ich objem.
+
+(8) Triedený zber plastov a kompozitných obalov sa vykonáva ich spoločným zberom
+prostredníctvom žltých plastových vriec. Vývozný interval triedeného zberu plastov a kompozitných
+obalov je podľa Harmonogramu.
+
+(9)   Do odpadu z plastov patria:
+      1. PE (polyetylén) – LDPE a HDPE: číre a farebné fólie, tašky, vrecká, vedrá a fľaštičky od
+        kozmetických a čistiacich prípravkov, vrecká od mlieka, prepravky fliaš,
+      2. PET (polyetyléntereftalát): fľaše od nápojov, sirupov, rastlinných olejov,
+      3. PP (polypropylén): obaly od sladkostí, tégliky od jogurtov a rôzne plastové nádobky a hračky,
+      4. PS (polystyrén): penový polystyrén, poháriky z automatov a iné plastové nádobky,
+      5. PVC (polyvinylchlorid): vodoinštalačné a elektroinštalačné rúrky, obaly z kozmetických
+        výrobkov, plastové okná a nábytok a pod.
+
+(10) Do odpadu z plastov nepatria: obaly znečistené chemikáliami a olejmi, kompozitné obaly, hrubo
+znečistené plasty (zeminou, farbami, potravinami), podlahové krytiny, guma, molitan a pod.
+
+(11) Obaly z plastov a kompozitné obaly musia byť v nádobách (vreciach) stlačené a uložené tak, aby
+sa čo najviac zmenšil ich objem.
+
+(12) Triedený zber kovových obalov sa vykonáva prostredníctvom červených plastových vriec.
+Vývozný interval triedeného zberu kovových obalov je podľa Harmonogramu.
+
+(13) Do odpadu z kovových obalov patria: kovové vrchnáky z fliaš a pohárov, kovové tuby od pást,
+kovové súčiastky, obaly zo sprejov, farebné kovy, hliníkové viečko, hliníkový obal, kovové viečko,
+kovová rúrka, starý kľúč, zámok, konzervy, oceľové plechovky, ventil a pod.
+
+(14) Do odpadu z kovových obalov nepatria: kovy hrubo znečistené zvyškami z jedla, olejmi, farbami
+a rôznymi chemickými látkami.
+
+(15) Triedený zber skla sa vykonáva prostredníctvom zelených zberných nádob, rozmiestnených na
+území obce. Vývozný interval triedeného zberu skla je podľa potreby.
+
+(16) Do odpadu zo skla patria: sklenené fľaše, nádoby, obaly a predmety zo skla, poháre, fľaštičky od
+kozmetiky bez kovových a platových uzáverov, črepy, okenné sklo, sklo z okuliarov a pod.
+
+(17) Do odpadu zo skla nepatria: korky, gumy, porcelán, keramika, zrkadlá, drôtované sklo, fľaše
+z umelej hmoty, časti uzáverov fliaš, žiarovky (patria do zmesového KO), žiarivky, obrazovky, silne
+znečistené sklo (zeminou, farbami, potravinami) a pod.
+
+                                         § 12
+            Nakladanie s odpadmi z domácností s obsahom nebezpečných látok
+
+(1) Obec zabezpečuje zber odpadov z domácností s obsahom nebezpečných látok 2x ročne
+prostredníctvom oprávnenej organizácie, s ktorou má uzavretú zmluvu. V ohlásený deň zberu môžu
+obyvatelia ukladať tento odpad na zberné miesto.
+
+(2) Jednotlivé zložky odpadu s obsahom nebezpečných látok sú ich držitelia povinní vytrieďovať
+z komunálneho odpadu a zabezpečiť ich dočasné bezpečné zhromaždenie tak, aby nedošlo
+k znečisteniu životného prostredia, k prevráteniu nádob a aby k týmto odpadom nemali prístup deti.
+
+
+
+                                                 10
+(3) Zakazuje sa zmiešavať odpady s obsahom nebezpečných látok so zmesovým komunálnym
+odpadom, s triedenými zložkami komunálneho odpadu a s iným oddelene zbieraným komunálnym
+odpadom, ako i ukladať tieto odpady do zberných nádob na komunálny odpad alebo vedľa nich a na
+verejné priestranstvá.
+
+(4) Medzi odpady z domácností s obsahom nebezpečných látok patria: odpadové motorové
+a mazacie oleje, rozpúšťadlá, staré farby, lepidlá, živice, laky, kyseliny, zásady, fotochemické látky,
+pesticídy a chemické prípravky na ošetrovanie rastlín a drevín, umelé hnojivá, detergenty (pracie
+prášky, čistiace prostriedky), drevo obsahujúce nebezpečné látky, handry znečistené olejom, farbami,
+obaly znečistené nebezpečnými látkami a pod.
+
+                                              § 13
+                           Nakladanie s elektroodpadmi z domácností
+
+(1) Obec umožňuje vykonávať zber elektroodpadov z domácností vrátane žiariviek a svietidiel
+prostredníctvom oprávnenej organizácie. Elektroodpad z domácností sa zbiera priebežne počas roka
+na zbernom mieste.
+
+(2) Zber elektroodpadu prebieha aj v rámci režimu spätný odber, kde je distribútor elektrozariadení
+povinný bezplatne uskutočňovať spätný odber, t. j. odobratie elektroodpadu z domácností od jeho
+držiteľa pri predaji nového elektrozariadenia na výmennom základe kus za kus, pokiaľ odovzdávaný
+elektroodpad pochádza z elektrozariadenia rovnakej kategórie a rovnakého funkčného určenia ako
+predávané elektrozariadenie.
+
+(3) Pôvodca elektroodpadu z domácností vrátane žiariviek a svietidiel nesmie odovzdávať tento
+odpad iným subjektom, než sú ustanovené v tomto nariadení (napr. pouličným zberačom).
+
+(4) Zakazuje sa zmiešavať elektroodpad z domácností vrátane žiariviek a svietidiel s ostatnými
+druhmi odpadov, ukladať tento odpad do zberných nádob na zmesový komunálny odpad alebo vedľa
+nich na verejné priestranstvá, ako aj elektroodpad rozoberať, zasahovať doňho a vyberať jednotlivé
+časti.
+
+(5) Medzi elektroodpad patria: žiarovky, žiarivky, svietidlá, televízory, rádiá, počítačová, kancelárska
+a telekomunikačná technika, mobily, videá, diskmeny, digitálne hodinky, gameboye, variče, ohrievače,
+kávovary, práčky, chladničky, elektromotory, ručné elektrické náradie, mobilné klimatizačné zariadenia
+a pod.
+
+                                          § 14
+     Nakladanie s použitými prenosnými batériami a akumulátormi a automobilovými
+                               batériami a akumulátormi
+
+(1) Použité batérie a akumulátory, ktoré sú súčasťou elektroodpadu z domácností, sa zbierajú spolu
+s týmto odpadom.
+
+(2) Obec umožňuje vykonávať zber batérií a akumulátorov prostredníctvom oprávnenej
+organizácie. Batérie a akumulátory sa zbierajú priebežne počas roka na zbernom mieste.
+
+(3) Prenosné a automobilové batérie a akumulátory je možné odovzdať aj v rámci spätného zberu
+batérií a akumulátorov. Spätný zber použitých batérií a akumulátorov je bezplatný zber použitých
+prenosných batérií a akumulátorov od ich držiteľa a použitých automobilových batérií z motorových
+vozidiel nevyužívaných na komerčné účely vo vlastníctve fyzickej osoby, ktorý vykonáva distribútor
+týchto batérií a akumulátorov bez viazania tohto zberu na kúpu novej batérie alebo akumulátora alebo
+iného tovaru.
+
+
+                                                  11
+(4) Vytriedené batérie a akumulátory sa zakazuje odovzdávať iným subjektom, než sú ustanovené
+v tomto nariadení (napr. pouličným zberačom).
+
+(5) Zakazuje sa zmiešavať vytriedené batérie a akumulátory s ostatnými druhmi odpadov, ukladať
+ich do zberných nádob na zmesový komunálny odpad alebo vedľa nich na verejné priestranstvá, ako aj
+batérie a akumulátory rozoberať, zasahovať do nich a vyberať jednotlivé časti.
+
+                                                § 15
+                                 Nakladanie s textíliami a šatstvom
+
+(1) Obec zabezpečuje zber textílií a šatstva prostredníctvom oprávnenej organizácie, ktorá má na
+túto činnosť príslušné povolenia a má uzavretú zmluvu s obcou.
+
+
+(2) Zber odpadu z textílií a šatstva sa vykonáva prostredníctvom plastových vriec, ktoré sú
+obyvatelia v ohlásený deň zberu oprávnení vyložiť pred svoje domácnosti. Zber odpadu z textílií
+a šatstva sa zabezpečí jeho naložením na zvozové vozidlo.
+
+(3) V prípade zberu textílií a šatstva, ktoré je vhodné na opätovné využitie (napr. formou mobilného
+zberu) obec v dostatočnom predstihu obyvateľstvo upovedomí o takomto zbere, ako aj o spôsobe
+zberu.
+
+(4)     Medzi textílie a šatstvo, ktoré sú vhodné na opätovné použitie, patria:
+        a) čisté a suché šatstvo (všetky druhy odevov, prikrývky, deky, posteľná bielizeň),
+        b) topánky (čisté topánky iba v pároch, nezničené),
+        c) doplnky k oblečeniu (čiapky, šály a pod.).
+
+                                              § 16
+                             Nakladanie s odpadovými pneumatikami
+
+(1)     Zber odpadových pneumatík obec nezabezpečuje.
+
+(2) Konečný používateľ pneumatiky je povinný pneumatiku po tom, ako sa stala odpadovou
+pneumatikou, odovzdať distribútorovi pneumatík okrem odpadových pneumatík umiestnených na
+kolesách starého vozidla odovzdávaného osobe oprávnenej na zber starých vozidiel alebo
+spracovateľovi starých vozidiel.
+
+(3) Distribútor pneumatík je povinný po celú prevádzkovú dobu zabezpečiť na svojich predajných
+miestach bezplatný spätný zber odpadových pneumatík, a to bez ohľadu na výrobnú značku a na dátum
+uvedenia pneumatík na trh. Tento spätný zber je distribútor pneumatík povinný zabezpečiť bez
+podmienky viazania na kúpu novej pneumatiky alebo iného tovaru.
+
+                                             § 17
+      Nakladanie s veterinárnymi liekmi a humánnymi liekmi nespotrebovanými fyzickými
+                           osobami a so zdravotníckymi pomôckami
+
+(1) Nespotrebované lieky a zdravotnícke pomôcky sa odovzdávajú vo verejnej lekárni, ktorá je
+povinná tento odpad bezplatne odoberať a zhromažďovať.
+
+(2) Zakazuje sa zmiešavať nespotrebované lieky a zdravotnícke pomôcky s ostatnými druhmi
+odpadov ako aj likvidovať ich vypúšťaním do obecnej kanalizácie.
+
+
+
+
+                                                   12
+                                              § 18
+                      Spôsob nahlasovania nezákonne umiestneného odpadu
+
+(1) Akákoľvek fyzická osoba alebo právnická osoba môže oznámiť nezákonné umiestnenie odpadu
+príslušnému orgánu štátnej správy odpadového hospodárstva (napr. Okresný úrad Skalica, Odbor
+starostlivosti o ŽP) alebo obci Oreské nasledovne:
+       a) osobne: počas úradných hodín obecného úradu,
+       b) telefonicky: 034 / 669 4958,
+       c) e-mailom: obec.oreske@gmail.com,
+       d) písomne na adresu: Obec Oreské, 908 63 Oreské 7.
+
+(2) Vlastník, správca alebo nájomca nehnuteľnosti je povinný bezodkladne po zistení, že na jeho
+nehnuteľnosti bol nezákonne umiestnený odpad, oznámiť túto skutočnosť orgánu podľa odseku 1.
+
+(3)       Oznámenie o nezákonne umiestnenom odpade sa môže vykonať ústne alebo písomne.
+
+
+                             3. ČASŤ – ZÁVEREČNÉ USTANOVENIA
+
+                                              § 19
+                               Zodpovednosť za porušenie povinností
+
+Zodpovednosť za porušenie povinností upravuje desiata časť zákona o odpadoch.
+
+                                               § 20
+                                       Záverečné ustanovenia
+
+(1) Toto nariadenie bolo schválené Obecným zastupiteľstvom v Oreskom dňa ............. uznesením č.
+....................
+
+(2)    Toto nariadenie ruší:
+      - Všeobecne záväzné nariadenie č. 6/2016 o nakladaní s komunálnymi odpadmi a s drobnými
+        stavebnými odpadmi na území obce Oreské, schválené dňa 18.05.2016,
+      - Dodatok č. 1 k Všeobecne záväznému nariadeniu č. 6/2016 o nakladaní s komunálnymi
+        odpadmi a s drobnými stavebnými odpadmi na území obce Oreské, schválený dňa 10.12.2021,
+      - Dodatok č. 2 k Všeobecne záväznému nariadeniu č. 6/2016 o nakladaní s komunálnymi
+        odpadmi a s drobnými stavebnými odpadmi na území obce Oreské, schválený dňa 09.12.2024.
+
+(3)       Toto nariadenie nadobúda účinnosť dňa 01.01.2027.
+
+
+
+
+                                                                 ..............................
+                                                                     Ondrej Mikuš
+                                                                          starosta
+
+
+
+
+                                                  13
+

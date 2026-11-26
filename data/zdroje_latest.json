@@ -1,39 +1,78 @@
 {
- "datum": "2026-11-25",
- "obstaravania": [],
- "prepojenia": [],
+ "datum": "2026-11-26",
+ "obstaravania": [
+  {
+   "cpv": "",
+   "datum": "26.11.2026",
+   "nazov": "Zabudovanie edukatívnych a inkluzívnych prvkov detského ihriska v obci Markušovce",
+   "nuts": "",
+   "obec": "Markušovce",
+   "obstaravatel": "Obec Markušovce",
+   "okres": "Spišská Nová Ves",
+   "projekcia": false,
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/568136?cHash=a0cfca8a74f5bbc10e3233e47fe6b819",
+   "zdroj": "ÚVO"
+  }
+ ],
+ "prepojenia": [
+  {
+   "datum": "25. November 2026",
+   "dodavatel": "ENJOY THE RIDE s.r.o.",
+   "firma": "ENJOY THE RIDE",
+   "nazov": "Dodatok č. 2 k zmluve o dielo 58 / 2026",
+   "obec": "Zemplínska Teplica",
+   "objednavatel": "Obec Zemplínska Teplica",
+   "okres": "Trebišov",
+   "relevantne": false,
+   "suma": "0,00 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13125703/"
+  },
+  {
+   "datum": "25. November 2026",
+   "dodavatel": "mmcité sk s.r.o.",
+   "firma": "mmcité",
+   "nazov": "Zmluva o spolupráci 20261741",
+   "obec": "",
+   "objednavatel": "Kreatívny inštitút Trenčín,n.o. Anglická verzia názvu je: Creative Institute Trenčín, n.o.",
+   "okres": "",
+   "relevantne": false,
+   "suma": "10 000,00 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13128620/"
+  },
+  {
+   "datum": "25. November 2026",
+   "dodavatel": "OCTAGO CORPORATION, j.s.a.",
+   "firma": "Octago",
+   "nazov": "Kúpna zmluva č.850/2026 detské ihrisko 850/2026",
+   "obec": "",
+   "objednavatel": "Obec Mýto pod Ďumbierom",
+   "okres": "",
+   "relevantne": true,
+   "suma": "15 625,92 €",
+   "typ": "konkurencia",
+   "url": "https://www.crz.gov.sk/zmluva/13126013/"
+  }
+ ],
  "prvy_beh": false,
  "vyzvy": [
   {
-   "kategoria": "fond",
-   "nazov": "Výzva MoF – 8/2026 (“EE v podnikoch”)",
-   "temy": [],
-   "url": "https://envirofond.sk/2026/11/24/vyzva-mof-8-2026-ee-v-podnikoch-3/",
-   "zdroj": "Environmentálny fond",
-   "zhoda_tem": false
+   "kategoria": "ministerstvo",
+   "nazov": "Minister Migaľ: Nové eurofondy patria pod MIRRI. Slovensko nepotrebuje drahé duplicitné úrady ani zákulisné hry",
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "url": "https://mirri.gov.sk/aktuality/minister/minister-migal-nove-eurofondy-patria-pod-mirri-slovensko-nepotrebuje-drahe-duplicitne-urady-ani-zakulisne-hry/",
+   "zdroj": "MIRRI – regionálny rozvoj",
+   "zhoda_tem": true
   },
   {
-   "kategoria": "kraj",
-   "nazov": "Krajské kolo ZENIT 2026 - technické talenty, skvelé výsledky 24. 11. 2026",
+   "kategoria": "nadácia",
+   "nazov": "Spolu k vode : výzva v programe Zelené oázy je otvorená",
    "temy": [],
-   "url": "https://psk.sk/krajske-kolo-zenit-2026-technicke-talenty-skvele-vysledky/",
-   "zdroj": "Prešovský samosprávny kraj",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na coworkingy a inkubátory pre podnikanie (2026) Výzva podporuje vznik, rekonštrukciu a rozšírenie podnikateľských inkubátorov, coworkingových centier a hubov v vybraných okresoch troch krajov, vrátane ich materiálno-technického vybavenia a nástrojov na posilnenie ich postavenia. ",
-   "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-coworkingy-a-inkubatory-pre-podnikanie-2026",
-   "zdroj": "GrantExpert – prehľad výziev",
-   "zhoda_tem": false
-  },
-  {
-   "kategoria": "agregátor",
-   "nazov": "Nová výzva Dotácia na územné plány pre obce a VÚC (2027) Dotácia podporuje spracovanie návrhov územnoplánovacej dokumentácie obcí, zón a mikroregiónov. Určená je pre obce a vyššie územné celky Slovenskej republiky. Výška dotácie nie je určená Miera dotácie 80 % Ostáva dní 82 Od 24.11.2026 Do 15.2.20",
-   "temy": [],
-   "url": "https://app.grantexpert.sk/vyzva/dotacia-na-uzemne-plany-pre-obce-a-vuc-2027",
-   "zdroj": "GrantExpert – prehľad výziev",
+   "url": "https://ekopolis.sk/2026/spolu-k-vode-vyzva-v-programe-zelene-oazy-je-otvorena/",
+   "zdroj": "Nadácia Ekopolis",
    "zhoda_tem": false
   }
  ],

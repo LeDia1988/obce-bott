@@ -1,0 +1,971 @@
+URL: https://cuet.slovensko.sk/en/dokument/1023442d-5698-4933-adee-6049992020ad
+OBEC: Michalovce (Michalovce)
+NÁZOV: Rozpočtové opatrenie č. 8
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/1023442d-5698-4933-adee-6049992020ad
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Rozpočtové opatrenie č. 8
+Search publisher's RSS feeds
+Published on official board:
+Mesto Michalovce (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Mesto Michalovce (OVM)
+Published to:
+24.12.2026
+Registry case:
+Name of official document:
+Rozpočtové opatrenie č. 8
+Document abstract:
+<div> Mesto Michalovce zverejňuje -Rozpočtové opatrenie č. 8
+<div />
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+EUT-2026-11-25-03-priloha02.pdf
+Type and size:
+.pdf, 600.6 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+EUT-2026-11-25-03.pdf
+Type and size:
+.pdf, 443.91 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+EUT-2026-11-25-03-priloha05.pdf
+Type and size:
+.pdf, 560.51 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+EUT-2026-11-25-03-priloha03.pdf
+Type and size:
+.pdf, 319.13 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+EUT-2026-11-25-03-priloha01.pdf
+Type and size:
+.pdf, 621.7 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+EUT-2026-11-25-03-priloha04.pdf
+Type and size:
+.pdf, 150.55 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/2355822c-2d94-462b-80bd-e30ee0af9149
+                                                                                                                                                                     Úprava rozpočtu na rok 2026
+                                                                                                                                                            Bežné príjmy - školstvo - originálne kompetencie
+                                                                                                                                                                                                                                                                                                                                                        príloha č. 7
+                                           Príjmy z podnikania 21.                 Administratív.poplatky 22.                 Ostatné príjmy 29. + Granty                     Príjmy potraviny                                                                         Bežné transfery                                                                           Spolu bežné príjmy
+                                                                                                                                                                                                                                 Zriaďovateľ                                    ŠR                                 Iné - EÚ normatív
+                                                                  upravený                                   upravený                                   upravený                                   upravený                                                                                                                                                                         upravený
+                                      rozpočet       úprava                      rozpočet       úprava                      rozpočet       úprava                      rozpočet       úprava                                                                                                                                                            rozpočet       úprava
+                                                                  rozpočet                                   rozpočet                                   rozpočet                                   rozpočet       rozpočet         úprava       upr.rozp.                                                   rozpočet       úprava       upr.rozp.                                   rozpočet
+                                                                                                                                                                                                                                                                rozpočet       úprava       upr.rozp.
+Originálne komp.                                 -            -              -    886 345        33 070       919 415            900                -        900        656 817         -2 082      654 735       4 580 184           3 536     4 583 720                  -            -               -              -            -               -   6 124 246       34 524      6 158 770
+ŠKD pri ZŠ T. J. Moussona                        -            -              -     62 000          2 000       64 000                  -            -              -              -            -              -    252 291                -      252 291                   -            -               -              -            -               -     314 291         2 000       316 291
+ŠKD pri ZŠ Jána Švermu 6                         -            -              -     44 000         -3 500       40 500                  -            -              -              -            -              -    196 840                -      196 840                   -            -               -              -            -               -     240 840        -3 500       237 340
+ŠKD pri ZŠ Moskovská 1                           -            -              -     24 600            700       25 300                  -            -              -              -            -              -    105 769            7 900      113 669                   -            -               -              -            -               -     130 369         8 600       138 969
+ŠKD pri ZŠ Jána A. Komenského 1                  -            -              -     25 000            520       25 520                  -            -              -              -            -              -    117 242            1 831      119 073                   -            -               -              -            -               -     142 242         2 351       144 593
+ŠKD pri ZŠ Školská 2                             -            -              -     19 000          4 800       23 800                  -            -              -              -            -              -     84 570                -       84 570                   -            -               -              -            -               -     103 570         4 800       108 370
+ŠKD pri ZŠ Okružná 17                            -            -              -     69 000              -       69 000                  -            -              -              -            -              -    300 853                -      300 853                   -            -               -              -            -               -     369 853             -       369 853
+ŠKD pri ZŠ Krymská 5                             -            -              -     22 500         -2 515       19 985                  -            -              -              -            -              -    114 738                -      114 738                   -            -               -              -            -               -     137 238        -2 515       134 723
+ŠKD pri ZŠ Pavla Horova                          -            -              -     58 600         -2 200       56 400                  -            -              -              -            -              -    226 545            4 000      230 545                   -            -               -              -            -               -     285 145         1 800       286 945
+ŠKD spolu                                        -            -              -    324 700          -195       324 505                  -            -              -              -            -              -   1 398 848          13 731     1 412 579                  -            -               -              -            -               -   1 723 548       13 536      1 737 084
+CVČ pri ZŠ T. J. Moussona                        -            -              -      6 500           100         6 600                  -            -              -              -            -              -     13 500                  -      13 500                  -            -               -              -            -               -       20 000         100         20 100
+CVČ pri ZŠ Jána Švermu 6                         -            -              -      8 600                -      8 600                  -            -              -              -            -              -      6 400                  -       6 400                  -            -               -              -            -               -       15 000              -      15 000
+CVČ pri ZŠ Moskovská 1                           -            -              -              -            -              -              -            -              -              -            -              -              -              -               -              -            -               -              -            -               -              -            -              -
+CVČ pri ZŠ Jána A. Komenského 1                  -            -              -      6 500                -      6 500                  -            -              -              -            -              -      5 900                  -       5 900                  -            -               -              -            -               -       12 400              -      12 400
+CVČ pri ZŠ Školská 2                             -            -              -      3 000           300         3 300                  -            -              -              -            -              -      8 900                  -       8 900                  -            -               -              -            -               -       11 900         300         12 200
+CVČ pri ZŠ Okružná 17                            -            -              -      9 000         3 500        12 500                  -            -              -              -            -              -     14 000                  -      14 000                  -            -               -              -            -               -       23 000       3 500         26 500
+CVČ pri ZŠ Krymská 5                             -            -              -      1 600          -960           640              -                -          -                  -            -              -      6 500                  -       6 500                  -            -               -              -            -               -        8 100        -960          7 140
+CVČ pri ZŠ Pavla Horova                          -            -              -          -             -             -            900                -        900                  -            -              -      5 700                  -       5 700                  -            -               -              -            -               -        6 600           -          6 600
+CVČ spolu                                        -            -              -     35 200         2 940        38 140            900                -        900                  -            -              -     60 900                  -      60 900                  -            -               -              -            -               -       97 000       2 940         99 940
+ŠJ pri ZŠ T. J. Moussona                         -            -              -     54 700         3 000        57 700                  -            -              -     37 440         9 000        46 440        162 103                -      162 103                   -            -               -              -            -               -     254 243       12 000        266 243
+ŠJ pri ZŠ Jána Švermu 6                          -            -              -     45 000         1 000        46 000                  -            -              -     35 000             -        35 000        143 041                -      143 041                   -            -               -              -            -               -     223 041        1 000        224 041
+ŠJ pri ZŠ Moskovská 1                            -            -              -     39 000         1 500        40 500                  -            -              -     35 000             -        35 000        133 883            2 050      135 933                   -            -               -              -            -               -     207 883        3 550        211 433
+ŠJ pri ZŠ Jána A. Komenského 1                   -            -              -     42 000         3 000        45 000                  -            -              -     40 000             -        40 000         75 951            4 608       80 559                   -            -               -              -            -               -     157 951        7 608        165 559
+ŠJ pri ZŠ Školská 2                              -            -              -     41 000        16 000        57 000                  -            -              -     46 000             -        46 000         79 551                -       79 551                   -            -               -              -            -               -     166 551       16 000        182 551
+ŠJ pri ZŠ Okružná 17                             -            -              -     75 000             -        75 000                  -            -              -     85 000             -        85 000        166 688                -      166 688                   -            -               -              -            -               -     326 688            -        326 688
+ŠJ pri ZŠ Krymská 5                              -            -              -     32 000         4 700        36 700                  -            -              -     26 000         2 900        28 900         79 592                -       79 592                   -            -               -              -            -               -     137 592        7 600        145 192
+ŠJ pri ZŠ Pavla Horova                           -            -              -     54 000             -        54 000                  -            -              -     24 000         6 000        30 000        150 074                -      150 074                   -            -               -              -            -               -     228 074        6 000        234 074
+ŠJ pri ZŠ                                        -            -              -    382 700        29 200       411 900                  -            -              -    328 440        17 900       346 340        990 883            6 658      997 541                   -            -               -              -            -               -   1 702 023       53 758      1 755 781
+ŠJ pri MŠ Fraňa Kráľa 78                         -            -              -      5 815           170         5 985                  -            -              -     40 407           -701       39 706         82 659           -8 346       74 313                   -            -               -              -            -               -     128 881        -8 877       120 004
+ŠJ pri MŠ Školská 5                              -            -              -      7 185          -805         6 380                  -            -              -     45 318         -6 326       38 992         83 854           -4 064       79 790                   -            -               -              -            -               -     136 357       -11 195       125 162
+ŠJ pri MŠ Jána A. Komenského 2                   -            -              -      6 185          -585         5 600                  -            -              -     44 140         -5 687       38 453         83 304           -6 443       76 861                   -            -               -              -            -               -     133 629       -12 715       120 914
+ŠJ pri MŠ Masarykova 30                          -            -              -      4 440          -210         4 230                  -            -              -     28 215          1 377       29 592         61 717              710       62 427                   -            -               -              -            -               -      94 372         1 877        96 249
+ŠJ pri MŠ Okružná 19                             -            -              -      5 620          -545         5 075                  -            -              -     37 098         -3 702       33 396         89 573             -560       89 013                   -            -               -              -            -               -     132 291        -4 807       127 484
+ŠJ pri MŠ Leningradská 1                         -            -              -      6 430           -75         6 355                  -            -              -     43 386         -1 755       41 631         74 427           -7 325       67 102                   -            -               -              -            -               -     124 243        -9 155       115 088
+ŠJ pri MŠ Jána Švermu 8                          -            -              -      5 570          -325         5 245                  -            -              -     39 813         -3 188       36 625         90 314           -2 445       87 869                   -            -               -              -            -               -     135 697        -5 958       129 739
+ŠJ pri MŠ S. H. Vajanského 5                     -            -              -     12 500         3 500        16 000                  -            -              -     50 000              -       50 000         84 865                -       84 865                   -            -               -              -            -               -     147 365         3 500       150 865
+ŠJ pri MŠ                                        -            -              -     53 745         1 125        54 870                  -            -              -    328 377        -19 982      308 395        650 713          -28 473      622 240                   -            -               -              -            -               -   1 032 835       -47 330       985 505
+ŠJ spolu                                         -            -              -    436 445        30 325       466 770                  -            -              -    656 817         -2 082      654 735       1 641 596         -21 815     1 619 781                  -            -               -              -            -               -   2 734 858        6 428      2 741 286
+Stravovanie žiakov v HN                          -            -              -              -            -              -              -            -              -              -            -              -     11 000           -1 297         9 703                  -            -               -              -            -               -       11 000       -1 297         9 703
+CVČ pre iné obce                                 -            -              -          -                -          -                  -            -              -              -            -              -         800             397         1 197                  -            -               -              -            -               -         800          397          1 197
+ZUŠ                                              -            -              -     90 000                -     90 000                  -            -              -              -            -              -   1 330 000               -     1 330 000                  -            -               -              -            -               -   1 420 000            -      1 420 000
+ZŠ T. J. Moussona (kotol)                        -            -              -          -                -          -                  -            -              -              -            -              -      64 800               -        64 800                  -            -               -              -            -               -      64 800            -         64 800
+LAN siete MŠ                                     -            -              -          -                -          -                  -            -              -              -            -              -      25 000               -        25 000                  -            -               -              -            -               -      25 000            -         25 000
+ŠJ pri ZŠ Moskovská 1 (panvice)                  -            -              -          -                -          -                  -            -              -              -            -              -      47 240               -        47 240                  -            -               -              -            -               -      47 240            -         47 240
+ZŠ Moskovská 1 (odstupné)                        -            -              -          -                -          -                  -            -              -              -            -              -           -          12 520        12 520                  -            -               -              -            -               -           -       12 520         12 520
+
+Rozdiel medzi príjmami a výdavkami je 21 737 €: z toho zostatky na účtoch ŠJ pri MŠ vo výške 5 343 €, zostatky na účtoch ŠJ pri ZŠ vo výške 10 626 € a suma 5 768 € je refundácia z NIVAM v 2/2026 - príjem je u MŠ a použitie v ŠJ pri MŠ.
+                                                                  Úprava rozpočtu na rok 2026
+                                                         Bežné výdavky - školstvo - originálne kompetencie
+                                                                                                                                                     príloha č. 8          v€
+                                           Mzdy a poistné                     Tovary a služby                     Potraviny ŠJ                    Spolu bežné výdavky
+                                  rozpočet   úprava     uprav.rozp. rozpočet     úprava     uprav.rozp. rozpočet   úprava      uprav.rozp. rozpočet     úprava    uprav.rozp.
+Originálne komp.                  4 591 022     26 804    4 617 826   745 135     -21 389       723 746   672 786     -2 082       670 704 6 008 943       3 333    6 012 276
+ŠKD pri ZŠ T. J. Moussona           291 298      3 000      294 298      22 993      -1 000       21 993        -          -            -     314 291      2 000      316 291
+ŠKD pri ZŠ Jána Švermu 6            222 800      1 500      224 300      18 040      -5 000       13 040        -          -            -     240 840     -3 500      237 340
+ŠKD pri ZŠ Moskovská 1              122 316      7 900      130 216       8 053         700        8 753        -          -            -     130 369      8 600      138 969
+ŠKD pri ZŠ Jána A. Komenského 1     125 073          -      125 073      17 169       2 351       19 520        -          -            -     142 242      2 351      144 593
+ŠKD pri ZŠ Školská 2                 96 570          -       96 570       7 000       4 800       11 800        -          -            -     103 570      4 800      108 370
+ŠKD pri ZŠ Okružná 17               340 183          -      340 183      29 670           -       29 670        -          -            -     369 853          -      369 853
+ŠKD pri ZŠ Krymská 5                128 148     -2 515      125 633       9 090           -        9 090        -          -            -     137 238     -2 515      134 723
+ŠKD pri ZŠ Pavla Horova             262 247      3 000      265 247      22 898      -1 200       21 698        -          -            -     285 145      1 800      286 945
+ŠKD spolu                         1 588 635     12 885    1 601 520     134 913         651      135 564        -          -            -   1 723 548     13 536    1 737 084
+CVČ pri ZŠ T. J. Moussona             5 500          -        5 500      14 500         100       14 600        -          -            -      20 000        100       20 100
+CVČ pri ZŠ Jána Švermu 6              4 500          -        4 500      10 500           -       10 500        -          -            -      15 000          -       15 000
+CVČ pri ZŠ Moskovská 1                    -          -            -           -           -            -        -          -            -           -          -            -
+CVČ pri ZŠ Jána A. Komenského 1       2 200        300        2 500      10 200        -300        9 900        -          -            -      12 400          -       12 400
+CVČ pri ZŠ Školská 2                  2 800          -        2 800       9 100         300        9 400        -          -            -      11 900        300       12 200
+CVČ pri ZŠ Okružná 17                 5 000          -        5 000      18 000       3 500       21 500        -          -            -      23 000      3 500       26 500
+CVČ pri ZŠ Krymská 5                  1 600     -1 280          320       6 500         320        6 820        -          -            -       8 100       -960        7 140
+CVČ pri ZŠ Pavla Horova               4 200          -        4 200       2 400           -        2 400        -          -            -       6 600          -        6 600
+CVČ spolu                            25 800       -980       24 820      71 200       3 920       75 120        -          -            -      97 000      2 940       99 940
+CVČ pre iné obce                          -          -            -         800         397        1 197        -          -            -         800        397        1 197
+ZUŠ                               1 299 000          -    1 299 000     121 000           -      121 000        -          -            -   1 420 000          -    1 420 000
+ZŠ Moskovská 1 (odstupné)                 -          -            -           -      12 520       12 520        -          -            -           -     12 520       12 520
+
+
+
+
+                                                         Bežné výdavky - školstvo - originálne kompetencie
+                                                                                                                                                                                     v€
+                                                 Mzdy a poistné                 Tovary a služby + Projekt                 Potraviny ŠJ                     Spolu bežné výdavky
+                                        rozpočet   úprava     uprav. rozp. rozpočet     úprava     uprav. rozp. rozpočet   úprava      uprav. rozp. rozpočet     úprava    uprav. rozp.
+ŠJ pri MŠ Fraňa Kráľa 78                   61 985      1 745       63 730     26 489       -9 921        16 568    40 607       -701        39 906    129 081      -8 877      120 204
+ŠJ pri MŠ Školská 5                        66 413      2 656       69 069     24 626       -7 525        17 101    45 612     -6 326        39 286    136 651     -11 195      125 456
+ŠJ pri MŠ Jána A. Komenského 2             78 399     -5 039       73 360     16 858       -1 989        14 869    44 325     -5 687        38 638    139 582     -12 715      126 867
+ŠJ pri MŠ Masarykova 30                    54 991        344       55 335     11 166          156        11 322    28 556      1 377        29 933     94 713       1 877       96 590
+ŠJ pri MŠ Okružná 19                       74 623      2 192       76 815     20 570       -3 297        17 273    37 357     -3 702        33 655    132 550      -4 807      127 743
+ŠJ pri MŠ Leningradská 1                   60 573     -1 864       58 709     20 284       -5 536        14 748    43 969     -1 755        42 214    124 826      -9 155      115 671
+ŠJ pri MŠ Jána Švermu 8                    79 081       -243       78 838     16 803       -2 527        14 276    39 827     -3 188        36 639    135 711      -5 958      129 753
+ŠJ pri MŠ S. H. Vajanského 5               69 487      2 500       71 987     27 878        1 000        28 878    53 467           -       53 467    150 832       3 500      154 332
+ŠJ pri MŠ spolu                           545 552      2 291      547 843    164 674      -29 639       135 035   333 720    -19 982       313 738 1 043 946      -47 330      996 616
+ŠJ pri ZŠ T. J. Moussona spolu:          186 774            -     186 774      30 029      3 000       33 029      38 548       9 000       47 548    255 351      12 000      267 351
+z toho: primárne vzdel.                        -            -           -           -          -            -           -           -            -          -           -            -
+nižšie sekundár.vzdel.                   186 774            -     186 774      30 029      3 000       33 029      38 548       9 000       47 548    255 351      12 000      267 351
+ŠJ pri ZŠ Jána Švermu 6 spolu:           144 934            -     144 934      43 107    -14 090       29 017      36 830           -       36 830    224 871     -14 090      210 781
+z toho: primárne vzdel.                        -            -           -           -          -            -           -           -            -          -           -            -
+nižšie sekundár.vzdel.                   144 934            -     144 934      43 107    -14 090       29 017      36 830           -       36 830    224 871     -14 090      210 781
+ŠJ pri ZŠ Moskovská 1 spolu:             155 759            -     155 759      17 124      3 550       20 674      35 278           -       35 278    208 161       3 550      211 711
+z toho: primárne vzdel.                  155 759            -     155 759      17 124      3 550       20 674      35 278           -       35 278    208 161       3 550      211 711
+nižšie sekundár.vzdel.                         -            -           -           -          -            -           -           -            -          -           -            -
+ŠJ pri ZŠ Jána A. Komenského 1 spolu:      98 392      2 608      101 000      19 559      5 000       24 559      45 126           -       45 126    163 077       7 608      170 685
+z toho: primárne vzdel.                         -          -            -           -          -            -           -           -            -          -           -            -
+nižšie sekundár.vzdel.                     98 392      2 608      101 000      19 559      5 000       24 559      45 126           -       45 126    163 077       7 608      170 685
+ ŠJ pri ZŠ Školská 2 spolu:                88 390           -      88 390      32 161     16 000       48 161      46 803           -       46 803    167 354      16 000      183 354
+z toho: primárne vzdel.                         -           -           -           -          -            -           -           -            -          -           -            -
+nižšie sekundár.vzdel.                     88 390           -      88 390      32 161     16 000       48 161      46 803           -       46 803    167 354      16 000      183 354
+ŠJ pri ZŠ Okružná 17 spolu:              211 800       5 000      216 800      29 888      -5 000      24 888      85 562           -       85 562    327 250           -      327 250
+z toho: primárne vzdel.                        -           -            -           -           -           -           -           -            -          -           -            -
+nižšie sekundár.vzdel.                   211 800       5 000      216 800      29 888      -5 000      24 888      85 562           -       85 562    327 250           -      327 250
+ŠJ pri ZŠ Krymská 5 spolu:                 93 238           -      93 238      18 354      -2 251      16 103      26 586       2 900       29 486    138 178         649      138 827
+z toho: primárne vzdel.                         -           -           -           -           -           -           -           -            -          -           -            -
+nižšie sekundár.vzdel.                     93 238           -      93 238      18 354      -2 251      16 103      26 586       2 900       29 486    138 178         649      138 827
+ŠJ pri ZŠ Pavla Horova spolu:             152 748      5 000      157 748     51 326     -14 150       37 176      24 333       6 000       30 333     228 407     -3 150       225 257
+z toho: primárne vzdel.                         -          -            -          -           -            -           -           -            -           -          -             -
+nižšie sekundár.vzdel.                    152 748      5 000      157 748     51 326     -14 150       37 176      24 333       6 000       30 333     228 407     -3 150       225 257
+ŠJ pri ZŠ spolu                         1 132 035     12 608    1 144 643    241 548      -7 941      233 607     339 066      17 900      356 966   1 712 649     22 567     1 735 216
+z toho: Primárne vzdelávanie             155 759           -      155 759     17 124       3 550       20 674      35 278           -       35 278     208 161      3 550       211 711
+Nižšie sekundárne vzdelávanie            976 276      12 608      988 884    224 424     -11 491      212 933     372 788      17 900      321 688   1 504 488     19 017     1 523 505
+Stravovanie žiakov v HN                        -           -            -     11 000      -1 297        9 703           -           -            -      11 000     -1 297         9 703
+                                                                                                                              Úprava rozpočtu na rok 2026
+                                                                                                                    Bežné príjmy - školstvo - prenesené kompetencie
+                                                                                                                                                                                                                                                                  príloha č.9         v€
+                               Príjmy z podnikania 21.      Administrativ.poplatky 22.        Ostatné príjmy 29.        Bežné a zahraničné granty                                               Bežné transfery                                               Spolu bežné príjmy
+
+                                                   upr.                     upr.                     upr.                     upr.                                  ŠR                       Zriaďovateľ + NIVAM               iné                                 upravený
+                             rozpočet úprava              rozpočet úprava          rozpočet úprava          rozpočet úprava                                                                                                                   rozpočet   úprava
+                                                 rozpočet                 rozpočet                 rozpočet                 rozpočet                 rozpočet    úprava upr.rozp. rozpočet         úprava upr.rozp. rozpočet úprava upr.rozp.                      rozpočet
+Prenes. komp.                  57 020    6 500     63 520   204 350 12 880     217 230     32 298    6 247     38 545     3 800    1 180      4 980 18 100 819 1 379 901 19 480 720 263 985         -55 969 208 016   17 350 5 233    22 583 18 679 622 1 355 972 20 035 594
+ZŠ T. J. Moussona               8 000      500      8 500    11 600 3 000       14 600        107    3 500      3 607     3 500    1 280      4 780 2 059 967 178 437 2 238 404      22 770          -5 344  17 426    3 900 2 344      6 244 2 109 844   183 717 2 293 561
+ZŠ Jána Švermu 6                7 000        -      7 000     2 000      -       2 000          -        -          -       150     -150          - 1 789 235 146 896 1 936 131       3 500          -1 100   2 400    1 700       -    1 700 1 803 585   145 646 1 949 231
+ZŠ Moskovská 1                  8 920        -      8 920         - 4 200        4 200          -      700        700         -        -          - 2 166 367 216 730 2 383 097       3 689               -   3 689        -     789      789 2 178 976   222 419 2 401 395
+ZŠ Jána A. Komenského 1        15 000        -     15 000         -      -           -      3 707        -      3 707         -        -          - 1 045 164 115 042 1 160 206      51 486          -3 210  48 276    4 150     800    4 950 1 119 507   112 632 1 232 139
+ZŠ Školská 5                    3 500    1 700      5 200    14 000 8 300       22 300      5 800    1 800      7 600         -        -          - 1 205 873 126 383 1 332 256      65 260         -21 880  43 380        -     500      500 1 294 433   116 803 1 411 236
+ZŠ Okružná 19                   2 500        -      2 500       500      -         500      6 000        -      6 000       150        -        150 2 863 870 174 605 3 038 475       1 880               -   1 880    6 000       -    6 000 2 880 900   174 605 3 055 505
+ZŠ Krymská 5                    9 000    4 900     13 900     7 800 4 000       11 800      3 600        -      3 600         -        -          - 1 178 365 108 799 1 287 164         400               -     400      800     300    1 100 1 199 965   117 999 1 317 964
+ZŠ Pavla Horova                 3 100     -600      2 500         - 1 280        1 280      1 527      247      1 774         -        -          - 1 895 520 133 015 2 028 535      60 054         -22 458  37 596      800     500    1 300 1 961 001   111 984 2 072 985
+ZŠ spolu                       57 020    6 500     63 520    35 900 20 780      56 680     20 741    6 247     26 988     3 800    1 130      4 930 14 204 361 1 199 907 15 404 268 209 039         -53 992 155 047   17 350 5 233    22 583 14 548 211 1 185 805 15 734 016
+MŠ Mlynská 1                        -        -          -         -      -           -      2 022        -      2 022         -        -          -    150 409    21 338    171 747  29 520          -1 887  27 633        -       -        -   181 951    19 451    201 402
+MŠ Fraňa Kráľa 78                   -        -          -    23 750 -1 525      22 225          -        -          -         -        -          -    492 288    21 020    513 308       -               -        -       -       -        -   516 038    19 495    535 533
+MŠ Školská 5                        -        -          -    20 000 1 200       21 200      1 372        -      1 372         -        -          -    534 786    24 807    559 593       -               -        -       -       -        -   556 158    26 007    582 165
+MŠ Jána A. Komenského 2             -        -          -    19 000    700      19 700        608        -        608         -        -          -    509 434    45 907    555 341  25 426             -90  25 336        -       -        -   554 468    46 517    600 985
+MŠ Masarykova 30                    -        -          -    15 250   -775      14 475      1 296        -      1 296         -        -          -    312 392      1 141   313 533       -               -        -       -       -        -   328 938       366    329 304
+MŠ Okružná 19                       -        -          -    20 000   -950      19 050      2 089        -      2 089         -       50         50    439 075     -4 053   435 022       -               -        -       -       -        -   461 164    -4 953    456 211
+MŠ Leningradská 1                   -        -          -    23 750   -550      23 200      2 045        -      2 045         -        -          -    537 563    57 674    595 237       -               -        -       -       -        -   563 358    57 124    620 482
+MŠ Jána Švermu 8                    -        -          -    18 500 -1 400      17 100      2 118        -      2 118         -        -          -    412 301    13 370    425 671       -               -        -       -       -        -   432 919    11 970    444 889
+MŠ S. H. Vajanského 5               -        -          -    28 200 -4 600      23 600          7        -          7         -        -          -    508 210     -1 210   507 000       -               -        -       -       -        -   536 417    -5 810    530 607
+MŠ spolu                            -        -          -   168 450 -7 900     160 550     11 557        -     11 557         -       50         50 3 896 458 179 994 4 076 452      54 946          -1 977  52 969        -       -        - 4 131 411   170 167 4 301 578
+
+Rozdiel medzi príjmami a výdavkami je 342 296 EUR, z toho: 7 000 € sú nevyčerpané prostriedky na dopravné, 204 690 € sú nevyčerpané prostriedky na prevádzkový normatív - preddavok na rok 2026, 20 800 € sú nevyčerpané prostriedky na prevádzkový normatív z roku 2025, 7 537 € je
+regionálny príspevok MIRRI pre ZŠ Moskovská 1 a 101 722 € sú nevyčerpané prostriedky na výchovu a vzdelávanie pre MŠ. Tieto finančné prostriedky budú vyčerpané do 31.3.2026. Plán obnovy a odolnosti "Profesijný rozvoj" vo výške 6 315 € (z toho: 3 525 € - ZŠ a 2 790 € - MŠ) - tieto
+finančné prostriedky budú vrátené do ŠR na základe usmernenia RÚŠS KE a suma - 5 768 EUR sú to finančné prostriedky z NIVAM
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/35e5e1b3-ef50-4af8-bd1e-e6f0e6775561
+              Mesto Michalovce
+              Mestský úrad
+
+
+
+                  Na rokovanie Mestskej rady v Michalovciach
+                           dňa 30. novembra 2026
+                                     ___
+
+                                       K bodu:
+
+                      ROZPOČTOVÉ OPATRENIE Č.8
+
+PREDKLADÁ:               Ing. Oľga Bereznaninová
+                         vedúca finančného odboru
+
+NA ZÁKLADE:
+
+
+PREROKOVANÉ:             na porade primátora dňa 23.11.2026
+
+
+
+SPRACOVALA:              Ing. Oľga Bereznaninová
+                         vedúca finančného odboru
+
+
+
+NAPÍSALA:                Ing. Oľga Bereznaninová
+                         vedúca finančného odboru
+
+
+PRIZVAŤ:                 vedúcich odborov MsÚ
+
+
+
+NÁVRH NA UZNESENIE:      (v prílohe)
+
+
+
+
+                           Michalovce, november 2026
+    Zmenou rozpočtu rozpočtovým opatrením č. 8 dochádza k úprave bežného
+a kapitálového rozpočtu. Zmena je predložená v súlade so zákonom č. 583/2004 Z.z.
+o rozpočtových pravidlách územnej samosprávy v zn.n.p.
+    Bežné príjmy Mesta sa zvyšujú o 1 331 615 € (príloha č. 1), bežné výdavky sa zvyšujú
+o 1 406 837 € (príloha č. 2), kapitálové príjmy sa znižujú o 331 216 € (príloha č. 3) a
+kapitálové výdavky sa znižujú o 1 478 438 € (príloha č.4).
+   Rozdiel medzi príjmami a výdavkami bežného a kapitálového rozpočtu po úpravách
+predstavuje schodok 4 845 503 €, ktorý je krytý rozdielom finančných operácií. Príjmové
+finančné operácie sa znižujú o 1 072 000 €, výdavkové operácie sa nemenia.
+   Zmeny rozpočtu jednotlivých výdavkových položiek bežného a kapitálového rozpočtu sú
+premietnuté aj do zmeny v programovom rozpočte (príloha č. 15).
+
+Komentár k jednotlivým položkám rozpočtu, pri ktorých dochádza k zmene rozpočtovým
+opatrením č. 8:
+
+
+BEŽNÝ ROZPOČET
+
+BEŽNÉ PRÍJMY (príloha č.1)
+
+1. NEDAŇOVÉ PRÍJMY
+   Nedaňové príjmy sa zvyšujú celkom o 16 615 €.
+   Príjmy z prenájmu energetických zariadení sa zvyšujú o 4 000 €, vychádzajúc zo zvýšených
+odpisov po modernizácii týchto zariadení. Z dôvodu nenaplnenia príjmov za zriadenie
+vecných bremien sa tieto znižujú o 4 000 €.
+    Príjmy Michalovského domova seniorov (MDS) sa znižujú o 40 000 € z dôvodu
+nenaplnenia plánovaných príjmov od zdravotných poisťovní. K zníženiu príjmov dochádza
+v dôsledku úpravy limitov zdravotných poisťovní na počet lôžok v rámci ošetrovateľskej
+starostlivosti na jeden ošetrovateľský deň.
+   U originálnych kompetencií sa bežné príjmy zvyšujú celkom o 34 524 € (príloha č. 7)
+z toho:
+Administratívne poplatky +33 070 €, z toho:
+    • -195 € ŠKD pri ZŠ – na základe aktualizácie skutočnosti a plánovaného rozpočtu
+    • +2 940 € CVČ pri ZŠ – na základe aktualizácie skutočnosti a plánovaného rozpočtu
+    • +29 200 € ŠJ pri ZŠ – na základe aktualizácie skutočnosti a plánovaného rozpočtu
+    • +1 125 € ŠJ pri MŠ – na základe aktualizácie skutočnosti a plánovaného rozpočtu
+Potraviny -2 082 €, z toho:
+    • +17 900 € ŠJ pri ZŠ – na základe skutočnosti a plánovaného rozpočtu
+    • -19 982 € ŠJ pri MŠ – na základe skutočnosti a plánovaného rozpočtu
+Bežné transfery od zriaďovateľa +3 536 €, z toho:
+    • +13 731 € ŠKD pri ZŠ, na základe zvýšenia počtu pracovných úväzkov
+    • +6 658 € ŠJ pri ZŠ, na základe zvýšenia počtu pracovných úväzkov
+    • -28 473 € ŠJ pri MŠ, na základe skutočnosti a plánovaného rozpočtu
+    • -1 297 € Stravovanie v HN, na základe skutočnosti a plánovaného rozpočtu
+    • +397 € CVČ pre iné obce, na základe skutočnosti a plánovaného rozpočtu
+
+
+
+
+                                                                                         2
+   • +12 520 € ZŠ, Moskovská 1 – odstupné z dôvodu straty zdravotnej spôsobilosti pre
+     výkon práce
+
+3. GRANTY A TRANSFERY
+Výška poskytnutých grantov a transferov sa zvyšuje celkom o 1 315 000 €.
+Granty sa zvyšujú o 1 180 € takto:
+* pre základné školy zvýšenie o 1 130 € pre:
+                       ➢ +1 280 € ZŠ T. J. Moussona, z toho:
+                          o 1 100 €– Nadácia TV JOJ na podporu a rozvoj telesnej kultúry
+                              (nákup športového náčinia a pomôcok)
+                          o 180 € - Tesco, projekt „Šport je smiechom detskej duše“
+                              (vytvorenie oddychovo-relaxačnej zóny pre najmladších žiakov
+                              školy)
+                       ➢ -150 € ZŠ Jána Švermu 6 – nenaplnenie príjmu z plánovaného
+                          grantu
+ * pre materskú školu Ul. okružná zvýšenie o 50 €:
+                       ➢ +50 € projekt Dajme spolu gól
+
+Transfery sa zvyšujú celkom o 1 271 685 €.
+Na prenesené kompetencie v oblasti školstva sa bežné transfery zvyšujú o 1 379 901 (príloha
+č. 9), z toho:
+    • +1 199 907 € ZŠ – zvýšenie normatívnych finančných prostriedkov na základe rozpisu
+          normatívnych finančných prostriedkov Ministerstva školstva ako aj zvýšenie
+          nenormatívnych finančných prostriedkov (vzdelávacie poukazy, dopravné, príspevok
+          na sociálne znevýhodnené prostredie, odchodné, odstupné, rekreačné poukazy
+          a športová činnosť dieťaťa)
+    • +179 994 € MŠ – z toho:
+                         ➢ +6 767 € – osobný a prevádzkový normatív z dôvodu zverejnenia
+                             rozpisu finančných prostriedkov Ministerstvom školstva.
+                         ➢ +4 425 € – príspevok na sociálne znevýhodnené prostredie
+                         ➢ +16 000 € – príspevok na súčasti výchovno-vzdelávacieho procesu
+                         ➢ +1 565 € – príspevok na edukačné publikácie
+                         ➢ +49 215 € – doplatok k normatívu, z toho:
+                             o +4 351 € rekreačné poukazy
+                             o +44 864 € odstupné, z dôvodu uskutočnených odchodov do
+                                starobného dôchodku, po dovŕšení 65 rokov v danom
+                                školskom roku)
+                         ➢ +18 201 € – nenormatív (odchodné, z dôvodu uskutočnených
+                             odchodov do starobného dôchodku)
+                         ➢ +53 905 € – príspevok na pedagogických asistentov
+                         ➢ +29 916 € – príspevok na školský podporný tím
+
+Bežné transfery poskytnuté účelovo pre oblasť základných škôl sa zvyšujú o 5 233 € (príloha
+č. 9), z toho:
+                     ➢ + 2 344 € ZŠ T. J. Moussona – od KSK projekt „Vzdelávanie pre
+                         zajtrajšok“ na nákup lichobežníkových manipulovateľných lavíc
+
+
+
+
+                                                                                         3
+                        ➢ +789 € ZŠ Moskovská 1 – RÚŠS KE (na zabezpečenie súťaží
+                           v Pytagoriáda a Slávik)
+                        ➢ +800 € ZŠ Jána A. Komenského 1 – RÚŠS KE (na zabezpečenie
+                           súťaže v cezpoľnom behu)
+                        ➢ +500 € ZŠ Školská 2 – RÚŠS KE (na zabezpečenie súťaže
+                           v Biologická olympiáda)
+                        ➢ +300 € ZŠ Krymská 5 – RÚŠS KE (na zabezpečenie súťaže
+                           v Biologická a Fyzikálna olympiáda)
+                        ➢ +500 € ZŠ Pavla Horova – RÚŠS KE (na zabezpečenie súťaže vo
+                           vybíjanej)
+Z dôvodu ukončenia projektu NIVAM Projekt POP 3 v základných školách sa znižujú príjmy
+o 53 992 € (príloha č. 9).
+
+Upravujú sa príjmy pri jednotlivých projektoch financovaných z NFP takto:
+   • NFP opatrovateľská služba (ÚPSVaR) – zvýšenie o 77 400 € z dôvodu refundácie miezd
+   • NFP MOPS – zníženie o 41 410 € z dôvodu oneskorenia výzvy na pokračovanie
+      projektu a podpisu zmluvy o NFP, mzdy budú refundované v r. 2027
+   • NFP podpora administratívnych kapacít – zníženie o 81 870 € z dôvodu oneskorenia
+      podpisu zmluvy o NFP na technickú pomoc, refundácia prebehne v r. 2027
+   • NFP POP 3 MŠ – zníženie o 1 977 € na základe aktualizácie rozpočtu
+   • NFP revitalizácia lokality Hrádok – zníženie o 9 292 € na základe skutočného plnenia
+      príjmu z predfinancovania
+   • NFP integrácia štátnych príslušníkov 3. krajín – zníženie o 9 200 € nepreplatených
+      miezd pracovníkov integračného centra pre migrantov z dôvodu ich
+      práceneschopnosti
+   • NFP revitalizácia a rozšírenie gaštanového parku – zníženie o 1 228 € z dôvodu
+      refundácie paušálnych náhrad až v r. 2027
+   • NFP HU-SK G2W zelená vode (ZŠ) – zvýšenie príjmov o 50 255 € (8 120 €+42 135 €) od
+      zahraničného donora a zo štátneho rozpočtu na základe uhradených a schválených
+      reportov
+
+BEŽNÉ VÝDAVKY (príloha č. 2)
+
+01.1.1 Výkonné a zákonodárne orgány
+
+Odbor IaUMR
+V rámci projektu kybernetická bezpečnosť, financovaného z NFP, dochádza k potrebe
+vrátenia nezúčtovanej zálohovej platby vo výške 1 689 €.
+
+Odbor hospodárenia s majetkom
+V súlade s potrebou rozširovania sociálnych služieb na území mesta a zabezpečenia pomoci
+osobám bez prístrešia sa presúvajú finančné prostriedky vo výške 15 000 € zo sociálnej
+oblasti (príspevok pre neverejných poskytovateľov) na nevyhnutné opravy priestorov
+určených na zriadenie nocľahárne na Ul. staničnej. Cieľom pripravovaného zámeru je vytvoriť
+podmienky pre poskytovanie bezpečného a dôstojného krátkodobého ubytovania osobám
+nachádzajúcim sa v nepriaznivej sociálnej situácii, najmä počas zimného obdobia a v období
+nepriaznivých poveternostných podmienok. Zriadením nocľahárne sa prispeje k ochrane
+
+
+                                                                                         4
+zdravia a života osôb bez domova, k znižovaniu sociálneho vylúčenia a k posilneniu systému
+sociálnej pomoci na území mesta. Prevádzkovateľom nocľahárne bude organizácia Human
+Point Slovakia, ktorá bude zabezpečovať odbornú a prevádzkovú činnosť zariadenia.
+
+01.7.0 – transakcie verejného dlhu
+
+Finančný odbor a odbor hospodárenia s majetkom
+V rámci funkčnej klasifikácie dochádza k presunu finančných prostriedkov určených na
+splátku úrokov bankových a na lízingy vo výške 8 000 € na základe očakávaného vývoja
+výdavkov podľa jednotlivých programov.
+
+03.1.0 – Policajné služby
+
+Mestská polícia
+Výdavky v rámci projektu MOPS sa zvyšujú o 25 000 € z dôvodu prefinancovania výdavkov za
+obdobie máj-júl. Predošlý projekt bol ukončený v mesiaci apríl 2026, ďalšie pokračovanie
+projektu začalo 1.8.2026. Zároveň refundácia za posledné mesiace r. 2026 bude realizovaná
+až v r. 2027.
+
+05.1.0 – Nakladanie s odpadmi
+
+Odbor IaUMR
+Výdavky v rámci projektu AI4WasteRecognition sa zvyšujú o 275 € a predstavujú vrátku
+zálohovej platby hlavnému partnerovi – STU, na základe konečného zúčtovania projektu.
+
+06.2.0 – Rozvoj obcí
+
+Odbor IaUMR
+V rámci projektu hrádok I. etapa sa presúvajú finančné prostriedky vo výške 18 056 € do
+kapitálových výdavkov, ako vrátka nezúčtovanej zálohovej platby.
+
+
+08.1.0 – rekreačné a športové služby
+
+Odbor školstva
+Výdavky určené na súťaže o pohár primátora mesta sa zvyšujú celkom o 900 € a sú určené na
+nákup trofejí, putovných pohárov, medailí.
+
+09.1.1.1 – Predprimárne vzdelávanie s bežnou starostlivosťou
+
+Odbor sociálnych vecí
+Výdavky vo výške 1 000 € sa v rámci zariadenia starostlivosti o detí (detské jasle) presúvajú
+z materiálového vybavenia na služby z dôvodu zvýšených výdavkov na likvidáciu odpadov
+a zabezpečenia revízií.
+
+
+
+
+                                                                                           5
+10.1.2 – Invalidita a ťažké zdravotné postihnutie
+
+Odbor sociálnych vecí
+Finančné prostriedky určené na stravovanie pre ťažko zdravotne postihnutých sa presúvajú
+vo výške 12 000 € na stravovanie pre dôchodcov z dôvodu zvýšeného záujmu o túto službu.
+
+10.2.0 – Staroba
+
+Michalovský domov seniorov
+Z dôvodu zníženia príjmov MDS sa znižujú aj bežné výdavky o 40 000 €. K úspore dochádza
+na položkách mzdy, poistné a osobných príplatkoch v dôsledku čerpania dlhodobých PN
+a nečerpania odchodného (príloha č. 13).
+
+Opatrovateľská služba (príloha č. 14)
+Výdavky na opatrovateľskú službu sa zvyšujú celkom o 50 000 € z dôvodu potreby
+vyplatenia odchodného pri odchode do dôchodku a ukončení pracovného pomeru, ako aj
+zvýšení finančného príspevku pre prepravnú službu Mobilites n.o. na zabezpečenie sociálnej
+prepravnej služby. Uvedenú prepravnú službu využíva stále viac zdravotne znevýhodnených
+občanov mesta.
+
+0.5.6.0 – ochrana životného prostredia
+08.1.0 – rekreačné a športové služby
+08.2.0 – kultúrne služby
+08.4.0 – náboženské a iné spoločenské služby
+09.5.0 – vzdelávanie nedefinované podľa úrovne
+
+Organizačný odbor
+V rámci uvedených funkčných klasifikácií dochádza k presunu finančných prostriedkov
+určených na dotácie a to na základe ich skutočného rozdelenia do jednotlivých oblastí, podľa
+schválenia v komisiách. Celková výška dotácií je 28 038 €, čo je v súlade s pôvodne
+schváleným rozpočtom.
+
+09 VZDELÁVANIE
+
+Odbor školstva
+
+Originálne kompetencie (príloha č. 8)
+Bežné výdavky – zvýšenie celkom o 3 333 €, z toho:
+Mzdy a odvody +26 804 €, z toho:
+   • +12 885 € ŠKD pri ZŠ, na základe zmien v rozpočte bežných príjmov a plánovaných
+       potrieb
+   • -980 € CVČ pri ZŠ, na základe zmien v rozpočte bežných príjmov
+   • +2 291 € ŠJ pri MŠ, na základe skutočného čerpania rozpočtu
+   • +12 608 € ŠJ pri ZŠ, na základe zmien v rozpočte bežných príjmov
+
+
+
+
+                                                                                          6
+Tovary a služby -21 389 €, z toho:
+   • +651 € ŠKD pri ZŠ, na základe zmien v rozpočte bežných príjmov a plánovaných
+       potrieb
+   • +3 920 € CVČ pri ZŠ, na základe zmien v rozpočte bežných príjmov a plánovaných
+       potrieb
+   • +397 €, CVČ pre iné obce, na základe zmien v rozpočte bežných príjmov
+       a plánovaných potrieb
+   • +12 520 € ZŠ, Moskovská 1 – na základe zmien v rozpočte bežných príjmov
+   • -29 639 € ŠJ pri MŠ, na základe skutočného čerpania rozpočtu a plánovaných potrieb
+   • -7 941 € ŠJ pri ZŠ, na základe zmien v rozpočte bežných príjmov
+   • -1 297 € Stravovanie v HN, na základe zmien v rozpočte bežných príjmov
+Potraviny -2 082 €, z toho:
+   • -19 982 € ŠJ pri MŠ – na základe zmien v rozpočte bežných príjmov
+   • +17 900 € ŠJ pri ZŠ – na základe zmien v rozpočte bežných príjmov
+
+Prenesené kompetencie (príloha č. 10)
+Bežné výdavky – zvýšenie celkom o 1 355 972 €, z toho:
+Mzdy a odvody +948 661 €, z toho:
+   • +866 011 € ZŠ – použitie finančných prostriedkov na základe zmien v rozpočte
+       bežných príjmov
+   • +82 650 € MŠ – použitie finančných prostriedkov na základe zmien v rozpočte
+       bežných príjmov
+Tovary a služby +407 311 €, z toho:
+   • +319 794 € ZŠ – použitie finančných prostriedkov na základe zmien v rozpočte
+       bežných príjmov
+   • +87 517 € MŠ – použitie finančných prostriedkov na základe zmien v rozpočte
+       bežných príjmov
+
+Neštátne školské zariadenia
+Výdavky pre neštátne školské zariadenia sa zvyšujú celkom o 29 760 € z dôvodu zmeny
+hodnoty jednotkového koeficientu (prognóza september 2026). (príloha č. 12)
+
+
+KAPITÁLOVÝ ROZPOČET
+
+KAPITÁLOVÉ PRÍJMY (príloha č. 3)
+
+   Kapitálové príjmy z predaja strojov a zariadení sa znižujú o 8 400 € z dôvodu
+nezrealizovania predaja vyradeného majetku – motorových vozidiel TaZS (greder a čelný
+nakladač). Tento vyradený majetok bude opätovne ponúknutý na odpredaj.
+   Kapitálové príjmy - transfery z NFP sa celkovo znižujú o 322 816 €. Dochádza k zreálneniu
+príjmov na základe schválenia projektových zámerov a naviazaných žiadostí o NFP takto:
+    • NFP revitalizácia lokality Hrádok – zníženie o 149 344 € na základe skutočného
+       plnenia príjmov z predfinancovania projektu
+    • NFP kybernetická bezpečnosť – zvýšenie o 3 369 € na základe skutočne zaslanej
+       zálohovej platby
+
+
+
+                                                                                          7
+   • NFP zníženie energetickej náročnosti budov ZŠ P. Horova – zvýšenie o 350 433 € na
+     základe žiadaného predfinancovania vystavených faktúr za všetky zrealizované práce
+   • NFP revitalizácia a rozšírenie gaštanového parku – zníženie o 17 530 € z dôvodu
+     refundácie za PD v r. 2027
+   • NFP výstavba športovísk a obnova odb. učební ZŠ P. Horova Ul. kpt. Nálepku –
+     zníženie o 445 344 €. Príjmy sa presúvajú do r. 2027 nakoľko v r. 2026 nebude
+     preinvestovaných min. 20 % výdavkov a zhotoviteľ nemôže vystaviť faktúru v súlade
+     s platnou zmluvou
+   • NFP výstavba odborných učební ZŠ Ul. Švermova – zníženie o 64 400 €. Príjmy sa
+     presúvajú do r. 2027 v súlade so zmluvou o dielo
+
+KAPITÁLOVÉ VÝDAVKY (príloha č. 4)
+
+Kapitálové výdavky sa znižujú celkom o 1 478 438 €.
+  Zreálňujú sa výdavky na základe schválenia projektových zámerov a naviazaných žiadostí o
+NFP, ako aj ich realizácie a konečného zúčtovania.
+
+01.1.1 – Výkonné a zákonodárne orgány
+Kybernetická bezpečnosť - zvýšenie 3 370 € z dôvodu vrátenia nezúčtovanej zálohovej
+platby
+
+04.5.1 – Cestná doprava
+Stavebné úpravy Ul. prof. Hlaváča (dopr.zariadenia a upokojovanie dopravy) – zvýšenie
+20 000 € z dôvodu potreby stavebno-technického riešenia časti cesty a chodníka:
+    • v strednej časti komunikácie sa doplní vyvýšený stavebný spomaľovací pruh pre
+        motorové vozidlá na rýchlosť 20 km/ hod., čím sa zvýši bezpečnosť cestnej premávky
+        na celej lokalite prof. Hlaváča. Ide vlastne o prechod pre chodcov, ktorý je potrebné
+        osvetliť
+    • medzi cestou (miestnou komunikáciou) a chodníkom pri obchodných prevádzkach sa
+        odstránia staré vysoké betónové prvky a zrealizuje sa prechod z komunikácie na
+        chodník pomocou krytu zo zámkovej dlažby pre peších s pokračovaním po schodoch.
+        Schodisko je z bezpečnostného hľadiska vhodné doplniť osvetlením. Osvetlenie
+        chodníka na ulici prof. Hlaváča bude riešené piatimi osvetľovacími rúrkovými
+        stožiarmi;
+Súčasťou úprav na ulici Profesora Hlaváča je aj doplnenie trvalého dopravného značenia
+(maximálna dovolená rýchlosť, označenie parkovísk a priechodov pre chodcov a pod.).
+
+04.7.4 – Viacúčelové rozvojové projekty
+
+Zníženie energetickej náročnosti budov ZŠ P. Horova – zvýšenie o 270 505 € na základe
+zmluvy o dielo po zrealizovaní prác a ich prefinancovaní cez zvýšenú platbu z NFP
+
+
+06.2.0 – Rozvoj obcí
+
+Revitalizácia lokality Hrádok – celkové zníženie o 365 666 € na základe skutočného plnenia
+stavebných prác, autorského dozoru, vrátane vrátky nezúčtovanej zálohovej platby
+
+
+                                                                                           8
+Odkup Chemkostav aréna – zníženie o 936 211 € na základe skutočnej kúpnej ceny
+nehnuteľnosti odsúhlasenej MsZ
+
+09.5.0 – Vzdelanie nedefinované podľa úrovne
+
+Výstavba športovísk a obnova odb. učebne pri ZŠ kpt. Nálepku – zníženie o 450 000 €
+z dôvodu presunu výdavkov do roku 2027, nakoľko v r. 2026 nedôjde k preinvestovaniu 20 %
+výdavkov a zhotoviteľ nemôže práce fakturovať
+
+Výstavba odb. učebne ZŠ Ul. Švermova
+    • zníženie o 35 162 € z dôvodu presunu výdavkov na nákup nábytku do r. 2027 v súlade
+       so zmluvou o dielo
+    • zníženie o 16 043 € z dôvodu oprávnených výdavkov na základe platnej zmluvy
+       o dielo za stavebné úpravy učebne
+
+09.1.1.1 – Predprimárne vzdelávanie s bežnou starostlivosťou
+
+Výdavky na kuchynské zariadenia pre školské jedálne pri základných školách sa zvyšujú
+o 31 191 €. Zariadenia sú zastaralé a je nutná ich výmena pre zabezpečenie stravovania detí.
+Rozpis je uvedený v prílohe č. 11.
+
+PRÍJMOVÉ OPERÁCIE
+
+Príjmové finančné operácie sa znižujú celkom o 1 072 000 € a predstavujú zníženie úveru na
+kúpu nehnuteľnosti Chemkostav aréna o 936 000 €. Na kúpu tejto nehnuteľnosti mesto
+čerpalo úverové zdroje vo výške 2 664 000 €, nie v predpokladanej rozpočtovanej výške
+3 600 000 €. Zároveň sa znižujú príjmy z kontokorentného úveru o 136 000 € na základe
+skutočne očakávaných kapitálových príjmov pri projektoch financovaných z NFP, ktoré sú
+premietnuté v predloženej zmene rozpočtu. Kontokorentný úver kryje dočasný výpadok
+kapitálových príjmov z NFP, ktorý mesto nevie ovplyvniť. V prípade, že zo strany
+poskytovateľov NFP budú prijaté finančné prostriedky nad rámec rozpočtu, kontokorentný
+úver nebude použitý.
+
+
+
+
+                                                                                          9
+                   MESTSKÉ ZASTUPITEĽSTVO V MICHALOVCIACH
+
+
+
+                               Návrh na uznesenie
+
+
+zo dňa: 9. decembra 2026                                  číslo: ......................
+
+
+K bodu: Rozpočtové opatrenie č. 8
+
+
+Mestské zastupiteľstvo v Michalovciach
+
+
+schvaľuje
+
+zmenu rozpočtu Mesta Michalovce na r. 2026 rozpočtovým opatrením č. 8 takto:
+
+
+   1. bežné príjmy sa zvyšujú z 54 095 421 € na 55 427 036 €, zvýšenie o 1 331 615 €
+   2. bežné výdavky sa zvyšujú z 52 991 671 € na 54 398 508 €, zvýšenie o 1 406 837 €
+   3. kapitálové príjmy sa znižujú z 12 846 346 na 12 515 130 €, zníženie o 331 216 €
+   4. kapitálové výdavky sa znižujú z 19 867 599 € na 18 389 161 €, zníženie o 1 478 438 €
+   5. finančné operácie – príjmové sa znižujú z 8 218 845 € na 7 146 845, zníženie o 1 072
+      000 €
+   6. finančné operácie – výdavkové sa nemenia, ich výška je 2 301 342 €
+
+v štruktúre podľa príloh č. 1 - 15
+
+
+
+
+                                                                                          10
+                       MESTSKÁ RADA V MICHALOVCIACH
+
+
+
+                           Návrh na uznesenie
+
+
+zo dňa: 30. novembra 2026                                číslo: ......................
+
+
+K bodu: Rozpočtové opatrenie č. 8
+
+
+Mestská rada v Michalovciach
+
+
+odporúča
+
+predložiť zmenu rozpočtu Mesta Michalovce na rok 2026 rozpočtovým opatrením č. 8 na
+najbližšie rokovanie MsZ
+
+
+
+                                               T: v texte
+                                               Z: ved. finančného odboru
+
+
+
+
+                                                                                         11
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/f951653b-5cd0-4ed1-b665-2411ae7a235c
+                             Programový rozpočet RO č. 8 2026                                                         Príloha č. 15
+
+              Čísloa anázov
+              Kód      názov  programu,
+                            programu,    podprogramu
+                                      podprogramu       a prvku
+                                                  a prvku                              Rozpočet         Zmena         Rozpočet po zmene
+1.           Plánovanie, manažment a kontrola                                            675 249                 0              675 249
+     1.      Výkonný manažment mesta                                                               0             0                        0
+          1. Výkon funkcie primátora                                                               0                                    0
+             z toho: bežné výdavky                                                                                                      0
+                    kapitálové výdavky                                                                                                  0
+          2. Výkon funkcie prednostu                                                               0                                    0
+             z toho: bežné výdavky                                                                                                      0
+                    kapitálové výdavky                                                                                                  0
+     2.      Činnosť samosprávnych orgánov                                                 216 500               0                216 500
+             z toho: bežné výdavky                                                         216 500                                216 500
+                    kapitálové výdavky                                                                                                  0
+     3.      Plánovanie mesta                                                              417 599               0                417 599
+          1. Strategické plánovanie a projekty                                             406 099               0                406 099
+             z toho: bežné výdavky                                                         406 099                                406 099
+                    kapitálové výdavky                                                                                                  0
+          2. Územné plánovanie                                                                 11 500            0                 11 500
+             z toho: bežné výdavky                                                             11 500                              11 500
+                    kapitálové výdavky                                                                                                  0
+     4.      Kontrolná činnosť                                                                     0             0                        0
+             z toho: bežné výdavky                                                                                                        0
+                    kapitálové výdavky                                                                                                    0
+     5.      Finančná a rozpočtová politika                                                        0             0                        0
+             z toho: bežné výdavky                                                                                                         0
+                    kapitálové výdavky                                                                                                     0
+     6.      Audítorské, poradenské a ostatné poplatky                                         13 000            0                    13 000
+             z toho: bežné výdavky                                                             13 000                                 13 000
+                    kapitálové výdavky                                                                                                     0
+     7.      Členstvo v samosprávnych organizáciách a združeniach                              28 150            0                    28 150
+             z toho: bežné výdavky                                                             28 150                                 28 150
+                    kapitálové výdavky                                                                                                     0
+2.           Propagácia a marketing                                                       70 500                 0               70 500
+     1.      Propagácia a prezentácia mesta                                                    70 500            0                    70 500
+          1. Propagačné materiály mesta                                                        40 000                                 40 000
+             z toho: bežné výdavky                                                             40 000                                 40 000
+                    kapitálové výdavky                                                                                                     0
+          2. Jarmoky a trhy                                                                    30 500            0                    30 500
+             z toho: bežné výdavky                                                             30 500                                 30 500
+                    kapitálové výdavky                                                                                                     0
+     2.      Turistická informačná kancelária                                                      0
+             z toho: bežné výdavky                                                                                                        0
+                    kapitálové výdavky                                                                                                    0
+3.           Interné služby                                                            7 067 641         -921 211             6 146 430
+     1.      Majetok mesta                                                               3 434 916          15 000              3 449 916
+             z toho: bežné výdavky                                                       1 929 750          15 000              1 944 750
+                    kapitálové výdavky                                                   1 505 166                              1 505 166
+     2.      Vzdelávanie zamestnancov mestského úradu                                       11 800               0                 11 800
+             z toho: bežné výdavky                                                          11 800                                 11 800
+                    kapitálové výdavky                                                                                                  0
+     3.      Výkup pozemkov a stavieb                                                    3 620 925         -936 211             2 684 714
+             z toho: bežné výdavky                                                                                                      0
+                    kapitálové výdavky                                                   3 620 925         -936 211             2 684 714
+4.           Služby občanom                                                              949 460          -14 000               935 460
+     1.      Matrika                                                                       110 359               0                110 359
+
+
+
+
+                                                 príloha č. 15 - Programový rozpočet RO č. 8
+             z toho: bežné výdavky                                                        110 359                   110 359
+                    kapitálové výdavky                                                                                    0
+     2.      Evidenčné služby občanom                                                         11 782        0        11 782
+             z toho: bežné výdavky                                                            11 782                 11 782
+                    kapitálové výdavky                                                                                    0
+     3.      Zbor pre občianske záležitosti                                                    8 000        0         8 000
+             z toho: bežné výdavky                                                             8 000                  8 000
+                    kapitálové výdavky                                                                                    0
+     4.      Spoločný stavebný úrad - centrum zdieľaných služieb                          224 819           0       224 819
+             z toho: bežné výdavky                                                        213 819                   213 819
+                    kapitálové výdavky                                                     11 000                    11 000
+     5.      Služby občanom a podnikateľom                                                 45 000      -14 000       31 000
+             z toho: bežné výdavky                                                         45 000      -14 000       31 000
+                    kapitálové výdavky
+                    finančné operácie                                                                                     0
+     6.      Informačný systém mesta                                                      549 500           0       549 500
+          1. Miestne noviny Michalovčan                                                    29 000           0        29 000
+             z toho: bežné výdavky                                                         29 000                    29 000
+                    kapitálové výdavky                                                                                    0
+          2. Miestna TV                                                                   110 000           0       110 000
+             z toho: bežné výdavky                                                        110 000                   110 000
+                    kapitálové výdavky                                                                                    0
+          3. Komplexný informačný systém samosprávy                                       410 500           0       410 500
+             z toho: bežné výdavky                                                              0                         0
+                    kapitálové výdavky                                                    410 500                   410 500
+     7.      Transfery SOU, cestná doprava, CZS                                                 0           0             0
+             z toho: bežné výdavky                                                                                        0
+                    kapitálové výdavky                                                                                    0
+5.           Bezpečnosť                                                                 541 005        30 059     571 064
+     1.      Verejný poriadok a bezpečnosť                                                219 150       25 000      244 150
+          1. Hliadkovanie a obchôdzky                                                     161 000       25 000      186 000
+             z toho: bežné výdavky                                                        161 000       25 000      186 000
+                    kapitálové výdavky                                                                                    0
+          2. Kamerový systém                                                                   3 000        0         3 000
+             z toho: bežné výdavky                                                             3 000                  3 000
+                    kapitálové výdavky                                                             0                      0
+          3. Pult centralizovanej ochrany                                                          0        0             0
+             z toho: bežné výdavky                                                                                        0
+                    kapitálové výdavky                                                                                    0
+          4. Odchyt túlavých a odvoz uhynutých zvierat                                        55 150        0        55 150
+             z toho: bežné výdavky                                                            55 150                 55 150
+                    kapitálové výdavky                                                                                    0
+          5. Prevencia protispoločenskej činnosti                                                 0         0             0
+             z toho: bežné výdavky                                                                                        0
+                    kapitálové výdavky                                                                                    0
+     2.      Civilná ochrana                                                                      0         0             0
+             z toho: bežné výdavky                                                                                        0
+                    kapitálové výdavky                                                                                    0
+     3.      Požiarna ochrana                                                                     0         0             0
+             z toho: bežné výdavky                                                                                        0
+                    kapitálové výdavky                                                                                    0
+     4.      Kybernetická a informačná bezpečnosť                                         321 855        5 059      326 914
+             z toho: bežné výdavky                                                        144 272        1 689      145 961
+                    kapitálové výdavky                                                   177 583        3 370       180 953
+6.           Odpadové hospodárstvo                                                    7 066 500          175     7 066 675
+     1.      Zber a odvoz komunálneho odpadu                                            2 965 470           0     2 965 470
+             z toho: bežné výdavky                                                        883 987                   883 987
+                    kapitálové výdavky                                                  2 081 483                 2 081 483
+
+
+
+                                                príloha č. 15 - Programový rozpočet RO č. 8
+     2.      Prevádzka zberných dvorov                                                129 000           0       129 000
+             z toho: bežné výdavky                                                    129 000                   129 000
+                    kapitálové výdavky                                                                                0
+     3.      Uloženie odpadu                                                          475 200           0       475 200
+             z toho: bežné výdavky                                                    475 200                   475 200
+                    kapitálové výdavky                                                                                0
+     4.      Centrum pre zhodnocovanie BRKO                                           483 000         275       483 275
+             z toho: bežné výdavky                                                    483 000         275       483 275
+                    kapitálové výdavky                                                                                0
+     5.      Grantový systém v oblasti životného prostredia                                 300       -100          200
+             z toho: bežné výdavky                                                          300       -100          200
+                    kapitálové výdavky                                                                                0
+     6.      Výstavba Re-use centra                                                   500 000           0       500 000
+             z toho: bežné výdavky                                                                                    0
+                    kapitálové výdavky                                                500 000                   500 000
+     7.      Zber biologicky rozložiteľného kuchynského odpadu                        180 000           0       180 000
+             z toho: bežné výdavky                                                    180 000                   180 000
+                    kapitálové výdavky                                                                                0
+     8.      Vodozádržné opatrenia v areáloch ZŠ                                      630 905           0       630 905
+             z toho: bežné výdavky                                                    602 000                   602 000
+                    kapitálové výdavky                                                 28 905                    28 905
+     9.      Vodozádržné opatrenia v areáloch MŠ                                    1 689 625           0     1 689 625
+             z toho: bežné výdavky                                                    605 500                   605 500
+                    kapitálové výdavky                                              1 084 125                 1 084 125
+     10      Realizovaná výsadba v parkoch a verejných priestranstvách                 13 000           0        13 000
+             z toho: bežné výdavky                                                                                    0
+                    kapitálové výdavky                                                    13 000                 13 000
+7.           Komunikácie                                                          2 806 478        20 000    2 826 478
+     1.      Výstavba a rekonštrukcia komunikácií                                   1 960 978           0     1 960 978
+             z toho: bežné výdavky                                                                                    0
+                    kapitálové výdavky                                              1 180 978                 1 180 978
+                    finančné operácie                                                 780 000                   780 000
+     2.      Oprava komunikácií                                                       379 000           0       379 000
+             z toho: bežné výdavky                                                    379 000                   379 000
+                    kapitálové výdavky                                                                                0
+     3.      Údržba pozemných komunikácií                                             329 000           0       329 000
+          1. Zimná údržba                                                             157 000           0       157 000
+             z toho: bežné výdavky                                                    157 000                   157 000
+                    kapitálové výdavky                                                                                0
+          2. Letná údržba                                                             145 000           0       145 000
+             z toho: bežné výdavky                                                    145 000                   145 000
+                    kapitálové výdavky                                                                                0
+          3. Údržba dažďovej kanalizácie                                                  27 000        0        27 000
+             z toho: bežné výdavky                                                        27 000                 27 000
+                    kapitálové výdavky                                                                                0
+     4.      Dopravné značenie                                                        102 500       20 000      122 500
+             z toho: bežné výdavky                                                     47 000                    47 000
+                    kapitálové výdavky                                                 55 500       20 000       75 500
+     5.      Svetelná signalizácia                                                     35 000            0       35 000
+             z toho: bežné výdavky                                                     35 000                    35 000
+                    kapitálové výdavky                                                                                0
+8.           Doprava                                                              4 258 900             0    4 258 900
+     1.      MHD                                                                    3 935 500           0     3 935 500
+             z toho: bežné výdavky                                                    790 000                   790 000
+                    kapitálové výdavky                                              3 145 500                 3 145 500
+     2.      Správa a údržba zastávok MHD                                             323 400           0       323 400
+
+
+
+
+                                            príloha č. 15 - Programový rozpočet RO č. 8
+            z toho: bežné výdavky                                                      12 000                        12 000
+                   kapitálové výdavky                                                 311 400                       311 400
+9.          Vzdelávanie                                                          30 159 611        1 187 584    31 347 195
+      1.    Materské školy                                                          4 255 155         170 167     4 425 322
+            z toho: bežné výdavky                                                   4 230 155         170 167     4 400 322
+                   kapitálové výdavky                                                  25 000                        25 000
+      2.    Základné školy                                                         15 619 733       1 468 830    17 088 563
+            z toho: bežné výdavky                                                  14 791 763       1 198 325    15 990 088
+                   kapitálové výdavky                                                 827 970         270 505     1 098 475
+      3.    Školské jedálne                                                         4 734 964           6 428     4 741 392
+            z toho: bežné výdavky                                                   4 687 724         -24 763     4 662 961
+                   kapitálové výdavky                                                  47 240          31 191        78 431
+      4.    Školské kluby detí a centrá voľného času                                1 821 348          16 873     1 838 221
+            z toho: bežné výdavky                                                   1 821 348          16 873     1 838 221
+                   kapitálové výdavky                                                                                     0
+      5.    Základná umelecká škola                                                 1 420 000              0      1 420 000
+            z toho: bežné výdavky                                                   1 420 000                     1 420 000
+                   kapitálové výdavky                                                                                     0
+      6.    Neštátne školy a školské zariadenia                                     1 066 143          29 760     1 095 903
+            z toho: bežné výdavky                                                   1 066 143          29 760     1 095 903
+                   kapitálové výdavky                                                                                     0
+      7.    Školský úrad                                                                  64 626           0         64 626
+            z toho: bežné výdavky                                                         64 626                     64 626
+                   kapitálové výdavky                                                                                     0
+      8.    Sociálna výpomoc na vzdelanie                                                 23 901       -1 297        22 604
+            z toho: bežné výdavky                                                         23 901       -1 297        22 604
+                   kapitálové výdavky                                                                                     0
+      9.    Grantový systém v oblasti školstva                                             5 700       -1 550         4 150
+            z toho: bežné výdavky                                                          5 700       -1 550         4 150
+                   kapitálové výdavky                                                    

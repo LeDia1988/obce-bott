@@ -1,0 +1,211 @@
+URL: https://cuet.slovensko.sk/en/dokument/adb60084-5eb3-4c8b-a87d-899a4797a2a8
+OBEC: Spišská Belá (Kežmarok)
+NÁZOV: VZN č. X/2026 o niektorých podmienkach držania pso
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/adb60084-5eb3-4c8b-a87d-899a4797a2a8
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VZN č. X/2026 o niektorých podmienkach držania pso
+Search publisher's RSS feeds
+Published on official board:
+Mesto Spišská Belá (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Mesto Spišská Belá (OVM)
+Published to:
+25.12.2026
+Registry case:
+VZN č. X/2026 o niektorých podmienkach držania pso
+Name of official document:
+VZN č. X/2026 o niektorých podmienkach držania pso
+Document type:
+Iný elektronický dokument
+Document abstract:
+VZN č. X/2026 o niektorých podmienkach držania psov na území mesta Spišská Belá
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Úradná tabuľa orgánu verejnej moci
+Date of alternative publication start:
+25.11.2026
+Date of alternative publication end:
+25.12.2026
+Attachment name:
+VZN_XX_2026 o podmienkach džania psov_25112026.pdf
+Type and size:
+.pdf, 323.02 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/e1436fc5-68c7-4ecf-878e-cecb72230ad1
+                               Všeobecne záväzné nariadenie
+                                   Mesta Spišská Belá
+                                       číslo X/2026
+                                    zo dňa 10.12.2026
+
+        o niektorých podmienkach držania psov na území mesta Spišská Belá
+
+Mestské zastupiteľstvo v Spišskej Belej na základe § 6 ods. 1 zákona SNR č. 369/1990 Zb. o obecnom zriadení
+v znení neskorších predpisov a v zmysle zákona NR SR č. 282/2002 Z. z., ktorým sa určujú niektoré podmienky
+držania psov (ďalej len zákon č. 282/2002 Z. z.) sa uznieslo na tomto všeobecne záväznom nariadení (ďalej len
+„nariadenie“):
+                                                        §1
+                                              Úvodné ustanovenia
+
+Toto nariadenie upravuje na území mesta Spišská Belá:
+ a) výšku úhrady za náhradnú evidenčnú známku psa
+ b) vymedzenie miesta, kde je voľný pohyb psa zakázaný alebo kde je vstup so psom zakázaný.
+
+                                                  §2
+                                Úhrada za náhradnú evidenčnú známku psa
+
+V prípade potreby Mesto Spišská Belá vydá držiteľovi psa náhradnú evidenčnú známku psa za úhradu vo výške
+3,00 EUR.
+                                                      §3
+                                             Voľný pohyb psa
+
+Voľný pohyb psa (bez vôdzky) na verejnom priestranstve v meste Spišská Belá je zakázaný na nižšie uvedených
+častiach územia mesta:
+
+1. 1. mája                            12. Ladislava Novomeského            23. Slnečná
+2. Agátová                            13. Letná                            24. Slov. Nár. Povstania
+3. Družstevná                         14. Lipová                           25. Športová
+4. Gen. Ludvíka Svobodu               15. Mierová                          26. Štefánikova
+5. Greisigerova                       16. Moskovská                        27. Tatranská
+6. Hviezdoslavova                     17. Na píle                          28. Továrenská
+7. Južná                              18. Nová                             29. Vojtasova
+8. Kaltsteinova                       19. Okružná                          30. Weberova
+9. Kpt. Jána Nálepku                  20. Osloboditeľov                    31. Záhradná
+10. Krátka                            21. Partizánska                      32. Zimná
+11. Kúpeľná                           22. Petzvalova
+Časť Strážky:
+  1. Hraničná
+  2. Ladislava Medňanského
+  3. Margity Czobelovej
+  4. Nad kaštieľom
+  5. Popradská
+
+                                                    §4
+                                           Zákaz vstupu so psom
+
+    1. Vstup so psom je zakázaný:
+        a) do priestorov škôl a školských zariadení,
+        b) na detské ihriská a pieskoviská,
+        c) do priestorov úradných budov a zariadení, obchodov, divadiel, kina, výstavísk, múzeí, galérií
+           a iných športových a kultúrnych zariadení,
+        d) do priestorov športových zariadení a športovísk,
+        e) do budovy zdravotného strediska,
+        f) do reštaurácií, kaviarní, pohostinstiev, vinární a iných stravovacích a ubytovacích zariadení, ak sa
+           pre tento zákaz rozhodne prevádzkovateľ tohto zariadenia a vyznačí ho na viditeľnom mieste,
+        g) do iných priestorov budov a areálov, ktoré sú mestom určené a viditeľne označené zákazom vstupu
+           so psom.
+    2. Zákaz vstupu so psom sa nevzťahuje:
+        a) na psa používaného pri záchranných, lokalizačných a likvidačných prácach pri plnení úloh civilnej
+           ochrany podľa osobitného zákona,
+        b) na vodiaceho psa.
+
+                                                   §5
+                                          Záverečné ustanovenie
+
+    1. Týmto nariadením sa zrušuje všeobecne záväzné nariadenie mesta Spišská Belá č. 1/2025 o niektorých
+       podmienkach držania psov na území mesta Spišská Belá.
+    2. Toto nariadenie bolo schválené Mestským zastupiteľstvom v Spišskej Belej dňa 10.12.2026 uznesením
+       č. XX/2026.
+    3. Toto nariadenie nadobúda platnosť dňom jeho schválenia Mestským zastupiteľstvom v Spišskej Belej
+       a jeho vyvesením na úradnej tabuli mesta.
+    4. Toto nariadenie nadobúda účinnosť 1. januára 2027.
+
+
+
+
+                                                              ........................................................
+                                                                         Ing. Mgr. Peter Zibura
+                                                                              primátor mesta
+Doložky :
+
+Uvedený návrh tohto všeobecne záväzného nariadenia bol vyvesený na pripomienkovanie na úradnej
+tabuli mesta:
+
+
+dňa : 25.11.2026                 pečiatka                        podpis: .................................
+
+
+Uvedené všeobecne záväzné nariadenie bolo po jeho schválení mestským zastupiteľstvom vyvesené
+(publikované) na úradnej tabuli mesta :
+
+
+dňa :                           pečiatka                         podpis: .................................
+
+
+Uvedené všeobecne záväzné nariadenie bolo zvesené z úradnej tabule mesta :
+
+
+dňa :                           pečiatka                         podpis: ...................................
+                                       DÔVODOVÁ SPRÁVA
+   k návrhu všeobecne záväzného nariadenia mesta Spišská Belá č. X/2026 o niektorých podmienkach
+                             držania psov na území mesta Spišská Belá
+
+                                                I. Všeobecná časť
+Návrh všeobecne záväzného nariadenia mesta Spišská Belá č. X/2026 o niektorých podmienkach držania psov
+na území mesta Spišská Belá (ďalej len „návrh nariadenia“) vychádza z § 6 ods. 1 zákona SNR č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a zo zákona NR SR č. 282/2002 Z. z., ktorým sa určujú
+niektoré podmienky držania psov.
+Návrh nariadenia upravuje výšku úhrady za náhradnú evidenčnú známku psa a vymedzuje miesta, kde je voľný
+pohyb psa zakázaný alebo kde je vstup so psom zakázaný. Nahrádza všeobecne záväzné nariadenie mesta
+Spišská Belá č. 1/2025 o niektorých podmienkach držania psov na území mesta Spišská Belá (ďalej len „VZN č.
+1/2025“), ktoré sa podľa § 5 ods. 1 návrhu nariadenia zrušuje.
+
+                                      II. Zhrnutie zmien oproti VZN č. 1/2025
+        Ustanovenie / oblasť                        VZN č. 1/2025                    Návrh nariadenia č. X/2026
+Úhrada za náhradnú evidenčnú            5 EUR                                   3,00 EUR
+známku psa (§ 2)
+Zoznam ulíc so zákazom voľného          33 ulíc v jednom zozname, zapísaných    37 ulíc: 32 ulíc v hlavnom zozname a 5
+pohybu psa (§ 3)                        s označením „ulica“ (napr. „Krátka      ulíc v samostatnej časti Strážky; ulice
+                                        ulica“, „Ulica L. Medňanského“)         sú očíslované a uvedené bez slova
+                                                                                „ulica“, v abecednom poradí
+Nové ulice v zozname (§ 3)              –                                       Južná, Na píle, Okružná a Hraničná
+                                                                                (časť Strážky)
+Ulice presunuté do časti Strážky (§     Ulica L. Medňanského, Ulica M.          Ladislava Medňanského, Margity
+3)                                      Czobelovej, Ulica Nad kaštieľom,        Czobelovej, Nad kaštieľom a
+                                        Popradská ulica boli v spoločnom        Popradská sú v samostatnej časti
+                                        zozname                                 Strážky spolu s ulicou Hraničná
+Zákaz vstupu so psom (§ 4)              Zoznam priestorov a výnimiek            Bez vecnej zmeny
+Zrušovacie ustanovenie (§ 5 ods. 1)     Zrušuje sa VZN č. 5/2017                Zrušuje sa VZN č. 1/2025
+Schválenie (§ 5 ods. 2)                 Schválené 23.10.2025 uznesením č.       Schválenie 10.12.2026 uznesením č.
+                                        XX/2025                                 XX/2026
+Účinnosť                                Samostatný § 6 – účinnosť od 1.         Účinnosť od 1. januára 2027 je
+                                        januára 2026                            uvedená ako § 5 ods. 4; samostatný §
+                                                                                6 sa v návrhu nenachádza
+Označenie nariadenia                    č. 1/2025, zo dňa 23.10.2025            č. X/2026, zo dňa 10.12.2026
+
+                                                 III. Osobitná časť
+K § 2: Úhrada za vydanie náhradnej evidenčnej známky psa sa znižuje z 5,00 EUR na 3,00 EUR.
+K § 3: Zoznam verejných priestranstiev, na ktorých je voľný pohyb psa (bez vôdzky) zakázaný, sa dopĺňa o ulice
+Južná, Na píle, Okružná a Hraničná. Ulice Ladislava Medňanského, Margity Czobelovej, Nad kaštieľom
+a Popradská sa uvádzajú spolu s ulicou Hraničná v samostatnej časti Strážky. Celkový počet ulíc so zákazom sa
+zvyšuje z 33 na 37.
+K § 4: Ustanovenia o zákaze vstupu so psom a o výnimkách z tohto zákazu zostávajú bez vecnej zmeny.
+

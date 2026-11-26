@@ -1,0 +1,1481 @@
+URL: https://cuet.slovensko.sk/en/dokument/fba5b8a6-8720-4e74-a7fc-51f93973c5a0
+OBEC: Spišský Hrhov (Levoča)
+NÁZOV: Zadanie územnoplánovacej informácie
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/fba5b8a6-8720-4e74-a7fc-51f93973c5a0
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Zadanie územnoplánovacej informácie
+Search publisher's RSS feeds
+Published on official board:
+Obec Spišský Hrhov (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Spišský Hrhov (OVM)
+Published to:
+24.12.2026
+Registry case:
+Name of official document:
+Zadanie územnoplánovacej informácie
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Úradná tabuľa orgánu verejnej moci
+Date of alternative publication start:
+25.11.2026
+Date of alternative publication end:
+24.12.2026
+Attachment name:
+Spissky_Hrhov_Zadanie_UPN_O_na_zverejnenie.pdf
+Type and size:
+.pdf, 284.53 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Zadanie_UP_Spissky_Hrhov_podanie_6765.pdf
+Type and size:
+.pdf, 131.51 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/404ec37e-f579-45c7-bc75-0f1b566a1c23
+                                    ÚZEMNÝ PLÁN OBCE
+
+                              SPIŠSKÝ HRHOV
+
+                                     ZADANIE
+                              NÁVRH ZADANIA NA PREROKOVANIE
+Návrh zadania určený na zverejnenie a prerokovanie s verejnosťou a dotknutými subjektmi. Tento dokument
+                                       nie je schváleným zadaním.
+          spracované v súlade s § 5 ods. 4 vyhlášky Úradu pre územné plánovanie a výstavbu SR
+           č. 392/2023 Z. z. o obsahu a spôsobe spracovania územnoplánovacej dokumentácie
+
+
+                                            november 2026
+   Návrh zadania určený na prerokovanie prostredníctvom informačného systému územného plánovania
+
+
+
+
+                                                                             Návrh zadania na prerokovanie • 1
+ ZÁKLADNÉ ÚDAJE
+Účel dokumentu: návrh zadania ÚPN-O stanovuje hlavné ciele a požiadavky na riešenie územného rozvoja obce
+Spišský Hrhov. Je určený na prerokovanie v procese obstarávania územnoplánovacej dokumentácie. Konkrétne
+rozvojové podnety obce sa preveria pri spracovaní návrhu ÚPN-O. Dokument nie je schváleným zadaním.
+
+Dokumentácia:                                    Územný plán obce Spišský Hrhov
+Etapa:                                           Návrh zadania
+Určenie:                                         Prerokovanie návrhu zadania v informačnom systéme
+územného plánovania
+
+ IDENTIFIKAČNÉ ÚDAJE
+
+Obstarávateľ (orgán územného plánovania)
+Názov:                                           obec Spišský Hrhov
+Sídlo:                                           SNP 230/10, 053 02 Spišský Hrhov
+IČO:                                             00329592
+DIČ:                                             2020717853
+Starostka obce:                                  Mgr. Zuzana Kučerová
+
+Odborne spôsobilá osoba obstarávateľa
+Osoba odborne spôsobilá na obstarávanie územnoplánovacej dokumentácie podľa § 8 zákona č. 200/2022 Z.
+z., zapísaná v registri odborne spôsobilých osôb Úradu pre územné plánovanie a výstavbu SR:
+Meno a priezvisko:                               Ing. Martin Pukančík
+Registračné číslo OSO:                           494
+
+Spracovateľ pracovného návrhu zadania
+Meno:                                            Ing. Martin Pukančík
+Postavenie:                                      odborne spôsobilá osoba na obstarávanie ÚPD, reg. č. 494
+
+Spracovateľ územnoplánovacej dokumentácie
+Meno / obchodné meno:                            Ing. arch. Miroslav Šteiner – SODAA
+IČO:                                             50158007
+Miesto podnikania:                               Kollárova 2556/4, 052 01 Spišská Nová Ves
+
+
+
+
+                                                                                 Návrh zadania na prerokovanie • 2
+ OBSAH
+1.     Priemet územia obce
+2.     Dôvody obstarania územného plánu obce
+3.      Určenie hlavných cieľov a princípov územného rozvoja obce vyplývajúcich z Koncepcie územného
+rozvoja regiónu
+4.     Identifikácia hlavných problémov a stretov v území obce
+5.     Požiadavky na riešenie vyplývajúce z demografických, sociálnych, ekonomických a
+environmentálnych potrieb obce
+6.     Hlavné požiadavky na územie obce z hľadiska priestorového usporiadania územia a funkčného
+využívania územia
+7.     Požiadavky na ochranu kultúrneho dedičstva
+8.     Požiadavky na rozsah a obsah riešenia
+9.     Informácia o potrebe vypracovania variantného návrhu riešenia
+P.     Príloha č. 1 – Grafické vymedzenie riešeného územia
+
+
+
+
+                                                                            Návrh zadania na prerokovanie • 3
+ 1.         PRIEMET ÚZEMIA OBCE
+Riešeným územím Územného plánu obce Spišský Hrhov je celé administratívno-správne územie obce,
+vymedzené hranicou katastrálneho územia Spišský Hrhov. Obec sa nachádza v Prešovskom samosprávnom
+kraji, v okrese Levoča, v regióne Spiš. Leží v severnej časti Hornádskej kotliny na južnom úpätí Levočských
+vrchov, v údolí potoka Lodina, v nadmorskej výške cca 480 m n. m., približne 5 km východne od okresného
+mesta Levoča na ceste I/18 v smere na Spišské Podhradie.
+Z geomorfologického hľadiska patrí katastrálne územie do Fatransko-tatranskej oblasti Vnútorných
+Západných Karpát – väčšia časť leží v celku Hornádska kotlina (oddiely Medvedie chrbty a Podhradská
+kotlina), severná časť patrí do celku Levočské vrchy (podcelok Levočské planiny). Lesnatosť katastra je cca 31
+%.
+Katastrálne územie má podľa doterajších štatistických podkladov výmeru približne 1 221 ha. Pri spracovaní
+návrhu ÚPN-O sa použijú aktuálne geodetické a štatistické údaje vrátane referenčného dátumu počtu
+obyvateľov. Demografické bilancie budú vychádzať z oficiálnych údajov Štatistického úradu SR.
+Riešené územie je orientačne znázornené v grafickej prílohe P1 na mapovom podklade poskytnutom
+obstarávateľom. Presné vymedzenie územia v návrhu ÚPN-O bude spracované na príslušných úradných
+mapových a geodetických podkladoch.
+
+2. DÔVODY OBSTARANIA ÚZEMNÉHO PLÁNU OBCE
+Východiskom obstarania novej územnoplánovacej dokumentácie je správa o stave ÚPD obce a vyhodnotenie
+potreby aktualizácie územnoplánovacej koncepcie.
+Doterajší Územný plán obce Spišský Hrhov bol podľa správy o stave ÚPD schválený uznesením obecného
+zastupiteľstva č. 7 zo dňa 5. 11. 2007; jeho záväzná časť bola vyhlásená VZN č. 1/2007. Zmeny a doplnky č. 1
+boli schválené uznesením č. 37/2024 zo dňa 16. 8. 2024 a ich záväzná časť bola vyhlásená VZN č. 3/2024.
+Dôvodom obstarania nového ÚPN-O je potreba prehodnotenia aktuálnosti doterajšej územnoplánovacej
+koncepcie, zohľadnenia súčasných rozvojových potrieb obce a spracovania dokumentácie podľa účinného
+právneho rámca a digitálnych štandardov.
+Pri príprave návrhu ÚPN-O je potrebné vyhodnotiť mieru naplnenia doterajších rozvojových plôch, platné
+zmeny a doplnky, územné limity, aktuálne potreby obyvateľov a obcou potvrdené priority. Samotná správa o
+stave ÚPD neobsahuje podrobný zoznam rozvojových problémov; tieto tvrdenia preto treba samostatne
+podložiť.
+
+ 3.    URČENIE HLAVNÝCH CIEĽOV A PRINCÍPOV ÚZEMNÉHO ROZVOJA OBCE
+ VYPLÝVAJÚCICH Z KONCEPCIE ÚZEMNÉHO ROZVOJA REGIÓNU
+
+3.1 Nadradená územnoplánovacia dokumentácia
+Pri návrhu ÚPN-O sa bude vychádzať z účinnej záväznej časti Územného plánu Prešovského samosprávneho
+kraja. Rozpracované zmeny a doplnky č. 1 nadradenej dokumentácie budú sledované ako súvisiaci koncepčný
+podklad; ich prípadné schválenie sa zohľadní podľa stavu v čase spracovania ÚPN-O.
+Nadradenou územnoplánovacou dokumentáciou je Územný plán Prešovského samosprávneho kraja,
+schválený uznesením zastupiteľstva PSK č. 268/2019 z 26. 8. 2019; jeho záväzná časť bola vydaná VZN PSK č.
+77/2019 s účinnosťou od 6. 10. 2019. Pre návrh územného plánu obce sú rozhodujúce záväzné regulatívy a
+verejnoprospešné stavby v účinnom znení, ktoré sa vzťahujú na riešené územie.
+Pri návrhu územného plánu obce je potrebné rešpektovať príslušné zásady, regulatívy a verejnoprospešné
+stavby nadradenej dokumentácie. Na odborné riešenie sú významné najmä tieto tematické okruhy:
+      •   štruktúry osídlenia – podpora rozvoja komunikačno-sídelnej rozvojovej osi prvého stupňa Žilina –
+          Poprad – Prešov – Košice (koridor diaľnice D1 a cesty I/18), v ktorej zázemí obec leží, a väzieb obce
+          na centrum osídlenia Levoča,
+
+
+                                                                                   Návrh zadania na prerokovanie • 4
+   •   rozvoja vidieckeho priestoru – zachovanie špecifického rázu vidieckeho osídlenia Spiša, integrácia
+       funkčných vzťahov mesta a vidieka, dobrá dostupnosť vidieckych priestorov k sídelným centrám,
+   •   sociálnej infraštruktúry a bývania – rozvoj bývania vo všetkých formách a rozširovanie siete zariadení
+       sociálnych služieb,
+   •   rekreácie a cestovného ruchu – väzba na lokalitu svetového kultúrneho dedičstva UNESCO „Levoča,
+       Spišský hrad a pamiatky okolia“, rozvoj kultúrno-poznávacieho a vidieckeho turizmu, cyklodopravy a
+       Gotickej cesty,
+   •   ekológie a ochrany prírody – funkčnosť prvkov územného systému ekologickej stability, ochrana
+       mokradí, prírodných pamiatok a charakteristického vzhľadu krajiny,
+   •   ochrany pôdneho fondu – ochrana najkvalitnejšej poľnohospodárskej pôdy ako faktora
+       usmerňujúceho urbanistický rozvoj,
+   •   dopravnej infraštruktúry – ochrana koridorov diaľnice D1 a cesty I/18 medzinárodného významu (E
+       50),
+   •   technickej infraštruktúry – zvyšovanie podielu obyvateľov zásobovaných pitnou vodou z verejných
+       vodovodov a napojených na verejnú kanalizáciu s ČOV.
+
+3.2 Zhodnotenie významu obce v štruktúre osídlenia
+Celoštátne princípy rozvoja štruktúry osídlenia formuje Koncepcia územného rozvoja Slovenska v účinnom
+znení. Spišský Hrhov leží v bezprostrednom zázemí okresného mesta Levoča a jeho funkčné väzby smerujú
+najmä do Levoče, Spišského Podhradia a do širšieho regiónu prostredníctvom nadradenej dopravnej siete.
+Významným východiskom je doterajší rozvoj obce, skúsenosti s pozemkovou politikou a miestnymi formami
+podnikania vrátane aktivít Hrhovských služieb. Nová koncepcia má vytvárať podmienky na hospodársky,
+sociálne inkluzívny a environmentálne udržateľný rozvoj obce.
+
+3.3 Hlavné ciele riešenia
+Hlavnými cieľmi, ktoré majú byť predmetom riešenia nového územného plánu obce, sú predovšetkým:
+   •   stanovenie koncepcie priestorového usporiadania a funkčného využívania celého katastrálneho
+       územia obce s primeranou reguláciou intenzity využitia územia,
+   •   vymedzenie dostatočných a etapizovaných plôch pre rozvoj bývania zodpovedajúcich
+       demografickému rastu obce, s dôrazom na hospodárne využitie zastavaného územia (prieluky,
+       nadmerné záhrady) pred zábermi poľnohospodárskej pôdy,
+   •   vytvorenie priestorových predpokladov pre lokalizáciu aktivít zabezpečujúcich pracovné príležitosti
+       (obecné podnikanie, remeslá, drobná výroba, služby),
+   •   ochrana a rozvoj kultúrno-historických hodnôt obce – areálu kaštieľa s historickým parkom,
+       ranogotického kostola a pôvodnej urbanistickej štruktúry,
+   •   zabezpečenie adekvátnych podmienok pre občiansku vybavenosť, šport a rekreáciu obyvateľov v
+       zastavanom území aj v krajinnom zázemí,
+   •   riešenie dopravy – eliminácia negatívnych účinkov tranzitnej dopravy na ceste I/18, dobudovanie
+       miestnych komunikácií, peších ťahov a cyklotrás,
+   •   dobudovanie technickej infraštruktúry, najmä odkanalizovania a čistenia odpadových vôd, v súlade
+       so zákonnými požiadavkami,
+   •   vytvorenie územnotechnických predpokladov pre adaptáciu sídelného prostredia na zmenu klímy
+       (zadržiavanie dažďových vôd, sídelná a krajinná zeleň),
+   •   zohľadnenie požiadaviek ochrany prírody a tvorby krajiny vrátane ochrany najkvalitnejšej
+       poľnohospodárskej pôdy,
+
+
+                                                                                 Návrh zadania na prerokovanie • 5
+     •    vymedzenie plôch a koridorov pre stavby vo verejnom záujme a plôch zelenej infraštruktúry vo
+          verejnom záujme.
+4. IDENTIFIKÁCIA HLAVNÝCH PROBLÉMOV A STRETOV V ÚZEMÍ OBCE
+Nasledujúce okruhy sú predbežnými témami na odborné preverenie. Ich zaradenie neznamená, že všetky
+konflikty boli už preukázané. Spracovateľ pri každom okruhu uvedie zdroj, územný priemet, závažnosť a
+návrh ďalšieho riešenia; obec potvrdí priority.
+• Bývanie: preveriť kapacitu existujúcich rozvojových plôch, prieluk a potrebu nových lokalít v súvislosti s
+demografickým vývojom a ochranou pôdy.
+• Doprava: preveriť bezpečnosť, hlukové účinky a napojenia na ceste I/18, pešie a cyklistické väzby a
+relevantné ochranné pásma dopravných stavieb.
+• Technická infraštruktúra: overiť aktuálny stav a kapacity vodovodu, kanalizácie, ČOV a energetických sietí;
+identifikovať kapacitné obmedzenia rozvoja.
+• Krajina: overiť chránené územia, prvky ÚSES, vodný režim, ohrozenia a stret rozvojových zámerov s
+poľnohospodárskou a lesnou pôdou.
+• Kultúrne dedičstvo: identifikovať hodnoty kaštieľa, parku, historickej štruktúry a pohľadových väzieb, ktoré
+vyžadujú priestorové zohľadnenie.
+• Hospodárske funkcie: preveriť potenciál existujúcich a nevyužitých areálov a vhodnosť ich transformácie.
+V návrhu ÚPN-O sa požaduje priestorovo vyhodnotiť hlavné problémy a strety a navrhnúť spôsob ich riešenia.
+Podnety obce a dotknutých subjektov budú vyhodnotené v ďalšom stupni spracovania.
+
+  5.   POŽIADAVKY NA RIEŠENIE VYPLÝVAJÚCE Z DEMOGRAFICKÝCH, SOCIÁLNYCH,
+  EKONOMICKÝCH A ENVIRONMENTÁLNYCH POTRIEB OBCE
+
+5.1 Demografia
+Obec Spišský Hrhov zaznamenala v ostatných desaťročiach výrazný populačný rast. Doterajšie podklady
+uvádzajú pokles obyvateľstva medzi rokmi 1961 a 1991 a následný rast od deväťdesiatych rokov. Pre návrh
+ÚPN-O je potrebné vyhodnotiť aktuálny počet obyvateľov, vekovú štruktúru, migráciu a prognózu vývoja na
+základe oficiálnych štatistických údajov a reálnej kapacity územia.
+Vývoj počtu obyvateľov – orientačné historické údaje:
+
+   Rok            1869        1900          1940         1961         1980         1991          2001           2005
+Počet obyv.       746          752          814          1 049        967           836           963           1 279
+Poznámka: historické hodnoty uvedené v tabuľke sú orientačne prevzaté z doterajších územnoplánovacích
+podkladov; pre návrh ÚPN-O sa použije aktualizovaný štatistický časový rad.
+V územnom pláne obce bude spracovaná primeraná demografická prognóza pre návrhové obdobie,
+zohľadňujúca reálnu kapacitu rozvojových plôch. Z prognózy sa odvodia potreby bývania, občianskej
+vybavenosti a technickej infraštruktúry.
+
+5.2 Bývanie
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+     •    kvantifikovať predpokladané požiadavky na potrebu domov a bytov podľa prognózy vývoja
+          obyvateľstva, znižovania obložnosti bytov a odpadu bytového fondu,
+     •    rozvojové plochy bývania (prevažne IBV) vymedzovať prednostne v prielukách a nadmerných
+          záhradách zastavaného územia a v priamej nadväznosti naň, s etapizáciou výstavby,
+     •    nadviazať na založenú koncepciu rozvoja obytného územia v juhozápadnej časti obce a preveriť
+          ďalšie smery rozvoja s ohľadom na limity územia,
+
+
+                                                                                    Návrh zadania na prerokovanie • 6
+    •   vytvoriť územnotechnické podmienky pre výstavbu nájomných bytov a dostupného bývania pre
+        mladé rodiny a sociálne slabšie skupiny obyvateľstva,
+    •   riešiť zlepšovanie štandardu bývania marginalizovanej rómskej komunity integrovaným spôsobom, v
+        nadväznosti na doterajšie úspešné projekty obce,
+    •   umožniť v obytnom území umiestňovanie drobnej remeselnej výroby, služieb a krátkodobého
+        ubytovania bez negatívnych vplyvov na kvalitu bývania.
+
+5.3 Sociálna infraštruktúra a občianska vybavenosť
+V obci sa nachádza obecný úrad, základná škola s materskou školou, základná umelecká škola, reedukačné
+centrum, predajne potravín, pohostinské a stravovacie zariadenia a zariadenia služieb. Vyššia občianska
+vybavenosť (zdravotníctvo, stredné školstvo, sociálne služby) je viazaná na mesto Levoča.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+    •   preveriť kapacity základnej a materskej školy vo väzbe na demografický rast a vymedziť plochy pre
+        ich prípadné rozšírenie,
+    •   vytvoriť územnotechnické podmienky pre zariadenia sociálnych služieb (denný stacionár, zariadenie
+        pre seniorov, komunitné centrum),
+    •   vytvoriť predpoklady pre rozvoj zariadení kultúry, umenia a osvety a pre malé súkromné
+        zdravotnícke zariadenia,
+    •   podporiť polyfunkčné využitie centra obce s dôrazom na kvalitu verejných priestorov.
+
+5.4 Hospodárstvo a ekonomický rozvoj
+Ekonomickú základňu obce tvorí obecný sociálny podnik Hrhovské služby, s. r. o., r. s. p., poľnohospodárska
+výroba, drobní podnikatelia, remeselná a stavebná výroba a služby. Významná časť ekonomicky aktívneho
+obyvateľstva dochádza za prácou do Levoče a širšieho regiónu.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+    •   plochy výroby a skladov lokalizovať prednostne vo väzbe na existujúce hospodárske areály a mimo
+        pohľadovo exponovaných polôh; uprednostniť transformáciu nevyužívaných areálov (brownfield)
+        pred novými zábermi krajiny,
+    •   prehodnotiť funkčné využitie existujúcich a doteraz navrhovaných výrobných a hospodárskych plôch
+        s dôrazom na ochranu historického parku, krajinného obrazu a obytného prostredia,
+    •   rezervovať plochy pre ľahkú a nezávadnú výrobu a podnikateľské aktivity s minimálnymi negatívnymi
+        dosahmi na obytné prostredie,
+    •   podporiť ekologické, racionálne a udržateľné poľnohospodárstvo a lesníctvo vrátane agroturistiky a
+        nadväzujúcich doplnkových činností,
+    •   vytvoriť predpoklady pre rozvoj cestovného ruchu vo väzbe na kultúrne dedičstvo obce a blízkosť
+        lokalít UNESCO (Levoča, Spišský hrad).
+
+5.5 Rekreácia, šport a cestovný ruch
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+    •   intenzifikovať a dovybaviť športový areál obce a preveriť potrebu nových plôch športu vo väzbe na
+        rozvoj obytného územia,
+    •   vymedziť plochy dennej rekreácie obyvateľov a preveriť rekreačný potenciál krajinného zázemia obce
+        (Levočské vrchy) pri rešpektovaní záujmov ochrany prírody,
+    •   podporiť rozvoj cykloturistiky – navrhnúť cyklotrasy v súlade s koncepciami rozvoja cyklodopravy
+        Prešovského samosprávneho kraja a prepojenia na Levoču, Klčov a Spišské Podhradie,
+
+                                                                                Návrh zadania na prerokovanie • 7
+    •   podporiť služby vidieckeho cestovného ruchu (ubytovanie v súkromí, gastronómia, remeslá) a
+        prezentáciu kultúrneho dedičstva obce.
+
+5.6 Životné prostredie
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+    •   vyhodnotiť súčasný rozsah a kapacity verejnej kanalizácie a čistenia odpadových vôd a navrhnúť
+        potrebné dobudovanie infraštruktúry pre zastavané územie a rozvojové plochy,
+    •   navrhnúť opatrenia na zdržiavanie a vsakovanie dažďových vôd v území (vodozádržné opatrenia,
+        dažďové záhrady, retencia) tak, aby sa nezhoršovali odtokové pomery,
+    •   rešpektovať Stratégiu adaptácie SR na zmenu klímy v platnom znení a navrhnúť opatrenia adaptácie
+        sídelného prostredia na zmenu klímy,
+    •   znižovať emisnú záťaž z lokálneho vykurovania podporou plynofikácie, obnoviteľných zdrojov energie
+        a obnovy budov,
+    •   riešiť odpadové hospodárstvo v súlade s platným programom odpadového hospodárstva – preveriť
+        umiestnenie zberného dvora a kompostoviska, navrhnúť odstránenie prípadných nelegálnych
+        skládok,
+    •   zohľadniť radónové riziko a prípadné environmentálne záťaže zistené z príslušných verejných
+        registrov,
+    •   v obytnom území rešpektovať prípustné hodnoty hluku vo vonkajšom prostredí podľa vyhlášky MZ
+        SR č. 549/2007 Z. z., najmä vo väzbe na cestu I/18 a diaľnicu D1.
+
+
+ 6.    HLAVNÉ POŽIADAVKY NA ÚZEMIE OBCE Z HĽADISKA PRIESTOROVÉHO
+ USPORIADANIA ÚZEMIA A FUNKČNÉHO VYUŽÍVANIA ÚZEMIA
+
+6.1 Urbanistická koncepcia
+Pri spracovaní návrhu ÚPN-O sa požaduje:
+• Vyhodnotiť súčasnú urbanistickú štruktúru a rozlíšiť stabilizované, rozvojové a potenciálne transformačné
+územia.
+• Preveriť využitie prieluk, nadmerných záhrad a nevyužívaných areálov pred návrhom nových záberov pôdy.
+• Posúdiť väzby bývania, občianskej vybavenosti, hospodárskych funkcií, verejných priestorov a krajinného
+zázemia.
+• Identifikovať a primerane chrániť kompozičné osi, historické dominanty, panorámu, pohľadové väzby a
+hodnoty areálu kaštieľa a parku.
+• Posúdiť nové rozvojové lokality podľa demografických potrieb, dostupnosti dopravy a technickej
+infraštruktúry a environmentálnych limitov.
+• Formulovať zásady verejných priestorov, pešej dostupnosti, sídelnej zelene a adaptácie na zmenu klímy.
+• Zachovať a rozvíjať priechodnosť krajiny a funkčné väzby na vodné toky a ekologickú infraštruktúru.
+• Navrhnúť priestorovo-funkčné členenie a reguláciu podľa aktuálne účinnej metodiky; konkrétne intenzity a
+limity určiť až na základe podkladov.
+• Pri spracovaní návrhu ÚPN-O preveriť rozvojové zámery a podnety obce týkajúce sa najmä rozvoja bývania
+vrátane sociálneho bývania, občianskej vybavenosti, zariadení sociálnych služieb, športu a rekreácie,
+dopravnej a technickej infraštruktúry a verejných priestorov. Jednotlivé podnety vyhodnotiť z hľadiska ich
+súladu s celkovou urbanistickou koncepciou obce, priestorových a funkčných väzieb, dostupnosti dopravnej a
+technickej infraštruktúry, ochrany poľnohospodárskej pôdy a ostatných limitov využitia územia. Konkrétne
+vymedzenie rozvojových plôch a určenie ich funkčného využitia bude predmetom odborného riešenia návrhu
+územného plánu obce.
+
+
+                                                                                 Návrh zadania na prerokovanie • 8
+6.2 Doprava a dopravné vybavenie
+Nadradené dopravné väzby obce zabezpečuje najmä cesta I/18 a napojenie na diaľnicu D1 v širšom území.
+Dopravnú obsluhu dopĺňajú miestne a regionálne komunikácie. Návrh ÚPN-O vyhodnotí presné trasovanie,
+dopravné napojenia, ochranné pásma, pešie a cyklistické väzby a nároky verejnej dopravy.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+    •   rešpektovať existujúcu nadradenú dopravnú infraštruktúru (D1, I/18) vrátane ochranných pásiem a
+        koncepčných zámerov vyplývajúcich zo záväznej časti ÚPN PSK,
+    •   navrhnúť opatrenia na elimináciu negatívnych vplyvov tranzitnej dopravy na ceste I/18 na obytné
+        prostredie (organizácia dopravy, protihlukové opatrenia, bezpečné priechody),
+    •   preveriť a navrhnúť riešenie dopravných napojení rozvojových lokalít na cestu I/18 a sieť miestnych
+        ciest v súlade s platnými STN,
+    •   navrhnúť funkčné triedy a kategórie miestnych ciest, riešiť rekonštrukciu nevyhovujúcich úsekov v
+        historickej časti obce,
+    •   dobudovať sieť peších komunikácií vrátane bezbariérových úprav a chodníka pozdĺž cesty I/18,
+    •   navrhnúť cyklistické trasy a cyklodopravné prepojenia na Levoču a susedné obce v súlade s krajskou
+        cyklostratégiou,
+    •   riešiť statickú dopravu (parkovanie pri občianskej vybavenosti, kaštieli, cintoríne a športovom areáli)
+        a autobusové zastávky s pešou dostupnosťou,
+    •   rešpektovať požiadavky na dopravnú obsluhu územia hromadnou dopravou a jej integráciu v rámci
+        IDS PSK.
+
+6.3 Technické vybavenie
+
+Vodné hospodárstvo
+V obci je vybudovaný verejný vodovod a kanalizácia. Pre návrh ÚPN-O je potrebné vyhodnotiť ich územný
+rozsah, technický stav a kapacitu vo vzťahu k existujúcej zástavbe a navrhovanému rozvoju. Pri vodnom
+hospodárstve sa zohľadní sústava miestnych vodných tokov vrátane potoka Lodina.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+    •   zhodnotiť kapacitu vodných zdrojov a vodojemov vo väzbe na navrhovaný rozvoj a navrhnúť
+        koncepciu zásobovania pitnou a požiarnou vodou rozvojových území,
+    •   rešpektovať ochranné pásma vodárenských zdrojov a ochranné pásmo prírodných minerálnych vôd
+        II. stupňa,
+    •   navrhnúť dobudovanie splaškovej kanalizácie s čistením odpadových vôd pre celé zastavané územie
+        vrátane rozvojových plôch,
+    •   navrhnúť spôsob odvedenia a zdržania dažďových vôd s dôrazom na vsakovanie a retenciu v mieste
+        vzniku,
+    •   rešpektovať ochranné a manipulačné pásma vodných tokov, inundačné územia a požiadavky ochrany
+        pred povodňami v rozsahu určenom osobitnými predpismi a príslušnými správcami,
+    •   podporovať realizáciu protipovodňových a vodozádržných opatrení a revitalizáciu vodných tokov.
+
+Zásobovanie energiami
+Elektrická energia je dodávaná prostredníctvom distribučnej siete a transformačných staníc; obec je
+plynofikovaná. Návrh ÚPN-O vyhodnotí kapacitné potreby a podmienky rozšírenia sietí na základe podkladov
+príslušných prevádzkovateľov.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+                                                                                  Návrh zadania na prerokovanie • 9
+   •   zhodnotiť predpokladaný nárast potreby elektrickej energie a navrhnúť rozšírenie distribučnej siete
+       vrátane nových TS pre rozvojové lokality; nové NN rozvody navrhovať v kábelovom vyhotovení v
+       zemi,
+   •   rešpektovať ochranné a bezpečnostné pásma elektroenergetických a plynárenských zariadení podľa
+       zákona č. 251/2012 Z. z. o energetike,
+   •   navrhnúť plynofikáciu rozvojových lokalít a preveriť kapacitu regulačnej stanice,
+   •   podporovať využívanie obnoviteľných zdrojov energie a diverzifikovanú štruktúru zásobovania
+       teplom,
+   •   riešiť rozvoj elektronických komunikačných sietí vrátane optickej siete a modernizácie verejného
+       osvetlenia.
+
+Odpadové hospodárstvo
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+   •   vychádzať z platného programu odpadového hospodárstva; preveriť umiestnenie zberného dvora a
+       obecného kompostoviska,
+   •   vytvoriť predpoklady pre efektívne a udržateľné nakladanie s odpadom vrátane predchádzania
+       vzniku nelegálnych skládok.
+
+6.4 Ochrana prírody, tvorba krajiny a ÚSES
+V riešenom území sa nachádzajú krajinne a prírodne hodnotné lokality vrátane území označovaných v
+podkladoch ako Jazerec a Podhorské. Návrh ÚPN-O bude vychádzať z aktuálnej evidencie chránených území,
+území sústavy Natura 2000, významných biotopov a prvkov územného systému ekologickej stability. Ich
+hranice a podmienky ochrany budú premietnuté do územnoplánovacieho riešenia.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+   •   premietnuť a rešpektovať chránené územia prírody a ich ochranné pásma, biotopy európskeho a
+       národného významu a prvky ÚSES regionálnej úrovne v zmysle ÚPN PSK a RÚSES okresu Levoča,
+   •   vymedziť a doplniť prvky miestneho ÚSES vrátane ekostabilizačných opatrení v poľnohospodárskej
+       krajine (línie nelesnej drevinovej vegetácie, medze, brehové porasty),
+   •   chrániť mokraďné biotopy prírodných pamiatok Jazerec a Podhorské pred zmenami vodného režimu
+       a urbanizáciou,
+   •   zachovať historické krajinné štruktúry (medze) a charakteristický vzhľad podhorskej krajiny,
+   •   navrhnúť koncepciu sídelnej a krajinnej zelene vrátane ochrany a obnovy historického parku pri
+       kaštieli a verejnej zelene v obci,
+   •   minimalizovať pri územnom rozvoji zábery poľnohospodárskej a lesnej pôdy, rešpektovať sieť
+       vodných tokov.
+
+6.5 Ochrana poľnohospodárskej a lesnej pôdy
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+   •   rešpektovať poľnohospodársku pôdu, osobitne najkvalitnejšiu pôdu v príslušnom katastrálnom území
+       podľa aktuálnych podkladov BPEJ a platných predpisov, ako významný limit rozvoja obce,
+   •   navrhované zábery poľnohospodárskej pôdy vyhodnotiť podľa zákona č. 220/2004 Z. z. v platnom
+       znení, zdôvodniť ich rozsah a navrhovať tak, aby nedošlo k narušeniu ucelenosti honov a prístupu k
+       pozemkom,
+   •   zachovať podiel lesných pozemkov, podporovať ekologické a udržateľné lesné hospodárstvo
+       (lesnatosť katastra cca 31 %),
+
+                                                                                Návrh zadania na prerokovanie • 10
+      •   vytvoriť predpoklady pre elimináciu vodnej a veternej erózie poľnohospodárskej pôdy a pre
+          zadržiavanie vody v krajine.
+
+6.6 Záujmy obrany štátu, požiarnej ochrany, civilnej ochrany a ochrany pred povodňami
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+      •   záujmy civilnej ochrany obyvateľstva riešiť v súlade s platnými právnymi predpismi o civilnej ochrane
+          a požiadavkami na ukrytie obyvateľstva,
+      •   z hľadiska požiarnej ochrany navrhnúť komunikačný systém umožňujúci prístup požiarnej techniky
+          do všetkých častí obce a zabezpečiť zdroje požiarnej vody,
+      •   rešpektovať ustanovenia zákona č. 7/2010 Z. z. o ochrane pred povodňami, zaradiť stavby
+          protipovodňovej ochrany medzi stavby vo verejnom záujme,
+      •   zohľadniť požiadavky vyplývajúce zo záujmov obrany štátu podľa vyjadrení príslušných orgánov,
+
+6.7 Regulácia územia
+Regulácia priestorového usporiadania a funkčného využívania územia bude spracovaná v súlade s § 16
+vyhlášky č. 392/2023 Z. z. Celé riešené územie obce sa rozdelí bezo zvyšku na priestorovo-funkčné celky,
+prípadne priestorovo-funkčné časti, pre ktoré sa v záväznej časti spracujú regulačné listy obsahujúce najmä:
+      •   identifikáciu, vymedzenie a charakteristiku priestorovo-funkčného celku,
+      •   reguláciu funkčného využívania územia – základnú funkciu, prípustné a neprípustné funkcie,
+      •   základné regulatívy priestorového usporiadania (intenzita zastavania, podiel vegetačných plôch,
+          výška zástavby) a podľa potreby voliteľné regulatívy,
+      •   súpis plôch a koridorov pre stavby vo verejnom záujme a plôch zelenej infraštruktúry vo verejnom
+          záujme,
+      •   určenie území, pre ktoré bude potrebné obstarať územný plán zóny, prípadne osobitných území.
+
+ 7.         POŽIADAVKY NA OCHRANU KULTÚRNEHO DEDIČSTVA
+Obec Spišský Hrhov má významné kultúrno-historické hodnoty. Mimoriadny význam majú historický kostol,
+kaštieľ s parkom a ďalšie objekty a priestorové súvislosti historického sídla. Koncepcia územného rozvoja
+musí tieto hodnoty rešpektovať a podporovať ich prezentáciu.
+Pri ochrane kultúrneho dedičstva sa vychádza z nasledujúcich historicky a kultúrne významných objektov
+uvedených v doterajších podkladoch. Rozsah zákonnej pamiatkovej ochrany sa v návrhu ÚPN-O prevezme z
+aktuálnej evidencie pamiatkového fondu:
+
+  Objekt                                     Charakteristika                                     Téma ochrany /
+                                                                                                 posúdenia
+  Rímskokatolícky kostol sv. Šimona a Júdu   ranogotická sakrálna stavba z 13. storočia          Ochrana sakrálnej
+                                                                                                 dominanty a jej
+                                                                                                 prostredia
+  Kaštieľ s areálom (park)                   Historický kaštieľ s krajinárskym parkom            Ochrana areálu a
+                                                                                                 významných
+                                                                                                 pohľadových väzieb
+  Most cestný kamenný                        Historická mostná stavba                            Preskúmanie
+                                                                                                 historickej hodnoty a
+                                                                                                 podmienok ochrany
+  Hrob P. Varačka                            pomník                                              Preskúmanie významu
+                                                                                                 objektu a
+                                                                                                 priestorového kontextu
+
+
+
+
+                                                                                          Návrh zadania na prerokovanie • 11
+V návrhu ÚPN-O sa vyhodnotia evidované archeologické náleziská a územia s možným archeologickým
+potenciálom podľa podkladov príslušného pamiatkového orgánu.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+      •   rešpektovať národné kultúrne pamiatky zapísané v ÚZPF a zabezpečiť ochranu ich prostredia;
+          požiadavky na ochranu pamiatkového fondu riešiť v zmysle zákona č. 49/2002 Z. z. v platnom znení a
+          v súčinnosti s Krajským pamiatkovým úradom Prešov,
+      •   chrániť areál kaštieľa s historickým parkom ako celok vrátane pohľadových väzieb; v kontaktnom
+          území regulovať výšku a hmotu zástavby,
+      •   preveriť miestne kultúrno-historické hodnoty aj mimo evidovaných národných kultúrnych pamiatok
+          (pôvodná vidiecka zástavba, hospodárske objekty, drobná sakrálna architektúra) a podporiť ich
+          primeranú ochranu, prípadne súpis pamätihodností obce,
+      •   zabezpečiť ochranu archeologických nálezísk a ustanoviť podmienky ochrany nepredvídaných
+          archeologických nálezov,
+      •   koncepciu rozvoja obce koordinovať s hodnotami lokality svetového dedičstva UNESCO „Levoča,
+          Spišský hrad a pamiatky okolia“ v širšom zázemí obce,
+      •   podporovať prezentáciu kultúrneho dedičstva a tradičných remesiel ako súčasti identity obce a
+          rozvoja cestovného ruchu.
+
+ 8.         POŽIADAVKY NA ROZSAH A OBSAH RIEŠENIA
+Územný plán obce Spišský Hrhov bude spracovaný v podrobnosti a členení podľa § 12 a § 13 vyhlášky Úradu
+pre územné plánovanie a výstavbu SR č. 392/2023 Z. z. o obsahu a spôsobe spracovania územnoplánovacej
+dokumentácie a v súlade s vyhláškou č. 153/2024 Z. z. o štandardoch a metodike spracovania
+územnoplánovacej dokumentácie a územnoplánovacích podkladov. Dokumentácia bude spracovaná v
+elektronickej podobe kompatibilnej s informačným systémom územného plánovania a výstavby.
+
+8.1 Informatívna časť
+Textová časť informatívnej časti bude obsahovať najmä: základné údaje; širšie vzťahy; vyhodnotenie
+doterajšej územnoplánovacej dokumentácie obce; vyhodnotenie vplyvu demografických, sociálnych,
+environmentálnych a ekonomických vývojových tendencií na územný rozvoj obce; vyhodnotenie urbanistickej
+štruktúry, krajinnej štruktúry a limitov územia obce; priemet území krajinnej infraštruktúry a území ochrany
+prírody a krajiny miestneho významu; návrh plôch a koridorov pre umiestnenie stavieb vo verejnom záujme a
+plôch zelenej infraštruktúry vo verejnom záujme; urbanistickú koncepciu rozvoja obce, priemet zastavaného
+územia a členenie na priestorovo-funkčné celky a časti; zdôvodnenie a opis regulácie a spôsob výpočtu
+limitov; vymedzenie plôch určených na odňatie poľnohospodárskej pôdy a lesných pozemkov; zásady a
+podmienky vyplývajúce z osobitných predpisov.
+Grafická časť informatívnej časti bude spracovaná na podklade mapového diela v záväznom geodetickom
+referenčnom systéme v mierkach 1: 10 000 a 1: 5 000 a bude obsahovať grafické znázornenia: širších vzťahov
+a vymedzenia riešeného územia; urbanistickej štruktúry, krajinnej štruktúry a limitov územia; urbanistickej
+koncepcie rozvoja obce s vymedzením zastavaného územia a členením na priestorovo-funkčné celky a časti;
+priemetu území krajinnej infraštruktúry a ochrany prírody a krajiny miestneho významu; návrhu plôch a
+koridorov pre stavby vo verejnom záujme a plôch zelenej infraštruktúry vo verejnom záujme; iných územných
+limitov vrátane ochranných a bezpečnostných pásiem; plôch určených na odňatie poľnohospodárskej pôdy a
+lesných pozemkov.
+
+8.2 Záväzná časť
+
+
+
+                                                                                Návrh zadania na prerokovanie • 12
+Záväzná časť bude spracovaná ako samostatný dokument. Textovú časť budú tvoriť regulačné listy
+priestorovo-funkčných celkov s regulačnými podmienkami podľa § 13 vyhlášky č. 392/2023 Z. z. Grafickú časť
+bude tvoriť regulačný výkres v mierke 1: 5 000 (prípadne 1: 10 000), vyjadrujúci priestorovú a funkčnú
+reguláciu územia vrátane priemetu plôch a koridorov pre stavby vo verejnom záujme, plôch zelenej
+infraštruktúry vo verejnom záujme, osobitných území a území, pre ktoré je potrebné obstarať územný plán
+zóny.
+Množstvo a druh voliteľných regulatívov priestorového usporiadania a funkčného využívania územia budú
+upresnené v návrhu územného plánu na základe urbanistického riešenia.
+
+8.3 Postup obstarania a prerokovania
+Návrh územného plánu obce bude spracovaný na základe prerokovaného a schváleného zadania postupom
+podľa účinných predpisov o územnom plánovaní. Pri spracovaní návrhu budú zvažované relevantné
+alternatívy jednotlivých rozvojových zámerov a požiadavky vyplývajúce z procesu posudzovania vplyvov na
+životné prostredie. Spracovanie, prerokovanie a schvaľovanie ÚPD sa uskutoční spôsobom ustanoveným
+príslušnými právnymi predpismi.
+
+
+ 9.       INFORMÁCIA O POTREBE VYPRACOVANIA VARIANTNÉHO NÁVRHU RIEŠENIA
+Vypracovanie samostatného variantného návrhu riešenia Územného plánu obce Spišský Hrhov sa v tejto
+etape nepožaduje. Pri spracovaní návrhu sa však preveria primerané alternatívy rozvojových zámerov a
+spôsobov ich územného usporiadania podľa identifikovaných problémov, limitov a výsledkov odborných
+konzultácií. Požiadavky vyplývajúce z procesu posudzovania vplyvov strategického dokumentu na životné
+prostredie sa zohľadnia v ďalšom postupe.
+
+
+
+
+                                                                              Návrh zadania na prerokovanie • 13
+ P.       PRÍLOHA Č. 1 – GRAFICKÉ VYMEDZENIE RIEŠENÉHO ÚZEMIA
+
+
+
+
+Príloha P1. Orientačné grafické vymedzenie riešeného územia na mapovom podklade poskytnutom
+obstarávateľom. Modrou líniou je vyznačená hranica podľa poskytnutého podkladu. Mapová príloha slúži na
+orientáciu pri prerokovaní návrhu zadania; presné vymedzenie bude pri spracovaní návrhu ÚPN-O vychádzať
+z príslušných úradných geodetických a katastrálnych podkladov.
+
+
+
+
+                                                                            Návrh zadania na prerokovanie • 14
+Návrh zadania na prerokovanie • 15
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/dbbc38cc-45f1-43cf-af8a-25d2030a37ac
+Zadanie územnoplánovacej dokumentácie
+Podľa § 17 zákona č. 200/2022 Z. z. o územnom plánovaní v znení neskorších
+predpisov. Podkladom na spracovanie zadania je správa o stave územnoplánovacej
+dokumentácie. Zadanie je súčasťou oznámenia o začatí obstarávania
+územnoplánovacej dokumentácie.
+Názov územnoplánovacej dokumentácie
+Územný plán obce Spišský Hrhov
+
+
+
+
+                                  Strana 1 / 22
+Územnoplánovacia dokumentácia
+  Nová územnoplánovacia dokumentácia
+  Zmeny a doplnky územnoplánovacej dokumentácie
+
+
+
+Územnoplánovacia dokumentácia
+  Koncepcia územného rozvoja Slovenska
+  Koncepcia územného rozvoja regiónu
+  Územný plán mikroregiónu
+  Územný plán obce
+  Územný plán zóny
+
+Samosprávny kraj
+Prešovský
+Okres
+Levoča
+Obec
+Spišský Hrhov
+Ulica
+SNP
+Orientačné číslo
+10
+Súpisné číslo
+230
+Poštové smerovacie číslo
+05302
+
+
+
+Orgán územného plánovania
+Názov organizácie
+Obec Spišský Hrhov
+
+IČO
+329592
+Štatutárny orgán
+Starosta
+
+
+
+
+                               Strana 2 / 22
+Meno
+Zuzana
+Priezvisko
+Kučerová
+
+Odborne spôsobilá osoba
+Ing. Martin Pukančík (494)
+
+
+Dorucit/Zverejnit zadanie
+  Doručiť do elektronických stránok
+  Zverejniť zadanie územnoplánovacej dokumentácie
+Orgán územného plánovania zašle zadanie územnoplánovacej dokumentácie
+na prerokovanie.
+
+Orgány verejnej moci
+Prešovský samosprávny kraj (37870475, ico://sk/37870475)
+Úrad pre územné plánovanie a výstavbu Slovenskej republiky (54669464, ico://
+sk/54669464)
+Ministerstvo životného prostredia Slovenskej republiky (42181810, ico://
+sk/42181810)
+Ministerstvo dopravy Slovenskej republiky (30416094, ico://sk/30416094)
+Ministerstvo obrany Slovenskej republiky (30845572, ico://sk/30845572)
+Okresný úrad Prešov (00151866, ico://sk/00151866_10122)
+Okresný úrad Levoča (00151866, ico://sk/00151866_10191)
+Regionálny úrad verejného zdravotníctva so sídlom v Poprade (00611051, ico://
+sk/00611051)
+Krajský pamiatkový úrad Prešov, pracovisko Levoča (31755194, ico://
+sk/31755194_10193)
+Krajské riaditeľstvo Hasičského a záchranného zboru v Prešove (00151866, ico://
+sk/00151866_12027)
+Obvodný banský úrad v Košiciach (31780270, ico://sk/31780270_10003)
+Mesto Levoča (OVM) (00329321, ico://sk/00329321)
+Obec Doľany, okres Levoča (OVM) (00329029, ico://sk/00329029)
+Obec Klčov (00329240, ico://sk/00329240)
+Obec Domaňovce (00329037, ico://sk/00329037)
+Obec Uloža (00329720, ico://sk/00329720)
+Obec Danišovce (00689556, ico://sk/00689556)
+Dopravný úrad (42355826, ico://sk/42355826)
+
+
+
+
+                                   Strana 3 / 22
+Dotknuté právnické osoby
+      Názov organizácie
+Národná diaľničná                     IČO
+spoločnosť, a.s.           35919001
+Slovenská správa ciest     003328
+Východoslovenská
+distribučná, a.s.          36599361
+SPP - distribúcia, a.s.    35910739
+Východoslovenská
+vodárenská spoločnosť,
+a.s.                       36570460
+SLOVENSKÝ
+VODOHOSPODÁRSKY
+PODNIK, štátny podnik      36022047
+Správa a údržba
+ciest Prešovského
+samosprávneho kraja        37936859
+Štátna ochrana prírody
+Slovenskej republiky       17058520
+Slovak Telekom, a.s.       35763469
+Orange Slovensko, a.s.     35697270
+O2 Slovakia, s.r.o.        47259116
+SWAN, a.s.                 35680202
+Hydromeliorácie, štátny
+podnik                     35860839
+Slovenská elektrizačná
+prenosová sústava, a.s.    35829141
+Archeologický ústav
+Slovenskej akadémie vied   00166723
+
+
+
+
+                                 Strana 4 / 22
+Zadanie Územného plánu obce obsahuje
+Dôvody obstarania územného plánu obce
+V súlade so zákonom č. 200/2022 Z. z. o územnom plánovaní v znení neskorších
+predpisov a § 5 vyhlášky Úradu pre územné plánovanie a výstavbu Slovenskej republiky
+č. 392/2023 Z. z. o obsahu a spôsobe spracovania územnoplánovacej dokumentácie
+a o územnoplánovacích podkladoch a všeobecných požiadavkách na priestorové
+usporiadanie územia a funkčné využívanie územia.
+
+1. PRIEMET ÚZEMIA OBCE Riešeným územím Územného plánu obce Spišský
+Hrhov je celé administratívno-správne územie obce, vymedzené hranicou
+katastrálneho územia Spišský Hrhov. Obec sa nachádza v Prešovskom
+samosprávnom kraji, v okrese Levoča, v regióne Spiš. Leží v severnej časti
+Hornádskej kotliny na južnom úpätí Levočských vrchov, v údolí potoka Lodina,
+v nadmorskej výške cca 480 m n. m., približne 5 km východne od okresného mesta
+Levoča na ceste I/18 v smere na Spišské Podhradie. Z geomorfologického hľadiska
+patrí katastrálne územie do Fatransko-tatranskej oblasti Vnútorných Západných
+Karpát – väčšia časť leží v celku Hornádska kotlina (oddiely Medvedie chrbty
+a Podhradská kotlina), severná časť patrí do celku Levočské vrchy (podcelok
+Levočské planiny). Lesnatosť katastra je cca 31 %. Katastrálne územie má podľa
+doterajších štatistických podkladov výmeru približne 1 221 ha. Pri spracovaní návrhu
+ÚPN-O sa použijú aktuálne geodetické a štatistické údaje vrátane referenčného
+dátumu počtu obyvateľov. Demografické bilancie budú vychádzať z oficiálnych
+údajov Štatistického úradu SR. Riešené územie je orientačne znázornené v grafickej
+prílohe P1 na mapovom podklade poskytnutom obstarávateľom. Presné vymedzenie
+územia v návrhu ÚPN-O bude spracované na príslušných úradných mapových
+a geodetických podkladoch. 2. DÔVODY OBSTARANIA ÚZEMNÉHO PLÁNU OBCE
+Východiskom obstarania novej územnoplánovacej dokumentácie je správa o stave
+ÚPD obce a vyhodnotenie potreby aktualizácie územnoplánovacej koncepcie.
+Doterajší Územný plán obce Spišský Hrhov bol podľa správy o stave ÚPD schválený
+uznesením obecného zastupiteľstva č. 7 zo dňa 5. 11. 2007; jeho záväzná časť
+bola vyhlásená VZN č. 1/2007. Zmeny a doplnky č. 1 boli schválené uznesením
+č. 37/2024 zo dňa 16. 8. 2024 a ich záväzná časť bola vyhlásená VZN č. 3/2024.
+Dôvodom obstarania nového ÚPN-O je potreba prehodnotenia aktuálnosti doterajšej
+územnoplánovacej koncepcie, zohľadnenia súčasných rozvojových potrieb obce
+a spracovania dokumentácie podľa účinného právneho rámca a digitálnych
+štandardov. Pri príprave návrhu ÚPN-O je potrebné vyhodnotiť mieru naplnenia
+doterajších rozvojových plôch, platné zmeny a doplnky, územné limity, aktuálne
+potreby obyvateľov a obcou potvrdené priority. Samotná správa o stave ÚPD
+neobsahuje podrobný zoznam rozvojových problémov; tieto tvrdenia preto treba
+samostatne podložiť.
+
+   K časti boli pripojené prílohy
+
+
+
+
+                                    Strana 5 / 22
+Určenie hlavných cieľov a princípov územného rozvoja obce
+vyplývajúce z Koncepcie územného rozvoja regiónu
+3. URČENIE HLAVNÝCH CIEĽOV A PRINCÍPOV ÚZEMNÉHO ROZVOJA OBCE
+3.1 Nadradená územnoplánovacia dokumentácia. Pri návrhu ÚPN-O sa bude
+vychádzať z účinnej záväznej časti Územného plánu Prešovského samosprávneho
+kraja, schváleného uznesením zastupiteľstva PSK č. 268/2019 z 26. 8. 2019.
+Jeho záväzná časť bola vydaná VZN PSK č. 77/2019 s účinnosťou od 6. 10.
+2019. Rozpracované zmeny a doplnky č. 1 nadradenej dokumentácie sa budú
+sledovať ako súvisiaci koncepčný podklad a zohľadnia sa podľa stavu v čase
+spracovania ÚPN-O. Rešpektovať sa budú záväzné regulatívy a verejnoprospešné
+stavby vzťahujúce sa na riešené územie, najmä v oblastiach: - štruktúry osídlenia
+a väzieb na Levoču a rozvojovú os Žilina – Poprad – Prešov – Košice (D1, I/18);
+- zachovania vidieckeho charakteru Spiša a funkčných vzťahov mesta a vidieka; -
+bývania a sociálnej infraštruktúry; - kultúrno-poznávacieho a vidieckeho cestovného
+ruchu, cyklodopravy, Gotickej cesty a väzieb na lokalitu UNESCO „Levoča, Spišský
+hrad a pamiatky okolia“; - ochrany prírody, mokradí, prvkov ÚSES, krajinného
+rázu a najkvalitnejšej poľnohospodárskej pôdy; - ochrany dopravných koridorov
+D1 a I/18 a rozvoja zásobovania pitnou vodou a verejnej kanalizácie s ČOV. 3.2
+Zhodnotenie významu obce v štruktúre osídlenia Celoštátne princípy osídlenia
+vyplývajú z Koncepcie územného rozvoja Slovenska v účinnom znení. Spišský
+Hrhov leží v bezprostrednom zázemí Levoče s väzbami na Spišské Podhradie a širší
+región. Dôležitým východiskom je doterajší rozvoj obce, jej pozemková politika
+a miestne podnikanie vrátane Hrhovských služieb. Nová koncepcia má podporovať
+hospodársky, sociálne inkluzívny a environmentálne udržateľný rozvoj. 3.3 Hlavné
+ciele riešenia - stanoviť koncepciu priestorového usporiadania a funkčného
+využívania celého katastrálneho územia s primeranou reguláciou intenzity využitia;
+- vymedziť dostatočné a etapizované plochy bývania podľa demografického vývoja;
+pred zábermi poľnohospodárskej pôdy uprednostniť prieluky a nadmerné záhrady;
+- vytvoriť podmienky pre pracovné príležitosti, obecné podnikanie, remeslá, drobnú
+výrobu a služby; - chrániť kultúrno-historické hodnoty, najmä kaštieľ s parkom,
+ranogotický kostol a pôvodnú urbanistickú štruktúru; - zabezpečiť podmienky
+pre občiansku vybavenosť, šport a rekreáciu; - riešiť negatívne účinky tranzitnej
+dopravy na I/18 a rozvoj miestnych ciest, peších a cyklistických trás; - dobudovať
+technickú infraštruktúru, predovšetkým kanalizáciu a čistenie odpadových vôd; -
+podporiť adaptáciu na zmenu klímy, zadržiavanie dažďovej vody a sídelnú i krajinnú
+zeleň; - rešpektovať ochranu prírody, krajiny a najkvalitnejšej poľnohospodárskej
+pôdy; - vymedziť plochy a koridory pre stavby vo verejnom záujme a plochy zelenej
+infraštruktúry vo verejnom záujme.
+
+   K časti boli pripojené prílohy
+
+
+
+
+                                    Strana 6 / 22
+Identifikácia hlavných problémov a stretov v území obce
+4. IDENTIFIKÁCIA HLAVNÝCH PROBLÉMOV A STRETOV V ÚZEMÍ OBCE
+Nasledujúce okruhy sú predbežnými témami na odborné preverenie. Ich zaradenie
+neznamená, že všetky konflikty boli už preukázané. Spracovateľ pri každom okruhu
+uvedie zdroj, územný priemet, závažnosť a návrh ďalšieho riešenia; obec potvrdí
+priority. - Bývanie: preveriť kapacitu existujúcich rozvojových plôch, prieluk a potrebu
+nových lokalít v súvislosti s demografickým vývojom a ochranou pôdy. - Doprava:
+preveriť bezpečnosť, hlukové účinky a napojenia na ceste I/18, pešie a cyklistické
+väzby a relevantné ochranné pásma dopravných stavieb. - Technická infraštruktúra:
+overiť aktuálny stav a kapacity vodovodu, kanalizácie, ČOV a energetických sietí;
+identifikovať kapacitné obmedzenia rozvoja. - Krajina: overiť chránené územia, prvky
+ÚSES, vodný režim, ohrozenia a stret rozvojových zámerov s poľnohospodárskou
+a lesnou pôdou. - Kultúrne dedičstvo: identifikovať hodnoty kaštieľa, parku,
+historickej štruktúry a pohľadových väzieb, ktoré vyžadujú priestorové zohľadnenie.
+- Hospodárske funkcie: preveriť potenciál existujúcich a nevyužitých areálov
+a vhodnosť ich transformácie. V návrhu ÚPN-O sa požaduje priestorovo vyhodnotiť
+hlavné problémy a strety a navrhnúť spôsob ich riešenia. Podnety obce a dotknutých
+subjektov budú vyhodnotené v ďalšom stupni spracovania.
+
+   K časti boli pripojené prílohy
+
+Požiadavky
+Kategória požiadaviek 1
+požiadavky na riešenie vyplývajúce z demografických, sociálnych, ekonomických
+a environmentálnych potrieb obce
+
+
+
+
+                                     Strana 7 / 22
+Názov požiadavky č. 1
+5.1 Demografia
+
+Obec Spišský Hrhov zaznamenala v ostatných desaťročiach výrazný populačný
+rast. Doterajšie podklady uvádzajú pokles obyvateľstva medzi rokmi 1961 a 1991
+a následný rast od deväťdesiatych rokov. Pre návrh ÚPN-O je potrebné vyhodnotiť
+aktuálny počet obyvateľov, vekovú štruktúru, migráciu a prognózu vývoja na základe
+oficiálnych štatistických údajov a reálnej kapacity územia.
+
+Vývoj počtu obyvateľov – orientačné historické údaje:
+
+Rok: 1869 – 1900 – 1940 – 1961 – 1980 – 1991 – 2001 – 2005
+
+Počet obyvateľov: 746 – 752 – 814 – 1 049 – 967 – 836 – 963 – 1 279
+
+Poznámka: historické hodnoty uvedené v tabuľke sú orientačne prevzaté
+z doterajších územnoplánovacích podkladov; pre návrh ÚPN-O sa použije
+aktualizovaný štatistický časový rad.
+
+V územnom pláne obce bude spracovaná primeraná demografická prognóza
+pre návrhové obdobie, zohľadňujúca reálnu kapacitu rozvojových plôch. Z prognózy
+sa odvodia potreby bývania, občianskej vybavenosti a technickej infraštruktúry.
+Názov požiadavky č. 2
+5.2 Bývanie
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- kvantifikovať predpokladané požiadavky na potrebu domov a bytov podľa prognózy
+vývoja obyvateľstva, znižovania obložnosti bytov a odpadu bytového fondu,
+- rozvojové plochy bývania (prevažne IBV) vymedzovať prednostne v prielukách
+a nadmerných záhradách zastavaného územia a v priamej nadväznosti naň,
+s etapizáciou výstavby,
+- nadviazať na založenú koncepciu rozvoja obytného územia v juhozápadnej časti
+obce a preveriť ďalšie smery rozvoja s ohľadom na limity územia,
+- vytvoriť územnotechnické podmienky pre výstavbu nájomných bytov a dostupného
+bývania pre mladé rodiny a sociálne slabšie skupiny obyvateľstva,
+- riešiť zlepšovanie štandardu bývania marginalizovanej rómskej komunity
+integrovaným spôsobom, v nadväznosti na doterajšie úspešné projekty obce,
+- umožniť v obytnom území umiestňovanie drobnej remeselnej výroby, služieb
+a krátkodobého ubytovania bez negatívnych vplyvov na kvalitu bývania.
+
+
+
+
+                                    Strana 8 / 22
+Názov požiadavky č. 3
+5.3 Sociálna infraštruktúra a občianska vybavenosť
+
+V obci sa nachádza obecný úrad, základná škola s materskou školou, základná
+umelecká škola, reedukačné centrum, predajne potravín, pohostinské a stravovacie
+zariadenia a zariadenia služieb. Vyššia občianska vybavenosť (zdravotníctvo, stredné
+školstvo, sociálne služby) je viazaná na mesto Levoča.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- preveriť kapacity základnej a materskej školy vo väzbe na demografický rast
+a vymedziť plochy pre ich prípadné rozšírenie,
+- vytvoriť územnotechnické podmienky pre zariadenia sociálnych služieb (denný
+stacionár, zariadenie pre seniorov, komunitné centrum),
+- vytvoriť predpoklady pre rozvoj zariadení kultúry, umenia a osvety a pre malé
+súkromné zdravotnícke zariadenia,
+- podporiť polyfunkčné využitie centra obce s dôrazom na kvalitu verejných
+priestorov.
+Názov požiadavky č. 4
+5.4 Hospodárstvo a ekonomický rozvoj
+
+Ekonomickú základňu obce tvorí obecný sociálny podnik Hrhovské služby, s. r. o., r.
+s. p., poľnohospodárska výroba, drobní podnikatelia, remeselná a stavebná výroba
+a služby. Významná časť ekonomicky aktívneho obyvateľstva dochádza za prácou
+do Levoče a širšieho regiónu.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- plochy výroby a skladov lokalizovať prednostne vo väzbe na existujúce hospodárske
+areály a mimo pohľadovo exponovaných polôh; uprednostniť transformáciu
+nevyužívaných areálov (brownfield) pred novými zábermi krajiny,
+- prehodnotiť funkčné využitie existujúcich a doteraz navrhovaných výrobných
+a hospodárskych plôch s dôrazom na ochranu historického parku, krajinného obrazu
+a obytného prostredia,
+- rezervovať plochy pre ľahkú a nezávadnú výrobu a podnikateľské aktivity
+s minimálnymi negatívnymi dosahmi na obytné prostredie,
+- podporiť ekologické, racionálne a udržateľné poľnohospodárstvo a lesníctvo vrátane
+agroturistiky a nadväzujúcich doplnkových činností,
+- vytvoriť predpoklady pre rozvoj cestovného ruchu vo väzbe na kultúrne dedičstvo
+obce a blízkosť lokalít UNESCO (Levoča, Spišský hrad).
+
+
+
+
+                                    Strana 9 / 22
+Názov požiadavky č. 5
+5.5 Rekreácia, šport a cestovný ruch
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- intenzifikovať a dovybaviť športový areál obce a preveriť potrebu nových plôch
+športu vo väzbe na rozvoj obytného územia,
+- vymedziť plochy dennej rekreácie obyvateľov a preveriť rekreačný potenciál
+krajinného zázemia obce (Levočské vrchy) pri rešpektovaní záujmov ochrany prírody,
+- podporiť rozvoj cykloturistiky – navrhnúť cyklotrasy v súlade s koncepciami rozvoja
+cyklodopravy Prešovského samosprávneho kraja a prepojenia na Levoču, Klčov
+a Spišské Podhradie,
+- podporovať služby vidieckeho cestovného ruchu (ubytovanie v súkromí,
+gastronómia, remeslá) a prezentáciu kultúrneho dedičstva obce.
+Názov požiadavky č. 6
+5.6 Životné prostredie
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- vyhodnotiť súčasný rozsah a kapacity verejnej kanalizácie a čistenia odpadových
+vôd a navrhnúť potrebné dobudovanie infraštruktúry pre zastavané územie
+a rozvojové plochy,
+- navrhnúť opatrenia na zdržiavanie a vsakovanie dažďových vôd v území
+(vodozádržné opatrenia, dažďové záhrady, retencia) tak, aby sa nezhoršovali
+odtokové pomery,
+- rešpektovať Stratégiu adaptácie SR na zmenu klímy v platnom znení a navrhnúť
+opatrenia adaptácie sídelného prostredia na zmenu klímy,
+- znižovať emisnú záťaž z lokálneho vykurovania podporou plynofikácie,
+obnoviteľných zdrojov energie a obnovy budov,
+- riešiť odpadové hospodárstvo v súlade s platným programom odpadového
+hospodárstva – preveriť umiestnenie zberného dvora a kompostoviska, navrhnúť
+odstránenie prípadných nelegálnych skládok,
+- zohľadniť radónové riziko a prípadné environmentálne záťaže zistené z príslušných
+verejných registrov,
+- v obytnom území rešpektovať prípustné hodnoty hluku vo vonkajšom prostredí
+podľa vyhlášky MZ SR č. 549/2007 Z. z., najmä vo väzbe na cestu I/18 a diaľnicu D1.
+
+Kategória požiadaviek 2
+hlavné požiadavky na územie obce z hľadiska priestorového usporiadania územia
+a funkčného využívania územia
+
+
+
+
+                                   Strana 10 / 22
+Názov požiadavky č. 1
+6.1 Urbanistická koncepcia
+
+Pri spracovaní návrhu ÚPN-O sa požaduje:
+
+- Vyhodnotiť súčasnú urbanistickú štruktúru a rozlíšiť stabilizované, rozvojové
+a potenciálne transformačné územia.
+- Preveriť využitie prieluk, nadmerných záhrad a nevyužívaných areálov
+pred návrhom nových záberov pôdy.
+- Posúdiť väzby bývania, občianskej vybavenosti, hospodárskych funkcií, verejných
+priestorov a krajinného zázemia.
+- Identifikovať a primerane chrániť kompozičné osi, historické dominanty, panorámu,
+pohľadové väzby a hodnoty areálu kaštieľa a parku.
+- Posúdiť nové rozvojové lokality podľa demografických potrieb, dostupnosti dopravy
+a technickej infraštruktúry a environmentálnych limitov.
+- Formulovať zásady verejných priestorov, pešej dostupnosti, sídelnej zelene
+a adaptácie na zmenu klímy.
+- Zachovať a rozvíjať priechodnosť krajiny a funkčné väzby na vodné toky
+a ekologickú infraštruktúru.
+- Navrhnúť priestorovo-funkčné členenie a reguláciu podľa aktuálne účinnej metodiky;
+konkrétne intenzity a limity určiť až na základe podkladov.
+- Pri spracovaní návrhu ÚPN-O preveriť rozvojové zámery a podnety obce týkajúce
+sa najmä rozvoja bývania vrátane sociálneho bývania, občianskej vybavenosti,
+zariadení sociálnych služieb, športu a rekreácie, dopravnej a technickej infraštruktúry
+a verejných priestorov. Jednotlivé podnety vyhodnotiť z hľadiska ich súladu
+s celkovou urbanistickou koncepciou obce, priestorových a funkčných väzieb,
+dostupnosti dopravnej a technickej infraštruktúry, ochrany poľnohospodárskej pôdy
+a ostatných limitov využitia územia. Konkrétne vymedzenie rozvojových plôch
+a určenie ich funkčného využitia bude predmetom odborného riešenia návrhu
+územného plánu obce.
+
+
+
+
+                                    Strana 11 / 22
+Názov požiadavky č. 2
+6.2 Doprava a dopravné vybavenie
+
+Nadradené dopravné väzby obce zabezpečuje najmä cesta I/18 a napojenie
+na diaľnicu D1 v širšom území. Dopravnú obsluhu dopĺňajú miestne a regionálne
+komunikácie. Návrh ÚPN-O vyhodnotí presné trasovanie, dopravné napojenia,
+ochranné pásma, pešie a cyklistické väzby a nároky verejnej dopravy.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- rešpektovať existujúcu nadradenú dopravnú infraštruktúru (D1, I/18) vrátane
+ochranných pásiem a koncepčných zámerov vyplývajúcich zo záväznej časti ÚPN
+PSK,
+- navrhnúť opatrenia na elimináciu negatívnych vplyvov tranzitnej dopravy na ceste
+I/18 na obytné prostredie (organizácia dopravy, protihlukové opatrenia, bezpečné
+priechody),
+- preveriť a navrhnúť riešenie dopravných napojení rozvojových lokalít na cestu I/18
+a sieť miestnych ciest v súlade s platnými STN,
+- navrhnúť funkčné triedy a kategórie miestnych ciest, riešiť rekonštrukciu
+nevyhovujúcich úsekov v historickej časti obce,
+- dobudovať sieť peších komunikácií vrátane bezbariérových úprav a chodníka pozdĺž
+cesty I/18,
+- navrhnúť cyklistické trasy a cyklodopravné prepojenia na Levoču a susedné obce
+v súlade s krajskou cyklostratégiou,
+- riešiť statickú dopravu (parkovanie pri občianskej vybavenosti, kaštieli, cintoríne
+a športovom areáli) a autobusové zastávky s pešou dostupnosťou,
+- rešpektovať požiadavky na dopravnú obsluhu územia hromadnou dopravou a jej
+integráciu v rámci IDS PSK.
+
+
+
+
+                                   Strana 12 / 22
+Názov požiadavky č. 3
+6.3 Technické vybavenie
+
+Vodné hospodárstvo
+
+V obci je vybudovaný verejný vodovod a kanalizácia. Pre návrh ÚPN-O je potrebné
+vyhodnotiť ich územný rozsah, technický stav a kapacitu vo vzťahu k existujúcej
+zástavbe a navrhovanému rozvoju. Pri vodnom hospodárstve sa zohľadní sústava
+miestnych vodných tokov vrátane potoka Lodina.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- zhodnotiť kapacitu vodných zdrojov a vodojemov vo väzbe na navrhovaný rozvoj
+a navrhnúť koncepciu zásobovania pitnou a požiarnou vodou rozvojových území,
+- rešpektovať ochranné pásma vodárenských zdrojov a ochranné pásmo prírodných
+minerálnych vôd II. stupňa,
+- navrhnúť dobudovanie splaškovej kanalizácie s čistením odpadových vôd pre celé
+zastavané územie vrátane rozvojových plôch,
+- navrhnúť spôsob odvedenia a zdržania dažďových vôd s dôrazom na vsakovanie
+a retenciu v mieste vzniku,
+- rešpektovať ochranné a manipulačné pásma vodných tokov, inundačné územia
+a požiadavky ochrany pred povodňami v rozsahu určenom osobitnými predpismi
+a príslušnými správcami,
+- podporovať realizáciu protipovodňových a vodozádržných opatrení a revitalizáciu
+vodných tokov.
+
+Zásobovanie energiami
+
+Elektrická energia je dodávaná prostredníctvom distribučnej siete a transformačných
+staníc; obec je plynofikovaná. Návrh ÚPN-O vyhodnotí kapacitné potreby
+a podmienky rozšírenia sietí na základe podkladov príslušných prevádzkovateľov.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- zhodnotiť predpokladaný nárast potreby elektrickej energie a navrhnúť rozšírenie
+distribučnej siete vrátane nových TS pre rozvojové lokality; nové NN rozvody
+navrhovať v káblovom vyhotovení v zemi,
+- rešpektovať ochranné a bezpečnostné pásma elektroenergetických a plynárenských
+zariadení podľa zákona č. 251/2012 Z. z. o energetike,
+- navrhnúť plynofikáciu rozvojových lokalít a preveriť kapacitu regulačnej stanice,
+- podporovať využívanie obnoviteľných zdrojov energie a diverzifikovanú štruktúru
+zásobovania teplom,
+- riešiť rozvoj elektronických komunikačných sietí vrátane optickej siete
+a modernizácie verejného osvetlenia.
+
+Odpadové hospodárstvo
+
+
+
+                                   Strana 13 / 22
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- vychádzať z platného programu odpadového hospodárstva; preveriť umiestnenie
+zberného dvora a obecného kompostoviska,
+- vytvoriť predpoklady pre efektívne a udržateľné nakladanie s odpadom vrátane
+predchádzania vzniku nelegálnych skládok.
+Názov požiadavky č. 4
+6.4 Ochrana prírody, tvorba krajiny a ÚSES
+
+V riešenom území sa nachádzajú krajinne a prírodne hodnotné lokality vrátane
+území označovaných v podkladoch ako Jazerec a Podhorské. Návrh ÚPN-O bude
+vychádzať z aktuálnej evidencie chránených území, území sústavy Natura 2000,
+významných biotopov a prvkov územného systému ekologickej stability. Ich hranice
+a podmienky ochrany budú premietnuté do územnoplánovacieho riešenia.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- premietnuť a rešpektovať chránené územia prírody a ich ochranné pásma,
+biotopy európskeho a národného významu a prvky ÚSES regionálnej úrovne
+v zmysle ÚPN PSK a RÚSES okresu Levoča,
+- vymedziť a doplniť prvky miestneho ÚSES vrátane ekostabilizačných opatrení
+v poľnohospodárskej krajine (línie nelesnej drevinovej vegetácie, medze, brehové
+porasty),
+- chrániť mokraďné biotopy prírodných pamiatok Jazerec a Podhorské pred zmenami
+vodného režimu a urbanizáciou,
+- zachovať historické krajinné štruktúry (medze) a charakteristický vzhľad podhorskej
+krajiny,
+- navrhnúť koncepciu sídelnej a krajinnej zelene vrátane ochrany a obnovy
+historického parku pri kaštieli a verejnej zelene v obci,
+- minimalizovať pri územnom rozvoji zábery poľnohospodárskej a lesnej pôdy,
+rešpektovať sieť vodných tokov.
+Názov požiadavky č. 5
+6.5 Ochrana poľnohospodárskej a lesnej pôdy
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- rešpektovať poľnohospodársku pôdu, osobitne najkvalitnejšiu pôdu v príslušnom
+katastrálnom území podľa aktuálnych podkladov BPEJ a platných predpisov, ako
+významný limit rozvoja obce,
+- navrhované zábery poľnohospodárskej pôdy vyhodnotiť podľa zákona
+č. 220/2004 Z. z. v platnom znení, zdôvodniť ich rozsah a navrhovať tak, aby nedošlo
+k narušeniu ucelenosti honov a prístupu k pozemkom,
+- zachovať podiel lesných pozemkov, podporovať ekologické a udržateľné lesné
+hospodárstvo (lesnatosť katastra cca 31 %),
+- vytvoriť predpoklady pre elimináciu vodnej a veternej erózie poľnohospodárskej
+pôdy a pre zadržiavanie vody v krajine.
+
+
+                                   Strana 14 / 22
+Názov požiadavky č. 6
+6.6 Záujmy obrany štátu, požiarnej ochrany, civilnej ochrany a ochrany
+pred povodňami
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- záujmy civilnej ochrany obyvateľstva riešiť v súlade s platnými právnymi predpismi
+o civilnej ochrane a požiadavkami na ukrytie obyvateľstva,
+- z hľadiska požiarnej ochrany navrhnúť komunikačný systém umožňujúci prístup
+požiarnej techniky do všetkých častí obce a zabezpečiť zdroje požiarnej vody,
+- rešpektovať ustanovenia zákona č. 7/2010 Z. z. o ochrane pred povodňami, zaradiť
+stavby protipovodňovej ochrany medzi stavby vo verejnom záujme,
+- zohľadniť požiadavky vyplývajúce zo záujmov obrany štátu podľa vyjadrení
+príslušných orgánov.
+Názov požiadavky č. 7
+6.7 Regulácia územia
+
+Regulácia priestorového usporiadania a funkčného využívania územia bude
+spracovaná v súlade s § 16 vyhlášky č. 392/2023 Z. z. Celé riešené územie obce sa
+rozdelí bezo zvyšku na priestorovo-funkčné celky, prípadne priestorovo-funkčné časti,
+pre ktoré sa v záväznej časti spracujú regulačné listy obsahujúce najmä:
+
+- identifikáciu, vymedzenie a charakteristiku priestorovo-funkčného celku,
+- reguláciu funkčného využívania územia – základnú funkciu, prípustné a neprípustné
+funkcie,
+- základné regulatívy priestorového usporiadania (intenzita zastavania, podiel
+vegetačných plôch, výška zástavby) a podľa potreby voliteľné regulatívy,
+- súpis plôch a koridorov pre stavby vo verejnom záujme a plôch zelenej infraštruktúry
+vo verejnom záujme,
+- určenie území, pre ktoré bude potrebné obstarať územný plán zóny, prípadne
+osobitných území.
+
+Kategória požiadaviek 3
+požiadavky na ochranu kultúrneho dedičstva
+
+
+
+
+                                   Strana 15 / 22
+Názov požiadavky č. 1
+7. POŽIADAVKY NA OCHRANU KULTÚRNEHO DEDIČSTVA
+
+Obec Spišský Hrhov má významné kultúrno-historické hodnoty. Mimoriadny význam
+majú historický kostol, kaštieľ s parkom a ďalšie objekty a priestorové súvislosti
+historického sídla. Koncepcia územného rozvoja musí tieto hodnoty rešpektovať
+a podporovať ich prezentáciu.
+
+Pri ochrane kultúrneho dedičstva sa vychádza z nasledujúcich historicky a kultúrne
+významných objektov uvedených v doterajších podkladoch. Rozsah zákonnej
+pamiatkovej ochrany sa v návrhu ÚPN-O prevezme z aktuálnej evidencie
+pamiatkového fondu:
+
+Rímskokatolícky kostol sv. Šimona a Júdu
+- Charakteristika: ranogotická sakrálna stavba z 13. storočia.
+- Téma ochrany/posúdenia: ochrana sakrálnej dominanty a jej prostredia.
+
+Kaštieľ s areálom (park)
+- Charakteristika: historický kaštieľ s krajinárskym parkom.
+- Téma ochrany/posúdenia: ochrana areálu a významných pohľadových väzieb.
+
+Most cestný kamenný
+- Charakteristika: historická mostná stavba.
+- Téma ochrany/posúdenia: preskúmanie historickej hodnoty a podmienok ochrany.
+
+Hrob P. Varačka
+- Charakteristika: pomník.
+- Téma ochrany/posúdenia: preskúmanie významu objektu a priestorového kontextu.
+
+V návrhu ÚPN-O sa vyhodnotia evidované archeologické náleziská a územia
+s možným archeologickým potenciálom podľa podkladov príslušného pamiatkového
+orgánu.
+
+PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY
+
+- rešpektovať národné kultúrne pamiatky zapísané v ÚZPF a zabezpečiť ochranu
+ich prostredia; požiadavky na ochranu pamiatkového fondu riešiť v zmysle zákona
+č. 49/2002 Z. z. v platnom znení a v súčinnosti s Krajským pamiatkovým úradom
+Prešov,
+- chrániť areál kaštieľa s historickým parkom ako celok vrátane pohľadových väzieb;
+v kontaktnom území regulovať výšku a hmotu zástavby,
+- preveriť miestne kultúrno-historické hodnoty aj mimo evidovaných národných
+kultúrnych pamiatok (pôvodná vidiecka zástavba, hospodárske objekty, drobná
+sakrálna architektúra) a podporiť ich primeranú ochranu, prípadne súpis
+pamätihodností obce,
+- zabezpečiť ochranu archeologických nálezísk a ustanoviť podmienky ochrany
+nepredvídaných archeologických nálezov,
+
+                                   Strana 16 / 22
+- koncepciu rozvoja obce koordinovať s hodnotami lokality svetového dedičstva
+UNESCO „Levoča, Spišský hrad a pamiatky okolia“ v širšom zázemí obce,
+- podporovať prezentáciu kultúrneho dedičstva a tradičných remesiel ako súčasti
+identity obce a rozvoja cestovného ruchu.
+
+Kategória požiadaviek 4
+požiadavky na rozsah a obsah riešenia
+
+
+
+
+                                   Strana 17 / 22
+Názov požiadavky č. 1
+8. POŽIADAVKY NA ROZSAH A OBSAH RIEŠENIA
+
+Územný plán obce Spišský Hrhov bude spracovaný v podrobnosti a členení
+podľa § 12 a § 13 vyhlášky Úradu pre územné plánovanie a výstavbu SR
+č. 392/2023 Z. z. o obsahu a spôsobe spracovania územnoplánovacej dokumentácie
+a v súlade s vyhláškou č. 153/2024 Z. z. o štandardoch a metodike spracovania
+územnoplánovacej dokumentácie a územnoplánovacích podkladov. Dokumentácia
+bude spracovaná v elektronickej podobe kompatibilnej s informačným systémom
+územného plánovania a výstavby.
+
+8.1 Informatívna časť
+
+Textová časť informatívnej časti bude obsahovať najmä: základné údaje;
+širšie vzťahy; vyhodnotenie doterajšej územnoplánovacej dokumentácie obce;
+vyhodnotenie vplyvu demografických, sociálnych, environmentálnych a ekonomických
+vývojových tendencií na územný rozvoj obce; vyhodnotenie urbanistickej štruktúry,
+krajinnej štruktúry a limitov územia obce; priemet území krajinnej infraštruktúry
+a území ochrany prírody a krajiny miestneho významu; návrh plôch a koridorov
+pre umiestnenie stavieb vo verejnom záujme a plôch zelenej infraštruktúry
+vo verejnom záujme; urbanistickú koncepciu rozvoja obce, priemet zastavaného
+územia a členenie na priestorovo-funkčné celky a časti; zdôvodnenie a opis regulácie
+a spôsob výpočtu limitov; vymedzenie plôch určených na odňatie poľnohospodárskej
+pôdy a lesných pozemkov; zásady a podmienky vyplývajúce z osobitných predpisov.
+
+Grafická časť informatívnej časti bude spracovaná na podklade mapového diela
+v záväznom geodetickom referenčnom systéme v mierkach 1: 10 000 a 1: 5
+000 a bude obsahovať grafické znázornenia: širších vzťahov a vymedzenia
+riešeného územia; urbanistickej štruktúry, krajinnej štruktúry a limitov územia;
+urbanistickej koncepcie rozvoja obce s vymedzením zastavaného územia a členením
+na priestorovo-funkčné celky a časti; priemetu území krajinnej infraštruktúry
+a ochrany prírody a krajiny miestneho významu; návrhu plôch a koridorov pre stavby
+vo verejnom záujme a plôch zelenej infraštruktúry vo verejnom záujme; iných
+územných limitov vrátane ochranných a bezpečnostných pásiem; plôch určených
+na odňatie poľnohospodárskej pôdy a lesných pozemkov.
+
+8.2 Záväzná časť
+
+Záväzná časť bude spracovaná ako samostatný dokument. Textovú časť budú tvoriť
+regulačné listy priestorovo-funkčných celkov s regulačnými podmienkami podľa
+§ 13 vyhlášky č. 392/2023 Z. z. Grafickú časť bude tvoriť regulačný výkres v mierke
+1: 5 000 (prípadne 1: 10 000), vyjadrujúci priestorovú a funkčnú reguláciu územia
+vrátane priemetu plôch a koridorov pre stavby vo verejnom záujme, plôch zelenej
+infraštruktúry vo verejnom záujme, osobitných území a území, pre ktoré je potrebné
+obstarať územný plán zóny.
+
+
+
+
+                                   Strana 18 / 22
+Množstvo a druh voliteľných regulatívov priestorového usporiadania a funkčného
+využívania územia budú upresnené v návrhu územného plánu na základe
+urbanistického riešenia.
+
+8.3 Postup obstarania a prerokovania
+
+Návrh územného plánu obce bude spracovaný na základe prerokovaného
+a schváleného zadania postupom podľa účinných predpisov o územnom plánovaní.
+Potreba variantnosti bude vyhodnotená v súvislosti s charakterom navrhovaného
+rozvoja a príslušnými postupmi posudzovania vplyvov na životné prostredie.
+
+Spracovanie, prerokovanie a schvaľovanie ÚPD sa uskutoční spôsobom
+ustanoveným príslušnými právnymi predpismi.
+
+   K časti boli pripojené prílohy
+
+Názov prílohy 1
+NÁVRH ZADANIA NA PREROKOVANIE
+
+
+
+Informácia o potrebe vypracovania variantného návrhu riešenia
+  áno
+  nie
+
+
+
+Posúdenie územnoplánovacej dokumentácie ako strategického
+dokumentu
+podľa zákona č.24/2006 Z.z. o posudzovaní vplyvov na životné prostredie a o zmene
+a doplnení niektorých zákonov v znení neskorších predpisov
+
+Oznámenie o strategickom dokumente z procesu posudzovania vplyvov
+územnoplánovacej dokumentácie ako strategického dokumentu podľa zákona
+č. 24/2006 Z.z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení
+niektorých zákonov v znení neskorších predpisov sú verejne prístupné v Centrálnom
+informačnom systéme posudzovania vplyvov na životné prostredie (CIS EIA/SEA)
+
+Hypertextový odkaz na príslušné posudzovanie územnoplánovacej dokumentácie
+ako strategického dokumentu v Centrálnom informačnom systéme posudzovania
+vplyvov na životné prostredie (CIS EIA/SEA)
+https://www.enviroportal.sk/eia/detail/uzemny-plan-obce-
+spissky-hrhov
+
+
+
+
+                                    Strana 19 / 22
+Prílohy
+Spissky_Hrhov_Zadanie_UPN_O_na_zverejnenie.pdf
+
+
+
+
+                                         Strana 20 / 22
+                Obec Spišský Hrhov, Spišský Hrhov,
+            10/230, Spišský Hrhov, 05302, IČO: 329592
+
+
+
+                             OZNÁMENIE
+
+                  o začatí obstarávania
+              územnoplánovacej dokumentácie
+Obec Spišský Hrhov, zastúpená štatutárom Zuzana Kučerová ako príslušný
+orgán územného plánovania podľa § 6 ods. 2 písm. b) a v súlade s §29 ods.
+2 zákona č.200/2022 Z. z. o územnom plánovaní v znení neskorších predpisov
+oznamuje začatie obstarávanie územnoplánovacej dokumentácie:
+
+                           Územný plán obce
+Výzva:
+
+OZNÁMENIE         O    ZAČATÍ      OBSTARÁVANIA          ÚZEMNOPLÁNOVACEJ
+DOKUMENTÁCIE A VÝZVA NA PODÁVANIE PODNETOV, NÁVRHOV A
+PRIPOMIENOK Obec Spišský Hrhov ako príslušný orgán územného plánovania
+podľa zákona č. 200/2022 Z. z. o územnom plánovaní oznamuje začatie
+obstarávania novej územnoplánovacej dokumentácie: Územný plán obce
+Spišský Hrhov. Obstaranie novej územnoplánovacej dokumentácie vychádza
+zo schválenej Správy o stave územnoplánovacej dokumentácie obce Spišský
+Hrhov a potreby aktualizácie doterajšej územnoplánovacej koncepcie podľa
+súčasných rozvojových potrieb obce a účinných právnych predpisov. Obec
+v súlade s § 29 zákona č. 200/2022 Z. z. vyzýva dotknuté orgány štátnej správy,
+orgány územnej samosprávy, dotknuté právnické osoby, vlastníkov a správcov
+dopravnej a technickej infraštruktúry, ako aj verejnosť, na predloženie podnetov,
+návrhov a pripomienok k zverejnenému zadaniu Územného plánu obce Spišský
+Hrhov. Podnety, návrhy a pripomienky je možné predkladať počas zverejnenia
+oznámenia v termíne: 20.12.2026 Podnety je možné doručiť prostredníctvom
+príslušnej elektronickej služby portálu územného plánovania, do elektronickej
+schránky obce, písomne poštou alebo osobne do podateľne Obecného úradu
+Spišský Hrhov, SNP 230/10, 053 02 Spišský Hrhov. Zadanie ÚPN-O a súvisiace
+dokumenty budú zverejnené v informačnom systéme územného plánovania,
+na webovom sídle obce a úradnej tabuli obce v súlade s príslušnými právnymi
+predpismi. Súvisiace oznámenie o strategickom dokumente podľa zákona
+č. 24/2006 Z. z. bude sprístupnené v rámci príslušného procesu posudzovania
+vplyvov na životné prostredie. Odborne spôsobilá osoba: Ing. Martin Pukančík,
+odborne spôsobilá osoba na obstarávanie územnoplánovacej dokumentácie,
+registračné číslo 494.
+
+
+
+                                     Strana 21 / 22
+Kontaktná osoba:
+
+Mgr. Zuzana Kučerová, starostka obce, 0907 116 676,
+kucerova@spisskyhrhov.sk.
+
+
+
+
+                                                       Zuzana Kučerová
+                                                                Starosta
+                                                      Obec Spišský Hrhov
+
+
+
+
+Dátum zverejnenia:
+20.11.2026
+
+
+
+Dátum ukončenia zverejnenia:
+20.12.2026
+
+
+
+
+                                 Strana 22 / 22
+

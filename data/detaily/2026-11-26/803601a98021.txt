@@ -1,0 +1,486 @@
+URL: https://cuet.slovensko.sk/en/dokument/aa2f8be8-1061-4aec-b60b-2250236f917a
+OBEC: Ľubica (Kežmarok)
+NÁZOV: Navrh_VZN_Miestne_dane_2027
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/aa2f8be8-1061-4aec-b60b-2250236f917a
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Navrh_VZN_Miestne_dane_2027
+Search publisher's RSS feeds
+Published on official board:
+Obec Ľubica (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+UF3
+Documents author:
+Obec Ľubica (OVM)
+Published to:
+10.12.2026
+Registry case:
+10178/627/2026/KGr
+Name of official document:
+Navrh_VZN_Miestne_dane_2027
+Document type:
+Iný elektronický dokument
+Document abstract:
+Navrh_VZN_Miestne_dane_2027
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Navrh_VZN_Miestne_dane_2027.pdf
+Type and size:
+.pdf, 348.52 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/5078f3d6-6e7c-4e07-895b-1952f097faf1
+                                       NÁVRH
+                    VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+
+                                  č.              /2026
+
+                                 o miestnych daniach
+
+Toto Všeobecne záväzné nariadenie bolo schválené Obecným zastupiteľstvom v Ľubici dňa
+10.12.2026, uznesením číslo .......................... ako
+
+                 Všeobecne záväzné nariadenie č. ............... /2026
+
+                                   o miestnych daniach
+
+Návrh VZN o miestnych daniach podľa § 6 ods. 3 zák. č. 369/1990 Zb. o obecnom zriadení
+v znení neskorších predpisov, bol zverejnený na úradnej tabuli a internetovom sídlo obce
+od 25.11.2026 do 10.12.2026 .
+Podľa § 6 ods. 4 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+pripomienky k návrhu VZN možno uplatniť v lehote od dňa zverejnenia návrhu VZN
+do 5.12.2026(včítane).
+Návrh VZN podľa § 5 ods. 8 zák. č. 211/2000 Z. z. o slobodnom prístupe k informáciám
+a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších
+predpisov,    bol        zverejnený    na    elektronickej   úradnej    tabuli    obce
+od 25.11.2026 do 10.12.2026.
+   Toto VZN bolo vyvesené na úradnej tabuli obce, zverejnené na elektronickej úradnej tabuli
+obce a na internetovej adrese obce dňa ............................... .
+
+                VZN nadobúda účinnosť dňom 01.januára 2027.
+
+
+
+
+                                                      Ing. Štefan Špirko
+                                                          starosta obce
+        OBEC ĽUBICA
+
+
+
+
+            NÁVRH
+
+
+VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+         č.    /2026
+
+
+       o miestnych daniach
+Obecné zastupiteľstvo v Ľubici podľa § 4 ods. 3 písm. c), § 6 ods. 1 a § 11 ods. 4 písm. d), e)
+a g) zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov
+a splnomocňujúcich ustanovení zákona č. 582/2004 Z. z. o miestnych daniach a miestnom
+poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov sa
+uznieslo na tomto všeobecne záväznom nariadení (ďalej len „VZN“):
+
+                                     PRVÁ HLAVA
+                                        Prvá časť
+                                  Všeobecné ustanovenia
+                                             §1
+                                      Úvodné ustanovenia
+
+(1) Toto VZN ustanovuje na území obce Ľubica niektoré náležitosti miestnych daní v rozsahu
+splnomocňujúcich ustanovení zákona č. 582/2004 Z. z. o miestnych daniach a miestnom
+poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov (ďalej
+len „zákon“).
+(2) Základné náležitosti miestnych daní ustanovuje zákon.
+
+                                               §2
+                                       Druhy miestnych daní
+
+Obec Ľubica (ďalej len „ správca dane“ alebo „obec“)                    ukladá s účinnosťou
+od 1. januára 2027 na území obce Ľubica tieto miestne dane:
+    a) daň z nehnuteľností
+    b) daň za psa
+    c) daň za užívanie verejného priestranstva
+    d) daň za ubytovanie
+    e) daň za predajné automaty
+    f) daň za nevýherné hracie prístroje
+
+
+                                            Druhá časť
+                                               §3
+                                      Daň z nehnuteľnosti
+
+   Daň z nehnuteľností zahŕňa:
+   a) daň z pozemkov,
+   b) daň zo stavieb,
+   c) daň z bytov a nebytových priestorov v bytovom dome (ďalej len „daň z bytov“).
+
+                                           §4
+             Daň z pozemkov- základ dane z pozemkov, sadzba dane z pozemkov
+
+(1) Základom dane z pozemkov pre pozemky orná pôda, chmeľnice, vinice, ovocné sady, trvalé
+trávnaté porasty, ostatné plochy, ak sa využívajú na poľnohospodárstvo, lesné hospodárstvo
+alebo na účel spojený s hospodárstvom, je hodnota pozemku bez porastov určená vynásobením
+výmery pozemkov v m2 a hodnoty pôdy za               m2 uvedenej v prílohe č. 1 zákona
+č. 582/2004 Z. z.
+(2) Základom dane z pozemkov pre pozemky druhu záhrady, zastavané plochy a nádvoria,
+ostatné plochy, okrem ostatných plôch podľa § 6 ods. 1 písm. a) zákona č. 582/2004 Z. z.
+a stavebné pozemky je hodnota pozemku určená vynásobením výmery pozemkov v m2
+a hodnoty pozemkov za m2 uvedenej v prílohe č. 2 zákona č. 582/2004 Z. z.
+(3) Základom dane z pozemkov pre pozemky druhu lesné pozemky, na ktorých sú hospodárske
+lesy, rybníky s chovom rýb a ostatné hospodárske využívané vodné plochy, je hodnota
+pozemku bez porastov určená vynásobením výmery pozemkov v m2 a hodnoty pozemku
+zistenej na m2 podľa platných predpisov o stanovení všeobecnej hodnoty majetku. Ak daňovník
+túto hodnotu nepreukáže znaleckým posudkom, správca dane ustanovuje hodnotu pozemku za
+m2 vo výške 0,1364 €/m2.
+(4) Základom dane z pozemkov, na ktorých sa nachádza transformačná stanica alebo predajný
+stánok slúžiaci k predaju tovaru a poskytovaniu služieb, je hodnota pozemku určená
+vynásobením skutočnej výmery transformačnej stanice alebo predajného stánku v m2 a hodnoty
+pozemku za 1 m2 uvedenej v prílohe č. 2 zákona č. 582/2004 Z. z. pre stavebné pozemky.
+(5) Správca dane určuje ročnú sadzbu dane z pozemkov na území obce Ľubica:
+        a) orná pôda, chmeľnice, vinice, ovocné sady a trvale trávnaté porasty, ostatné plochy,
+            ak sa využívajú na poľnohospodárstvo, lesné hospodárstvo alebo účel spojený
+            s poľnohospodárstvom alebo lesným hospodárstvom vo výške 0,85 % zo základu
+            dane,
+        b) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné
+            hospodársky využívané vodné plochy vo výške 0,80 % zo základu dane,
+        c) záhrady vo výške 0,60 % zo základu dane,
+        d) zastavané plochy a nádvoria a ostatné plochy, okrem ostatných plôch podľa
+            písm. a) vo výške 0,65 % zo základu dane,
+        e) stavebné pozemky vo výške 0,60 % zo základu dane.
+(6) Správca dane ustanovuje, že na jednotlivé skupiny pozemkov, na ktorých sa nachádza
+transformačná stanica alebo predajný stánok slúžiaci k predaju tovaru a poskytovaniu služieb,
+určuje ročnú sadzbu dane 0,90 %.
+
+                                              §5
+                                         Daň zo stavieb
+
+(1) Správca dane určuje ročnú sadzbu dane zo stavieb na území obce Ľubica za každý aj
+začatý m2 zastavanej plochy takto:
+       a) 0,15 eura za stavbu na bývanie s najviac tromi bytmi a drobné stavby, ktoré majú
+       doplnkovú funkciu pre hlavnú stavbu,
+       b) 0,15 eura za stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+       hospodárstvo, stavby využívané na skladovanie vlastnej pôdohospodárskej
+       produkcie vrátane stavieb na vlastnú administratívu,
+       c) 0,50 eura za chaty a stavby na individuálnu rekreáciu,
+       d) 0,70 eura samostatne stojace garáže,
+       e) 0,70 eura stavby hromadných garáží,
+       f) 0,70 eura stavby hromadných garáží umiestnené pod zemou,
+       g) 0,90 eura za priemyselné stavby, stavby slúžiace energetike, stavby slúžiace
+       stavebníctvu, stavby využívané na skladovanie vlastnej produkcie vrátane stavieb na
+       vlastnú administratívu,
+       h) 0,90 eura za stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie
+       a administratívu súvisiacu s ostatným podnikaním a so zárobkovou činnosťou,
+       i) 0,60 eura za ostatné stavby neuvedené v písm. a) až h).
+(2) Správca dane určuje pri viacpodlažných stavbách za každé ďalšie podlažie okrem
+prvého nadzemného podlažia príplatok za podlažie na 0,10 eura.
+(3) Správca dane oslobodzuje od dane zo stavieb stavby alebo byty, ktorých využitie je
+obmedzené z dôvodu rozsiahlej rekonštrukcie 1, stavebnej uzávery alebo umiestnenia na
+podkopanom pozemku.
+                                               §6
+                                           Daň z bytov
+
+    (1) Správca dane určuje na území obce Ľubica ročnú sadzbu dane z bytov za každý aj začatý
+    m2 podlahovej plochy bytu a nebytového priestoru takto:
+        a) 0,30 eura podlahovej plochy bytu,
+        b) 1,00 eura podlahovej plochy nebytového priestoru, ktorý je určený na garážovanie,
+
+        c) 1,80 eura podlahovej plochy nebytového priestoru, ktorý je určený na podnikanie
+           alebo na inú zárobkovú činnosť,
+
+        d) 1,10 eura podlahovej plochy nebytového priestoru, ktorý je určený na iný účel.
+
+
+                                                   Tretia časť
+                                                        §7
+                                                   Daň za psa
+
+(1) Správca dane        určuje na území obce Ľubica          ročnú sadzbu dane za psa
+v sume 20,00 Eur.
+(2) Správca dane zníži ročnú sadzbu dane za psa o 5,00 Eur za psa chovaného alebo držaného
+daňovníkom nepretržite pri rodinnom dome, v záhradkárskej osade alebo na pozemku v obci.
+
+                                                   Štvrtá časť
+                                                    §8
+                               Daň za užívanie verejného priestranstva
+
+    (1) Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného
+    priestranstva. Verejným priestranstvom sú verejnosti prístupné pozemky vo vlastníctve
+    Obce Ľubica, ktoré sú evidované v katastri nehnuteľností pre katastrálne územie Ľubica na
+    listoch vlastníctva č. 1,331, 767, 1100, 1787, 2974, 3095, 3130, 3474, 3477, 3478, 3488,
+
+
+1
+ Rozsiahla rekonštrukcia neznamená výmena okien, strešnej krytiny, maľovka vnútorných priestorov a pod.
+Myslí sa ňou taký stav, ktorý bráni v riadnom užívaní stavby.
+3494, 3536, 3571, 3577, 3618, 3619, 766, 3475, 4813, 4926, 5761, 6489, 6513, 6525,
+3775, 3776, 3852, 3876, 3877, 4267, 4454, 4463, 4470, 6662, 6663, 6666, 6680, 6698,
+a pre katastrálne územie Ľubické Kúpele na listoch vlastníctva č. 1, 2, 11,
+alebo ich verejnosti prístupné časti, a to najmä :
+a) Miestne cesty, ulice a priľahlé chodníky na uliciach: Bernolákova, Budovateľská, Gen.
+Svobodu, Grodkovského ulica, Hlboká, Hraničná ulica, Chrenová ulica, Jánošíkova, Jarná,
+Jesenského, Kirchberg, Karola Kuzmányho, Kruhová, Mayerova ulica, Mierová, Na vŕšku,
+Nová tehelňa, Pod lesom, Podtatranská, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej
+Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája,
+b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach
+uvedených v písm. a) tohto odseku,
+c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na pozemkoch zapísaných na
+listoch vlastníctva uvedených v tomto odseku,
+d) verejné parkoviská a odstavné plochy na verejnosti prístupných pozemkoch vo
+vlastníctve obce, uvedených v tomto odseku, a to v rozsahu, v akom sú určené na osobitné
+užívanie verejného priestranstva podľa tohto nariadenia.
+Verejným priestranstvom na účely tohto nariadenia nie sú pozemky, ktoré obec prenajala
+podľa osobitného zákona.
+(2) Osobitným užívaním verejného priestranstva uvedeného v odseku 1 písm. a) až d) sa na
+účely tohto nariadenia rozumie užívanie verejného priestranstva formami uvedenými
+v písmenách A) až J) tohto odseku. Správca dane určuje na území obce Ľubica sadzbu dane
+za každý aj začatý m2 osobitne užívaného verejného priestranstva a každý aj začatý deň
+takto:
+A) jednorazový predaj z prenosných stánkov a pultov, jednorazový predaj z áut :
+    A1) poskytovanie občerstvenia z prenosných stánkov a pultov na verejnom
+    priestranstve, jednorazový predaj občerstvenia z áut                    8,00 eur/deň/m2
+    A2) jednorazový predaj z prenosných stánkov a pultov na verejnom priestranstve,
+    jednorazový predaj z áut na verejnom priestranstve
+    (predaj ovocia, zeleniny, kvetov, priesad, spotrebného tovaru, oblečenia, obuvi,
+    vykonávanie služieb napr. oprava dáždnikov, brúsenie nožov,
+    nožníc, oprava obuvi )                                               6,50 eur/deň/m2
+    A3) poskytovanie občerstvenia z prenosných stánkov a pultov, jednorazový predaj
+    občerstvenia z áut počas obecných slávností                           30,00 eur/deň/m2
+    A4) jednorazový predaj spotrebného tovaru z prenosných stánkov a pultov,
+    jednorazový predaj spotrebného tovaru z áut počas
+    obecných slávností                                                    15,00 eur/deň/m2
+     A5) poskytovanie občerstvenia z prenosných stánkov a pultov, jednorazový predaj
+     z áut počas iných kultúrnych a spoločenských udalostí                18,00 eur/deň/m2
+    A6) jednorazový predaj spotrebného tovaru z prenosných stánkov a pultov,
+    jednorazový predaj z áut počas iných kultúrnych
+     a spoločenských udalostí                                             10,00 eur/deň/m2
+ B) umiestnenie stavebného zariadenia
+(lešenie, oplotenie stavenísk, stavebné bunky, )                          0,20 eur/deň/m2
+
+ C) umiestnenie reklamného zariadenia na verejnom
+priestranstve                                                             0,20 eur/deň/m2
+
+ D) umiestnenie zariadenia slúžiaceho na poskytovanie služieb –
+    exteriérové sedenie (letné terasy, zimné terasy ako aj menšie exteriérové
+   sedenie tvorené stolmi a stoličkami) umiestnené bezprostredne pred
+   prevádzkarňou, ktoré slúži na poskytovanie služieb zákazníkom
+   tejto prevádzkarne                                                     0,025 eur/deň/m2
+
+ E) umiestnenie zariadenia na poskytovanie služieb –
+   dočasné prevádzkovanie a čistenie peria                                1,50 eur/deň/m2
+
+ F) umiestnenie zariadení cirkusu, zábavných atrakcií a lunaparkov
+ (kolotoče, nafukovacie hrady, trampolíny, autodrómy, strelnice,
+ detské vláčiky, Aquazorbing, stany cirkusov)                      0,90 eur/deň/m2
+
+ G) vyhradené parkovanie vozidla mimo stráženého parkoviska
+          - motocykle, skútre a štvorkolky                              0,0274 eur/deň/m2
+          - motorové vozidlá do 3,5 t                                   0,0235 eur/deň/m2
+          - motorové vozidlá od 3,5t do 7,5 t a autobusy                0,0600 eur/deň/m2
+          - motorové vozidlá nad 7,5 t                                  0,0700 eur/deň/m2
+          - motorové vozidlá pre držiteľa preukazu ZŤP
+            alebo ZŤP-S                                                 0,015 eur/deň/m2
+   H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov
+   alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych
+   návštevníkov počas konania kultúrnych, spoločenských, športových a trhových
+   podujatí, ak je toto zariadenie priestorovo oddelené od predajného stánku alebo hlavnej
+   prevádzky                                                               5,00 eur/deň/m2
+
+   I) umiestnenie zariadenia slúžiaceho na poskytovanie služieb alebo prevádzkovanie
+   zábavných a zážitkových atrakcií prostredníctvom digitálnych technológií, najmä
+   zariadení virtuálnej reality (VR), simulátorov, herných konzol, stánkov,
+   stanov, pultov, sedenia a súvisiaceho technického príslušenstva
+   alebo vymedzeného pohybového priestoru pre užívateľov                  5,00 eur/deň/m2
+
+  J)    dočasné      uloženie     stavebného     materiálu     a umiestnenie    kontajnerov
+  (palety s tehlami, piesok, štrk, palivové drevo, uhlie, umiestnenie
+    veľkokapacitných kontajnerov na stavebný a objemný odpad)               0,20 eur/deň/m2
+(3) Daňová povinnosť vzniká dňom začatia osobitného užívania verejného priestranstva
+a zaniká dňom skončenia osobitného užívania verejného priestranstva.
+(4) Oznamovaciu povinnosť daňovníka na vyrubenie dane za užívanie verejného priestranstva
+   ustanovuje osobitný zákon. V oznámení daňovník uvedie najmä:
+    a) základné údaje o osobe
+         - fyzická osoba – meno, priezvisko, titul, dátum narodenia, adresu trvalého pobytu
+         - fyzická osoba – podnikateľ – obchodné meno, sídlo, IČO, DIČ,
+         - právnická osoba – názov alebo obchodné meno, sídlo a IČO
+    b) údaje rozhodujúce na určenie dane:
+         - účel, miesto, obdobie a veľkosť záberu verejného priestranstva v m2.
+(5) Správca dane ustanovuje oslobodenie od dane za užívanie verejného priestranstva pre
+daňovníkov, ktorí užívajú verejné priestranstvo na:
+    a) akciu, z ktorej celý výťažok je určený na charitatívne a verejnoprospešné účely,
+    b) kultúrnu, športovú alebo cirkevnú akciu usporiadanú bez vstupného.
+(6) Pri dani za užívanie verejného priestranstva- trvalé parkovanie vozidla na verejnom
+priestranstve mimo stráženého parkoviska pre držiteľov preukazu ZŤP alebo ZŤP – S – je
+daňovník povinný preukázať nárok na zníženú sadzbu predložením platného preukazu ZŤP
+alebo ZŤP – s, príslušného posudku alebo rozhodnutia úradu práce, sociálnych vecí a rodiny.
+(7) Správca dane vyrubí daň za užívanie verejného priestranstva Rozhodnutím na základe
+povolenia na osobitné užívanie verejného priestranstva a oznámenia k osobitnému užívaniu
+verejného priestranstva. Správca dane vyrubí daň rozhodnutím najskôr v deň vzniku daňovej
+povinnosti.
+(8) Vyrubená daň je splatná do 15. dní odo dňa nadobudnutia právoplatnosti Rozhodnutia. Daň
+sa platí v hotovosti v pokladni správcu dane alebo na účet správcu dane.
+
+
+
+                                         Piata časť
+                                            §9
+                                     Daň za ubytovanie
+
+(1) Základom dane je počet prenocovaní, najviac však 60 prenocovaní daňovníka u jedného
+platiteľa dane v jednom kalendárnom roku.
+(2) Správca dane určuje sadzbu dane za ubytovanie vo výške 1,00 eur na osobu
+a každé prenocovanie v ubytovacom zariadení.
+(3) Platiteľ dane je povinný oznámiť obci Ľubica, ako správcovi dane (ďalej len „správca
+dane“), skutočnosti rozhodujúce pre určenie dane podľa zákona (§ 41a zákona č. 582/2004
+Z.z.).
+(4) Platiteľ dane je povinný oznámiť správcovi dane začatie poskytovania odplatného
+prechodného ubytovania a ubytovaciu kapacitu zariadenia, ako i ukončenie poskytovania
+odplatného prechodného ubytovania prostredníctvom formulára „Oznámenie o začatí/ukončení
+poskytovania odplatného prechodného ubytovania“. Správca dane po oznámení o začatí
+poskytovania odplatného prechodného ubytovania následne písomné oznámi platiteľovi dane
+údaje potrebné pre platenie dane.
+(5) Platiteľ dane je povinný oznámiť správcovi dane základ dane v termíne do 10. dňa po
+skončení kalendárneho štvrťroka za predchádzajúci štvrťrok za každé ubytovacie zariadenie na
+území obce prostredníctvom formulára „Hlásenie o počte prenocovaní“.
+(6) Daň je splatná bez vyrubenia do 15. dňa po skončení kalendárneho štvrťroka.
+(7) Daň platiteľ dane platí na určený účet správcu dane alebo v hotovosti do pokladnice Obce
+Ľubica.
+
+
+                                         Šiesta časť
+                                            § 10
+                                  Daň za predajné automaty
+
+(1) Správca dane určuje na území obce Ľubica ročnú sadzbu dane 200 eur za jeden predajný
+automat a kalendárny rok.
+(2) Daňovník môže platiť a odvádzať daň týmito spôsobmi:
+a) v hotovosti priamo do pokladne obce,
+b) bezhotovostným prevodom na účet obce alebo vkladom v banke na účet obce.
+(3) Daň za predajné automaty sa vyrubuje rozhodnutím.
+(4) Daňovník je povinný viesť písomne preukázanú evidenciu o počte prevádzkovaných
+predajných automatov. V tejto evidencii je daňovník povinný očíslovať strany a predložiť túto
+evidenciu správcovi dane (na obecný úrad) do 30 dní od vzniku daňovej povinnosti na
+potvrdenie tejto evidencie (jej každej strany).
+(5) Evidencia o počte prevádzkovaných predajných automatov musí obsahovať:
+a) obchodné meno a sídlo daňovníka,
+b) deň začatia prevádzkovania predajného automatu,
+c) deň ukončenia prevádzkovania predajného automatu,
+d) druh, typ a názov predajného automatu,
+e) výrobné číslo predajného automatu,
+f) miesto umiestnenia predajného automatu,
+g) meno a priezvisko osoby zodpovednej za vedenie evidencie.
+(6) Daňovník je povinný predložiť správcovi dane na jeho výzvu evidenciu prevádzkovaných
+predajných automatov.
+(7) Od dane je oslobodený predajný automat, ktorý je prevádzkovaný v priestoroch obecného
+úradu správcu dane.
+
+                                          Siedma časť
+                                         § 11
+                             Daň za nevýherné hracie prístroje
+
+(1) Správca dane určuje na území obce Ľubica ročnú sadzbu dane vo výške 200 € za jeden
+nevýherný hrací prístroj a kalendárny rok.
+(2) Daňovník je povinný na účely dane viesť písomnú alebo elektronickú evidenciu o počte
+prevádzkovaných nevýherných hracích prístrojov. Evidencia prevádzkovaných prístrojov musí
+obsahovať:
+   a) obchodné meno alebo názov prevádzkovateľa, sídlo, IČO
+   b) deň začatia prevádzkovania nevýherného hracieho prístroja,
+   c) deň ukončenia prevádzkovania nevýherného hracieho prístroja,
+   d) druh, typ a názov nevýherného hracieho prístroja,
+   e) výrobné číslo nevýherného hracieho prístroja,
+   f) miesto umiestnenia nevýherného hracieho prístroja,
+   g) meno a priezvisko osoby zodpovednej za vedenie evidencie.
+(3) Daňovník môže platiť a odvádzať daň týmito spôsobmi:
+   a) v hotovosti priamo do pokladne obce,
+   b) bezhotovostným prevodom na účet obce alebo vkladom v banke na účet obce.
+(4) Daň za nevýherné hracie prístroje sa vyrubuje rozhodnutím.
+
+
+
+                                             Ôsma časť
+                                               § 12
+                               Spoločné ustanovenia pre miestne dane
+
+(1) Správca dane ustanovuje, že daň z nehnuteľnosti, daň za psa, daň za predajné automaty a daň za
+nevýherné hracie prístroje v úhrne do sumy 5 (päť) eur nebude vyrubovať.
+(2) Priznanie k dani z nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za
+nevýherné hracie prístroje je daňovník povinný podať správcovi dane do 31. januára toho
+zdaňovacieho obdobia, v ktorom mu vznikla daňová povinnosť k týmto daniam alebo
+niektorej z nich, a to podľa stavu k 1. januáru zdaňovacieho obdobia.
+(3) Ak je pozemok, stavba, byt alebo nebytový priestor v bytovom dome v spoluvlastníctve
+viacerých osôb, priznanie, čiastkové priznanie, opravné priznanie alebo dodatočné priznanie
+k dani z nehnuteľnosti podá každý spoluvlastník do výšky svojho spoluvlastníckeho podielu.
+Ak sa spoluvlastníci dohodnú, príslušné priznanie podá zástupca, ktorého dohodou určili
+spoluvlastníci, pričom túto skutočnosť vyznačí v príslušnom priznaní. Ak je pozemok, stavba,
+byt alebo nebytový priestor v bytovom dome v bezpodielovom spoluvlastníctve manželov,
+príslušné priznanie podáva jeden z manželov.
+(4)Ak vznikne daňová povinnosť k dani za psa, k dani za predajné automaty a k dani za
+nevýherné hracie prístroje v priebehu zdaňovacieho obdobia, daňovník je povinný podať
+priznanie k tej dani, ku ktorej vznikla daňová povinnosť, najneskôr do 30 dní odo dňa vzniku
+tejto daňovej povinnosti.
+(5) Ak v priebehu zdaňovacieho obdobia daňovník nadobudne nehnuteľnosť vydražením alebo
+dedením, a už podal priznanie k dani z nehnuteľnosti, k dani za psa, k dani za predajné
+automaty a k dani za nevýherné hracie prístroje, je povinný podať čiastkové priznanie k dani
+z nehnuteľnosti do 30 dní odo dňa vzniku daňovej povinnosti.
+(6)Daň z nehnuteľností, daň za psa, daň za predajné automaty a daň za nevýherné hracie
+prístroje je splatná v lehote, ktorá je uvedená v rozhodnutí.
+(7)Číslo bankového účtu pre daň z nehnuteľností, daň za psa, daň za ubytovanie, daň za
+užívanie verejného priestranstva, daň za nevýherné hracie prístroje a predajné automaty je
+SK02 0200 0000 0000 6032 2562, variabilný symbol je číslo rozhodnutia, konštantný symbol
+0558, v správe pre adresáta alebo poznámke daňovník uvedie rok, za ktorý daň uhrádza, pri
+dani za užívanie verejného priestranstva, dani za nevýherné hracie prístroje a predajné automaty
+aj ďalšie potrebné identifikačné údaje uvedené v rozhodnutí.
+
+                                           § 13
+                                   Záverečné ustanovenia
+
+   1. Návrh VZN o miestnych bol vyvesený na úradnej tabuli obce, centrálnej úradnej
+      elektronickej tabuli a na webovom sídle obce dňa 25.11.2026 a zvesený dňa
+      10.12.2026.
+   2. Podľa § 6 ods. 4 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+      predpisov, pripomienky k návrhu VZN o miestnych daniach možno uplatniť v lehote
+      odo dňa zverejnenia návrhu VZN do 5.12.2026 (včítane).
+   3. VZN č. ......./2026 o miestnych daniach bolo schválené na zasadnutí Obecného
+      zastupiteľstva obce Ľubica uznesením č. ......... dňa 10.12.2026.
+   4. VZN č. .........../2026 o miestnych daniach bolo vyhlásené vyvesením na úradnej tabuli
+      obce, centrálnej úradnej elektronickej tabuli a na webovom sídle obce dňa
+      ..............2026.
+   5. Dňom nadobudnutia účinnosti VZN č. ......../2026 o miestnych daniach sa zrušuje VZN
+      č. 3/2025 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+      stavebné odpady.
+   6. VZN č. ......../2026 o miestnych daniach nadobúda účinnosť 1. januára 2027.
+
+
+
+
+                                                                 Ing. Štefan Špirko
+                                                                   starosta obce
+

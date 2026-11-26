@@ -1,0 +1,793 @@
+URL: https://cuet.slovensko.sk/en/dokument/06ef0c3a-1d5a-4cce-b533-0ea40f0a9c22
+OBEC: Spišská Belá (Kežmarok)
+NÁZOV: Návrh VZN č. .../2026 o o miestnych daniach a mies
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/06ef0c3a-1d5a-4cce-b533-0ea40f0a9c22
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN č. .../2026 o o miestnych daniach a mies
+Search publisher's RSS feeds
+Published on official board:
+Mesto Spišská Belá (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Mesto Spišská Belá (OVM)
+Published to:
+31.12.2026
+Registry case:
+Name of official document:
+Návrh VZN č. .../2026 o o miestnych daniach a mies
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh VZN o o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Úradná tabuľa orgánu verejnej moci
+Date of alternative publication start:
+25.11.2026
+Date of alternative publication end:
+31.12.2026
+Attachment name:
+Návrh VZN_XX_2026_Dane a poplatky_25112026.pdf
+Type and size:
+.pdf, 444.95 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/093a46b6-9d84-4267-804e-6716a2a96c6b
+Mesto Spišská Belá, Petzvalova 272/18, 059 01 Spišská Belá
+
+
+Všeobecne záväzné nariadenie mesta Spišská Belá
+                  č. XX/2026
+    o miestnych daniach a miestnom poplatku
+ za komunálne odpady a drobné stavebné odpady
+
+
+
+                         NÁVRH
+
+
+
+
+                                                             1
+                                       Všeobecne záväzné nariadenie
+                                           Mesta Spišská Belá
+                                                   Číslo XX/2026
+                                                 zo dňa 10.12.2026
+                     o miestnych daniach a miestnom poplatku za komunálne odpady
+                                      a drobné stavebné odpady
+
+Mestské zastupiteľstvo v Spišskej Belej podľa § 4 ods. 3 písm. c) v spojení s § 6 ods. 1 zákona č. 369/1990 Zb. o obecnom zriadení
+v znení neskorších predpisov a podľa zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady
+a drobné stavebné odpady v znení neskorších predpisov sa uznieslo na tomto všeobecne záväznom nariadení (ďalej len
+„nariadenie“):
+
+
+                                                     PRVÁ ČASŤ
+                                                         §1
+                                              Predmet úpravy a druhy daní
+
+1. Týmto nariadením sa ustanovujú miestne dane a poplatok za komunálne odpady a drobné stavebné odpady pre územie mesta
+   Spišská Belá.
+2. Mesto Spišská Belá (ďalej len „mesto“) ukladá tieto miestne dane:
+   a) daň z nehnuteľností,
+   b) daň za psa,
+   c) daň za užívanie verejného priestranstva,
+   d) daň za ubytovanie,
+   e) daň za predajné automaty,
+   f) daň za nevýherné hracie prístroje.
+3. Mesto Spišská Belá (ďalej len „mesto“) ukladá miestny poplatok za komunálne odpady a drobné stavebné odpady (ďalej len
+   „poplatok“).
+4. Na účely tohto nariadenia sa územím mesta rozumie katastrálne územie Spišská Belá a katastrálne územie Strážky.
+
+
+                                                  DRUHÁ ČASŤ
+                                              DAŇ Z NEHNUTEĽNOSTÍ
+
+                                                            §2
+
+Daň z nehnuteľností zahŕňa:
+   a) daň z pozemkov,
+   b) daň zo stavieb,
+   c) daň z bytov a z nebytových priestorov v bytovom dome (ďalej len „daň z bytov“).
+
+                                                                                                                                2
+                                                  Daň z pozemkov
+                                                          §3
+                                                      Základ dane
+
+1.   Základom dane z pozemkov pre pozemky druhu orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty, je
+     hodnota pozemku bez porastov určená vynásobením výmery pozemkov v m2 a hodnoty pôdy za 1 m2 uvedenej v prílohe č. 1
+     zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady
+     v platnom znení, ktorá je nasledovná:
+        Katastrálne územie              Hodnota ornej pôdy v € za m2            Hodnota trvalých trávnatých porastov v € za m2
+        Spišská Belá                                0,2974                                           0,0541
+        Strážky                                     0,2791                                           0,0408
+
+2.   Základom dane z pozemkov pre ostatné plochy, ak sa využívajú na poľnohospodárstvo, lesné hospodárstvo alebo účel
+     spojený s poľnohospodárstvom alebo lesným hospodárstvom, je hodnota pozemku bez porastov určená vynásobením výmery
+     pozemkov v m2 a hodnoty za m2 uvedenej v prílohe č. 1 zákona č. 582/2004 Z. z. pre ornú pôdu nasledovná:
+     a) katastrálne územie Spišská Belá – 0,2974 za m2,
+     b) katastrálne územie Strážky – 0,2791 za m2.
+
+3.   Základom dane z pozemkov pre pozemky druhu záhrady, zastavané plochy a nádvoria, ostatné plochy, okrem ostatných
+     plôch podľa § 6 ods. 1 písm. a) zákona č. 582/2004 Z. z. a stavebné pozemky je hodnota pozemku určená vynásobením
+     výmery pozemkov v m2 a hodnoty pozemkov za 1 m2 uvedenej v prílohe č. 2 zákona č. 582/2004 Z. z. o miestnych daniach
+     a miestnom poplatku za komunálne odpady a drobné stavebné odpady v platnom znení, ktorá je nasledovná:
+        Druh pozemku                                                                      Hodnota v € za m2
+        Záhrady, zastavané plochy a nádvoria, ostatné plochy                                      2,12
+        Stavebné pozemky                                                                         21,24
+
+4.   Základom dane z pozemkov pre pozemky druhu lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb
+     a ostatné hospodársky využívané vodné plochy, je hodnota pozemku bez porastov určená vynásobením výmery pozemkov
+     v m2 a hodnoty pozemku zistenej na 1 m2 podľa platných predpisov o stanovení všeobecnej hodnoty majetku.
+5.   Základom dane z pozemkov, na ktorých sa nachádza transformačná stanica alebo predajný stánok slúžiaci k predaju tovaru
+     a poskytovaniu služieb, je hodnota pozemku určená vynásobením skutočnej výmery transformačnej stanice alebo predajného
+     stánku v m2 a hodnoty pozemku za 1 m2 uvedenej v prílohe č. 2 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom
+     poplatku za komunálne odpady a drobné stavebné odpady v platnom znení pre stavebné pozemky, ktorá je nasledovná:
+     a) katastrálne územie Spišská Belá – 21,24 za m2,
+     b) katastrálne územie Strážky – 21,24 za m2.
+
+
+                                                         §4
+                                                     Sadzba dane
+
+1.   Správca dane určuje pre pozemky na území mesta Spišská Belá pre katastrálne územie Spišská Belá ročnú sadzbu dane
+     z pozemkov v závislosti od druhu pozemkov nasledovne:
+     a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty, ostatné plochy, ak sa využívajú na poľnohospodárstvo,
+         lesné hospodárstvo alebo účel spojený s poľnohospodárstvom alebo lesným hospodárstvom 0,55 %,
+     b) záhrady 0,72 %,
+
+                                                                                                                                3
+       c) zastavané plochy a nádvoria, ostatné plochy okrem ostatných plôch podľa písmena a) 0,72 %,
+       d) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy
+          0,47 %,
+       e) stavebné pozemky 0,58 %.
+
+2.     Správca dane určuje pre pozemky na území mesta Spišská Belá pre katastrálne územie Strážky ročnú sadzbu dane
+       z pozemkov v závislosti od druhu pozemkov nasledovne:
+       a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty, ostatné plochy, ak sa využívajú na poľnohospodárstvo,
+           lesné hospodárstvo alebo účel spojený s poľnohospodárstvom alebo lesným hospodárstvom 0,76 %,
+       b) záhrady 0,72 %,
+       c) zastavané plochy a nádvoria, ostatné plochy okrem ostatných plôch podľa písmena a) 0,72 %,
+       d) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy
+           0,47 %,
+       e) stavebné pozemky 0,58 %.
+
+                                                        Daň zo stavieb
+                                                              §5
+                                                          Sadzba dane
+
+Správca dane určuje pre všetky katastrálne územia ročnú sadzba dane zo stavieb za každý aj začatý m 2 zastavanej plochy
+a príplatku za podlažie nasledovne:
+
+                                                      Ročná sadzba dane zo stavieb
+
+                                                                                   Za prvé nadzemné   Príplatok za podzemné a ostatné
+                                                                                     podlažie €/m2       nadzemné podlažie - €/m2
+     stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú
+1.                                                                                     0,2100                     0,068
+     stavbu
+   stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+2. hospodárstvo, stavby využívané na skladovanie vlastnej pôdohospodárskej             0,2100                     0,068
+   produkcie vrátane stavieb na vlastnú administratívu
+
+3. chaty a stavby na individuálnu rekreáciu                                             0,692                     0,068
+4. samostatne stojace garáže                                                            0,731                     0,068
+5. stavby hromadných garáží                                                             0,731                     0,068
+6. stavby hromadných garáží umiestnené pod zemou                                        0,731                     0,068
+   priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu,
+7. stavby využívané na skladovanie vlastnej produkcie vrátane stavieb na                1,944                     0,068
+   vlastnú administratívu
+   stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie
+8.                                                                                      1,944                     0,068
+   a administratívu súvisiacu s ostatným podnikaním a so zárobkovou činnosťou
+9. ostatné stavby neuvedené v stĺpci 1 až 8                                             0,215                     0,068
+
+
+
+                                                          Daň z bytov
+                                                              §6
+                                                          Sadzba dane
+
+     Správca dane určuje ročnú sadzba dane z bytov nasledovne:
+      a) v prípade bytu je 0,400 € za každý aj začatý m2 podlahovej plochy bytu,
+
+                                                                                                                                  4
+  b) v prípade nebytového priestoru je sadzba dane za každý aj začatý m2 podlahovej plochy nebytového priestoru vo výške
+     určenej v § 5 tohto nariadenia (ako pre daň zo stavieb), podľa druhu nebytového priestoru.
+
+
+                                                     TRETIA ČASŤ
+                                                     DAŇ ZA PSA
+                                                           §7
+                                                       Sadzba dane
+
+Správca dane určuje sadzbu dane za jedného psa a kalendárny rok nasledovne:
+ a) 31,00 € za psa chovaného v byte bytového domu,
+ b) 21,00 € v ostatných prípadoch.
+
+                                                          §8
+                                                  Oslobodenie od dane
+Od dane sú oslobodené:
+  a) služobné psy ozbrojených zložiek a ozbrojených zložiek a ozbrojených síl Slovenskej republiky,
+  b) psy, ktorých držiteľmi sú fyzické osoby – držitelia preukazov ŤZP a ŤZP-S,
+  c) poľovnícke psy používané na poľovnícke účely,
+  d) záchranárske psy.
+Vzor tlačiva na evidenciu psov mesta Spišská Belá je v prílohe č. 1.
+
+                                          ŠTVRTÁ ČASŤ
+                            DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA
+                                                          §9
+                                                      Sadzba dane
+
+Správca dane určuje sadzbu dane za užívanie verejného priestranstva sa za každý aj začatý m2 osobitne užívaného verejného
+priestranstva a každý aj začatý deň nasledovne:
+                                                       § 10
+                                Určenie miest, ktoré sú verejnými priestranstvami
+
+ umiestnenie predajného zariadenia, zariadenia slúžiaceho na
+                                                                                       3,00 €/m2 a deň
+ poskytovanie služieb a ambulantné poskytovanie služieb z auta
+ umiestnenie predajného zariadenia s občerstvením počas kultúrnych
+                                                                                       8,00 €/m2 a deň
+ a spoločenských podujatí
+ umiestnenie stavebného zariadenia                                                     0,30 €/m2 a deň
+ umiestnenie zariadenia cirkusu, lunaparku a iných atrakcií                            0,25 €/m2 a deň
+ umiestnenie skládky materiálu                                                         0,30 €/m2 a deň
+ umiestnenie reklamného zariadenia                                                     3,00 €/m2 a deň
+ umiestnenie zariadenia na propagáciu politickej strany                               14,00 €/m2 a deň
+ letné reštaurácie, cukrárne (stolovanie vonku)                                        0,04 €/m2 a deň
+
+Verejnými priestranstvami na účely tejto dane sú miestne komunikácie, chodníky, verejná zeleň, spevnené plochy a trhové
+miesta v k. ú. Spišská Belá a k. ú. Strážky, o ktorých využití na účely uvedené v § 9 tohto nariadenia rozhodne primátor mesta,
+resp. ním poverený zamestnanec mesta.
+
+
+                                                                                                                              5
+                                                       § 11
+                                               Oznamovacia povinnosť
+
+     Vzor písomného oznámenia o vzniku alebo zániku k dani za osobitné užívanie verejného priestranstva je uvedený v prílohe
+     č. 2 tohto nariadenia.
+
+                                                           § 12
+                    Oslobodenie od tejto dane a podmienky uplatnenia oslobodenia od tejto dane
+     Od dane je oslobodené užívanie verejného priestranstva:
+      a) na dočasné umiestnenie skládky stavebného materiálu, stavebného odpadu alebo paliva (napr. dreva, uhlia), ak užívanie
+          verejného priestranstva nebude trvať viac ako 3 dni,
+      b) na dočasné umiestnenie stavebného zariadenia, ak užívanie verejného priestranstva nebude trvať viac ako 30 dní.
+
+
+                                                  PIATA ČASŤ
+                                               DAŇ ZA UBYTOVANIE
+                                                         § 13
+                                                     Sadzba dane
+     Správca dane určuje sadbu dane za ubytovanie 0,60 € na osobu a prenocovanie.
+
+                                                        § 14
+                                 Vznik a zánik daňovej povinnosti a oznamovacia povinnosť
+1.      Daňová povinnosť vzniká dňom začatia poskytovania odplatného prechodného ubytovania fyzickej osobe v zariadení
+        poskytujúcom služby prechodného ubytovania a zaniká posledným dňom uvedeného ubytovania.
+2.      Platiteľ dane je povinný písomne oznámiť vznik alebo zánik daňovej povinnosti správcovi dane do 30 dní od vzniku alebo
+        zániku daňovej povinnosti.
+
+                                                     § 15
+                         Rozsah a spôsob vedenia preukaznej evidencie na účely tejto dane
+1. Platiteľ dane je povinný viesť evidenciu ubytovaných hostí a to v písomnej (kniha ubytovaných hostí) alebo
+   v elektronickej forme, ktorá musí minimálne obsahovať:
+   a) meno, priezvisko, dátum narodenia a adresu trvalého pobytu každej ubytovanej osoby,
+   b) číslo občianskeho preukazu alebo cestovného pasu,
+   c) deň príchodu a deň odchodu,
+   d) počet prenocovaní.
+2. Platiteľ dane je povinný predložiť správcovi dane na jeho výzvu knihu ubytovaných.
+
+                                                          § 16
+                                       Vyrubenie dane a spôsoby odvodu dane
+1. Platiteľ dane vyberá daň od daňovníka nasledovným spôsobom:
+   a) v hotovosti priamo do pokladne platiteľa dane – platiteľ dane odovzdá daňovníkovi potvrdenie o zaplatení dane a kópiu
+       tohto potvrdenia si ponechá pre daňové účely,
+   b) prevodom z účtu daňovníka na účet platiteľa dane – dokladom o zaplatení dane je výpis z účtu z peňažného ústavu, ktorý
+       platiteľ uchováva pre daňovú kontrolu 10 rokov od vystavenia výpisu.
+2. Platiteľ dane môže platiť a odvádzať daň týmito spôsobmi:
+   a) v hotovosti priamo do pokladne mesta,
+   b) bezhotovostným prevodom na účet mesta,
+   c) poštovou poukážkou príslušného typu.
+3. Platiteľ dane je povinný zaplatenú daň odviesť mestu polročne, a to do konca mesiaca nasledujúceho po uplynutí príslušného
+
+                                                                                                                               6
+    kalendárneho polroka.
+
+                                                         § 17
+                                              Potvrdenie o zaplatení dane
+1. Platiteľ dane je povinný vydať daňovníkovi (fyzická osoba, ktorá je v zariadení prechodne odplatne ubytovaná) potvrdenie
+   o zaplatení dane.
+2. Potvrdenie o zaplatení dane musí obsahovať:
+   a) číslo potvrdenia,
+   b) dátum vydania potvrdenia,
+   c) kto vystavil potvrdenia a kto prijal zaplatenú daň (označenie poskytovateľa ubytovania – platiteľa dane),
+   d) komu bolo vystavené potvrdenie a kto zaplatil daň (meno, priezvisko, trvalý pobyt, číslo preukazu totožnosti),
+   e) výška zaplatenej dane.
+3. Potvrdenie o zaplatení dane je platiteľ dane povinný uchovávať pre daňové účely po dobu 10 rokov od vystavenia potvrdenia.
+4. Vzor oznámenia o vzniku/zániku daňovej povinnosti k dani za ubytovanie je v prílohe č. 3.
+
+
+                                              ŠIESTA ČASŤ
+                                       DAŇ ZA PREDAJNÉ AUTOMATY
+                                                        § 18
+                                          Sadzba dane za predajné automaty
+
+  Správca dane určuje sadzba dane za predajné automaty 42,00 € za jeden predajný automat a kalendárny rok.
+
+
+                                                           § 19
+                                                      Vyberanie dane
+
+  Daňovník môže platiť a odvádzať daň týmito spôsobmi:
+   a) v hotovosti priamo do pokladne mesta,
+   b) bezhotovostným prevodom na účet mesta,
+   c) poštovou poukážkou príslušného typu.
+
+                                                       § 20
+                Rozsah a spôsob vedenia preukaznej evidencie na účely dane a spôsob identifikácie predajných
+                                                        automatov
+1. Daňovník je povinný viesť písomne preukázanú evidenciu o počte prevádzkovaných predajných automatov. V tejto evidencii
+   je daňovník povinný očíslovať strany a predložiť túto evidenciu správcovi dane (na mestský úrad) do 30 dní od vzniku daňovej
+   povinnosti na potvrdenie tejto evidencie (jej každej strany).
+2. Evidencia o počte prevádzkovaných predajných automatov musí obsahovať:
+   a) obchodné meno a sídlo daňovníka,
+   b) deň začatia prevádzkovania predajného automatu,
+   c) deň ukončenia prevádzkovania predajného automatu,
+   d) druh, typ a názov predajného automatu,
+   e) výrobné číslo predajného automatu,
+   f) miesto umiestnenia predajného automatu,
+   g) meno a priezvisko osoby zodpovednej za vedenie evidencie.
+3. Daňovník je povinný predložiť správcovi dane na jeho výzvu evidenciu prevádzkovaných predajných automatov.
+
+                                                         § 21
+
+                                                                                                                              7
+                                      Oslobodenie od dane za predajné automaty
+
+    Od dane je oslobodený predajný automat, ktorý je prevádzkovaný v priestoroch správcu dane.
+
+
+
+                                             SIEDMA ČASŤ
+                                  DAŇ ZA NEVÝHERNÉ HRACIE PRÍSTROJE
+                                                          § 22
+                                        Sadzba dane za nevýherné hracie prístroje
+
+    Správca dane určuje sadzbu dane za nevýherné hracie automaty nasledovne:
+    a) 67,00 € za jeden elektronický prístroj na počítačové hry a kalendárny rok,
+    b) 40,00 € za jeden mechanický prístroj – biliard a kalendárny rok.
+
+
+
+
+                                                           § 23
+                                        Vyberanie dane za nevýherné hracie prístroje
+
+    Daňovník môže platiť a odvádzať daň týmito spôsobmi:
+    a) v hotovosti priamo do pokladne mesta,
+    b) bezhotovostným prevodom na účet mesta,
+    c) poštovou poukážkou príslušného typu.
+
+                                                        § 24
+           Rozsah a spôsob vedenia preukaznej evidencie na účely dane a spôsob identifikácie automatov
+
+1. Daňovník je povinný viesť písomne preukázanú evidenciu o počte prevádzkovaných nevýherných hracích automatov. V tejto
+   evidencii je daňovník povinný očíslovať strany a predložiť túto evidenciu správcovi dane (na mestský úrad) do 30 dní od vzniku
+   daňovej povinnosti na potvrdenie tejto evidencie (jej každej strany).
+2. Evidencia o počte prevádzkovaných nevýherných hracích automatov musí obsahovať:
+   a) obchodné meno a sídlo daňovníka,
+   b) deň začatia prevádzkovania nevýherného hracieho automatu,
+   c) deň ukončenia prevádzkovania nevýherného hracieho automatu,
+   d) druh, typ a názov nevýherného hracieho automatu,
+   e) výrobné číslo nevýherného hracieho automatu,
+   f) miesto umiestnenia nevýherného hracieho automatu,
+   g) meno a priezvisko osoby zodpovednej za vedenie evidencie.
+3. Daňovník je povinný predložiť správcovi dane na jeho výzvu evidenciu prevádzkovaných nevýherných hracích automatov.
+
+
+                                                  ÔSMA ČASŤ
+                                              SPOLOČNÉ USTANOVENIA
+                                                                  § 25
+Daň z nehnuteľnosti, daň za psa, daň za predajné automaty a daň za nevýherné hracie prístroje sa nebude vyrubovať, ak
+jej výška v úhrne nepresiahne sumu 3 eur.
+
+
+
+                                                                                                                                8
+                                            DEVIATA ČASŤ
+                                 Miestny poplatok za komunálne odpady
+                            a drobné stavebné odpady (ďalej len „poplatok“)
+
+                                                           § 26
+                                                         Poplatok
+
+Ak viacero poplatníkov podľa § 77 ods.7 zákona č. 582/2004 Z. z. podľa odseku 2 písm. a) žije v spoločnej domácnosti, plnenie
+povinností poplatníka môže za ostatných členov tejto domácnosti na seba prevziať jeden z nich. Namiesto poplatníka, ktorý nie je
+spôsobilý na právne úkony v plnom rozsahu, preberá povinnosti poplatníka jeho zákonný zástupca, prípadne opatrovník. Povinnosti
+poplatníka nesmie za iného prevziať alebo plniť osoba, ktorá sa dlhodobo zdržiava mimo územia Slovenskej republiky, alebo je
+nezvestná. Tieto skutočnosti, ako aj ich zmeny je osoba, ktorá za iného plní povinnosti poplatníka, povinná oznámiť mestu (príloha
+č. 4).
+
+
+                                                                  § 27
+1. Mesto určuje sadzbu poplatku za komunálne odpady a drobné stavebné odpady, za kuchynský bioodpad na obdobie
+    jedného kalendárneho roka nasledovne:
+1.1 Sadzba poplatku pre poplatníkov, ktorými sú:
+    a) fyzické osoby, ktoré majú v meste trvalý alebo prechodný pobyt, alebo sú oprávnené užívať nehnuteľnosť, je
+        0,17 €/deň/osobu,
+    b) právnické osoby – nepodnikatelia, je 5,40 €/1 odvoz/1 nádoba 120 litrová, alebo 49,50 €/1 odvoz/ 1 nádoba 1 100
+        litrová, s vývozom 1 krát za 7 dní, alebo 14 dní,
+    c) podnikatelia, je 6,60/€/1 odvoz/1 nádoba 120 litrová, alebo 60,50 €/1 odvoz/1 nádoba/1 100 litrová, s vývozom 1 krát
+        za 7 dní, alebo za 14 dní.
+
+1.2 Sadzba poplatku za drobný stavebný odpad:
+    a) sadzba poplatku za jeden kilogram drobných stavebných odpadov je 0,20 €.
+2. Poplatok za drobný stavebný odpad poplatník uhrádza v hotovosti priamo na zbernom dvore poverenému
+    zamestnancovi mesta, o čom sa poplatníkovi následne vydá aj príjmový pokladničný doklad.
+3. Mesto, resp. organizácia ním poverená na zber a prepravu odpadu, určí po predchádzajúcom prerokovaní s poplatníkom
+    podľa ods. 1 písm. b) a c), počet a veľkosť (druh) požadovaných zberných nádob, ako aj frekvenciu odvozu komunálneho
+    a stavebného odpadu, ktoré bude daný poplatník používať na zber odpadu (príloha č.5).
+
+
+                                                              § 28
+                                           Vrátenie, zníženie a odpustenie poplatku
+
+1. Mesto vráti poplatok alebo jeho pomernú časť poplatníkovi, ktorému zanikla povinnosť platiť poplatok v priebehu
+   zdaňovacieho obdobia ak preukáže splnenie podmienok na vrátenie poplatku alebo jeho pomernej časti.
+2. Podmienky na vrátenie poplatku, alebo jeho pomernej časti sú:
+   a) písomná žiadosť o vrátenie preplatku,
+   b) doklad preukazujúci zánik poplatkovej povinnosti /napr. zmena trvalého alebo prechodného pobytu, zánik práva
+       užívať nehnuteľnosť, oznámenie o ukončení podnikateľskej činnosti na území mesta, úmrtie/
+3. Mesto na základe žiadosti alebo predloženia dokladov poplatníka zníži sadzbu poplatku o 50 % poplatníkovi, ktorý
+   relevantným spôsobom preukáže, že sa fyzická osoba dlhodobo t. j. viac ako 90 dní zdržiava mimo miesta trvalého
+   pobytu z dôvodu štúdia alebo zamestnania v SR, pobytu či štúdia v zahraničí /opatrovateľom/kám a iným osobám
+   vykonávajúcim turnusovú prácu v zahraničí/, vo výkone trestu odňatia slobody alebo v sociálnom zariadení.
+4. Poplatník preukazuje skutočnosti k zníženiu poplatku na aktuálne zdaňovacie obdobie dokladmi:
+   a) údaje v rozsahu meno, priezvisko a rodné číslo alebo dátum narodenia žiaka alebo študenta, ktoré sú potrebné na
+
+                                                                                                                                 9
+       overenie statusu žiaka alebo študenta prostredníctvom informačného systému alebo potvrdenie o ubytovaní žiaka
+       alebo študenta denného štúdia na území SR
+   b) pracovnou zmluvou o práci v zahraničí (potvrdenie zamestnávateľa preukazujúce prácu v zahraničí),
+   c) potvrdením od zamestnávateľa, potvrdením o ubytovaní, nájomnou zmluvou alebo pracovnou zmluvou, z ktorej je
+       preukázateľné miesto výkonu práce,
+   d) doklad o úhrade poplatku za komunálny odpad v inom meste/obci,
+   e) potvrdením o prechodnom pobyte alebo nájomnou zmluvou s rozhodnutím o vyrubení poplatku alebo potvrdením
+       o zaplatení poplatku
+   f) potvrdenie o výkone trestu prípadne čestným vyhlásením, ak nemožno skutočnosť doložiť inak
+5. Mesto zníži sadzbu poplatku o 30 % osobám, ktoré sú staršie ako 62 rokov a osobám, ktoré predložia preukaz ŤZP
+   alebo ŤZP-S s dobou jeho platnosti. Pre posúdenie veku poplatníka je rozhodujúci stav k 1. januáru zdaňovacieho
+   obdobia. Na zmenu veku počas zdaňovacieho obdobia sa neprihliada.
+6. Mesto poplatok odpustí v prípade, že fyzická osoba sa dlhodobo t .j. celé zdaňovacie obdobie zdržiava v zahraničí, vo
+   výkone trestu odňatia slobody, alebo v sociálnom zariadení, prípadne sa takáto osoba dlhodobo nezdržiava na mieste
+   trvalého pobytu a nie je známy jej skutočný pobyt.
+7. Poplatník preukazuje skutočnosti k odpusteniu poplatku dokladmi preukazujúcimi zamestnanie alebo štúdium
+   v zahraničí, trvalý alebo prechodný pobyt v zahraničí, potvrdením o umiestnení v sociálnom zariadení, potvrdením
+   o výkone trestu, prípadne čestným vyhlásením, ak nemožno skutočnosť doložiť inak.
+8. Poplatník predloží správcovi poplatku doklady na zníženie alebo odpustenie poplatku najneskôr v lehote do 30 dní po
+   skončení zdaňovacieho obdobia, inak nárok na zníženie alebo odpustenie poplatku zaniká.
+
+
+                                            DESIATA ČASŤ
+                                        SPOLOČNÉ USTANOVENIA
+                                                     § 29
+                                                Označenie platby
+1. Daňovník je povinný označiť platbu za miestne dane spôsobom, ktorý je uvedený v rozhodnutí:
+   a) číslo bankového účtu IBAN: SK27 0200 0000 0073 1853 3255m
+   b) variabilný symbol: číslo rozhodnutia,
+   c) konštantný symbol: 0308.
+2. Poplatník je povinný označiť platbu za poplatok spôsobom, ktorý je uvedený v rozhodnutí:
+   a) číslo bankového účtu IBAN: SK0202000000001598888159,
+   b) variabilný symbol: číslo rozhodnutia,
+   c) konštantný symbol: 0308.
+
+                                                     § 30
+                                                    Konanie
+Ak sa v tomto nariadení neustanovuje inak, postupuje sa v konaní vo veciach miestnych daní a poplatku
+podľa všeobecného predpisu o správe daní.
+
+
+                                           JEDENÁSTA ČASŤ
+                                       ZÁVEREČNÉ USTANOVENIA
+                                                      § 31
+                                             Záverečné ustanovenia
+
+1. Týmto nariadením sa zrušuje Všeobecne záväzné nariadenia mesta č. 3/2025 o miestnych daniach a miestnom poplatku
+   za komunálne odpady a drobné stavebné odpady zo dňa 11.12.2025.
+2. Toto nariadenie bolo schválené Mestským zastupiteľstvom v Spišskej Belej dňa 10.12.2026 Uznesením č. XXX/2026.
+
+                                                                                                                      10
+3. Toto nariadenie mesta nadobúda platnosť dňom jeho schválenia Mestským zastupiteľstvom v Spišskej Belej a jeho
+   vyvesením na úradnej tabuli mesta.
+
+                                                    § 32
+                                                 Účinnosť
+
+Toto Všeobecne záväzné nariadenie nadobúda účinnosť 1. januára 2027.
+
+
+
+
+                                                                                                              11
+                                                                                                                 Príloha č. 1
+
+                                                   EVIDENCIA PSOV
+                                                                                                                  Strana
+                                                  Mesta Spišská Belá
+Evidenciu vedie: Mestský úrad v Spišskej Belej, ekonomický odbor
+
+ Evidenčné číslo psa                                                        Meno psa
+ Vek psa (v mesiacoch)                                                      Plemeno psa
+
+
+ Tetovacie číslo alebo údaj o čipovaní psa, ak ho pes má
+
+
+ Meno a priezvisko vlastníka psa
+
+
+ Adresa trvalého (prechod.) pobytu vlastníka psa
+
+
+ Meno a priezvisko držiteľa psa (len ak ide o inú osobu ako vlastník psa)
+
+
+ Adresa trvalého (prechod.) pobytu držiteľa psa
+
+
+ Adresu miesta chovu psa (1)
+
+ Skutočnosť, či pes pohrýzol človeka (2)
+ Zápis do evidencie vykonal:                                                                           Podpis:
+ (meno a priezvisko zamestnanca)
+
+ Dátum zápisu do evidencie:
+ Úhyn psa (dátum)                                                           Strata psa (dátum)
+
+
+ Ukončenie chovu psa (dátum)                                                Miesto, kde bude chov
+                                                                            psa pokračovať
+
+ Výmaz z evidencie vykonal:                                                                            Podpis:
+ (meno a priezvisko zamestnanca)
+
+ Dátum výmazu:
+ Iné záznamy:
+
+
+(1) len ak sa miesto chovu psa nezhoduje s miestom trvalého pobytu držiteľa psa
+(2) len ak pes pohrýzol človeka bez toho, aby bol sám napadnutý alebo vyprovokovaný, ak sa nepoužil v nutnej obrane alebo v krajnej
+   núdzi
+
+                                                                                                                                      12
+                                                                                                                                          Príloha č. 2
+
+
+                                              Oznámenie
+          vzniku/zániku* daňovej povinnosti k dani za osobitné užívanie verejného priestranstva
+
+     Správca dane : Mesto Spišská Belá
+     Sídlo:         Petzvalova 272/18, 059 01 Spišská Belá
+
+ Daňovník
+ (u právnickej osoby, resp. u fyzickej osoby - podnikateľa -
+ Obchodné meno alebo názov)
+ (u fyzickej osoby - meno, priezvisko, titul)
+ Sídlo, miesto podnikania (u právnickej osoby, resp. u
+ Fyzickej osoby - podnikateľa) alebo
+ Trvalý pobyt (u fyzickej osoby)
+
+ IČO alebo
+ Rodné číslo (u fyzickej osoby)
+ Zastúpený:
+ (meno, priezvisko, funkcia)
+ Špecifikácia verejného priestranstva
+ (parcelné číslo, k. ú., ulica, príp. názov)
+                                                                                                                                                m²
+ Výmera užívaného verejného priestranstva
+
+ Osobitné spôsoby užívania verejného priestranstva:
+ - *umiestnenie predajného zariadenia, resp. zariadenia
+     slúžiaceho na poskytovanie služieb a ambulantné
+     poskytovanie služieb z auta
+ - * umiestnenie predajného zariadenia s občerstvením počas
+     kultúrnych a spoločenských podujatí
+ - * umiestnenie stavebného zariadenia
+ - * umiestnenie cirkusu, zariadenia lunaparku a iných atrakcií
+ - * umiestnenie skládky materiálu
+ - * umiestnenie reklamného zariadenia
+ - * umiestnenie zariadenia na propagáciu politickej strany
+ - * letné reštaurácie, cukrárne (stolovanie vonku)
+ Deň začatia osobitného užívania verejného priestranstva
+
+ Deň ukončenia osobitného užívania verejného priestranstva
+
+
+Poučenie:
+Daňovník je povinný sám si vypísať toto oznámenie podľa predtlače a pravdivo uviesť všetky skutočnosti rozhodujúce pre výpočet dane.
+
+
+Spišská Belá, …....................   Odtlačok pečiatky:
+
+
+
+                                                                                      .....................................................
+                                                                                                                  podpis
+
+                                                                                                                                                         13
+daňovníka
+* čo sa hodí - vyplniť a podčiarknuť!
+
+
+
+
+                                                                                                                                                 Príloha č. 3
+                                                                  Oznámenie
+                                           vzniku/zániku* daňovej povinnosti k dani za ubytovanie
+
+    Správca dane : Mesto Spišská Belá
+    Sídlo:         Petzvalova 272/18, 059 01 Spišská Belá
+
+     Platiteľ dane – prevádzkovateľ zariadenia
+     Obchodné meno alebo názov:
+
+     Sídlo, miesto podnikania:
+
+     IČO:
+
+     Zastúpený:
+     (meno, priezvisko, funkcia)
+
+     Názov zariadenia, v ktorom sa poskytuje odplatné prechodné ubytovanie
+
+     Adresa zariadenia, v ktorom sa poskytuje odplatné prechodné ubytovanie
+
+     ubytovacia kapacita (uviesť počet lôžok)
+
+     *deň začatia poskytovania odplatného prechodného ubytovania
+
+
+     *deň ukončenia poskytovania odplatného prechodného ubytovania
+
+     Iné záznamy platiteľa dane
+
+
+    Poučenie:
+    Daňovník je povinný sám si vypísať toto oznámenie podľa predtlače a pravdivo uviesť všetky skutočnosti,
+    rozhodujúce pre výpočet dane.
+
+
+    V ......................................... dňa .............................
+
+Odtlačok pečiatky:
+                                                                                    ..........................................................
+                                                                                                     podpis štatutárneho zástupcu
+                                                                                                           platiteľa dane
+* čo sa hodí - vyplniť !
+
+                                                                                                                                                                14
+                                                                                                                                              Príloha č. 4
+                                                                           Oznámenie
+            o prevzatí plnenia povinností poplatníka – platenie miestneho poplatku za
+                          komunálne odpady a drobné stavebné odpady
+    (podľa § 77 ods. 7 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+                                                     stavebné odpady)
+
+                                                                                       Správca poplatku: Mesto Spišská Belá
+                                                                                           sídlo: Petzvalova 18, Spišská Belá
+
+Poplatník – fyzická osoba:
+Meno a priezvisko, titul, telefón. kontakt
+
+Adresa trvalého, resp. prechodného pobytu
+
+Adresa miesta nového pobytu
+
+Dátum narodenia
+
+Dátum vzniku poplatkovej povinnosti
+
+
+Ako vyššie uvedený poplatník podľa § 77 ods. 7 zákona č. 582/2004 Z. z. o z n a m u j e m m e s t u S p i š s k á
+B e l á , že som prevzal plnenie povinností poplatníka za komunálne odpady a drobné stavebné odpady za
+nasledovných členov našej spoločnej domácnosti:
+
+                                         meno, priezvisko,                                           adresu trvalého pobytu,
+    P. č.
+                             dátum narodenia člena spoločnej domácnosti                         resp. adresu prechodného pobytu
+
+
+
+
+Poučenie:
+Poplatník je povinný sám si vypísať toto oznámenie podľa predtlače a pravdivo uviesť všetky skutočnosti, rozhodujúce pre
+výpočet poplatku.
+
+V ...................................... dňa ...........................
+
+                                                                                        ...................................................
+                                                                                                     podpis poplatníka
+
+
+
+                                                                                                                                              Príloha č. 5
+
+                                                                           Oznámenie
+              vzniku / zániku* poplatkovej povinnosti za komunálne odpady a drobné stavebné odpady
+    (podľa § 80 ods. 1 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+                                                     stavebné odpady)
+
+                                                                                                                                                       15
+                                                                                  Správca poplatku: Mesto Spišská Belá
+                                                                                      sídlo: Petzvalova 18, Spišská Belá
+
+
+ Poplatník – právnická osoba alebo fyzická osoba podnikateľ
+
+
+Obchodné meno, alebo názov:
+
+
+Sídlo, alebo miesto podnikania:
+
+IČO:
+
+Zastúpený:
+(meno, priezvisko, funkcia, telefonický kontakt)
+
+Dátum vzniku poplatkovej povinnosti *
+
+Dôvod vzniku poplatkovej povinnosti **
+
+Dátum zániku poplatkovej povinnosti *
+
+Dôvod zániku poplatkovej povinnosti **
+
+Návrh veľkosti zbernej nádoby a počtu kusov nádob
+– pri množstevnom zbere
+ * čo sa hodí - vyplniť !
+ ** Poplatková povinnosť vznikla/ zanikla z dôvodu:
+      - vzniku/zániku práva užívať nehnuteľnosť na iný účel ako na podnikanie,
+      - vzniku/zániku práva užívať nehnuteľnosť na účel podnikania.
+
+ Poučenie:
+ Poplatník je povinný sám si vypísať toto ohlásenie podľa predtlače a pravdivo uviesť všetky skutočnosti, rozhodujúce pre
+ výpočet poplatku.
+
+ V ......................................... dňa .............................
+
+
+ Odtlačok pečiatky:
+                                                                                        ........................................................
+                                                       

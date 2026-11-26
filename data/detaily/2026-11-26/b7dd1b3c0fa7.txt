@@ -1,0 +1,557 @@
+URL: https://cuet.slovensko.sk/en/dokument/924b1244-8f3b-4f7b-9afc-27f25b07d16f
+OBEC: Dubovica (Sabinov)
+NÁZOV: Návrh rozpočtu OCU,MŠ,ZŠ na roky 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/924b1244-8f3b-4f7b-9afc-27f25b07d16f
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu OCU,MŠ,ZŠ na roky 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Dubovica (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Dubovica (OVM)
+Published to:
+Registry case:
+Name of official document:
+Návrh rozpočtu OCU,MŠ,ZŠ na roky 2027-2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh rozpočtu MŠ.pdf
+Type and size:
+.pdf, 486.92 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rekapitulácia návrhu rozpočtu obce Dubovica na rok 2027 s výhľadom na roky 2028-2029.pdf
+Type and size:
+.pdf, 152.47 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh rozpočtu OCÚ-výdavky.pdf
+Type and size:
+.pdf, 248.12 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh rozpočtu ZŠ.pdf
+Type and size:
+.pdf, 491.8 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Návrh rozpočtu OCÚ-príjmy.pdf
+Type and size:
+.pdf, 136.5 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/97d43f8d-88d1-4092-bc50-550cc3218de6
+                                      Návrh rozpočtu 2024 - 2029 Materská škola Dubovica
+
+Príjmy
+Druh    Funč.kl.   Ekon.kl.   Zdroj   Názov                                                Čerpanie 2024   Čerpanie 2025   Schválený 2026   Očak.skut. 2026 Návrh 2027 Návrh 2028 Návrh 2029
+1                                     1-bežný rozpočet
+                   223001     72f     réžia ŠJ                                                 4120,00         4802,50          4100,00           4100,00    4500,00     4500,00    4500,00
+                   223002     72g     školné MŠ                                                4605,00         4920,00          4800,00           4800,00    4900,00     4900,00    4900,00
+                   223003     72f     príjem stravného                                        13347,90            0,00             0,00              0,00       0,00        0,00       0,00
+                   223003     72f     príjem stravného                                            0,00        14701,90         20000,00          20000,00   19000,00    19000,00   19000,00
+                   292012     131P    Z dobropisov-prepl.za energie                               0,00            0,00             0,00            824,67       0,00        0,00       0,00
+                   292012     72j     Z dobropisov-prepl.za energie                             555,14         1753,58             0,00              0,00       0,00        0,00       0,00
+                   315        72c     Transfery od subjektov nezaradených vo verejnej sp          0,00          300,00           300,00            300,00     300,00      300,00     300,00
+*1                                    1-bežný rozpočet                                        22628,04        26477,98         29200,00          30024,67   28700,00    28700,00   28700,00
+3                                     3-finančné operácie
+                   453        72f     Prostr.z predch.r.-zost.potrav.účtu - strava               322,34          236,10             0,00           285,40        0,00       0,00        0,00
+                   453        72f     Prostr.z predch.r.-zost.potrav.účtu - réžia                  0,00            2,50             0,00             0,00        0,00       0,00        0,00
+*3                                    3-finančné operácie                                        322,34          238,60             0,00           285,40        0,00       0,00        0,00
+
+Spolu                                                                                         22950,38        26716,58         29200,00         30310,07    28700,00    28700,00   28700,00
+
+
+Výdavky
+1                                     1-bežný rozpočet
+        09.1.1.1   611        111     tar.plat - asistent                                      1941,78         6044,53          3509,00           7205,00    4213,00     4213,00    4213,00
+        09.1.1.1   611        111     tar.plat                                                    0,00        81058,67         59500,00          87433,00   79500,00    79500,00   79500,00
+        09.1.1.1   611        41      tar.plat                                                74488,87            0,00             0,00              0,00       0,00        0,00       0,00
+        09.1.1.1   612001     111     Osobný príplatok - asistent                                 0,00          331,58             0,00            300,00       0,00        0,00       0,00
+        09.1.1.1   612001     111     Osobný príplatok                                            0,00         5336,48          4200,00           4200,00    9200,00     9200,00    9200,00
+        09.1.1.1   612001     111     Osobný príplatok - asistent z normativu                     0,00           90,35             0,00              0,00    1200,00     1200,00    1200,00
+        09.1.1.1   612001     41      Osobný príplatok                                          998,16            0,00             0,00              0,00       0,00        0,00       0,00
+        09.1.1.1   612002     111     Ostatné príplatky - asisitnet                             105,83           83,54           320,00            320,00     320,00      320,00     320,00
+        09.1.1.1   612002     111     Ostatné príplatky                                           0,00         7080,32          8527,00           8527,00    8527,00     8527,00    8527,00
+        09.1.1.1   612002     41      Ostatné príplatky                                        5416,12            0,00             0,00              0,00       0,00        0,00       0,00
+        09.1.1.1   614        111     Odmeny                                                    989,00        18391,98         10139,00          10139,00   10139,00    10139,00   10139,00
+        09.1.1.1   614        41      Odmeny                                                   3055,50            0,00             0,00              0,00       0,00        0,00       0,00
+        09.1.1.1   621        111     Poistenie do Všeob.zdr.poisťovne - asisitent MŠ             0,00            0,00             0,00            500,00       0,00        0,00       0,00
+        09.1.1.1   621        111     Poistenie do Všeob.zdr.poisťovne                            0,00         6370,61          8484,00           8484,00   10484,00    10484,00   10484,00
+        09.1.1.1   621        41      Poistenie do Všeob.zdr.poisťovne                         5329,97            0,00             0,00              0,00       0,00        0,00       0,00
+        09.1.1.1   623        111     Poistné do ost.zdr.poisť. - asistent                      246,80          723,53           628,00            128,00     628,00      628,00     628,00
+        09.1.1.1   623        111     Poistné do ost.zdr.poisť.                                   0,00         6195,59          8484,00           8484,00    9484,00     9484,00    9484,00
+        09.1.1.1   623        41      Poistné do ost.zdr.poisť.                                4217,06            0,00             0,00              0,00       0,00        0,00       0,00
+        09.1.1.1   625001     111     Na nemocenske poistenie - asistent                         31,40           92,04            80,00             80,00      80,00       80,00      80,00
+09.1.1.1   625001   111    Na nemocenske poistenie                                  0,00    1574,47    2200,00    2200,00    3200,00    3200,00    3200,00
+09.1.1.1   625001   41     Na nemocenske poistenie                               1196,52       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   625002   111    Na starobne poistenie - asistent                       314,08     920,88     799,00     799,00     799,00     799,00     799,00
+09.1.1.1   625002   111    Na starobne poistenie                                    0,00   15747,10   21595,00   21595,00   21595,00   21595,00   21595,00
+09.1.1.1   625002   41     Na starobne poistenie                                11966,47       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   625003   111    Na urazove poistenie - asistent                         17,92      52,56      45,00      45,00      45,00      45,00      45,00
+09.1.1.1   625003   111    Na urazove poistenie                                     0,00     899,56    1235,00    1235,00    2235,00    2235,00    2235,00
+09.1.1.1   625003   41     Na urazove poistenie                                   683,62       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   625004   111    Na invalidné poistenie - asistent                       67,28     197,29     171,00     171,00     171,00     171,00     171,00
+09.1.1.1   625004   111    Na invalidné poistenie                                   0,00    3374,18    4627,00    4627,00    4627,00    4627,00    4627,00
+09.1.1.1   625004   41     Na invalidné poistenie                                2564,12       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   625005   111    Na poistenie v nezamestnanosti- asistent                22,36      65,62      57,00      57,00      57,00      57,00      57,00
+09.1.1.1   625005   111    Na poistenie v nezamestnanosti                           0,00    1124,44    1542,00    1542,00    1542,00    1542,00    1542,00
+09.1.1.1   625005   41     Na poistenie v nezamestnanosti                         854,28       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   625007   111    Na poistenie do rezerv.fondu solidar- asistent         106,55     312,43     271,00     271,00     271,00     271,00     271,00
+09.1.1.1   625007   111    Na poistenie do rezervného fondu solidar                 0,00    5342,49    7330,00    7330,00    8259,00    8259,00    8259,00
+09.1.1.1   625007   41     Na poistenie do rezervného fondu solidar              4059,73       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   627      111    Príspevok do DDP                                         0,00    1760,70    4000,00    4000,00    4500,00    4500,00    4500,00
+09.1.1.1   627      41     Príspevok do DDP                                      1318,62       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   631001   111    Cestovné náhrady tuzemské                                0,00       0,00      50,00      50,00      50,00      50,00      50,00
+09.1.1.1   632001   111    Energie                                                  0,00    6433,11    8000,00       0,00    8000,00    8000,00    8000,00
+09.1.1.1   632001   41     Energie                                               9821,91       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   632001   72g    Energie-zo školného MŠ                                1450,00     650,00    2100,00       0,00    2100,00    2100,00    2100,00
+09.1.1.1   632002   111    Vodne, stocne                                            0,00    1282,08     800,00     800,00     800,00     800,00     800,00
+09.1.1.1   632002   41     Vodne, stocne                                          461,95       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   632004   111    popl.za prístup k internetu                              0,00     228,75     180,00     180,00     180,00     180,00     180,00
+09.1.1.1   632004   41     popl.za prístup k internetu                            206,22       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   632005   111    Telekomunikačné služby                                   0,00      42,20      70,00      70,00      70,00      70,00      70,00
+09.1.1.1   632005   41     Telekomunikačné služby                                  23,50       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   632006   111    Elektrina                                                0,00       0,00       0,00    2000,00       0,00       0,00       0,00
+09.1.1.1   632006   72g    Elektrina                                                0,00       0,00       0,00    2100,00       0,00       0,00       0,00
+09.1.1.1   632007   111    Plyn                                                     0,00       0,00       0,00    6000,00       0,00       0,00       0,00
+09.1.1.1   633001   111    Inter.vybavenie-zo školného - normatív                   0,00       0,00       0,00     500,00       0,00       0,00       0,00
+09.1.1.1   633001   131P   Interierove vybavenie - prevádzka MŠ norm                0,00       0,00       0,00    1192,00       0,00       0,00       0,00
+09.1.1.1   633001   72g    Interiér.vybavenie-zo školného                           0,00    1045,52     300,00     801,00     300,00     300,00     300,00
+09.1.1.1   633002   111    Vypoctova technika                                    2310,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633002   111    Vypoctova technika                                       0,00    3138,00    1000,00     200,00    1444,00    1444,00    1444,00
+09.1.1.1   633002   72g    Vypoctova technika                                     199,99       0,00     200,00     200,00     200,00     200,00     200,00
+09.1.1.1   633004   111    Prevádzkové stroje,prístroje,zariadenia,technika a       0,00      56,22       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633006   111    Vseobecny material-5r.deti                            1864,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633006   111    Vseobecny material                                       0,00     148,00     526,00    1526,00     526,00     526,00     526,00
+09.1.1.1   633006   111    Vseobecný materiál - SZP MŠ                              0,00      75,00       0,00     225,00       0,00       0,00       0,00
+09.1.1.1   633006   131P   Vseobecny material - minulý rok                          0,00       0,00       0,00    1014,00       0,00       0,00       0,00
+09.1.1.1   633006   41     Vseobecny material                                    1454,73       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633006   72g    Všeob. materiál-zo školného                     1880,50    1765,38    1400,00    1120,00    1300,00    1300,00    1300,00
+09.1.1.1   633009   111    Knihy,casop.ucebnice,UP-5r.deti                  123,60       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633009   111    Knihy,casop.ucebnice,UP                            0,00      66,20     500,00     350,00     500,00     500,00     500,00
+09.1.1.1   633009   111    Knihy,casop.ucebnice,UP - EDUkačné učebnice        0,00       0,00       0,00      65,00       0,00       0,00       0,00
+09.1.1.1   633009   131N   Knihy,casop.ucebnice,UP                          500,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633009   41     Knihy,casop.ucebnice,UP                            0,18       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633009   72g    Knihy,UP,ZUP,hračky-zo školného                  118,80       0,00       0,00       0,00     200,00     200,00     200,00
+09.1.1.1   633010   111    Pracovne odevy,obuv                                0,00     200,00     200,00     200,00     200,00     200,00     200,00
+09.1.1.1   633010   41     Pracovne odevy,obuv                              150,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   633013   111    Softvér                                            0,00     421,00     200,00     440,00     200,00     200,00     200,00
+09.1.1.1   633013   41     Softvér                                          199,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   634004   111    Prepravné a nájom dopravných prostriedkov        130,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   634004   111    Prepravné a nájom dopravných prost. - VVP MŠ       0,00       0,00     500,00     500,00    1300,00    1300,00    1300,00
+09.1.1.1   635004   111    Údržba prev.strojov,pristrojov,zariade             0,00       0,00     200,00     250,00     200,00     200,00     200,00
+09.1.1.1   635004   72g    údržba prev.zariad.-zo školného                    0,00       0,00       0,00     280,00       0,00       0,00       0,00
+09.1.1.1   635009   111    Údržba Softvéru                                    0,00     813,58     700,00     700,00     700,00     700,00     700,00
+09.1.1.1   635009   41     Údržba Softvéru                                  710,91       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637001   111    Skolenia, kurzy, seminare, porady, konfe           0,00       0,00     100,00     100,00     100,00     100,00     100,00
+09.1.1.1   637001   41     Skolenia, kurzy, seminare, porady, konfe          80,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637002   111    Konkurzy a súťaže                               5106,40       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637002   111    Konkurzy a súťaže - VVP -MŠ                        0,00    1700,00    1000,00    1600,00    1250,00    1250,00    1250,00
+09.1.1.1   637002   72g    Konkurzy a súťaže - školné MŠ                      0,00    1225,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637004   111    Vseobecne sluzby                                2498,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637004   111    Vseobecne sluzby                                   0,00    5783,01    9000,00    7510,00   10000,00   10000,00   10000,00
+09.1.1.1   637004   131P   Všeobecné služby - z dobropisu                     0,00       0,00       0,00     824,67       0,00       0,00       0,00
+09.1.1.1   637004   131P   Vseobecne sluzby - minulý rok                      0,00       0,00       0,00     659,93       0,00       0,00       0,00
+09.1.1.1   637004   41     Vseobecne sluzby                                7905,37       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637004   72g    Všeob.služby- zo školného MŠ                     955,71     234,10     800,00     299,00     800,00     800,00     800,00
+09.1.1.1   637005   111    Specialne sluzby                                   0,00    1011,20     200,00     500,00     200,00     200,00     200,00
+09.1.1.1   637005   41     Specialne sluzby                                 195,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637012   111    Poplatky banke                                     0,00    1167,54    1000,00    1000,00    2000,00    2000,00    2000,00
+09.1.1.1   637012   41     Poplatky banke                                  1156,07       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637015   111    Poistne                                            0,00     448,84     500,00     500,00     500,00     500,00     500,00
+09.1.1.1   637015   41     Poistne                                          448,84       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637016   111    Pridel do socialneho fondu                         0,00    1211,70    1050,00    1050,00    1050,00    1050,00    1050,00
+09.1.1.1   637016   41     Pridel do socialneho fondu                      1019,26       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637027   111    Odmeny na zaklade dohod o vykonani prac            0,00     150,00       0,00     350,00       0,00       0,00       0,00
+09.1.1.1   637027   41     Odmeny na zaklade dohod o vykonani prac          150,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.1.1.1   637027   72c    Dohody-odmeny                                      0,00     300,00     300,00     300,00     300,00     300,00     300,00
+09.1.1.1   642015   111    Nemoc.dávky                                        0,00     146,50     700,00     700,00     700,00     700,00     700,00
+09.6.0.1   611      111    Tar.plat - navýššenie 7% originály                 0,00     746,60       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   611      41     Tar.plat                                       28609,03   30976,53   37908,00   36908,00   51000,00   51000,00   51000,00
+09.6.0.1   612001   41     Osobný príplatok                                1798,02    2344,22    2300,00    2300,00    2800,00    2800,00    2800,00
+09.6.0.1   612002   41     Ostatné príplatky                               1317,35    1592,76    1462,00    1462,00    1870,00    1870,00    1870,00
+09.6.0.1   614      111   Odmeny - ŠJ 800                                          0,00    2400,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   614      41    Odmeny                                                1220,00       0,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   614      72f   Odmeny                                                   0,00    2300,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   621      111   Poistné do Všeob.zdr.poisťovne - 7% navýšenie ŠJ         0,00      82,13       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   621      111   Poistné do Všeob.zdr.poisťovne - odmeny ŠJ               0,00     176,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   621      41    Poistné do Všeob.zdr.poisťovne                        2620,32    2993,66    2668,00    2668,00    2668,00    2668,00    2668,00
+09.6.0.1   623      111   Poistné do ost.zdr.poisť.- odmeny ŠJ                     0,00      88,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   623      41    Poistné do ost.zdr.poisť.                             1110,78    1213,42    1718,00    1918,00    1718,00    1718,00    1718,00
+09.6.0.1   625001   111   Na nemocenske poistenie - navýšenie 7% ŠJ                0,00      10,45       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625001   111   Na nemocenske poistenie - odmeny ŠJ                      0,00      33,60       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625001   41    Na nemocenske poistenie                                465,49     523,99     680,00     680,00     680,00     680,00     680,00
+09.6.0.1   625002   111   Na starobne poistenie - navýšenie 7% SJ                  0,00     104,52       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625002   111   Na starobne poistenie - odmeny SJ                        0,00     336,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625002   41    Na starobne poistenie                                 4656,61    5241,71    5791,00    5691,00    6791,00    6791,00    6791,00
+09.6.0.1   625003   111   Na urazove poistenie - navýšenie 7% - ŠJ                 0,00       5,97       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625003   111   Na urazove poistenie - odmeny ŠJ                         0,00      19,20       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625003   41    Na urazove poistenie                                   265,93     299,39     390,00     390,00     590,00     590,00     590,00
+09.6.0.1   625004   111   Na invalidné poistenie - navýšenie 7% ŠJ                 0,00      22,40       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625004   111   Na invalidné poistenie - odmeny ŠJ                       0,00      72,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625004   41    Na invalidné poistenie                                 997,76    1123,12    1455,00    1455,00    1455,00    1455,00    1455,00
+09.6.0.1   625005   111   Na poistenie v nezamestnanosti - onavýšenie 7 % ŠJ       0,00       7,47       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625005   111   Na poistenie v nezamestnanosti - odmeny ŠJ               0,00      24,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625005   41    Na poistenie v nezamestnanosti                         332,46     374,09     485,00     485,00     985,00     985,00     985,00
+09.6.0.1   625007   111   Na poistenie do rez.fondu - navýšenie 7% ŠJ              0,00      35,46       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625007   111   Na poistenie do rez.fondu - odmeny ŠJ                    0,00     114,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   625007   41    Na poistenie do rez.fondu                             1579,83    1778,32    2193,00    2193,00    2193,00    2193,00    2193,00
+09.6.0.1   627      41    Prísp.do DDP                                           658,92     807,21     650,00     650,00     750,00     750,00     750,00
+09.6.0.1   631001   72f   Cestovné-z réžie                                         0,00       0,00      30,00      30,00      30,00      30,00      30,00
+09.6.0.1   632001   41    Energie - prostriedky OcU                                0,00    1300,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   632001   72f   Energie-z réžie                                       1461,18    1203,48     670,00       0,00     670,00     670,00     670,00
+09.6.0.1   632002   72f   Vodné, stočné-z réžie                                    0,00       0,00     600,00     360,00     600,00     600,00     600,00
+09.6.0.1   632005   72f   Telekomunikačné služby-z réžie                           0,00       0,00      30,00      30,00      30,00      30,00      30,00
+09.6.0.1   632006   72f   Elektrina - z réžie šj                                   0,00       0,00       0,00     240,00       0,00       0,00       0,00
+09.6.0.1   632007   72f   Plyn                                                     0,00       0,00       0,00     670,00       0,00       0,00       0,00
+09.6.0.1   633001   111   Interiér.vybavenie - zostato dotatcie strav. návyk       0,00       0,00       0,00     500,00       0,00       0,00       0,00
+09.6.0.1   633004   111   Prevádz. stroje,prístroje,zar.,tech- stravov. náv.    5043,06    3203,28       0,00    1000,00       0,00       0,00       0,00
+09.6.0.1   633004   72f   Prev.stroje,prístr.-z réžie                              0,00       0,00     500,00     500,00     500,00     500,00     500,00
+09.6.0.1   633006   111   všeob.mat.-z dot.na stravov.návyky                    1231,55    3271,12       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   633006   72f   Všeob.materiál-z réžie                                 309,10       0,00     500,00     500,00     900,00     900,00     900,00
+09.6.0.1   633009   72f   Knihy-normy z réžie                                     81,20       0,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   633010   72f   Prac.odevy,obuv-z réžie                                150,00       0,00     200,00     200,00     200,00     200,00     200,00
+09.6.0.1   633011   111   Potraviny - z dotácie                                12983,70   13078,70       0,00   22034,00       0,00       0,00       0,00
+09.6.0.1   633011   72f   Potraviny                                            13434,14       0,00       0,00       0,00       0,00       0,00       0,00
+09.6.0.1   633011   72f   Potraviny - stravné                                      0,00   14652,60   20000,00   20285,40   19000,00   19000,00   19000,00
+        09.6.0.1   635004   72f   Údržba prev.strojov-z réžie                               0,00          196,80            410,00        400,00    410,00    410,00    410,00
+        09.6.0.1   635011   72f   údržba špec.softvéru                                      0,00           68,88             60,00         70,00     60,00     60,00     60,00
+        09.6.0.1   637001   72f   Školenia,semináre-z réžie                                30,00            0,00            100,00        100,00    100,00    100,00    100,00
+        09.6.0.1   637004   111   Všeobecné služby - dotácia na stravu                     18,99            0,00              0,00          0,00      0,00      0,00      0,00
+        09.6.0.1   637004   41    Všeobecné služby - prostriedky OcU                        0,00         1279,52              0,00          0,00      0,00      0,00      0,00
+        09.6.0.1   637004   72f   Všeobecné služby-z réžie                               1833,42         1035,84            800,00        800,00    800,00    800,00    800,00
+        09.6.0.1   637005   72f   Špeciálne služby-z réžie                                252,60            0,00            200,00        200,00    200,00    200,00    200,00
+        09.6.0.1   637016   41    Pridel do socialneho fondu                              347,50            0,00              0,00          0,00      0,00      0,00      0,00
+        09.6.0.1   637016   41    Pridel do socialneho fondu                                0,00          438,04              0,00        300,00      0,00      0,00      0,00
+        09.6.0.1   642015   41    Na nemocenske davky - prostreidky Ocu                     0,00          124,44              0,00          0,00      0,00      0,00      0,00
+*1      09.6.0.1   642015   41    Na nemocenske davky                                       0,00            0,00              0,00        600,00      0,00      0,00      0,00
+2                                 1-bežný rozpočet                                     243920,92       285566,19         261119,00     321448,00 313246,00 313246,00 313246,00
+                                  2-kapitálový rozpočet
+*2      09.6.0.1   713004   46    Prevádzkových strojov, prístrojov, zariadení, tech        0,00              0,00           4000,00    4000,00       0,00      0,00      0,00
+
+Spolu                             2-kapitálový rozpočet                                     0,00            0,00           4000,00       4000,00      0,00      0,00      0,00
+                                                                                       243920,92       288612,79         265119,00     325448,00 313246,00 313246,00 313246,00
+
+
+
+                                                                                                   Mgr. Katarína Janíčková
+                                                                                                   riaditeľka školy
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/fe67ca16-0c84-4c1f-b0e3-7040b9a51178
+                                  Rekapitulácia rozpočtu obce Dubovica na rok 2027 s výhľadom na roky 2028-2029
+
+     Zverejnený 25.11.2026                                                                                             Účinnosť:
+     Schválený:
+
+                                Skutočné         Skutočné        Schválený          Očakávaná         Schválený       Schválený rozpočet   Schválený rozpočet
+      Rozpočet                  plnenie           plnenie       rozpočet            skutočnosť         rozpočet
+                                                                                                                          Výhľadový            Výhľadový
+                                    2024            2025              2026              2026            2027                2028                  2029
+     Bežné príjmy Ocú              906 009,65   1 025 322,46         1 003 517,00     1 108 855,22    1 150 385,00          1 173 150,00         1 201 767,00
+     Bežné príjmy ZŠ                 7 219,50        9 326,32            4 044,00         4 044,00        5 916,00              5 916,00             5 916,00
+     Bežné príjmy MŠ                22 628,04      26 477,98                 0,00             0,00            0,00                  0,00                 0,00
+     Bežné príjmy ŠJ +MŠ                 0,00            0,00           29 200,00        30 024,67       28 700,00             28 700,00            28 700,00
+     Bežné príjmy spolu            935 857,19   1 061 126,76         1 036 761,00     1 142 923,89    1 185 001,00          1 207 766,00         1 236 383,00
+     Kapitálové príjmy Ocú           2 371,20       20 371,20                0,00             0,00            0,00                  0,00                 0,00
+     Kapitálové príjmy spolu         2 371,20       20 371,20                0,00             0,00            0,00                  0,00                 0,00
+     Finančné operácie Ocú          12 944,10       88 959,92          170 000,00       229 109,23      100 000,00                  0,00                 0,00
+     Finančné operácie MŠ              322,34         238,60                 0,00           285,40            0,00                  0,00                 0,00
+     Finančné operácie spolu        13 266,44      89 198,52           170 000,00       229 394,63      100 000,00                  0,00                 0,00
+     Príjmy celkom spolu           951 494,83   1 170 696,48         1 206 761,00     1 372 318,52    1 285 001,00          1 207 766,00         1 236 383,00
+     Bežné výdavky Ocú             333 656,39      408 051,49          524 757,00       537 630,52      528 419,00            514 379,00           514 379,00
+     Bežné výdavky ZŠ              211 109,23      244 074,39          246 885,00       282 379,00      316 364,00            316 364,00           316 364,00
+     Bežné výdavky ŠJ +MŠ                0,00            0,00          261 119,00       321 448,00      313 246,00            313 246,00           313 246,00
+     Bežné výdavky MŠ              243 920,92      288 612,79                0,00             0,00            0,00                  0,00                 0,00
+
+     Bežné výdavky spolu           788 686,54     940 738,67         1 032 761,00   1 141 457,52       1 158 029,00         1 143 989,00         1 143 989,00
+     Kapitálové výdavky Ocú         46 394,68      22 336,75           170 000,00       226 861,00       126 972,00            63 777,00            92 394,00
+     Kapitálové výdavky ŠJ               0,00           0,00             4 000,00          4 000,00            0,00                 0,00                 0,00
+     Kapit. výdavky spolu           46 394,68      22 336,75           174 000,00       230 861,00      126 972,00             63 777,00            92 394,00
+     Finanč. operácie výdavky          939,00      82 849,16                 0,00              0,00            0,00                 0,00                 0,00
+     Fin. operácie výdavky
+     spolu                             939,00       82 849,16                0,00             0,00            0,00                  0,00                  0,00
+     Výdavky celkom spolu          836 020,22    1 045 924,58        1 206 761,00     1 372 318,52    1 285 001,00          1 207 766,00          1 236 383,00
+
+                                                                                                                                      Bc. Peter Šejirman
+                                                                                                                                      starosta obce
+This document was created by an application that isn’t licensed to use novaPDF.
+Purchase a license to generate PDF files without this notice.
+This document was created by an application that isn’t licensed to use novaPDF.
+Purchase a license to generate PDF files without this notice.
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/0e1af021-98f9-40d0-84ba-8776708889ec
+Obec Dubovica S/N 1                                                                                          N á v r h r o z p o č t u - podrobný výpis             VÝDAVKY
+Schválený:                                                                                         Vyvesený: 25.11.2026
+Účínnosť:                                                                                          Zvesený:                                                                                      Strana č.   1
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                             Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024           2025       Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                 2028
+                                                                                                                                                                                    2024
+                                                                                                                                                                                      2029 2024
+                                                                                                                                                                                              2029 2024
+111 R                  0111    611                    TAR.plat z dotácie negat.vplyv inflácie           11 010,-
+41 R                   0111    611                    TARIF.plat, vrátka z roč. ZP                      91 192,36   107 296,67       134 000,-        134 000,-     134 000,-      134 000,-      134 000,-
+                       0111    611       TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                      102 202,36   107 296,67       134 000,-        134 000,-     134 000,-      134 000,-      134 000,-
+41    R                0111    612001           PRIPLATKY                                               13 968,78    14 837,12         17 100,-        19 700,-      19 800,-       19 800,-        19 800,-
+41    R                0111    612002           Ostatné príplatky okrem osobných príplat                                                                  396,-         400,-          400,-           400,-
+                       0111    612    PRÍPLATKY                                                         13 968,78    14 837,12         17 100,-        20 096,-      20 200,-       20 200,-        20 200,-
+111 R                  0111    614                      Odmena za Regob ,vodná správa                      334,-      4 694,-             334,-           334,-         334,-          334,-           334,-
+41 R                   0111    614                      ODMENY,člen komisie -zamestnanec                 6 150,-      8 650,-          13 000,-        10 400,-      10 000,-       10 000,-        10 000,-
+                       0111    614       ODMENY                                                          6 484,-     13 344,-          13 334,-        10 734,-      10 334,-       10 334,-        10 334,-
+111 R                  0111    621                  VšZP-Regob Vodná správa                                 36,74       340,34             37,-            37,-          37,-           37,-            37,-
+41 R                   0111    621                  Poistné do všeob. zdrav. poistovne-OCU              12 280,80    12 387,24         15 000,-        15 000,-      15 000,-       15 000,-        15 000,-
+                       0111    621       POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV                       12 317,54    12 727,58         15 037,-        15 037,-      15 037,-       15 037,-        15 037,-
+111 R                  0111    623                  POISTNE DO Dôvera Regob,mimor.odmeny                                 176,-
+41 R                   0111    623                  Poistné -Dôvera Ocú -teľ                             2 232,16      3 537,80         3 500,-         3 870,-       3 000,-        3 500,-         3 500,-
+41 R                   0111    623       113        Union ZP-kontrolór ,poslanci                           270,81        349,03           300,-           550,-         300,-          300,-           300,-
+                       0111    623       POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                        2 502,97      4 062,83         3 800,-         4 420,-       3 300,-        3 800,-         3 800,-
+111   R                0111    625001            Na nemocenske poistenie-Regob                               4,68        65,71              5,-             5,-           5,-            5,-             5,-
+41    R                0111    625001            Na nemocenske poistenie - OCÚ                           1 719,90     1 840,29          2 500,-         2 500,-       2 500,-        2 500,-         2 500,-
+111   R                0111    625002            Starobné poistenie - regob                                 46,76       657,16             47,-            47,-          47,-           47,-            47,-
+41    R                0111    625002            Starobne poistenie OCÚ                                 19 164,83    20 669,94         22 500,-        22 500,-      22 500,-       22 500,-        22 500,-
+111   R                0111    625003            Na urazove poistenie - regob                                2,67        37,55              3,-             3,-           3,-            3,-             3,-
+41    R                0111    625003            Na urazove poistenie OCÚ                                1 085,45     1 168,01          1 600,-         1 600,-       1 160,-        1 600,-         1 600,-
+111   R                0111    625004            Na invalidné poistenie-Regob                               10,02       140,82             10,-            10,02         10,-           10,-            10,-
+41    R                0111    625004            Na invalidné poistenie-OCÚ                              2 762,66     3 175,82          3 000,-         3 310,-       2 930,-        3 000,-         3 000,-
+111   R                0111    625005            Na poistenie v nezamestnanosti -Regob                       3,34        46,94              4,-             4,-           4,-            4,-             4,-
+41    R                0111    625005            Na poistenie v nezamest. OCÚ a FP                         780,80       897,06          1 100,-         1 100,-         950,-        1 100,-         1 100,-
+111   R                0111    625007            Na poistenie do rezeR.f. regob a mim.odm                   15,86       222,96             16,-            16,-          16,-           16,-            16,-
+41    R                0111    625007            Rezervný fond -OCÚ                                      6 500,69     7 011,54          7 600,-         7 600,-       6 800,-        7 600,-         7 600,-
+                       0111    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                    32 097,66    35 933,80         38 385,-        38 695,02     36 925,-       38 385,-        38 385,-
+41    R                0111    631001           Cestovné náhrady tuzemské                                3 391,12      3 321,19         5 500,-         5 500,-       6 000,-        6 000,-         6 000,-
+                       0111    631    CESTOVNÉ NÁHRADY                                                   3 391,12      3 321,19         5 500,-         5 500,-       6 000,-        6 000,-         6 000,-
+41    R                0111    632001                   Elektr.energia ocu                               1 931,18      1 352,32         3 000,-
+41    R                0111    632001 21                Elektr. energia -prevádzkareň ,club mlad           993,32        629,55         2 000,-
+41    R                0111    632001 265               plyn -prevadzkáreň, byty,klub                    1 926,60     -1 109,40         3 000,-
+41    R                0111    632001 57                Plyn ocu                                         2 127,73      2 156,25         3 000,-
+111   R                0111    632003                   Poštovné -Regob                                     12,-          13,-             13,-            17,82         13,-           13,-            13,-
+41    R                0111    632003                   Poštove a telekomunikačne služby                   201,60        177,60           300,-           350,-         300,-          300,-           300,-
+41    R                0111    632004                   Kom.infraš.domena,hosting- stránka,aktua           203,82        640,32           700,-           700,-         700,-          700,-           700,-
+41    R                0111    632005                   Telefón ocú                                        922,69        934,08         1 400,-         1 400,-       1 000,-        1 000,-         1 000,-
+41    R                0111    632006                   elektr.energia OCU                                                                              3 000,-       4 000,-        4 000,-         4 000,-
+Obec Dubovica S/N 1                                                                                         N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 25.11.2026
+Účínnosť:                                                                                          Zvesený:                                                                                       Strana č.   2
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                       2026                             Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+41    R                0111    632006 21         Elektr.energia klub mladých -polyf.obj.                                                                 2 000,-       1 500,-        1 500,-         1 500,-
+41    R                0111    632007 265        Plyn byty +club ,ladých                                                                                 1 921,-       2 000,-        2 000,-         2 000,-
+41    R                0111    632007 57         Plyn OCU                                                                                                3 000,-       3 000,-        3 000,-         3 000,-
+                       0111    632    ENERGIE, VODA A KOMUNIKÁCIE                                        8 318,94     4 793,72          13 413,-        12 388,82     12 513,-       12 513,-        12 513,-
+41    R                0111    633001                   Interierove vybavenie                                           930,55           2 000,-         2 000,-       3 000,-        3 000,-         3 000,-
+41    R                0111    633002                   Vypoctova technika,monitor,diaprojektor                         414,97             450,-           450,-         450,-          450,-           450,-
+41    R                0111    633003                   Telekomunikacna technika kamera,Rozana             418,-         96,50             400,-           400,-         500,-          500,-           500,-
+41    R                0111    633004                   Prev.stroje,pristroje,,Mučovač,mon.garaž           597,69     1 069,72           5 000,-         3 859,-       5 000,-        5 000,-         5 000,-
+45    R                0111    633004                   Kosačky z FP environmentálny fond                1 222,01       442,-
+111   R                0111    633006                   Všeob.materiál Regob, vodná správa                  34,52        34,19              44,-            39,16         44,-           44,-            44,-
+41    R                0111    633006                   Všeobecný materiál OCÚ                           2 583,54     5 337,74           4 800,-         4 955,-       5 000,-        5 000,-         5 000,-
+41    R                0111    633007                   Špeciálny materiál-hasičské prístroje                                                              345,-
+41    R                0111    633009                   Knihy,casopisy,noviny,ucebnice,ucebne a            57,20                           200,-           200,-         200,-          200,-           200,-
+41    R                0111    633010                   Pracovne odevy,obuv a pracovne pomocky            120,29           91,05           500,-           500,-         500,-          500,-           500,-
+41    R                0111    633011                   Občerstvenie OZ                                                                    100,-           100,-         100,-          100,-           100,-
+41    R                0111    633013                   Programy, Softvéry                                  84,-                           100,-           100,-         200,-          200,-           200,-
+41    R                0111    633015                   Palivo do kosačky                                   15,50       111,25             500,-           500,-         500,-          500,-           500,-
+41    R                0111    633016                   Reprezentacne,vecné dary, káva, čaj ,            1 702,97     1 606,20           2 100,-         2 100,-       2 100,-        2 100,-         2 100,-
+41    R                0111    633016 117               Reprezentacne -občerstvenie OZ                     257,60       318,05             400,-           400,-         400,-          400,-           400,-
+                       0111    633    MATERIÁL                                                           7 093,32    10 452,22          16 594,-        15 948,16     17 994,-       17 994,-        17 994,-
+41    R                0111    634001                   Palivo, maziva, do traktora                        765,13       964,10           1 400,-         1 900,-       2 500,-        2 500,-         2 500,-
+41    R                0111    634002                   Servis, udrzba, opravy a vydavky s tym s         2 319,55     1 384,77           3 000,-         3 500,-       3 500,-        3 500,-         3 500,-
+41    R                0111    634003                   Poistné traktor                                     48,-         52,80              53,-           210,-         179,-          179,-           179,-
+41    R                0111    634004                   Prepravne a najom dopravnych prostriedko             0,02                          100,-           100,-         100,-          100,-           100,-
+                       0111    634    DOPRAVNÉ                                                           3 132,70     2 401,67           4 553,-         5 710,-       6 279,-        6 279,-         6 279,-
+41    R                0111    635002            Údržba výpoctovej techniky                                                99,63           100,-           100,-         100,-          100,-           100,-
+41    R                0111    635004            Údržba prevádzkových strojov a zariadení                 314,10          502,19         1 000,-         1 238,-       1 400,-        1 400,-         1 400,-
+41    R                0111    635005            Údržba rozhl.ústredne                                                                     300,-           300,-         300,-          300,-           300,-
+41    R                0111    635006            Údržba budov ,objektov ,zariadení                                                       2 953,-         1 653,-       2 000,-        2 000,-         2 000,-
+41    R                0111    635009            Údržba softweru -update                                  279,60        428,04             400,-           400,-         600,-          600,-           600,-
+                       0111    635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                         593,70      1 029,86           4 753,-         3 691,-       4 400,-        4 400,-         4 400,-
+41    R                0111    636002           Nájom náradia a prevádz. strojov                                                           200,-           200,-         200,-          200,-           200,-
+41    R                0111    636004           Prepož.Dopravných prostriedkov-šk.údalos                                                                   123,-
+                       0111    636    NÁJOMNÉ ZA NÁJOM                                                                                     200,-           323,-         200,-          200,-           200,-
+41    R                0111    637002                   Konkurzy a sutaze                                                                1 300,-         1 900,-       1 900,-        1 900,-         1 900,-
+41    R                0111    637003 128               Propagacia, reklama a inzercia-Ocu                                                 300,-           300,-         300,-          300,-           300,-
+111   R                0111    637004                   Vseobecne sluzby,stavebný úrad                                2 368,46
+41    R                0111    637004                   Vseobecne sluzby,stavebný urad,iné služ.         1 576,51     4 755,71           5 500,-         5 411,-       5 500,-        5 500,-         5 500,-
+72J   R                0111    637004                   Likvidácia nebezpeč.odpadu z prepl.ener                       1 554,-
+41    R                0111    637005                   Specialne sluzby                                 2 498,90     1 997,98           5 000,-         5 100,-       7 000,-        7 000,-         7 000,-
+41    R                0111    637006                   Nahrada za prev. prehliadku                         20,-                           150,-           150,-         150,-          150,-           150,-
+Obec Dubovica S/N 1                                                                                          N á v r h r o z p o č t u - podrobný výpis              VÝDAVKY
+Schválený:                                                                                         Vyvesený: 25.11.2026
+Účínnosť:                                                                                          Zvesený:                                                                                       Strana č.   3
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                       2026                             Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024           2025        Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+41 R                   0111    637011 46                Posúdky ,analýzy,PHSR,                             125,-                           500,-           500,-         500,-          500,-           500,-
+41 R                   0111    637012                   Poplatky soza, +ostatné poplatky,telefón           117,76        58,84             120,-           840,-       1 000,-        1 000,-         1 000,-
+41 R                   0111    637014                   Stravovanie ocu,VPP,                             4 406,33     5 196,42           6 000,-         6 000,-       7 000,-        7 000,-         7 000,-
+41 R                   0111    637015                   Poistné majetku obce-chata,KD,OCCU,Bowli         1 919,28     1 919,28           1 920,-         1 945,-       1 945,-        1 945,-         1 945,-
+41 R                   0111    637016                   Pridel do socialneho fondu                       1 289,49     1 258,15           1 400,-         1 400,-       1 500,-        1 500,-         1 500,-
+41 R                   0111    637026                   Odmeny poslancom,komisií                        13 879,-     15 107,-           18 000,-        28 903,-      18 000,-       18 000,-        18 000,-
+41 R                   0111    637027                   Odmeny na zaklade dohod o vykonani prac                       1 300,-            1 500,-         1 500,-       1 500,-        1 500,-         1 500,-
+41 R                   0111    637031                   Pokuty a penále                                                 500,-              500,-           500,-         500,-          500,-           500,-
+41 R                   0111    637035                   Koncesionárske poplatky                             63,60        71,34             300,-           300,-         300,-          300,-           300,-
+41 R                   0111    637036                   Repr.výdavky-reštauracia                           257,90       670,10             400,-           900,-         800,-          800,-           800,-
+131N R                 0111    637037 215               MR Odvod nevyč.stravného štátu                   2 728,60
+131O R                 0111    637037                   Vrátka nevyč.FP z roku 2024-stravné                            2 892,40
+131P R                 0111    637037                   Vrátka nevyč.FP na stravné z roku 2025                                                           2 631,30
+                       0111    637    SLUŽBY                                                            28 882,37    39 649,68          42 890,-        58 280,30     47 895,-       47 895,-        47 895,-
+41    R                0111    641009            Príspevok CVČ                                           2 052,91      2 022,-           2 600,-         2 600,-       2 000,-        2 000,-         2 000,-
+41    R                0111    641009 257        Príspevok za výkon stavebného úradu                     4 915,18      4 798,-           5 000,-         5 000,-       5 000,-        5 000,-         5 000,-
+                       0111    641    TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                  6 968,09      6 820,-           7 600,-         7 600,-       7 000,-        7 000,-         7 000,-
+41    R                0111    642012            Na odstupne                                                                            21 120,-        21 120,-
+41    R                0111    642015            Na nemocenske davky ocu zamestnanci                      125,03          573,62         2 500,-         2 500,-       2 500,-        2 500,-         2 500,-
+                       0111    642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                            125,03          573,62        23 620,-        23 620,-       2 500,-        2 500,-         2 500,-
+41    R                0111    651003            Subjektu verejnej správy                                                  12,20
+                       0111    651    SPLÁCANIE ÚROKOV V TUZEMSKU                                                          12,20
+
+                       0111    Výkonné a zákonodarné orgány                                            228 078,58   257 256,16        340 779,-        356 043,30    324 577,-      326 537,-      326 537,-
+41    R                0112    637005                   Špecialne služby -audit                          1 500,-       1 500,-           1 500,-         1 500,-       1 500,-        1 500,-         1 500,-
+41    R                0112    637012                   Poplatky a odvody                                  729,84        808,61            800,-           800,-         800,-          800,-           800,-
+41    R                0112    637035                   Zrážka dane                                                                                        324,-
+                       0112    637    SLUŽBY                                                             2 229,84      2 308,61          2 300,-         2 624,-       2 300,-        2 300,-         2 300,-
+
+                       0112    Finančné a rozpočtové záležitosti                                         2 229,84      2 308,61          2 300,-         2 624,-       2 300,-        2 300,-         2 300,-
+111 R                  0160    614                      ODMENY-voľby-referendum                           340,20                                           114,-
+111 R                  0160    614       300            ODMENY-komunálne voľby                                                                             171,84
+                       0160    614       ODMENY                                                           340,20                                           285,84
+111 R                  0160    621                  VšZP-Voľby referendum                                   37,42                                           13,-
+111 R                  0160    621       301        všzp -komun. voľby                                                                                      18,90
+                       0160    621       POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV                           37,42                                           31,90
+111   R                0160    625001                   Nemocenské poistenie -voľbyreferendum                4,77                                            2,-
+111   R                0160    625001 302               Nemocenské poistenie -kom.voľby                                                                      2,41
+111   R                0160    625002                   Starobné poistenie -voľbyreferendum                 47,63                                           16,-
+111   R                0160    625002 303               Starobné poistenie-kom.voľby                                                                        24,06
+111   R                0160    625003                   Na urazove poistenie-voľby referendum                2,72                                            1,-
+Obec Dubovica S/N 1                                                                                         N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 25.11.2026
+Účínnosť:                                                                                          Zvesený:                                                                                       Strana č.   4
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                       2026                             Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+111   R                0160    625003 304        Na urazove poistenie-kom.voľby                                                                              1,37
+111   R                0160    625004            Na invalidné poistenie-voľby referendum                   10,20                                             4,-
+111   R                0160    625004 305        Na invalidné poistenie-kom.voľby                                                                            5,16
+111   R                0160    625005            Na poistenie v nezamest.-voľby referendu                   3,38                                             2,-
+111   R                0160    625005 306        Na poistenie v nezamest.-kom.voľby                                                                          1,72
+111   R                0160    625007            Rezervný fond -voľby referendum                           16,17                                             6,-
+111   R                0160    625007 307        Rezervný fond -kom.voľby                                                                                    8,16
+                       0160    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                       84,87                                            73,88
+111 R                  0160    631001           Cestovné náhrady -voľby referendum                         67,40                                            23,80
+111 R                  0160    631001 310       Cestovné vl.zamestnanci-komunálne voľby                                                                     40,60
+                       0160    631    CESTOVNÉ NÁHRADY                                                     67,40                                            64,40
+111 R                  0160    632003            Postove-voľbyreferendum                                   41,-                                              2,80
+111 R                  0160    632004            komunikačná infraštruktúra-refeerndum                     20,-                                             10,-
+111 R                  0160    632005            Telekomunikačné služby -Telefón referen                   15,-                                              5,-
+                       0160    632    ENERGIE, VODA A KOMUNIKÁCIE                                          76,-                                             17,80
+111   R                0160    633006                   Vseobecny material-voľby referendum                93,50                                            47,-
+111   R                0160    633006 309               Všeobecny material-kom.voľby                                                                        61,25
+111   R                0160    633016                   Občerstvenie -voľbyreferendum                      89,-                                             46,13
+111   R                0160    633016 254               Občerstvenie-kom.voľby                                                                              60,50
+                       0160    633    MATERIÁL                                                            182,50                                           214,88
+111   R                0160    637007                   Cestovne nahrady cudzí-referendum                 527,40                                           144,08
+111   R                0160    637007 255               Cestovné náhrady a stravné -kom.voľby                                                              258,-
+111   R                0160    637026                   Odmeny členom komisie -voľby referendum          1 763,23                                          511,-
+111   R                0160    637026 253               Odmeny-komunálne voľby                                                                           1 908,06
+111   R                0160    637037                   Vrátky-Referendum r. 2026                          136,13                                           57,50
+                       0160    637    SLUŽBY                                                             2 426,76                                        2 878,64
+
+                       0160    Všeobecné verejné služby inde neklasifikované                             3 215,15                                        3 567,34
+41    R                0320    632001            Elektr,energia-pož.zbrojnica                             296,-           310,03           400,-
+41    R                0320    632006            Elektr.emergia požiarná zbrojnica                                                                         400,-         400,-          400,-           400,-
+                       0320    632    ENERGIE, VODA A KOMUNIKÁCIE                                         296,-           310,03           400,-           400,-         400,-          400,-           400,-
+41    R                0320    637005                   Specialne sluzby-dokumentácia PO                  100,-           250,-            300,-           300,-         300,-          300,-           300,-
+                       0320    637    SLUŽBY                                                              100,-           250,-            300,-           300,-         300,-          300,-           300,-
+
+                       0320    Ochrana pred požiarmi                                                      396,-           560,03           700,-           700,-         700,-          700,-           700,-
+111   R                0451    633006                   Spevnené plochy aktivácia dlh.majetku                        11 516,05
+41    R                0451    633006                   Všeo.materiál,štrk,soľ,piesok,                   1 771,91     2 495,42           4 000,-         3 362,-       3 000,-        3 000,-         3 000,-
+41    R                0451    633006 123               Materiál na zabradlie pri MK-cintorín            1 021,38                                                      2 000,-        2 000,-         2 000,-
+41    R                0451    633006 206               Materiál -oprava MK +chodníky,obrubníky                      14 740,68          10 000,-         5 824,-      10 000,-        5 000,-         5 000,-
+41    R                0451    633006 289               Materiál na oplotenie pri KD -aktivácia                         745,43
+41    R                0451    633006 290               Materiál na spev.ploch pri KD -aktivácia                      5 365,22
+Obec Dubovica S/N 1                                                                                         N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 25.11.2026
+Účínnosť:                                                                                          Zvesený:                                                                                       Strana č.   5
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                       2026                             Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+41   R                 0451    633015                   Palivo ako zdroj energie do kosačky               313,10        354,02             500,-           500,-         500,-          500,-           500,-
+45   R                 0451    633015                   Palivo ako zdroj ener.do kosačky env.fon                         26,07
+                       0451    633    MATERIÁL                                                           3 106,39    35 242,89          14 500,-         9 686,-      15 500,-       10 500,-        10 500,-
+41   R                 0451    634001                   Palivo, do traktora ,žehličky na MK                               399,08           300,-           300,-         500,-          500,-           500,-
+                       0451    634    DOPRAVNÉ                                                                            399,08           300,-           300,-         500,-          500,-           500,-
+41   R                 0451    635006            Údržba ciest,MK,parkoviska, chodníky                    2 537,91     1 500,-            8 000,-         8 000,-       7 000,-        2 000,-         2 000,-
+41   R                 0451    635006 294        Oprava parkoviska,VP,schody pri KD,                                  2 200,-
+                       0451    635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                        2 537,91     3 700,-            8 000,-         8 000,-       7 000,-        2 000,-         2 000,-
+41   R                 0451    636002           Prenájom náradia                                                          160,40           200,-           200,-         200,-          200,-           200,-
+                       0451    636    NÁJOMNÉ ZA NÁJOM                                                                    160,40           200,-           200,-         200,-          200,-           200,-
+41   R                 0451    637004                   Vseobecne sluzby,čistenie ciest                               1 542,-            1 500,-         4 680,-       2 000,-        2 000,-        

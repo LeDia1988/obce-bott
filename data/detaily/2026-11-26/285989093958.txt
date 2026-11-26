@@ -1,0 +1,293 @@
+URL: https://cuet.slovensko.sk/en/dokument/71c3922c-b307-470a-8845-70252e87b233
+OBEC: Belža (Košice)
+NÁZOV: Návrh - Rozpočet 2027, s výhľadom na roky 2028-202
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/71c3922c-b307-470a-8845-70252e87b233
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh - Rozpočet 2027, s výhľadom na roky 2028-202
+Search publisher's RSS feeds
+Published on official board:
+Obec Belža
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Belža
+Published to:
+09.12.2026
+Registry case:
+Name of official document:
+Návrh - Rozpočet 2027, s výhľadom na roky 2028-202
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Rozpočet návrh 2027-2029.pdf
+Type and size:
+.pdf, 747.6 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/cca34e56-96fe-4a1d-8c1f-563b545e0f41
+               Rozpočet obce Belža na rok 2027
+               s výhľadom na roky 2028 - 2029
+ROZPOČTOVÉ PRÍJMY
+
+                                                                                                              Čerpanie      Schválený     Predpoklad Návrh              Návrh              Návrh
+                                                                                             Čerpanie
+                                                                                                              rozpočtu      rozpočet      čerpania   rozpočetu          rozpočetu          rozpočetu
+                                                                                             rozpočtu 12/2024
+                                                                                                              12/2025       2026          12/2026    2027 (€)           2028 (€)           2029 (€)
+Z     Položka Názov
+
+
+BEŽNÉ PRÍJMY
+100            Daňové príjmy
+41    111003   Výnos dane z príjmov FO a PO                                                        118617,83    126470,32     136466,00     136466,00     145447,00        152053,00        161235,00
+41    121001   Daň z pozemkov                                                                       10577,84     13344,68      13300,00      13300,00      13500,00           13500,00        13500,00
+41    121002   Daň zo stavieb                                                                        4380,32      5970,99       6000,00       7550,00       7600,00            7600,00         7600,00
+41    133001   Daň za psa                                                                             514,00       685,00        700,00        700,00        700,00             700,00          700,00
+41    133012   Daň za úžívanie verejného priestranstva                                                  0,00         0,00         20,00         20,00         20,00              20,00           20,00
+41    133013   Poplatok za odpady                                                                   13199,53     15937,66      17000,00      18250,00      18500,00           18500,00        18500,00
+200            Nedaňové príjmy
+41    212003   Z prenajatých priestorov                                                               9277,68     5411,98          0,00       5000,00            0,00               0,00           0,00
+               Správne poplatky (stavebné popl., potvrdenia o TP a PP, rybárske lístky, za
+41    221004   overovanie a pod.)                                                                     1304,00      921,00       2200,00       2600,00       3500,00            3500,00          3500,00
+41    223001   Prenájom hrobového miesta                                                               332,00       99,60        390,00        390,00        300,00             300,00           300,00
+41    223001   Za odpadové nádoby                                                                      494,40      435,50        500,00        500,00        500,00             500,00           500,00
+41    223001   Za predaj výrobkov, tovarov a služieb
+                - ostatné poplatky (kosenie, rezanie dr. hmoty, kopírovanie, tlač, ostané
+               potvrdnia a pod.)                                                                      1855,74     3292,30       3000,00       3000,00       3500,00            3500,00          3500,00
+41    246000   Ostatné platby                                                                            0,00     1458,39       1950,00       1950,00       1950,00            1950,00          1950,00
+41    292006   Príjmy z náhrad z poistného plnenia                                                     460,40        0,00          0,00          0,00          0,00               0,00             0,00
+41    292017   Vrátky                                                                                    0,00        0,00          0,00          0,00          0,00               0,00             0,00
+41    292027   Iné prijmy                                                                              940,00     6272,96       1500,00       4500,00       1500,00            1500,00          1500,00
+300            Transféry
+111   312001   na úseku hlásenia pobytu                                                                144,87      147,18        150,00        150,00        150,00             150,00           150,00
+111   312001   na úseku registra adries                                                                 19,60       26,00         25,00         25,00         25,00              25,00            25,00
+111   312001   na úseku starostlivosti o ŽP                                                             53,13       58,29         60,00         62,40         65,00              65,00            65,00
+111   312001   na úseku stav. por. a dopravy                                                            18,96       750,3         30,00         30,00         30,00              30,00            30,00
+111   312001   na voľby                                                                               3118,09        0,00          0,00        972,18          0,00               0,00             0,00
+111   312001   Transfér odmeny zamestnancov                                                           2234,00     2178,10          0,00          0,00          0,00               0,00             0,00
+111   312001   Transfer SANYRA ENVIROMENT                                                                0,00      201,75          0,00          0,00          0,00               0,00             0,00
+111   312002   Transfér EF                                                                             503,67      433,41          0,00          0,00          0,00               0,00             0,00
+BEŽNÉ PRÍJMY SPOLU:                                                           168046,06   184095,41    183291,00   195465,58   197287,00   203893,00   213075,00
+KAPITALOVE PRIJMY
+111 322002 Dotácia MAAS Hornád z PPA elektroinštalácie                         14065,12        0,00         0,00        0,00        0,00        0,00        0,00
+111 322001      Dotácia MIRRI Kanalizácia                                       4940,00        0,00         0,00        0,00        0,00        0,00        0,00
+72a  322006     Dotácia KSK Minifitpark                                         3420,72        0,00         0,00        0,00        0,00        0,00        0,00
+72a  322006     Dotácia KSK Verejné osvetlenie pri kostole                      1262,00     1800,00         0,00        0,00        0,00        0,00        0,00
+72a  325000     Dotácia SPP Malotraktor                                         2000,00        0,00         0,00        0,00        0,00        0,00        0,00
+111 322001      Dotácia MF Rekonštrukcia WC v KD                               10500,00        0,00         0,00        0,00        0,00        0,00        0,00
+111 322001      Dotácia MF Rekonštrukcia bukovej podlahy                           0,00     5194,00         0,00        0,00        0,00        0,00        0,00
+43   233001     Predaj pozemkov                                                    0,00        0,00         0,00        0,00        0,00        0,00        0,00
+45   322001     Kanalizácia z EF                                                   0,00        0,00    780000,00        0,00        0,00        0,00        0,00
+72c  322001     Rekonštrukcia budovy KD a ObU projekt UMR                          0,00        0,00    185000,00   185000,00        0,00        0,00        0,00
+1AG1 322002     Dotácia PPA - Rekonštrukcia sály KD                                0,00    48870,13         0,00        0,00        0,00        0,00        0,00
+41   233001     Predaj pozemkov                                                    0,00     1556,82         0,00        0,00        0,00        0,00        0,00
+72a  321000     Dotácia na Náklady spojené s prípravou UP obce Belža               0,00    16000,00         0,00        0,00        0,00        0,00        0,00
+45   322002     Dotácia Fond na podporu športu Multifunkčné ihrisko                0,00        0,00         0,00    56963,99        0,00        0,00        0,00
+45   322002     Dotácia UPSVaR Detské ihrisko                                      0,00        0,00         0,00    50000,00        0,00        0,00        0,00
+111 322002      Dotácia Úrad pre územné plánovanie a výstavbu UP obce Belža        0,00        0,00         0,00    13776,00        0,00        0,00        0,00
+111 322001      Dotácia Výjazdové rokovanie vlády Oprava strechy na DS             0,00        0,00         0,00    23000,00        0,00        0,00        0,00
+111 322002      Dotácia Pódium                                                     0,00        0,00         0,00        0,00     3500,00        0,00        0,00
+KAPITALOVE PRIJMY SPOLU:                                                       36187,84    73420,95    965000,00   328739,99     3500,00        0,00        0,00
+
+
+131H   453000   Zostatok z prostriedkov z pred. rokov Dotácia na UP             5400,00    10500,00     13500,00    13500,00    13772,00        0,00        0,00
+111    453000   Zostatok z prostriedkov Dotácia MF Rekonštrukcia WC KD             0,00        0,00         0,00        0,00        0,00        0,00        0,00
+111    453000   Zostatok z prostriedkov Referendum                                 0,00        0,00         0,00        0,00        0,00        0,00        0,00
+46     454001   Prevod z rezervného fondu                                       1954,86    16476,01      5000,00    18078,30        0,00        0,00        0,00
+46     454002   Fond revitalizácia zelene                                          0,00        0,00      1050,00     1050,00     1050,00        0,00        0,00
+51     513001   Poskytnutíe úveru z EF na Kanalizáciu                              0,00        0,00     40000,00        0,00        0,00        0,00        0,00
+43     431000   Z predaja majetkových účasti PO                                29255,84        0,00         0,00        0,00        0,00        0,00        0,00
+52     513001   Bankové úvery krátkodobé                                           0,00    48870,13         0,00        0,00        0,00        0,00        0,00
+53     513002   Bankové úvery dlhodobé                                             0,00    30000,00         0,00        0,00        0,00        0,00        0,00
+FINANČNÉ OPERÁCIE SPOLU:                                                       36610,70   105846,14     59550,00    32628,30    14822,00        0,00        0,00
+PRÍJMY SPOLU:                                                                 240844,60   363362,50   1207841,00   556833,87   215609,00   203893,00   213075,00
+
+
+
+
+ROZPOČTOVÉ VŹDAVKY
+                                                                                              Čerpanie      Schválený     Predpoklad Návrh            Návrh            Návrh
+                                                                             Čerpanie
+                                                                                              rozpočtu      rozpočet      čerpania   rozpočetu        rozpočetu        rozpočetu
+Z     Položka Názov                                                          rozpočtu 12/2024
+                                                                                              12/2025       2026          12/2026    2027 (€)         2028 (€)         2029 (€)
+
+BEŽNÉ VÝDAVKY
+      01.1.1.6 Výdavky verejnej správy
+41    611000   Tarifný plat                                                         57332,13     61528,46      67000,00      67000,00      80000,00        80000,00       80000,00
+111   614000   Odmeny z transféru zo ŠR                                                 0,00      1999,20          0,00          0,00          0,00            0,00           0,00
+41    621000   VŠZP                                                                     0,00         0,00          0,00          0,00          0,00            0,00           0,00
+41    623000   ZP Dôvera                                                              2548,93     2959,21       3000,00       3000,00       4000,00         4000,00        4000,00
+               ZP Union                                                               3756,57     4159,69       4000,00       4000,00       5500,00         5500,00        5500,00
+41    625001   Na nemocenské poistenie                                                 810,04      869,52       1000,00       1000,00       1150,00         1150,00        1150,00
+41    625002   Na starobné poistenie                                                  8197,33     8797,89       9600,00       9600,00      11200,00        11200,00       11200,00
+41    625003   Na úrazové poistenie                                                    465,75      501,42        530,00        530,00        640,00          640,00         640,00
+41    625004   Na invalidné poistenie                                                 1721,47     1832,11       2000,00       2000,00       2400,00         2400,00        2400,00
+41    625005   Na poistenie v nezamestnanosti                                          449,65      450,18        800,00        800,00        800,00          800,00         800,00
+41    625007   Na poistenie do rezervného fondu solid                                 2903,38     2996,76       2900,00       2900,00       3500,00         3500,00        3500,00
+41    625007   Na poistenie do FPvCSP                                                    0,00      149,95        250,00        250,00        400,00          400,00         400,00
+41    627000   Príspevok DDS                                                           986,53     1085,29       1300,00       1300,00       1600,00         1600,00        1600,00
+41    631001   Cestovné náhrady                                                       1885,48     1673,70        200,00        450,00          0,00            0,00           0,00
+41    632001   Elektrina ObU a KD                                                     2142,91     2372,19       2500,00       2000,00       2300,00         2300,00        2300,00
+41    632001   Plyn                                                                   3735,03     5227,36       5000,00       5000,00       5500,00         5500,00        5500,00
+41    632002   Vodné                                                                   362,16      277,78        350,00        350,00        350,00          350,00         350,00
+41    632003   Pevná linka                                                             256,13      257,87        400,00        400,00        300,00          300,00         300,00
+41    632003   Mobilný telefín                                                         813,55      819,10        850,00        850,00        900,00          900,00         900,00
+41    632003   Poštovné                                                                375,55      429,45        400,00        450,00        500,00          500,00         500,00
+41    633006   Všeobecný materiál (kancelársky, čistiaci)                             2172,91     3950,94       2000,00       1700,00       2000,00         2000,00        2000,00
+               Všeobecný materiál z tranférov
+111   633006   (hlásenie pobytu, register adries, ŽP, miestne komunikácie)             437,00      441,75        400,00        400,00        270,00           270,00         270,00
+41    633006   Tlačivá                                                                  46,44       63,00        100,00        100,00        100,00           100,00         100,00
+41    633010   Pracovné odevy                                                          103,23      493,30        200,00        200,00        200,00           200,00         200,00
+41    633013   Softvér                                                                 500,00      500,00        500,00        500,00        500,00           500,00         500,00
+41    633018   Licencie                                                                487,18      476,87        500,00        500,00        500,00           500,00         500,00
+41    633016   Reprezentačné                                                           499,40      499,59        500,00        500,00        500,00           500,00        500,00
+41    634001   Palivo, maziva...                                                         0,00        0,00        600,00        800,00       1000,00          1000,00       1000,00
+42    634002   Servis, udržba, opravy..                                                  0,00        0,00        500,00       2650,00       2000,00          2000,00       2000,00
+43    634003   Poistenie                                                                 0,00        0,00        200,00        200,00        310,00           310,00        310,00
+41    635004   Údržba prevádz.strojov, prístojov                                       249,00       69,00        300,00        300,00        300,00           300,00        300,00
+41    635006   Údržba objektov a ich časti                                             844,21     1311,98        800,00        800,00        800,00           800,00        800,00
+41    635009   Update, údržba softwéru                                                 501,40      108,40        500,00        500,00        500,00           500,00        500,00
+41    637001    Školenia                                    1169,82   1216,52   1000,00   1000,00   1000,00   1000,00   1000,00
+41    637004    Všeobecné služby                            1995,13   3680,37   2000,00   2050,00   2000,00   2000,00   2000,00
+111   637005    Špeciálne sluby z dotácie                   2234,00      0,00      0,00      0,00      0,00      0,00      0,00
+                Špeciálne služby (audit, sociálne služby,
+41    637005    služby za VO, právne služby)                9559,53   7634,95   4000,00   3650,00   2500,00   2500,00   2500,00
+41    637014    Stravovanie vrátene režijných nakladov      1301,72   1844,49   2500,00   2500,00   3000,00   3000,00   3000,00
+41    637015    Poistenie budov                              389,48    479,42    550,00    550,00    600,00    600,00    600,00
+41    637016    Prídel do sociálneho fondu                   632,87    700,30    600,00    600,00    700,00    700,00    700,00
+41    637026    Odmeny poslancov                             494,56    523,87    700,00    700,00    700,00    700,00    700,00
+41    637027    Odmeny na základe dohôd o vyk. práce         607,15    943,50   1000,00   1000,00   1300,00   1300,00   1300,00
+41    641006    Spoločná úradovňa                           1607,49   1803,61   3000,00   3000,00   3200,00   3200,00   3200,00
+41    642002    Príspevok zariadeniu sociálnych služieb      532,56    278,96    350,00    350,00    200,00    200,00    200,00
+41    642006    Na členské príspevky - RVC, RZOH            1168,31   1082,63   1200,00   1200,00   1200,00   1200,00   1200,00
+      01.6.0.   Všeobecné verejné služby - Voľby
+111   611       Mzdy                                         280,98      0,00      0,00    114,87      0,00      0,00      0,00
+111   631001    Cestovné voľby                                14,40      0,00      0,00      4,00      0,00      0,00      0,00
+111   632001    Energie voľby                                 83,32      0,00      0,00      6,70      0,00      0,00      0,00
+111   632003    Poštovné služby voľby                          6,40      0,00      0,00      0,00      0,00      0,00      0,00
+111   632005    Telekomunikačné služby voľby                  15,00      0,00      0,00      5,00      0,00      0,00      0,00
+111   633006    Všeobecný kancelársky materiál voľby         180,03      0,00      0,00    119,20      0,00      0,00      0,00
+111   633016    Občerstvenie voľby                            85,50      0,00      0,00     33,00      0,00      0,00      0,00
+111   634004    Prepravné                                      0,00      0,00      0,00      0,00      0,00      0,00      0,00
+111   635006    Údržba budov voľby                            78,90      0,00      0,00     23,43      0,00      0,00      0,00
+111   637004    Všeobecné služby voľby                        69,00      0,00      0,00      0,00      0,00      0,00      0,00
+111   637007    Cestovné iným než vlastným zamestnancom       51,80      0,00      0,00     14,80      0,00      0,00      0,00
+111   637014    Stravovanie voľby                            400,20      0,00      0,00    123,60      0,00      0,00      0,00
+111   637026    Odmeny volebná komisia voľby                1840,39      0,00      0,00    510,58      0,00      0,00      0,00
+111   637027    Dohoda o vykonaní práce voľby                 51,00      0,00      0,00     17,00      0,00      0,00      0,00
+111   637037    Vratky                                         0,00      0,00      0,00      0,00      0,00      0,00      0,00
+      01.1.2.   Finančná a rozpočtová oblasť
+41    637012    Poplatky banke                               353,58    726,81   1000,00   1000,00   1000,00   1000,00   1000,00
+41    651002    Úroky z úveru                               2020,15   2052,77   1500,00   1500,00   1500,00   1500,00   1500,00
+      320       Požiarna ochrana
+41    635004    Údržba hasiacich prístrojov                  100,00    100,00    100,00    100,00    100,00    100,00    100,00
+41    637004    Činnosť technika PO a BOZP                   356,40    506,40    540,00    540,00    540,00    540,00    540,00
+41    637005    Revízie                                      150,00      0,00    150,00    150,00    150,00    150,00    150,00
+      451       Miestne komunikácie
+41    633006    Údržba ciest a chodníkov - materiál          992,95     14,00    300,00    300,00    500,00    500,00    500,00
+41    635006    Údržba ciest a chodníkov služby             3717,54   1125,45   2500,00   2500,00   3000,00   3000,00   3000,00
+      05.1.0.   Nakladanie s odpadmi
+41    633004    Nákup odpadových nádob                                  648,00      629,76      500,00      500,00      500,00      500,00      500,00
+41    633006    Vrecia na KO                                              0,00        0,00       50,00       50,00       50,00       50,00       50,00
+41    637004    Odvoz odpadu                                          17992,99    17715,50    17000,00    18250,00    18500,00    18500,00    18500,00
+41    637004    Nakladanie s odpadmi_VZN 4_2014                          60,00       60,00      400,00      400,00      400,00      400,00      400,00
+
+41    637004    Prenájom kompostérov                                      0,00        0,00        0,00        0,00        0,00        0,00        0,00
+111   637004    Prenájom kompostérov z EF                               301,92      433,41        0,00        0,00        0,00        0,00        0,00
+      540       Verejná zeleň
+41    633006    Údržba a úprava verejného priestranstva - materiál      286,06      505,28      500,00      500,00      500,00      500,00      500,00
+41    633015    Benzín, olej - kosačka, drvička                         293,56      290,20      300,00      600,00      600,00      600,00      600,00
+41    635004    Údržba kosačky, drvičky                                 298,50                  300,00      400,00      400,00      400,00      400,00
+41    635006    Údržba a úprava verejného priestranstva - služby        300,00       98,40      300,00      300,00      300,00      300,00      300,00
+      620       Rozvoj obce
+41    6370005 Geometrické plan, projekty                                  0,00        0,00        0,00        0,00        0,00        0,00        0,00
+      640       Verejné osvetlenie
+41    632001    Spotreba elektrickej energie                           1235,09     1436,04     2500,00     2500,00     2300,00     2300,00     2300,00
+41    635006    Údržba verejného osvetlenia - služby                   1494,52     1721,06     1000,00     1000,00     1000,00     1000,00     1000,00
+      810       Rekreacia a šport
+41    642005    Dotácia pre CVČ                                         180,00      120,00      200,00      200,00      400,00      400,00      400,00
+      820       Propagácia obce
+41    633009    Vlastné tlačoviny                                      1470,00     1461,65     1300,00     1300,00     1000,00     1000,00     1000,00
+41    637006    Kultúrne, spoločenské a športové akcie                 2300,00     1030,00     2500,00     2500,00     3000,00     3000,00     3000,00
+41    633006    Kultúrne, spoločenské a športové akcie - materiál       488,45     1359,15     1000,00     1000,00     1000,00     1000,00     1000,00
+      08.3.0.   Vysielacie služby
+41    635006    Údržba rohlasu                                          300,00        0,00      300,00      300,00      300,00      300,00      300,00
+41    637012    Poplatok SOZA                                            72,00       44,28      100,00      100,00      100,00      100,00      100,00
+      08.4.0.   Náboženské služby
+41    632001    Spotreba elektrickej energie                            788,62      732,14     1300,00     1300,00     1500,00     1500,00     1500,00
+41    635006    Údržba DS, cintorína                                    300,00       99,00      200,00      200,00      200,00      200,00      200,00
+BEŽNÉ VÝDAVKY SPOLU:                                                 155933,23   158751,88   161920,00   166092,18   185260,00   185260,00   185260,00
+KAPITALOVE VÝDAVKY
+41   717001 Pódium z dotácia                                              0,00        0,00        0,00        0,00     3500,00        0,00        0,00
+111 717001 Pódium vlastné zdroje                                          0,00        0,00        0,00        0,00     2000,00        0,00        0,00
+111 716000 UP Belža                                                    5400,00     2500,00    13500,00    13500,00    13772,00        0,00        0,00
+111 716000 Projektová dokumentácia rekonštrukcia KD MAS                3600,00        0,00        0,00        0,00        0,00        0,00        0,00
+41   717001 Mni Fitpark - vlastné zdroje                                755,98        0,00        0,00        0,00        0,00        0,00        0,00
+72a  717001 Mni Fitpark KSK                                            3420,72        0,00        0,00        0,00        0,00        0,00        0,00
+46   717001 Výstavba cesty                                                0,00        0,00        0,00        0,00        0,00        0,00        0,00
+41   717002 Rekonštrukcia budovy ObU a KD projekt UMR                       0,00        0,00     16000,00    16000,00        0,00        0,00        0,00
+72c  717002 Rekonštrukcia budovy ObU a KD projekt UMR                       0,00        0,00    185000,00   185000,00        0,00        0,00        0,00
+46   717002 Obnova okolia ObU a KD (z fondu na revitalizáciu zelene)        0,00        0,00      1050,00     1050,00     1050,00        0,00        0,00
+72c  713004 Nákup záhradnej techniky vlastné zdroje                       300,00        0,00         0,00        0,00        0,00        0,00        0,00
+72c  713004 Nákup záhradnej techniky nadácia SPP                         2000,00        0,00         0,00        0,00        0,00        0,00        0,00
+11H 718004 Rekonštrukcia VO pri chrame                                   1262,00     1800,00         0,00        0,00        0,00        0,00        0,00
+46   718004 Rekonštrukcia VO pri chráme                                  1954,86     1296,72         0,00        0,00        0,00        0,00        0,00
+52   717002 Rekonštrukcia budovy ObU a KD z úveru                           0,00    29977,33         0,00        0,00        0,00        0,00        0,00
+52   717002 Rekonštrukcía sály KD z úveru                                   0,00    48870,13         0,00        0,00        0,00        0,00        0,00
+111 717002 Rekonštrukcia bukovej podlahy                                    0,00     5194,00         0,00        0,00        0,00        0,00        0,00
+111 717002 Rekonštrukcia WC                                                 0,00    10500,00         0,00        0,00        0,00        0,00        0,00
+45   717002 Kanalizácia z dotácie EF                                        0,00        0,00    780000,00        0,00        0,00        0,00        0,00
+41   717002 Rekonštukcia budovy ObU a KD VZ 2025                            0,00     5000,00         0,00        0,00        0,00        0,00        0,00
+46   717002 Rekonštrukcia budovy ObU a KD RF 2025                           0,00    16476,01         0,00        0,00        0,00        0,00        0,00
+51   717002 Kanalizácie z úveru EF                                          0,00        0,00     40000,00        0,00        0,00        0,00        0,00
+111 717002 Dotácia výjazdové rokovanie vlády Oprava strechy DS              0,00        0,00         0,00    23000,00        0,00        0,00        0,00
+41   718007 Kamerový systém doplnenie kamery                                0,00        0,00         0,00     1230,00        0,00        0,00        0,00
+41   717001 Ihrisko pre každé dieťa MPSVaR                                  0,00        0,00         0,00     2571,16        0,00        0,00        0,00
+45   717001 Ihrisko pre každé dieťa MPSVaR dotacia                          0,00        0,00         0,00    50000,00        0,00        0,00        0,00
+46   717001 Ihrisko pre každé dieťa MPSVaR RF                               0,00        0,00         0,00     2988,84        0,00        0,00        0,00
+45   717001 Multifunkčné ihrisko Fond na podporu športu                     0,00        0,00         0,00    56963,99        0,00        0,00        0,00
+46   717001 Multifunkčné ihrisko Fond na podporu športu z RF                0,00        0,00         0,00    10089,46        0,00        0,00        0,00
+46   716    Dotácia Urad pre uzemné plánovanie na UP obce Belza             0,00        0,00         0,00     4198,84        0,00        0,00        0,00
+41   717002 Komunitný kultúrny bod v obci Belža                             0,00        0,00         0,00    13776,00        0,00        0,00        0,00
+KAPITÁLOVÉ VÝDAVKY CELKOM:                                              18693,56   121614,19   1035550,00   380368,29    20322,00        0,00        0,00
+FINANČNÉ OPERÁCIE
+41     821005 Splácanie úverov - dlhodobý úver                              0,00        0,00      5000,00     5000,00    10000,00    10000,00    10000,00
+45     821005 Splácanie úverov - dlhodobý úver                              0,00        0,00      5000,00     5000,00        0,00        0,00        0,00
+52     821005 Splácanie úverov - dlhodobý úver                           5400,00     7548,00         0,00        0,00        0,00        0,00        0,00
+111    821004 Splácanie úverov - krátkodobý úver                         3516,29        0,00         0,00        0,00        0,00        0,00        0,00
+1AG1   821004 Splácanie úverov - krátkodobý úver                        10548,83    48870,13         0,00        0,00        0,00        0,00        0,00
+43     819001 Nákup dlhopisov                                           29255,84        0,00         0,00        0,00        0,00        0,00        0,00
+FINANČNÉ OPERÁCIE CELKOM:                                               48720,96    56418,13     10000,00    10000,00    10000,00    10000,00    10000,00
+VÝDAVKY SPOLU:                                                         223347,75   336784,20   1207470,00   556460,47   215582,00   195260,00   195260,00
+
+               rozdiel príjmy - výdavky                                                                                     27,00     8633,00    17815,00
+

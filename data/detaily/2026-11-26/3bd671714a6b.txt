@@ -1,0 +1,601 @@
+URL: https://cuet.slovensko.sk/en/dokument/e4eeae0b-0ed9-48fb-bff9-ff7d34145ae4
+OBEC: Spišská Belá (Kežmarok)
+NÁZOV: Všeobecne záväzné nariadenie Mesta Spišská Belá č
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/e4eeae0b-0ed9-48fb-bff9-ff7d34145ae4
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Všeobecne záväzné nariadenie Mesta Spišská Belá č
+Search publisher's RSS feeds
+Published on official board:
+Mesto Spišská Belá (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Mesto Spišská Belá (OVM)
+Published to:
+25.12.2026
+Registry case:
+Name of official document:
+Všeobecne záväzné nariadenie Mesta Spišská Belá č
+Document type:
+Iný elektronický dokument
+Document abstract:
+Všeobecne záväzné nariadenie Mesta Spišská Belá číslo .../2026 o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi na území Mesta Spišská Belá - NÁVRH
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VZN_Nakladanie s odpadmi_Návrh_25112026.pdf
+Type and size:
+.pdf, 513.04 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/658a6743-8c8d-4e42-a622-5882771de6f7
+          Mesto Spišská Belá
+
+
+
+
+      Všeobecne záväzné nariadenie
+
+
+
+         MESTA SPIŠSKÁ BELÁ
+
+
+
+
+   o nakladaní s komunálnymi odpadmi
+a s drobnými stavebnými odpadmi na území
+           Mesta Spišská Belá
+                       Všeobecne záväzné nariadenie
+                            Mesta Spišská Belá
+                               Číslo .../2026
+                             zo dňa .........2026
+
+ o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi
+                    na území Mesta Spišská Belá
+
+         Mestské zastupiteľstvo v Spišskej Belej vo veciach územnej samosprávy v zmysle ustanovenia § 4
+ods. 3 písm. g) a § 6 ods. 1 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov a v z
+zmysle § 81 ods. 3 a ods. 8 zákona č. 79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov
+(ďalej len „zákon o odpadoch“) sa uznieslo na tomto
+
+                                   všeobecne záväznom nariadení
+                                       (ďalej len „nariadenie“):
+
+                                          ČASŤ I.
+                                    ÚVODNÉ USTANOVENIA
+                                                §1
+                                           Predmet úpravy
+1.  Toto nariadenie upravuje podrobnosti nakladania s jednotlivými druhmi komunálnych odpadov:
+    a) nakladanie so zmesovým komunálnym odpadom a drobnými stavebnými odpadmi (ďalej len DSO“)
+       na území mesta,
+    b) nakladanie s vytriedenými zložkami komunálneho odpadu (ďalej len „KO“) na území mesta, ktorými
+       sú najmä:
+       - elektroodpady z domácností,
+       - odpady z obalov a odpadov z neobalových výrobkov zbieraných spolu s obalmi,
+       - použité prenosné batérie a akumulátory a automobilové batérie a akumulátory,
+       - veterinárne lieky a humánne lieky nespotrebované fyzickými osobami a zdravotnícke pomôcky,
+       - jedlé tuky a oleje,
+    c) spôsob zberu DSO na území mesta,
+    d) spôsob zberu objemného odpadu,
+    e) nakladanie s odpadom z domácnosti s obsahom škodlivých látok (ďalej len „NO“),
+    f) nakladanie s biologicky rozložiteľným komunálnym odpadom, resp. dôvody nezavedenia triedeného
+       zberu KO pre biologicky rozložiteľný kuchynský odpad,
+    g) nakladanie s biologicky rozložiteľným kuchynským odpadom a reštauračným odpadom
+       prevádzkovateľom kuchyne,
+    h) prevádzkovanie zberného dvora.
+2. Nariadenie upravuje aj spôsob nahlasovania nezákonne umiestneného odpadu a podrobnosti
+   prevádzkovania zberného dvora na území mesta.
+3. Účelom tohto nariadenia je upraviť v súlade s hierarchiou odpadového hospodárstva podrobnosti
+   o nakladaní s KO a DSO vrátane použitých batérií a akumulátorov, ktoré sú komunálnym odpadom
+   a elektroodpadov z domácností s cieľom zabezpečiť ochranu zdravých životných podmienok obyvateľov
+   mesta, chrániť životné prostredie a čistotu mesta.
+4. Toto nariadenie sa vydáva s cieľom stanoviť pre mesto vhodný systém nakladania s KO, ktoré vznikli na
+   území mesta, pričom územím mesta sa rozumie katastrálne územie Spišská Belá a Strážky.
+                                                   §2
+                                             Základné pojmy
+1. Odpadové hospodárstvo je činnosť zameraná na predchádzanie a obmedzovanie vzniku odpadov
+    a znižovanie ich nebezpečnosti pre životné prostredie a nakladanie s odpadmi v súlade so zákonom
+    o odpadoch.
+2. Nakladanie s odpadom je zber, preprava, zhodnocovanie a zneškodňovanie odpadu vrátane dohľadu nad
+    týmito činnosťami a nasledujúcej starostlivosti o miesta zneškodňovania a zahŕňa aj konanie obchodníka
+    alebo sprostredkovateľa.
+3. Pôvodca odpadu je ten, ktorého činnosťou odpad vzniká alebo ten, kto vykonáva úpravu, zmiešavanie
+    alebo iné úkony s odpadmi, ak ich výsledkom je zmena povahy alebo zloženia týchto odpadov.
+4. Držiteľ odpadu je pôvodca odpadu alebo osoba, ktorá má odpad v držbe.
+5. Odpadom je hnuteľná vec alebo látka, ktorej sa jej držiteľ zbavuje, chce sa jej zbaviť alebo je v súlade so
+    zákonom alebo osobitnými predpismi povinný sa jej zbaviť.
+6. Komunálne odpady sú odpady z domácnosti vznikajúce na území obce pri činnosti fyzických osôb
+    a odpady podobných vlastností a zloženia, ktorých pôvodcom je právnická osoba alebo fyzická osoba –
+    podnikateľ, okrem odpadov vznikajúcich pri bezprostrednom výkone činností tvoriacich predmet
+    podnikania alebo činností právnickej osoby alebo fyzickej osoby - podnikateľa; za odpady z domácností
+    sa považujú aj odpady z nehnuteľností slúžiacich fyzickým osobám na ich individuálnu rekreáciu,
+    napríklad zo záhrad, chát, chalúp alebo na parkovanie alebo uskladnenie vozidla používaného pre potreby
+    domácnosti, najmä z garáží, garážových stojísk a parkovacích stojísk. Komunálnymi odpadmi sú aj všetky
+    odpady vznikajúce v obci pri čistení verejných komunikácií a priestranstiev, ktoré sú majetkom mesta
+    alebo v správe mesta, a taktiež pri údržbe verejnej zelene vrátane parkov a cintorínov, ktoré sú majetkom
+    mesta alebo v správe mesta a ďalšej zelene na pozemkoch fyzických osôb. Medzi komunálne odpady sa
+    nezaraďujú staré vozidlá ani odpadové pneumatiky.
+7. Zmesový komunálny odpad je nevytriedený KO alebo KO po vytriedení zložiek komunálneho odpadu.
+8. Drobný stavebný odpad (ďalej len „DSO“) je odpad z bežných udržiavacích prác vykonávaných fyzickou
+    osobou alebo pre fyzickú osobu, za ktorý sa platí miestny poplatok za KO a DSO.
+9. Triedenie odpadov je delenie odpadov podľa druhov, kategórií alebo iných kritérií alebo oddeľovanie
+    zložiek odpadov, ktoré možno po oddelení zaradiť ako samostatné druhy odpadov.
+10. Triedený zber komunálnych odpadov je činnosť, pri ktorej sa oddelene zbierajú zložky KO.
+11. Zelený bioodpad je biologicky rozložiteľný odpad (ďalej len „BRO“) zo záhrad a z parkov a cintorínov
+    (katalógové číslo: 20 02 01). Obsahuje rastlinný materiál, najmä trávu, lístie, konáre, vypletú burinu,
+    pozberové zvyšky z pestovania a pod.
+12. Kuchynský bioodpad je biologicky rozložiteľný kuchynský odpad z domácností a reštaurácií (katalógové
+    číslo: 20 01 08) a jedlé oleje a tuky (katalógové číslo: 20 01 25). Medzi biologicky rozložiteľný kuchynský
+    a reštauračný odpad patrí odpad, ktorý vzniká pri príprave jedál a nápojov (zvyšky z čistenia ovocia
+    a zeleniny, vaječné škrupiny, nespracované zostatky surovín a pod.) ako aj odpad vzniknutý po
+    konzumácii jedál a nápojov (použité papierové servítky, neskonzumované zostatky pokrmov, kávové
+    a čajové zvyšky a pod.) a potraviny po záručnej dobe.
+13. Odpadové jedlé oleje a tuky (katalógové číslo: 20 01 25) sa radia v zmysle čl. 10 písm. p) nariadenia
+    Európskeho parlamentu a Rady (ES) č. 1069/2009 medzi vedľajšie živočíšne produkty a platia pre ne
+    podmienky ako pri nakladaní s vyššie uvedeným kuchynským bioodpadom.
+14. Elektroodpad z domácností je elektroodpad, ktorý pochádza z domácností fyzických osôb a z
+    obchodných, priemyselných, inštitucionálnych a iných zdrojov, ktorý je svojím zložením a množstvom
+    podobný tomu, ktorý pochádza z domácností.
+15. Objemný odpad je komunálny odpad, ktorý kvôli svojim rozmerom a hmotnosti nie je možné umiestniť
+    do zberných nádob bez toho, aby z nich tento odpad vyčnieval (nepotrebný nábytok, koberce, okná, dvere,
+    umývadlá, WC a pod.).
+16. Nebezpečný odpad (ďalej len „NO“) je odpad, ktorý má aspoň jednu z nebezpečných vlastností, najmä
+    výbušnosť, oxidovateľnosť, horľavosť, dráždivosť, toxicita, rakovinotvornosť, mutagénnosť a ekotoxicita.
+17. Zberný dvor (ďalej len „ZD“) je zariadenie na zber komunálnych odpadov a drobných stavebných
+    odpadov zriadené zberovou spoločnosťou, ktorá má uzatvorenú zmluvu s mestom na túto činnosť; na
+    prevádzkovanie zberného dvora sa vyžaduje súhlas príslušného orgánu štátnej správy odpadového
+    hospodárstva. Na zbernom dvore môžu fyzické osoby odovzdávať drobný stavebný odpad, objemný odpad
+    a oddelene zbierané zložky komunálneho odpadu v rozsahu triedeného zberu ustanovenom v tomto
+    nariadení.
+18. Zberovou spoločnosťou alebo tzv. oprávnenou organizáciou sa rozumie organizácia, resp. spoločnosť,
+    ktorá nakladá s odpadom vznikajúcim na území mesta a je na túto činnosť oprávnená v zmysle zákona.
+    Zároveň predmetnú činnosť realizuje na základe zmluvy s mestom uzavretej v súlade so zákonom
+    o odpadoch.
+19. Organizácia zodpovednosti výrobcov (ďalej len „OZV“) je právnická osoba so sídlom v Slovenskej
+    republike založená, vlastnená a prevádzkovaná výlučne výrobcami vyhradených výrobkov so sídlom v
+    niektorom z členských štátov. Organizácia zodpovednosti výrobcov, v súlade s udelenou autorizáciou,
+    zabezpečuje na základe zmluvy o plnení vyhradených povinností plnenie týchto povinností za zastúpených
+    výrobcov vyhradeného výrobku.
+20. Program odpadového hospodárstva (ďalej len „POH“) je programový dokument, ktorý sa vypracúva
+    pre určenú územnú oblasť v súlade s hierarchiou a cieľmi odpadového hospodárstva obsahujúci analýzu
+    súčasného stavu odpadového hospodárstva tejto územnej oblasti a opatrenia, ktoré je potrebné prijať na
+    zlepšenie environmentálne vhodnej prípravy na opätovné použitie, recyklácie, zhodnocovania
+    a zneškodňovania odpadu, ako aj hodnotenie, ako bude program podporovať plnenie týchto cieľov a
+    ustanovení zákona o odpadoch.
+21. Zber odpadu je zhromažďovanie odpadu od inej osoby vrátane jeho predbežného triedenia a dočasného
+    uloženia odpadu na účely prepravy do zariadenia na spracovanie odpadov.
+22. Zberná nádoba (ďalej len „ZN“) je nádoba určená týmto všeobecne záväzným nariadením na zber
+    zmesového KO alebo zber vytriedených zložiek KO.
+
+                                           ČASŤ II.
+                                    ZÁKLADNÉ USTANOVENIA
+                                                   § 3
+1.   Za nakladanie s KO a DSO, ktoré vznikli na území mesta, zodpovedá mesto s výnimkami, ktoré
+     ustanovuje zákon o odpadoch.
+2. Každý pôvodca odpadu je povinný komunálny odpad zhromažďovať, triediť a odovzdávať na zhodnotenie
+     alebo zneškodnenie podľa systému stanoveného týmto nariadením.
+3. Mesto zabezpečuje zavedenie a vykonávanie triedeného zberu prostredníctvom zberovej spoločnosti na
+     základe zmluvy uzavretej s touto spoločnosťou.
+4. Každý je povinný nakladať s KO alebo inak s ním zaobchádzať takým spôsobom, ktorý neohrozuje zdravie
+     ľudí a nepoškodzuje životné prostredie, a to tak, aby nedochádzalo k:
+   a) riziku znečistenia vody, ovzdušia, pôdy, rastlín a živočíchov,
+   b) obťažovaniu okolia hlukom alebo zápachom a
+   c) nepriaznivému vplyvu na krajinu alebo miesta osobitného významu.
+5. Pri nakladaní s odpadmi alebo inom zaobchádzaní s nimi je každý pôvodca odpadu povinný:
+   a) zapojiť sa do systému zberu KO v meste,
+   b) užívať zberné nádoby zodpovedajúce systému zberu KO v meste,
+   c) ukladať zmesový KO, oddelene zbierané zložky KO a DSO na účely ich zberu na miesta určené
+        mestom a do zberných nádob zodpovedajúcich systému zberu KO v meste,
+   d) ak ide o pôvodcu, ktorý nie je zapojený do systému zberu, zapojiť sa do neho a prihasiť sa na mestskom
+        úrade najneskôr do 1 mesiaca od vzniku povinnosti ukladajúcej platiť poplatok za KO.
+6. Držiteľ KO je povinný správne zaradiť odpad alebo zabezpečiť správnosť zaradenia odpadu podľa
+     Katalógu odpadov, pričom komunálne odpady je povinný zaraďovať pod katalógovým číslom
+     začínajúcim kódom „20“.
+7. Prevádzkovateľ kuchyne, držiteľ KO a držiteľ DSO alebo ten, kto nakladá na území mesta s odpadmi, je
+     povinný na vyžiadanie mesta poskytnúť pravdivé a úplné informácie súvisiace s nakladaním s odpadmi.
+8. Držiteľ starého vozidla je povinný bezodkladne zabezpečiť odovzdanie starého vozidla osobe
+     vykonávajúcej zber starých vozidiel alebo spracovateľovi starých vozidiel.
+9. Konečný používateľ pneumatiky je povinný pneumatiku po tom, ako sa stala odpadovou pneumatikou,
+     odovzdať distribútorovi pneumatík okrem odpadových pneumatík umiestnených na kolesách starého
+     vozidla odovzdávaného osobe oprávnenej na zber starých vozidiel alebo spracovateľovi starých vozidiel.
+10. Zakazuje sa:
+    a) vyberať KO alebo vytriedené zložky KO zo ZN a z telesa riadenej skládky odpadov osobami
+         neoprávnenými na nakladanie s nimi,
+    b) znečisťovať stanovištia zberných nádob a ich okolie,
+    c) uložiť alebo ponechať KO na inom mieste ako na mieste na to určenom v súlade so zákonom
+         o odpadoch a týmto nariadením,
+    d) ukladať do zberných nádob DSO alebo opotrebované pneumatiky, či odpad z nich,
+    e) zneškodniť KO alebo zhodnotiť odpad inak ako v súlade so zákonom o odpadoch,
+    f) zneškodniť KO ukladaním do povrchových nádrží (napr. jám, odkalísk), vypúšťaním a vhadzovaním
+         do vodných tokov,
+    g) vypúšťať zvyšky nebezpečných odpadov do povrchových vôd, podzemných vôd a do kanalizácie
+    h) vykonávať bez súhlasu orgánu štátnej správy odpadového hospodárstva alebo v rozpore s ním činnosť,
+         na ktorú sa súhlas vyžaduje,
+    i) riediť alebo zmiešavať KO s cieľom dosiahnuť hraničné hodnoty koncentrácie škodlivých látok,
+    j) zneškodňovať spaľovaním BRO, zákaz sa nevzťahuje na spaľovanie palivového dreva,
+    k) spaľovať KO na voľnom priestranstve a vo vykurovacích zariadeniach v domácnostiach,
+    l) ukladať do zberných nádob určených mestom na zber zmesového KO iný odpad ako zmesový KO
+         a do zberných nádob určených na triedený zber KO zložku KO, pre ktorú nie je zberová nádoba určená,
+         ponechať staré vozidlo na verejnom priestranstve,
+    m) vykonávať zber oddelene zbieraných zložiek KO (odpady z obalov a neobalových výrobkov,
+         elektroodpad z domácností, použité batérie a akumulátory) bez zariadenia na zber odpadov osobou,
+         ktorá nespĺňa požiadavky podľa zákona a nemá na túto činnosť uzavretú zmluvu s mestom.
+11. Vykonávať zber KO na území mesta vrátane výkupu a mobilného zberu, a prepravu KO, s výnimkou
+     biologicky rozložiteľného kuchynského a reštauračného odpadu od prevádzkovateľa kuchyne, možno
+     vykonávať len na základe uzatvorenej zmluvy s mestom. Zber odpadov z obalov a odpadov
+     z neobalových výrobkov môže na území mesta vykonávať len ten, kto má uzatvorenú zmluvu aj
+     s organizáciou zodpovednosti výrobcov, s ktorou má mesto uzatvorenú zmluvu. Uzatvorenie zmluvy sa
+     nevzťahuje na distribútorov vykonávajúcich spätný zber a zber prostredníctvom zberného miesta
+     použitých prenosných batérií a akumulátorov.
+                                              §4
+                            Hierarchia odpadového hospodárstva mesta
+   Na území mesta je každý pôvodca KO povinný uplatňovať túto hierarchiu odpadového hospodárstva:
+   a) predchádzanie vzniku odpadu,
+   b) príprava na opätovné použitie,
+   c) recyklácia,
+   d) iné zhodnocovanie,
+   e) zneškodňovanie.
+                                               § 5
+                          Zberné nádoby, ich prideľovanie a umiestnenie
+1. Za účelom odvozu odpadu je vlastník (správca, resp. nájomca) nehnuteľnosti povinný zriadiť vyhradené
+    miesto pre zberné nádoby (ďalej len „nádoby“) a splniť nasledujúce podmienky zabezpečujúce, aby:
+     a) k vyhradenému miestu bol zabezpečený bezpečný prístup,
+     b) nebol narušený vzhľad okolia (estetika) a hygiena prostredia,
+     c) nádoby neboli umiestnené v blízkosti okien, detských ihrísk, frekventovaných miest a pod.,
+     d) nádoby boli umiestnené na spevnenom podklade,
+     e) nádoby neboli umiestnené trvalo a prednostne na chodníkoch, komunikáciách alebo parkoviskách.
+2. Zberné nádoby sa nesmú preplňovať ani preťažovať odpadom. Nádoby opatrené krytom, sa musia po
+    vložení odpadu uzavrieť.
+3. Pre zber KO sa používajú nasledovné zberné nádoby:
+     a) pre zmesový KO:
+         - v rodinných domoch - zberné nádoby s objemom 120 l s vývozom 1x za 2 týždne,
+         - pre bytové domy - zberné nádoby s objemom 1 100 l s vývozom 1x za 2 týždne,
+         - pre právnické osoby a fyzické osoby oprávnené na podnikanie - zberné nádoby s objemom 120 l
+         alebo 1 100 l; vývoz 1x týždenne, ak sa mesto s pôvodcom odpadu nedohodne inak (vzhľadom na
+         množstevný zber odpadu).
+     b) pre vytriedené zložky KO:
+         - sklo - zberné nádoby alebo zberné PVC vrecia s objemom 120 l zelenej farby s prislúchajúcim
+         označením; s objemom 1 100 l - vývoz podľa vopred schváleného časového harmonogramu,
+         - papier - zberné nádoby alebo zberné PVC vrecia s objemom 120 l modrej farby s prislúchajúcim
+         označením; s objemom 1 100 l - vývoz podľa vopred schváleného časového harmonogramu,
+         - plasty - zberné nádoby alebo zberné PVC vrecia s objemom 120 l žltej farby alebo červenej farby
+         s prislúchajúcim označením; s objemom 1 100 l - vývoz podľa vopred schváleného časového
+         harmonogramu,
+         - kovy - zberné nádoby alebo zberné PVC vrecia s objemom 120 l červenej farby alebo žltej farby
+         s prislúchajúcim označením; s objemom 1 100 l - vývoz podľa vopred schváleného časového
+         harmonogramu,
+4. Na poskytovanie zberných nádob je rozhodujúci počet osôb prihlásených na trvalý, resp. prechodný pobyt
+    na jednu adresu s jedným súpisným a orientačným číslom a to nasledovne:
+   a) každá samostatná domácnosť žijúca v rodinnom dome s počtom do 6 osôb má mať 1 zbernú nádobu,
+   b) viac ako 6-členná domácnosť žijúca v rodinnom dome má pridelené 2 nádoby.
+5. Pre domácnosti žijúce v bytových domoch na sídliskách je spravidla na 10 bytov poskytovaná 1
+    maloobjemová zberná nádoba s objemom 1 100 litrov.
+6. O poskytnutí nádob na zmesový komunálny odpad rozhoduje mesto. Mesto určuje umiestnenie týchto nádob
+    na sídliskách.
+7. Fyzická osoba je povinná starať sa o poskytnutú zbernú nádobu a udržiavať ju v dobrom stave. Fyzická
+    osoba, ktorej bola nádoba poskytnutá, zodpovedá za jej prípadnú stratu, odcudzenie alebo poškodenie a je
+    povinná o tom bezodkladne informovať mesto. V takom prípade sa mu poskytne náhradná nádoba, za ktorú
+    je však povinný uhradiť mestu náklady na jej kúpu (nadobúdaciu cenu).
+8. Najskôr po 8 rokoch môže fyzická osoba žijúca v RD z dôvodu opotrebenia nádoby požiadať mesto o jej
+    výmenu. V takomto prípade sa mu nádoba poskytne bezplatne. Vo výnimočných prípadoch je možné túto
+    výmenu uskutočniť aj skôr.
+9. Pre právnické osoby a fyzické osoby oprávnené na podnikanie je na území mesta zavedený množstvový
+    systém zberu zmesových KO. Právnická osoba a fyzická osoba podnikateľ je povinná pred začatím činnosti
+    požiadať mesto o zabezpečenie odvozu zmesových KO. Zberné nádoby si zabezpečujú na svoje náklady
+    (resp. poskytuje im ich mesto za finančnú náhradu). Počet a veľkosť nádob dohodne mesto s pôvodcom
+    vzhľadom na množstvo odpadu priemerne produkovaného prevádzkou daného druhu.
+10. Každý pôvodca a držiteľ odpadu je povinný používať na zmesový komunálny odpad len typ zberných
+      nádob schválený mestom a zodpovedajúci systému zberu, ktorý určuje toto nariadenie.
+11. Zberné nádoby na komunálny odpad z domácností obyvateľom mesta zabezpečuje mesto na svoje náklady
+      za podmienok uvedených v tomto nariadení.
+12. Všetci pôvodcovia komunálnych odpadov a drobných stavebných odpadov na území mesta sú povinní:
+     a) zapojiť sa do zavedeného systému nakladania s KO a drobným stavebným odpadom na území mesta,
+     b) ukladať KO iba do určených zberných nádob.
+     c) zapojiť sa do triedeného zberu jednotlivých zložiek odpadov; vytriedené zložky odpadov ukladať do
+         príslušných nádob a vriec,
+     d) s poskytnutou nádobou alebo zberným vrecom zaobchádzať šetrne, aby bola zabezpečená maximálna
+         životnosť,
+     e) odpratať v zimnom období sneh z okolia poskytnutej zbernej nádoby, prípadne odstrániť iné prekážky,
+         ktoré by mohli brániť zberovému vozidlu pri vyprázdňovaní nádoby,
+     f) zberné nádoby alebo zberné vrecia pripraviť v dohodnutý deň na vyprázdnenie alebo odber tak, aby
+         boli ľahko prístupné.
+
+                           ČASŤ III.
+NAKLADANIE S KOMUNÁLNYMI ODPADMI, DROBNÝMI STAVEBNÝMI ODPADMI,
+OBJEMNÝM ODPADOM A ODPADOM Z DOMÁCNOSTÍ S OBSAHOM ŠKODLIVÝCH
+                            LÁTOK
+                                              § 6
+                         Nakladanie so zmesovým komunálnym odpadom
+1. Na území mesta je zavedený kontajnerovo intervalový zber komunálneho odpadu z domácností. Vo
+   výnimočných prípadoch môže mesto nariadiť zber tohto odpadu aj nad rámec určeného intervalu.
+2. Zber, prepravu a zneškodňovanie zmesového KO zabezpečuje na území mesta výhradne oprávnená osoba
+   (zberová spoločnosť).
+3. Do zberných nádob na KO je možné ukladať iba ostatné KO tvoriace zmesový komunálny odpad. Je
+   zakázané tu ukladať akékoľvek stavebné odpady a podobné odpady (zemina, kamene, drevo, konáre
+   a pod.), ďalej aj zložky KO, ktoré sú zbierané osobitne v rámci zavedeného systému separovaného zberu
+   (plasty, sklo, papier, kovy, biologicky rozložiteľný odpad, viacvrstvové kombinované materiály na báze
+   lepenky – nápojové obaly), ako aj všetky ostatné (nekomunálne) odpady.
+4. V čase odvozu odpadu sú fyzické osoby povinné umožniť voľný prístup k zberným nádobám, v opačnom
+   prípade sa vývoz odpadu neuskutoční.
+5. Na verejných priestranstvách sú na ukladanie komunálnych odpadov umiestnené verejné odpadkové koše.
+   Tieto koše sú určené prioritne na zmesový komunálny odpad osôb pohybujúc sa po meste. Do týchto
+   verejných odpadkových košov je zakázané ukladať odpady vyprodukované v prevádzkach právnických
+   osôb a fyzických osôb oprávnených na podnikanie a ďalšie odpady, na ktoré nie sú tieto koše určené.
+6. Odpad vznikajúci pri bezprostrednom výkone činnosti tvoriacej predmet podnikania právnickej osoby
+   a fyzickej osoby oprávnenej na podnikanie, nie je komunálnym odpadom.
+                                                § 7
+                             Nakladanie s drobným stavebným odpadom
+1.    K drobnému stavebnému odpadu z bežných udržiavacích prác (ďalej len „DSO“), ktorý vyprodukujú
+     fyzické osoby, patrí odpad ako napr. betón, tehly, dlaždice, obkladačky, keramika, zemina, kamenivo,
+     izolačné a stavebné materiály a pod.
+2.   Každý pôvodca alebo držiteľ DSO je povinný na území mesta tento odpad umiestniť v priestore zberného
+     dvora.
+3.   Uloženie DSO v priestore zberného dvora je spoplatnené podľa hmotnosti odovzdaného DSO v zmysle
+     nariadenia mesta o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné
+     odpady.
+4.   Pôvodca alebo držiteľ DSO je povinný vytriediť z DSO jednotlivé zložky odpadu podľa tohto nariadenia.
+5.   Pôvodca alebo držiteľ DSO nesmie ukladať tento odpad do zberných nádob na zmesový komunálny odpad
+     alebo tento odpad zhromažďovať na verejných priestranstvách.
+
+                                                 § 8
+                                   Nakladanie s objemným odpadom
+1.   Objemný odpad predstavujú komunálne odpady, ktoré sa svojou veľkosťou nevojdú do zbernej nádoby
+     na zmesový KO alebo na triedený zber.
+2. Obyvateľ mesta je povinný s objemným odpadom naložiť nasledovne:
+    a) tento odpad umiestniť v priestore zberného dvora v čase prevádzkových hodín,
+    b) odovzdať tento odpad v rámci kampaňového zberu organizovaného mestom podľa odseku 7 tohto
+        paragrafu.
+3. Obyvatelia mesta s trvalým pobytom na území mesta sú oprávnení bezodplatne odovzdať
+    veľkoobjemový odpad v množstve najviac 50 kg na osobu za kalendárny rok. Po prekročení uvedeného
+    limitu zberný dvor ďalší veľkoobjemový odpad od tej istej osoby v danom kalendárnom roku neprijme.
+4. Osoba odovzdávajúca veľkoobjemový odpad je povinná preukázať svoj trvalý pobyt na území obce
+    predložením platného občianskeho preukazu alebo iným hodnoverným dokladom vydaným mestom.
+5. Obyvateľ s trvalým pobytom v obci má po prekročení limitu možnosť zabezpečiť si odvoz
+    veľkoobjemového odpadu objednaním veľkoobjemového kontajnera (VOK) na vlastné náklady.
+6. Zakazuje sa odkladať objemný odpad do priestoru vyhradeného pre zberné nádoby alebo na verejné
+    priestranstvá mesta.
+7. Mesto zabezpečí najmenej dvakrát do roka kampaňový zber objemného odpadu priamo v zbernom
+    dvore. Obyvatelia dopravia objemný odpad do zberného dvora vlastnými prostriedkami. Mesto oznámi
+    obyvateľom prostredníctvom webového sídla mesta Spišská Belá termín a spôsob uskutočnenia
+    kampaňového zberu. Zber sa uskutoční za účelom zhodnotenia alebo zneškodnenia tohto odpadu.
+8. Pri kampaňovom zbere sa do objemného odpadu zakazuje odovzdávať :
+    a) DSO a stavebné odpady,
+    b) objemné odpady v nezmenšenom objeme,
+    c) objemné odpady dovezené z iných území ako z územia mesta,
+    d) odpady, na ktoré je na území mesta zavedený triedený zber,
+    e) nebezpečné odpady, ako sú chladničky, elektrozariadenia (nakladanie podľa § 11), kyseliny,
+        pneumatiky a pod.,
+    f) biologicky rozložiteľný odpad – tráva a konáre z pozemkov právnických a fyzických osôb
+9. Právnické osoby a fyzické osoby oprávnené na podnikanie si zber a zneškodňovanie objemných odpadov
+zabezpečujú sami na vlastné náklady prostredníctvom oprávnenej organizácie (zberovej spoločnosti) v zmysle
+zákona o odpadoch.
+
+
+
+                                                 § 9
+                                          Nakladanie s textilom
+     1. Nádoby určené na textil a šatstvo sú umiestnené v areály zberného dvora. Každá nádoba je
+        označená štítkom s tel. kontaktom na organizáciu, ktorej nádoba patrí. V prípade, že občan hodí do
+        nádoby niečo omylom, treba sa ihneď obrátiť na organizáciu, v ktorej vlastníctve je zberná nádoba.
+     2. Nádoby sú vyvážané zo zberného dvora podľa potreby.
+     3. Do nádob patrí: čisté a suché šatstvo, prikrývky, deky, posteľná bielizeň, topánky, príp. iné druhy
+        textilu.
+     4. Do nádob na triedený zber textilu je zakázané ukladať iné druhy odpadov.
+     5. Náklady na zber šatstva a textílií znáša Mesto Spišská Belá.
+     6. Zber, prepravu, zhodnocovanie a zneškodňovanie odpadu z textilu môže vykonávať len organizácia,
+        ktorá má uzatvorenú zmluvu na vykonávanie tejto činnosti s prevádzkovateľom zberného dvora
+        v Spišskej Belej.
+
+                                     ČASŤ IV.
+                   TRIEDENÝ ZBER ZLOŽIEK KOMUNÁLNEHO ODPADU
+                                              § 10
+                          Systém triedeného zberu komunálneho odpadu
+1. V meste Spišská Belá sa vykonáva triedený zber:
+     a) elektroodpadov z domácností,
+     b) odpadov z obalov a odpadov z neobalových výrobkov zbieraných spolu s obalmi (papier a lepenka,
+     sklo, plasty, kovy, obaly z papiera a lepenky, obaly zo skla, obaly z plastov a obaly z kovov, obaly z
+     viacvrstvových kombinovaných materiálov na báze lepenky),
+     c) použitých prenosných batérií a akumulátorov a automobilových batérií a akumulátorov,
+     d) veterinárnych liekov a humánnych liekov,
+     e) jedlých olejov a tukov z domácností,
+     f) biologicky rozložiteľných odpadov zo záhrad a parkov vrátane odpadu z cintorínov,
+     g) biologicky rozložiteľného kuchynského odpadu okrem toho, ktorého pôvodcom je fyzická osoba
+         oprávnená na podnikanie a právnická osoba, ktorá prevádzkuje zariadenie spoločného stravovania
+      h) odpadov s obsahom škodlivín (odpadové motorové a mazacie oleje, farbivá, chemikálie a iné
+           nebezpečné odpady).
+2. Na triedený zber KO sú určené zberné nádoby alebo zberné PVC vrecia v zmysle popisu triedeného zberu
+    uvedeného v tomto nariadení. Zberné nádoby alebo zberné PVC vrecia na zabezpečenie zberu triedených
+    zložiek komunálnych odpadov zabezpečuje mesto.
+3. Triedený zber komunálnych odpadov uskutočňuje podľa harmonogramu zvozu zberová spoločnosť.
+    Harmonogram zvozu je zverejnený na webovom sídle mesta Spišská Belá (www.spisskabela.sk).
+4. Ten, kto vykonáva, alebo chce vykonávať v meste Spišská Belá zber odpadu, alebo výkup odpadu od
+    fyzickej osoby, je povinný:
+   a) zverejňovať druhy zbieraných alebo vykupovaných odpadov vrátane podmienok zberu odpadov alebo
+      výkupu odpadov,
+   b) označiť zariadenie na zber odpadov alebo výkup odpadov,
+   c) zaradiť odpad odobratý od takejto osoby ako komunálny odpad; toto ustanovenie sa nevzťahuje na zber
+      starých vozidiel a odpadových pneumatík,
+   d) oznamovať mestu údaje o druhu a množstve vyzbieraného odpadu alebo vykúpeného odpadu,
+   e) musí mať uzatvorenú zmluvu s organizáciou zodpovednosti výrobcov, s ktorou má mesto uzatvorenú
+      zmluvu.
+                                                § 11
+                                     Elektroodpady z domácností
+1. Obyvatelia mesta sú povinní s elektroodpadom z domácností naložiť nasledovne:
+    a) bezodplatným odovzdaním tohto odpadu v zbernom dvore (celoročne) alebo
+    b) bezodplatným spätným odberom prostredníctvom distribútorov (predajcov) elektrozariadení, alebo
+    c) bezodplatným spätným odberom prostredníctvom zberných miest v prípade veľmi malého
+        elektroodpadu.
+2. Elektroodpad je zakázané ukladať na iné miesta v meste a na verejné priestranstvá.
+
+                                                § 12
+                          Odpady z obalov a odpady z neobalových výrobkov
+1.   Zber jednotlivých vytriedených zložiek KO (plast, papier, kovy, sklo, viacvrstvové kombinované
+     materiály na báze lepenky a obaly z nich) vrátane zabezpečenia zberných nádob a vriec, zabezpečuje
+     organizácia zodpovednosti výrobcov na svoje náklady prostredníctvom oprávnenej organizácie za
+     zmluvne dohodnutých podmienok s mestom.
+2.   Obyvateľ mesta je povinný s týmto odpadom (plast, papier, kovy, sklo, viacvrstvové kombinované
+     materiály na báze lepenky a obaly z nich) naložiť nasledovne:
+     a) umiestniť do zberného vreca pre príslušnú zložku KO,
+     b) umiestniť do zbernej nádoby umiestnenej na separačnom mieste na jednotlivých uliciach a sídliskách
+        v meste,
+     c) umiestniť do určeného kontajnera v priestore zberného dvora (celoročne),
+     d) odovzdať oprávnenej organizácii v rámci tzv. mobilného zberu tohto odpadu,
+     e) odpredať vo výkupmi odpadu.
+     Uloženie tohto odpadu pre obyvateľa mesta je bezplatné.
+3.   Zberné nádoby na tento druh odpadu musia byť označené štítkom s údajom o tom, pre odpad z ktorých
+     výrobkov je nádoba určená.
+4.   Právnické osoby a fyzické osoby oprávnené na podnikanie si zabezpečujú zber oddelene vytriedených
+     zložiek KO sami na vlastné náklady prostredníctvom oprávnenej organizácie.
+     5. Odpad vzniknutý na verejných pohrebiskách je nutné rovnako triediť na jednotlivé zložky KO. Na
+     tieto zložky KO vznikajúce na pohrebisku sú určené zberné nádoby na to určené v areáli pohrebiska.
+
+                                            § 13
+         Použité prenosné batérie a akumulátory a automobilové batérií a akumulátory
+1. Použité prenosné batérie a akumulátory a automobilové batérie a akumulátory je možné zbierať len
+   oddelene od ostatných druhov odpadov (ak nie sú súčasťou elektroodpadu alebo starého vozidla).
+2. Obyvatelia mesta sú povinní s týmto druhom odpadu naložiť nasledovne:
+   a) bezodplatným odovzdaním tohto odpadu v zbernom dvore (celoročne)
+   b) bezodplatným umiestnením tohto odpadu pred nehnuteľnosť na verejne prístupné miesto v rámci 2-
+       krát ročne organizovaného celomestského zberu, alebo
+   c) bezodplatným spätným odberom prostredníctvom distribútorov (predajcov) batérií a akumulátorov.
+3. Zber použitých automobilových batérií a akumulátorov z motorových vozidiel vo vlastníctve fyzickej
+   osoby nepoužívané na komerčné účely sa neviaže na kúpu novej batérie alebo akumulátora.
+4. Právnické osoby a fyzické osoby oprávnené na podnikanie si zabezpečujú zber tohto odpadu sami na
+   vlastné náklady prostredníctvom oprávnenej organizácie.
+5. Použité batérie a akumulátory je zakázané ukladať do iných zberných nádob alebo na verejné priestranstvá.
+                                             § 14
+             Veterinárne lieky a humánne lieky nespotrebované fyzickými osobami
+1.   Držiteľ veterinárnych liekov a humánnych liekov nespotrebovaných fyzickými osobami je povinný
+     odovzdať ich do verejných lekární.
+2.   Zakazuje sa nespotrebované lieky ukladať do zberných nádob alebo do iných balov zhromažďovať na
+     verejné priestranstvá.
+                                                   § 15
+                                    Jedlé oleje a tuky z domácností
+1.   Obyvatelia mesta sú povinní s jedlými olejmi a tukmi naložiť nasledovne:
+     a) bezodplatným odovzdaním oprávnenej organizácii vykonávajúcej tzv. mobilný zber v meste na
+        základe zmluvy s mestom.
+2.   Tento odpad je zakázané zmiešavať s komunálnym odpadom a ukladať do zberných nádob alebo do iných
+     balov zhromažďovať na verejné priestranstvá.
+
+                                                   § 16
+  Nakladanie s biologicky rozložiteľným odpadom zo záhrad a parkov vrátane odpadu z cintorínov
+1. Obyvatelia mesta sú povinní s biologicky rozložiteľným odpadom zo záhrad naložiť nasledovne:
+   a) sami si ho kompostovať vo vlastnom kompostéry alebo kompostovisku,
+   b) bezodplatne umiestniť do zbernej nádoby, ktorá bude odvezená v zmysle určeného časového
+        harmonogramu (vo vegetačnom období),
+   c) bezodplatným umiestnením tohto odpadu v rámci 2-krát ročne organizovaného celomestského zberu
+        ku veľkoobjemovým kontajnerom umiestneným na určených stanovištiach, alebo
+   d) bezodplatne umiestniť do určeného kontajnera v priestoroch zberného dvora (celoročne).
+2. Biologicky rozložiteľný odpad zo záhrad, parkov a cintorínov je zakázané spaľovať a ukladať do zberných
+    nádob určených na zmesový komunálny odpad. Zákaz sa nevzťahuje na spaľovanie palivového dreva.
+3. Zber biologicky rozložiteľného odpadu vznikajúceho pri údržbe verejnej zelene vrátane parkov
+    a cintorínov, ktoré sú v majetku alebo v správe mesta, zabezpečuje mesto prostredníctvom oprávnenej
+    spoločnosti.
+4. Biologicky rozložiteľný odpad z pozemkov právnických osôb a fyzických osôb oprávnených na
+    podnikanie nie je komunálnym odpadom. Nakladanie s týmto odpadom si zabezpečuje vlastník pozemku
+    alebo jeho správca na vlastné náklady prostredníctvom oprávnenej organizácie.
+                                                 § 17
+                    Nakladanie s biologicky rozložiteľným kuchynským odpadom
+                      a reštauračným odpadom od prevádzkovateľov kuchyne
+1.    Mesto Spišská Belá zabezpečuje podľa § 81 ods. 7 písm. b) bod 1 zákona o odpadoch vykonávanie
+      triedeného zberu biologicky rozložiteľných kuchynských odpadov z domácností. Obyvatelia mesta sú
+      povinní s jedlými olejmi a tukmi naložiť bezodplatným odovzdaním oprávnenej organizácii
+      vykonávajúcej tzv. mobilný zber v meste na základe zmluvy s mestom.
+2.    Za nakladanie s biologicky rozložiteľným kuchynským a reštauračným odpadom od prevádzkovateľa
+      kuchyne je zodpovedný prevádzkovateľ kuchyne, ktorý musí primerane zabezpečiť skladovanie tohto
+      odpadu do doby odovzdania oprávnenej organizácii.
+3.    Biologicky rozložiteľný kuchynský a reštauračný odpad sa zakazuje ukladať do zberných nádob určených
+      na zber komunálnych odpadov.
+4.    Ak prevádzkovateľ kuchyne zabezpečuje zber, prepravu a ďalšie nakladanie s tým odpadom sám alebo
+      prostredníctvom oprávnenej organizácie na základe zmluvy.
+
+                                             § 18
+     Nakladanie s odpadmi s obsahom škodlivín (odpadové motorové a mazacie oleje, farbivá,
+                             chemikálie a iné nebezpečné odpady)
+1.    Obyvatelia mesta sú povinní s odpadom s obsahom škodlivín naložiť nasledovne:
+      a) bezodplatným odovzdaním tohto odpadu v priestore zberného dvora (celoročne) alebo
+      b) bezodplatným umiestnením tohto odpadu pred nehnuteľnosť na verejne prístupné miesto v rámci 2-
+          krát ročne organizovaného celomestského zberu ku veľkoobjemovým kontajnerom umiestneným na
+          určených stanovištiach.
+2.    Odsek 1 sa nevzťahuje na nebezpečný odpad s obsahom azbestu zo stavebných a búracích prác. Takýto
+      stavebný odpad obyvateľ mesta musí na svoje náklady odovzdať spoločnosti, ktorá má na manipuláciu
+      s ním oprávnenie podľa zákona.
+3.    Odpad s obsahom škodlivín je zakázané ukladať do zberných nádob na zmesový KO alebo pre iné zložky
+      KO alebo do priestoru vyhradeného pre zberné nádoby alebo na verejné priestranstvá.
+4.    Právnické osoby a fyzické osoby oprávnené na podnikanie zabezpečujú zber a zneškodňovanie tohto
+      odpadu vznikajúceho pri bezprostrednom výkone činnosti tvoriacom predmet ich podnikania na vlastné
+      náklady prostredníctvom oprávnenej organizácie.
+
+                                                 ČASŤ V.
+                                              ZBERNÝ DVOR
+                                                 § 19
+                                     Prevádzkovanie zberného dvora
+1.    Za účelom hospodárneho a efektívneho napĺňania cieľov odpadového hospodárstva, ako aj Programu má
+      mesto zriadený zberný dvor pre dočasné uskladnenie určitých druhov odpadu pre potrebu ich následného
+      zhodnotenia, resp. zneškodnenia v súlade s platnou právnou úpravou.
+2.    Prevádzkovateľom tohto zberného dvora je Mestský podnik Spišská Belá s. r. o., Továrenská č. 30,
+      Spišská Belá.
+3.    Sídlo zberného dvora je areál Mestského podniku Spišská Belá s. r. o, na Továrenskej ulici č. 30 v Spišskej
+      Belej.
+4.    V zbernom dvore sa jednotlivé druhy KO zhromažďujú oddelene.
+5.    V prevádzke ZD môžu obyvatelia mesta v prevádzkovom čase odovzdať nasledovné druhy odpadov:
+      a) elektroodpad z domácností
+      b) odpady z obalov a neobalových výrobkov (plasty, sklo, papier, kovy, viacvrstvové kombinované
+           materiály na báze lepenky – nápojové obaly)
+      c) použité prenosné batérie a akumulátory
+      d) biologicky rozložiteľný odpad zo zelene (tráva, lístie, konáre)
+      e) nebezpečné odpady
+      f) objemný odpad
+      g) drobný stavebný odpad
+6.    Odpady uvedené v odseku 5 písm. a) – e) sú obyvateľmi mesta odovzdávané bezplatne po predložení
+      dokladu totožnosti.
+7.    Za uloženie odpadov uvedené v odseku 5 písm. f) – g) je od obyvateľov mesta Spišská Belá vyberaný
+      poplatok v zmysle príslušného nariadenia mesta.
+8.    Odpady uvedené v odseku 5 písm. b) môžu do zberného dvora odovzdať aj právnické osoby, resp. fyzické
+    osoby oprávnené na podnikanie, alebo fyzické osoby s trvalým pobytom mimo mesta Spišská Belá za
+    podmienok určených prevádzkovateľom zberného dvora.
+9. Prevádzkovateľ zberného dvora je zodpovedný za nakladanie s odovzdaným odpadom v súlade s platnou
+    právnou úpravou.
+10. Podrobnejšie pravidlá prevádzkovania zberného dvora vrátane určenia prevádzkovej doby sú určené
+    v prevádzkovom poriadku zberného dvora, ktorý vydáva prevádzkovateľ zberného dvora po odsúhlasení
+    mestom Spišská Belá.
+
+                                       ČASŤ VI.
+                              NEZÁKONNE UMIESTNENÝ ODPAD
+                                             § 20
+                       Spôsob nahlasovania nezákonne umiestnenie odpadu
+1.   Vlastník, správca alebo nájomca nehnuteľnosti je povinný po zistení, že na jeho nehnuteľnosti bol
+     nezákonne umiestnený odpad, oznámiť túto skutočnosť príslušnému orgánu štátnej správy odpadového
+     hospodárstva (Okresnému úradu Kežmarok, odboru starostlivosti o životné prostredie) alebo Mestu
+     Spišská Belá – Mestskému úradu v Spišskej Belej, Petzvalova 18, oddeleniu životného prostredia.
+2.   Nezákonne umiestnený odpad môže oznámiť aj akákoľvek fyzická osoba, alebo právnická osoba.
+3.   Osoba, ktorá je konaním určená ako zodpovedná za nakladanie s nezákonne umiestneným odpadom
+     (komunálnym odpadom alebo drobným stavebným odpadom) je povinná zabezpečiť jeho zhodnotenie
+     alebo zneškodnenie na vlastné náklady v zmysle zákona a tohto nariadenia.
+4.   Ak konaním nebude určená osoba zodpovedná za nakla

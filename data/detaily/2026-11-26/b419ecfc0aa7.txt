@@ -1,0 +1,657 @@
+URL: https://cuet.slovensko.sk/en/dokument/51f38d73-52aa-4a2b-95b0-5099278f8268
+OBEC: Janovce (nejednoznačné: Bardejov / Poprad)
+NÁZOV: Rozhodnutie o stavebnom zámere
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/51f38d73-52aa-4a2b-95b0-5099278f8268
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Rozhodnutie o stavebnom zámere
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Jánovce
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Jánovce
+Published to:
+11.12.2026
+Registry case:
+Name of official document:
+Rozhodnutie o stavebnom zámere
+Document abstract:
+Rozhodnutie o stavebnom zámere-Technická infraštruktúra obytnej
+zóny Jánovce
+[https://www.janovce.sk/e_download.php?file=/data/uredni_deska/obsah513_1.pdf&original=Rozhodnutie o stavebnom zámere - Technická infraštruktúra obytnej zóny Jánovce (1).pdf]_ _
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Rozhodnutie o stavebnom zámere - Technická infraštruktúra obytnej zóny Jánovce (1).pdf
+Type and size:
+.pdf, 491.74 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/f40e1649-1f7f-4f43-aff6-2719ee389b83
+                             OBEC JÁNOVCE
+                  Úsek územného rozhodovania a stavebného poriadku
+                             Jánovce 24, 925 22 Jánovce
+Číslo: OCÚJÁN-S2026/00251                                     V Jánovciach dňa: 25.11.2026
+
+
+
+
+Západoslovenská distribučná, a.s., so sídlom Čulenova 6, 816 47 Bratislava, IČO:
+36361518, v zastúpení spoločnosťou Hotel Astra, so sídlom Domové Role 69, 821 05
+Bratislava, na základe substitučného plnomocenstva zastúpená spoločnosťou DJ
+engineering, s.r.o., Mgr. Darina Marunová, so sídlom Slnečnicová 5C, 900 41 Rovinka
+___________________________________________________________________________
+- žiadosť o vydanie rozhodnutia o stavebnom zámere na stavbu: ,,Technická infraštruktúra
+obytnej zóny Jánovce“
+
+
+
+        ROZHODNUTIE O STAVEBNOM ZÁMERE
+        Obec Jánovce, úsek územného rozhodovania a stavebného poriadku ako príslušný
+stavebný úrad podľa § 12 písm. c) a § 15 ods. 1 a § 18 ods. 2 § 48 zákona č. 25/2025 Z. z.
+Stavebný zákon a o zmene a doplnení niektorých zákonov (Stavebný zákon), v znení
+neskorších predpisov (ďalej len „Stavebný zákon“) a v zmysle § 2, písm. e), zák. č. 416/2001
+Z. z. o prechode niektorých pôsobnosti z orgánov štátnej správy na obce a na vyššie územné
+celky, v znení neskorších predpisov, v súlade s ust. § 46 a § 47 zákona č. 71/1967 Zb.
+o správnom konaní (správny poriadok), v znení neskorších predpisov (ďalej len „správny
+poriadok“), rozhodujúc podľa § 60 Stavebného zákona v spojení s § 14 vyhlášky č. 60/2025
+Z. z. o štruktúre a prevádzke informačného systému územného plánovania a výstavby, o
+obsahu podaní a obsahu a rozsahu dokumentácie stavby (ďalej len „vyhláška č. 60/2025 Z.
+z.“) v súlade s vyhláškou č. 532/2002 Z. z. ktorou sa ustanovujú podrobnosti o všeobecných
+technických požiadavkách na výstavbu a o všeobecných technických požiadavkách na stavby
+užívané osobami s obmedzenou schopnosťou pohybu a orientácie (ďalej len ,,vyhláška č.
+532/2002 Z. z.“), po preskúmaní žiadosti o stavebný zámer vydáva
+
+                  súhlas so stavebným zámerom
+ID stavby:                  2501EC
+Typ žiadosti:               novostavba
+typ stavby:                 jednoduchá stavba
+názov stavby:               ,,Technická infraštruktúra obytnej zóny Jánovce“
+miesto stavby:              Okres Galanta, Kraj Trnavský
+stavebné pozemky:           na pozemku reg. KN „C“ s parc. č. 358/2; 358/195; 396/8;
+                            374 a na pozemku reg. KN „E“ s parc. č. 1-1368/2
+                            v katastrálnom území Jánovce.
+stavebník:                  Západoslovenská distribučná, a.s., so sídlom Čulenova 6, 816
+                            47 Bratislava, IČO: 36361518, v zastúpení spoločnosťou
+
+                                                                               Strana 1 z 31
+                            Hotel Astra, so sídlom Domové Role 69, 821 05 Bratislava,
+                            na základe substitučného plnomocenstva zastúpená
+                            spoločnosťou DJ engineering, s.r.o., Mgr. Darina Marunová,
+                            so sídlom Slnečnicová 5C, 900 41 Rovinka (ďalej len
+                            „stavebník“)
+vlastník stavby:            stavebník
+vlastník pozemkov:          Pozemok reg. KN „C“ s parc. č. 358/195 v k. ú. Jánovce, je
+                            vedený v Liste vlastníctva pod č. 577 vo vlastníctve Tomáš
+                            Rarbovský, bytom Čerešňová 4500/7, 903 01 Senec.
+                            Pozemok reg. KN „C“ s parc. č. 396/8 v k. ú. Jánovce, je vedený
+                            v Liste vlastníctva pod č. 420 vo vlastníctve Yan Sufang, bytom
+                            Martinčekova 780/12, Bratislava.
+                            Pozemok reg. KN „C“ s parc. č. 374 v k. ú. Jánovce, je vedený v
+                            Liste vlastníctva pod č. 619 vo vlastníctve AMAMONT, s.r.o.,
+                            so sídlom Vajnorská 135, 831 04 Bratislava.
+                            Pozemok reg. KN „E“ s parc. č. 1-1368/2 v k. ú. Jánovce, je
+                            vedený v Liste vlastníctva pod č. 483 vo vlastníctve Slovenská
+                            republika, správca Slovenský pozemkový fond, so sídlom
+                            Búdková cesta 36, 81715 Bratislava.
+projektant:                 JF con, s.r.o., so sídlom Družstevná 924 6, 031 01 Liptovský
+                            Mikuláš, IČO: 46347909, zodpovedný projektant Ing. Ján
+                            Fajnor, reg. č. 6153 * I1
+
+Členenie stavby na stavebné objekty:
+1. Identifikačný kód stavby (podľa vyhlášky č. 59/2025 Z. z. o členení stavieb): 2315 –
+   prenosové a distribučné sústavy elektrickej energie,
+Členenie stavby/číslo stavby: 01, číslo stavebného objektu: SO-04.01a Rozvod NN
+2. Identifikačný kód stavby (podľa vyhlášky č. 59/2025 Z. z. o členení stavieb): 2315 –
+   prenosové a distribučné sústavy elektrickej energie,
+Členenie stavby/číslo stavby: 01, číslo stavebného objektu: SO-04.02 Transformačná stanica
+3. Identifikačný kód stavby (podľa vyhlášky č. 59/2025 Z. z. o členení stavieb): 2315 –
+   prenosové a distribučné sústavy elektrickej energie,
+Členenie stavby/číslo stavby: 01, číslo stavebného objektu: SO-04.04 VN prípojka pre TS
+
+identifikačné údaje dokumentácie:
+časť PD - Súhrnná technická správa a koordinačná situácia: vypracoval JF con, s.r.o., so
+sídlom Družstevná 924 6, 031 01 Liptovský Mikuláš, IČO: 46347909, zodpovedný projektant
+Ing. Ján Fajnor, reg. č. 6153 * I1, číslo zákazky: 19-153, dátum vyhotovenia: 03/2026.
+Časť PD - SO 04.01a – Rozvod NN: vypracoval autorizovaný stavebný inžinier Ing. Jozef
+ Januška, reg. č. 6488 * I5, číslo zákazky: 19-153, dátum vyhotovenia: 11/2025.
+Časť PD – SO 04.02 – Transformačná stanica: vypracoval autorizovaný stavebný inžinier Ing.
+Jozef Januška, reg. č. 6488 * I5, číslo zákazky: 19-153, dátum vyhotovenia: 11/2025.
+Časť PD – SO 04.04 – VN prípojka pre TS: vypracoval autorizovaný stavebný inžinier Ing.
+Jozef Januška, reg. č. 6488 * I5, číslo zákazky: 19-153, dátum vyhotovenia: 11/2025.
+Časť PD – Projekt protipožiarnej bezpečnosti stavby: vypracoval špecialista požiarnej
+ochrany Ing. Jana Kriváček Koropecká, reg. č. 77/2015, dátum vyhotovenia: 01/2026.
+
+
+
+
+                                                                              Strana 2 z 31
+Zoznam účastníkov konania:
+Stavebník: Západoslovenská distribučná, a.s., so sídlom Čulenova 6, 816 47 Bratislava, IČO:
+36361518, v zastúpení spoločnosťou Hotel Astra, so sídlom Domové Role 69, 821 05
+Bratislava, na základe substitučného plnomocenstva zastúpená spoločnosťou DJ engineering,
+s.r.o., Mgr. Darina Marunová, so sídlom Slnečnicová 5C, 900 41 Rovinka
+Projektant: JF con, s.r.o., so sídlom Družstevná 924 6, 031 01 Liptovský Mikuláš, IČO:
+46347909, zodpovedný projektant Ing. Ján Fajnor, reg. č. 6153 * I1
+Vlastníci susedných pozemkov a najbližších stavieb:
+podľa parcelných čísel registra ,,E“KN: 1-1226/6
+podľa parcelných čísel registra ,,C“KN: 358/3; 358/187; 358/147; 358/195; 361/1; 358/176;
+358/175; 367/1; 367/2; 368/1; 370; 371/4; 371/1; 373; 374; 396/10; 396/8; 396/11; 396/3;
+396/135; 396/134; 396/104; 396/133; 396/101
+
+Podrobné údaje o stavbe ,,Technická infraštruktúra obytnej zóny Jánovce“:
+       Riešené územie sa nachádza v obci Jánovce, v katastrálnom území Jánovce. Záujmové
+územie sa nachádza západne od intravilánu obce Jánovce.
+       Navrhované technické riešenie napojenia obytnej zóny na elektrickú distribučnú sieť
+vychádza zo zistených kapacitných možností verejnej distribučnej sústavy v danej lokalite a z
+podmienok stanovených prevádzkovateľom distribučnej sústavy, spoločnosťou
+Západoslovenská distribučná, a. s. (ZSDis, a.s.).
+       Predmetné územie je určené na rozvoj individuálnej bytovej výstavby. Za týmto
+účelom sa navrhuje vybudovanie potrebnej technickej infraštruktúry.
+       Predmetná stavba, ako aj práce súvisiace s jej realizáciou, nebudú mať pri dodržaní
+stanovených podmienok negatívny vplyv na životné prostredie.
+       Počas realizácie stavebných prác je zhotoviteľ stavby povinný dodržiavať príslušné
+právne predpisy v oblasti ochrany životného prostredia.
+       Odpady vznikajúce počas realizácie stavby budú zhromažďované, triedené a
+odovzdávané v súlade s platnými právnymi predpismi v oblasti odpadového hospodárstva,
+dokument o odvádzaní odpadu stavebník preukáže najneskôr pri kolaudácii stavby. Odpady
+vznikajúce počas realizácie stavby budú zhromažďované, triedené a odovzdávané v súlade s
+platnými právnymi predpismi v oblasti odpadového hospodárstva. Stavebník je povinný
+najneskôr pri kolaudácii stavby predložiť doklady preukazujúce spôsob nakladania so
+vzniknutými odpadmi, najmä doklady o ich odovzdaní oprávnenej osobe na zhodnotenie
+alebo zneškodnenie.
+       Stavba pozostáva z troch vzájomne nadväzujúcich stavebných objektov:
+
+SO 04.01a – Rozvod NN
+SO 04.02 – Transformačná stanica
+SO 04.04 – VN prípojka pre TS
+
+SO 04.01a – Rozvod NN
+       Rozvod elektrickej energie je navrhnutý vzhľadom na bezpečnosť osôb, prevádzkovú
+spoľahlivosť, prehľadnosť, možnosť rýchleho odstránenia porúch, hospodárnosť rozvodu čo
+do investičných nákladov, strát a údržby.
+       Z dôvodu výstavby obytnej zóny celkovo so 43 odbernými miestami, je potrebné
+vybudovať distribučné rozvody NN pre jednotlivé stavebné pozemky, ktoré budú vyvedené z
+navrhovanej transformačnej stanice.
+       TS 0817-018 typu HARAMIA EH11A.32. NN distribučný rozvod je navrhnutý
+paralelnými vetvami vyvedenými z novonavrhovanej trafostanice TS 0817-018. V NN
+rozvádzači trafostanice budú tieto vetvy pripojené cez poistkové odpínače, kde budú istené
+
+                                                                                Strana 3 z 31
+poistkami PN2 224A gG. Distribučný rozvod NN bude zrealizovaný novým zemným
+káblovým vedením typu NAYY-J 4x240mm2.
+        Prvé káblové vedenie NN distribučného rozvodu bude z trafostanice TS 0817-018
+pokračovať zemou do istiacej skrine VRISI (typ: VRIS 1 II P4+KPP), ktorá bude osadená na
+existujúcom NN podpernom bode č.49. V NN rozvádzači trafostanice bude táto vetva
+pripojená cez poistkový odpínač, kde budú istené poistky PN2 224A gG. V skrini VRIS 0817-
+0032 budú osadené poistky 160A gG. Následne zo spomínanej skrine VRIS 0817-0032 bude
+vedený kábel NFA2X 4x120mm2, ktorý bude pomocou prepichovacích svoriek typu NNV
+PREP. ODB. IZOL. 95-240+70-150 pripojený na existujúci NN distribučný rozvod obce.
+Týmto spôsobom bude zrealizované zokruhovanie novonavrhovaných distribučných rozvodov
+na existujúci NN distribučný rozvod obce.
+        Druhé káblové vedenie NN distribučného rozvodu bude z trafostanice TS 0817-018
+pokračovať zemou do rozpojovacej a istiacej skrine SR 0817-0033 (typ: SR8 DINI
+2x400A/7x160A P2), kde bude ukončené v prívodnom odpínači, ktorý bude osadený
+skratovacími nožmi ZP2 (do 400A). Ďalej zo skrine SR 0817-0033 bude vyvedené zemné
+káblové vedenie z voľného poistkového odpínača osadeného skratovacími nožmi ZP2 (do
+400A), ktoré bude ukončené na poistkovom odpínači istiacej skrine SR 0817-0035 (typ : SR7
+DINI 2x400A/6x160A), ktorý bude osadený skratovacími nožmi ZP2 (do 400A). Zo skrine
+SR 0817-0035 bude vyvedené zemné káblové vedenie z voľného poistkového odpínača
+osadeného skratovacími nožmi ZP2 (do 400A), ktoré bude ukončené na poistkovom odpínači
+istiacej skrine SR 0817-0037 (typ: SR7 DINI 2x400A/6x160A), ktorý bude osadený
+poistkami PN2 160A gG.
+        Tretie káblové vedenie NN distribučného rozvodu bude z trafostanice TS 0817-018
+pokračovať zemou do rozpojovacej a istiacej skrine SR 0817-0034 (typ: SR8 DINI
+2x400A/7x160A P2), kde bude ukončené v prívodnom odpínači, ktorý bude osadený
+skratovacími nožmi ZP2 (do 400A). Ďalej zo skrine SR 0817-0034 bude vyvedené zemné
+káblové vedenie z voľného poistkového odpínača osadeného skratovacími nožmi ZP2 (do
+400A), ktoré bude ukončené na poistkovom odpínači istiacej skrine SR 0817-0036 (typ: SR8
+DINI 3x400A/6x160A), ktorý bude osadený poistkami PN2 160A gG. Zo skrine SR 0817-
+0036 bude vyvedené zemné káblové vedenie z voľného poistkového odpínača osadeného
+poistkami PN2 125A gG, ktoré a bude ukončené na poistkovom odpínači istiacej skrine SR
+0817-0037 (typ: SR7 DINI 2x400A/6x160A), ktorý bude osadený skratovacími nožmi ZP2
+(do 400A). Týmto spôsobom bude celá táto vetva medzi skriňami SR 0817-0033 až SR 0817-
+0037 zokruhovaná.
+        Štvrté káblové vedenie NN distribučného rozvodu bude z trafostanice TS 0817-018
+pokračovať zemou do rozpojovacej a istiacej skrine SR 0817-0038 (typ: SR7 DINI
+2x400A/6x160A P2), kde bude ukončené v prívodnom odpínači, ktorý bude osadený
+skratovacími nožmi ZP2 (do 400A). Ďalej zo skrine SR 0817-0038 bude vyvedené zemné
+káblové vedenie z voľného poistkového odpínača osadeného skratovacími nožmi ZP2 (do
+400A), ktoré bude ukončené na poistkovom odpínači istiacej skrine SR 0817-0040 (typ : SR8
+DINI 3x400A/6x160A), ktorý bude osadený skratovacími nožmi ZP2 (do 400A). Zo skrine
+SR 0817-0040 bude vyvedené zemné káblové vedenie z voľného poistkového odpínača
+osadeného skratovacími nožmi ZP2 (do 400A), ktoré a bude ukončené na poistkovom
+odpínači istiacej skrine SR 0817-0042 (typ: SR8 DINI 3x400A/6x160A), ktorý bude osadený
+poistkami PN2 200A gG.
+        Piate káblové vedenie NN distribučného rozvodu bude z trafostanice TS 0817-018
+pokračovať zemou do rozpojovacej a istiacej skrine SR 0817-0039 (typ: SR7 DINI
+2x400A/6x160A P2), kde bude ukončené v prívodnom odpínači, ktorý bude osadený
+skratovacími nožmi ZP2 (do 400A). Ďalej zo skrine SR 0817-0039 bude vyvedené zemné
+káblové vedenie zvoľného poistkového odpínača osadeného skratovacími nožmi ZP2 (do
+
+                                                                            Strana 4 z 31
+400A), ktoré bude ukončené na poistkovom odpínači istiacej skrine SR 0817-0041 (typ: SR7
+DINI 2x400A/6x160A), ktorý bude osadený skratovacími nožmi ZP2 (do 400A). Zo skrine
+SR 0817-0041 bude vyvedené zemné káblové vedenie z voľného poistkového odpínača
+osadeného skratovacími nožmi ZP2 (do 400A), ktoré a bude ukončené na poistkovom
+odpínači istiacej skrine SR 0817-0042 (typ : SR8 DINI 3x400A/6x160A), ktorý bude osadený
+poistkami PN2 200A gG. Týmto spôsobom bude celá táto vetva medzi skriňami SR 0817-
+0038 až SR 0817-0042 zokruhovaná.
+        Medzi skriňami SR 0817-0042 a SR 0817-0036 bude uložené rezervné vedenie NN
+káblom NAYY-J 4x240mm2 ako rezervné vedenie pre prípad poruchy na jednej vetve. V
+skrini SR 0817-0036 bude toto vedenie vyvedené z poistkového odpínača osadeného
+poistkami PN2 160A gG, toto vedenie bude ukončené v skrini SR 0817-0042 na voľnom
+poistkovom odpínači, ktorý bude osadený skratovacími nožmi ZP2 (do 400A) pričom
+skratovacie nože bude osadené iba v prípade poruchy.
+        Z voľných odpínačov nových SR skríň budú napájané elektromerové rozvádzače
+jednotlivých odberných miest. NN distribučný rozvod bude realizovaný káblom NAYY-J
+4x240 vedeným v zemi.
+         Hlavné káblové rozvody je potrebné uložiť v zemi v celej dĺžke 0,8m pod úrovňou
+terénu, umiestnené voľne v zelenom teréne a v chráničkách pod spevnenými plochami resp.
+komunikáciami. Nové NNK vedenie je potrebné v celej dĺžke uložiť do korungovaných
+chráničiek Dn=160. Nové NNK vedenie bude uložené v pieskovom lôžku 15cm pod aj nad
+káblami a zároveň 40cm nad káblom označené výstražnou červenou fóliou.
+
+Pripokládka HDPE chráničky
+       Do káblového výkopu spolu s NN káblom bude uložená HDPE optochránička 40/33
+mm, ktorá bude zatiahnuté v mech. chráničke ø110mm. Následne do HDPE rúrky bude
+možné zafukovať optické vlákna resp. trubičky.
+       Na koncoch bude optochránička ukončené vodotesnými koncovkami ø40 mm, aby
+nedošlo k poškodeniu alebo upchatiu optochráničky. V miestach ukončenia chráničky budú
+umiestené vo výkope nad chráničkou SMART MARKERY. Tieto budú uložené aj každých
+50 metrov v rovnej trase chráničky, rovnako aj v odbočeniach, a v miestach spojovania
+chráničiek. Každému SMART MARKERU bude pridelené ID číslo. SMART MARKERY
+nebudú kladené hlbšie ako 1 meter pod upraveným terénom. SMART MARKERY budú
+umiestené aj v miestach križovania optochráničky s inými IS. Pri kladení SMART
+MARKEROV ako aj kladení optických chráničiek bude dodržaný postup spoločnosti
+Západoslovenská distribučná a.s.
+
+SO 04.02 – Transformačná stanica
+        V predmetnej lokalite bude vybudovaná nová distribučná kiosková trafostanica TS
+0817-018, TYP HARAMIA EH11A.32. s vonkajším ovládaním.
+        Umiestnenie novej distribučnej kioskovej trafostanice TS 0817-018, typ HARAMIA
+EH11A.32 je podmienené požiadavkou investora (Západoslovenská distribučná, a.s.
+Čulenova 6, 816 47 Bratislava) na energetickú hospodárnosť a tým pádom na jej
+centralizované umiestnenie, nakoľko z predmetnej distribučnej trafostanice TS 0817-018, typ
+HARAMIA EH11A.32 bude napájaná nie len predmetná obytná zóna celkovo so 43
+odbernými miestami ale aj ďalšia obytná zóna obdobnej veľkosti. Z tohto dôvodu je
+plánované umiestnenie predmetnej distribučnej kioskovej trafostanice TS 0817-018, typ
+HARAMIA EH11A.32 odlišné ako v predošlom stupni projektovej dokumentácie
+(Dokumentácia pre územné rozhodnutie). Navrhovaná pozícia distribučnej trafostanice TS
+0817-018 , typ HARAMIA EH11A.32 v tomto stupni projektovej dokumentácie sa nachádza
+spomínanými dvoma obytnými zónami.
+
+                                                                              Strana 5 z 31
+        Betónová bloková transformačná stanica EH11A.32 sa používa ako súčasť rozvodu
+elektrickej energie v oblasti elektro-energetiky /distribučné rozvody/,ako aj pre napojenie
+väčších priemyselných rozvodov. Podľa nárokov na dodávaný el. výkon je možné
+kombinovať prístrojové vybavenie ako aj estetické riešenie , ktoré je možné prispôsobiť
+prianiu zákazníka. Uvedená transformačná stanica má samostatný priestor pre transformátor
+ako aj pre VN, NN a kompenzačný rozvádzač. Transformačná stanica svojím vyhotovením /
+všetky prístroje a transformátor / tvorí jeden konštrukčný celok , ktorý je možné zmontovať a
+odskúšať a preto vyhovuje STN EN 62271-202.
+Betónová transformačná stanica bude zostavená z troch základných častí:
+    - káblový priestor /vaňa/
+    - stavebné teleso /skelet/
+    - strecha
+        Transformačná stanica bude rozdelená medzistenou na časť rozvádzačov a časť
+transformátorovú. Do každej časti bude zvlášť vchod z vonkajšieho priestoru cez hliníkové
+dvere, ktoré vyhovujú elektrodynamickým účinkom skratových prúdov.
+        Stavebné teleso bude monoliticky odliate zo železobetónu vysokej pevnosti. Spodná
+časť trafostanice /vaňa/ preberá funkciu základov, ktoré netreba vo vopred pripravenom
+výkope budovať, čo výrazne urýchľuje montáž celej trafostanice. V spodnej časti TS sa budú
+nachádzať otvory pre VN a NN káble tak, ako si to vyžaduje vonkajšia konfigurácia uloženia
+prichádzajúcich a odchádzajúcich káblových vedení. Káblový priestor /vaňa/ bude slúžiť aj
+ako havarijná nádrž v prípade havárie olejového transformátora. Veľkosť dverí, vetracích
+mriežok, ako aj pôdorysné rozmery TS sú dané veľkosťou skeletu, ako aj prístrojového
+vybavenie podľa požiadaviek zákazníka.
+        Strecha bude rovnako ako stavebné teleso odliata zo železobetónu vysokej pevnosti s
+miernym spádom /rovná strecha/ do jednej strany s miernym presahom stavebného telesa.
+Uložená bude na vodiacich skrutkách ,ktoré sú zabudované na stav. telese ,čiže je
+znemožnené posunutie strechy v prípade rôznych pnutí. Styčná plocha medzi telesom a
+strechou bude po celom obvode vodotesne odizolovaná.
+        Z vonkajšej strany bude vaňa natrená penetračným náterom z dôvodu styku vane s
+okolitou zeminou.
+Trafostanica a výkon transformátora:
+    - Označenie trafostanice : TS 0817-018
+    - Typ použitej trafostanice : HARAMIA EH11A.32
+    - Použitý transformátor : 1 x BEZ TRANSFORMÁTORY 400 kVA,
+    - Straty naprázdno Po : 387 W
+    - Straty nakrátko Pk750C :3250 W
+
+Výkonová bilancia:
+I Inštalovaný príkon pre 1 RD (Pi1) :                                   16,0 kW
+Koeficient súčasnosti (ß1) :                                            0,7
+Súčasný príkon pre 1 RD (Ps1) :                                         11,2 kW
+Počet rodinných domov :                                                 42
+Súčasný príkon pre 42 RD (Pss1) :                                       470,4 kW
+Koeficient súčasnosti medzi domový (ß2) :                               0,6
+Súčasný príkon pre 42 RD prepočítaný (Psspl) :                          282,24 kW
+
+Použitý kábel: Od SR skrine po RE: AYKY-J 4x25mm2
+Hlavný istič pred elektromerom: B25/3
+
+Inštalovaný príkon pre verejné osvetlenie (Pi2) :                       2,0 kW
+
+                                                                                 Strana 6 z 31
+Koeficient súčasnosti (ßVO) :                                          1,0
+Súčasný príkon pre verejné osvetlenie (Ps2) :                          2,0 KW
+
+Použitý kábel: Od SR skrine po RE-RVO: AYKY-J 4x25mm2
+Hlavný istič pred elektromerom: B25/3
+
+Súčasný príkon pre celú lokalitu (PSIBV) :              282,24 + 2,0 = 284 24 kW
+
+Základné technické údaje transformačnej stanice:
+    - menovité napätie na strane VN                                    22kV
+    - menovité napätie na strane NN                                    242/420kV
+    - frekvencia                                                       50Hz
+    - menovité výkony transformátorov                                  2x630kVA
+    - kompenzácia transformátora naprázdno                             do 12kVAr
+    - menovitý prúd prípojníc VN                                        400A /630A
+    - menovitý prúd prípojníc NN                                       1000A
+    - menovitý krátkodobý prúd VN                                      20kA efekt.1s
+    - zap. schopnosť pre odpínače a uzemňovače VN                      50kA max
+    - menovitý dynamický prúd rozvádzača NN                            min.30kA
+    - krytie podľa STN EN 60 529                                       IP43
+    - rozmery /d lx š x v/                                EH11A.32 3200x2300x2160 mm
+        V kioskovej trafostanici bude osadený transformátor zn. BEZ TRANSFORMÁTORY
+o výkone 400 kVA.
+        Transformátor bude upevnený na oceľovom profile UE 120, ktorý bude upevnený na
+základovej doske TS. Pod transformátormi bude umiestnená havarijná zberná vaňa pre
+zadržanie transformátorového oleja v prípade havárie transformátora.
+        Prívod na VN svorky transformátorov je riešený káblovým prepojom z VN rozvádzača
+spravidla 22kV kábel N2XSY 3x1x35mm2 RM, ktorý bude vedený pomocou trojotvorových
+drevených príchytiek upevnených na stene TS do základovej časti blokovej TS a následne do
+VN rozvádzača.
+        Vývody NN z transformátora do NN rozvádzača bude riešený taktiež 1kV káblami,
+ktorých prierez bude 150 mm2
+        1kV káble idú priamo zo svoriek transformátora na prípojnice NN rozvádzača, ktoré
+budú umiestnené v hornej časti NN rozvádzača.
+        Chladenie transformátora bude prirodzené a zabezpečené vetracími otvormi v
+obvodovej stene TS ako aj vo vstupných dverách. V prípade potreby je posilnené o nútené
+vetranie.
+VN rozvádzač:
+        V trafostanici bude osadený VN rozvádzač SCHNEIDER RM AirSet s radením 2x
+prívodné pole a lx vývodové pole na transformátor (KKT). Z VN rozvádzača bude napájaný
+transformátor resp. transformátory.
+NN rozvádzač:
+        Rozvádzač nízkeho napätia bude vyhotovený v závislosti od technických parametrov,
+výkonovej veľkosti transformátora, ako aj použitia veľkosti priestorového usporiadania
+ostatných prístrojov v trafostanici. Prívodové pole bude osadené ističom ETU 320Ll
+(možnosť nastaviteľnej spúšte na nižšie hodnoty).Vývodové pole bude osadené poistkovými
+zvislými odpínačmi do 400A. Na poistkové odpínače je možné pripojiť vývodové 1kV káble
+do prierezu 240mm2. Hlavný istič bude možné ovládať ručne pri zatvorených dverách.
+Samotný rozvádzač svojím vyhotovením spĺňa krytie IP 40. Rozvádzač po otvorení dverí
+bude mať všetky živé časti zakryté krytmi proti náhodnému dotyku, čím je zabezpečené krytie
+
+                                                                              Strana 7 z 31
+IP 20. Prívodné káble z transformátora budú do rozvádzača NN privedené vrchom. Vývodové
+káble sú vedené spodom cez priechodky z hliníkovej zliatiny, alebo plastu. Vodotesnosť
+prechodu káblov je zaistená napr. zmršťovacími hadicami, utesňovacím systémom RDSS.
+Rezervné vývody gumenými zátkami a pod. Výrobcom rozvádzača bude ELEKTRO
+HARAMIA Lozorno.
+
+SO 04.04 – VN prípojka pre TS
+        Na existujúcom podpernom bode č. 6 VN vedenia l. č. 219 bude osadený VN odpínač
+OTEK25/400A s prepäťovou ochranou. Z tohto VN odpínača bude vedený kábel
+3xNA2XS(F)2Y 1x240, ktorý bude zatiahnutý v korugovanej chráničke Q200mm do zeme a
+zemným výkopom bude vedený až k VN rozvádzaču trafostanice TS 0817-018, kde bude
+zaústený do VN rozvádzača typu KKT do prívodného/vývodného poľa. Káblové vedenia
+budú uložené v zemi pričom bude dodržaná norma STN 73 6005.
+        Z existujúceho podperného bodu č. 6 VN vedenia bude vedený kábel 3xNA2XS(F)2Y
+1x240, ktorý bude zatiahnutý v korugovanej chráničke ø200mm do zeme a zemným výkopom
+bude vedený až do trafostanice TS 0817-018. Kábel nebude pripojený ani na podpernom bode
+na VN vedenie a ani v trafostanici. Kábel slúži ako predpríprava pre budúce rozširovanie
+siete. Káblové vedenia budú uložené v zemi pričom bude dodržaná norma STN 73 6005.
+        Navrhovaná trasa VN prípojky k novej distribučnej kioskovej trafostanici TS 0817-
+018, typu HARAMIA EH11A.32 je podmienená požiadavkou investora (Západoslovenská
+distribučná, a.s. Čulenova 6, 816 47 Bratislava) na energetickú hospodárnosť a tým pádom na
+centralizované umiestnenie trafostanice, nakoľko z predmetnej distribučnej trafostanice TS
+0817-018, typu HARAMIA EH11A.32 bude napájaná nie len predmetná obytná zóna celkovo
+so 43 odbernými miestami ale aj ďalšia obytná zóna obdobnej veľkosti. Z tohto dôvodu je
+navrhovaná trasa VN prípojky a aj plánované umiestnenie novej distribučnej kioskovej
+trafostanice TS 0817-018, typu HARAMIA EH11A.32 odlišné ako v predošlom stupni
+projektovej dokumentácie (Dokumentácia pre územné rozhodnutie). Navrhovaná trasa VN
+prípojky a aj pozícia distribučnej trafostanice TS 0817-018, typu HARAMIA EH11A.32 v
+tomto stupni projektovej dokumentácie sa nachádza spomínanými dvoma obytnými zónami.
+Pripokládka HDPE chráničky:
+        Do káblového výkopu spolu s VN káblom bude uložená HDPE optochránička 40/33
+mm, ktorá bude zatiahnuté v mech. chráničke ø 110mm. Následne do HDPE rúrky bude
+možné zafukovať optické vlákna resp. trubičky. Na koncoch bude optochránička ukončené
+vodotesnými koncovkami mm, aby nedošlo k poškodeniu alebo upchatiu optochráničky. V
+miestach ukončenia chráničky budú umiestené vo výkope nad chráničkou SMART
+MARKERY. Tieto budú uložené aj každých 50 metrov v rovnej trase chráničky, rovnako aj v
+odbočeniach, a v miestach spojovania chráničiek. Každému SMART MARKERU bude
+pridelené ID číslo. SMART MARKERY nebudú kladené hlbšie ako 1 meter pod upraveným
+terénom. SMART MARKERY budú umiestené aj v miestach križovania optochráničky s
+inými IS. Pri kladení SMART MARKEROV ako aj kladení optických chráničiek bude
+dodržaný postup spoločnosti Západoslovenská distribučná a.s. č. Prílohy č. 1 k postupu
+D6.ROZV.03.
+
+Požiarna bezpečnosť práce
+       Riešenie protipožiarnej bezpečnosti je vykonané podľa Vyhl. MV SR č. 94/2004 Z.z.
+s novelami č.307/2007 za. a č.225/2012 Z.z, č. 334/2018 Z.z. a v nadväznosti na STN 92
+0201-1 až 4.
+       Stavebný objekt má podľa § 5 vyhl. MV SR č. 94/2004 Z.z. jedno nadzemné požiarne
+podlažie. Požiarna výška nadzemnej časti objektu- nadzemnej časti je 0 m.
+
+
+                                                                              Strana 8 z 31
+        Dovolená plocha požiarneho úseku sa neposudzuje, nakoľko jeho plocha je menšia
+ako 300m2 v zmysle § 4 ods.2 vyhlášky MV 94/2004 Z.z..
+        Prestupy rozvodov a prestupy inštalácií cez požiarne deliace konštrukcie musia byť
+utesnené konštrukčnými prvkami takého druhu, ako sú požiarne deliace konštrukcie cez ktoré
+prestupujú. Utesnený prestup musí spĺňať požiadavky na požiarnu odolnosť požiarne deliacej
+konštrukcie, ktorou prestupuje, najviac však El 90 ( v zmysle § 40, ods. 3 Vyhl. MV SR č.
+94/2004 Z.z.).
+        Požiarnu odolnosť požiarneho stropu možno dosiahnuť aj použitím podhľadovej
+konštrukcie (v zmysle § 42, ods.6 vyhl. MV SR č. 94/2004 Z.z.).
+        Požiarne pásy nie sú navrhnuté nakoľko celá stavba tvorí jeden požiarny úsek.
+        Skutočné požiarnotechnické charakteristiky stavebných výrobkov a konštrukcií v
+posudzovanej stavbe (t.z. stavebných konštrukcií, výrobkov a materiálov), musia byť pri
+kolaudácii doložené certifikátmi preukázania zhody doplneným ďalšími dokladmi v zmysle
+zákona č. 133/2013 Z.z. v znení neskorších predpisov.
+        Stavebné materiály použité na finálnu povrchovú úpravu stien a stropov (obklady a
+podhľady) musia byť pri kolaudačnom konaní dokladované atestami a certifikátmi, ktoré
+preukážu požadovanú triedu reakcie na oheň.
+        Do objektu nie je riešený vstup, bude obsluhovaný z exteriéru (lu=0m). V stavbe sa
+nebudú nachádzať žiadne osoby.
+        Odstupové vzdialenosti sú pre každú obvodovú stenu každého požiarneho úseku
+počítané samostatne. Požiarne nebezpečný priestor je okolo stavby vymedzený odstupovou
+vzdialenosťou v súlade s STN 92 0201-4 tab. 4 interpoláciou (vo výpočtovej prílohe na konci
+technickej správy). Požiarne nebezpečné priestory susedných stavieb nezasahujú k
+posudzovanej stavbe a ani v požiarne nebezpečnom priestore posudzovanej stavby sa
+nenachádza žiadna susedná stavba (najbližšia susedná stavba je nevýrobná stavba pre obchod
+a služby, v súčasnosti predajňa záhradných kosačiek f. ITTEC SK s.r.o.). Ostatné okolité
+pozemky sú nezastavané prípadne tvorené cestnými komunikáciami. Odstupová vzdialenosť
+od odpadávania horľavých materiálov sa nehodnotí — konštrukcie sú druhu Dl. Navrhovaná
+stavba vyhovuje svojim umiestnením požiadavkám STN920201-4.
+        Stavebný objekt nemusí byť vybavený stabilným hasiacim zariadením, elektrickou
+požiarnou signalizáciou a zariadením na odvod tepla a splodín horenia, hlasovou
+signalizáciou požiaru.
+        Pre rýchly zásah proti požiaru musí byť požiarny úsek vybavený dvomi prenosnými
+hasiacimi prístrojmi s náplňou CO2 -5kg (v súlade s tab. 2 STN 920202-1) v čase prítomnosti
+obsluhy (v súlade s čl. 6.2 STN 90202-1).
+        K prenosným hasiacim prístrojom musí byť zabezpečený trvale voľný prístup. Hasiace
+prístroje nesmú byť vystavené sálavému teplu ani priamemu slnečnému žiareniu, ktoré by
+mohlo spôsobiť zvýšenie ich teploty nad povolenú teplotu uvedenú výrobcom v súlade s STN
+920202-1.
+        Užívateľ musí zabezpečiť, aby elektrické svietidlá a elektrické zdroje svetla boli
+prevádzkované tak, aby sa nestali príčinou požiaru a aby neboli prekryté horľavými látkami a
+aby min.200mm od nich neboli umiestňované horľavé materiály.
+        Stavebné konštrukcie z materiálov triedy reakcie na oheň B, C, D, E alebo F, horľavé
+predmety a horľavé látky možno umiestniť v bezpečnej vzdialenosti minimálne 200mm vo
+všetkých smeroch od elektrotepelného spotrebiča podľa prílohy 1 Vyhl. MV SR 401/2007
+Z.z..
+        Voda nie je privádzaná do objektu, stavba je nevykurovaná, vetranie je riešené ako
+prirodzené.
+
+
+
+                                                                               Strana 9 z 31
+Údaje zo zisťovacieho konania:
+       Pre navrhovanú činnosť nebolo vedené zisťovacie konanie podľa zákona č. 24/2006 Z.
+z. o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov.
+
+Zoznam záväzných stanovísk a záväzných vyjadrení uplatnených v konaní:
+1. Obec Jánovce, pod číslom R2026/00151 zo dňa 03.03.2026
+2. Slovenský vodohospodársky podnik, š.p., stanovisko pod č. SVP 5185/2026/2 zo dňa
+    17.02.2026
+3. Okresný úrad Galanta, odbor cestnej dopravy a pozemných komunikácií, záväzné
+    stanovisko pod č. OU-GA-OCDPK-2026/017698-003 zo dňa 30.09.2026
+4. Okresný úrad Galanta, odbor cestnej dopravy a pozemných komunikácií, záväzné
+    stanovisko pod č. OU-GA-OCDPK-2026/004823 zo dňa 02.03.2026
+5. Ministerstvo vnútra Slovenskej republiky, centrum podpory Trnava, záväzné stanovisko
+    pod č. CPTT-MP-2026/000436-102 zo dňa 12.03.2026
+6. SPP-Distribúcia, a.s., pod číslom TD/NS/0221/2026/Be zo dňa 25.06.2026
+7. Ministerstvo obrany Slovenskej republiky, sekcia majetku a infraštruktúry, odbor správy
+    nehnuteľného majetku štátu, stanovisko pod č. SEMaI-EL-13/2-1-5952/2025 zo dňa
+    27.02.2026
+8. Okresný úrad Galanta, odbor starostlivosti o životné prostredie, ochrana prírody a krajiny,
+    pod číslom OU-GA-OSZP-2026/008835-002 zo dňa 16.04.2026
+9. Okresný úrad Galanta, odbor starostlivosti o životné prostredie, odpadové hospodárstvo,
+    pod číslom OU-GA-OSZP-2026/013528-002 zo dňa 06.07.2026
+10. Trnavský samosprávny kraj, Správa a údržba ciest TTSK, stanovisko pod č.
+    03493/2026/SUCTt-17 zo dňa 12.08.2026
+11. Okresné riaditeľstvo policajného zboru v Galante, okresný dopravný inšpektorát v
+    Galante, stanovisko pod číslom ORPZ-GA-ODI1/001562-014 zo dňa 20.02.2026
+12. Hydromeliorácie, š.p., vyjadrenia pod č. 310/VČ/3466/2026-2 zo dňa 24.02.2026
+13. Hydromeliorácie, š.p., záväzné stanovisko pod č. 310/VČ/7732/2026-2 zo dňa 09.11.2026
+14. Západoslovenská distribučná, a.s., záväzné vyjadrenie pod č. CDP 008378/2026 zo dňa
+    15.07.2026
+15. Okresný úrad Galanta, odbor starostlivosti o životné prostredie, orgán štátnej vodnej
+    správy, pod číslom OU-GA-OSZP-2026/007930-002 zo dňa 01.04.2026
+16. Krajský pamiatkový úrad Trnava, pod číslom Z-PUSR-019551/2026 zo dňa 12.03.2026
+17. Regionálny       úrad     verejného      zdravotníctva     v Galante,     pod      číslom
+    RÚVZGA/OHŽPaZ/349/1365/2026 zo dňa 12.03.2026
+18. TÜV SÜD Slovakia, s.r.o., záväzné vyjadrenie pod č. 7165078174 zo dňa 05.10.2026
+
+
+Podmienky pre uskutočnenie stavby:
+
+1. Generálny projektant stavby v zmysle § 35 ods. 5 Stavebného zákona zodpovedá
+   stavebníkovi za komplexnosť a úplnosť projektovej dokumentácie a za jej použiteľnosť
+   podľa tohto zákona. Projektant časti projektovej dokumentácie zodpovedá generálnemu
+   projektantovi za úplnosť a vecnú správnosť ním vypracovanej časti projektovej
+   dokumentácie.
+2. Stavba musí byť označená štítkom ,,Stavba povolená“ s uvedením čísla a dátumu
+   povolenia.
+
+
+
+                                                                               Strana 10 z 31
+3. Stavenisko bude označené ako ,,stavenisko“ s uvedením základných údajov o stavbe
+    a účastníkov výstavby podľa § 6 Stavebného zákona a v zmysle vyhlášky č. 396/2006
+    Z. z. o minimálnych bezpečnostných a zdravotných požiadavkách na stavenisko.
+    Stavenisko je potrebné označiť identifikačnou tabuľou, ktorá musí byť pri vstupe na
+    stavenisko s týmito údajmi: názov stavby, názov staveniska, názov zhotoviteľa a
+    stavbyvedúceho, termín začatia a ukončenia stavby, kto a kedy stavbu povolil, meno
+    stavebného dozora. Stavenisko bude náležite zabezpečené proti vniknutiu cudzích osôb a
+    proti ich ohrozeniu. Na stavenisku musí byť po celý čas výstavby projektová
+    dokumentácia stavby overená stavebným úradom a stavebný denník vedený oprávnenou
+    osobou, ktoré sú potrebné na uskutočňovanie stavby a na výkon štátneho stavebného
+    dohľadu.
+
+4. Stavebník alebo zhotoviteľ stavby je povinný viesť stavebný denník v súlade s § 30
+    ods. 6 písm. g) stavebného zákona alebo podľa § 32 ods. 3 Stavebného zákona.
+
+5. Podľa § 60 ods. 1 písm. c) Stavebného zákona, stavenisko budú tvoriť pozemky reg. KN
+   „C“ s parc. č. 358/2; 358/195; 396/8; 374 a pozemky reg. KN „E“ s parc. č. 1-1368/2 v
+   katastrálnom území Jánovce.
+
+6. Stavebník je povinný pred začatím stavebných prác oznámiť stavebnému úradu začatie
+   uskutočňovania povolených stavebných prác a identifikačné údaje o osobe zhotoviteľa
+   stavby, odovzdať zhotoviteľovi stavby overený projekt stavby, právoplatné rozhodnutie
+   o stavebnom zámere a pozemky na zriadenie staveniska.
+
+7. Ak sa pri stavebných prácach nájde vec, ktorá môže mať pamiatkovú hodnotu,
+   archeologický nález alebo osobitne chránená časť prírody, stavebník resp. stavbyvedúci je
+   povinný postupovať v zmysle § 44 stavebného zákona.
+
+8. Pred realizáciou stavby stavebník zabezpečí presné vytýčenie všetkých inžinierskych sietí,
+   ktoré sa nachádzajú na predmetom pozemku, ako aj prípadné prípojky k susedným
+   stavbám.
+
+9. Stavebník je povinný zúčastňovať sa na kontrolných prehliadkach stavby, uskutočniť na
+    výzvu zhotoviteľa stavby prehliadku dokončenej stavby a jej prevzatie od zhotoviteľa,
+    poskytovať súčinnosť projektantovi pri kontrole súladu stavebných prác s overeným
+    projektom stavby a pri kolaudácií stavby, zabezpečiť zhotovovania stavby a vykonávanie
+    projektového dohľadu projektanta nad zhotovovaním stavby, zabezpečiť na celý čas
+    uskutočňovania stavebných prác geodetických a kartografických činností na stavbe
+    geodetom.
+
+10. Zmeny v projektovej dokumentácii môže tunajší stavebný úrad povoliť podľa § 43 ods 2
+    Ak sa na stavbe majú uskutočniť stavebné práce vedúce k odchýlke od overeného projektu
+    stavby, môže stavebník na návrh stavbyvedúceho, projektanta alebo osoby poverenej
+    výkonom stavebného dozoru pred ich uskutočnením zvolať mimoriadnu kontrolnú
+    prehliadku stavby. Ak odchýlky od overeného projektu stavby nie sú v rozpore s
+    rozhodnutím o stavebnom zámere a s podmienkami dotknutých orgánov a dotknutých
+    právnických osôb uplatnenými v záväzných stanoviskách dotknutých orgánov a v
+    záväzných vyjadreniach dotknutých právnických osôb, projektant ich vyznačí v projekte
+    stavby, stavbyvedúci ich uvedie v zápisnici podľa odseku 4 a zaznamená v stavebnom
+    denníku. Ak sa stavebný úrad nezúčastnil mimoriadnej kontrolnej prehliadky, stavebník
+
+                                                                              Strana 11 z 31
+   mu zašle zápisnicu na odsúhlasenie. Stavebný úrad zápisnicu odsúhlasí do troch dní odo
+   dňa doručenia a zaznamená v informačnom systéme. Ak odchýlky od overeného projektu
+   stavby nemožno povoliť postupom podľa odseku 2, určí stavebný úrad, že je potrebné
+   overenie zmeny projektu stavby alebo nové konanie o stavebnom zámere.
+
+11. Práva a povinnosti zhotoviteľa stavby vyplývajú z § 32 Stavebného zákona.
+
+12. Stavba bude uskutočnená podľa overeného projektu stavby - stavebník je povinný
+    pre realizáciu stavby požiadať príslušný stavebný úrad o overenie projektu stavby
+    podľa § 65 Stavebného zákona. Prípadne zmeny stavby, alebo zmeny v spôsobe
+    užívania stavby, nie je možné uskutočniť bez predchádzajúceho právoplatného
+    rozhodnutia príslušného stavebného úradu.
+
+13. Pri uskutočňovaní stavby je nutné dodržiavať predpisy týkajúce sa bezpečnosti práce
+    a technických zariadení, najmä vyhlášku č. 147/2013 Z. z., ktorou sa ustanovujú
+    podrobnosti na zaistenie bezpečnosti a ochrany zdravia pri stavebných prácach a prácach
+    s nimi súvisiacich a o odbornej spôsobilosti na výkon niektorých pracovných činností
+    v znení neskorších predpisov a dbať na ochranu zdravia a osôb na stavenisku.
+
+14. Pri uskutočňovaní musia byť dodržané príslušné ustanovenia vyhlášky č. 532/2002 Z. z..
+
+15. Uskladnenie stavebného materiálu zabezpečí stavebník na vlastnom pozemku.
+
+16. Nie je prípustný zásah do verejného priestranstva (uskladnenie stavebného materiálu,
+    rozkopávka verejného priestranstva) bez predchádzajúceho písomného súhlasu zo strany
+    OcÚ Jánovce.
+
+17. Stavebník zabezpečí vytýčenie priestorovej polohy stavby právnickou alebo fyzickou
+    osobou na to oprávnenou podľa § 40 Stavebného zákona. Doklady o vytýčení
+    priestorovej polohy stavby predloží stavebník stavebnému úradu pri kolaudačnom
+    osvedčení.
+
+18. Pri uskutočňovaní a užívaní stavby sa musí dbať na ochranu životného prostredia aj
+    tým, že stavebník nesmie nadmernými negatívnymi vplyvmi obťažovať okolie
+    stavby, napr. prácou v noci, hlukom, prašnosťou, zápachmi, vibráciami a p

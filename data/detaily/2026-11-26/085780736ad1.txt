@@ -1,0 +1,158 @@
+URL: https://cuet.slovensko.sk/en/dokument/283557e6-ad2d-46f5-834c-281ef6ef2efb
+OBEC: Michalovce (Michalovce)
+NÁZOV: Prerušenie distribúcie el. energie - 14.12.2026
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/283557e6-ad2d-46f5-834c-281ef6ef2efb
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Prerušenie distribúcie el. energie - 14.12.2026
+Search publisher's RSS feeds
+Published on official board:
+Mesto Michalovce (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Mesto Michalovce (OVM)
+Published to:
+24.12.2026
+Registry case:
+Name of official document:
+Prerušenie distribúcie el. energie - 14.12.2026
+Document abstract:
+<div> Mesto Michalovce zverejňuje -Prerušenie distribúcie el. energie - 14.12.2026
+Z dôvodu prerušenia distribúcie elektriny nebude vo vyššie uvedenom termíne realizovaná dodávka elektriny pre dané odberné miesto z dôvodu plánovaných prác.
+<div />
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+EUT-2026-11-25-06_0001.pdf
+Type and size:
+.pdf, 497.69 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/7f07d082-380d-4627-b232-51ca717bc8eb
+ KD
+                                                                                             Mesto Michalovce                  7
+                                                                                             Nám. osloboditeľov 1015/30
+ Vaše zákaznícke číslo: 5100307436                                                           Michalovce
+ (uvádzajte, prosím, pri každom kontakte s našou spoločnosťou)                               071 01
+
+                                                                                             L                                 J
+V Košiciach,23.11.2026
+
+
+
+
+Vec: Oznámenie o prerušení distribúcie elektriny
+
+Vážený zástupca samosprávy,
+
+v najbližšom období je naplánované prerušenie distribúcie elektriny v lokalite, ktorá sa nachádza na
+ území Vášho mesta resp. obce a dotkne sa odberných miest uvedených v prílohe tohto oznámenia v
+termíne
+                                                        14.decembra 2026 od 08:00 h do 14:00 h.
+
+Je nám ľúto, že práce, ktoré bezprostredne súvisia s opravou a pravidelnou údržbou distribučnej sústavy,
+obmedzia na nevyhnutný čas využívanie elektriny. údržba je však kľúčová pre zabezpečenie spoľahlivej a
+bezpečnej distribučnej sústavy. Je zároveň účinnou prevenciou pred neplánovanými poruchami na ktoré,
+na rozdiel od plánovanej odstávky, Vás nedokážeme vopred upozorniť.
+
+Zároveň sa na Vás obraciame s prosbou o spoluprácu pri informovaní občanov o plánovanej odstávke
+miestne obvyklým spôsobom (napr. vyhlásením v miestnom rozhlase, umiestnením oznamu na
+informačnej tabuli, zverejnením oznamu na Vašom webovom sídle a pod.). Toto oznámenie vzhľadom na
+jeho charakter považujeme za oznámenie vo verejnom záujme.
+Urobíme všetko preto, aby bola distribúcia elektriny v tejto oblasti obnovená čo najskôr. Aktuálne
+informácie o prípadnom skoršom ukončení prác nájdete na stránke www.vypadokelektriny.sk.
+
+
+Ospravedlňujeme sa za spôsobené komplikácie a ďakujeme Vám za porozumenie.
+
+S pozdravom
+
+                                  /,//F               /7
+
+
+
+                             Ing. Slavomír Veseleňák                                                  Ing. Martin Stanko
+                             vedúci tímu                                                              koordinátor
+                             Tím prípravy prevádzky                                                   Tím prípravy prevádzky
+
+
+
+
+Ď4eprehliacinite dôležité informácie na ďalšej strane.
+
+
+Kontakty
+
+Názov spoločnosti Východoslovenská distribučná, a.s • www.vsds.sk • www.vsdeshop.sk
+Sídlo Mlynská 31, 042 91 Košice, Slovenská republika • IČO: 36 599 361, IČ DPH: SK2(i22082997
+Zákaznícka linka VSD 0850 123 312 ' info@vsdas.sk • Poruchová linka VSD 0800 123 332 @ www.vypadokelektriny.sk
+Spoločnosť je zapísaná v Obchodnomregistri Mestského súdu Košice, oddiel Sa, vložka 1411/V
+KD
+Strana 2 z 3
+
+
+
+
+    Chcete vedieť viac?
+
+    Oznámenie o plánovanom prerušení distribúcie elektriny posiela VSD v zákonom stanovenej lehote v zmysle ustanovenia
+    § 31 ods. 2, písm. t) Zákona č. 251/2012 Z. z. o energetike. V zmysle tohto zákona tiež platí pravidlo, že odberateľom
+    nevzniká nárok na náhradu škody spôsobenej v dôsledku prerušenia distribúcie elektriny.
+
+
+
+
+        9
+    Potrebujete elektrinu počas prerušenia?
+    Navštívte náš eShop a objednajte si záložný batériový zdroj. Ten vám poskytne výkon, bezprostredne potrebný na
+    udržiavanie základných potrieb, napr. pre zabezpečenie práce z dornu alebo domáceho vyučovania. www.vsdeshop.sk.
+
+
+
+
+      ©
+    Komunikujme pohodlnejšie
+    Ak preferujte elektronickú formu komunikácie, dávame vám do pozornosti portál eVSD (www.vsds.sk). Po zaregistrovaní
+    budete vedieť vybaviť viaceré záležitosti týkajúce sa Vášho odberného miesta z pohodlia Vášho domova. Napríklad aj
+    eKamunikáciu s VSD. Informácie o plánovanom prerušení distribúcie, či jeho zrušení tak budete dostávať e-mailom.
+
+
+
+
+    Vypadla Vám elektrina?
+    Ste si istí, že nejde o poruchu u Vás? Možno ide o plánované prerušenie. Alebo máme naozaj poruchu. Overte si, či o nej
+    vieme. Ak nie, tak nám ju nahláste. Všetko to viete urobiť jednoducho na stránke www.vypadokelektriny.sk
+KD
+Strana 3 z 3
+
+
+
+Príloha: Zoznam dotknutých odberných miest
+Ulica a číslo domu   Mesto/obec        ilo elektromeru   ČOM
+-G=7;;M-             Michalovce      118976i6            0000621093
+

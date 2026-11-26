@@ -1,0 +1,444 @@
+URL: https://cuet.slovensko.sk/en/dokument/76fc0627-1d17-460d-a2ab-003fe55cddd1
+OBEC: Dubovica (Sabinov)
+NÁZOV: VZN
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/76fc0627-1d17-460d-a2ab-003fe55cddd1
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VZN
+Search publisher's RSS feeds
+Published on official board:
+Obec Dubovica (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Dubovica (OVM)
+Published to:
+12.12.2026
+Registry case:
+Name of official document:
+VZN
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VZN_Dubovica_2026 skd cvč, mš.pdf
+Type and size:
+.pdf, 108.64 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+VZN_Dubovica_poplatky_2026 nový spr.pdf
+Type and size:
+.pdf, 187.06 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+VZN_Dubovica_miestne_dane_2027.pdf
+Type and size:
+.pdf, 192.17 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+VZN_Dubovica_c_2_2026_odpady (1).pdf
+Type and size:
+.pdf, 144.15 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/ccea05ae-a565-4e4f-b9c2-c60df5cc1304
+Obecné zastupiteľstvo v Dubovici v súlade s ustanovením § 6 a § 11 zákona č. 369/1990 Zb. o
+obecnom zriadení v znení neskorších predpisov, v súlade s ustanovením § 6 ods. 24 zákona č.
+596/2003 Z. z. o štátnej správe v školstve a školskej samospráve a o zmene a doplnení niektorých
+zákonov v znení neskorších predpisov a ustanoveniami § 28, § 49, § 114, § 116 a § 140 zákona č.
+245/2008 Z. z. o výchove a vzdelávaní (školský zákon) a o zmene a doplnení niektorých zákonov
+v znení neskorších predpisov sa uznáša na tomto všeobecne záväznom nariadení:
+
+                Návrh - VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                                 obce Dubovica č. 3 / 2026
+    o určení výšky finančných príspevkov na čiastočnú úhradu nákladov na výchovu a
+ vzdelávanie v školách a školských zariadeniach, ktorých zriaďovateľom je obec Dubovica
+
+                                            Čl. 1
+                                       Účel nariadenia
+(1) Týmto všeobecne záväzným nariadením (ďalej len „VZN“) sa určuje výška mesačného
+príspevku zákonného zástupcu dieťaťa materskej školy (ďalej len „MŠ“) v zriaďovateľskej
+pôsobnosti obce Dubovica na čiastočnú úhradu nákladov spojených s pobytom dieťaťa v materskej
+škole.
+(2) Týmto VZN sa určuje výška mesačného príspevku zákonného zástupcu žiaka školského klubu
+detí (ďalej len „ŠKD“) a centra voľného času (ďalej len „CVČ“) v zriaďovateľskej pôsobnosti obce
+Dubovica na čiastočnú úhradu nákladov na činnosti spojené s pobytom žiakov v ŠKD a CVČ pri
+Základnej škole v Dubovici.
+(3) Na čiastočnú úhradu výdavkov za pobyt dieťaťa v MŠ a žiaka v ŠKD a CVČ pri základnej
+škole zriadenej obcou prispieva zákonný zástupca mesačne na jedno dieťa sumou najviac 15 %
+sumy životného minima pre jedno nezaopatrené dieťa podľa zákona č. 601/2003 Z. z. o životnom
+minime a o zmene a doplnení niektorých zákonov v znení neskorších predpisov a opatrenia
+MPSVR SR o úprave súm životného minima na dané obdobie.
+
+                                           Čl. 2
+                                  Príspevok za pobyt v MŠ
+(1) Obec Dubovica určuje výšku príspevku na čiastočnú úhradu nákladov na činnosť MŠ
+nasledovne:
+    – pre zákonného zástupcu dieťaťa 15,00 € (slovom: pätnásť eur) mesačne.
+(2) Príspevok sa uhrádza vopred do 10. dňa v danom kalendárnom mesiaci riaditeľke MŠ alebo na
+účet MŠ Dubovica 48.
+(3) Príspevok v MŠ sa neuhrádza za dieťa:
+    a) ktoré má jeden rok pred plnením povinnej školskej dochádzky,
+    b) ktoré má prerušenú dochádzku do MŠ na viac ako tridsať po sebe nasledujúcich
+    kalendárnych dní z dôvodu choroby alebo z rodinných dôvodov preukázateľným spôsobom,
+     c) ak zákonný zástupca dieťaťa predloží riaditeľke MŠ doklad o tom, že je poberateľom dávky
+     v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi,
+     d) ktoré nedochádzalo do MŠ v čase školských prázdnin alebo bola prerušená prevádzka MŠ
+     z dôvodov na strane zriaďovateľa či z iných závažných dôvodov; v týchto prípadoch uhrádza
+     zákonný zástupca pomernú časť určeného príspevku.
+
+                                                      Čl. 3
+                                        Príspevok za pobyt v ŠKD a CVČ
+(1) Obec Dubovica určuje výšku príspevku na čiastočnú úhradu nákladov na činnosť v ŠKD a CVČ
+nasledovne:
+     – pre zákonného zástupcu žiaka ŠKD 8,00 € (slovom: osem eur) mesačne,
+     – pre zákonného zástupcu žiaka CVČ 5,00 € (slovom: päť eur) mesačne.
+(2) Príspevok sa uhrádza vopred do 10. dňa v danom kalendárnom mesiaci na účet ZŠ Dubovica
+190.
+(3) Príspevok za pobyt v ŠKD a CVČ sa neuhrádza za žiaka:
+     – ak zákonný zástupca žiaka písomne požiada a predloží riaditeľovi školy doklad o tom, že je
+     poberateľom dávky v hmotnej núdzi a príspevkov k dávke v hmotnej núdzi,
+     – v čase školských prázdnin trvajúcich viac ako mesiac.
+(4) Pri prerušení prevádzky na viac ako 2 týždne v mesiaci z dôvodov na strane zriaďovateľa alebo
+z iných závažných dôvodov uhrádza zákonný zástupca pomernú časť určeného príspevku.
+
+                                                      Čl. 4
+                                              Záverečné ustanovenia
+(1) Dňom účinnosti tohto všeobecne záväzného nariadenia sa zrušuje Všeobecne záväzné
+nariadenie obce Dubovica č. 4/2023.
+(2) Na tomto všeobecne záväznom nariadení sa uznieslo Obecné zastupiteľstvo obce Dubovica na
+svojom 2. zasadnutí dňa 11. 12. 2026.
+(3) Toto všeobecne záväzné nariadenie nadobúda účinnosť dňom 1. 1. 2027.
+
+
+
+
+                                                                         Bc. Peter Šejirman
+                                                                           starosta obce
+Vyvesené dňa:24.11.2026
+Zvesené dňa: ..............................
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/99feda40-cfa3-4575-bf1e-c7cc9d1aceb4
+Obecné zastupiteľstvo v Dubovici v súlade s ustanoveniami § 6 a § 11 zákona č. 369/1990 Zb. o obecnom
+zriadení v znení neskorších predpisov sa uznáša na tomto všeobecne záväznom nariadení:
+
+                       Návrh - VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                                                  č. 4/ 2026
+                    o poplatkoch za služby a práce vykonávané obcou Dubovica
+
+Obec Dubovica je oprávnená vyberať úhrady za práce a služby vykonávané pri výkone verejnej správy v
+súlade s § 4 ods. 1 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov. Toto
+nariadenie upravuje a bližšie vymedzuje úhrady za služby, nájmy a práce vykonávané obecným úradom v
+Dubovici.
+
+                                              Článok I.
+                               Prenájom viacúčelového domu a inventára
+1. Úhrada sa platí za prenájom priestorov nachádzajúcich sa vo viacúčelovom dome s príslušenstvoma
+zapožičaný mobiliár. Úhradu zaplatí právnická alebo fyzická osoba, ktorá si prenajala priestory a mobiliár
+na kultúrne, športové, spoločenské a viacúčelové účely. Úhrada sa platí pri odovzdaní objektu v hotovosti
+do pokladne obce.
+2. Výška poplatkov pre občanov s trvalým pobytom v obci Dubovica sa určuje takto:
+   Predmet prenájmu / účel akcie                                                           Výška poplatku
+   Sála – svadba (na 4 dni)*                                                                          220,00 €
+   Sála – oslava                                                                                      120,00 €
+   Sála – ples                                                                                        150,00 €
+   Sála – kar                                                                                          40,00 €
+   Prenájom zasadačky – predajná akcia, prezentácia a pod.                                    15,00 € / hod.
+   Prenájom zasadačky – oslava                                                                         50,00 €
+
+
+* Poznámka: V prípade prenájmu sály na svadbu na 3 dni sa poplatok znižuje o 20,00 € (na 200,00 €).
+3. Výška poplatkov pre ostatných žiadateľov (bez trvalého pobytu v obci Dubovica) sa určuje takto:
+   Predmet prenájmu / účel akcie                                                           Výška poplatku
+   Sála – svadba (na 4 dni)*                                                                          250,00 €
+   Sála – oslava                                                                                      150,00 €
+   Sála – ples                                                                                        150,00 €
+   Sála – kar                                                                                          40,00 €
+   Prenájom zasadačky – predajná akcia, prezentácia a pod.                                    20,00 € / hod.
+   Prenájom zasadačky – oslava                                                                         60,00 €
+* Poznámka: V prípade prenájmu sály na svadbu na 3 dni sa poplatok znižuje o 20,00 € (na 230,00 €).
+4. Nájomca je povinný prenajaté priestory a zariadenie odovzdať nepoškodené, upratané a čisté. V prípade
+poškodenia zariadenia je nájomca povinný vzniknuté nedostatky odstrániť alebo škodu nahradiť.
+
+
+5. Poplatky za využitie voľnočasovej miestnosti a prenájom inventára na podujatia:
+   Predmet prenájmu / služba                                                               Výška poplatku
+   Využitie voľnočasovej miestnosti (min. objednávka 2 dráhy)                       8,00 € / 1 hod. / 1 dráha
+   Párty stan malý (6 m × 4 m)                                                               30,00 € / akcia
+   Párty stan veľký (6 m × 12 m)                                                             50,00 € / akcia
+   Nožnicový stan (žltý)                                                                     10,00 € / akcia
+   Pivný set (1× stôl, 2× lavička)                                                             5,00 € / akcia
+   Stôl                                                                                           1,00 € / ks
+   Stolička                                                                                       0,50 € / ks
+   Pódium                                                                                   300,00 € / akcia
+   Obrus malý                                                                                     2,00 € / ks
+   Obrus veľký                                                                                    2,50 € / ks
+
+
+                                              Článok II.
+          Poplatky za kopírovacie práce, vydanie potvrdenia a vyhlásenie v miestnom rozhlase
+1. Kopírovacie práce a sprístupňovanie informácií:
+   Úkon / materiál                                                                         Výška poplatku
+   Vyhotovenie jednej strany formátu A4                                                               0,10 €
+   Vyhotovenie obojstranného listu formátu A4                                                         0,20 €
+   Vyhotovenie jednej strany formátu A3                                                               0,20 €
+   Vyhotovenie obojstranného listu formátu A3                                                         0,40 €
+   Zápis informácie na 1 ks CD-ROM                                                                    1,70 €
+   Zápis informácie na 1 ks DVD                                                                       1,70 €
+   Poštovné pri odoslaní informácií – obálka formát A6 (obyčajne /
+                                                                                              0,02 € / 0,10 €
+   doporučene)
+   Poštovné pri odoslaní informácií – obálka formát A5 (obyčajne /
+                                                                                              0,03 € / 0,10 €
+   doporučene)
+   Poštovné pri odoslaní informácií – obálka formát A4 (obyčajne /
+                                                                                              0,07 € / 0,20 €
+   doporučene)
+2. Služby miestneho rozhlasu a administratívne úkony:
+  Služba / úkon                                                                    Výška poplatku
+  Zverejnenie oznamu v miestnom rozhlase pre občanov obce                                    2,00 €
+  Zverejnenie oznamu v miestnom rozhlase pre fyzické osoby a
+                                                                                             4,00 €
+  podnikateľov
+  Zverejnenie blahoželania v miestnom rozhlase (za jedno vyhlásenie)                         2,00 €
+  Vydanie potvrdenia na písomnú alebo ústnu žiadosť (občan, FO, PO)                          2,00 €
+
+
+                                            Článok III.
+                                Používanie motorových vozidiel obce
+1. Obec poskytuje služby obecným traktorom pre občanov obce za odplatu vypočítanú podľa vzorca: 1
+motohodina × aktuálna cena spotrebovaných pohonných hmôt (v litroch) + 100 % réžia.
+2. Normovaná spotreba pohonných hmôt na účely výpočtu odplaty sa stanovuje na 5,6 litra nafty za 1
+motohodinu (3,0 litra nafty za 0,5 motohodiny).
+
+                                              Článok IV.
+                                       Nájom obecnej chaty Kamila
+1. Obecnú chatu Kamila (ďalej len „Chata“) je možné dať do krátkodobého nájmu len osobe staršej ako 18
+rokov (ďalej len „nájomca“), a to na základe protokolu
+2. Nájomca si Chatu prevezme v deň, ktorý je v protokole označený ako deň vzniku nájmu, a to od 14.00
+hod. Odovzdanie Chaty sa uskutoční najneskôr do 11.00 hod. dňa, ktorý je v protokole označený ako deň
+skončenia nájmu.
+3. Nájomné zaplatí nájomca v hotovosti oprávnenému zástupcovi obce pri odovzdaní Chaty. Týmto nie je
+dotknutý nárok prenajímateľa voči nájomcovi na náhradu škody, ktorá vznikne na predmete nájmu počas
+trvania nájomného vzťahu bez ohľadu na to, kto škodu spôsobil.
+4. Výška nájomného pre občanov s trvalým pobytom v obci Dubovica sa určuje takto:
+  Predmet prenájmu / účel akcie                                                    Výška poplatku
+  Nájom Chaty na 1 deň                   (od októbra - do marca)                           100,00 €
+  Nájom Chaty na 2 dni                  (od októbra - do marca)                            160,00 €
+  Za každý ďalší deň nájmu nad 2 dni (od októbra - do marca)                         + 70,00 € / deň
+  Nájom Chaty v období od 30. 12. do 2. 1.                                        zvýšenie o 100 %
+  Nájom Chaty na 1 deň                   (od apríla - do septembra)                         80,00 €
+  Nájom Chaty na 2 dni                   (od apríla - do septembra)                        120,00 €
+  Za každý ďalší deň nájmu nad 2 dni     (od apríla - do septembra)                  + 50,00 € / deň
+  Nájom Chaty v období od 30. 12. do 2. 1.                                        zvýšenie o 100 %
+5. Výška nájomného pre občanov bez trvalého pobytu v obci Dubovica sa určuje takto:
+
+
+   Dĺžka / obdobie nájmu                                                                        Výška nájomného
+   Nájom Chaty na 1 deň                                                                                          120,00 €
+   Nájom Chaty na 2 dni                                                                                          200,00 €
+   Za každý ďalší deň nájmu nad 2 dni                                                                 + 70,00 € / deň
+   Nájom Chaty v období od 30. 12. do 2. 1.                                                       zvýšenie o 100 %
+
+
+
+                                              Článok V.
+           Osobitné ustanovenia o zabezpečení zbernej nádoby na zmesový komunálny odpad
+1. Obec je oprávnená podľa svojich možností zabezpečiť pre obyvateľov obce zberné nádoby podľa tohto
+článku a v súlade s VZN č. 3/2024 o nakladaní s komunálnymi odpadmi a s drobnými stavebnými odpadmi
+na území obce Dubovica.
+2. Domácnosť je oprávnená požiadať obec o zabezpečenie zbernej nádoby na zmesový komunálny odpad.
+V prípade, že obec disponuje zbernou nádobou, je oprávnená previesť ju na domácnosť za úhradu vo výške
+10,00 €.
+3. Zvýhodnená úhrada za zbernú nádobu podľa ods. 2 sa nevzťahuje na prípady jej znehodnotenia alebo
+straty pred uplynutím jej životnosti (t. j. 10 rokov), ani na prípady zvýšenia počtu zberných nádob pri
+náraste počtu obyvateľov domácnosti. V týchto prípadoch je užívateľ povinný zakúpiť si novú nádobu na
+vlastné náklady podľa aktuálneho cenníka od obce alebo od iného dodávateľa v súlade s týmto VZN, VZN
+č. 3/2024 a s požiadavkami zberovej spoločnosti.
+4. Občania si môžu vyzdvihnúť zbernú nádobu na Obecnom úrade v Dubovici.
+
+
+                                                   Článok VI.
+                                              Záverečné ustanovenia
+1. Na tomto všeobecne záväznom nariadení č. 4/ 2026 o poplatkoch za služby a práce vykonávané obcou
+Dubovica sa uznieslo Obecné zastupiteľstvo v Dubovici na 2. zasadnutí obecného zastupiteľstva dňa
+11.12.2026.
+2. Nadobudnutím účinnosti tohto všeobecne záväzného nariadenia sa zrušuje VZN obce Dubovica č.
+01/2022.
+3. Toto všeobecne záväzné nariadenie nadobúda účinnosť dňom 1. 1. 2027.
+
+
+                                                                      ........................................
+                                                                          Bc. Peter Šejirman
+                                                                                starosta obce
+Vyvesené dňa: 24.11.2026
+Zvesené dňa: ..............................
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/b481f4fe-7918-4f69-9bc1-fe5ca51f34e9
+                       Návrh - VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                                 OBCE DUBOVICA č. 1/2026
+                               o miestnych daniach na rok 2027
+
+
+Obec Dubovica v súlade s ustanovením § 6 ods. 1 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+predpisov a ustanoveniami § 7 ods. 6, § 8 ods. 2, § 12 ods. 2 a 3, § 16 ods. 2 a 3, § 17 ods. 3 a 4, § 25, § 29 §,
+98, § 99e ods. 9 zákona č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a
+drobné stavebné odpady v znení neskorších predpisov
+                                                ustanovuje
+
+                                           Základné ustanovenia
+1. Obecné zastupiteľstvo v Dubovici podľa § 11 ods. 4 písm. d) zákona č. 369/1990 Zb. o obecnom zriadení v
+znení neskorších predpisov rozhodlo, že v nadväznosti na § 98 zákona č. 582/2004 Z. z. o miestnych daniach a
+miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov zavádza s
+účinnosťou od 1. januára 2027 tieto miestne dane:
+      a) daň z nehnuteľností,
+      b) daň za psa.
+2. Toto všeobecne záväzné nariadenie upravuje podmienky určovania a vyberania dane z nehnuteľností a dane
+za psa na území obce Dubovica v zdaňovacom období roku 2027.
+
+                                             PRVÁ ČASŤ
+                                        DAŇ Z NEHNUTEĽNOSTÍ
+                                                 Článok 1
+                                             DAŇ Z POZEMKOV
+                                                      §1
+                                                  Základ dane
+Správca dane ustanovuje na území obce Dubovica hodnotu pozemku, ktorou sa pri výpočte základu dane z
+pozemkov násobí výmera pozemku v m² za lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom
+rýb a ostatné hospodársky využívané vodné plochy: 0,1400 €/m².
+Tieto hodnoty pozemkov sa použijú, len ak daňovník hodnotu pozemku nepreukáže znaleckým ocenením.
+                                                      §2
+                                                  Sadzba dane
+1. Správca dane určuje pre pozemky na území obce Dubovica ročnú sadzbu dane z pozemkov:
+      a) orná pôda, chmeľnice, ovocné sady, trvalé trávnaté porasty, ostatné plochy, ak sa využívajú na
+      poľnohospodárstvo, lesné hospodárstvo alebo účel spojený s poľnohospodárstvom alebo lesným
+      hospodárstvom: 0,50 %,
+      b) záhrady: 0,40 %,
+      c) zastavané plochy a nádvoria, ostatné plochy: 0,40 %,
+      d) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné hospodársky
+      využívané vodné plochy: 0,50 %,
+      e) stavebné pozemky: 0,30 %,
+      f) pozemky podľa § 6 ods. 1 zastavané transformačnými stanicami alebo predajnými stánkami: 0,80 %.
+                                                Článok 2
+                                            DAŇ ZO STAVIEB
+                                                 Sadzba dane
+1. Správca dane určuje pre stavby na území obce Dubovica ročnú sadzbu dane zo stavieb za každý aj začatý m²
+zastavanej plochy:
+      a) 0,070 € za stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu,
+      b) 0,070 € za stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné hospodárstvo, stavby
+      využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane stavieb na vlastnú administratívu,
+      c) 0,300 € za chaty a stavby na individuálnu rekreáciu,
+      d) 0,150 € za samostatne stojace garáže,
+      e) 0,150 € za stavby hromadných garáží,
+      f) 0,150 € za stavby hromadných garáží umiestnené pod zemou,
+      g) 0,700 € za priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu, stavby
+      využívané na skladovanie vlastnej produkcie vrátane stavieb na vlastnú administratívu,
+      h) 0,700 € za stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie a administratívu súvisiacu
+      s ostatným podnikaním a zárobkovou činnosťou,
+      i) 0,070 € za ostatné stavby neuvedené v písmenách a) až h).
+2. Správca dane určuje pri viacpodlažných stavbách pre všetky druhy stavieb príplatok za podlažie 0,07 € za
+každé ďalšie podlažie okrem prvého nadzemného podlažia.
+                                         Článok 3
+                            OSLOBODENIE OD DANE A ZNÍŽENIE DANE
+1. Správca dane ustanovuje, že od dane z pozemkov sú oslobodené:
+      a) pozemky, na ktorých sú cintoríny, kolumbáriá, urnové háje a rozptylové lúky.
+
+                                              DRUHÁ ČASŤ
+                                              DAŇ ZA PSA
+
+
+                                                  Článok 1
+                                                 Základ dane
+Základom dane je počet psov.
+                                                  Článok 2
+                                                 Sadzba dane
+Správca dane určuje sadzbu dane za psa držaného na území obce 6,00 € za jedného psa a kalendárny rok. Takto
+určená sadzba dane platí za každého ďalšieho psa u toho istého daňovníka.
+
+                                              TRETIA ČASŤ
+
+
+                            Vyrubenie dane z nehnuteľností a dane za psa
+Daň z nehnuteľností a daň za psa vyrubuje správca dane každoročne na celé zdaňovacie obdobie jedným
+rozhodnutím.
+                                                      ŠTVRTÁ ČASŤ
+                                                   Záverečné ustanovenia
+                                                         Článok 1
+1. Dňom účinnosti tohto Všeobecne záväzného nariadenia o miestnych daniach sa ruší Všeobecne záväzné
+nariadenie č. 2/2025 o miestnych daniach na území obce Dubovica zo dňa 19. 11. 2025.
+2. Obecné zastupiteľstvo obce Dubovica sa na tomto všeobecne záväznom nariadení o miestnych daniach
+uznieslo na 2. zasadnutí obecného zastupiteľstva dňa 11. 12. 2026.
+
+
+                                                         Článok 2
+                                                         Účinnosť
+
+
+Toto nariadenie nadobúda účinnosť 1. januára 2027.
+
+
+
+
+                                                                                Bc. Peter Šejirman
+                                                                                 starosta obce
+
+Vyvesené dňa: 24.11.2026
+Zvesené dňa: ..............................
+
+
+Príloha č. 1 k zákonu č. 582/2004 Z.z.
+
+
+ Kód okresu              Číslo          Názov KÚ                        Hodnota v € za m2
+                          KÚ                                        Orná pôda         Trvalé          trávnaté
+                                                                                      porasty
+     708                 813397         Dubovica                    0,2011                   0,0235
+
+
+
+
+Príloha č. 2 k zákonu č. 582/2004 Z.z.
+
+
+ Obec s počtom obyvateľov                                  Hodnota v € za m2
+                                              stavebné    záhrady        Zastavané           Ostatné plochy
+                                              pozemky                    plochy          a
+                                                                         nádvoria
+      1001 do 6 000                             18,58        1,85            1,85               1,85
+

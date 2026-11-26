@@ -1,0 +1,599 @@
+URL: https://cuet.slovensko.sk/en/dokument/4b13f3d8-fe34-4a91-8ae0-1325422e58e0
+OBEC: Ľubica (Kežmarok)
+NÁZOV: Návrh VZN o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Ľubica
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/4b13f3d8-fe34-4a91-8ae0-1325422e58e0
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Ľubica
+Search publisher's RSS feeds
+Published on official board:
+Obec Ľubica - Zverejňovanie na CUET
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Obec Ľubica - Zverejňovanie na CUET
+Published to:
+10.12.2026
+Registry case:
+Name of official document:
+Návrh VZN o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Ľubica
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh VZN o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Ľubica [https://www.obeclubica.sk/download_file_f.php?id=2503526]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Navrh_VZN_o_nakladani_s_KO_a_drobnymi_stavebnymi_odpadmi.pdf
+Type and size:
+.pdf, 588.68 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/b4875f7c-9b42-4138-99f5-59f72674f693
+      NÁVRH - VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                     č. ..../2026
+          o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi
+                                na území obce Ľubica
+
+Toto Všeobecne záväzné nariadenie bolo schválené Obecným zastupiteľstvom v Ľubici
+dňa .................. uznesením číslo ................. ako
+
+
+              Všeobecne záväzné nariadenie obce Ľubica č. ..../2026
+          o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi
+                                na území obce Ľubica
+
+
+Návrh VZN podľa § 6 ods. 3. zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+predpisov, bol zverejnený na úradnej tabuli a webovom sídle obce Ľubica od 25.11.2026 do
+10.12.2026.
+
+Podľa § 6 ods. 4 zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+pripomienky k návrhu VZN možno uplatniť v lehote od dňa zverejnenia návrhu VZN do
+05.12.2026 vrátane.
+
+Návrh VZN podľa § 5 ods. 8 zákona č. 211/2000 Z.z. o slobodnom prístupe k informáciám
+a o zmene a doplnení niektorých zákonov (zákon o slobode informácií) v znení neskorších
+predpisov, bol zverejnený na elektronickej úradnej tabuli obce od 25.11.2026 do 10.12.2026.
+
+Toto VZN bolo vyvesené na úradnej tabuli obce, zverejnené na elektronickej úradnej tabuli obce
+a na webovom sídle obce dňa ....................
+
+
+                          VZN nadobúda účinnosť dňom ..............
+
+
+
+
+                                                           Ing. Štefan Špirko
+                                                             starosta obce
+                   VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                           OBCE ĽUBICA č. ..../2026
+                 o nakladaní s komunálnymi odpadmi a drobnými
+                  stavebnými odpadmi na území obce Ľubica
+Obecné zastupiteľstvo obce Ľubica podľa § 11 ods. 4 písm. g) a v nadväznosti na § 6 a § 4 ods. 3 písm.
+g) zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov v spojitosti s § 81 ods. 8
+zákona č. 79/2015 Z.z. o odpadoch a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov (ďalej len „zákon“) sa uznieslo na tomto všeobecne záväznom nariadení
+
+                                             I. ČASŤ
+                                         Úvodné ustanovenia
+
+                                              Článok 1
+                                           Predmet úpravy
+
+1.   Toto všeobecné záväzne nariadenie (ďalej len „nariadenie“) vymedzuje v zmysle hierarchie
+     odpadového hospodárstva práva a povinnosti obce Ľubica, pôvodcov a držiteľov odpadu
+     a oprávnených osôb v oblasti nakladania s komunálnym odpadom vrátane jeho zberu a prepravy.
+2.   Toto nariadenie upravuje podrobnosti o nakladaní so zmesovým komunálnym odpadom, drobným
+     stavebným odpadom, objemným odpadom, odpadom z domácností s obsahom nebezpečných látok,
+     triedených zložiek komunálnych odpadov, elektroodpadov z domácností, odpadov z obalov
+     a odpadov z neobalových výrobkov zbieraných spolu s obalmi, použitých prenosných batérií
+     a akumulátorov a automobilových batérií a akumulátorov, veterinárnych liekov a humánnych liekov
+     nespotrebovaných fyzickými osobami a zdravotníckych pomôcok, jedlých olejov a tukov,
+     odpadovými pneumatikami, textilom a šatstvom, biologicky rozložiteľným komunálnym odpadom,
+     biologicky rozložiteľným kuchynským odpadom a reštauračným odpadom od prevádzkovateľa
+     kuchyne. VZN upravuje podrobnosti prevádzkovania zberného dvora, spôsobu zberu drobného
+     stavebného odpadu a o spôsobe nahlasovania nezákonne umiestneného odpadu.
+3.   Toto nariadenie upravuje systém nakladania, spôsob zberu a prepravy komunálnych odpadov, ktoré
+     vznikajú na území obce Ľubica:
+     a) pri činnosti fyzických osôb,
+     b) pri činnosti právnických osôb alebo fyzických osôb oprávnených na podnikanie
+     c) pri čistení verejných priestranstiev, vrátane verejnej zelene a cintorína.
+4.   Toto nariadenie upravuje spôsob úhrady nákladov za zbernú nádobu na zmesový komunálny odpad,
+     ktorú znáša pôvodný pôvodca odpadu a spôsob úhrady.
+
+                                             Článok 2
+                               Účel a cieľ odpadového hospodárstva
+1.   Odpadové hospodárstvo je súbor činností zameraných na predchádzanie a obmedzovanie vzniku
+     odpadov a znižovania ich nebezpečnosti pre životné prostredie a na nakladanie s odpadmi.
+2.   Účelom odpadového hospodárstva obce je stanoviť vhodný systém nakladania s komunálnymi
+     odpadmi a drobnými stavebnými odpadmi, ktoré vznikli na území obce Ľubica v súlade s hierarchiou
+     odpadového hospodárstva.
+3.   Na území obce je každý pôvodca komunálneho odpadu povinný uplatňovať hierarchiu odpadového
+     hospodárstva ako záväzné poradie stanovených priorít:
+     a)   predchádzanie vzniku odpadu,
+     b)   príprava na opätovné použitie,
+     c)   recyklácia,
+     d)   iné zhodnotenie, napríklad energetické,
+                                              Strana 2 z 23
+     e)   zneškodňovanie.
+4.   Cieľom odpadového hospodárstva je:
+     a) predchádzať vzniku odpadu najmä redukciou spotreby jednorazových nevratných obalov
+        a uprednostniť nákup tovaru vo vratných obaloch, používaním výrobkov z recyklovaných
+        materiálov,
+     b) zhodnocovať odpady ich opätovným použitím (napr. oprava, charitatívne účely),
+     c) zvýšiť množstvo a úroveň čistoty vytriedenej zložky komunálneho odpadu, čím sa zníži podiel
+        odpadu určeného na zneškodňovanie a následne sa zvýši podiel recyklácie,
+     d) využívať vhodné odpady ako zdroj energie len v zariadeniach na to určených,
+     e) zneškodňovať odpady spôsobom neohrozujúcim zdravie ľudí a nepoškodzuje životné prostredie.
+
+                                                II. ČASŤ
+                                          Spoločné ustanovenia
+
+                                               Článok 3
+                                           Základné pravidlo
+1.   Systém nakladania, spôsob zberu a prepravy komunálnych odpadov v rozsahu ustanovenom v tomto
+     nariadení sa vyhlasuje za záväzný systém na celom území obce Ľubica.
+2.   Každý je povinný nakladať s komunálnymi odpadmi alebo inak s nimi zaobchádzať v súlade s týmto
+     nariadením a zákonom o odpadoch.
+3.   Každý je povinný nakladať s komunálnym odpadom alebo inak s nimi zaobchádzať takým spôsobom,
+     ktorý neohrozuje zdravie ľudí a nepoškodzuje životné prostredie, a to tak, aby nedochádzalo k:
+          a) riziku znečistenia vody, ovzdušia, pôdy a ohrozenia rastlín a živočíchov,
+          b) obťažovaniu okolia hlukom alebo zápachom a
+          c) nepriaznivému vplyvu na krajinu alebo miesta osobitného významu.
+
+                                             Článok 4
+                                   Vymedzenie základných pojmov
+1.   Odpad je hnuteľná vec alebo látka, ktorej sa jej držiteľ zbavuje, chce sa jej zbaviť alebo je v súlade so
+     zákonom o odpadoch alebo osobitnými predpismi povinný sa jej zbaviť.
+2.   Pôvodca odpadu je
+     a) každý pôvodný pôvodca, ktorého činnosťou odpad vzniká alebo
+     b) ten, kto vykonáva úpravu, zmiešavanie alebo iné úkony s odpadmi, ak ich výsledkom je zmena
+        povahy alebo zloženie týchto odpadov,
+     c) každý prenajímateľ objektu, správca administratívneho alebo obchodného centra, ktorý plní
+        prenesenú poplatkovú povinnosť za poplatníka a zároveň zabezpečuje zhromažďovanie
+        vytriedených zložiek komunálnych odpadov z iných zdrojov svojich nájomcov na základe zmluvy,
+3.   Držiteľ odpadu je pôvodca odpadu alebo osoba, ktorá má odpad v držbe.
+4.   Komunálny odpad (ďalej len „KO“) je
+     a) zmesový odpad a oddelene vyzbieraný odpad z domácností vrátane papiera a lepenky, skla, kovov,
+        plastov, biologického odpadu, dreva, textílií, obalov, odpadu z elektrických zariadení
+        a elektronických zariadení, použitých batérií a akumulátorov a objemného odpadu vrátane
+        matracov a nábytku,
+     b) zmesový odpad a oddelene vyzbieraný odpad z iných zdrojov, ak je tento odpad svojím
+        charakterom a zložením podobný odpadu z domácností.
+     Komunálny odpad z domácností nezahŕňa odpad z výroby, odpad z poľnohospodárstva, lesného
+     hospodárstva a rybárstva, odpad z o septikov, kanalizačnej siete a čistiarní vrátane čistiarenského
+     kalu, staré vozidlá, stavebný odpad ani odpad z demolácií.
+5.   Zmesový odpad je nevytriedený komunálny odpad alebo komunálny odpad po vytriedený zložiek
+     komunálneho odpadu (ďalej len „ZKO“).
+                                                Strana 3 z 23
+6.   Odpad z domácností je odpad, ktorý vyprodukovali domácnosti.
+7.   Zložka komunálnych odpadov je ich časť, ktorú možno mechanicky oddeliť a zaradiť ako samostatný
+     druh odpadu. Zložka komunálneho odpadu sa považuje za vytriedenú, ak neobsahuje iné zložky
+     komunálneho odpadu alebo iné nečistoty, ktoré možno zaradiť ako samostatné druhy odpadov.
+8.   Objemný odpad je komunálny odpad, ktorý nie je možné pre jeho rozmer a veľkosť uložiť do
+     štandardnej zbernej nádoby používanej na území obce.
+9.   Drobný stavebný odpad (ďalej len „DSO“) je odpad z bežných udržiavacích prác vykonávaných
+     fyzickou osobou alebo pre fyzickú osobu, za ktorý sa platí miestny poplatok za komunálne odpady
+     a drobné stavebné odpady.
+10. Biologicky rozložiteľný odpad (ďalej len „BRO“) je odpad, ktorý je schopný rozložiť sa anaeróbnym
+    spôsobom alebo aeróbnym spôsobom, ako je najmä odpad z potravín, odpad z papiera a lepenky,
+    odpad zo záhrad a parkov.
+11. Biologický odpad je odpad zo záhrad a parkov, potravinový odpad a kuchynský odpad z domácností,
+    kancelárií, reštaurácií, veľkoobchodu, jedální, stravovacích zariadení a maloobchodných zariadení,
+    ktorý je biologicky rozložiteľný a porovnateľný biologický odpad z potravinárskych závodov.
+12. Biologicky rozložiteľné komunálne odpady sú všetky druhy biologicky rozložiteľných odpadov, ktoré
+    je možné zaradiť do skupiny 20 Komunálne odpady.
+13. Potravinový odpad sú všetky potraviny, ktoré sa stali odpadom.
+14. Odpad z domácností s obsahom nebezpečných látok je taký komunálny odpad, ktorý má aspoň jednu
+    nebezpečnú vlastnosť uvedenú v prílohe osobitného predpisu a jeho umiestnenie do zberných nádob
+    na zmesový komunálny odpad je alebo do vriec na triedený zber je zakázané.
+15. Vyhradený výrobok je výrobok patriaci do skupiny výrobkov, na ktoré sa vzťahuje rozšírená
+    zodpovednosť výrobcu – elektrozariadenia a elektroodpad, batérie a akumulátory, obaly a odpady
+    z obalov, vozidlá a staré vozidlá, pneumatiky a odpadové pneumatiky, neobalové výrobky a odpad
+    z nich, osobitné výrobky z plastu.
+16. Výrobcom vyhradeného výrobku sa rozumie výrobca elektrozariadení, výrobca batérií
+    a akumulátorov, výrobca obalov, výrobca vozidiel, výrobca pneumatík, výrobca neobalových
+    výrobkov.
+17. Elektroodpad z domácností je elektroodpad, ktorý pochádza z domácností a z obchodných,
+    priemyselných, inštitucionálnych a iných zdrojov, ktorý je svojím charakterom a množstvom podobný
+    tomu, ktorý pochádza z domácností; odpad z elektrozariadení, ktoré pravdepodobne budú používať
+    domácnosti a iní používatelia ako domácnosti, sa vždy považuje za elektroodpad z domácností.
+18. Nakladanie s odpadom je zber, preprava, zhodnocovanie vrátane triedenia a zneškodňovanie odpadu
+    vrátane dohľadu nad týmito činnosťami a nasledujúcej starostlivosti o miesta zneškodňovania
+    a zahŕňa aj konanie obchodníka alebo sprostredkovateľa.
+19. Systém nakladania s odpadom je spôsob zberu a prepravy komunálneho odpadu na území obce,
+    spôsob triedenia jednotlivých zložiek komunálneho odpadu, spôsob nakladania s drobnými
+    stavebnými odpadmi, určenie počtu a typu zberných nádob, kontajnerov a určenie miest na ukladanie
+    týchto odpadov za účelom ich zhodnotenia alebo zneškodnenia.
+20. Zberná nádoba je nádoba alebo vrece určená na ukladanie zmesového komunálneho odpadu
+    a triedených zložiek komunálneho odpadu, ktorá je umiestnená na miestach na to určených - t.j.
+    zberné miesto/stojisko zberných nádob alebo na verejnom priestranstve len v prípade presne
+    vymedzených týmto nariadením v čase vývozu odpadu.
+21. Dostatočný počet zberných nádob znamená taký počet zberných nádob, ktorých veko sa po vložení
+    odpadu musí dať úplne uzavrieť.
+22. Elektronická evidencia odpadov je elektronická automatizovaná identifikácia výsypu zbernej nádoby
+    na zmesový komunálny odpad priamo na zberovom vozidle.
+
+
+                                             Strana 4 z 23
+23. Triedenie odpadov je delenie odpadov podľa druhov, kategórií alebo iných kritérií alebo oddeľovanie
+    zložiek odpadov, ktoré možno po oddelení zaradiť ako samostatné druhy odpadov.
+24. Triedený zber komunálnych odpadov je činnosť, pri ktorej sa oddelene zbierajú zložky komunálnych
+    odpadov (zber vytriedených odpadov).
+25. Kalendárový zber je zber oddelene zbieranej zložky komunálneho odpadu v určenom čase, ktorý určí
+    obec v tomto nariadení. Tento zber spočíva v pristavení vozidla alebo zberných nádob v určitom čase
+    najviac na jeden deň, pričom obec o tomto zbere informuje obyvateľov vopred spôsobom v mieste
+    obvyklým.
+26. Zber odpadu (vrátane mobilného) je zhromažďovanie odpadu od inej osoby vrátane jeho predbežného
+    triedenia a dočasného uloženia odpadu na účely prepravy do zariadenia na spracovanie odpadov.
+27. Výkup odpadu je zber odpadu, ak je odpad odoberaný právnickou osobou alebo fyzickou osobou –
+    podnikateľom za dohodnutú cenu alebo inú protihodnotu.
+28. Množstvový zber je zber zmesových komunálnych odpadov a drobných stavebných odpadov, pri
+    ktorých ich pôvodca platí miestny poplatok za komunálne odpady a drobné stavebné odpady vo výške,
+    ktorá je priamo úmerná množstvu týchto odpadov vyprodukovaných pôvodcom odpadu za daný čas.
+29. Harmonogram zberu je určenie termínov, resp. intervalu zberu a odvozu odpadu.
+30. Zhromažďovanie odpadu je dočasné uloženie odpadu u držiteľa odpadu pred ďalším nakladaním
+    s ním, ktoré nie je skladovaním odpadu.
+31. Zberný dvor je zariadenie na zber komunálnych odpadov a drobných stavebných odpadov zriadené
+    obcou a prevádzkované obcou.
+32. Zberné miesto je priestor, spravidla spevnená plocha pre trvalé umiestnenie zbernej nádoby na
+    vlastnom pozemku tak, aby bola nádoba prístupná osobám užívajúcim nehnuteľnosť, pre ktorú je
+    zberná nádoba určená.
+33. Stojisko zberných nádob je stanovište zberných nádob/kontajnera nachádzajúce sa na verejnom
+    priestranstve alebo v ohradenom priestranstve, ktoré je sprístupnené pôvodcovi odpadu a ktoré je
+    určené obcou na umiestenie zbernej nádoby 1100 l pre ZKO a veľkoobjemového kontajnera pre
+    objemný odpad.
+34. Zhodnocovanie odpadu je činnosť, ktorej hlavným výsledkom je prospešné využitie odpadu za
+    účelom nahradiť iné materiály vo výrobnej činnosti alebo v širšom hospodárstve, alebo zabezpečenie
+    pripravenosti odpadu na plnenie tejto funkcie.
+35. Zneškodňovanie odpadu je činnosť, ktorá nie je zhodnocovaním, a to aj vtedy, ak je druhotným
+    výsledkom činnosti spätné získavanie látok alebo energie.
+36. Rozšírená zodpovednosť výrobcu je súhrn povinností výrobcu vyhradeného výrobku, vzťahujúcich
+    sa na výrobok počas všetkých fáz jeho životného cyklu, ktorých cieľom je predchádzanie vzniku
+    odpadu z vyhradeného výrobku (ďalej len „vyhradený prúd odpadu“) a posilnenie opätovného
+    použitia, recyklácie alebo iného zhodnotenia tohto prúdu odpadu. Obsah rozšírenej zodpovednosti
+    výrobcu tvoria ustanovené požiadavky na zabezpečenie materiálového zloženia alebo konštrukcie
+    vyhradeného výrobku, informovanosti o jeho zložení a o nakladaní s vyhradeným prúdom odpadu, na
+    zabezpečenie nakladania s vyhradeným prúdom odpadu a na zabezpečenie finančného krytia
+    uvedených činností.
+37. Organizácia zodpovednosti výrobcov je právnická osoba so sídlom v Slovenskej republike založená,
+    vlastnená a prevádzkovaná výlučne výrobcami vyhradených výrobkov so sídlom v niektorom
+    z členských štátoch. Organizácia zodpovednosti výrobcov, v súlade s udelenou autorizáciou,
+    zabezpečuje na základe zmluvy o plnení vyhradených povinnosti plnenie týchto povinností za
+    zastúpených výrobcov vyhradeného výrobku.
+38. Zberová spoločnosť je právnická osoba alebo fyzická osoba - podnikateľ, ktorá má s obcou
+    uzatvorenú zmluvu podľa osobitného predpisu na vykonávanie zberu vrátane mobilného zberu
+    a prepravy komunálnych odpadov, s výnimkou biologicky rozložiteľného kuchynského a
+    reštauračného odpadu od prevádzkovateľa kuchyne. Oprávnenou osobou pre zber odpadov z obalov
+                                             Strana 5 z 23
+    a odpadov z neobalových výrobkov je právnická osoba alebo fyzická osoba - podnikateľ, ktorá má
+    okrem zmluvy podľa predchádzajúcej vety uzatvorenú aj zmluvu s organizáciou zodpovednosti
+    výrobcov, s ktorou má obec uzatvorenú zmluvu na prevádzkovanie systému združeného nakladania
+    s odpadmi z obalov a s odpadmi z neobalových výrobkov.
+
+                                          Článok 5
+                            Povinnosti pôvodcu a držiteľa odpadu
+1. Pôvodca a držiteľ komunálneho odpadu je povinný:
+  a) predchádzať vzniku odpadu zo svojej činnosti a obmedzovať jeho množstvo a nebezpečné vlastnosti
+     v súlade s hierarchiou odpadového hospodárstva,
+  b) nakladať s odpadom alebo inak s ním zaobchádzať takým spôsobom, ktorý neohrozuje zdravie ľudí
+     a nepoškodzuje životné prostredie,
+  c) nakladať s odpadom alebo inak s nimi zaobchádzať v súlade s týmto nariadením obce a zákonom
+     o odpadoch,
+  d) zapojiť sa do systému zberu zmesového komunálneho odpadu v obci,
+  e) triediť zložky komunálnych odpadov, pre ktoré obec zabezpečuje triedený zber,
+  f) prihlásiť sa do systému zberu zmesového komunálneho odpadu v zmysle oznamovacej povinnosti
+     zákona č. 582/2004 Z.z. v znení neskorších predpisov a uviesť adresu stojiska zbernej nádoby,
+     objem zbernej nádoby, interval vývozu a počet zberných nádob,
+  g) zabezpečiť si na vlastné náklady plastovú zbernú nádobu na zmesový komunálny odpad pre
+     nehnuteľnosti nachádzajúce sa na uliciach: Bernolákova, Mayerová ulica, Grodkovského ulica,
+     Kirchberg, Budovateľská, Gen. Svobodu, Hlboká, Hraničná ulica, Chrenová ulica, Jánošíková,
+     Jarná, Jesenského, Kruhová, 8. mája, Mierová, Na vŕšku, Pod lesom, Poľná, Podtatranská,
+     Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská,
+  h) pri neváženom množstvovom zbere zmesového komunálneho odpadu ak vlastní viac nehnuteľností
+     v obci alebo prevádzkuje na území obce viac prevádzok, každá musí byť prihlásená do systému
+     zberu komunálneho odpadu samostatne,
+  i) zabezpečiť si v dostatočnom čase prenájom plastových zberných nádob na zmesový komunálny
+     odpad o objeme 1100 l pred bytovým domom bez záhradky a v záhradkárskych osadách k.ú. Ľubica,
+  j) užívať zberné nádoby zodpovedajúce zavedenému systému zberu komunálnych odpadov na území
+     obce, riadne sa o ne starať, zabezpečiť ich proti odcudzeniu a ich okolie udržiavať v čistote,
+  k) zbernú nádobu uložiť v deň organizovaného zberu v zmysle harmonogramu najneskôr do 06.00 hod.
+     na verejné priestranstvo tak, aby bola na viditeľnom mieste čo najbližšie k ceste a ľahko dostupná
+     zberovej technike a nebránila pešej a cestnej doprave,
+  l) dodržiavať stanovené harmonogramy zberu/vývozu komunálneho odpadu,
+  m) ukladať zmesový komunálny odpad, oddelene zbierané zložky komunálneho odpadu na účely ich
+     zberu na miesta a do zberných nádob určených obcou zodpovedajúcich systému zberu komunálnych
+     odpadov v obci:
+     - v lokalitách, kde je zavedený triedený zber odpadu priamo v domácnostiach, vytriedený na
+          jednotlivé zložky ukladať do pridelených farebných vriec,
+     - v lokalitách, kde je zavedený triedený zber odpadu prostredníctvom rozmiestnených zberných
+          nádob na uliciach, ukladať vytriedený komunálny odpad na jednotlivé zložky do označených
+          zberných nádob donáškovým spôsobom,
+  n) vylúčiť zo zmesového komunálneho odpadu jednotlivé zložky komunálneho odpadu, pre ktoré obec
+     zabezpečuje triedený zber zložiek komunálneho odpadu,
+  o) vykonať v prípade potreby dezinfekciu zberných nádob na zmesový KO vo svojom vlastníctve,
+  p) ukladať komunálny odpad do vonkajších odpadkových košov na to určených a umiestnených na
+     verejnom priestranstve obce tak, aby nedochádzalo k jeho rozptýleniu do okolia,
+  q) informovať obec o zabezpečení si novej zbernej nádoby na zmesový komunálny odpad od iného
+     dodávateľa ako obec z dôvodu zabezpečenia označenia novým elektronický RFID čipom,
+  r) umožniť zamestnancovi obci alebo povereným osobám obcou označenie zbernej nádoby na
+     zmesový komunálny odpad novým elektronickým RFID čipom,
+  s) vyzdvihnúť vrecia určené pre jednotlivé zložky komunálneho odpadu na určenom mieste,
+  t) umožniť obci alebo povereným osobám obcou kontrolu obsahu zbernej nádoby na zmesový KO
+     a triedených zložiek KO,
+                                             Strana 6 z 23
+   u) na požiadanie obce, poskytnúť pravdivé a úplné informácie potrebné na zostavenie a aktualizáciu
+      elektronického evidenčného systému,
+   v) hodnoverne preukázať obci kompostovanie biologicky rozložiteľného odpadu a užívanie
+      kompostovacieho zásobníka.
+2. Pôvodca komunálnych odpadov ako organizátor/spoluorganizátor kultúrnych, športových a iných aj
+   jednorazových podujatí a činnosti pre verejnosť je povinný:
+   a) prednostné používať zálohovaný riad, ktorý je opakované použiteľný ( t.j. sklo, keramika a pod.)
+   b) znášať náklady na zálohovaný riad v plno rozsahu,
+   c) zabezpečiť triedený zber zložiek komunálneho odpadu do zberných nádob/vriec, ktoré si zabezpečí
+      vopred pred akciou pri jej nahlásení na obecnom úrade,
+   d) dodanie vriec na zber triedených zložiek komunálnych odpadov pre organizátora je zabezpečený
+      obcou bezodplatne,
+   e) zabezpečiť dostatok zberných nádob na zmesový KO,
+   f) zabezpečiť následne zhodnotenie biologicky rozložiteľných odpadov vzniknutých počas podujatia,
+   g) realizovať opatrenia pre zníženie tvorby odpadov v rámci poskytovanej činnosti,
+   h) v stravovacích prevádzkach trvalých i jednorazových (napr. stánkoch, kioskoch, bufetoch,
+      záhradnom posedení, pojazdných predajniach a podobných zariadeniach) zabezpečiť čistotu
+      a poriadok, a to najmä umiestením dostatočného počtu zberných nádob/vriec,
+3. Vlastník, správca alebo nájomca nehnuteľnosti na území obce je okrem povinností uvedených v ods. 1
+   tohto článku povinný:
+   a) zabezpečiť dostatočné množstvo a zodpovedajúci typ zbernej nádoby na zmesový komunálny
+      odpad, resp. dostatočnú frekvenciu vývozu zodpovedajúcu systému zberu odpadu v obci,
+   b) zabezpečiť, aby nedochádzalo k prepĺňaniu zberných nádob, v prípade prepĺňania zbernej nádoby
+      zabezpečiť ďalšiu zbernú nádobu v rozsahu stanovenom objeme,
+   c) umiestniť zberné nádoby na zmesový komunálny odpad a na jednotlivé zložky komunálneho odpadu
+      prednostne na vlastnom pozemku; ak to nie je možné umiestniť ich na patričnom upravenom
+      pozemku po písomnej dohode s jeho vlastníkom alebo správcom tak, aby boli ľahko prístupné a ich
+      umiestnenie nespôsobovalo hygienické ani estetické závady a aby premiestňovanie zberných nádob
+      na miesto nakladania s odpadmi bolo čo najjednoduchšie,
+   d) umiestňovanie zberných nádob na verejných priestranstvách a verejne prístupných miestach a to pri
+      bytových domoch, prevádzkach podnikateľov, v objektoch vo vlastníctve štátu alebo mesta a pod.
+      je možné len s predchádzajúcim súhlasom obce a musí byť doriešený vzťah k pozemku,
+   e) stojiska zberných nádob musia zohľadňovať vhodné donáškové aj odstupové vzdialenosti, technické
+      podmienky pre ich vyprázdňovanie a zároveň musia vyhovovať hygienickým, estetickým,
+      bezpečnostným, požiarnym a iným predpisom
+   f) zabezpečiť, aby zberné nádoby neboli trvalo umiestnené na chodníku a verejnom priestranstve obce,
+   g) za umiestnenie nádob na pozemkoch v súkromnom vlastníctve zodpovedá poplatník, ktorý zberné
+      nádoby vlastní a užíva,
+   h) ukladať zmesový KO do zberných nádob a vytriedené zložky KO do nádob/vriec určených obcou
+      tak, aby sa tieto dali uzatvoriť, aby z nich komunálny odpad nevypadával a pri ich vyprázdňovaní
+      neohrozoval zdravie zamestnancov zberovej spoločnosti. Ak nie je komunálny odpad riadne
+      pripravený na odvoz, zberová spoločnosť má právo takýto odpad neodobrať a oznámiť túto
+      skutočnosť s odôvodnením obci,
+   i) zberné nádoby/vrecia v deň vývozu/zberu najneskôr do 6.00 hod. pripraviť na verejne prístupnom
+      mieste t.j. vyložiť (umiestniť) ich pred svoju nehnuteľnosť na verejné viditeľné prístupné miesto čo
+      najbližšie k ceste tak, aby zamestnanec vykonávajúci vyprázdňovanie nádob nevstupoval na cudzie
+      pozemky. V prípade vzdialenejších nehnuteľnosti od spevnenej cesty je potrebné umiestniť zberné
+      nádoby/vrecia vo vzdialenosti max. do 5 m od spevnenej cesty, nádoba nesmie byť za bránou
+      a inými prekážkami,
+   j) zberné nádoby ponechať na chodníku, ceste a verejnom priestranstve len na dobu nevyhnutnú na
+      ich vyprázdnenie. Bezodkladne po vyprázdnení je vlastník (nájomca) danej nehnuteľnosti povinný
+      nádoby uložiť na pôvodné zberné miesto na vlastný pozemok,
+   k) zabezpečiť, aby nedochádzalo k preplňovaniu zberných nádob (vriec), k znečisteniu okolia zberných
+      nádob; v prípade znečistenia okolia zberných nádob toto znečistenie bezodkladne odstrániť.
+
+                                              Strana 7 z 23
+4. Vlastníci alebo nájomcovia pozemkov sú povinný svoje pozemky chrániť proti vytváraniu nelegálnych
+   skládok odpadov.
+5. Do zberných nádob umiestnených na cintoríne a pred cintorínom je možné ukladať výlučné odpady,
+   ktoré vznikli na cintoríne, okrem stavebného odpadu a výkopovej zeminy. Vývoz zberných nádob
+   z cintorína zabezpečuje obec Ľubica 1x týždenne.
+6. Pri plánovaní novej výstavby nehnuteľností, pri ktorých bude vznikať KO, sú investori a projektanti
+   povinní navrhovať priestorové riešenie stojiska zberných nádob a následného zberu KO, ktoré budú
+   spĺňať požiadavky:
+   a) priestor medzi stojiskom zberných nádob a miestom ich nakladania do zberových vozidiel budú
+      rovné, dláždené a spevnené tak, aby priestor nevytváral žiadnu prekážku pri manipulácií so zbernou
+      nádobou,
+   b) stojisko bude umiestnené tak, aby bol zabezpečený bezpečný prístup a dostatočný priestor pre
+      manipuláciu s nádobami,
+   c) pôdorysné rozmery stojiska boli dostatočné podľa veľkosti a počtu umiestnených zberných nádob.
+7. Pri nakladaní s odpadmi alebo inom zaobchádzaní s nimi sa na celom území zakazuje:
+   a) uložiť alebo ponechať odpad na inom mieste ako na mieste na to určenom v súlade s týmto
+      nariadením,
+   b) zneškodniť alebo zhodnotiť komunálny odpad inak ako v súlade so zákonom o odpadoch a týmto
+      nariadením
+   c) riediť alebo zmiešavať odpady s cieľom dosiahnuť hraničné hodnoty koncentrácie škodlivých látok,
+   d) ukladať do zberných nádob určených obcou na zber zmesového komunálneho odpadu iný odpad ako
+      zmesový komunálny odpad a do zberných nádob určených na triedený zber komunálneho odpadu
+      zložku komunálneho odpadu, pre ktorú nie je nádoba určená,
+   e) vyberať komunálny odpad alebo jeho jednotlivé vytriedené zložky zo zberných nádob inou ako
+      osobou - zberovou spoločnosťou,
+   f) napĺňať zbernú nádobu na ZKO stavebným odpadom,
+   g) poškodzovať zberné nádoby alebo ich označenie,
+   h) zneškodniť odpady vypúšťaním a vhadzovaním do vodného toku, do pôdy a do kanalizácie,
+   i) nakladať prípadne zaobchádzať s odpadmi, ktoré spôsobujú obťažovanie okolia hlukom alebo
+      zápachom,
+   j) spaľovať komunálny odpad vrátane odpadu zo záhrad a parkov na voľnom priestranstve a vo
+      vykurovacích zariadeniach v domácnostiach,
+   k) znečisťovať stanovišťa zberných nádob a ich okolia ukladaním odpadu mimo zberných
+      nádob/kontajnerov a odpadkových košov alebo ukladanie odpadov, pre ktoré nie je určené,
+   l) odovzdať komunálny odpad alebo jeho zložky iným subjektom ako zberovej spoločnosti, ktorá má
+      uzatvorenú zmluvu s obcou,
+   m) počas kultúrno-spoločenských a športových podujatí, prípadne iných určených pre verejnosť
+      používať jednorazový riad ako poháre, taniere, tácky, príbory a iné z umelej hmoty (plastov)
+      a penového polystyrénu.
+
+                                            Článok 6
+                                 Povinnosti zberovej spoločnosti
+1. Zberová spoločnosť, ktorá na území obce vykonáva zber a prepravu zmesového komunálneho odpadu
+   a vytriedených zložiek komunálneho odpadu, s výnimkou biologicky rozložiteľného kuchynského
+   odpadu a reštauračného odpadu od prevádzkovateľa kuchyne, je povinná:
+   a) obsluhovať/vyprázdňovať zberné nádoby odpadov tak, aby nedošlo k hygienickým, bezpečnostným,
+      ekologickým a iným závadám, prípadne ku škodám na majetku,
+   b) vyprázdňovať len označené zberné nádoby elektronickým RFID čipom umiestnených na plastových
+      zberných nádobách,
+   c) pred vyprázdňovaním zbernej nádoby naskenovať snímacím zariadením priamo na zbernom vozidle
+      elektronický RFID čip, čím sa zabezpečí prenos údajov do elektronickej evidencie odpadov,
+   d) po vyprázdnení zbernej nádoby umiestniť späť na miesto odberu mimo cesty,
+
+                                              Strana 8 z 23
+     e) v prípade rozsýpania odpadu pri obsluhe zbernej nádoby mimo zvozové vozidlo, tieto odpady
+        bezodkladne odstrániť,
+     f) v prípade poškodenia zbernej nádoby pri manipulácii súvisiacej s jej vyprázdňovaním túto
+        skutočnosť bezodkladne nahlásiť na emailovú adresu: podatelna@obeclubica.sk v znení: adresa
+        /ulica, číslo/ typ a objem zbernej nádoby a zabezpečiť na vlastné náklady jej opravu alebo výmenu
+        do 14 kalendárnych dní,
+     g) v prípade poškodenia RFID čipu zbernej nádoby pri manipulácii súvisiacej s jej vyprázdňovaním
+        túto skutočnosť oznámiť obci a následne na vlastné náklady nahradiť novým RFID čipom,
+     h) zabezpečiť v súlade s harmonogramom vývoz zberných nádob na ZKO,
+     i) uskutočniť v súlade s harmonogramom zber vriec a vývoz zberných nádob na triedené zložky KO,
+        ktoré obsahujú určenú zložku KO,
+     j) neobslúžiť zbernú nádobu, pri ktorej je na prvý pohľad zrejme, že je v nej uložený odpad v rozpore
+        s týmto nariadením,
+     k) mesačne zaslať výkaz/report z elektronickej evidencie odpadov skutočné výsypy zberných nádob na
+        ZKO podľa poplatníkov a zberných nádob a vážne lístky zo skládky odpadov o množstve odpadov,
+        s ktorými nakladá počas tohto obdobia,
+     l) mesačne zaslať výkaz k zberu vytriedených zložiek komunálneho odpadu.
+2. Zberová spoločnosť je oprávnená odmietnuť vyprázdnenie zbernej nádoby na ZKO, zber vriec
+   s vytriedenou zložkou KO v prípade, že:
+     a) obsahuje iný druh odpadu alebo triedenú zložku KO než na čo je určená,
+     b) obsahuje druh odpadu, ktorý je zakázané zneškodňovať,
+     c) je preťažená alebo preplnená (nádoba nie je uzatvorená vekom).
+3. Zberová spoločnosť oprávnená na nakladanie s odpadom s ktorou má obec uzatvorenú zmluvu je
+   povinná zabezpečiť vývoz objemného odpadu, drobného stavebného odpadu, biologicky rozložiteľného
+   odpadu v rozsahu a za podmienok uvedených v zmluve.
+
+                               III. ČASŤ
+        SYSTÉM NAKLADANIA S KOMUNÝLNYM ODPADOM NA ÚZEMÍ OBCE
+
+                                             Článok 7
+                                Nakladanie s komunálnym odpadom
+1.    Za nakladanie s komunálnym odpadom zodpovedá:
+      a) obec, ak ide o
+         1. zmesový odpad a oddelene vyzbieraný odpad z domácností,
+         2. zmesový odpad z iných zdrojov,
+         3. drobný stavebný odpad.
+2.    Komunálny odpad vznikajúci pri pobyte osôb na verejných priestranstvách a verejne prístupných
+      miestach obce je zbieraný uličnými zbernými nádobami s intervalom zberu minimálne 3x týždenné.
+3.    Do uličných zberných nádob nepatrí iný odpad ako komunálny odpad, ktorý vzniká pri pobyte osôb
+      na verejných priestranstvách a verejne prístupných miestach.
+4.    Zber a prepravu komunálneho odpadu a jeho zložiek vrátane výkupu a mobilného zberu a výkupu
+      s výnimkou biologicky rozložiteľného kuchynského a reštauračného odpadu od prevádzkovateľa
+      kuchyne možno vykonávať na území obce len na základe zmluvy s obcou na vykonávanie tejto
+      činnosti, okrem distribútorov vykonávajúcich spätný zber elektroodpadov, použitých batérií
+      a odpadových pneumatík a subjekty vykonávajúce zber použitých prenosných batérií a akumulátorov
+      prostredníctvom zberných miest.
+5.    Obec prostredníctvom svojho webového sídla zverejňuje popis celého systému nakladania
+      s komunálnymi odpadmi vrátane triedeného zberu na území obce a harmonogram zberu pre príslušný
+      kalendárny rok.
+
+                                         Článok 8
+         Všeobecné pravidlá systému nakladania so zmesovým komunálnym odpadom
+                                                Strana 9 z 23
+1. Zmesový komunálny odpad sa zaraďuje pod číslo odpadu 20 03 01 v zmysle Katalógu odpadov.
+2. Obec zavádza na svojom území:
+    a) nevážený množstvový zber zmesového komunálneho odpadu pre kategóriu pôvodcov odpadu:
+       1. fyzické osoby (ďalej len „FO“) ktorí majú v obci trvalý pobyt alebo prechodný pobyt alebo
+          ktorí sú na území obce Ľubica oprávnení užívať alebo užívajú nehnuteľnosť na uliciach:
+          Bernolákova, Mayerova ulica, Grodkovského ulica, Kirchberg, Budovateľská, Gen. Svobodu,
+          Hlboká, Hraničná ulica, Chrenová ulica, Jánošíková, Jarná, Jesenského, Kruhová, 8.mája,
+          Mierová, Na vŕšku, Pod lesom, Podtatranská, Povstalecká, Remeselnícka, Slnečná, Svätej
+          Alžbety, Školská, Športová, Úzka, Vrbovská,
+       2. fyzické osoby - podnikateľov (ďalej len „FO-P“) - ktorí sú oprávnení užívať alebo užívajú
+          nehnuteľnosť nachádzajúcu sa na území obce Ľubica na účel podnikania,
+       3. právnické osoby (ďalej len „PO“), ktoré sú oprávnené užívať alebo užívajú nehnuteľnosť
+          nachádzajúcu sa na území obce Ľubica na iný účel ako na podnikanie .
+   b) paušálny zber zmesového komunálneho odpadu pre kategóriu pôvodcov odpadu:
+       1. fyzické osoby (ďalej len „FO-Ľ“) - ktorí majú v obci trvalý pobyt alebo prechodný pobyt alebo
+          ktorí sú na území obce Ľubica oprávnení užívať alebo užívajú nehnuteľnosť – Poľná, Nová
+          tehelňa, záhradkárske osady na území obce.
+3. Obec zaviedla na svojom území označovanie zberných nádob na zmesový komunálny odpad
+   elektronickým RFID čipom.
+4. Každý pôvodca/držiteľ zmesového komunálneho odpadu je povinný používať typ zbernej nádoby
+   zodpovedajúcej systému, ktorý vymedzuje toto nariadenie. Zbernú nádobu si pôvodca/držiteľ odpadu
+   môže zaobstarať prostredníctvom obce, ktorá prednostne poskytuje pre FO, FO-Ľ, PO a FO-P zbernú
+   nádobu s objemom 120 l a pre PO a FO-podnikateľ aj 1100 l zbernú nádobu.
+5. Každý pôvodca zmesového komunálneho odpadu je povinný zapojiť sa do systému jeho zberu
+   zavedeného obcou a realizovaného prostredníctvom zberovej spoločnosti na nakladanie s KO. Pri
+   systéme zberu je pôvodca KO povinný rešpektovať typy zberných nádob a pravidla zberu zmesového
+   KO v súlade v týmto nariadením.
+6. Náklady na zbernú nádobu na zmesový komunálny odpad znáša pôvodný pôvodca odpadu.
+7. Náklady na zbernú nádobu na zmesový komunálny odpad nie sú zahrnuté v miestnom poplatku za
+   komunálne odpady a drobné stavebné odpady, a preto obec stanovuje pre náklady na zberné nádoby na
+   zmesový komunálny odpad iný spôsob úhrady a to, že si poplatník uhradí obstarávaciu cenu zbernej
+   nádoby na zmesový komunálny odpad jednorazovo:
+   a) v hotovosti do pokladne na obecnom úrade,
+   b) bankovým prevodom na číslo účtu: SK08 5600 0000 0016 7106 2012.
+7. Zbernú nádobu na zmesový komunálny odpad si pôvodca/držiteľ odpadu môže zaobstarať aj iným
+   spôsobom, ale nádoba musí byť kompatibilná s aktuálne používanou zvozovou technikou a vybavená
+   priestorom na elektronický RFID čip pod hornou hranou nádoby.
+8. Výška úhrady zbernej nádoby sa rovná jej obstarávacej ceny. Cenník predaja zberných nádob je
+   v pokladni obecného úradu.
+9. Každý pôvodca odpadu je povinný používať na zber zmesového komunálneho odpadu len zbernú
+   nádobu s príslušným objemom, ktorá bola schválená týmto nariadením a označená novým
+   elektronickým RFID čipom z dôvodu automatizovanej elektronickej evidencie odpadov priamo na
+   zberovom vozidle. Zodpovedný zamestnanec obce prípadne poverený zamestnanec zberovej
+   spoločnosti inštaluje na zbernú nádobu nový elektronický RFID čip, ktorý sa umiestňuje v priestore na
+   čip pod hornou hranou zbernej nádoby.
+10. Zber zmesového komunálneho odpadu sa na území obce zabezpečuje plastovými zbernými nádobami
+   o objeme 120 litrov, 240 litrov a 1100 litrov označenými podľa odseku 9. tohto článku nariadenia.
+
+
+
+                                             Strana 10 z 23
+11. Zberná nádoba bez príslušného označenia podľa ods. 9 tohto článku nariadenia nepodlieha zberu
+    a preprave ZKO a odpad umiestnený v takejto zbernej nádobe nebude vyvezený do času jeho správneho
+    označenia.
+12. Obec je oprávnená kontrolovať jednotlivé objekty, prevádzky a nehnuteľnosti, či počet a objem
+    nahlásených zberných nádob zodpovedá počtu poplatníkov. V prípade, že bude zistený nesúlad s týmto
+    nariadením, obec má právomoc nariadiť pôvodcovi odpadu (poplatníkovi), aby bezodkladne vykonal
+    úpravu v počte, resp. vo veľkosti zberných nádob v súlade s týmto nariadením.
+13. Obec Ľubica má zavedený paušálny poplatok a nevážený množstvový zber zmesového komunálneho
+    odpadu. Pri paušálnom poplatku obec zabezpečí vývoz zmesového komunálneho odpadu len z jedného
+    zberného miesta, prednostne z miesta adresy trvalého pobytu, alebo vopred určeného zberného miesta.
+    V prípade, že má zavedený nevážený množstvový zber bude mu zaevidovaná zberná nádoba na
+    zmesový komunálny odpad podľa adresy trvalého pobytu, prechodného pobytu alebo užívania
+    nehnuteľnosti. Tým sa stáva poplatníkom na každej adrese.
+14. Zber a prepravu zmesového komunálneho odpadu zabezpečuje na území obce zberová spoločnosť,
+    ktorá je oprávnená nakladať s odpadmi a s ktorou má obec uzatvorenú zmluvu na vykonávanie tejto
+    činnosti.
+15. Zamestnanci zberovej spoločnosti vyprázdnia len zberné nádoby na zmesový komunálny odpad
+    označené novým elektronickým RFID čipom.
+16. Každý vývoz zbernej nádoby bude automatický zaznamenaný priamo na zberovom vozidle a údaje
+    o výsype sa zaevidujú v elektronickom systéme odpadov. Vhodné vyložiť vždy len plnú zbernú nádobu
+    na ZKO.
+17. Zberná nádoba neoznačená elektronickým RFID čipom nebude obslúžená zberovou spoločnosťou do
+    času jej označenia. Označenie zbernej nádoby RFID čipom je podmienené prihlásením sa pôvodcu
+    odpadu do systému zberu komunálnych odpadov na obecnom úrade.
+18. Zakazuje sa preťažovať zbernú nádobu na zmesový komunálny odpad.
+19. Zakazuje sa ukladať zmesový komunálny odpad vedľa zberných nádob.
+20. Do zberných nádob na zmesový komunálny odpad je zakázané ukladať: akékoľvek stavebné odpady
+   a podobné odpady (zemina, kamene, drevo), triedené zložky komunálnych odpadov (papier, plasty,
+   kovy, sklo, VKM/tetrapaky, textil), nebezpečné odpady, elektroodpady vrátane žiariviek, odpady
+   z domácností s obsahom nebezpečných látok, horúci popol, biologicky rozložiteľný odpad, biologicky
+   rozložiteľný kuchynsky odpad, tekuté odpady a pod..
+21. Obec zneškodňuje zmesový komunálny odpad na riadenej skládke odpadov s ktorou má uzatvorenú
+    zmluvu.
+22. Každý pôvodca zmesového komunálneho odpadu uvedený v ods. 2 písm. a) článku 8 tohto nariadenia
+    (fyzická osoba, fyzická osoba – podnikateľ a právnická osoba, ktorá má na územ

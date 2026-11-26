@@ -1,0 +1,138 @@
+URL: https://novapolhora.sk/wp-content/uploads/dokumenty/rozpocty/pr-2027-2029-tabulkova-cast_navrh_prijmova-cast-3bp99j.pdf
+OBEC: Nová Polhora (Košice)
+NÁZOV: Stiahnuť súbor PR 2027-2029 – tabuľková časť_NÁVRH_príjmová časť Veľkosť a typ súboru 199 KB / PDF
+ZDROJ: web obce
+
+                                                       PROGRAMOVÝ ROZPOČET OBCE NOVÁ POLHORA NA ROKY 2027 - 2029, PRÍJMY - NÁVRH
+
+                                             Bežné príjmy                                                                                   schválený         očakávaná
+                                                                                                    skutočné plnenie    skutočné plnenie                                       Návrh PR        Návrh PR        Návrh PR
+                                                                                                                                             rozpočet         skutočnosť
+                                                                                                     za rok 2024 v €     za rok 2025 v €                                       2027 v €        2028 v €        2029 v €
+HK         KZ   Popis                                                                                                                        2026 v €       za rok 2026 v €
+
+100             Daňové príjmy                                                                           267 971,82          222 111,06       253 890,00        250 892,00      274 210,00      282 210,00      291 210,00
+                110     Dane z príjmov a kapitálového majetku                                              205 418,26          155 929,53      171 100,00         174 482,00      191 000,00      199 000,00      208 000,00
+                        111     Daň z príjmov fyzickej osoby                                               205 418,26          155 929,53      171 100,00         174 482,00      191 000,00      199 000,00      208 000,00
+      41                        111003    Podielové dane                                                   205 418,26          155 929,53      171 100,00         174 482,00      191 000,00      199 000,00      208 000,00
+                120     Dane z majetku                                                                      43 600,22           43 680,56       58 960,00          52 610,00       52 610,00       52 610,00       52 610,00
+                        121     Daň z nehnuteľností                                                         43 600,22           43 680,56       58 960,00          52 610,00       52 610,00       52 610,00       52 610,00
+      41                        121001 Z pozemkov                                                           20 899,74           20 891,83       21 100,00          22 100,00       22 100,00       22 100,00       22 100,00
+      41                        121002 Zo stavieb                                                           22 491,08           22 579,33       37 650,00          30 300,00       30 300,00       30 300,00       30 300,00
+      41                        121003 Z bytov a nebytových priestorov                                         209,40              209,40          210,00             210,00          210,00          210,00          210,00
+                130     Dane za tovary a služby                                                             18 953,34           22 500,97       23 830,00          23 800,00       30 600,00       30 600,00       30 600,00
+                        133     Dane za špecifické služby                                                   18 953,34           22 500,97       23 830,00          23 800,00       30 600,00       30 600,00       30 600,00
+      41                        133001 Za psa                                                                  633,09              574,00          630,00             600,00          600,00          600,00          600,00
+      41                        133013 Za komunálne odpady a drobné stavebné odpady                         18 320,25           21 926,97       23 200,00          23 200,00       30 000,00       30 000,00       30 000,00
+200             Nedaňové príjmy                                                                          86 189,18           97 885,62        93 256,00        133 686,03      123 104,00      123 104,00      123 104,00
+                210     Príjmy z podnikania a z vlastníctva majetku                                         50 554,50           49 059,09       46 926,00          49 226,00       50 929,00       50 929,00       50 929,00
+                        212      Príjmy z vlastníctva                                                       50 554,50           49 059,09       46 926,00          49 226,00       50 929,00       50 929,00       50 929,00
+      41                        212002 Prenájom pozemkov                                                     3 901,00            4 415,05        4 200,00           5 300,00        7 400,00        7 400,00        7 400,00
+      41                        212002 Prenájom hrobového miesta                                             1 266,00               24,00          300,00             300,00          300,00          300,00          300,00
+      41                        212003 Prenájom KD, komunitná miestnosť                                      1 608,40            1 420,00        2 000,00           2 000,00        2 000,00        2 000,00        2 000,00
+      41                        212003 Prenájom 6 b.j.                                                      10 211,04           10 065,49       10 212,00          10 212,00       10 215,00       10 215,00       10 215,00
+      41                        212003 Prenájom ostatných nebytových priestorov                             11 353,00           10 860,00        8 000,00           9 200,00        8 800,00        8 800,00        8 800,00
+      41                        212003 Prenájom 12 b.j.                                                     22 215,06           22 274,55       22 214,00          22 214,00       22 214,00       22 214,00       22 214,00
+                220     Administratívne poplatky a iné poplatky a platby                                    17 975,19           26 673,80       27 280,00          53 275,03       53 230,00       53 230,00       53 230,00
+                        221     Administratívne poplatky                                                     8 046,50           19 584,20       16 680,00          41 030,03       41 030,00       41 030,00       41 030,00
+      41                        221002 Správne poplatky - stavebná činnosť                                   7 265,00           17 640,00       15 000,00          39 500,03       39 500,00       39 500,00       39 500,00
+      41                        221002 Správne poplatky - overovanie                                           546,00              492,00          600,00             700,00          700,00          700,00          700,00
+      41                        221002 Správne poplatky - potvrdenia, ostatné povolenia                        172,50              798,00          400,00             550,00          550,00          550,00          550,00
+      41                        221002 Správne poplatky - rybársky lístok                                       63,00               75,00           80,00              80,00           80,00           80,00           80,00
+      41                        221004 Ostatné poplatky                                                          0,00              579,20          600,00             200,00          200,00          200,00          200,00
+                        222     Pokuty, penále a iné sankcie                                                 2 000,00                0,00            0,00               0,00            0,00            0,00            0,00
+      41                        222003 Pokuty, penále a iné sankcie (za porušenie predpisov)                 2 000,00                0,00            0,00               0,00            0,00            0,00            0,00
+                        223     Poplatky a platby z nepriemyselného a náhodného predaja a služieb            7 928,69            7 089,60       10 600,00          12 245,00       12 200,00       12 200,00       12 200,00
+      41                         223001 Predaj výrobkov, tovarov a služieb                                       0,00                0,00            0,00             115,00            0,00            0,00            0,00
+      41                         223001 KUKA nádoby a vrecia                                                   801,54               37,20          300,00             800,00          800,00          800,00          800,00
+      41                         223001 Vyhlásenie v MR                                                        315,00              305,00          400,00             500,00          500,00          500,00          500,00
+      41                         223001 Režijné náklady ŠJ                                                     795,00              745,00          900,00             900,00          900,00          900,00          900,00
+      41                         223002 Školné MŠ                                                            2 020,00            1 900,00        2 000,00           2 930,00        3 000,00        3 000,00        3 000,00
+      41                         223003 Za stravné - zamestnanci, zo SF                                        441,00                0,00            0,00               0,00            0,00            0,00            0,00
+      72f                        223003 Za stravné ŠJ                                                        3 556,15            4 102,40        7 000,00           7 000,00        7 000,00        7 000,00        7 000,00
+                240     Úroky z tuzemských úverov, pôžičiek, návratných výpomocí, vkladov a ážio                 0,00            1 944,96        1 950,00           2 345,00        2 345,00        2 345,00        2 345,00
+                        246      Ostatné platby                                                                  0,00            1 944,96        1 950,00           2 345,00        2 345,00        2 345,00        2 345,00
+      41                        246000 Dividendy - VVS                                                           0,00            1 944,96        1 950,00           2 345,00        2 345,00        2 345,00        2 345,00
+                290     Iné nedaňové príjmy                                                                 17 659,49           20 207,77       17 100,00          28 840,00       16 600,00       16 600,00       16 600,00
+                        292     Ostatné príjmy                                                              17 659,49           20 207,77       17 100,00          28 840,00       16 600,00       16 600,00       16 600,00
+      41                        292012    Preplatky energií                                                  4 254,11            4 614,48            0,00           1 070,00            0,00            0,00            0,00
+      41                        292017    Vratky - ostatné (z poistného a iné)                                 700,90                0,00            0,00              50,00            0,00            0,00            0,00
+      41                        292019    Prídel zo SF                                                         550,00                0,00            0,00               0,00            0,00            0,00            0,00
+      41                        292019    Príjmy z refundácie                                                4 164,38            6 148,09        6 000,00          16 120,00        5 000,00        5 000,00        5 000,00
+      41                        292019    Dodávka pitnej vody - 6 b.j.                                         691,46              780,94        1 000,00           1 000,00        1 000,00        1 000,00        1 000,00
+      41                        292019    Odvoz fekálií - 6 b.j.                                             2 314,00            2 359,50        3 000,00           3 000,00        3 000,00        3 000,00        3 000,00
+      41                        292019    Dodávka pitnej vody - 12 b.j.                                      2 214,28            2 400,30        3 000,00           3 000,00        3 000,00        3 000,00        3 000,00
+      41                        292019    Dodávka elektrickej energie - 12 b.j.                              1 201,65            1 263,96        1 500,00           2 000,00        2 000,00        2 000,00        2 000,00
+      41                        292019    Prevádzka ČOV - 12 b.j.                                            1 426,58            2 640,50        2 600,00           2 600,00        2 600,00        2 600,00        2 600,00
+      41                        292027    RZZP - preplatok                                                     142,13                0,00            0,00               0,00            0,00            0,00            0,00
+300             Granty a transfery                                                                       21 860,43           94 484,15        96 125,00        132 073,99      100 057,00      100 057,00      100 057,00
+                310     Tuzemské granty a transfery                                                         21 860,43           94 484,15       96 125,00         132 073,99      100 057,00      100 057,00      100 057,00
+                        311    Granty                                                                          500,00            1 000,00            0,00           1 000,00            0,00            0,00            0,00
+      46, 72c                   311000 Tuzemské bežné granty                                                   500,00            1 000,00            0,00           1 000,00            0,00            0,00            0,00
+                        312     Transfery v rámci verejnej správy                                           21 360,43           93 484,15       96 125,00         131 073,99      100 057,00      100 057,00      100 057,00
+      111                       312001    ÚPSVaR - HN                                                        4 947,00            3 893,00        5 200,00           6 360,00        6 360,00        6 360,00        6 360,00
+      111                       312001    ÚPSVaR - rodinné prídavky                                          1 440,00              995,00        1 440,00           1 440,00        1 440,00        1 440,00        1 440,00
+      111                        312001    ÚPSVaR - MŠ - strava, pomôcky                              1 659,00            1 859,20        1 000,00              1 000,00        1 000,00          1 000,00          1 000,00
+      111                        312001    MFSR - dotácia - výjazdové rokovanie vlády                     0,00                0,00            0,00              8 000,00            0,00              0,00              0,00
+      111                        312001    MFSR - výpadok PD 2024                                     3 868,00                0,00            0,00                  0,00            0,00              0,00              0,00
+      111                        312001    MFSR - odmeny originálne kompetencie                           0,00            2 179,00            0,00                  0,00            0,00              0,00              0,00
+      45                         312002    Transfer z EF - Revitalizácia obecného parku                   0,00                0,00            0,00             20 050,00            0,00              0,00              0,00
+      45                         312002    Transfer z EF - recyklačný fond                              363,20              368,08          400,00                430,00          500,00            500,00            500,00
+      45                         312002    Transfer z FPU - interiérové vybavenie KD                      0,00            2 000,00            0,00                  0,00            0,00              0,00              0,00
+      11H                        312008    KSK - dotácia - osadenie lavičiek                              0,00                0,00            0,00              2 000,00            0,00              0,00              0,00
+      111                        312012    Regob, register adries                                       198,59              203,44          210,00                212,00          220,00            220,00            220,00
+      111                        312012    OÚ KE - okolie - odbor školstva                            4 759,00                0,00            0,00                  0,00            0,00              0,00              0,00
+      111                        312012    Financovanie MŠ - prostriedky ŠR                               0,00           81 121,00       86 975,00             88 537,00       88 537,00         88 537,00         88 537,00
+      111                        312012    Transfer zo ŠR - prenesený výkon štátnej správy               63,29                0,00            0,00                  0,00            0,00              0,00              0,00
+      111                        312012    Dotácia na prenesený výkon - Úrad pre ÚPaV SR                  0,00              865,43          900,00                  0,00            0,00              0,00              0,00
+      111                        312012    Voľby a referendá                                          4 062,35                0,00            0,00              3 044,99        2 000,00          2 000,00          2 000,00
+                                           Bežné príjmy spolu                                    376 021,43          414 480,83       443 271,00           516 652,02      497 371,00        505 371,00        514 371,00
+
+
+                                            Kapitálové príjmy                                                                        schválený            očakávaná
+                                                                                             skutočné plnenie    skutočné plnenie                                          Návrh PR          Návrh PR          Návrh PR
+                                                                                                                                      rozpočet            skutočnosť
+                                                                                              za rok 2024 v €     za rok 2025 v €                                          2027 v €          2028 v €          2029 v €
+HK         KZ   Popis                                                                                                                 2026 v €          za rok 2026 v €
+
+200             Nedaňové príjmy                                                                          0,00         15 240,00              0,00                  0,00            0,00              0,00              0,00
+                230      Kapitálové príjmy                                                                0,00           15 240,00               0,00               0,00              0,00              0,00              0,00
+                         233     Príjem z predaja pozemkov a nehmotných aktív                             0,00           15 240,00               0,00               0,00              0,00              0,00              0,00
+      41                         233001    Z predaja pozemkov                                             0,00           15 240,00               0,00               0,00              0,00              0,00              0,00
+300             Granty a transfery                                                                16 747,50                  0,00            0,00                  0,00            0,00              0,00              0,00
+                320      Tuzemské kapitálové granty a transfery                                      16 747,50                0,00               0,00               0,00              0,00              0,00              0,00
+                         325    Transfery od subjektov nezaradených do verejnej správy               16 747,50                0,00               0,00               0,00              0,00              0,00              0,00
+      72c                        325000    KT od subjeku mimo VS                                     16 747,50                0,00               0,00               0,00              0,00              0,00              0,00
+                                        Kapitálové príjmy spolu                                   16 747,50           15 240,00              0,00                  0,00            0,00              0,00              0,00
+
+
+                                    Finančné operácie - príjmové                                                                     schválený            očakávaná
+                                                                                             skutočné plnenie    skutočné plnenie                                          Návrh PR          Návrh PR          Návrh PR
+                                                                                                                                      rozpočet            skutočnosť
+                                                                                              za rok 2024 v €     za rok 2025 v €                                          2027 v €          2028 v €          2029 v €
+HK         KZ   Popis                                                                                                                 2026 v €          za rok 2026 v €
+
+400             Príjmy z transakcií s finančnými aktívami a finančnými pasívami                   56 958,09           16 719,72        31 000,00             35 222,97       41 050,00         11 000,00         11 000,00
+                430      Z predaja majetkových účastí                                                39 016,64                0,00            0,00                  0,00            0,00              0,00              0,00
+                         431     Nefinančnej právnickej osobe                                        39 016,64                0,00            0,00                  0,00            0,00              0,00              0,00
+      43                         431000 Nefinančnej právnickej osobe                                 39 016,64                0,00            0,00                  0,00            0,00              0,00              0,00
+                450      Z ostatných finančných operácií                                             17 941,45           16 719,72       31 000,00             35 222,97       41 050,00         11 000,00         11 000,00
+                         453     Prostriedky z predchádzajúcich rokov                                13 599,41           16 719,72       11 000,00             15 222,97       31 050,00         11 000,00         11 000,00
+      131L, 131O, 131N, 131P     453000 ÚPSVaR - strava MŠ                                              403,20              516,60            0,00                690,20            0,00              0,00              0,00
+      45                         453000 Prostriedky EF - Revitalizácia obecného parku                     0,00                0,00            0,00                  0,00       20 050,00              0,00              0,00
+      41                         453000 Prostriedky z predchádzajúceho obdobia - OcÚ                 11 637,03            9 355,64            0,00              3 405,86            0,00              0,00              0,00
+      46                         453000 FoÚ - Nájomné byty - prostriedky PO                           1 334,90            6 836,56       11 000,00             11 000,00       11 000,00         11 000,00         11 000,00
+      72f                        453000 Školská jedáleň - prostriedky PO                                224,28               10,92            0,00                126,91            0,00              0,00              0,00
+                         454     Prevod prostriedkov z peňažných fondov                               2 696,00                0,00       20 000,00             20 000,00       10 000,00              0,00              0,00
+      46                         454001 Prevod prostriedkov z RF obce                                 2 696,00                0,00       20 000,00             20 000,00       10 000,00              0,00              0,00
+                         456     Iné príjmové finančné operácie                                       1 646,04                0,00            0,00                  0,00            0,00              0,00              0,00
+      71                         456002    Finančné zábezpeky - obecné nájomné byty                     823,02                0,00            0,00                  0,00            0,00              0,00              0,00
+      71                         456002    Finančné zábezpeky - obecné nájomné byty - PO                823,02                0,00            0,00                  0,00            0,00              0,00              0,00
+500             Prijaté úvery, požičky a návratné finančné výpomoci                                      0,00                0,00            0,00                  0,00            0,00              0,00              0,00
+                510      Tuzemské úvery, pôžičky a návratné finančné výpmoci                              0,00                0,00               0,00               0,00              0,00              0,00              0,00
+      52                 513    Bankové úvery                                                             0,00                0,00               0,00               0,00              0,00              0,00              0,00
+      52                         513002    Bankové úvery dlhodobé                                         0,00                0,00               0,00               0,00              0,00              0,00              0,00
+                                 Finančné operácie - príjmové spolu                               56 958,09           16 719,72        31 000,00             35 222,97       41 050,00         11 000,00         11 000,00
+
+                                               Príjmy spolu                                      449 727,02          446 440,55       474 271,00           551 874,99      538 421,00        516 371,00        525 371,00
+

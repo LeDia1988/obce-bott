@@ -1,0 +1,294 @@
+URL: https://www.sambron.sk/modules/file_storage/download.php?file=b03c77cf%7C57&inline=1
+OBEC: Šambron (Stará Ľubovňa)
+NÁZOV: Rozpočet obce na roky 2027-2029 - návrh
+ZDROJ: web obce
+
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                       Strana 1
+Obecný úrad
+Príjmy
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                         Čerpanie 2024   Čerpanie 2025    Schválený     Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+1                                              1-bežný rozpočet
+                            111003     111     Výnos dane z príjmov poukázaný územnej          118 788.57      120 378.14    122 500.00   125 500.00   136 160.00   136 160.00 136 160.00
+                                               samospráve
+                            121001     41      Z pozemkov                                        6 131.55        6 818.10      6 700.00     6 850.00     6 850.00     6 850.00    6 850.00
+                            121002     41      Zo stavieb                                        5 569.40        4 881.92      6 300.00     6 700.00     6 715.00     6 715.00    6 715.00
+                            121003     41      Z bytov a nebytových priestorov v                    33.60           67.40         80.00       100.00       100.00       100.00      100.00
+                                               bytovom dome
+                            133001     41      Za psa                                              178.50          192.50        230.00       190.00       185.00       185.00      185.00
+                            133013     41      Za komunálne odpady a drobné stavebné             9 114.00       10 266.50     11 500.00    11 000.00    12 100.00    12 100.00   12 100.00
+                                               odpady
+                            211003     41      Dividendy                                             0.00          195.20        200.00       300.00       300.00       300.00      300.00
+                            212002     41      Z prenajatých pozemkov                              317.55          351.20        300.00       450.00       450.00       450.00      450.00
+                            212003     41      Z prenajatých budov, priestorov a objektov        1 590.00          450.00        150.00       150.00       150.00       150.00      150.00
+                            221002     41      Správne poplatky                                    266.00           64.00        600.00     1 000.00       600.00       600.00      600.00
+                            223001     41      Za predaj výrobkov, tovarov a služieb               299.00        1 396.08        750.00       750.00       250.00       250.00      250.00
+                            223001     41      Za predaj výrobkov, tovarov a služieb                 0.00            0.00        300.00       300.00       200.00       200.00      200.00
+                            292006     72e     Z náhrad z poistného plnenia                          0.00          602.05          0.00         0.00         0.00         0.00        0.00
+                            292012     41      Z dobropisov                                      3 065.05          403.24      1 500.00       500.00       500.00       500.00      500.00
+                            292017     41      Z vratiek                                           779.76          213.82          0.00       130.00         0.00         0.00        0.00
+                            292027     41      Iné                                                   0.35          960.53        200.00       200.00       200.00       200.00      200.00
+                            312001     111     Zo štátneho rozpočtu okrem transferu na           9 314.13       60 797.14      6 000.00     6 000.00     4 500.00     4 500.00    4 500.00
+                                               úhradu nák
+                            312002     111     Zo štátneho účelového fondu -                         0.00            0.00          0.00      385.00       400.00       400.00       400.00
+                                               Envirom.fond
+                            312008     111     Z rozpočtu vyššieho územného celku                1 000.00        1 000.00          0.00         0.00         0.00         0.00         0.00
+                            312008     111     Z rozpočtu vyššieho územ.celku/Dožinky,               0.00            0.00      1 000.00     1 100.00     1 000.00         0.00         0.00
+                                               Šport.deň/
+                            312011     11H     Od ostatných subjektov verejnej správy                0.00            0.00          0.00     1 000.00         0.00         0.00         0.00
+                            315        72c     Transfery od subjektov nezaradených vo            3 000.00        3 000.00          0.00         0.00         0.00         0.00         0.00
+                                               verejnej sp
+                            315        72c     Transfery od subj. nez. vo VS - DHZ                   0.00            0.00      3 000.00     3 000.00     3 000.00         0.00       0.00
+*1                                             1-bežný rozpočet                                159 447.46      212 037.82    161 310.00   165 605.00   173 660.00   169 660.00 169 660.00
+2                                              2-kapitálový rozpočet
+                            233001     41      Z predaja pozemkov                                    0.00          810.00          0.00     8 100.00     1 000.00         0.00         0.00
+                            321        111     Granty - Urad vlády /drevený pristr.pri MŠ/      15 590.00       36 524.78          0.00         0.00         0.00         0.00         0.00
+                            321        111     Granty - Rezerva predsedu vlády - interiér            0.00            0.00          0.00         0.00    40 000.00         0.00         0.00
+                                               školy
+
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                                   31-264201612
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                    Strana 2
+Obecný úrad
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                       Čerpanie 2024   Čerpanie 2025    Schválený     Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+                            321        111     Granty - MF SR - interiér školy + pódium            0.00            0.00          0.00         0.00    15 000.00        0.00         0.00
+                            321        111     Granty - MIRRI - pojazdné pódium                    0.00            0.00     30 000.00    30 000.00         0.00        0.00         0.00
+                            321        1AG1    Granty                                              0.00        7 274.35          0.00         0.00         0.00        0.00         0.00
+                            322002     111     Zo štátneho účelového fondu                         0.00            0.00    112 600.00   112 600.00         0.00        0.00         0.00
+*2                                             2-kapitálový rozpočet                          15 590.00       44 609.13    142 600.00   150 700.00    56 000.00        0.00         0.00
+3                                              3-finančné operácie
+                            453        131O    Prostriedky z predch.rokov /Drev.prístr.-           0.00       10 000.00          0.00         0.00         0.00        0.00         0.00
+                                               Úrad vlá
+                            453        131P    Prostriedky z predchádzajúcich rokov                0.00            0.00      9 100.00     9 100.00         0.00        0.00         0.00
+                            454001     41      Z rezervného fondu obce a z rezervného         10 000.00       17 300.00     20 000.00    21 990.00         0.00        0.00         0.00
+                                               fondu vyšši
+                            514002     52      Dlhodobý úver - SLSP - financovanie                 0.00            0.00          0.00    85 000.00         0.00        0.00         0.00
+                                               rek.mosta
+*3                                             3-finančné operácie                            10 000.00       27 300.00     29 100.00   116 090.00         0.00        0.00         0.00
+                                               Spolu                                         185 037.46      283 946.95    333 010.00   432 395.00   229 660.00   169 660.00 169 660.00
+
+
+
+
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                                31-277201612
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                    Strana 3
+Obecný úrad
+Výdaje
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                         Čerpanie 2024   Čerpanie 2025   Schválený    Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+1                                              1-bežný rozpočet
+            01.1.1          611        111     Tarifný plat, osobný plat, - SOBD                     0.00        2 424.78         0.00        0.00         0.00        0.00        0.00
+            01.1.1          611        41      Tarifný plat, osobný plat, základný plat,        37 930.36       30 820.65     3 850.00    3 850.00     4 000.00    4 100.00    4 100.00
+                                               funkčný
+            01.1.1          611        41      Tarifný plat, osobný plat, základný plat,             0.00            0.00    41 130.00   40 630.00   40 000.00    41 000.00   41 000.00
+                                               funkčný
+            01.1.1          621        41      Poistné do Všeobecnej zdravotnej                  6 611.12        7 113.65         0.00        0.00         0.00        0.00         0.00
+                                               poisťovne
+            01.1.1          621        41      Poistné do Všeobecnej zdravotnej                      0.00            0.00     7 800.00    8 200.00     8 300.00    8 400.00    8 400.00
+                                               poisťovne
+            01.1.1          623        41      Poistné do ostatných zdravotných                    551.80          585.15      660.00      710.00       730.00       740.00      740.00
+                                               poisťovní
+            01.1.1          625001     41      Na nemocenské poistenie                           1 239.68        1 329.94       125.00      125.00       130.00      140.00      140.00
+            01.1.1          625001     41      Na nemocenské poistenie                               0.00            0.00     1 350.00    1 350.00     1 370.00    1 400.00    1 400.00
+            01.1.1          625002     41      Na starobné poistenie                             8 449.77        8 903.74       800.00      800.00       830.00      850.00      850.00
+            01.1.1          625002     41      Na starobné poistenie                                 0.00            0.00     8 900.00    9 100.00     9 200.00    9 300.00    9 300.00
+            01.1.1          625003     41      Na úrazové poistenie                                399.81          413.86        40.00       40.00        45.00       50.00       50.00
+            01.1.1          625003     41      Na úrazové poistenie                                  0.00            0.00       425.00      450.00       450.00      460.00      460.00
+            01.1.1          625004     41      Na invalidné poistenie                            2 814.64        2 967.62       280.00      280.00       300.00      320.00      320.00
+            01.1.1          625004     41      Na invalidné poistenie                                0.00            0.00     2 960.00    3 000.00     3 100.00    3 200.00    3 200.00
+            01.1.1          625005     41      Na poistenie v nezamestnanosti                      885.46          949.87        90.00       90.00       100.00      110.00      110.00
+            01.1.1          625005     41      Na poistenie v nezamestnanosti                        0.00            0.00       955.00      960.00     1 000.00    1 100.00    1 100.00
+            01.1.1          625007     41      Na poistenie do rezervného fondu solidarity       2 226.75        2 349.46       210.00      210.00       220.00      230.00      230.00
+            01.1.1          625007     41      Na poistenie do rezervného fondu solidarity           0.00            0.00     2 360.00    2 400.00     2 450.00    2 500.00    2 500.00
+            01.1.1          627        41      Príspevok do doplnkových dôchodkových             2 435.14        2 599.46     2 825.00    2 850.00     2 850.00    2 900.00    2 900.00
+                                               poisťovní
+            01.1.1          631001     41      Tuzemské                                             88.54          190.00       100.00      115.00       125.00      125.00      125.00
+            01.1.1          632001     41      Energie                                           5 458.13        3 690.77     5 000.00    4 800.00     5 000.00    5 200.00    5 200.00
+            01.1.1          632002     41      Vodné, stočné                                        11.57           33.27        60.00       50.00        50.00       60.00       60.00
+            01.1.1          632003     41      Poštové služby                                      160.08          197.79       225.00      235.00       260.00      300.00      300.00
+            01.1.1          632004     41      Komunikačná infraštruktúra                           21.55           31.71        50.00       50.00        50.00       50.00       50.00
+            01.1.1          632005     41      Telekomunikačné služby                              519.48          487.08       550.00      550.00       600.00      650.00      650.00
+            01.1.1          633001     41      Interiérové vybavenie                              -610.00          561.00       500.00      500.00       500.00      500.00      500.00
+            01.1.1          633003     41      Telekomunikačná technika                              0.00          198.41       110.00      110.00       100.00      100.00      100.00
+            01.1.1          633004     41      Prevádzkové stroje, prístroje, zariadenie,          812.11          143.10       300.00      500.00       600.00      600.00      600.00
+                                               technik
+            01.1.1          633006     111     Všeobecný materiál                                    0.00        7 867.20         0.00        0.00         0.00        0.00         0.00
+
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                                31-281201612
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                  Strana 4
+Obecný úrad
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                        Čerpanie 2024   Čerpanie 2025   Schválený   Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+            01.1.1          633006     41      Všeobecný materiál                               4 356.20        4 479.52     6 000.00   7 000.00     9 000.00   10 000.00   10 000.00
+            01.1.1          633009     41      Knihy, časopisy, noviny , učebnice, učebné          73.70          100.00       100.00     100.00       100.00      100.00      100.00
+                                               pomôcky
+            01.1.1          633010     41      Pracovné odevy, obuv a pracovné pomôcky             16.40            0.00         0.00    100.00        100.00      100.00      100.00
+            01.1.1          633016     41      Reprezentačné - obec.zastupiteľstvo              1 046.26        2 866.35       450.00    500.00        600.00      700.00      700.00
+            01.1.1          633016     41      Reprezentačné                                        0.00            0.00     1 000.00    900.00        750.00      800.00      800.00
+            01.1.1          633018     41      Licencie                                            50.40            0.00         0.00      0.00          0.00        0.00        0.00
+            01.1.1          634001     41      Palivo, mazivá, oleje, špeciálne kvapaliny         524.85          491.85       650.00    550.00        650.00      700.00      700.00
+            01.1.1          634002     41      Servis, údržba, opravy a výdavky s tým           2 130.85        1 339.85       750.00    750.00      1 500.00    1 500.00    1 500.00
+                                               spojené
+            01.1.1          634003     41      Poistenie                                          889.28        1 348.00      650.00      650.00       450.00      500.00      500.00
+            01.1.1          634005     41      Karty, známky, poplatky                              0.00          205.50      200.00      200.00         0.00        0.00        0.00
+            01.1.1          635004     41      Prevádzkových strojov, prístrojov,               1 012.46          834.48      700.00    1 000.00     1 000.00    1 000.00    1 000.00
+                                               zariadení, tech
+            01.1.1          635006     111     Budov, objektov alebo ich častí                      0.00       49 332.06        0.00       0.00         0.00         0.00        0.00
+            01.1.1          635006     41      Budov, objektov alebo ich častí                  2 266.40          236.16      350.00     350.00       500.00       500.00      500.00
+            01.1.1          635009     41      Softvéru                                            61.20           44.28       70.00      70.00        80.00        80.00       80.00
+            01.1.1          637001     41      Školenia, kurzy, semináre, porady,                 177.50           20.00      100.00     400.00       400.00       450.00      450.00
+                                               konferencie, sy
+            01.1.1          637004     41      Všeobecné služby                                13 516.52       15 008.28    12 000.00   9 100.00   11 400.00    12 400.00   12 400.00
+            01.1.1          637005     41      Špeciálne služby                                   655.09        1 669.40     1 000.00   2 000.00    2 000.00     2 250.00    2 250.00
+            01.1.1          637007     41      Cestovné náhrady                                     0.00          426.00         0.00       0.00        0.00         0.00        0.00
+            01.1.1          637014     41      Stravovanie                                      1 950.00        1 860.00     2 100.00   1 800.00        0.00         0.00        0.00
+            01.1.1          637015     41      Poistné                                            465.43           51.87       600.00     600.00      700.00       800.00      800.00
+            01.1.1          637016     41      Prídel do sociálneho fondu                         412.69          426.30       480.00     480.00       50.00        50.00       50.00
+            01.1.1          637017     41      Provízia /SL/                                       46.80           45.76        75.00      40.00        0.00         0.00        0.00
+            01.1.1          637026     41      Odmeny a príspevky - poslanci                    1 774.16        1 774.16     2 000.00   2 000.00    2 000.00     2 300.00    2 300.00
+            01.1.1          637027     41      Odmeny zamestnancov mimopracovného               3 672.20        2 460.72     3 000.00   2 500.00    3 000.00     3 000.00    3 000.00
+                                               pomeru
+            01.1.1          637031     41      Pokuty a penále                                      0.00          165.44        0.00       0.00         0.00         0.00        0.00
+            01.1.1          637032     41      Mylné platby                                       299.67          213.82        0.00      20.00         0.00         0.00        0.00
+            01.1.1          637040     41      Služby v oblasti                                   284.43          281.67      400.00     880.00       900.00       900.00      900.00
+                                               informačno-komunikačných technoló
+            01.1.1          641009     41      Obci okrem transferu na úhradu                       0.00            0.00         0.00    600.00       200.00       200.00      200.00
+                                               nakl.pren.výk. CZS
+            01.1.1          641012     41      Ostatným subjektom VS/spol.stav.úr.,             1 648.23        2 254.48         0.00      0.00          0.00        0.00         0.00
+                                               spol.úrad SS/
+            01.1.1          641013     41      Obci na úhradu nákl. pren výkonu štátnej            46.00           32.16       40.00      40.00        40.00        40.00        40.00
+                                               správy ŽP
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                              31-301201612
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                   Strana 5
+Obecný úrad
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                         Čerpanie 2024   Čerpanie 2025   Schválený   Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+            01.1.1          642006     41      Na členské príspevky                              1 651.10        1 001.22    1 200.00    1 200.00     1 200.00    1 200.00    1 200.00
+            01.1.1          642012     41      Na odstupné                                           0.00            0.00    5 000.00    5 000.00         0.00        0.00        0.00
+            01.1.1          642014     41      Jednotlivcovi - príspevok na stravovanie              0.00            0.00        0.00        0.00     1 300.00    1 300.00    1 300.00
+            01.1.1          651002     41      Banke a pobočke zahraničnej banky                     0.00            0.00        0.00    1 000.00         0.00        0.00        0.00
+            01.1.2          637005     41      Špeciálne služby - audit                            900.00            0.00      500.00      500.00       600.00      600.00      600.00
+            01.1.2          637012     41      Poplatky a odvody                                   438.94          454.75      500.00      500.00       765.00      780.00      780.00
+            01.6.0          621        111     Poistné do Všeobecnej zdravotnej                     31.02            0.00        0.00       20.00         0.00        0.00        0.00
+                                               poisťovne
+            01.6.0          625002     111     Na starobné poistenie                                39.48            0.00        0.00        5.00         0.00        0.00         0.00
+            01.6.0          625003     111     Na úrazové poistenie                                  2.24            0.00        0.00        5.00         0.00        0.00         0.00
+            01.6.0          625004     111     Na invalidné poistenie                                8.46            0.00        0.00        5.00         0.00        0.00         0.00
+            01.6.0          625007     111     Na poistenie do rezervného fondu solidarity          13.37            0.00        0.00       10.00         0.00        0.00         0.00
+            01.6.0          632001     111     Energie                                              57.89            0.00        0.00        0.00         0.00        0.00         0.00
+            01.6.0          632003     111     Poštové služby                                       27.00            0.00        0.00       30.00         0.00        0.00         0.00
+            01.6.0          632005     111     Telekomunikačné služby                               15.00            0.00        0.00       10.00         0.00        0.00         0.00
+            01.6.0          633006     111     Všeobecný materiál                                  285.86            0.00        0.00      400.00         0.00        0.00         0.00
+            01.6.0          633016     111     Reprezentačné                                       175.00            0.00        0.00      160.00         0.00        0.00         0.00
+            01.6.0          637007     111     Cestovné náhrady                                    591.60            0.00        0.00      250.00         0.00        0.00         0.00
+            01.6.0          637026     111     Odmeny a príspevky                                1 850.63            0.00        0.00    1 500.00         0.00        0.00         0.00
+            01.6.0          637027     111     Odmeny zamestnancov mimopracovného                1 042.08            0.00        0.00      200.00         0.00        0.00         0.00
+                                               pomeru
+            01.6.0          637037     111     Vratky                                              168.70            0.00        0.00       20.00         0.00        0.00        0.00
+            01.7.0          651002     41      Banke a pobočke zahraničnej banky                     0.00            0.00        0.00        0.00     3 125.00    2 865.00    2 585.00
+            03.2.0          632001     41      Energie                                             436.00          396.00      750.00      630.00       500.00      550.00      550.00
+            03.2.0          633006     41      Všeobecný materiál                                  160.00            0.00        0.00        0.00         0.00        0.00        0.00
+            03.2.0          633006     72c     Všeobecný materiál                                  541.40            0.00        0.00    2 620.00         0.00        0.00        0.00
+            03.2.0          633007     41      Špeciálny materiál                                    0.00          180.55      150.00      150.00       150.00      150.00      150.00
+            03.2.0          633007     72c     Špeciálny materiál                                2 122.42        2 820.00    2 500.00      200.00     2 500.00        0.00        0.00
+            03.2.0          637001     41      Školenia, kurzy, semináre, porady,                    0.00            0.00        0.00        0.00         0.00        0.00        0.00
+                                               konferencie, sy
+            03.2.0          637001     72c     Školenia, kurzy, semináre, porady,                  336.00          180.00      500.00     370.00       500.00         0.00         0.00
+                                               konferencie, sy
+            03.2.0          637037     72c     Vratky                                                0.18            0.00        0.00        0.00         0.00        0.00        0.00
+            03.2.0          641012     41      Ostatným subjektom verejnej správy - DHZ            869.47        1 196.55    1 500.00    1 500.00     3 000.00    3 000.00    3 000.00
+                                               Šambron
+            04.5.1          633006     41      Všeobecný materiál - údržba cest.komunik.           991.45        1 787.92    2 000.00    2 000.00     1 000.00    1 000.00    1 000.00
+            04.5.1          635006     41      Údržba ciest a chodníkov                              0.00        1 721.16    1 000.00    1 000.00       500.00      500.00      500.00
+            05.1.0          633006     41      Všeobecný materiál - smetné nádoby,                 874.50          246.13      500.00      500.00       500.00      500.00      500.00
+                                               vrecia
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                               31-313201612
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                    Strana 6
+Obecný úrad
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                         Čerpanie 2024   Čerpanie 2025   Schválený    Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+            05.1.0          637004     41      Všeobecné služby - vývoz odpadu                   8 788.89       11 157.40    12 000.00   10 000.00   10 850.00    10 850.00   10 850.00
+            05.1.0          637012     41      Poplatky a odvody - osob.popl.za odpad              605.51          765.42       750.00      750.00      750.00       770.00      770.00
+            05.4.0          633006     41      Všeobecný materiál - kosačka                         85.36           12.70       100.00      100.00      150.00       150.00      150.00
+            05.4.0          633015     41      Palivá ako zdroj energie - kosačka                  165.54          136.95       200.00      250.00      300.00       350.00      350.00
+            05.4.0          635004     41      Prevádzkových strojov, prístrojov,                   88.50            0.00         0.00      500.00      500.00       500.00      500.00
+                                               zariadení, tech
+            06.2.0          633006     41      Všeobecný materiál - skrášlenie obce                345.95          193.80         0.00      200.00         0.00        0.00        0.00
+            06.4.0          632001     41      Energie - verej.osvetlenie                        1 199.53          991.67     1 200.00    1 050.00     1 100.00    1 300.00    1 300.00
+            06.4.0          633006     41      Všeobecný materiál - VO                             932.52           25.18         0.00      350.00       400.00      400.00      400.00
+            06.4.0          635006     41      Budov, objektov alebo ich častí - VO              5 790.42        4 871.54     5 750.00    5 750.00     5 100.00    5 100.00    5 100.00
+            08.1.0          633006     41      Všeobecný materiál                                  670.10           78.60       150.00      100.00       150.00      150.00      150.00
+            08.1.0          633016     41      Reprezentačné                                       540.35          376.95       300.00      385.00       400.00      400.00      400.00
+            08.1.0          637002     111     Športový deň /PSK/                                    0.00        1 000.00     1 000.00    1 100.00     1 000.00        0.00        0.00
+            08.1.0          637002     41      Športové dni detí a mládeže                           0.00          301.30         0.00        0.00         0.00        0.00        0.00
+            08.1.0          637004     41      Všeobecné služby                                    257.00          239.00       200.00      270.00       200.00      200.00      200.00
+            08.2.0          633016     41      Reprezentačné                                     1 620.60        2 322.66     1 500.00    1 500.00     1 500.00    1 500.00    1 500.00
+            08.2.0          635006     41      Budov, objektov alebo ich častí                  10 299.13            0.00         0.00        0.00         0.00        0.00        0.00
+            08.2.0          637002     41      Ostatné kult.služby                                 300.00          350.00         0.00        0.00         0.00        0.00        0.00
+            08.2.0          637004     11H     Všeobecné služby                                      0.00            0.00         0.00    1 000.00         0.00        0.00        0.00
+            08.2.0          637004     41      Všeobecné služby - kult.podujatia                     0.00            0.00         0.00      520.00         0.00        0.00        0.00
+            08.2.0          641012     41      Ostatným subjektom VS - Um.súbor v                1 000.00          700.00         0.00        0.00     1 000.00    1 000.00    1 000.00
+                                               Šambrone
+            08.3.0          637004     41      Všeobecné služby                                  3 500.00            0.00        0.00        0.00         0.00         0.00        0.00
+            08.3.0          637012     41      Poplatky a odvody - obec.rozhlas                     63.60           73.31      100.00      100.00       100.00       100.00      100.00
+            08.4.0          632001     41      Energie - DS                                        504.00          400.00      600.00      420.00       420.00       450.00      450.00
+            08.4.0          632002     41      Vodné, stočné - DS                                    1.82            3.43        5.00       15.00        20.00        30.00       30.00
+            08.4.0          633004     41      Prevádzkové stroje, prístroje, zariadenie,        3 961.00            0.00        0.00        0.00         0.00         0.00        0.00
+                                               technik
+            08.4.0          633006     41      Všeobecný materiál - DS                               0.00           11.00       50.00       50.00        50.00        50.00       50.00
+            08.4.0          635004     41      Prevádzkových strojov, prístrojov,                  110.00            0.00      100.00      120.00       150.00       150.00      150.00
+                                               zariadení, tech
+            08.4.0          642007     41      Cirkvi, náboženskej spoločnosti a cirkevnej           0.00        2 400.00         0.00        0.00         0.00        0.00         0.00
+                                               charit
+            09.1.1.1        632001     41      Energie                                           1 840.30        1 006.58     1 300.00    2 400.00     2 600.00    2 800.00    2 800.00
+            09.1.1.1        632002     41      Vodné, stočné                                         0.00           61.35        60.00      110.00       120.00      130.00      130.00
+            09.1.1.1        633001     41      Interiérové vybavenie                                 0.00            0.00         0.00    2 700.00         0.00        0.00        0.00
+            09.1.1.1        641009     41      Obci okrem transferu na úhradu nákladov             270.00          330.00         0.00        0.00       300.00        0.00        0.00
+                                               prenesenéh
+            09.1.1.1        642002     41      Neziskovej organizácii - CVČ                         15.00           15.00      315.00      315.00          0.00        0.00         0.00
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                                31-326201612
+Obec Šambron                                   Finančný rozpočet 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                    Strana 7
+Obecný úrad
+
+Druh        Funč.kl.        Ekon.kl.   Zdroj   Názov                                      Čerpanie 2024   Čerpanie 2025    Schválený     Upravený   Návrh 2027   Návrh 2028 Návrh 2029
+            09.6.0.1        632001     41      Energie                                        1 454.74          972.89      1 300.00      200.00          0.00         0.00        0.00
+            09.6.0.1        632002     41      Vodné, stočné                                      0.00           61.33         60.00       25.00          0.00         0.00        0.00
+            10.2.0          641012     41      Ostatným subjektom verejnej správy -Zväz         908.20          808.67        500.00      500.00      1 000.00     1 000.00    1 000.00
+                                               dôchodcov
+            10.4.0          642026     111     Na dávku v hmotnej núdzi a príspevky k         2 160.00        2 381.00      3 300.00      200.00          0.00        0.00          0.00
+                                               dávke
+*1                                             1-bežný rozpočet                             168 490.56      203 858.63    161 310.00   165 350.00   161 580.00   162 580.00 162 300.00
+2                                              2-kapitálový rozpočet
+            01.1.1          714004     111     Nákladných vozidiel, ťahačov, prípojných           0.00            0.00    112 600.00   112 600.00         0.00        0.00          0.00
+                                               vozidiel,
+            01.1.1          714004     41      Nákladných vozidiel, ťahačov, prípojných           0.00            0.00      1 000.00     1 000.00         0.00        0.00          0.00
+                                               vozidiel,
+            01.1.1          716        41      Prípravná a projektová dokumentácia                0.00            0.00      2 000.00     2 000.00     5 000.00        0.00          0.00
+            01.1.1          717001     111     Realizácia nových stavieb - prenosné               0.00            0.00     30 000.00    30 000.00         0.00        0.00          0.00
+                                               pódium
+            01.1.1          717001     131O    Realizácia nových stavieb - prístrešok             0.00       10 000.00          0.00         0.00         0.00        0.00          0.00
+                                               /Úrad vlády
+            01.1.1          717001     41      Realizácia nových stavieb - prístrešok             0.00       14 699.96          0.00         0.00         0.00        0.00          0.00
+            01.1.1          717001     41      Realizácia nových stavieb                          0.00            0.00      2 000.00     2 000.00         0.00        0.00          0.00
+            01.1.1          717001     41      Realizácia nových stavieb                          0.00            0.00     10 000.00         0.00         0.00        0.00          0.00
+            01.1.1          717002     111     Rekonštrukcia a modernizácia - fasáda              0.00       25 000.00          0.00         0.00         0.00        0.00          0.00
+                                               OCU
+            01.1.1          717002     41      Rekonštrukcia a modernizácia -                     0.00       15 415.44          0.00         0.00         0.00        0.00          0.00
+                                               rekonšt.fasády OCU
+            04.4.3          717001     41      Realizácia nových stavieb - Altánok - VZ         900.00            0.00          0.00         0.00         0.00        0.00          0.00
+            04.5.1          717002     52      Rekonštrukcia a modernizácia                       0.00            0.00          0.00    85 000.00         0.00        0.00          0.00
+            06.4.0          717001     41      Realizácia nových stavieb - solar.sv.              0.00        4 347.26      5 000.00     5 000.00         0.00        0.00          0.00
+            08.4.0          717002     111     Rekonštrukcia a modernizácia                       0.00            0.00      9 100.00     9 100.00         0.00        0.00          0.00
+            08.4.0          717002     41      Rekonštrukcia a modernizácia                       0.00            0.00          0.00     5 120.00         0.00        0.00          0.00
+            09.1.1.1        717002     111     Rekonštrukcia a modernizácia                       0.00            0.00          0.00         0.00    55 000.00        0.00          0.00
+            09.1.1.1        717002     41      Rekonštrukcia a modernizácia - interiér            0.00            0.00          0.00    15 225.00     1 000.00        0.00          0.00
+                                               školy
+*2                                             2-kapitálový rozpočet                            900.00       69 462.66    171 700.00   267 045.00    61 000.00        0.00          0.00
+3                                              3-finančné operácie
+            01.7.0          821005     41      Z bankových úverov dlhodobých                      0.00            0.00          0.00         0.00     7 080.00     7 080.00    7 080.00
+*3                                             3-finančné operácie                                0.00            0.00          0.00         0.00     7 080.00     7 080.00    7 080.00
+                                               Spolu                                        169 390.56      273 321.29    333 010.00   432 395.00   229 660.00   169 660.00 169 380.00
+
+
+Vytlačené 24.11.2026 Kusnirova                                                                                                                                                31-339201612
+

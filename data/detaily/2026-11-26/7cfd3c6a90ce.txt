@@ -1,0 +1,375 @@
+URL: https://obec.dobraobec.sk/files/57/uradna_tabula/4a48d_OBEC_KALŠA_Navrh_rozpoctu_2027_2029_zverejnenie.pdf
+OBEC: Kalša (Košice)
+NÁZOV: 4a48d_OBEC_KALŠA_Navrh_rozpoctu_2027_2029_zverejnenie.pdf
+ZDROJ: web obce
+
+OBEC KALŠA | NÁVRH ROZPOČTU OBCE NA ROK 2027 A VÝHĽAD NA ROKY 2028 A 2029 (NA ZVEREJNENIE)
+Právny základ: § 9 ods. 2 zákona č. 583/2004 Z. z. | DÁTUM ZVEREJNENIA NA ÚRADNEJ TABULI A WEB-SÍDLE: 26.11.2026
+Dátum plánovaného OZ: 14.12.2026 | Lehota na uplatnenie pripomienok: do 14.12.2026 na OcÚ Kalša
+
+
+SÚHRNNÁ BILANCIA ROZPOČTU OBCE
+                                                                                                                                                                                Očakávaná
+                                                                                                                                                         Schválený rozpočet                       Návrh rozpočtu       Návrh rozpočtu       Návrh rozpočtu
+Kategória / Ukazovateľ rozpočtu                                                                                    Rok 2024           Rok 2025                              skutočnosť    Rok
+                                                                                                                                                             ROK 2026                                 2027                 2028                 2029
+                                                                                                                                                                                   2026
+1. BEŽNÝ ROZPOČET - PRÍJMY                                                                                               458 381            507 735                 507 525            560 395             594 876              597 585              615 185
+1. BEŽNÝ ROZPOČET - VÝDAVKY                                                                                              238 012            249 967                 272 338            283 325             304 293              313 563              325 943
+  BILANCIA BEŽNÉHO ROZPOČTU (Príjmy - Výdavky)                                                                           220 369            257 768                 235 187            277 070             290 583              284 022              289 242
+2. KAPITÁLOVÝ ROZPOČET - PRÍJMY                                                                                           40 415                    0                     0             27 006                     0                    0                    0
+2. KAPITÁLOVÝ ROZPOČET - VÝDAVKY                                                                                              3 064          35 982                  24 600             99 187               7 088                      0                    0
+  BILANCIA KAPITÁLOVÉHO ROZPOČTU (Príjmy - Výdavky)                                                                       37 351            -35 982                 -24 600             -72 181             -7 088                      0                    0
+3. FINANČNÉ OPERÁCIE - PRÍJMY                                                                                             18 533             39 655                  24 600             56 614                     0                    0                    0
+3. FINANČNÉ OPERÁCIE - VÝDAVKY                                                                                            22 032                 6 256               10 000                  0              10 000                7 220                3 143
+  BILANCIA FINANČNÝCH OPERÁCIÍ (Príjmy - Výdavky)                                                                         -3 499             33 399                  14 600             56 614             -10 000               -7 220               -3 143
+CELKOVÝ PREBYTOK / SCHODOK OBCE                                                                                          254 221            255 185                 225 187            261 503             273 495              276 802              286 099
+
+
+                                                                                                                                                         Schválený rozpočet     Očakávaná         Návrh rozpočtu       Návrh rozpočtu       Návrh rozpočtu
+   Zdroj          FNC             Ek.klas   Program    Stredisko   Názov položky                                   Rok 2024           Rok 2025
+                                                                                                                                                             ROK 2026       skutočnosť Rok 2026       2027                 2028                 2029
+
+1. BEŽNÝ ROZPOČET - PRÍJMY
+    111                           312001                   03      MF SR dotácia bežné výdaje                              5 582                  0                       0                  0                   0                    0                    0
+    111                           312001                  031      MF SR transfér odmeny na OK                                 0              5 249                       0                  0                   0                    0                    0
+    111                           312001                  035      MF SR dotácia z kapitoly ÚV -bežné výdavky                  0                  0                       0              1 000                   0                    0                    0
+    111                           312001                   1       Vojnové hroby                                             216                235                     245                263                   0                    0                    0
+    111                           312001                   2       HN - strava, škol. Potreby                              7 982              9 445                   9 500             12 026               9 800               10 000               10 100
+    111                           312001                   5       UPSVaR - PUPN dotácia                                     473                367                      38                250                 150                    0                    0
+    111                           312001                   9       Dotácia MH SR energošeky                                1 802                  0                       0                  0                   0                    0                    0
+    111                           312002                   62      Príspevok ENVIROFOND §7 ods.1b zák. 329/2018              611                  0                       0                  0                   0                    0                    0
+    111                           312012                           PRE ZŠ zo ŠR                                           62 952             57 082                  61 000             74 839              76 632               78 000               80 000
+    111                           312012                   02      MV SR - trasnfér REGOB, Register adries                   265                274                       0                271                   0                    0                    0
+    111                           312012                   1       ZO ŠR - pre OK školné                                   8 595            106 169                 102 000            120 916             140 340              144 000              148 000
+    111                           312012                   11      OU KE transfér voľby do EP                                897                  0                       0                  0                   0                    0                    0
+    111                           312012                   13      OU KE transfér voľby prezidenta                         1 637                  0                       0                  0                   0                    0                    0
+    111                           312012                   16      MV SR - dotácia referendum                                  0                  0                       0                972                   0                    0                    0
+    111                           312012                  182      Úrad pre územné plánovanie a výstavbu SR                    0              1 226                       0                  0                   0                    0                    0
+    111                           312012                   2       Evidencia obyvateľstva                                      0                  0                     280                280                   0                    0                    0
+    111                           312012                   22      MV SR dotácia voľby do samosprávy 2026                      0                  0                       0              1 594                   0                    0                    0
+    111                           312012                   51      RUŠS KE - odmeny z dotácie                                  0              6 990                       0                  0                   0                    0                    0
+    111                           312012                   52      RUSS KE - súčasti výchov. vzdel. procesu MŠ                 0              1 500                       0              1 600                   0                    0                    0
+    111                           312012                  521      RUSS KE - príspevok na špecifiká                            0                631                       0                  0                   0                    0                    0
+    111                           312012                  522      RUSS KE NFP pedagogický asistent                            0                  0                       0              3 292               4 938                    0                    0
+    111                           312012                   54      RUSS KE dotácia na edukač. publikácie zo ŠR               248                715                       0                330                   0                    0                    0
+    111                           312012                   55      RUSS KE - škola v prírode                                   0              1 950                       0                  0                   0                    0                    0
+    111                           312012                   57      ZŠ - odmeny so soc. znevýh. Prostredia                    150                150                       0                150                   0                    0                    0
+    111                       312012   58    RUSS KE vzdelávacie poukazy                                        384       506         0       582         0         0         0
+    111                       312012   61    Transfér ochrana ŽP MV SR                                           88        98         0       211         0         0         0
+   11UA                       312001   70    MV SR Transfér na ubytovanie odídencov                           3 430         0         0         0         0         0         0
+   3P01                       312012   59    Tuzemské bežné transfery v rámci VS zo ŠR na úhradu nákladov         0         0         0       300         0         0         0
+     41                       111003         Výnos z dane                                                   296 431   238 011   260 041   262 586   285 781   287 000   293 000
+     41                       121001         Daň z pozemkov                                                  12 643    12 016    13 000    13 000    13 500    14 000    14 300
+     41                       121002         Daň zo stavieb                                                   3 497     3 225     4 500     4 500     4 800     4 900     5 000
+     41                       121003         Daň z bytov                                                         24        12        35        35        35        35        35
+     41                       133001         Daň za psa                                                         737       637     1 000     1 000     1 000     1 000     1 000
+     41                       133013         Za TKO                                                          22 013    33 987    32 500    32 500    34 000    36 000    40 000
+     41                       133015   499   Poplatok za rozvoj                                                   0         0         0       700     3 000     3 000     3 500
+     41                       212002         Príjmy z prenajatých pozemkov                                      825       817     1 000     1 000     1 000     1 000     1 000
+     41                       212003         Nájomné za budovy a hrobové miesta                               2 563     7 237     7 000     7 000     3 500     2 700     2 700
+     41                       212004         Požičovňa riadu                                                    236       114       200       200       300       350       350
+     41                       221002         Správne poplatky                                                 2 309     3 575     3 000     3 000     4 500     2 800     3 000
+     41                       221004         Ostatné poplatky                                                     0         0     1 000     1 000       500       500       500
+     41                       222003         Pokuty, penále a iné sankcie za porušenie predpisov                  0       131        86       586       500     1 000     1 000
+     41                       223001         Za DS, satelit,rozhlas, ihrisko                                  3 830       520     1 000     1 000     1 000     1 200     1 300
+     41                        243           Úroky z banky                                                        0         0       100       100       100       100       100
+     41                       292006         Z poistného plnenia                                                190         0         0         0         0         0         0
+     41                       292012         Príjmy z dobropisov                                                942     1 827         0       312       500       500       500
+     41                       292019         Príjmy z refundácie                                             10 772     9 739    10 000    10 000     9 000     9 500     9 800
+     71                       292019   181   DPO SR - refundácie PHL                                             17         0         0         0         0         0         0
+     71                        311      18   DHZ - dotácia na činnosť                                         3 000     3 000         0     3 000         0         0         0
+    72a                        315           Finančný dar - turistická akcia                                    200       300         0         0         0         0         0
+    72c                        315     63    Ekofond SPP prijatý transfér                                     2 840         0         0         0         0         0         0
+SPOLU: 1. BEŽNÝ ROZPOČET - PRÍJMY                                                                           458 381   507 735   507 525   560 395   594 876   597 585   615 185
+1. BEŽNÝ ROZPOČET - VÝDAVKY
+    111         0111           611     03    Tarfný plat zo ŠR                                                5 582         0        0         0         0         0         0
+    111         0111           614           OcU - odmeny evidencia obyv.                                         0         0      195       195         0         0         0
+    111         0111           614      02   OcU - odmeny REGOB, RA                                             226       245        0       271         0         0         0
+    111         0111           614     031   OcÚ - odmeny MF SR                                                   0     2 400        0         0         0         0         0
+    111         0111           621     031   OcÚ - VZP odmeny MF SR                                               0       176        0         0         0         0         0
+    111         0111           623     031   OcÚ - ostatné ZP odmeny MF SR                                        0        88        0         0         0         0         0
+    111         0111          625001   031   OcÚ odmeny MF SR - NP                                                0        34        0         0         0         0         0
+    111         0111          625002   031   OcÚ odmeny MF SR - SP                                                0       336        0         0         0         0         0
+    111         0111          625003   031   OcÚ odmeny MF SR - ÚP                                                0        19        0         0         0         0         0
+    111         0111          625004   031   OcÚ odmeny MF SR - IP                                                0        72        0         0         0         0         0
+    111         0111          625005   031   OcÚ odmeny MF SR - PvN                                               0        24        0         0         0         0         0
+    111         0111          625007   031   OcÚ odmeny MF SR - RFS                                               0       114        0         0         0         0         0
+    111         0111          633006    02   Materiál - REGOB                                                    39        29       85        85         0         0         0
+    111         0111          641013   182   SU Budimír dotácia na úseku úz. plánovania                           0     1 226        0         0         0         0         0
+    111         0160           614      11   Voľby do EP organizačná príprava odmena                             80         0        0         0         0         0         0
+    111         0160           614      13   Voľby prezidenta organizačná príprava odmeny                       160         0        0         0         0         0         0
+    111         0160           614      16   Odmeny referendum                                                    0         0        0        80         0         0         0
+    111         0160           614      22   Odmeny Voľby do OSO a VÚC 2026                                       0         0        0        90         0         0         0
+    111         0160           621      11   Voľby EP VZP                                                         5         0        0         0         0         0         0
+    111         0160           621      13   Voľby prezidenta VZP                                                20         0        0         0         0         0         0
+    111         0160           621      16   Referendum VZP                                                       0         0        0        12         0         0         0
+    111         0160           621      22   Voľby do OSO a VÚC 2026 VZP                                          0         0        0        16         0         0         0
+    111         0160           623      11   Voľby do EP - poistné do ostatných ZP                                9         0        0         0         0         0         0
+111   0160   625001   11   Voľby EP NP                                              1   0   0     0   0   0   0
+111   0160   625001   13   Voľby prezidenta NP                                      2   0   0     0   0   0   0
+111   0160   625001   16   Referendum NP                                            0   0   0     1   0   0   0
+111   0160   625001   22   Voľby do OSO a VÚC 2026 NP                               0   0   0     2   0   0   0
+111   0160   625002   11   Voľby EP SP                                             17   0   0     0   0   0   0
+111   0160   625002   13   Voľby prezidenta SP                                     25   0   0     0   0   0   0
+111   0160   625002   16   Referendum SP                                            0   0   0    15   0   0   0
+111   0160   625002   22   Voľby do OSO a VÚC 2026 SP                               0   0   0    20   0   0   0
+111   0160   625003   11   Voľby EP UP                                              1   0   0     0   0   0   0
+111   0160   625003   13   Voľby prezidenta UP                                      1   0   0     0   0   0   0
+111   0160   625003   16   Referendum UP                                            0   0   0     1   0   0   0
+111   0160   625003   22   Voľby do OSO a VÚC 2026 UP                               0   0   0     1   0   0   0
+111   0160   625004   11   Voľby EP IP                                              4   0   0     0   0   0   0
+111   0160   625004   13   Voľby prezidenta IP                                      5   0   0     0   0   0   0
+111   0160   625004   16   Referendum IP                                            0   0   0     4   0   0   0
+111   0160   625004   22   Voľby do OSO a VÚC 2026 IP                               0   0   0     4   0   0   0
+111   0160   625005   11   Voľby EP PvN                                             1   0   0     0   0   0   0
+111   0160   625005   13   Voľby prezidenta PvN                                     2   0   0     0   0   0   0
+111   0160   625005   16   Referendum PvN                                           0   0   0     1   0   0   0
+111   0160   625005   22   Voľby do OSO a VÚC 2026 PvN                              0   0   0     1   0   0   0
+111   0160   625007   11   Voľby EP RFS                                             6   0   0     0   0   0   0
+111   0160   625007   13   Voľby prezidenta RFS                                     9   0   0     0   0   0   0
+111   0160   625007   16   Referendum RFS                                           0   0   0     5   0   0   0
+111   0160   625007   22   Voľby do OSO a VÚC 2026 RFS                              0   0   0     7   0   0   0
+111   0160   631001   13   Voľby prezidenta - cestovné vlastným zam.               35   0   0     0   0   0   0
+111   0160   631001   22   Voľby do OSO a VÚC 2026 cestovné vlastní zamestnanci     0   0   0    62   0   0   0
+111   0160   632003   11   Voľby do EP poštovné                                    12   0   0     0   0   0   0
+111   0160   632003   13   Voľby prezidenta - poštovné                             24   0   0     0   0   0   0
+111   0160   632003   16   Referendum poštovné                                      0   0   0    15   0   0   0
+111   0160   632005   11   Voľby do EP telekomunikačné služby                       5   0   0     0   0   0   0
+111   0160   632005   13   Voľby prezidenta - telekomunikačné náklady              10   0   0     0   0   0   0
+111   0160   632005   16   Referendum telekomunikačné služby                        0   0   0     5   0   0   0
+111   0160   632005   22   Voľby do OSO a VÚC 2026 telekomunikačné služby           0   0   0     5   0   0   0
+111   0160   633006   11   Voľby do EP - kancelárske potreby                       65   0   0     0   0   0   0
+111   0160   633006   13   Voľby prezidenta - všeob. materiál                      82   0   0     0   0   0   0
+111   0160   633006   16   Referendum - kancelárske potreby                         0   0   0    10   0   0   0
+111   0160   633006   22   Voľby do OSO a VÚC 2026 - kancelárske potreby            0   0   0    30   0   0   0
+111   0160   633016   11   Voľby do EP občerstvenie                                15   0   0     0   0   0   0
+111   0160   633016   13   Voľby prezidenta - reprezentačné                        30   0   0     0   0   0   0
+111   0160   633016   16   Referendum občerstvenie                                  0   0   0    18   0   0   0
+111   0160   633016   22   Voľby do OSO a VÚC 2026 občerstvenie                     0   0   0    21   0   0   0
+111   0160   634001   11   Voľby do EP palivá a mazivá                             25   0   0     0   0   0   0
+111   0160   634001   13   Voľby prezidenta palivá, mazivá, oleje                  75   0   0     0   0   0   0
+111   0160   634001   16   Referendum, palivá, mazivá                               0   0   0   148   0   0   0
+111   0160   634001   22   Voľby do OSO a VÚC 2026 , palivá, mazivá                 0   0   0   117   0   0   0
+111   0160   637007   13   Voľby prezidenta - cestovné cudzím                     179   0   0     0   0   0   0
+111   0160   637007   22   Voľby do OSO a VÚC 2026 cestovné cudzí                   0   0   0    82   0   0   0
+111   0160   637014   11   Voľby do EP stravné                                    104   0   0     0   0   0   0
+111   0160   637014   16   Referendum stravné                                       0   0   0   124   0   0   0
+111   0160   637026   11   Voľby do EP odmeny členom a zapisovateľom VK           505   0   0     0   0   0   0
+111   0160   637026   13   Voľby prezidenta - odmeny členom OVO a zapisovateľom   957   0   0     0   0   0   0
+ 111   0160   637026    16   Referendum odmeny členom a zapisovateľom VK                     0        0        0      511         0         0         0
+ 111   0160   637026    22   Voľby do OSO a VÚC 2026 Odmeny členom a zapisovateľom VK        0        0        0    1 082         0         0         0
+ 111   0160   637027    11   Voľby do EP doručenie oznámenia odmena                         42        0        0        0         0         0         0
+ 111   0160   637027    13   Voľby prezidenta - doručenie oznámenia odmena                  21        0        0        0         0         0         0
+ 111   0160   637027    16   DoVP referendum                                                 0        0        0       22         0         0         0
+ 111   0160   637027    22   DoVP Voľby do OSO a VÚC 2026                                    0        0        0       54         0         0         0
+ 111   0412   633006    5    UPSVaR - PUPN materiál AČ                                       0        0        0      112        80         0         0
+ 111   0412   633010    5    UPSVaR - PUPN ochranné PP, obuv, prac. pomôcky                  0        0        0      138        70         0         0
+ 111   0510   637004    62   ŽP - odpad z FP Envirofondu                                   611        0        0        0         0         0         0
+ 111   0540   641013    61   Transfér ŽP SU Budimír                                          0       98       98      211         0         0         0
+ 111   0640   632001    9    VO - el. energia z dotácie MH SR                            1 323        0        0        0         0         0         0
+ 111   0810   633006   035   ŠA - záchytné siete a siete na futbalovú bránu                  0        0        0    1 000         0         0         0
+ 111   0840   632001    9    DS - el. energia z dotácie MH SR                              479        0        0        0         0         0         0
+ 111   0840   633006         Vojnové hroby materiál                                         19        0       20       39         0         0         0
+ 111   0840   633015   1     Vojnové hroby paliva ako zdroj energie                        197      235      225      224         0         0         0
+ 111   1050   633006   5     UPSVaR - PUPN materiál AČ                                     357      120       38        0         0         0         0
+ 111   1050   633010   5     UPSVaR - PUPN ochranné PP                                     116      247        0        0         0         0         0
+ 111   1070   633006         HN - školské pomôcky                                           33       33       34       34         0         0         0
+11UA   1070   642014   70    Platby za ubytovanie odídencov jednotlivcovi                3 430        0        0        0         0         0         0
+131N   1070   637037   2     UPSVaR vrátka nevyčerpanej dotacie 2023                     1 110        0        0        0         0         0         0
+131O   1070   637037   2     UPSVaR vrátka nevyčerpanej dotacie 2024                         0    1 405        0        0         0         0         0
+131P   1070   637037   72    UPSVaR vratka nevyčerp. dotácie                                 0        0        0    1 451         0         0         0
+  41   0111    611           OÚ - tarifný plat                                          49 667   78 739   89 500   91 500   100 000   105 000   108 000
+  41   0111   612001         OcÚ - osobný príplatok                                      8 350    8 409    8 000    9 200    11 000    12 500    13 500
+  41   0111    614           OcÚ - Odmeny, odstupné                                      2 596    1 500    1 500    2 500     4 000     4 800     5 200
+  41   0111    621           OcU - VZP/odvody                                            7 201    7 553    7 000    8 360    10 000    12 000    14 000
+  41   0111    623           OcÚ - O ZP                                                  2 457    2 738    2 500    2 790     3 000     3 500     3 800
+  41   0111   625001         OcÚ - NP                                                    1 220    1 243    1 250    1 370     1 500     1 800     2 000
+  41   0111   625002         OcÚ - SP                                                   12 289   13 135   11 545   14 045    16 000    17 500    18 500
+  41   0111   625003         OcÚ - ÚP                                                      702      742      800      800       950       980     1 000
+  41   0111   625004         OcÚ - IP                                                    2 632    2 783    2 300    3 300     3 600     4 000     4 300
+  41   0111   625005         OcÚ - PvN                                                     872      887      850      975     1 100     1 300     1 500
+  41   0111   625007         OcÚ - RFS                                                   4 169    4 454    3 600    4 900     5 300     6 000     6 300
+  41   0111    627           OcÚ - DDP                                                     911      937    1 500    1 500     1 100     1 200     1 300
+  41   0111   631001         OcÚ - cestovné náhrady                                      1 822    2 615    2 000    3 600     3 800     4 000     4 200
+  41   0111   632001         OcÚ - energie                                              13 150    9 583   15 000        0         0         0         0
+  41   0111   632002         OcÚ - vodné, stočné                                         1 506    1 414    1 800    1 600     2 200     2 400     2 550
+  41   0111   632003         OcÚ - poštovné a kurierské služby                             325      418      400      400       450       480       500
+  41   0111   632004         OcÚ - komunikačná infraštruktúra                              305      402      800      600       400       450       480
+  41   0111   632005         OcÚ - telekomunikačné služby                                  384      356      600      600       680       700       720
+  41   0111   632006         OcÚ - elektrina                                                 0        0        0    2 631     3 500     3 800     4 000
+  41   0111   632007         OcÚ - plyn                                                      0        0        0    7 040     9 000    11 000     9 400
+  41   0111   633006         OcÚ - materiál                                              2 154    3 681    2 500    4 000     4 000     4 000     4 000
+  41   0111   633009         OcÚ - knihy, časopisy, noviny                                  57        0      182       32       100       150       150
+  41   0111   633010         Pracovné odevy, obuv a pracovné pomôcky                         0       55      150      450       300       300       300
+  41   0111   633013         Softvér, webstránka                                           604      276      600      900       350       350       350
+  41   0111   633016         OcÚ - reprezentačné                                           783    1 111    1 000    1 200     1 400     1 500     1 600
+  41   0111   635004         OcÚ - údržba prístrojov, zariadení                            647      896    1 000    1 000     1 500     1 700     1 800
+  41   0111   635005         OcÚ - údržba kamerového systému                                 0      490      500      200         0         0         0
+  41   0111   635006         OÚ - oprava a údržba budov                                  1 525    1 677    1 500    2 100     2 200     2 300     2 300
+  41   0111   635009         OcÚ - softvér a jeho upgrade unikátny - údržba                428      214      800      100       100       100       100
+41   0111   635011         OcÚ - špecial. a krabicový softvér - údržba           252      258      600      100      500      600      650
+41   0111   637001         OcÚ - školenia, kurzy, porady                         790    1 194    1 500    1 500    2 000    1 800    1 800
+41   0111   637002         OcÚ - Deň obce, Mikuláš a iné obecné akcie          3 342    2 885    3 870    4 170      500        0        0
+41   0111   637004         OcU - všeob. služby                                 2 434    2 155    3 700    3 700    3 500    3 600    3 700
+41   0111   637005         OcÚ - špeciálne služby, právne služby               6 115   10 034    9 540    7 340    7 800    7 900    8 000
+41   0111   637012         Poplatky a odvody                                     296      299      800      800    1 500      600      800
+41   0111   637015         OcÚ - poistenie majetku                             2 719    2 592    2 800    2 700    2 500    2 700    2 900
+41   0111   637016         OcÚ - do sociálneho fondu                             800      730      900      900      950      950      950
+41   0111   637026         OcÚ - Odmeny poslancom                                970    2 924    2 500    2 960    2 500    2 800    3 000
+41   0111   637027         OcÚ - dohody                                           42    1 389      500      200      200      200      200
+41   0111   641009         CVC - mesto - obec                                      0      480      480      480      480      480      480
+41   0111   641013         Spoločná úradovňa                                   5 200    3 631    2 800    4 220    4 600    5 400    4 800
+41   0111   642001         CVC - občianské združenie                               0       60       60       60       80      100      100
+41   0111   642004         CVC - cirkevná škola                                    0       60       60       60       80      100      100
+41   0111   642006         OcÚ - členské príspevky                             2 061    2 120    2 500    2 500    2 800    2 800    2 900
+41   0111   642012         OcÚ - odstupné                                          0        0    9 000    3 545        0        0        0
+41   111    642013         OcÚ - odchodné                                          0        0        0        0    4 000        0        0
+41   0111   642014         OcÚ - fin. príspevok na stravovanie                 4 000    3 648    3 900    4 350    5 000    4 500    4 500
+41   0111   642015         OcÚ - nemocenské dávky                                 69        0      300      100      100      100      100
+41   0111   651002   88    OcÚ - splácanie úrokov a záväzkovej provízie KTK    5 970    4 413    5 000    4 880    5 500    5 600    5 800
+41   0320   632001         DHZ - el. energia                                     451      457      550        0        0        0        0
+41   0320   632005         DHZ - telekomunikačné služby                            0       24       24       44       44       44       44
+41   0320   632006         DHZ - elektrina                                         0        0        0      550      650      700      700
+41   0320   633006         DHZ - materiál                                        251      526      535      263      250      280      300
+41   0320   633007         DHZ - špeciálny materiál                                0      172      200       87      100      100      100
+41   0320   633010         DHZ - pracovné odevy                                    0        0      126      126      100      100      100
+41   0320   633016         DHZ - reprezentačné výdaje                              0        0        0      266       80       80       80
+41   0320   634001         DHZ - palivo                                           33      133      300      300      300      300      300
+41   0320   634002         DHZ - servis, údržba                                    0        0      150      130      130      130      130
+41   0320   634003         DHZ - HP a PZP poistenie                              331      365      365      381      400      420      420
+41   0320   635004         PO - údržba has.prístrojov                             83       42      150      150      150      150      150
+41   0320   637001         DHZ - školenia                                        235        0      100      147      150      150      150
+41   0320   637004         DHZ - všeobecné služby                                  0        0        0       56       80       80       80
+41   0320   637005         PO - služby technika                                  880      660    1 000    1 000    1 000    1 000    1 000
+41   0320   642006         PO - členské príspevky                                175        0      100      100      100      100      100
+41   0451   633006         Cesty - posyp. mat., kosenie                          460      208      800    1 300    1 500    1 500    1 600
+41   0451   633015         Cesty, chodníky - palivo PHL zamet. Metla             198      323      398      398      500      550      550
+41   0451   635006         Cesty,chodníky - údržba subdodávky                    870      900    1 200    2 900    2 800    2 900    3 000
+41   0451   636001         Cesty - nájomné                                        10       10       11       17       20       20       20
+41   0451   637005         Cesty - špeciálne služby                                0        0        0      100      300      300      300
+41   0451   637027         Cesty - dohody                                          0        0      600      200      200      200      200
+41   0510   633007         ŽP - kuka nádoby a iné                                  0    1 202        0      883      800      200    1 000
+41   0510   637004         ŽP - zber odpadu                                   23 120   29 928   34 392   34 609   38 500   40 000   42 000
+41   0520   637005   482   ŽP - špeciálne služby                                   0        0        0      615      200      200      300
+41   0520   637011         Štúdie, expertízy, posudky                              0        0        0      585        0        0        0
+41   0540   636001   48    Nájomné - protipovod. ochrana pozemky                   2        2        3        3        3        3        3
+41   0540   637005         ŽP - odchyt psov a iné špec. služby                   600      830    1 000    1 000    1 000    1 000    1 000
+41   0540   637006         Náhrady za dobrovoľnícku činnosť                        0      380        0        0        0        0        0
+41   0640   632001         VO - el. energia                                    3 991    3 265    6 000        0        0        0        0
+41   0640   632006         VO - elektrina                                          0        0        0    3 000    3 200    3 300    3 400
+41   0640   633007         VO - materiál                                         144      660      800      800      800      900    1 000
+    41          0640         637004            VO - ostatné služby                                               680     1 315     1 800     1 080       800       820       850
+    41          0810         632001            ŠA - energie                                                      863     3 539     4 000         0         0         0         0
+    41          0810         632002            ŠA - vodné, stočné                                                289       220       600       600       600       600       600
+    41          0810         632006            ŠA - elektrina                                                      0         0         0     2 760     2 500     2 600     2 800
+    41          0810         633006            ŠA - bežná údržba, materiál                                       195       374       350       550     1 000       550       600
+    41          0810         633006      1     TJ - Pochod                                                        20         0         0         0         0         0         0
+    41          0810         635006      1     ŠA - údržba objektov                                                0       221         0         0       400       400       400
+    41          0810         636001            ŠA - nájomne                                                       16        16        16        16        16        16        16
+    41          0810         637027            ŠA - odmeny                                                       154         0         0         0         0         0         0
+    41          0810         642002            TJ - dotácia činnosť                                            4 500     2 500     3 700     3 700     5 000     3 500     3 500
+    41          0810         642002      66    TJ - dotácia energie                                            2 732         0         0         0         0         0         0
+    41          0820         633006            OcÚ - Deň obce, Mikuláš, úcta k starším, deň detí materiál          0         0         0         0       800       600       300
+    41          0820         633011            OcÚ - Deň obce, Mikuláš, úcta k starším, deň detí potraviny         0         0         0         0     1 500     1 330     1 300
+    41          0820         637002            OcÚ - Deň obce, Mikuláš, úcta k starším, deň detí                   0         0         0         0     3 000     2 000     2 500
+    41          0830         632005            Telekomunikačné služby - satelit                                2 618       643       636       636         0         0         0
+    41          0830         635003            Údržba satelitu                                                 1 249       315         0         0         0         0         0
+    41          0830         635006            MR - oprava a údržba                                               42       165       200       200       200       200       200
+    41          0830         637012            Poplatky autorským zväzom                                         621       308       400       400       400       400       400
+    41          0840         632001            DS - el. energia                                                3 143       363       800         0         0         0         0
+    41          0840         632002            DS - vodné, stočné                                                118        20       150       150       250       150       150
+    41          0840         632006            DS - elektrina                                                      0         0         0       800       650       700       720
+    41          0840         633006            DS - materiál                                                       9         0       200       108       800       200       200
+    41          0840         633015            DS - palivo, PHL                                                    0         0         0        92       100       100       100
+    41          0840         642007            Dotácia na rekonštrukciu GK kostola                                 0     4 500         0         0         0         0         0
+    41          1020         636001            Prenájom priestorov - seniori                                       0         0         0       400       400       400       400
+    41          1040         642014            Transfery jednotlivcovi - rodina a deti                             0         0         0       239       250       250       250
+    46          0111          611              OÚ - tarifný plat zo zdrojov RF                                15 000         0         0         0         0         0         0
+    71          0320         633006       18   DHZ - materiál                                                    360     1 388         0     1 197         0         0         0
+    71          0320         633007       18   DHZ - špeciálny materiál                                          808       100         0       604         0         0         0
+    71          0320         633010       18   DHZ - pracovné odevy, obuv, OPP                                   943     1 170         0       640         0         0         0
+    71          0320         634001      181   PO - reffundácia PHL z DPO SR                                      17         0         0         0         0         0         0
+    71          0320         634002       18   DHZ - servis, údržba                                              484       342         0       358         0         0         0
+    71          0320         637001       18   DHZ - školenia, kurzy                                             405         0         0         0         0         0         0
+    71          0320         637004       18   DHZ - revizie TK a EK, iné služby                                   0         0         0       201         0         0         0
+    72a         0111         637002            OcÚ - akcie obce                                                    0       300         0         0         0         0         0
+    72a         0810         637002            TO - akcia Potulky po Slanských vrchoch                           200         0         0         0         0         0         0
+    72c         0820         637002      63    Stretnutie rodákov kultúrna akcia                               2 840         0         0         0         0         0         0
+SPOLU: 1. BEŽNÝ ROZPOČET - VÝDAVKY                                                                           238 012   249 967   272 338   283 325   304 293   313 563   325 943
+2. KAPITÁLOVÝ ROZPOČET - PRÍJMY
+    111                      322001      035   MF SR dotácia z kapitoly ÚV - kapitálové výdavky                    0        0         0     22 000        0         0         0
+    111                      322001       32   MF SR kapit. dotácia Modernizácia KD                            8 931        0         0          0        0         0         0
+    11H                      322006       38   KSK - dotácia nákup traktorovej kosačky                             0        0         0      4 700        0         0         0
+   1AG1                      322001       31   PPA - trávenie voľného času v obci Kalša                       16 524        0         0          0        0         0         0
+   1AG2                      322001       31   PPA - trávenie voľného času v obci Kalša                        5 508        0         0          0        0         0         0
+     41                      233001            Príjem z predaja pozemkov                                           0        0         0        306        0         0         0
+     45                      322002      621   EF - dotácia na obstaranie malotraktora                         9 452        0         0          0        0         0         0
+SPOLU: 2. KAPITÁLOVÝ ROZPOČET - PRÍJMY                                                                        40 415        0         0     27 006        0         0         0
+2. KAPITÁLOVÝ ROZPOČET - VÝDAVKY
+    111         0111         713004       32   Projekt modernizácia zariadenia KD zdroj MF SR                  2 626        0         0          0        0         0         0
+    111         0111         717001      035   Kanalizačná prípojka k budove obecného úradu                        0        0         0      5 000        0         0         0
+    111         0320         717001      035   Vodovodná a kanalizačná prípojka pri pož. zbrojnici                 0        0         0      3 000        0         0         0
+    111         0620          716         035   Projektová dokumentácia Parkovisko pri OcÚ                       0        0        0      150       0   0   0
+    111         0620         717003       035   Zámková dlažba odstavné plochy pri OcÚ                           0        0        0   12 850       0   0   0
+    111         0640         717002       035   Verejné osvetlenie - led lampy modernizácia                      0        0        0    1 000       0   0   0
+    11H         0810         713004        38   KSK - nákup traktorovej kosačky pre ŠA                           0        0        0    4 401       0   0   0
+    11H         0810         719014        38   Vrátka nevyčerpanej dotácie KSK                                  0        0        0      299       0   0   0
+   131O         0111         713001        32   Projekt modernizácia zariadenia KD zdroj MF SR                   0    6 305        0        0       0   0   0
+     41         0111         713001        32   Projekt modernizácia zariadenia KD VZ                            0      431        0        0       0   0   0
+     41         0111         713004        32   Projekt modernizácia zariadenia KD vlastné zdroje              138        0        0        0       0   0   0
+     41         0451          716         484   Modernizácia miestnej cestnej infraštruktúry - projektová        0        0        0    3 200       0   0   0
+     41         0473          716          49   Prípravná a projektová dokumentácia                            300        0        0        0       0   0   0
+     41         0510         713004             Obstaranie vlečky k malotraktoru SOLIS                           0        0        0    1 500       0   0   0
+     41         0520          716               Projektové dokumentácie kanalizačné prípojky                     0        0        0    1 240       0   0   0
+     41         0520         717003       482   Kalša dobudovanie kanalizačnej siete spoluúčasť                  0        0        0   13 916       0   0   0
+     41         0610          716         483   Projektová dokumentácia Obecné nájomné byty Kalša                0      959        0        0       0   0   0
+     41         620          717001       486   Schody v areáli cintorína                                        0        0        0        0   2 088   0   0
+     41         111           716         485   Projektová dokumentácia rekonštr. soc. zar. OcÚ                  0        0        0        0   5 000   0   0
+     41         0620         713004             Nákup kosačky spoluúčasť                                         0        0        0      381       0   0   0
+     41         0740         713004             AED defibrilátor                                                 0        0        0    2 545       0   0   0
+     41         0810         713004        38   Nákup traktorovej kosačky ŠA vlast. zdroje                       0        0        0      489       0   0   0
+     45         0510         714004       621   Obstaranie malotraktora a drviča z dotácie                       0        0        0    8 908       0   0   0
+     45         0510         719014       621   Enviroment. fond vrátka nevyčerpanej dotácie                     0        0        0      544       0   0   0
+     46         0451         713004             Obstaranie plechovej autobusovej zástavky                        0        0        0    2 500       0   0   0
+     52         0510         713004       621   Obstaranie drviča konárov spoluúčasť                             0      120        0        0       0   0   0
+     52         0510         714004       621   Obstaranie malotraktora spoluúčasť                               0    2 116        0        0       0   0   0
+     52         0520          716         482   Projektová dokumentácia dobudovanie kanal. Siete                 0    3 813        0        0       0   0   0
+     52         0520         717003       482   Kalša dobudovanie kanalizačnej siete spoluúčasť z KTK            0        0        0   12 664       0   0   0
+     52         0610          716         483   Projektová dokumentácia Obecné nájomné byty Kalša zo ŠFRB        0    6 150   24 600   24 600       0   0   0
+     52         0610         717001       483   Nájomný bytový dom Kalša výstavba                                0    3 483        0        0       0   0   0
+     52         0620          716               Prípravná a projektová dokumentácia - odstavné plochy            0      750        0        0       0   0   0
+     52         0620         717001       481   Projekt odstavné plochy pri OcU                                  0   11 855        0        0       0   0   0
+SPOLU: 2. KAPITÁLOVÝ ROZPOČET - VÝDAVKY                                                                      3 064   35 982   24 600   99 187   7 088   0   0
+3. FINANČNÉ OPERÁCIE - PRÍJMY
+   131N                       453          1    RUSS KE - školné pre MŠ z roku 2023                            670        0       0         0      0    0   0
+   131N                       453          2    UPSVaR dotácia strava rok 2023                               1 110        0       0         0      0    0   0
+   131N                       453          44   Zapojenie FP RUSS KE z roku 2023 prevádzka                     546        0       0         0      0    0   0
+   131N                       453          45   Zapojenie FP RUSS KE z roku 2023 energie                       200        0       0         0      0    0   0
+   131N                       453          53   RUSS KE - Podpora digitálnej transf. vzdel. 23                   7        0       0         0      0    0   0
+   131N                       453          60   RUSS KE - projekt Čítame pre radosť 23                       1 000        0       0         0      0    0   0
+   131O                       453         002   PRE ZŠ zo ŠR zapojenie preddavku na prevádzku                    0      283       0         0      0    0   0
+   131O                       453          2    PRE ZŠ zo ŠR zapojenie preddavku na prevádzku                    0    1 405       0         0      0    0   0
+   131O                       453          32   Zapojenie FP Modernizáciazariadenie KD                           0    6 305       0         0      0    0   0
+   131O                       453          52   RUSS KE - školné pre MŠ zapojenie do rozpočtu 2024               0    1 924       0         0      0    0   0
+   131O                       453          65   ZŠ - učebné a didaktické pomôcky zap. do rozpočtu                0      550       0         0      0    0   0
+   131P                       453          2    PRE ZŠ zo ŠR zapojenie preddavku na prevádzku                    0        0       0     1 210      0    0   0
+   131P                       453          72   UPSVaR prostriedky z min. rokov strava                           0        0       0     1 451      0    0   0
+    41                       456002        81   Prijaté finančné zábezpeky - prenájom priestorov                 0      901       0         0      0    0   0
+    45                        453         621   Zapojenie dotácie z ENVIROFONDU                                  0        0       0     9 452      0    0   0
+    46                       454001             Prevod FP z rezervného fondu                                15 000        0       0     2 500      0    0   0
+    52                       513003             Municipálny úver PB 108/003/20                                   0      750       0         0      0    0   0
+    52                       513003       481   Municipálny úver čerpanie odstavné plochy pri OcU                0   11 855       0         0      0    0   0
+    52                       513003       482   Municipálny úver čerpanie dobud. Kanalizačnej siete              0    3 813       0    12 664      0    0   0
+    52                        513003    483   Municipálny úver čerpanie Obecné nájomné byty Kalša        0    9 633   24 600   24 600       0       0       0
+    52                        513003    621   Municipálny úver obstaranie malotraktora                   0    2 236        0        0       0       0       0
+    72f                        453       1    Réžia strava žiaci nevčerp. prostr. min. rokov             0        0        0    1 580       0       0       0
+    72g                        453       1    Školné nevyčerpané z min. rokov zapojenie                  0        0        0    3 157       0       0       0
+SPOLU: 3. FINANČNÉ OPERÁCIE - PRÍJMY                                                                18 533   39 655   24 600   56 614       0       0       0
+3. FINANČNÉ OPERÁCIE - VÝDAVKY
+   1AG1         0620          821005    31    Municipálny úver PB 108/003/20 splácanie istiny       16 524        0        0       0         0       0       0
+   1AG2         0620          821005    31    Municipálny úver PB 108/003/20 splácanie istiny        5 508        0        0       0         0       0       0
+    41          0111          819002    81    Vrátka zábezpeky prenájom priestorov                       0      256        0       0         0       0       0
+    41          0111          821010          Splácanie KTK 108/003/20                                   0    6 000   10 000       0    10 000   7 220   3 143
+SPOLU: 3. FINANČNÉ OPERÁCIE - VÝDAVKY                                                               22 032    6 256   10 000       0    10 000   7 220   3 143
+

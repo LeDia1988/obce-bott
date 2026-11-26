@@ -1,0 +1,511 @@
+URL: https://cuet.slovensko.sk/en/dokument/ee880cf9-bd09-4272-a516-2588cae8eacd
+OBEC: Veľký Slivník (Prešov)
+NÁZOV: Návrh VZN č. 2/2026 o miestnych daniach a miestnom poplatku
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/ee880cf9-bd09-4272-a516-2588cae8eacd
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN č. 2/2026 o miestnych daniach a miestnom poplatku
+Search publisher's RSS feeds
+Published on official board:
+Obec Veľký Slivník - Zverejňovanie na CUET
+Published from:
+25.11.2026
+Registry symbol:
+VS-2026/340-OcÚ
+Documents author:
+Obec Veľký Slivník - Zverejňovanie na CUET
+Published to:
+10.12.2026
+Registry case:
+001
+Name of official document:
+Návrh VZN č. 2/2026 o miestnych daniach a miestnom poplatku
+Document abstract:
+Návrh VZN č. 2/2026 o miestnych daniach a poplatku
+[https://www.velkyslivnik.sk/e_download.php?file=/data/uredni_deska/obsah416_1.pdf&original=VZN 2_2026 o miestnych daniach 2027 - Návrh.pdf]_
+Typ: PDF dokument, Veľkosť: 365.83 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VZN 2_2026 o miestnych daniach 2027 - Návrh.pdf
+Type and size:
+.pdf, 365.83 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/dace06d1-39ec-429c-90dd-abc9af3c4b78
+         VŠEOBECNE ZÁVÄZNÉ NARIADENIE - NÁVRH
+
+                                           č. 2/2026
+
+      o miestnych daniach a o miestnom poplatku za komunálne
+             odpady a drobné stavebné odpady na území
+                                      obce Veľký Slivník
+
+
+
+
+Návrh VZN: -        vyvesený na úradnej tabuli obce dňa : 25.11.2026
+           -        zverejnený na elektronickej úradnej tabuli obce dňa: 25.11.2026
+           -        zverejnený na webovom sídle obce dňa : 25.11.2026
+
+Lehota na predloženie pripomienok k návrhu VZN do(včítane): 6.12.2026
+
+Doručené pripomienky (počet) :
+
+Vyhodnotenie pripomienok k návrhu VZN uskutočnené dňa:
+
+Vyhodnotenie pripomienok k návrhu VZN doručené poslancom dňa:
+
+VZN schválené Obecným zastupiteľstvom vo Veľkom Slivníku dňa ........................................
+pod č. : ..........................
+
+VZN vyvesené na úradnej tabuli obce dňa :
+VZN zvesené z úradnej tabule obce dňa :
+VZN zverejnené na elektronickej úradnej tabuli obce:
+VZN zverejnené na webovom sídle obce dňa :
+
+                             VZN nadobúda účinnosť dňom 1.1.2027
+
+
+
+
+                                                                  za obec : Bc. Jana Sabolová
+                                                                              starostka obce
+       Obecné zastupiteľstvo obce Veľký Slivník. na základe ustanovenia § 6 ods. 1a § 11
+ods.4 písm. d) zákona Slovenskej národnej rady č. 369/1990 Zb. o obecnom zriadení v znení
+neskorších predpisov a zákona č. 582/2004 Z. z. o miestnych daniach           a   miestnom
+poplatku   za    komunálne     odpady      a   drobné    stavebné odpady v znení neskorších
+predpisov v y d á v a pre územie obce Veľký Slivník toto
+
+
+
+    VŠEOBECNE ZÁVÄZNÉ                                NARIADENIE - NÁVRH
+
+                                      č. 2/2026
+
+      o miestnych daniach a o miestnom poplatku za komunálne
+             odpady a drobné stavebné odpady na území
+                                   obce Veľký Slivník
+
+
+                                         ČASŤ PRVÁ
+
+                                  ÚVODNÉ USTANOVENIA
+
+                                               § 1
+
+(1) Toto všeobecne záväzné nariadenie (ďalej len „nariadenie“) upravuje podmienky ukladania
+    miestnych daní a miestneho poplatku za komunálne odpady a drobné stavebné odpady
+    (ďalej len „ poplatok“) na území obce Veľký Slivník.
+
+(2) Obec Veľký Slivník ukladá na svojom území tieto miestne dane:
+    a) daň z nehnuteľností,
+    b) daň za psa,
+    c) daň za užívanie verejného priestranstva,
+    e) daň za predajné automaty,
+    f) daň za nevýherné hracie prístroje,
+
+(3) Obec Veľký Slivník ukladá na svojom území miestny poplatok za komunálne odpady a drobné
+    stavebné odpady.
+
+(4) Zdaňovacím obdobím pre daň z nehnuteľností, daň za psa, daň za predajné automaty, daň za
+    nevýherné hracie prístroje a pre miestny poplatok za komunálne odpady a drobné stavebné
+    odpady je kalendárny rok.
+                                         ČASŤ DRUHÁ
+                                        MIESTNE DANE
+
+                                       Daň z nehnuteľností
+                                               §2
+
+
+Daň z nehnuteľností zahŕňa
+       a) daň z pozemkov,
+       b) daň zo stavieb,
+       c) daň z bytov a z nebytových priestorov v bytovom dome (ďalej len „daň z bytov“).
+
+                                                §3
+
+                                         Daň z pozemkov
+
+(1) Hodnota pozemkov na území obce Veľký Slivník v členení do skupín podľa ust. § 6 ods. 1
+    zákona o miestnych daniach je nasledovná :
+    a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty
+    - orná pôda                                               0,2592 eur/ m2
+    - trvalé trávnaté porasty                                 0,0268 eur/ m2
+    b) záhrady                                                1,32 eur/ m2
+    c) zastavané plochy a nádvoria, ostatné plochy            1,32 eur/ m2
+    d) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a ostatné hospodársky
+    využívané vodné plochy                                  0,0730 eur/ m2
+
+    e) stavebné pozemky                                       13,27 eur/ m2
+
+    (2) V súlade s ust. § 8 ods. 2 zákona o miestnych daniach správca dane určuje ročnú
+    sadzbu dane      z pozemkov v obci Veľký Slivník pre jednotlivé skupiny pozemkov
+    nasledovne:
+    a) orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávne porasty 1,20%
+      ostatné plochy, ak sa využívajú sa využívajú na poľnohospodárske, lesné hospodárstvo
+      alebo na účel spojený s poľnohospodárstvom alebo lesným hospodárstvom
+    b) záhrady                                                                 1,20%
+    c) zastavané plochy a nádvoria, ostatné plochy                             1,20%
+    d) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom
+     rýb a ostatné hospodársky využívané vodné plochy                          1,20%
+    e) stavebné pozemky                                                        3,00%
+
+
+
+(2) Ročné sadzby dane z pozemkov uvedené v predchádzajúcom odseku tohto VZN sa nepoužijú
+    v nasledovných prípadoch:
+      Správca dane v súlade s ust. § 8 ods. 4 zákona o miestnych daniach určuje ročnú sadzbu
+      dane z pozemkov pre ďalej uvedené skupiny pozemkov(určené podľa § 6 ods.1 zákona
+      o miestnych daniach), na ktoré bolo vydané povolenie dobývania ložiska
+      nevyhradeného nerastu nasledovne:
+             a) Orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávne porasty 6,00 %
+             b) Zastavané plochy a nádvoria, ostatné plochy                      6,00 %
+
+                                                 §4
+
+                                           Daň zo stavieb
+
+
+(1)      Správca dane v súlade s ust. § 12 ods. 2 zákona o miestnych daniach určuje ročnú sadzbu
+                     dane zo stavieb v obci Veľký Slivník za každý aj začatý m2 zastavanej plochy pre
+                     jednotlivé druhy stavieb podľa § 10 ods. 1 zákona o miestnych daniach
+                     nasledovne:
+       a) stavby na bývanie a drobné stavby , ktoré majú doplnkovú funkciu
+             pre hlavnú stavbu                                                  0,18eur/ m2
+       b) stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+            hospodárstvo, stavby využívané na skladovanie vlastnej pôdohospodárskej
+            produkcie vrátane stavieb na vlastnú administratívu                 0,20eur/ m2
+       c) chaty a stavby na individuálnu rekreáciu                              0,60 eur/ m2
+       d) samostatne stojace garáže                                             0,60 eur/ m2
+       g) priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu,
+            stavby využívané na skladovanie vlastnej produkcie vrátane stavieb na
+            administratívu                                                      2,00 eur/ m2
+       h) stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie a administratívu
+            súvisiacu s ostatným podnikaním a so zárobkovou činnosťou           2,00 eur/ m2
+       i) ostatné stavby neuvedené v písm. a) až h)                             0,60 eur/ m2
+
+
+      V súlade s ust. § 12 ods. 3 zákona o miestnych daniach určuje správca dane pri viacpodlažných
+      stavbách príplatok za podlažie vo výške 0,05 eura za každé ďalšie podlažie okrem prvého
+      nadzemného podlažia (pozn. autora: v sume najviac 0,33 eura )
+
+
+
+                                                 §5
+
+                          Spoločné ustanovenia pre daň z nehnuteľností
+
+
+
+(1) V súlade s ust. § 17 ods. 2 zákona o miestnych daniach sa s ohľadom na miestne podmienky
+    v obci Veľký Slivník správca dane oslobodzuje od dane z pozemkov nasledujúce pozemky:
+
+                -   pozemky, na ktorých sú cintoríny, kolumbáriá, urnové háje a rozptylové
+                    lúky
+(2) V súlade s ust. § 17 ods. 3 zákona o miestnych daniach podľa miestnych podmienok v obci Veľký
+    Slivník znižuje správca dane daň zo stavieb / daň z bytov nasledovne:
+     a) o 50% z dane za stavby na bývanie vo vlastníctve občanov s ťažkým zdravotným
+     postihnutím, držiteľov preukazu občana s ťažkým zdravotným postihnutím s potrebou
+     sprievodcu, ako aj prevažne alebo aj úplne bezvládnych občanov, ktoré slúžia na ich trvalé
+     bývanie
+     b) o 50 % z dane na stavby na bývanie vo vlastníctve osôb v hmotnej núdzi
+
+
+(3) Daňovník uplatňuje nárok na zníženie dane alebo oslobodenie od dane podľa § 6 tohto všeobecne
+    záväzného nariadenia v priznaní k dani z nehnuteľností, k dani za psa, k dani za predajné
+    automaty a k dani za nevýherné hracie prístroje alebo v čiastkovom priznaní na to zdaňovacie
+    obdobie, na ktoré mu prvýkrát vzniká nárok na zníženie dane alebo oslobodenie od dane,
+    najneskôr v lehote podľa § 99a ods. 1 zákona o miestnych daniach, inak nárok na príslušné
+    zdaňovacie obdobie zaniká.
+
+
+
+                                             Daň za psa
+                                                §6
+
+
+(1) Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou osobou alebo
+    právnickou osobou.
+(2) V súlade s ust. § 25 a § 29 zákona o miestnych daniach určuje správca dane sadzbu dane
+    nasledovne:
+     a) 15 eur za jedného psa a kalendárny rok.
+
+
+                                        Oslobodenie od dane
+                                               §7
+
+(1) Správca dane v súlade s ust. § 29 zákona o miestnych daniach oslobodzuje od dane za psa:
+
+      a) vlastník alebo držiteľ psa, ktorým je fyzická osoba staršia jako 65 rokov evidovaná na trvalý
+      pobyt sama – samostatne žijúca v domácnosti
+      b) oslobodenie sa vzťahuje len na držanie jedného psa
+
+
+                             Daň za užívanie verejného priestranstva
+                                                 §8
+
+(1) Verejným priestranstvom na účely dane za užívanie verejného priestranstva sú verejnosti
+    prístupné pozemky vo vlastníctve obce Veľký Slivník, a to:
+               - Miestne komunikácie
+               - Nádvorie Obecného úradu a Kultúrneho domu
+               - Nádvorie budovy bývalej základnej školy
+               - Nádvorie hasičskej zbrojnice
+(2) Osobitným užívaním verejného priestranstva sa na účely dane za užívanie verejného
+    priestranstva rozumie :
+     a) umiestnenie zariadenia slúžiaceho na poskytovanie služieb,
+     b) umiestnenie stavebného zariadenia,
+     c) umiestnenie predajného zariadenia,
+     d) umiestnenie rôznych atrakcií,
+
+
+ (3) Správca dane určuje, v súlade s ust. § 33 a § 36 zákona o miestnych daniach, sadzbu dane:
+       a) vo výške 0,50 eura za každý aj začatý m2 osobitne užívaného verejného priestranstva a
+           každý aj začatý deň.
+       b) vo výške 1,00 eura za každý aj začatý m2 osobitne užívaného verejného priestranstva a
+           každý aj začatý deň, počas konania obecných podujatí
+(4) Daňovník je povinný oznámiť svoj zámer osobitného užívania verejného priestranstva písomne
+     správcovi dane najneskôr v deň, kedy sa užívanie verejného priestranstva začalo.
+     V písomnom oznámení daňovník uvedie účel využitia verejného priestranstva, rozsah m2
+     priestoru, začiatok a koniec využitia verejného priestranstva.
+     Daňovník je povinný oznámiť správcovi dane skutočnosť, že osobitné užívanie verejného
+     priestranstva skončilo a verejné priestranstvo bolo uvedené do pôvodného stavu najneskôr do 30
+     dní odo dňa skončenia užívania verejného priestranstva.
+
+
+
+                                   Daň za predajné automaty
+                                              §9
+
+
+
+(1) Správca dane určuje, v súlade s ust. § 47 a § 51 zákona o miestnych daniach, sadzbu dane za
+    predajné automaty :
+       a) vo výške 200 eur za jeden predajný automat a kalendárny rok.
+       Na účely dane je daňovník povinný viesť preukaznú evidenciu na účely dane za predajné
+    automaty, ktorá musí obsahovať :
+
+      - obchodný názov firmy
+      - výrobné číslo predajného automatu
+      - miesto prevádzky
+      - dátum umiestnenia a začatia prevádzkovania
+
+
+
+(2) Správca dane určuje spôsob identifikácie predajných automatov: štítok s označením poradového
+    čísla nevýherného hracieho prístroja určeného obcou
+
+
+
+                              Daň za nevýherné hracie prístroje
+                                           § 10
+
+(1) Správca dane určuje, v súlade s ust. § 55 a § 59 zákona o miestnych daniach, sadzbu dane
+    nasledovne:
+               -   400 eur za jeden nevýherný hrací prístroj na kalendárny rok.
+
+(2) Na účely dane z nevýherných hracích automatov je daňovník povinný viesť preukaznú evidenciu
+    obsahujúcu nasledujúce údaje o každom hracom prístroji:
+
+      - obchodný názov firmy
+      - výrobné číslo nevýherného hracieho prístroja
+      - miesto prevádzky
+       - dátum umiestnenia a začatia prevádzkovania
+
+(3) Správca dane určuje spôsob identifikácie nevýherných hracích prístrojov takto :
+    štítok s označením poradového čísla nevýherného hracieho prístroja určeného obcou
+
+
+
+                                        ČASŤ TRETIA
+
+                   MIESTNY POPLATOK ZA KOMUNÁLNE ODPADY
+
+                             A DROBNÉ STAVEBNÉ ODPADY
+
+                                               § 11
+
+(1) Poplatníka miestneho poplatku za komunálne odpady a drobné stavebné odpady určuje
+    zákon o miestnych daniach.
+
+(2) Obec ustanovuje, že poplatok za odpad od poplatníka v ustanovenej výške pre obec
+    vyberá a za vybraný poplatok ručí:
+    a) vlastník nehnuteľnosti; ak je nehnuteľnosť v spoluvlastníctve viacerých
+    spoluvlastníkov alebo ak ide o bytový dom, poplatok vyberá a za vybraný poplatok
+    ručí zástupca alebo správca určený spoluvlastníkmi, ak s výberom poplatku zástupca
+    alebo správca súhlasí,
+    b) správca, ak je vlastníkom nehnuteľnosti štát, vyšší územný celok alebo obec (ďalej len
+    "platiteľ").
+
+(3) Sadzbu poplatku za odpad určuje obec v súlade s ust. § 78 ods. 1 a § 83 zákona
+    o miestnych daniach, nasledovne:
+
+     a) vo výške 0,1014 eura za fyzickú osobu a kalendárny deň 37,- €/rok
+     b) vo výške 1,0140 eura za právnickú osobu – prevádzku a kalendárny deň
+        370,11 €/rok
+     c) vo výške 0,10 €/kg - drobný stavebný odpad bez obsahu škodlivín
+
+Poplatník je povinný uhradiť poplatok za drobný stavebný odpad v hotovosti pri odovzdaní
+drobného stavebného odpadu na mieste určenom obcou – do pokladne obce na obecnom
+úrade.
+(4) Obec Veľký Slivník v súlade s § 82 ods. 2 zákona o miestnych daniach poplatok odpustí
+    za obdobie, za ktoré poplatník preukáže, že sa viac ako 90 dní v zdaňovacom období
+    nezdržiava alebo sa nezdržiaval na území mesta, a to týmito podkladmi:
+
+    a.) ak študuje mimo územia obce:
+         - ak ide o žiaka alebo študenta, ktorý navštevuje školu so sídlom na území
+              Slovenskej republiky, na preukázanie statusu žiaka alebo študenta poskytne
+              poplatník obci údaje v rozsahu meno, priezvisko a rodné číslo alebo dátum
+              narodenia žiaka alebo študenta,
+         - ak ide o žiaka alebo študenta, ktorý navštevuje školu mimo územia Slovenskej
+              republiky na preukázanie statusu žiaka alebo študenta poskytne poplatník obci
+              potvrdenie o návšteve školy
+    b.) ak sa zdržiava mimo územia mesta z dôvodu výkonu zamestnania - potvrdením od
+        zamestnávateľa (agentúry zamestnávania) o zamestnaní v danom zdaňovacom
+        období s miestom výkonu práce poplatníka mimo územia obce              a potvrdením
+        o ubytovaní alebo dokladom o prechodnom pobyte mimo územia obce,
+    c.) ak ide o fyzickú osobu, ktorá je vo vyšetrovacej väzbe alebo vo výkone trestu
+        odňatia slobody - potvrdením o vyšetrovacej väzbe alebo o výkone trestu odňatia
+        slobody a jeho dobe trvania,
+    d.) ak ide o osobu umiestnenú v zariadení sociálnych služieb - potvrdením o umiestnení
+        v zariadení sociálnych služieb a dobe jeho trvania,
+    e.) ak ide o osobu umiestnenú v reedukačnom zariadení alebo detskom domove -
+        potvrdením o umiestení v reedukačnom zariadení alebo detskom domove a dobe jeho
+        trvania,
+    f.) ak ide o osobu umiestnenú v liečebni - potvrdením o umiestnení v liečebni a o dobe
+        jej trvania.
+    g.) z iného dôvodu prechodného pobytu v inej obci - potvrdením o prechodnom pobyte
+        mimo územia obce
+    h.) ak ide o fyzickú osobu, ktorá sa zdržiava alebo zdržiavala v zahraničí
+       1. potvrdením o návšteve školy alebo pracovným povolením alebo
+       2. povolením k pobytu alebo vízom alebo
+       3. potvrdením od zamestnávateľa, prípadne agentúry, ktorá sprostredkovala prácu
+           v zahraničí súčasne s dokladom príslušnej organizácie o pobyte v zahraničí alebo
+           potvrdením o úhrade dane z príjmu v zahraničí alebo
+       4. potvrdením spoločenstva bytového domu (príp. OSBD alebo domového dôverníka)
+           v mieste trvalého pobytu poplatníka o tom, že sa poplatník zdržiava v zahraničí
+           a o dobe jeho pobytu v zahraničí alebo
+       5. ak má poplatník trvalý pobyt v rodinnom dome, výnimočne čestným prehlásením
+           o tom, že sa poplatník zdržiava v zahraničí a o dobe jeho pobytu v zahraničí
+           podpísaným dvoma susedmi identifikovanými menom, priezviskom, dátumom
+           narodenia a presnou adresou trvalého pobytu
+           Všetky potvrdenia zo zahraničia musia byť preložené do slovenského jazyka,
+           okrem potvrdení z Českej republiky
+
+
+(5) Obec podľa § 82 ods. 1 zákona o miestnych daniach vráti poplatok alebo jeho pomernú
+    časť poplatníkovi, ktorému zanikla povinnosť platiť poplatok v priebehu zdaňovacieho
+    obdobia a preukáže splnenie podmienok na vrátenie poplatku alebo jeho pomernej časti,
+    ktoré obec ustanovuje takto :
+    Spolu s oznámením zániku povinnosti platiť poplatok podaným v zmysle § 80 ods. 2
+    zákona o miestnych daniach , t.j. do 30 dní od zániku povinnosti platiť poplatok
+    predloží :
+     a) v prípade, že fyzická osoba mala povinnosť platiť poplatok z dôvodu , že mala v
+         obci trvalý pobyt alebo prechodný pobyt: dokladom o zániku trvalého alebo
+         prechodného pobytu
+     b) v prípade, že fyzická osoba mala povinnosť platiť poplatok z dôvodu , že bola na
+         území obce oprávnená užívať alebo užívala byt, nebytový priestor, pozemnú
+         stavbu alebo jej časť, alebo objekt, ktorý nie je stavbou, alebo záhradu, vinicu,
+         ovocný sad, trvalý trávny porast na iný účel ako na podnikanie, pozemok v
+         zastavanom území obce okrem lesného pozemku a pozemku, ktorý je evidovaný v
+         katastri nehnuteľností ako vodná plocha (ďalej len "nehnuteľnosť"): dokladom
+         o zániku práva užívať nehnuteľnosť na území obce napr. listom vlastníctva alebo
+         dohodou o ukončení nájmu alebo výpoveďou z nájmu, dokladom o úmrtí.
+     c) v prípade, že právnická osoba, mala povinnosť platiť poplatok z dôvodu , že bola
+         oprávnená užívať alebo užívala nehnuteľnosť nachádzajúcu sa na území obce na
+         iný účel ako na podnikanie: dokladom o zániku právnickej osoby, dokladom o
+         zániku práva užívať nehnuteľnosť napr. listom vlastníctva alebo dohodou
+         o ukončení nájmu alebo výpoveďou z nájmu.
+
+
+(6) Obec Veľký slivník v súlade s § 83 ods. 2 zákona o miestnych daniach poplatok zníži o:
+
+            - 100 % držiteľovi zlatej jánskeho plakety
+            - 50 % držiteľovi striebornej jánskeho plakety
+            - 25 % držiteľovi bronzovej jánskeho plakety
+            - 50 % držiteľovi ZŤP preukazu
+
+
+
+
+                                   ČASŤ ŠTVRTÁ
+                        Podrobnosti o elektronickej komunikácií
+                                          § 12
+
+(1)     Obec Veľký Slivník používa pre elektronickú komunikáciu s daňovníkmi e-mailovú
+adresu : velkyslivnik@gmail.com
+(2)     Daňovník, resp. poplatník môže využiť uvedenú e-mailovú adresu na zaslanie
+daňového priznania, opravného daňového priznania alebo doplnenia daňového priznania, ako
+aj na zaslanie žiadostí, potvrdení a iných dokladov (oscanovaných) potrebných na uplatnenie
+daňových povinností, oslobodení a znížení daní a poplatkov
+                                      ČASŤ PIATA
+                          SPOLOČNÉ A ZÁVEREČNÉ USTANOVENIA
+
+                                                 Spoločné ustanovenia
+                                                       § 13
+
+(1) Správu miestnych daní a miestneho poplatku vykonáva obec prostredníctvom starostu obce a
+    poverených zamestnancov obce.
+(2) Postavenie povereného zamestnanca obce - správcu miestnej dane a miestneho poplatku nemá
+    hlavný kontrolór obce.
+
+ (3) Správca dane určuje, že nebude vyrubovať miestnu daň z nehnuteľností, daň za psa, daň za
+     predajné automaty a daň za nevýherné hracie prístroje pokiaľ v úhrne neprevýši sumu 5 eur.
+
+                                                    § 14
+                                            Záverečné ustanovenia
+
+(1) Pokiaľ toto všeobecne záväzne nariadenie neobsahuje osobitnú právnu úpravu miestnych daní,
+    poplatkov a konania, platia ustanovenia zákona č. 582/2004 Z. z. o miestnych daniach a
+    miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov
+    a zákona č. 563/2009 Z. z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých
+    zákonov v znení neskorších predpisov.
+
+(2) Dňom účinnosti tohto všeobecne záväzného nariadenia sa zrušuje Všeobecne záväzné
+    nariadenie obce Veľký Slivník č. 2/2025 zo dňa 10.12.2025 o miestnych daniach a o miestnom
+    poplatku za komunálne odpady a drobné stavebné odpady na území obce Veľký Slivník a to
+    vrátane všetkých jeho zmien a doplnkov.
+
+(3) Zmeny a doplnky tohto všeobecne záväzného nariadenia schvaľuje Obecné zastupiteľstvo obce
+    Veľký Slivník.
+
+(4) Toto všeobecne záväzné nariadenie schválilo Obecné zastupiteľstvo obce Veľký Slivník dňa
+    .............................. uznesením č. ....................... a nadobúda účinnosť dňom 1.1.2027
+
+
+
+
+Vo Veľkom Slivníku dňa .............................
+                                                                   ............................................
+                                                                          Bc. Jana Sabolová
+                                                                              starostka obce
+
+
+
+
+Vyvesené na úradnej tabuli dňa: 25.11.2026
+Zvesené z úradnej tabule dňa: .....................
+

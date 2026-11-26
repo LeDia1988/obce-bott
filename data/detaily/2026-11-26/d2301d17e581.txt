@@ -1,0 +1,754 @@
+URL: https://cuet.slovensko.sk/en/dokument/c89c9e87-1839-4d1c-b837-90e9e77cd2e8
+OBEC: Spišská Belá (Kežmarok)
+NÁZOV: VZN MESTA SPIŠSKÁ BELÁ č. ../2026, o poskytovaní
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/c89c9e87-1839-4d1c-b837-90e9e77cd2e8
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VZN MESTA SPIŠSKÁ BELÁ č. ../2026, o poskytovaní
+Search publisher's RSS feeds
+Published on official board:
+Mesto Spišská Belá (OVM)
+Published from:
+25.11.2026
+Registry symbol:
+Documents author:
+Mesto Spišská Belá (OVM)
+Published to:
+25.12.2026
+Registry case:
+Name of official document:
+VZN MESTA SPIŠSKÁ BELÁ č. ../2026, o poskytovaní
+Document type:
+Elektronický úradný dokument
+Document abstract:
+VZN MESTA SPIŠSKÁ BELÁ č. ../2026, o poskytovaní sociálnych služieb na území mesta Spišská Belá a o úhradách za tieto služby
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Úradná tabuľa orgánu verejnej moci
+Date of alternative publication start:
+25.11.2026
+Date of alternative publication end:
+25.12.2026
+Attachment name:
+Dovodova-sprava.pdf
+Type and size:
+.pdf, 386 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Navrh-VZN-SoS-2027-MsZ.pdf
+Type and size:
+.pdf, 476.45 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/9e108b35-7704-4a2e-ab51-85c299d314b6
+                                      Dôvodová správa
+                           k návrhu všeobecne záväzného nariadenia
+                               Mesta Spišská Belá číslo ..../2026.
+
+        Návrh Všeobecne záväzného nariadenia mesta Spišská Belá o poskytovaní sociálnych služieb
+na území mesta Spišská Belá a o úhradách za sociálne služby (ďalej len „VZN“) sa predkladá mestskému
+zastupiteľstvu na schválenie z dôvodu potreby zosúladiť miestnu právnu úpravu s legislatívnymi
+zmenami, ktoré nadobúdajú účinnosť dňa 01.01.2027. Ide o zmeny zákona č. 448/2008 Z. z. o sociálnych
+službách a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon)
+v znení neskorších predpisov (ďalej len „zákon o sociálnych službách“), ktoré sú súčasťou reformy
+financovania sociálnych služieb, a súvisiace zavedenie nového príspevku na pomoc pri odkázanosti na
+pomoc inej fyzickej osoby podľa zákona č. 406/2025 Z. z. o príspevku na pomoc pri odkázanosti na
+pomoc inej fyzickej osoby a o zmene a doplnení niektorých zákonov (ďalej len „zákon o PPO“).
+Reforma mení zdroje a spôsob financovania sociálnych služieb – opatrovateľskej služby v domácom
+prostredí, odľahčovacej služby, ako aj financovanie zariadenia opatrovateľskej služby. Tieto zmeny sa
+bezprostredne dotýkajú výšky úhrad, ktoré prijímatelia sociálnych služieb platia mestu ako
+poskytovateľovi SoS, a preto je nevyhnutné upraviť ustanovenia VZN o úhradách za sociálne služby s
+účinnosťou od 01.01.2027.
+
+    1. S platnosťou od 01.01.2027 sa zavádza nový príspevok na pomoc pri odkázanosti (PPO),
+        ktorý má vplyv na stanovenú výšku úhrady za poskytované sociálne služby
+        V nadväznosti na pripravované legislatívne zmeny v oblasti financovania sociálnych služieb,
+        ako aj na zavedenie príspevku na pomoc pri odkázanosti od 1. 1. 2027, sa navrhuje
+        prehodnotenie výšky úhrady za poskytovanú sociálnu službu z doterajších 2,00 EUR na 6,00
+        EUR za hodinu.
+        Dôvodom navýšenia je potreba zosúladenia úhrad s aktuálnymi ekonomickými podmienkami,
+        rastúcimi nákladmi na zabezpečenie sociálnej služby a zohľadnenie ekonomicky oprávnených
+        výdavkov spojených s jej poskytovaním. Zároveň sa prihliada na zmenu systému financovania
+        a na skutočnosť, že prijímatelia sociálnych služieb budú môcť za zákonom stanovených
+        podmienok využívať príspevok na pomoc pri odkázanosti.
+
+
+    Príklad                                                Vaša predpokladaná       Vaša aktuálna
+                    max. počet
+    úväzok /                       mes. úhrada    PPO          úhrada pri            úhrada pri
+                    dní / mesiac
+     stupeň                                                     6 € / hod.            2 € / hod.
+     3 / I. st.        23,00        414,00 €     236,50          177,50 €             138,00 €
+   4,5 / II. st.       23,00        621,00 €     473,00          148,00 €             207,00 €
+   5,5 / II. st.       23,00        759,00 €     473,00          286,00 €             253,00 €
+   4,5 / III. st.      23,00        621,00 €     617,00           4,00 €              207,00 €
+   7,5 / III. st.      23,00       1 035,00 €    617,00          418,00 €             345,00 €
+   7,5 / IV. st.       23,00       1 035,00 €    858,50          176,50 €             345,00 €
+   7,50 / V. st.       23,00       1 035,00 €    1038,50            0€                345,00 €
+
+
+         Orientačný príklad dopadu na prijímateľa (pri sadzbe 6,00 €/hod.): pri rozsahu 7,50 hod.
+         opatrovateľskej služby mesačne predstavuje úhrada 1035,00 €. Odkázaná osoba so stupňom
+         odkázanosti V. (formálna časť PPO do 1038,50 €) uhradí celú sumu z PPO; osoba so stupňom
+        odkázanosti III. (PPO 617,00 €) uhradí z PPO najviac 617,00 € a zvyšok do 1035,00, t. j. 418,00
+        € hradí z vlastných príjmov.
+
+    2. Pre odľahčovaciu službu vyplývajú tieto zmeny:
+       - Rozsah odľahčovacej služby je najviac 30 dní v kalendárnom roku; ak sa poskytuje terénnou
+           alebo ambulantnou formou, za deň sa považuje 12 hodín poskytnutej služby. Ak sa
+           opatrovanie vykonáva len časť roka, poskytuje sa služba v pomernej časti [
+        -   Odľahčovacia služba sa poskytuje formou služieb podľa § 34 až 41 zákona o sociálnych
+            službách podľa výberu opatrovanej osoby (terénna, ambulantná alebo pobytová služba). Na
+            ich poskytovanie sa vzťahujú rovnaké podmienky ako mimo odľahčovacej služby, vrátane
+            zmluvy a úhrady.
+        -   Úhrada za odľahčovaciu službu sa určuje podľa druhu poskytovanej služby: pri terénnej
+            forme hodinovou sadzbou za opatrovateľskú službu, pri pobytovej a ambulantnej forme
+            dennou úhradou podľa príslušného zariadenia. Úhrada sa môže hradiť z časti PPO určenej
+            na formálnu starostlivosť, keďže odľahčovacia služba patrí medzi formálnu starostlivosť.
+Prvé tri mesiace roka 2027 sú prechodným obdobím, počas ktorého sa súčasní poberatelia a žiadatelia
+prevádzajú do nového systému. Pri ambulantných a opatrovateľských službách sa zavádzajú preddavky,
+aby bola zabezpečená kontinuita úhrady služieb do právoplatnosti rozhodnutia o PPO.
+    3. Zvýšenie úhrady za poskytovanú SoS v zariadení opatrovateľskej služby:
+       - Pri pobytových zariadeniach sa PPO nepoužíva ako zdroj úhrady v rovnakom režime ako
+          pri ambulantných a terénnych službách.
+       - prijímateľ sociálnej služby je povinný platiť úhradu za sociálnu službu, pričom úhrada
+          nesmie presiahnuť ekonomicky oprávnené výdavky na jej poskytovanie za predchádzajúci
+          rozpočtový rok. Výška úhrady je preto viazaná na náklady prevádzky zariadenia.
+       - Celkové výdavky zariadenia sa zvýšili v dôsledku rastu miezd zamestnancov, cien energií,
+          potravín a materiálu a rastu nákladov na údržbu a opravy.
+       - Zvýšenie úhrady za sociálne služby má vplyv na rozpočet mesta, ktorý spočíva v čiastočnom
+          pokrytí rastúcich prevádzkových nákladov zariadenia z úhrad prijímateľov, a tým sa zmierni
+          zaťaženie rozpočtu mesta.
+Od 01.01.2027 sa sociálne služby podľa § 34 až § 41 zákona o sociálnych službách považujú za služby
+vo všeobecnom hospodárskom záujme (§ 61a zákona o sociálnych službách). Poskytovateľ musí prijať
+záväzok na poskytovanie služby vo všeobecnom hospodárskom záujme elektronicky prostredníctvom
+informačného systému sociálnych služieb do 31. januára 2027, inak mu finančný príspevok nepatrí.
+
+
+Spišská Belá 28.10.2026
+
+Spracovala: Ing. Anna Mlaková, vedúca odboru sociálnych vecí MsÚ Spišská Belá
+
+Prekladá : Ing. Mgr. Peter Zibura, primátor mesta
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/77cbf85e-5217-4bb0-83d0-5a9e8e91d059
+     Všeobecné záväzné nariadenie
+          MESTA SPIŠSKÁ BELÁ
+              č. ..../2026,
+o poskytovaní sociálnych služieb na území
+ mesta Spišská Belá a o úhradách za tieto
+                 služby
+             Všeobecne záväzné nariadenie Mesta Spišská Belá číslo .../2026
+                                  zo dňa ..........2026
+                       o poskytovaní sociálnych služieb na území
+                        mesta Spišská Belá a o úhradách za tieto
+                                        služby
+
+   Mestské zastupiteľstvo v Spišskej Belej vo veciach územnej samosprávy v zmysle § 4 ods.
+3 písm. p), § 6 ods. 1 a § 11 ods. 4 písm. g) zákona č. 369/1990 Zb. o obecnom zriadení v znení
+neskorších predpisov a doplnkov a v zmysle príslušných ustanovení zákona č.448/2008 Z. z. o
+sociálnych službách v znení neskorších predpisov a o zmene a doplnení zákona č. 455/1991 Zb.
+o živnostenskom podnikaní (živnostenský zákon) v znení neskorších predpisov (ďalej len
+„zákon“), zákona č. 376/2024 Z. z. o integrovanej posudkovej činnosti a o zmene a doplnení
+niektorých zákonov (ďalej len „zákon o IPČ“) a zákona č. 406/2025 Z. z. o príspevku na pomoc
+pri odkázanosti na pomoc inej fyzickej osoby a o zmene a doplnení niektorých zákonov
+a ďalších súvisiacich zmien zákona (ďalej len „zákon o PPO“), vydáva toto
+
+
+
+                               Všeobecne záväzné nariadenie
+
+
+                                            §1
+                                   Všeobecné ustanovenia
+
+1.Toto všeobecne záväzné nariadenie (ďalej len „nariadenie“) podrobnejšie definuje druh a
+formu sociálnych služieb poskytovaných na území Mesta Spišská Belá.
+2.Nariadenie upravuje pôsobnosť mesta Spišská Belá vo veciach:
+a) o rozhodovaní o odkázanosti na sociálne služby v zariadení pre seniorov z iných vážnych
+dôvodov (§ 35 ods. 1 písm. b) zákona
+b) o poskytovaní a zabezpečovaní sociálnych služieb,
+c) o poskytovaní starostlivosti v zariadení opatrovateľskej
+služby,
+d) o spôsobe poskytovania opatrovateľskej služby,
+e) o poskytovaní sociálnej služby v dennom centre,
+f) o poskytovaní prepravnej služby,
+g) o spôsobe poskytovania odľahčovacej služby,
+h) o úhrade za poskytovanie sociálnych služieb so zohľadnením zavedenia príspevku na pomoc
+pri odkázanosti fyzickej osoby na pomoc inej fyzickej osoby od 1. januára 2027 podľa zákona
+o PPO.
+                                          §2
+                 Konanie vo veci uzatvorenia zmluvy na sociálnu službu
+
+1. Konanie vo veci odkázanosti na sociálnu službu, podmienky poskytovania sociálnych služieb
+a povinnosti prijímateľa sociálnych služieb sú upravené v príslušných ustanoveniach zákona o
+sociálnych službách a zákona č. 376/2024 Z. z. o integrovanej posudkovej činnosti.
+2. Konanie vo veci uzatvorenia zmluvy na sociálnu službu v zariadení opatrovateľskej služby,
+opatrovateľskej služby v domácom prostredí a prepravnej služby sa začína na základe písomnej
+žiadosti fyzickej osoby.
+3. Žiadosť o posúdenie odkázanosti na sociálnu službu, resp. žiadosť o vydanie integrovaného
+posudku na poskytovanie sociálnej služby v zariadení opatrovateľskej služby a na domácu
+opatrovateľskú službu podľa ods. 1 sa podáva spolu s potrebnými prílohami na príslušnom
+Úrade práce, sociálnych vecí a rodiny. Žiadosť o poskytnutie prepravnej služby, žiadosť
+o poskytnutie alebo zabezpečenie odľahčovacej služby, ako aj žiadosť o vydanie rozhodnutia
+o potrebe poskytovania sociálnej služby v zariadení pre seniorov z iných vážnych dôvodov
+(vopred určených a zverejnených obcou) podľa § 35 ods. 1 písm. b) zákona sa podáva Mestu
+Spišská Belá, na Mestský úrad v Spišskej Belej – odbor sociálnych vecí.
+4. Za vážne dôvody na účely tohto nariadenia sa považujú:
+    • ohrozenie správaním iných osôb – domáce násilie a s tým súvisiaca nemožnosť užívania
+         doterajšieho bývania,
+    • ohrozenie života alebo zdravia, ktoré vyžaduje bezodkladné riešenie sociálnou službou
+         v zariadení pre seniorov,
+    • ohrozenie sociálnym vylúčením alebo obmedzenie schopnosti osoby sa spoločensky
+         začleniť a samostatne riešiť svoje problémy z dôvodu, že nemá zabezpečené nevyhnutné
+         podmienky na uspokojovanie základných životných potrieb,
+    • strata doterajšieho bývania a nemožnosť zabezpečenia kontinuity bývania na voľnom
+         trhu,
+    • strata bývania v dôsledku živelnej pohromy, havárie alebo inej podobnej udalosti,
+    • osamelosť pri strate životného partnera, príp. blízkej osoby žijúcej v spoločnej
+         domácnosti spojená s vysokým vekom a jeho dôsledkami v sebestačnosti a strate
+         sociálnych kontaktov, umožnenie spoločného zdieľania života so životným partnerom,
+         ktorému sa už poskytuje sociálna služba v zariadení pre seniorov
+    • obdobie do vydania integrovaného posudku o odkázanosti na sociálnu službu
+6. Pri rozhodovaní o odkázanosti na sociálnu službu podľa ods. 3 sa uplatňuje zákon č. 71/1967
+Zb. o správnom konaní. Rozhodnutie Mesto Spišská Belá vydáva v zmysle § 13 ods. 5) a § 16
+ods. 2 písm. c) zákona č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, ako
+aj podľa § 80 písm. c) zákona.
+7. Zmluvu o poskytovaní sociálnej služby Mesto Spišská Belá uzatvára podľa § 74 a § 80 písm.
+g) zákona
+8. V konaní o uzatvorenie zmluvy o poskytovaní sociálnej služby v zariadení opatrovateľskej
+služby, prepravnej služby a opatrovateľskej služby v domácom prostredí vrátane odľahčovacej
+služby, Mesto Spišská Belá použije ako podklad na vyhotovenie zmluvy o poskytovaní
+sociálnej služby právoplatný integrovaný posudok vydaný príslušným Úradom práce a rodiny
+alebo právoplatné rozhodnutie o odkázanosti na sociálnu službu a posudku o odkázanosti na
+sociálnu službu platné do vydania nového rozhodnutia – integrovaného posudku, vydané obcou.
+9. Priebeh konania vo veci poskytovania a zabezpečenia sociálnej služby je v kompetencii
+Mesta Spišská Belá.
+                                          §3
+                          Druhy poskytovaných sociálnych služieb
+
+1. Mesto Spišská Belá poskytuje podľa druhu sociálne služby na riešenie nepriaznivej sociálnej
+situácie z dôvodu ťažkého zdravotného postihnutia alebo nepriaznivého zdravotného stavu,
+ktorými sú:
+a) zariadenie pre fyzické osoby odkázané na pomoc inej fyzickej osoby, a to:
+    • zariadenie opatrovateľskej služby (§ 36 zákona)
+    • domáca opatrovateľská služba (§ 41 zákona)
+    • prepravná služba (§ 42 zákona)
+
+b) podporné služby, a to:
+    • odľahčovacia služba (§ 54 zákona)
+    • sociálna služba v dennom centre (§ 56 zákona)
+
+f) sociálna služba krízovej intervencie, a to:
+     • sociálna služba v komunitnom centre (§ 24d zákona)
+
+
+                                            §4
+                             Zariadenie opatrovateľskej služby
+
+1. V zariadení opatrovateľskej služby sa poskytuje pobytová sociálna služba na určitý čas
+fyzickej osobe, ktorá je odkázaná na pomoc inej fyzickej osoby, ak jej nemožno poskytnúť
+opatrovateľskú službu. Dĺžku poskytovania sociálnej služby je možné opätovne predĺžiť.
+2. V zariadení opatrovateľskej služby sa
+a) poskytuje
+     1. pomoc pri odkázanosti na pomoc inej fyzickej osoby,
+     2. sociálne poradenstvo,
+     3. sociálna rehabilitácia,
+     4. ubytovanie,
+     5. stravovanie,
+     6. upratovanie, pranie, žehlenie a údržba bielizne a šatstva,
+b) utvárajú podmienky na úschovu cenných vecí.
+3. V zariadení opatrovateľskej služby sa zabezpečuje aj ošetrovateľská starostlivosť, ak
+neposkytuje zariadenie opatrovateľskej služby ošetrovateľskú starostlivosť podľa § 22.
+
+
+                                          §5
+                       Úhrada za poskytovanie sociálnej služby ZOS
+
+1. Prijímateľ sociálnej služby je povinný platiť úhradu podľa § 72 za tieto činnosti:
+    a) odborné činnosti
+   • pomoc pri odkázanosti na pomoc inej fyzickej osoby;
+    b) obslužné činnosti
+   • ubytovanie;
+   • stravovanie;
+   • upratovanie, pranie, žehlenie a údržba šatstva a bielizne.
+2. Prijímateľovi sociálnej služby sa odborné činnosti (sociálne poradenstvo, sociálna
+rehabilitácia, ošetrovateľská starostlivosť) a ďalšie činnosti uvedené v zmluve (úschova
+cenných veci) poskytujú bezplatne.
+3. ZOS upraví spôsob zabezpečenia a vykonávania iných činností, určí ich výšku úhrady vo
+svojom vnútornom predpise, po schválení zriaďovateľom.
+
+
+                                           §6
+                        Úhrada za služby spojené s ubytovaním v ZOS
+
+1. Výška úhrady za služby spojené s ubytovaním v ZOS je stanovená podľa typu izieb s počtom
+lôžok:
+     • Jednolôžková izba: 19 € na deň,
+     • Dvojlôžková izba: 18 € na deň,
+     • Trojlôžková izba: 17 € na deň.
+2. Výška úhrady za služby spojené s ubytovaním zahrňuje poplatky za poskytované služby a
+výdavky za užívanie podlahovej plochy obytnej miestnosti, príslušenstva, spoločných
+priestorov, prevádzkového zariadenia obytnej miestnosti, vybavenia obytnej miestnosti a
+príslušenstva, spoločných priestorov a vecné plnenia spojené s bývaním najmä vykurovanie,
+dodávka teplej vody, režijnými nákladmi na ubytovanie, upratovanie spoločných priestorov,
+dodávka elektrickej energie, dodávka plynu, odvádzanie odpadových vôd, osvetlenie, odvoz
+odpadu, splaškov a čistenie žúmp, revízie a vybavenie spoločnou televíznou anténou a pod.
+
+
+                                            §7
+                                 Úhrada za stravovanie v ZOS
+
+1. Stravovanie sa poskytuje v súlade so zásadami zdravej výživy a s prihliadnutím na vek a
+zdravotný stav prijímateľov podľa stravných jednotiek. Za celkovú hodnotu stravy sa považujú
+náklady na suroviny a režijné náklady na prípravu stravy.
+2. Prijímateľovi sa poskytuje celodenné stravovanie. Prijímateľ je povinný odobrať aspoň dve
+jedlá denne, z ktorých jedno musí byť obed alebo večera.
+3. Stravná jednotka za celodenné stravovanie, za ktoré sa považujú raňajky, obed, večera a dve
+vedľajšie jedlá, je pri racionálnej a šetriacej strave stanovená na 7 € na deň. Z toho: raňajky
+0,84 €, desiata 0,63 €, obed 2,80 €, olovrant 0,63 € a večera 2,10 €
+4. V prípade, že prijímateľ sociálnej služby doloží potvrdenie odborného lekára o tom, že
+nemôže odoberať stravu z vážnych zdravotných dôvodov, bude táto skutočnosť zaznamená v
+zmluve o poskytovaní sociálnej služby.
+
+                                           §8
+               Spôsob určenia a platenia úhrady za sociálnu službu v ZOS
+
+1. Výška úhrady za odborné, obslužné a ďalšie činnosti poskytované v ZOS sa v kalendárnom
+mesiaci určuje ako násobok dennej úhrady a počtu kalendárnych dní v mesiaci.
+2. Úhradu za sociálnu službu ZOS platí prijímateľ sociálnej služby za kalendárny mesiac, v
+ktorom sa sociálna služba poskytuje, najneskôr do 15. dňa kalendárneho mesiaca:
+a) platbou v hotovosti do pokladne ZOS
+b) vkladom na účet mesta - prevodom
+c) poštovou poukážkou.
+3. Prijímateľ sociálnej služby môže počas pobytu prerušiť poskytovanie sociálnej služby, počas
+prerušenia poskytovania sociálnej služby prijímateľ sociálnej služby neplatí za odborné,
+obslužné a ďalšie činnosti okrem úhrady za ubytovanie, ak voľné miesto nie je na prechodnú
+dobu obsadené inou fyzickou osobou. Za deň neprítomnosti prijímateľa sociálnej služby ZOS
+sa považuje každý deň, počas ktorého sa prijímateľ sociálnej služby v ZOS nezdržuje celých
+24 hodín.
+4. Ak prijímateľ neuhradí úhradu v lehote splatnosti, poskytovateľ ho písomne vyzve na
+zaplatenie. Nezaplatenie úhrady za čas dlhší ako tri mesiace môže byť dôvodom na ukončenie
+zmluvy výpoveďou podľa zákona o sociálnych službách.
+5. Nezaplatená úhrada alebo jej časť, je pohľadávkou mesta Spišská Belá. Peňažné pohľadávky
+nezanikajú smrťou fyzickej osoby, ktorej sa poskytovala sociálna služba za úhradu. Ak fyzická
+osoba, ktorá bola povinná platiť úhradu zomrie, nezaplatená úhrada za poskytnutú sociálnu
+službu alebo jej časť sa uplatňuje v dedičskom konaní.
+6. Ak fyzická osoba, ktorej sa poskytovala sociálna služba za úhradu, zomrie, Mesto Spišská
+Belá prihlási pomernú časť zo zaplatenej úhrady za dni neposkytovania sociálnej služby do
+aktív dedičstva.
+7. Samoplatca platí za poskytovanie sociálnych služieb v zariadení úhradu vo výške dohodnutej
+v Zmluve o poskytovaní sociálnej služby, ktorú uzatvoril s poskytovateľom sociálnej služby.
+Suma úhrady za poskytovanie sociálnej služby je najmenej vo výške ekonomicky oprávnených
+nákladov vyčíslených za predchádzajúci kalendárny rok súvisiaci s poskytovaním uvedenej
+sociálnej služby v zariadení.
+8. Výška a spôsob úhrady za sociálne služby ZOS je uvedená v zmluve o poskytovaní
+sociálnych služieb uzatvorenej medzi prijímateľom sociálnej služby alebo samoplatiteľom
+a Mestom Spišská Belá podľa § 74 zákona o sociálnych službách.
+
+                                          §9
+                                  Opatrovateľská služba
+
+1. Opatrovateľská služba je sociálna služba poskytovaná fyzickej osobe, ktorá je odkázaná na
+pomoc inej fyzickej osoby, v rozsahu a za podmienok ustanovených v § 41 zákona, ktorá má
+trvalý pobyt na území mesta Spišská Belá alebo v mestskej časti Strážky.
+2. Opatrovateľská služba sa poskytuje prijímateľovi sociálnej služby terénnou formou
+v domácom prostredí prijímateľa sociálnej služby len na území mesta Spišská Belá a mestskej
+časti Strážky.
+3. Opatrovateľskú službu nemožno poskytovať fyzickej osobe:
+a) ktorej sa poskytuje celoročná pobytová sociálna služba,
+b) ktorá je opatrovaná fyzickou osobou, ktorej sa poskytuje peňažný príspevok na opatrovanie
+podľa osobitného predpisu, ak zákon neustanovuje inak,
+c) ktorej sa poskytuje peňažný príspevok na osobnú asistenciu podľa osobitného predpisu,
+d) ktorej je nariadená karanténa pre podozrenie z nákazy prenosnou chorobou a pri ochorení
+touto nákazou,
+e) s vážnymi psychickými poruchami, ktorá by svojim konaním a správaním mohla ohrozovať
+osobu opatrovateľa. Ak prijímateľ sociálnej služby, ktorému je poskytovaná opatrovateľská
+služba, opakovane znevažuje alebo inak útočí na osobu opatrovateľa
+f) poskytovateľ ukončí výkon opatrovateľskej služby odstúpením od zmluvy.
+4. Ustanovenie odseku 3 písm. b) sa nepoužije, ak fyzickej osobe:
+a) vykonávajúcej opatrovanie sa poskytuje ústavná zdravotná starostlivosť v zdravotníckom
+zariadení,
+b) vykonávajúcej opatrovanie sa poskytuje odľahčovacia služba,
+c) ktorá je opatrovaná fyzickou osobou, ktorej sa poskytuje peňažný príspevok na opatrovanie
+podľa osobitného predpisu, sa poskytuje opatrovateľská služba v rozsahu najviac 40 hodín
+mesačne.
+5. Opatrovateľská služba sa poskytuje na dobu počas splnenia podmienok trvania nároku na
+tento druh služby.
+6. Opatrovateľská služba sa poskytuje v domácnosti prijímateľa sociálnej služby v pracovných
+dňoch podľa pracovnej doby mesta, najviac v rozsahu 7,5 hod. denne a to v čase od 7.30 hod.
+do 15.30 hod. (to platí aj pre odľahčovaciu službu). Služba sa poskytuje prostredníctvom
+opatrovateliek, s ktorými má mesto Spišská Belá uzatvorený pracovný pomer, príp. obdobný
+pracovnoprávny vzťah.
+7. Rozsah opatrovateľskej služby v hodinách bude prijímateľovi sociálnej služby poskytovaný
+podľa zaradenia do stupňa jeho odkázanosti na pomoc inej fyzickej osoby. Tento stupeň bude
+výsledkom právoplatného integrovaného posudku alebo platného posudku o odkázanosti do
+vydania nového rozhodnutia – integrovaného posudku. Na jeho základe nie je možné rozsah
+opatrovateľskej služby zvyšovať. Je možné ho len znížiť na podnet opatrovaného občana.
+8. Fyzickej osobe, ktorá žiada poskytovanie opatrovateľskej služby v inom čase, túto službu
+môže poskytovať iný zmluvný poskytovateľ.
+9. Mesto Spišská Belá poskytuje opatrovateľskú službu na základe písomnej zmluvy
+uzatvorenej s prijímateľom sociálnej služby, ktorá upravuje podmienky poskytovania
+opatrovateľskej služby, výšku a spôsob úhrady za poskytnutú opatrovateľskú službu. Fyzická
+osoba, ktorá má záujem o jej poskytovanie, je povinná podať písomnú žiadosť o poskytnutie
+alebo zabezpečenie poskytovania sociálnej služby. Žiadosť musí obsahovať údaje v súlade s §
+74 ods. 3 zákona. Súčasťou žiadosti je rozhodnutie o odkázanosti na sociálnu službu s
+komplexným posudkom, prípadne doklad o podaní žiadosti o jeho vydanie.
+10. Pri hospitalizácii alebo pri umiestnení prijímateľa sociálnej služby do zariadenia pobytovou
+formou, alebo pri prerušení poskytovania opatrovateľskej služby na dobu dlhšiu ako 30 dní je
+prijímateľ sociálnej služby (rodinní príslušníci, resp. opatrovateľ) povinný písomne informovať
+poskytovateľa o tejto skutočnosti a následne formou dodatku k zmluve deklarovať zmenu
+zmluvných podmienok.
+11. Mesto Spišská Belá poskytne opatrovateľskú službu alebo zabezpečí jej poskytovanie
+fyzickej osobe bezodkladne, ak je jej život alebo zdravie vážne ohrozené.
+12. Prijímateľ sociálnej služby je povinný písomne oznámiť mestu Spišská Belá do 8 dní zmeny
+v skutočnostiach rozhodujúcich na trvanie odkázanosti na opatrovateľskú službu a zmeny v
+príjmových a majetkových pomeroch rozhodujúcich na určenie sumy úhrady za opatrovateľskú
+službu.
+13. Opatrovateľskou službou sa poskytujú úkony podľa prílohy č. 4 zákona o sociálnych
+službách zodpovedajúce činnostiam, ktoré podľa integrovaného posudku fyzická osoba nie je
+schopná samostatne vykonávať alebo je schopná ich vykonávať s dohľadom, v rozsahu
+ustanovenom všeobecne záväzným právnym predpisom pre stupeň odkázanosti tejto fyzickej
+osoby, ak sa poskytovateľ sociálnej služby s prijímateľom sociálnej služby nedohodne na
+nižšom rozsahu.
+14. Opatrovateľská služba sa neposkytuje v rozsahu úkonov, ktoré presahujú rámec zákona o
+sociálnych službách alebo vyžadujú výkon zdravotníckeho povolania.
+15. Poskytovanie opatrovateľskej služby možno ukončiť dohodou, výpoveďou alebo
+odstúpením od zmluvy za podmienok uvedených v zmluve a v zákone.
+                                         § 10
+                        Určenie úhrady za opatrovateľskú službu
+
+1. Rozsah úkonov domácej opatrovateľskej služby určuje Mesto Spišská Belá v hodinách podľa
+jednotlivých úkonov podľa prílohy č. 4 zákona.
+2. Pri určení výšky úhrady a jej platení sa postupuje podľa § 73 zákona, vrátane ustanovení o
+zohľadnení príjmu prijímateľa a príspevku na odkázanosť.
+Celková výška úhrady za opatrovateľskú službu je určená v závislosti od času a doby jej
+poskytovania a za 1 hodinu opatrovateľskej služby je stanovená takto :
+od 7,30 – 15,30 hod. počas pracovných dní: 6,00 EUR/hod.
+Pre účely výpočtu sa výška celkovej úhrady za opatrovateľskú službu v kalendárnom mesiaci
+určuje ako 23-násobok dennej sadzby.
+3. Úhradu za poskytovanú domácu opatrovateľskú službu platí prijímateľ sociálnej služby
+podľa skutočného rozsahu poskytnutých úkonov sebaobsluhy, úkonov starostlivosti o
+domácnosť a základných sociálnych aktivít za kalendárny mesiac, v ktorom sa opatrovateľská
+služba poskytovala.
+4. Čas poskytnutej opatrovateľskej služby sa zaznamenáva v mesačnom výkaze, ktorý
+potvrdzuje opatrovateľ aj prijímateľ sociálnej služby (alebo jeho zákonný zástupca či
+opatrovník). Poskytovateľ vyúčtuje úhradu mesačne vždy za predchádzajúci kalendárny mesiac
+na základe potvrdeného výkazu.
+5. Mesačná úhrada sa uhradí do 15-tého dňa v mesiaci za predchádzajúci kalendárny mesiac.
+Úhradu za sociálnu službu – opatrovateľskú službu môže prijímateľ sociálnej služby platiť:
+a) platbou v hotovosti do pokladne mesta
+b) vkladom na účet mesta
+c) poštovou poukážkou
+6. Prijímateľ môže na úhradu za opatrovateľskú službu použiť príspevok na odkázanosť v časti
+určenej na formálnu starostlivosť. Úhrada za opatrovateľskú službu zostáva povinnosťou
+prijímateľa aj vtedy, ak ju hradí z príspevku na odkázanosť.
+7. Poskytovateľ je povinný na požiadanie prijímateľa vydať potvrdenie o výške a zaplatení
+úhrady, ktoré slúži na preukázanie výdavkov na formálnu starostlivosť orgánu, ktorý príspevok
+na odkázanosť vypláca.
+8. Ak je v zmysle zákona na úhradu opatrovateľskej služby poskytovaný preddavok,
+poskytovateľ a prijímateľ postupujú pri jeho použití a vyúčtovaní podľa osobitného predpisu a
+zmluvy.
+9. Ak prijímateľ neuhradí úhradu v lehote splatnosti, poskytovateľ ho písomne vyzve na
+zaplatenie. Nezaplatenie úhrady za dlhšie obdobie ako dva mesiace môže byť dôvodom na
+ukončenie zmluvy výpoveďou podľa zákona o sociálnych službách.
+10. Prijímateľ sociálnej služby je povinný platiť úhradu za sociálnu službu v sume určenej
+poskytovateľom sociálnej služby na základe zmluvy uzatvorenej s mestom Spišská Belá podľa
+§ 74 zákona.
+11. Prijímateľ sociálnej služby je povinný platiť úhradu za poskytovanú sociálnu službu ku dňu
+jej splatnosti podľa svojho príjmu a majetku.
+12. Po zaplatení úhrady za opatrovateľskú službu musí prijímateľovi sociálnej služby zostať
+mesačne z jeho príjmu najmenej 1,65-násobok sumy životného minima pre jednu plnoletú
+fyzickú osobu ustanovenej osobitným predpisom.
+13. Ak prijímateľ sociálnej služby nemá príjem alebo jeho príjem nepostačuje na platenie
+úhrady za sociálnu službu, môže úhradu za sociálnu službu alebo jej časť platiť aj iná osoba,
+ktorá uzatvorí s poskytovateľom sociálnej služby zmluvu o platení úhrady za sociálnu službu.
+14. Ak podľa ustanovení zákona nevznikne prijímateľovi sociálnej služby povinnosť platiť
+úhradu za sociálnu službu alebo jej časť ku dňu splatnosti úhrady za sociálnu službu, prechádza
+táto povinnosť postupne na zaopatrené plnoleté deti a rodičov, ak sa ich príjem spoločne
+neposudzuje a spoločne nezapočítava s príjmom prijímateľa sociálnej služby; zaopatreným
+plnoletým deťom alebo rodičom po zaplatení úhrady za sociálnu službu musí mesačne zostať
+1,65-násobok sumy životného minima ustanovenej osobitným predpisom. Zaopatrené plnoleté
+deti alebo rodičia uzatvoria s poskytovateľom sociálnej služby písomnú zmluvu o platení
+úhrady za sociálnu službu podľa osobitného predpisu.
+15. Ak nedôjde k uzatvoreniu zmluvy medzi poskytovateľom sociálnej služby a zaopatrenými
+plnoletými deťmi alebo rodičmi, Mesto Spišská Belá vydá rozhodnutie v rozsahu svojej
+pôsobnosti o povinnosti týchto fyzických osôb zaplatiť úhradu tomuto poskytovateľovi
+sociálnej služby za sociálnu službu alebo jej časť za prijímateľa sociálnej služby, ktorému
+nevznikne povinnosť platiť úhradu za sociálnu službu alebo jej časť.
+12. Nezaplatená úhrada alebo jej časť, je pohľadávkou mesta Spišská Belá. Peňažné
+pohľadávky nezanikajú smrťou fyzickej osoby, ktorej sa poskytovala sociálna služba za úhradu.
+Ak fyzická osoba, ktorá bola povinná platiť úhradu zomrie, nezaplatená úhrada za poskytnutú
+sociálnu službu alebo jej časť sa uplatňuje v dedičskom konaní.
+13. Ak fyzická osoba, ktorej sa poskytovala sociálna služba za úhradu, zomrie, Mesto Spišská
+Belá prihlási pomernú časť zo zaplatenej úhrady za dni neposkytovania sociálnej služby do
+aktív dedičstva.
+14. Samoplatca platí za poskytovanie opatrovateľskej služby úhradu vo výške dohodnutej v
+Zmluve o poskytovaní sociálnej služby, ktorú uzatvoril s poskytovateľom sociálnej služby.
+Suma úhrady za poskytovanie opatrovateľskej služby je najmenej vo výške ekonomicky
+oprávnených výdavkov vyčíslených za predchádzajúci kalendárny rok súvisiaci s
+poskytovaním uvedenej sociálnej služby
+15. Podmienky poskytovania opatrovateľskej služby, výšku a spôsob úhrady za uvedenú
+sociálnu službu upravuje Zmluva o poskytovaní sociálnej služby uzatvorená podľa § 74 zákona
+o sociálnych službách medzi Mestom Spišská Belá a prijímateľom sociálnej služby.
+
+
+                                            § 11
+                                      Prepravná služba
+
+1. Prepravná služba je sociálna služba poskytovaná fyzickej osobe s ťažkým zdravotným
+postihnutím odkázanej na individuálnu prepravu osobným motorovým vozidlom alebo fyzickej
+osobe s nepriaznivým zdravotným stavom s obmedzenou schopnosťou pohybu po rovine alebo
+po schodoch a obmedzenou schopnosťou orientácie.
+2. Prepravná služba sa poskytuje len fyzickým osobám s trvalým pobytom v meste Spišská
+Belá.
+3. Odkázanosť na individuálnu prepravu osobným motorovým vozidlom podľa odseku 1 sa
+preukazuje posudkom vydaným príslušným úradom práce, sociálnych vecí a rodiny na účely
+kompenzácie sociálnych dôsledkov ťažkého zdravotného postihnutia podľa osobitného
+predpisu.
+4. Nepriaznivý zdravotný stav podľa odseku 1 fyzická osoba preukazuje potvrdením
+poskytovateľa zdravotnej starostlivosti podľa osobitného predpisu.
+5. Konanie vo veci priznania prepravnej služby sa začína na základe žiadosti fyzickej osoby
+uvedenej v odseku 1. Na poskytnutie prepravnej služby nie je právny nárok.
+6. Prepravná služba na konkrétnu prepravu sa objednáva u prevádzkovateľa a poskytuje
+v pracovných dňoch v čase od 7.30 od 15.30 hod. Výnimočne v odôvodnených prípadoch je
+možné prepravnú službu poskytnúť aj v inom čase, o čom rozhoduje jej prevádzkovateľ,
+ktorým je Mesto Spišská Belá. Prepravná služba sa poskytuje na území mesta Spišská Belá ale
+aj mimo jeho územia.
+7. Prepravná služba sa objednáva minimálne deň vopred v pracovných dňoch v čase od 7.30 do
+15.30 hod.
+
+                                          § 12
+            Výška úhrady, spôsob jej určenia a platenia za prepravnú službu
+
+1. Prijímateľ služby je povinný zaplatiť úhradu za poskytnutú prepravnú službu v nasledovnej
+výške:
+a) 0,25 EUR za každý aj začatý kilometer uskutočnenej prepravy (začiatok jazdy sa počíta zo
+sídla poskytovateľa – Mestský úrad, Petzvalova 18, Spišská Belá).
+V prípade, že prepravnú službu budú využívať súbežne v rovnakom termíne, čase a na rovnaké
+miesto viacerí prijímatelia sociálnej služby, celková úhrada za poskytnutú službu bude
+rozúčtovaná na počet prijímateľov, ktorým bude prepravná služba súbežne poskytnutá, vrátane
+úhrady za státie
+b) 1,50 EUR za každú ďalšiu začatú hodinu státia (tzv. stojné), pričom čas jazdy sa do tohto
+čase nezapočítava (prvá hodina čakania sa neuhrádza).
+c) 5,00 EUR za zbytočný výjazd.
+2. Úhradu za prepravnú službu zaplatí prijímateľ služby priamou platbou vodičovi vozidla
+bezprostredne po ukončení jazdy a vodič odovzdá prijímateľovi služby doklad o tejto úhrade.
+3. Suma úhrady za prepravnú službu sa určí ako súčin dĺžky prepravnej vzdialenosti a výšky
+úhrady za 1 km prepravnej vzdialenosti určenej v bode 1 tohto článku. Dĺžka prepravnej
+vzdialenosti sa ráta zo sídla poskytovateľa prepravnej služby do určenia prepravy. Stojné za
+každú začatú hodinu je uvedené v bode 1 písm. b) tohto článku.
+4. V prípade, že fyzická osoba, ktorá si prepravnú službu objednala, stratí záujem o poskytnutie
+služby, je jej povinnosťou objednávku v ten deň bez zbytočného odkladu stornovať. Storno
+objednávky vykonané najneskôr do času výjazdu motorového vozidla, ktorým sa prepravná
+služba zabezpečuje, je bezplatné. V prípade, že storno objednávky bude vykonané až po
+výjazde motorového vozidla na miesto nástupu, vzniká žiadateľovi o prepravnú službu
+povinnosť zaplatiť poplatok za zbytočný výjazd vo výške uvedenej v bode 1 písm. c) tohto
+článku.
+5. Podmienky poskytovania prepravnej služby, výšku a spôsob úhrady za uvedenú sociálnu
+službu upravuje Zmluva o poskytovaní sociálnej služby uzatvorená podľa § 74 zákona medzi
+Mestom Spišská Belá a prijímateľom sociálnej služby.
+
+                                           § 13
+                                     Podporná služba
+                                    Odľahčovacia služba
+
+1. Odľahčovacia služba je sociálna služba poskytovaná fyzickej osobe, ktorá opatruje fyzickú
+osobu s ťažkým zdravotným postihnutím podľa osobitného predpisu (ďalej len „fyzická osoba,
+ktorá opatruje“), ktorou sa poskytuje alebo zabezpečuje fyzickej osobe s ťažkým zdravotným
+postihnutím sociálna služba počas obdobia, v ktorom fyzická osoba, ktorá opatruje, nemôže
+opatrovanie vykonávať. Opatrovanou osobou je fyzická osoba s ťažkým zdravotným
+postihnutím odkázaná na pomoc inej fyzickej osoby, ktorej je určený stupeň odkázanosti IV
+alebo V podľa zákona č. 376/2024 Z. z. o integrovanej posudkovej činnosti a o zmene
+a doplnení niektorých zákonov.
+2. Cieľom odľahčovacej služby je umožniť fyzickej osobe, ktorá opatruje, nevyhnutný
+odpočinok na účel udržania jej fyzického zdravia a duševného zdravia a prevencie jeho
+zhoršenia.
+3. Odľahčovacia služba sa poskytuje najviac 30 dní v kalendárnom roku. Ak sa poskytuje
+terénnou formou alebo ambulantnou formou, za deň poskytnutej odľahčovacej služby sa
+považuje 12 hodín poskytnutej služby dosiahnutých počas jedného alebo viacerých
+kalendárnych dní, t. j. najviac 360 hodín v kalendárnom roku. Nevyčerpané dni odľahčovacej
+služby v kalendárnom roku nemožno poskytnúť v nasledujúcom kalendárnom roku.
+4. Súčasťou pomoci, ktorá sa poskytuje fyzickej osobe odkázanej na pomoc inej fyzickej
+osoby v rámci odľahčovacej služby terénnou sociálnou službou, je aj poskytovanie úkonov
+starostlivosti o jej domácnosť a zabezpečenie základných sociálnych aktivít.
+5. V prípade, že odľahčovacia služba je fyzickej osobe poskytovaná formou opatrovateľskej
+služby, spôsob a výška úhrady sa určí podľa § 10 ods. 2 tohto všeobecne záväzného neriadenia.
+6. Odľahčovacia služba môže byť fyzickej osobe poskytovaná v kompetencii Mesta Spišská
+Belá formou:
+a) terénnej sociálnej služby,
+b) ambulantnej sociálnej služby,
+c) pobytovej sociálnej služby.
+7. Podmienkou odkázanosti fyzickej osoby s ťažkým zdravotným postihnutím pre účely
+poskytovania odľahčovacej služby je posudok, resp. integrovaný posudok vydaný príslušným
+úradom práce, sociálnych vecí a rodiny, na základe ktorého je fyzická osoba odkázaná na
+opatrovateľskú službu a poberá príspevok na opatrovanie. Fyzická osoba – opatrovateľ/ka
+podáva mestu písomnú žiadosť o poskytovanie odľahčovacej služby v primerane dostatočnom
+časovom predstihu, minimálne mesiac vopred.
+8. Prijímateľom odľahčovacej služby je opatrovaná osoba, ktorej sa počas obdobia odľahčenia
+poskytuje alebo zabezpečuje sociálna služba a neformálny opatrovateľ, ktorému sa poskytuje
+odľahčenie,
+9. Poskytovateľom odľahčovacej služby je verejný alebo neverejný poskytovateľ sociálnej
+služby zapísaný v registri poskytovateľov sociálnych služieb.
+
+                                      § 14
+  Podmienky poskytovania odľahčovacej služby. Výška úhrady, spôsob jej určenia a
+                        platenia za odľahčovaciu službu
+
+1. Nárok na odľahčovaciu službu má neformálny opatrovateľ/ka, ktorý vykonáva neformálnu
+starostlivosť o opatrovanú osobu a nemôže opatrovanie vykonávať z dôvodu najmä:
+a)    ochorenia alebo hospitalizácie neformálneho opatrovateľa/ky,
+b)    rehabilitačného alebo liečebného pobytu,
+c)    vybavovania osobných záležitostí, ktoré nemožno vybaviť v čase, keď je opatrovaná
+      osoba v starostlivosti neformálneho opatrovateľa/ky,
+d)    odpočinku, dovolenky alebo regenerácie síl,
+e)    inej vážnej životnej situácie.
+2. Odľahčovacia služba sa poskytuje, ak opatrovanou osobou je fyzická osoba s ťažkým
+zdravotným postihnutím odkázaná na pomoc inej fyzickej osoby, ktorej je určený stupeň
+odkázanosti IV alebo V podľa zákona o IPČ a neformálny opatrovateľ/ka je evidovaný/á podľa
+zákona o PPO.
+3. Splnenie podmienok podľa odsekov 1 a 2 sa preukazuje najmä:
+a)    posudkom/rozhodnutím o určení stupňa odkázanosti opatrovanej osoby,
+b)    dokladom o priznaní PPO alebo o výplate príspevku na opatrovanie podľa prechodných
+      ustanovení zákona o PPO,
+c)    čestným vyhlásením neformálneho opatrovateľa o dôvode, pre ktorý nemôže opatrovanie
+      vykonávať, a o jeho predpokladanej dĺžke.
+4. V prípade, že odľahčovacia služba je fyzickej osobe poskytovaná formou domácej
+opatrovateľskej služby, spôsob a výška úhrady sa určí rovnako, ako suma úhrady za
+opatrovateľskú službu.
+5.V prípade, že odľahčovacia služba je fyzickej osobe poskytovaná v zariadení
+opatrovateľskej služby, ktorého zriaďovateľom je Mesto Spišská Belá, spôsob a výška úhrady
+sa určí rovnako, ako suma úhrady v zariadení opatrovateľskej služby tohto všeobecne
+záväzného nariadenia.
+6. V prípade, že odľahčovacia služba je fyzickej osobe poskytovaná iným poskytovateľom,
+spôsob a výška úhrady sa určí podľa druhu a formy poskytovanej sociálnej služby a bude
+stanovená konkrétnym poskytovateľom sociálnej služby.
+7. Podmienky, výšku a spôsob úhrady za sociálnu službu poskytovanú v rámci odľahčovacej
+služby upravuje zmluva o poskytovaní sociálnej služby uzatvorená medzi oprávnenou osobou
+a poskytovateľom sociálnej služby podľa §74 zákona o sociálnych službách.
+8. Odľahčovaciu službu poskytuje alebo zabezpečuje mesto na základe písomnej žiadosti
+opatrovanej osoby alebo neformálneho opatrovateľa (ďalej len „žiadateľ“). Žiadosť sa podáva
+osobne, poštou alebo elektronicky so zaručeným elektronickým podpisom na Mestský úrad v
+Spišskej Belej, odbor sociálnych vecí.
+9. K žiadosti žiadateľ pripojí doklady uvedené v ods. 3 a tiež údaje potrebné na uzatvorenie
+zmluvy o poskytovaní uvedenej sociálnej služby.
+10. Mesto žiadosť posúdi a žiadateľa písomne informuje o spôsobe zabezpečenia odľahčovacej
+služby do 30 pracovných dní od doručenia úplnej žiadosti. Ak ide o neodkladný prípad (najmä
+náhle ochorenie alebo hospitalizácia neformálneho opatrovateľa), mesto rozhodne
+bezodkladne, najneskôr do 5 pracovných dní.
+11. Mesto zabezpečí poskytovanie odľahčovacej služby u poskytovateľa, ktorého si vyberie
+opatrovaná osoba alebo jej zástupca, ak tento poskytovateľ má voľnú kapacitu a súhlasí s jej
+poskytnutím.
+12. Podkladom pre poskytovanie odľahčovacej služby je písomná zmluva o poskytovaní
+sociálnej služby podľa § 74 zákona o sociálnych službách uzatvorená medzi poskytovateľom a
+prijímateľom.
+13. Ak mesto žiadosti nevyhovie, žiadateľa o tom písomne informuje a uvedie dôvody.
+14. Mesto vedie evidenciu vyčerpaného rozsahu odľahčovacej služby (v dňoch a hodinách) u
+každého prijímateľa za kalendárny rok.
+                                          § 15
+                                     Podporná služba
+                                      Denné centrum
+
+1. V Dennom centre sa poskytuje sociálna služba počas dňa fyzickej osobe, ktorá dovŕšila
+dôchodkový vek, fyzickej osobe s ťažkým zdravotným postihnutím alebo nepriaznivým
+zdravotným stavom, rodičovi s dieťaťom alebo starému rodičovi s vnukom alebo vnučkou.
+2. V dennom centre sa najmä
+a) poskytuje sociálne poradenstvo,
+b) zabezpečuje záujmová činnosť.
+3. V dennom centre sa poskytuje sociálna služba počas dňa bezplatne.
+4. Podmienky a podrobnosti poskytovania sociálnej služby v Dennom Centre Spišská Belá so
+sídlom Hviezdoslavova 379/21, Spišská Belá a Dennom centre so sídlom Ladislava
+Medňanského 2711/3A, Spišská Belá - Strážky upravuje Prevádzkový poriadok vrátane
+sadzobníka poplatkov za prenájom priestorov Denného centra v Strážkach, ktorý je zverejnený
+na webovom sídle mesta.
+
+                                           § 16
+                           Sociálna služba krízovej intervencie
+                                  Komunitné centrum
+
+1. V komunitnom centre sa poskytuje počas dňa sociálna služba fyzickej osobe v nepriaznivej
+sociálnej situácii:
+    • základné sociálne poradenstvo,
+    • pomoc pri uplatňovaní práva právom chránených záujmov,
+    • pomoc pri príprave na školské vyučovanie a sprevádzanie dieťaťa do a zo školy a
+       školského zariadenia,
+    • zabezpečuje záujmová činnosť,
+    • vykonáva preventívna aktivita,
+    • vykonáva komunitná práca a komunitná rehabilitácia
+2. O poskytnutí sociálnej služby vedie komunitné centrum spisovú agendu.
+1. Sociálna služba v komunitnom centre sa poskytuje ambulantnou a terénnou formou.
+2. V komunitnom centre sa poskytuje sociálna služba počas dňa v čase jeho prevádzkových
+    hodín bezplatne.
+3. Podmienky a podrobnosti týkajúce sa poskytovania sociálnej služby v komunitnom centre
+    upravuje Prevádzkový poriadok komunitného centra, ktorý je zverejnený na webovom sídle
+    mesta.
+                                           § 17
+                                   Záverečné ustanovenie
+
+1. Týmto nariadením sa ruší Všeobecne záväzné nariadenie mesta Spišská Belá č. 1/2025 o
+poskytovaní sociálnych služieb na území mesta Spišská Belá a o úhradách za tieto sociálne
+služby.
+2. Toto nariadenie bolo schválené Uznesením Mestského zastupiteľstva Spišská Belá č.
+......../2026 zo dňa ...............
+3. Toto nariadenie nadobúda platnosť dňom jeho schválenia Mestským zastupiteľstvom v
+Spišskej Belej a jeho vyvesením na úradnej tabuli mesta. VZN s výnimkou § 6, § 7, § 10
+nadobúda účinnosť pätnástym dňom od jeho vyvesenia.
+4. Nariadenie vo veci určenia úhrady za poskytovanie sociálnej služby v zariadení
+opatrovateľskej služby a opatrovateľskej služby podľa § 6, § 7 a § 10 tohto VZN, nadobúda
+účinnosť od 01.01.2027.
+
+
+
+
+                                            ........................................................
+                                                      Ing. Mgr. Peter Zibura
+                                                              primátor mesta
+Doložky :
+
+Uvedený návrh tohto všeobecne záväzného nariadenia bol vyvesený na pripomienkovanie na
+úradnej tabuli mesta:
+
+
+dňa : ..................     pečiatka                      podpis: .................................
+
+
+Uvedené všeobecne záväzné nariadenie bolo po jeho schválení mestským zastupiteľstvom
+vyvesené (publikované) na úradnej tabuli mesta :
+
+
+dňa : ..................      pečiatka                      podpis: .................................
+
+
+Uvedené všeobecne záväzné nariadenie bolo zvesené z úradnej tabule mesta :
+
+
+dňa : ....................   pečiatka                     podpis: ................................
+
