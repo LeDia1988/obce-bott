@@ -1,0 +1,353 @@
+URL: https://cuet.slovensko.sk/en/dokument/7c40cc20-841c-4b76-ac4f-b911278aefdf
+OBEC: Osikov (Bardejov)
+NÁZOV: Návrh finančného rozpočtu Obce Osikov na roky 2027, 2028, 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/7c40cc20-841c-4b76-ac4f-b911278aefdf
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh finančného rozpočtu Obce Osikov na roky 2027, 2028, 2029
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Osikov
+Published from:
+26.11.2026
+Registry symbol:
+FF1 A-10
+Documents author:
+Zverejňovanie na CUET - Obec Osikov
+Published to:
+11.12.2026
+Registry case:
+OcÚ-0440/2026
+Name of official document:
+Návrh finančného rozpočtu Obce Osikov na roky 2027, 2028, 2029
+Document abstract:
+Návrh finančného rozpočtu Obce Osikov na roky 2027, 2028, 2029
+[https://www.obecosikov.sk/e_download.php?file=/data/uredni_deska/obsah2074_1.pdf&original=Návrh finančného rozpočtu na roky 2027, 2028, 2029.pdf]_ _
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh finančného rozpočtu na roky 2027, 2028, 2029.pdf
+Type and size:
+.pdf, 499.41 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/efaf77ba-758b-4b1d-a18b-6943b8ffd01a
+Obec Osikov                                                  Návrh finančného rozpočtu na roky 2027, 2028, 2029                              Strana 1
+Obecný úrad
+Príjmy
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.    Názov                                                         Návrh 2027   Návrh 2028   Návrh 2029
+1                                                   1-bežný rozpočet
+                          111003     41             Výnos dane z príjmov poukázaný územnej samospráve             419 887.00   436 911.00   458 318.00
+                          121001     41             Z pozemkov                                                     18 000.00    18 000.00    18 000.00
+                          121002     41             Zo stavieb                                                      5 000.00     5 000.00     5 000.00
+                          133001     41             Za psa                                                            550.00       550.00       550.00
+                          133013     41             Za komunálne odpady a drobné stavebné odpady                   42 692.00    42 692.00    42 692.00
+                          211003     41      VVS    Dividendy                                                       4 100.00     4 100.00     4 100.00
+                          212002     41             Z prenajatých pozemkov                                             50.00        50.00        50.00
+                          212003     41             Z prenajatých budov, priestorov a objektov                        400.00       400.00       400.00
+                          212003     41      1      Z pren.budov, priest. a obj.-BAR                                1 200.00     1 200.00     1 200.00
+                          212003     41      2      Z pren. budov, priestorov a obj.-verej.priestr.                   300.00       300.00       300.00
+                          212004     41      1      Z pren. str., prístr., zar.-popl.za miešačku                       20.00        20.00        20.00
+                          212004     41      2      Z pren. str., prístr., zar.-popl.za prívesný vozík                 20.00        20.00        20.00
+                          222003     41             Za porušenie predpisov                                             50.00        50.00        50.00
+                          223001     41             Predaj tovarov a služieb-predaj knih                               20.00        20.00        20.00
+                          223001     41      1      Správny poplatok                                                3 000.00     3 000.00     3 000.00
+                          223001     41      12     Poplatok za knižnicu                                               10.00        10.00        10.00
+                          223001     41      14     El.energia                                                        200.00       200.00       200.00
+                          223001     41      15     Plyn                                                              100.00       100.00       100.00
+                          223001     41      16     vodné                                                              50.00        50.00        50.00
+                          223001     41      2      Relácia v MR                                                      150.00       150.00       150.00
+                          223001     41      3      Kopirovacie prace                                                  10.00        10.00        10.00
+                          223001     41      4      Stočné                                                         35 000.00    35 000.00    35 000.00
+                          223001     41      5      Vypožičanie riadu                                                 150.00       150.00       150.00
+                          223001     41      8      Odpadové nádoby                                                   150.00       150.00       150.00
+                          223001     41      9      Cintorínsky poplatok                                              300.00       300.00       300.00
+                          223001     41      ZSMS   Predaj tovarov a služieb - práce pre iné subjekty              14 000.00    14 000.00    14 000.00
+                          223002     72j            Za jasle, materské školy a školské kluby detí                   6 000.00     6 000.00     6 000.00
+                          223003     41             Za stravné-réžia                                                2 000.00     2 000.00     2 000.00
+                          223003     72f     8      Za stravné/stravníci ŠJ                                        17 000.00    17 000.00    17 000.00
+                          242        41             Z vkladov                                                          80.00        80.00        80.00
+                          292012     41             Z dobropisov                                                      500.00       500.00       500.00
+                          292019     41      1      Z refundácie-ČOV                                               32 000.00    32 000.00    32 000.00
+                          311        71      1      Granty-DPO                                                      3 000.00     3 000.00     3 000.00
+                          312001     111     10     Zo stat.rozpoctu dec.dotacia-prenes.výkon správy                  380.00       380.00       380.00
+                          312001     111     112    Zo štátneho rozpočtu okrem transferu - samoobsluž              14 500.00    14 500.00    14 500.00
+                          312001     111     113    Zo štátneho rozpočtu okrem transferu - AU ZŠ                   19 000.00    19 000.00    19 000.00
+
+Vytlačené 26.11.2026 sa                                                                                                                       31-558321623
+Obec Osikov                                                  Návrh finančného rozpočtu na roky 2027, 2028, 2029                                    Strana 2
+Obecný úrad
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.    Názov                                                          Návrh 2027     Návrh 2028     Návrh 2029
+                          312001     111     114    Zo štátneho rozpočtu okrem transferu - AU MS                     20 000.00      20 000.00      20 000.00
+                          312001     111     14     Zo štát.rozpočtu - na životné prostr.                               130.00         130.00         130.00
+                          312001     111     3      Zo štát.r.stravné MŠ 5.r.detí                                     4 500.00       4 500.00       4 500.00
+                          312001     111     34     Zo štát.r.stravné ZŠ                                             15 000.00      15 000.00      15 000.00
+                          312001     111     9      Zo štát.rozpočtu ZŠ                                             185 394.00     185 394.00     185 394.00
+                          312001     111     91     Zo štát.rozpočtu ZŠ vzd.poukazy                                   1 000.00       1 000.00       1 000.00
+                          312001     111     93     Zo štát.rozpočtu MŠ - výchovno-vzdel.proces-5.roč.                2 200.00       2 200.00       2 200.00
+                          312001     111     99     Zo ŠR ZŠ-učebnice                                                   700.00         700.00         700.00
+                          312001     111     ENV    Envirofond                                                        2 000.00       2 000.00       2 000.00
+                          312001     111     NORM   Zo štát.rozpočtu MŠ                                             197 134.00     197 134.00     197 134.00
+                          312001     111     UPSV   Zo štátneho rozpočtu UPSVaR                                         200.00         200.00         200.00
+                          312011     11H            Od ostatných subjektov verejnej správy                              100.00         100.00         100.00
+            *                                                                                                     1 068 227.00   1 085 251.00   1 106 658.00
+*1                                                  1-bežný rozpočet                                              1 068 227.00   1 085 251.00   1 106 658.00
+2                                                   2-kapitálový rozpočet
+                          322001     111     CHOD   Zo štátneho rozpočtu - chodník - prekládka-cintor.               15 000.00          0.00            0.00
+                          322001     111     KAN    Zo štátneho rozpočtu - kanalizácia Hančík II.etapa              171 000.00          0.00            0.00
+                          322001     111     KSB    Zo štátneho rozpočtu - KSB projekt - rekonštr.bud.            1 038 475.31          0.00            0.00
+                          322001     111     KŠA    Zo štátneho rozpočtu-šatne-rekonštruk.+ amfiteáter              243 333.94          0.00            0.00
+                          322001     111     MULT   Zo štátneho rozpočtu - Multifunkčné ihrisko-tenis.              152 515.60          0.00            0.00
+                          322001     111     ODD    Zo štátneho rozpočtu-oddychová zóna-park cintorín                44 000.00          0.00            0.00
+            *                                                                                                     1 664 324.85          0.00            0.00
+*2                                                  2-kapitálový rozpočet                                         1 664 324.85          0.00            0.00
+3                                                   3-finančné operácie
+                          453        131N    9      Zostatok prostriedkov z predchádzajúcich rokov                   1 000.00       1 000.00       1 000.00
+                          454002     46             Z ostatných fondov obce a z ostatných fondov                     3 000.00      13 300.00      13 300.00
+                          513002     52             Dlhodobé - úvery - kapitálové výdavky                          286 000.00           0.00           0.00
+            *                                                                                                      290 000.00      14 300.00      14 300.00
+*3                                                  3-finančné operácie                                            290 000.00      14 300.00      14 300.00
+                                                    Spolu                                                         3 022 551.85   1 099 551.00   1 120 958.00
+
+
+
+
+Vytlačené 26.11.2026 sa                                                                                                                             31-567321623
+Obec Osikov                                                  Návrh finančného rozpočtu na roky 2027, 2028, 2029                              Strana 3
+Obecný úrad
+Výdaje
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.    Názov                                                         Návrh 2027   Návrh 2028   Návrh 2029
+1                                                   1-bežný rozpočet
+            01.1.1                                  Výkonné a zákonodarné orgány
+                          611        41             Tarifný plat, osobný plat, základný plat, funkčný             110 250.00   110 250.00   110 250.00
+                          614        41             Odmeny                                                          5 250.00     5 250.00     5 250.00
+                          621        41             Poistné do Všeobecnej zdravotnej poisťovne                      6 360.00     6 360.00     6 360.00
+                          623        41             Poistné do ostatných zdravotných poisťovní                      6 345.00     6 345.00     6 345.00
+                          625001     41             Na nemocenské poistenie                                         1 617.00     1 617.00     1 617.00
+                          625002     41             Na starobné poistenie                                          16 170.00    16 170.00    16 170.00
+                          625003     41             Na úrazové poistenie                                              925.00       925.00       925.00
+                          625004     41             Na invalidné poistenie                                          3 465.00     3 465.00     3 465.00
+                          625005     41             Na poistenie v nezamestnanosti                                  1 155.00     1 155.00     1 155.00
+                          625007     41             Na poistenie do rezervného fondu solidarity                     5 485.00     5 485.00     5 485.00
+                          627        41             Príspevok do doplnkových dôchodkových poisťovní                 1 700.00     1 700.00     1 700.00
+                          631001     41             Tuzemské                                                          200.00       200.00       200.00
+                          632002     41             Vodné, stočné                                                     300.00       300.00       300.00
+                          632003     41      2      Poštové služby                                                    350.00       350.00       350.00
+                          632004     41             Komunikačná infraštruktúra                                        300.00       300.00       300.00
+                          632005     41      1      Telekomunikačné služby                                          1 000.00     1 000.00     1 000.00
+                          632006     41      1      Elektrina                                                       2 000.00     2 000.00     2 000.00
+                          632007     41      2      Plyn                                                            3 000.00     3 000.00     3 000.00
+                          633001     41             Interiérové vybavenie                                          20 000.00    20 000.00    20 000.00
+                          633002     41             Výpočtová technika                                                700.00       700.00       700.00
+                          633003     41             Telekomunikačná technika                                          200.00       200.00       200.00
+                          633004     41             Prevádzkové stroje, prístroje, zariadenie,                      1 000.00     1 000.00     1 000.00
+                          633006     111     REGO   Všeobecný materiál                                                450.00       450.00       450.00
+                          633006     41             Všeobecný materiál                                              1 500.00     1 500.00     1 500.00
+                          633009     41             Knihy, časopisy, noviny , učebnice, učebné pomôcky                200.00       200.00       200.00
+                          633010     41             Pracovné odevy, obuv a pracovné pomôcky                           100.00       100.00       100.00
+                          633013     41             Softvér a licencie                                                500.00       500.00       500.00
+                          633015     41             Palivá ako zdroj energie                                          300.00       300.00       300.00
+                          633016     41             Reprezentačné                                                   1 500.00     1 500.00     1 500.00
+                          634001     41             Palivo, mazivá, oleje, špeciálne kvapaliny                      2 000.00     2 000.00     2 000.00
+                          634002     41             Servis, údržba, opravy a výdavky s tým spojené                  1 500.00     1 500.00     1 500.00
+                          634003     41             Poistenie                                                       1 000.00     1 000.00     1 000.00
+                          634004     41             Prepravné a nájom dopravných prostriedkov                         500.00       500.00       500.00
+                          634005     41             Karty, známky, poplatky                                           250.00       250.00       250.00
+                          635001     41             Interiérového vybavenia                                           200.00       200.00       200.00
+
+Vytlačené 26.11.2026 sa                                                                                                                       31-575321623
+Obec Osikov                                                 Návrh finančného rozpočtu na roky 2027, 2028, 2029                              Strana 4
+Obecný úrad
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.   Názov                                                         Návrh 2027   Návrh 2028   Návrh 2029
+                          635002     41            Výpočtovej techniky                                               100.00       100.00       100.00
+                          635004     41            Prevádzkových strojov, prístrojov, zariadení,                   2 000.00     2 000.00     2 000.00
+                          635006     41            Budov, objektov alebo ich častí                                 3 000.00     3 000.00     3 000.00
+                          635009     41            Softvéru                                                        1 000.00     1 000.00     1 000.00
+                          635010     41            Komunikačnej infraštruktúry                                       200.00       200.00       200.00
+                          636001     41            Budov, objektov alebo ich častí                                   300.00       300.00       300.00
+                          637001     41            Školenia, kurzy, semináre, porady, konferencie,                 1 000.00     1 000.00     1 000.00
+                          637003     41            Propagácia, reklama a inzercia                                  1 000.00     1 000.00     1 000.00
+                          637004     41            Všeobecné služby                                                2 400.00     2 400.00     2 400.00
+                          637004     41      5     Spoločná úradovňa obcí                                          4 000.00     4 000.00     4 000.00
+                          637005     41            Špeciálne služby                                                2 500.00     2 500.00     2 500.00
+                          637011     41            Štúdie, expertízy, posudky                                        500.00       500.00       500.00
+                          637012     41            Poplatky a odvody                                                 200.00       200.00       200.00
+                          637014     41            Stravovanie                                                     2 000.00     2 000.00     2 000.00
+                          637015     41            Poistné                                                           600.00       600.00       600.00
+                          637016     41            Prídel do sociálneho fondu                                      1 390.00     1 390.00     1 390.00
+                          637017     41            Provízia                                                           50.00        50.00        50.00
+                          637026     41            Odmeny a príspevky                                              9 000.00     9 000.00     9 000.00
+                          637027     41            Odmeny zamestnancov mimopracovného pomeru                       1 500.00     1 500.00     1 500.00
+                          637035     41            Dane-konces.poplatky                                              100.00       100.00       100.00
+                          637036     41            Reprezentačné výdavky                                           1 000.00     1 000.00     1 000.00
+                          637040     41            Služby v oblasti informačno-komunikačných technoló              3 000.00     3 000.00     3 000.00
+                          637045     41            Dividendy a odvod zo zisku                                        650.00       650.00       650.00
+                          641009     41            Obci okrem transferu na úhradu nákl.CVČ                           500.00       500.00       500.00
+                          642001     41            Občianskemu združeniu, nadácii a neinvestičnému                   100.00       100.00       100.00
+                          642006     41            Na členské príspevky                                            2 000.00     2 000.00     2 000.00
+                          642011     41            Odborovej organizácii                                             150.00       150.00       150.00
+                          642015     41            náhrady - dočasná PN                                              150.00       150.00       150.00
+            *01.1.1                                Výkonné a zákonodarné orgány                                  238 162.00   238 162.00   238 162.00
+            01.1.2                                 Finančné a rozpočtové záležitosti
+                          637012     41            Poplatky a odvody                                                700.00       700.00       700.00
+            *01.1.2                                Finančné a rozpočtové záležitosti                                700.00       700.00       700.00
+            01.6.0                                 Všeobecné verejné služby inde neklasifikované
+                          637027     111     VOL   Odmeny zamestnancov mimopracovného pomeru                       2 000.00     2 000.00     2 000.00
+            *01.6.0                                Všeobecné verejné služby inde neklasifikované                   2 000.00     2 000.00     2 000.00
+            01.7.0                                 Transakcie verejného dlhu
+                          651002     41            Banke a pobočke zahraničnej banky                               1 000.00     1 000.00     1 000.00
+            *01.7.0                                Transakcie verejného dlhu                                       1 000.00     1 000.00     1 000.00
+            02.2.0                                 Civilná ochrana
+Vytlačené 26.11.2026 sa                                                                                                                      31-583321623
+Obec Osikov                                                  Návrh finančného rozpočtu na roky 2027, 2028, 2029                              Strana 5
+Obecný úrad
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.   Názov                                                          Návrh 2027   Návrh 2028   Návrh 2029
+                          637027     41            Odmeny zamestnancov mimopracovného pomeru                         200.00       200.00       200.00
+            *02.2.0                                Civilná ochrana                                                   200.00       200.00       200.00
+            03.2.0                                 Ochrana pred požiarmi
+                          631001     41            Tuzemské                                                           150.00       150.00       150.00
+                          632002     41            Vodné, stočné                                                       50.00        50.00        50.00
+                          632006     41            Elektrina                                                        1 200.00     1 200.00     1 200.00
+                          633001     41            Interiérové vybavenie                                              100.00       100.00       100.00
+                          633004     41            Prevádzkové stroje, prístroje, zariadenie,                         100.00       100.00       100.00
+                          633004     71            Prevádzkové stroje, prístroje, zariadenie, technik               3 000.00     3 000.00     3 000.00
+                          633006     41            Všeobecný materiál                                                 200.00       200.00       200.00
+                          633007     41            Špeciálny materiál                                                 500.00       500.00       500.00
+                          633015     41            Palivá ako zdroj energie                                           150.00       150.00       150.00
+                          633016     41            Reprezentačné                                                      100.00       100.00       100.00
+                          634001     41            Palivo, mazivá, oleje, špeciálne kvapaliny                         500.00       500.00       500.00
+                          634002     41            Servis, údržba, opravy a výdavky s tým spojené                     200.00       200.00       200.00
+                          634003     41            Poistenie                                                          200.00       200.00       200.00
+                          634004     41            Prepravné a nájom dopravných prostriedkov                          150.00       150.00       150.00
+                          634005     41            Karty, známky, poplatky                                             30.00        30.00        30.00
+                          635004     41            Prevádzkových strojov, prístrojov, zariadení,                      100.00       100.00       100.00
+                          635006     41            Budov, objektov alebo ich častí                                    200.00       200.00       200.00
+                          637001     41            Školenia, kurzy, semináre, porady, konferencie,                    500.00       500.00       500.00
+                          637002     41            Konkurzy a súťaže                                                  500.00       500.00       500.00
+                          637004     41            Všeobecné služby                                                    50.00        50.00        50.00
+                          637015     41            Poistné                                                             72.00        72.00        72.00
+                          637027     41            Odmeny zamestnancov mimopracovného pomeru                          100.00       100.00       100.00
+                          642006     41            Na členské príspevky                                               200.00       200.00       200.00
+            *03.2.0                                Ochrana pred požiarmi                                            8 352.00     8 352.00     8 352.00
+            04.5.1                                 Cestná doprava
+                          633004     41            Prevádzkové stroje, prístroje, zariadenie, technik                500.00       500.00       500.00
+                          633006     41            Všeobecný materiál                                                500.00       500.00       500.00
+                          633015     41            Palivá ako zdroj energie                                          100.00       100.00       100.00
+                          635006     41            Budov, objektov alebo ich častí                                39 330.00    56 354.00    77 761.00
+                          637005     41            Špeciálne služby                                                  500.00       500.00       500.00
+                          637011     41            Štúdie, expertízy, posudky                                        500.00       500.00       500.00
+            *04.5.1                                Cestná doprava                                                 41 430.00    58 454.00    79 861.00
+            05.1.0                                 Nakladanie s odpadmi
+                          632006     41      ZD    Elektrina                                                         100.00       100.00       100.00
+                          633004     41            Prevádzkové stroje, prístroje, zariadenie,                        200.00       200.00       200.00
+                          633006     41            Všeobecný materiál                                                100.00       100.00       100.00
+Vytlačené 26.11.2026 sa                                                                                                                       31-593321623
+Obec Osikov                                                 Návrh finančného rozpočtu na roky 2027, 2028, 2029                              Strana 6
+Obecný úrad
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.   Názov                                                         Návrh 2027   Návrh 2028   Návrh 2029
+                          633006     41      ZD    Všeobecný materiál                                               100.00       100.00       100.00
+                          634001     41      ZD    Palivo, mazivá, oleje, špeciálne kvapaliny                     2 000.00     2 000.00     2 000.00
+                          634002     41      ZD    Servis, údržba, opravy a výdavky s tým spojené                 1 000.00     1 000.00     1 000.00
+                          634003     41      ZD    Poistenie                                                        600.00       600.00       600.00
+                          635004     41            Prevádzkových strojov, prístrojov, zariadení,                    100.00       100.00       100.00
+                          636002     41            Prevádzkových strojov, prístrojov, zariadení, tech             6 700.00     6 700.00     6 700.00
+                          637004     41            Všeobecné služby                                              40 000.00    40 000.00    40 000.00
+                          637015     41      ZD    Poistné                                                          600.00       600.00       600.00
+            *05.1.0                                Nakladanie s odpadmi                                          51 500.00    51 500.00    51 500.00
+            05.2.0                                 Nakladanie s odpadovými vodami
+                          611        41            Tarifný plat, osobný plat, základný plat, funkčný             21 000.00    21 000.00    21 000.00
+                          614        41            Odmeny                                                         3 000.00     3 000.00     3 000.00
+                          621        41            Poistné do Všeobecnej zdravotnej poisťovne                     2 860.00     2 860.00     2 860.00
+                          625001     41            Na nemocenské poistenie                                          365.00       365.00       365.00
+                          625002     41            Na starobné poistenie                                          3 640.00     3 640.00     3 640.00
+                          625003     41            Na úrazové poistenie                                             208.00       208.00       208.00
+                          625004     41            Na invalidné poistenie                                           780.00       780.00       780.00
+                          625005     41            Na poistenie v nezamestnanosti                                   260.00       260.00       260.00
+                          625007     41            Na poistenie do rezervného fondu solidarity                    1 235.00     1 235.00     1 235.00
+                          627        41            Príspevok do doplnkových dôchodkových poisťovní                  520.00       520.00       520.00
+                          632002     41            Vodné, stočné                                                    100.00       100.00       100.00
+                          632005     41      1     Telekomunikačné služby                                           150.00       150.00       150.00
+                          632006     41            Elektrina                                                     20 000.00    20 000.00    20 000.00
+                          633004     41            Prevádzkové stroje, prístroje, zariadenie,                       500.00       500.00       500.00
+                          633006     41            Všeobecný materiál                                               500.00       500.00       500.00
+                          633010     41            Pracovné odevy, obuv a pracovné pomôcky                          150.00       150.00       150.00
+                          633015     41            Palivá ako zdroj energie                                         200.00       200.00       200.00
+                          635004     41            Prevádzkových strojov, prístrojov, zariadení,                  1 000.00     1 000.00     1 000.00
+                          635006     41            Budov, objektov alebo ich častí                               10 000.00    10 000.00    10 000.00
+                          637001     41            Školenia, kurzy, semináre, porady, konferencie,                  100.00       100.00       100.00
+                          637004     41            Všeobecné služby                                               3 500.00     3 500.00     3 500.00
+                          637005     41            Špeciálne služby                                               1 500.00     1 500.00     1 500.00
+                          637011     41            Štúdie, expertízy, posudky                                     2 000.00     2 000.00     2 000.00
+                          637014     41            Stravovanie                                                      300.00       300.00       300.00
+                          637015     41            Poistné                                                          200.00       200.00       200.00
+                          637016     41            Prídel do sociálneho fondu                                       320.00       320.00       320.00
+                          637027     41            Odmeny zamestnancov mimopracovného pomeru                      2 000.00     2 000.00     2 000.00
+                          642015     41            náhrady - dočasná PN                                             100.00       100.00       100.00
+            *05.2.0                                Nakladanie s odpadovými vodami                                76 488.00    76 488.00    76 488.00
+Vytlačené 26.11.2026 sa                                                                                                                      31-602321623
+Obec Osikov                                                 Návrh finančného rozpočtu na roky 2027, 2028, 2029                              Strana 7
+Obecný úrad
+
+Druh        Funč.kl.      Ekon.kl.   Zdroj   An.   Názov                                                         Návrh 2027   Návrh 2028   Návrh 2029
+            05.3.0                                 Znižovanie znečistenia
+                          635006     41            Budov, objektov alebo ich častí-revit.krajiny                   1 000.00     1 000.00     1 000.00
+            *05.3.0                                Znižovanie znečistenia                                          1 000.00     1 000.00     1 000.00
+            05.4.0                                 Ochrana prírody a krajiny
+                          633006     41            Všeobecný materiál                                             1 000.00     1 000.00     1 000.00
+                          635006     41            Budov, objektov alebo ich častí-revit.krajiny                 10 000.00    10 000.00    10 000.00
+            *05.4.0                                Ochrana prírody a krajiny                                     11 000.00    11 000.00    11 000.00
+            06.3.0                                 Zásobovanie vodou
+                          635006     41            Budov, objektov alebo ich častí                                 1 000.00     1 000.00     1 000.00
+                          637005     41            Špeciálne služby                                                  200.00       200.00       200.00
+            *06.3.0                                Zásobovanie vodou                                               1 200.00     1 200.00     1 200.00
+            06.4.0                                 Verejné osvetlenie
+                          632006     41            Elektrina                                                       2 000.00     2 000.00     2 000.00
+                          633004     41            Prevádzkové stroje, prístroje, zariadenie,                      4 000.00     4 000.00     4 000.00
+                          633006     41            Všeobecný materiál                                                100.00       100.00       100.00
+                          635004     41            Prevádzkových strojov, prístrojov, zariadení,                     500.00       500.00       500.00
+                          637004     41            Všeobecné služby                                                  500.00       500.00       500.00
+                          637027     41            Odmeny zamestnancov mimopracovného pomeru                         200.00       200.00       200.00
+            *06.4.0                                Verejné osvetlenie                                              7 300.00     7 300.00     7 300.00
+            08.1.0                                 Rekreačné a športové služby
+                          632002     41            Vodné, stočné                                                    200.00       200.00       200.00
+                          632006     41      1     Elektrina                                                        600.00       600.00       600.00
+                          632007     41      2     Plyn                                                             800.00       800.00       800.00
+                          633006     41            Všeobecný materiál                                             1 300.00     1 300.00     1 300.00
+                          633015     41            Palivá ako zdroj energie                                         200.00       200.00       200.00
+                          633016     41            Reprezentačné                                                    500.00       500.00       500.00
+                          635004     41            Prevádzkových strojov, prístrojov, zariadení,                     50.00        50.00        50.00
+                          635006     41            Budov, objektov alebo ich častí                               30 000.00    30 000.00    30 000.00
+                          637002     41            Konkurzy a súťaže                                                300.00       300.00       300.00
+                          637004     41            Všeobecné služby                                                 250.00       250.00       250.00
+                          642002     41            Neziskovej organizácii poskytujúcej všeobecne                 10 000.00    10 000.00    10 000.00
+            *08.1.0                                Rekreačné a športové služby                                   44 200.00    44 200.00    44 200.00
+   

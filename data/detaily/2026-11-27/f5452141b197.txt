@@ -1,0 +1,211 @@
+URL: https://lesnica.eu/wp-content/uploads/2026/11/Navrh-rozpoctu-prijmy-2027.pdf
+OBEC: Lesnica (Stará Ľubovňa)
+NÁZOV: Návrh rozpočtu – príjmy 2027
+ZDROJ: web obce
+
+Obec Lesnica S/N 1                                                            N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                    Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                          Zvesený:                                                                                    Strana č.   1
+                                Príjmy podľa ekonomickej klasifikácie               Skutočné plnenie           Rozpočet roku 2026                        Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie              2024          2025         Schvávený   Očakávaná skut.    2027 2028 2029
+                                                                                                                                                          2028
+                                                                                                                                                             2024
+                                                                                                                                                               2029 2024
+                                                                                                                                                                      2029 2024
+41    R 111003                    Výnos dane z príjmov poukázaný územnej s         213 245,02   168 576,32     169 000,-      169 000,-      180 283,-     180 283,-        180 283,-
+         111 *** DAN Z PRÍJMOV FYZICKEJ OSOBY                                      213 245,02   168 576,32     169 000,-      169 000,-      180 283,-     180 283,-        180 283,-
+41    R 121001                   Daň z pozemkov                                      4 344,83     4 420,88       5 300,-         5 300,-       5 300,-       5 300,-          5 300,-
+41    R 121002                   Dan zo stavieb                                      4 731,04     4 955,91       6 000,-         6 000,-       5 300,-       5 300,-          5 300,-
+         121 *** DAŇ Z NEHNUTEĽNOSTÍ                                                 9 075,87     9 376,79      11 300,-        11 300,-      10 600,-      10 600,-         10 600,-
+41    R 133001                    Daň za psa                                          395,-          390,-         400,-           400,-         400,-         400,-            400,-
+41    R 133005                    Za vjazd - miestnu komunikáciu
+41    R 133006                    Dan za ubytovaciu kapacitu v rekreac.a v           3 112,-      6 400,-        4 000,-        4 000,-        4 000,-       4 000,-          4 000,-
+41    R 133012                    Za užívanie verejného priestranstva               79 884,14    66 525,61     100 000,-      100 000,-        1 500,-       1 500,-          1 500,-
+41    R 133012 CHTP               Za užívanie verejného priestranstva                            39 931,97                                    32 750,-      32 750,-         32 750,-
+41    R 133012 RAMPY              Za užívanie verejného priestranstva                                                                         62 000,-      64 000,-         64 000,-
+41    R 133013                    Dan za komunalný odpad                            10 026,03    10 153,30      12 000,-       12 000,-       15 000,-      15 000,-         15 000,-
+         133 *** DANE ZA ŠPECIFICKÉ SLUŽBY                                          93 417,17   123 400,88     116 400,-      116 400,-      115 650,-     117 650,-        117 650,-
+41    R 211003                   Dividendy - Podtatranská vod.spol.Poprad                            227,70        230,-           230,-         345,-         345,-            345,-
+41    R 211003 CHTP              Dividendy a odvod zo zisku od subj. neza                                                                     25 000,-      25 000,-         25 000,-
+         211 *** PRÍJMY Z PODNIKANIA                                                                 227,70        230,-           230,-      25 345,-      25 345,-         25 345,-
+41    R 212002                    Prijmy z prenajatych pozemkov                      2 303,19     9 973,19       2 400,-         2 400,-       2 100,-       2 100,-          2 100,-
+41    R 212002 CHTP               Z prenajatých pozemkov                                                        48 000,-        48 000,-
+41    R 212003                    Prijmy z prenajatych budov, priestorov a            697,73         210,42      1 000,-         1 000,-       3 000,-       3 000,-          3 000,-
+41    R 212003 CHAT_P             Prenájom budov - Chata                                                                                      48 000,-      48 000,-         48 000,-
+41    R 212003 CHTP               Z prenajatých budov, priestorov a objekt                        8 000,-
+41    R 212004                    Z prenajatých strojov, prístr.,inventára
+         212 *** PRÍJMY Z VLASTNÍCTVA                                                3 000,92    18 183,61      51 400,-        51 400,-      53 100,-      53 100,-         53 100,-
+41    R 221002                   Poplatky za overovanie podpisov a listín                            320,-         300,-           300,-         400,-         400,-            400,-
+41    R 221004                   Ostatné poplatky                                     382,-          380,-         100,-           100,-          50,-          50,-             50,-
+         221 *** ADMINISTRATÍVNE POPLATKY                                             382,-          700,-         400,-           400,-         450,-         450,-            450,-
+41    R 223001                     Poplatky a platby za predaj vyrobkov, to             50,-         126,-         150,-           150,-          70,-          70,-             70,-
+41    R 223001 SEPAR               Poplatky a platby za predaj vyrobkov, to
+72f   R 223001 ŠJ                  Réžia ŠJ                                          3 219,01     3 228,47       3 000,-         3 000,-       3 000,-       3 000,-          3 000,-
+41    R 223002                     Za školy a školské zariadnia
+41    R 223002 MŠ                  Poplatky za školné v MŠ                           1 070,-      1 100,-        1 000,-         1 000,-       1 200,-       1 200,-          1 200,-
+72f   R 223003 ŠJ                  Za stravné                                       13 969,64     7 520,73       4 000,-         4 000,-       4 000,-       4 000,-          4 000,-
+         223 *** POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO                           18 308,65    11 975,20       8 150,-         8 150,-       8 270,-       8 270,-          8 270,-
+41    R 242                             UROKY Z VKLADOV
+         242 *** Z VKLADOV
+41    R 292006                          Z náhrad z poistného plnenia                  481,29           89,58
+41    R 292009                          Presun zostatku BÚ z ubytovne
+41    R 292012                          Z dobropisov
+41    R 292017                          Z vratiek
+71    R 292027                          Príjmy z TU na mzdy
+Obec Lesnica S/N 1                                                                 N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                   Strana č.   2
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie           Rozpočet roku 2026                       Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024          2025         Schvávený   Očakávaná skut.   2027 2028 2029
+                                                                                                                                                              2028
+                                                                                                                                                                 2024
+                                                                                                                                                                   2029 2024
+                                                                                                                                                                          2029 2024
+         292 *** OSTATNÉ PRÍJMY                                                            481,29           89,58
+72a   R 311                             GRANTY                                             500,-
+         311 *** GRANTY                                                                    500,-
+111 R 312001                            Zo ŠR na výplatenie prídavkov na detí             4 015,-
+111 R 312001 AČ                         Na podporu rozvoja a reg. zam. - AČ                                 18,75
+111 R 312001 COVID                      Zo št.rozpočtu - COVID 19
+111 R 312001 DHZ                        Zo štátneho rozpočtu - DHZ                        3 000,-      3 000,-        3 000,-         3 000,-      3 000,-       3 000,-          3 000,-
+111 R 312001 EEN                        Zo št.rozpočtu - Elektrickú energiu
+111 R 312001 INFLA                      Dot.-ŠR na negatívne dôsledky inflácie
+111 R 312001 KAM                        Dotácia kamerový systém
+111 R 312001 OSO-PRI                    MR Oprava účtovania príjmovej p                                1 913,68
+111 R 312001 POVO                       MR PVUB         20/VU Dotácia na
+111 R 312001 WC                         Zo št.rozpočtu - dobudovanie WC                               17 000,-
+111 R 312001 ŽP                         Dotácia ŽP
+11UA R 312001                           Dotácia - príspevok na bývanie                     925,-
+1AA1 R 312001 MIKRO                     Interrek PL-SK 2014-2020-85%
+1AA2 R 312001 KAM                       Eur.fond reg.rozvoja-cezhrani.spol.ĽRZ
+1AA2 R 312001 MIKRO                     Interrek PL-SK 2014-2020 ŠR10%
+1AA2 R 312001 VP                        MR Oprava účtovania doplatok do                                   477,-
+1AC1 R 312001 CKN                       MR PVUB         37/VU Dotácia - C
+1AC1 R 312001 OS                        Dotácia na Opatrovateľskú službu 85%
+1AC1 R 312001 ÚP                        Dotácia - projekt z ÚP 85%
+1AC1 R 312001 ZŠ                        ESF- projekt z ÚP "Chyť sa svojej šance"
+1AC2 R 312001 CKN                       MR PVUB         37/VU Dotácia - C
+1AC2 R 312001 ÚP                        Dotácia -projekt z ÚP 15%
+1BA1 R 312001 MP_01                     Eur.fond reg.rozvoja-cezhrani.spol.                                          13 900,-        13 900,-
+3AC2 R 312001 OS                        Dotácia na Opatrovateľskú službu ŠR 15%
+3BA2 R 312001 MP_01                     MR PSS2         1/SS Dofinancova                              13 957,82
+45   R 312001 KD_MF                     Príjem Enviro - moderniz. fond bežné                                                                      46 103,-
+45   R 312002                           Zo št.účel. fondu-na uloženie odpadu              1 002,19     1 196,02
+111 R 312012                            MR Oprava účtovania príjmovej p                                  832,72
+111 R 312012 DETI                       Zo št.rozpočtu - Deti - stravné                   4 915,40     5 672,80       4 000,-         4 000,-      2 000,-       2 000,-          2 000,-
+111 R 312012 MŠ                         Zo št.rozpočtu na úhradu nákl. prenes. v                      78 797,-       76 106,-        76 106,-     90 000,-      90 000,-         90 000,-
+111 R 312012 MŠPA                       Zo št.rozpočtu na úhradu nákl. prenes. v                       3 076,-        6 152,-         6 152,-      6 800,-
+111 R 312012 NENORMŠ                    MR Oprava účtovania zo dňa 10.0                                  750,-
+111 R 312012 OS                         Dotácia-Stabilizačný príspevok
+111 R 312012 OÚ                         Dotácia na odmeny zo ŠR
+111 R 312012 REFE                       Zo ŠR -na referendum
+111 R 312012 REGA                       Zo ŠR na register adries                            18,-           24,40         20,-            20,-         20,-          20,-             20,-
+111 R 312012 REGO                       Zo ŠR - Regob                                      160,05         163,35        160,-           160,-        165,-         165,-            165,-
+111 R 312012 SODB                       Dotácia Štatistický úrad na SODB
+Obec Lesnica S/N 1                                                                 N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                    Strana č.   3
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie          Rozpočet roku 2026                         Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024          2025        Schvávený    Očakávaná skut.    2027 2028 2029
+                                                                                                                                                               2028
+                                                                                                                                                                  2024
+                                                                                                                                                                    2029 2024
+                                                                                                                                                                           2029 2024
+111 R 312012 ŠPEC               MR Oprava rozpočtu - špecifiká                                            577,-
+111 R 312012 UČ-P               MR VDE        11/DE Vrátka - ne                                           161,86
+111 R 312012 ÚP                 Zo ŠR- z ÚP na podporu reg.zamestnanosti
+111 R 312012 V-EU               Zo št.rozpočtu na úhradu nákl. prenes. v                  1 245,98
+111 R 312012 V-NR SR            Zo ŠR - na voľby do NR SR
+111 R 312012 V-OSO-K            MR VVUB        47/VU - vrátka do
+111 R 312012 V-OZ               MR PVUB        48/VU Dotácia na
+111 R 312012 V-P                Zo ŠR- voľby prezidenta SR                                2 244,03
+111 R 312012 ZŠ                 MR -preúčtovanie nenormatívnych
+111 R 312012 ZŠ-NOR             Zo ŠR na prenesený výk. Zś                               39 769,-     29 010,-
+111 R 312012 ŽP                 Zo ŠR na životné prostredie                                  58,69        64,69          65,-            65,-          70,-          70,-             70,-
+1P01 R 312012 ZŠ                Zo ŠR pre ZŠ-knihy, cudzie jazyky
+1P02 R 312012 ZŠ                Zo ŠR pre ZŠ-knihy, CJ- DPH
+45   R 312012 VO                MR PSLSP        1/SS1 Dotácia na                                      43 560,-
+        312 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                        57 353,34   200 253,09     103 403,-      103 403,-      148 158,-      95 255,-         95 255,-
+
+        1 Časť I. Bežný rozpočet                                                        395 764,26   532 783,17     460 283,-      460 283,-      541 856,-     490 953,-        490 953,-
+41    R 233001                    Predaj pozemkov                                            20,-
+         233 *** PRÍJEM Z PREDAJA POZEMKOV A NEHMOTNÝCH A                                    20,-
+111 R 322001                            MR PVUB         51/VU Dotácia z P
+111 R 322001 BUNKY                      MR PPBU         12/PBU Dotácia na
+111 R 322001 CYKLOOK                    Zo ŠR-PSK-Spolufinancovanie cyklo okruhu
+111 R 322001 DI                         Zo ŚR na detské ihrisko pri ZŚ
+111 R 322001 OMC                        Dorácia PPA- odpočinkové miesto pre
+111 R 322001 PSK1                       Dotácia PSK1 - opporný múr športoviska
+111 R 322001 PSK2                       Dotácia PSK2 - oporný múr športoviska
+111 R 322001 PZ                         Dotácia zo ŠR - Požiarna zbrojnica
+111 R 322001 ÚPN-O                      Dotácia na územný plán obce                                                  30 110,-        30 110,-
+111 R 322001 WC                         MR PSLSP        11/SS2 Príjem dotá                            32 519,82
+1AA1 R 322001 KAM                       Eur.fond reg.rozvoja-cezhrani.spol.ĽRZ
+1AA1 R 322001 VP                        VP-Interrek PL-SK 2014-2020 85%
+1AA2 R 322001 KAM                       Zo ŠR spolufinancovanie- ĽRZ
+1AA2 R 322001 VP                        VP-Interrek PL-SK 2014-2020 10% ŠR               10 994,24
+1AG1 R 322001 LOCUST                    Zo EU-EPFRV - PPA LOCUST 85%
+1AG1 R 322001 MAS_CES                   Cyklistická cestička EPFRV zo EU                              18 347,16
+1AG1 R 322001 STANKY                    MR PSLSP        12/SS Príjem - St                18 371,63
+1AG2 R 322001 LOCUST                    Zo ŠR - spoluf. LOCUST 15%
+1AG2 R 322001 MAS_CES                   Cyklistická cestička EPFRV zo ŠR                               6 115,72
+1AG2 R 322001 STANKY                    MR PSLSP        12/SS Príjem - St                 6 123,87
+1BA1 R 322001 MK                        Modernizácia a výstavba MK 85% z EFRR                                       266 318,-      266 318,-      266 318,-
+1BA2 R 322001 MK                        Modernizácia a výstavba MK 7% zo ŠR                                          21 932,-       21 932,-       21 932,-
+41   R 322001 VP                        VP-Interrek PL-SK 2014-2020 5%
+Obec Lesnica S/N 1                                                               N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                       Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                             Zvesený:                                                                                      Strana č.   4
+                                Príjmy podľa ekonomickej klasifikácie                  Skutočné plnenie          Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                 2024          2025        Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                               2028
+                                                                                                                                                                  2024
+                                                                                                                                                                    2029 2024
+                                                                                                                                                                           2029 2024
+45    R 322001 KD_MF             Príjem Enviro - moderniz. fond kapit.                                                                           983 774,-
+45    R 322001 MK                Miestne komunikácie
+45    R 322001 PARK              Predajné stánky na parkovisko
+45    R 322002 PB                Zo ŠÚF - stavebné úpravy ZŠ
+45    R 322002 ŠAFRAN            MR PSLSP       12/SS2 Dotácia z M                                 279 426,77
+45    R 322002 TRAKTOR           MR PSS1         2/DÚ Dotácia na
+45    R 322002 ZŠ                MR PSS1         1/DÚ Dot.na stav
+45    R 322002 ŽP                Zo št.účel.fondu Enviro na starostlivosť
+         322 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                     35 489,74   336 409,47     318 360,-      318 360,-      1 272 024,-
+
+        2 Časť I. Kapitálový rozpočet                                                  35 509,74   336 409,47     318 360,-      318 360,-      1 272 024,-
+131J R 453                       MR Zapojenie do fin. operácií n
+131N R 453                       PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                  96 652,40
+131O R 453                       MR Zapojenie nevyčerpaných ŠR                                          949,20
+131P R 453                       Nevyčerpaná dot.na stravu detí(2025
+131P R 453     WC                Nevyčerpaná dotácie z 2025
+45   R 453     ŠAFRAN            Nevyčerpané dotácie z r.2025 - Šafranovk
+45   R 453     VO                Nevyčerpaná dot.na VO z r.2025
+        453 *** PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                   96 652,40        949,20
+46    R 454001                   Prevod z RF na výdavcky 2026                          72 632,32
+46    R 454001 OBEC              Prevod z RF pri živ. pohrome-povodeň                                                                             30 110,-
+46    R 454001 ŠAFRAN            Prevod z RF na spoluf.projektu ŠAFRAN
+         454 *** PREVOD PROSTRIEDKOV Z PEŇAŽNÝCH FONDOV                                72 632,32                                                  30 110,-
+52    R 513001                          MR PSLSP       11/SS Poskytnutie
+52    R 513001 BUNKY                    Krátkodobý úver - Bunky 6 ks
+52    R 513001 LOCUST                   Termínovaný krátkodobý úver - nakladač
+52    R 513001 VP                       Krátkodobý úver - VP
+52    R 513002                          Prijatie dlhodobého úveru - investičný         25 000,-     50 000,-
+52    R 513002 BUNKY                    Dlhodobý úver - Bunky 6 ks
+52    R 513002 SLSP                     Dlhodoý úver SLSP
+         513 *** BANKOVÉ ÚVERY                                                         25 000,-     50 000,-
+20    R 514002                    Dlhodobá návratná fin. výpomoci MF SR
+         514 *** OSTATNÉ ÚVERY, POŽIČKY A NÁVRATNÉ FINANČ
+
+        3 Časť II. Finančné operácie                                                  194 284,72    50 949,20                                     30 110,-
+
+        CELKOM P R Í J M Y                                                            625 558,72   920 141,84     778 643,-      778 643,-      1 843 990,-     490 953,-        490 953,-
+© IFOsoft
+

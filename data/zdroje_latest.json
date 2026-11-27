@@ -1,78 +1,46 @@
 {
- "datum": "2026-11-26",
+ "datum": "2026-11-27",
  "obstaravania": [
   {
-   "cpv": "",
-   "datum": "26.11.2026",
-   "nazov": "Zabudovanie edukatívnych a inkluzívnych prvkov detského ihriska v obci Markušovce",
-   "nuts": "",
-   "obec": "Markušovce",
-   "obstaravatel": "Obec Markušovce",
-   "okres": "Spišská Nová Ves",
+   "cpv": "Stavebné práce na stavbe cyklistických trás",
+   "datum": "27.11.2026",
+   "nazov": "Vybudovanie cyklistickej infraštruktúry - Cyklotrasa po nábreží Cirochy",
+   "nuts": "Prešovský kraj",
+   "obec": "Snina",
+   "obstaravatel": "Mesto Snina",
+   "okres": "Snina",
    "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/568136?cHash=a0cfca8a74f5bbc10e3233e47fe6b819",
+   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/522342?cHash=f1650e5c7abaef6343f5b34d0959c05a",
    "zdroj": "ÚVO"
-  }
- ],
- "prepojenia": [
-  {
-   "datum": "25. November 2026",
-   "dodavatel": "ENJOY THE RIDE s.r.o.",
-   "firma": "ENJOY THE RIDE",
-   "nazov": "Dodatok č. 2 k zmluve o dielo 58 / 2026",
-   "obec": "Zemplínska Teplica",
-   "objednavatel": "Obec Zemplínska Teplica",
-   "okres": "Trebišov",
-   "relevantne": false,
-   "suma": "0,00 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13125703/"
   },
   {
-   "datum": "25. November 2026",
-   "dodavatel": "mmcité sk s.r.o.",
-   "firma": "mmcité",
-   "nazov": "Zmluva o spolupráci 20261741",
+   "datum": "2026-11-27",
+   "nazov": "Slovensko – Nábytok – DNS - Nábytok",
    "obec": "",
-   "objednavatel": "Kreatívny inštitút Trenčín,n.o. Anglická verzia názvu je: Creative Institute Trenčín, n.o.",
+   "obstaravatel": "Univerzita Pavla Jozefa Šafárika v Košiciach",
    "okres": "",
-   "relevantne": false,
-   "suma": "10 000,00 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13128620/"
-  },
-  {
-   "datum": "25. November 2026",
-   "dodavatel": "OCTAGO CORPORATION, j.s.a.",
-   "firma": "Octago",
-   "nazov": "Kúpna zmluva č.850/2026 detské ihrisko 850/2026",
-   "obec": "",
-   "objednavatel": "Obec Mýto pod Ďumbierom",
-   "okres": "",
-   "relevantne": true,
-   "suma": "15 625,92 €",
-   "typ": "konkurencia",
-   "url": "https://www.crz.gov.sk/zmluva/13126013/"
+   "projekcia": false,
+   "url": "https://ted.europa.eu/sk/notice/-/detail/826891-2026",
+   "zdroj": "TED (EÚ)"
   }
  ],
+ "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
    "kategoria": "ministerstvo",
-   "nazov": "Minister Migaľ: Nové eurofondy patria pod MIRRI. Slovensko nepotrebuje drahé duplicitné úrady ani zákulisné hry",
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "url": "https://mirri.gov.sk/aktuality/minister/minister-migal-nove-eurofondy-patria-pod-mirri-slovensko-nepotrebuje-drahe-duplicitne-urady-ani-zakulisne-hry/",
+   "nazov": "Fond na spravodlivú transformáciu",
+   "temy": [],
+   "url": "https://mirri.gov.sk/aktuality/fond-na-spravodlivu-transformaciu/",
    "zdroj": "MIRRI – regionálny rozvoj",
-   "zhoda_tem": true
+   "zhoda_tem": false
   },
   {
-   "kategoria": "nadácia",
-   "nazov": "Spolu k vode : výzva v programe Zelené oázy je otvorená",
+   "kategoria": "ministerstvo",
+   "nazov": "Minister Samuel Migaľ: Autobusy pre hornú Nitru budú. Čerpanie Fondu na spravodlivú transformáciu sme rozhýbali",
    "temy": [],
-   "url": "https://ekopolis.sk/2026/spolu-k-vode-vyzva-v-programe-zelene-oazy-je-otvorena/",
-   "zdroj": "Nadácia Ekopolis",
+   "url": "https://mirri.gov.sk/aktuality/fond-na-spravodlivu-transformaciu/minister-samuel-migal-autobusy-pre-hornu-nitru-budu-cerpanie-fondu-na-spravodlivu-transformaciu-sme-rozhybali/",
+   "zdroj": "MIRRI – regionálny rozvoj",
    "zhoda_tem": false
   }
  ],

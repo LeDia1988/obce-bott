@@ -1,0 +1,780 @@
+URL: https://cuet.slovensko.sk/en/dokument/5fc11f29-69ad-4277-a159-0c8689ab7e16
+OBEC: Stropkov (Stropkov)
+NÁZOV: Návrh - Programový rozpočet mesta Stropkov na roky 2027 - 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/5fc11f29-69ad-4277-a159-0c8689ab7e16
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh - Programový rozpočet mesta Stropkov na roky 2027 - 2029
+Search publisher's RSS feeds
+Published on official board:
+Mesto Stropkov - Zverejňovanie na CUET
+Published from:
+26.11.2026
+Registry symbol:
+Documents author:
+Mesto Stropkov - Zverejňovanie na CUET
+Published to:
+15.12.2026
+Registry case:
+Name of official document:
+Návrh - Programový rozpočet mesta Stropkov na roky 2027 - 2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+[https://www.stropkov.sk/oznamy/navrh-programovy-rozpocet-mesta-stropkov-na-roky-2027-2029.html]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Rozpocet-prijmov-a-vydavkov-skolstva-2027-2029.pdf
+Type and size:
+.pdf, 974.11 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Pr-rozp-Mesta-Stropkov-na-roky-2027-2029-Dovodova-sprava.pdf
+Type and size:
+.pdf, 312.12 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Programovy-rozpocet-mesta-Stropkov-na-roky-2027-2029.pdf
+Type and size:
+.pdf, 7.68 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Programovy-rozpocet-Mesta-Stropkov-na-rok-2027.pdf
+Type and size:
+.pdf, 4.49 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Finalny-rozpocet-Mesta-Stropkov-na-roky-2027-2029.pdf
+Type and size:
+.pdf, 2.97 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rekapitulacia-transf-za-rok-2027-2029-m-p-Sluzba.pdf
+Type and size:
+.pdf, 208.46 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/1e7957b4-c348-4180-a4a4-7ac1c2293213
+Rozpočet príjmov školstva pre rok 2027
+                                                                                                                                                                                                       Prenesené kompetencie
+                       212003      223001       223001       223002        223003    223003        242          292       292012       311        312001       312001     312001       312001       312001     312001       312001        312001         312001         312001         312001       312001        312001      312001       312001   312001        312       322         453                                 Rozpočet
+
+                                                                                                                                                                                                                                                                          PO         PO Pomocný
+Prenesené                        Šk.,záp.,slu                              Stravné   Stravné                                                    Transfery PK                                                                                            Dotácia na    Pedagogický    vychovávateľ                           Rekreácie a                                               z predch.
+                                                                                                                                                                                                                                                                                                                                                                                                               Transfer z
+                       Nájomné        ž.        Rehabilit.   Zápisné        réžia     potr.        úroky     iné príjmy   doborpisy   Granty   normatívne FP   Vzdel.p.    SZP         Dopravné     Učebnice    ŠvP          LV          HN-št.šk.p.   stravu zo ŠR     asistent         (SÚ)        ŠPT         Odchodné      ŠČD                  VVP MŠ       zo ŠR    KV zo ŠR      Roku                                     spolu
+kompetencie                                                                                                                                                                                                                                                                                                                                                                                       Výnos dane   inej obce
+I.ZŠ                      800                                                                                                              1 093 627                      27 900        3 500 5 000             6 000        5 000          5 500                      118 512          35 394       49 824 17 962                                               16 230                                                      1 385 249
+II.ZŠ                                                                                                         2 000                        1 913 036                       3 750       22 600 11 500           10 000       10 000            900                      110 000                       61 104 4 140              3 000                             16 680                                                      2 168 710
+Hala - II ZŠ            5 000                                                                                                                 40 000                                                                                                                                                                                                                                                                            45 000
+III.ZŠ                  7 830 21 200                                                                                                   600 1 472 887                       2 020        4 250 6 880             4 050        6 000            200                      101 680          25 460       44 870 21 565             2 100                                                                                         1 721 592
+Spolu PK ZŠ            13 630 21 200                     0             0         0             0         0 2 000                 0     600 4 519 550                  0   33 670       30 350 23 380           20 050       21 000          6 600                 0    330 192          60 854      155 798 43 667             5 100                         0 32 910             0           0            0            0    5 320 551
+
+MŠ A. Hlinku                                                 23 600                                                                           813 300                      2 700           168                                                 50                       59 400          24 700       29 600       7 725                              9 000 16 140                                                              986 383
+MŠ Mat. slov.                                                25 500                                                                           821 800                      2 700           270                                                200                       81 900          36 500       30 200                                         13 100                                                                   1 012 170
+Spolu PK MŠ                  0             0             0   49 100              0             0         0            0          0        0 1 635 100                 0    5 400           438             0            0            0        250                 0    141 300          61 200       59 800       7 725                0            22 100 16 140                 0           0            0            0    1 998 553
+
+Spolu PK S a MŠ        13 630 21 200                     0   49 100              0             0         0 2 000                 0     600 6 154 650                  0   39 070       30 788 23 380           20 050       21 000          6 850                 0    471 492        122 054       215 598 51 392             5 100                22 100 49 050                 0           0            0            0    7 319 104
+
+
+                                                                                                                                                                                                    Originálne kompetencie
+Bazén                                           55 800                                                                                             25 000                                                                                                                                                                                                                                          150 000                      230 800
+ŠKD pri I.ZŠ                                                                                                                                                                                                                                                                                                                                                                                        49 140                       49 140
+ŠKD pri II.ZŠ                                                23 160                                                                                                                                                                                                                                                                                                                                121 590                      144 750
+ŠKD pri III.ZŠ                                               16 200                                                                                                                                                                                                                                                                                                                                 85 050                      101 250
+ŠJ I.ZŠ                                300                                 12 000    90 000                                                                                                                                                             117 200                                                                                                                                    103 950                      323 450
+ŠJ II.ZŠ                                                                   15 000    20 000                                                                                                                                                             237 320                                                                                                                                    115 101                      387 421
+ŠJ III.ZŠ                         32 700                                   33 210    84 300                                                                                                                                                             171 160                                                                                                                                     73 521                      394 891
+ŠJ MŠ Ahlinku                                                               5 100    50 400                                                                                                                                                              12 000                                                                                                                                     65 214                      132 714
+ŠJ MŠ Mat.slov.                                                             7 400    62 000                                                                                                                                                              16 000                                                                                                                                     79 594                      164 994
+ŠJ -súkr. SOU                                                                                                                                                                                                                                                                                                                                                                                            0                            0
+CVČ pri I.ZŠ                                                                                                                                                    8 800                                                                                                                                                                                                                               27 951                       36 751
+CVČ pri II.ZŠ                                                   500                                                                                            17 000                                                                                                                                                                                             3 000                             27 027        5 000          52 527
+CVČ pri III.ZŠ                                                  500                                                                                            10 140                                                                                                                                                                                             2 050                             19 982        2 800          35 472
+ZCŠ - ŠKD                                                                                                                                                                                                                                                                                                                                                                                           88 550                       88 550
+ZCŠ - CVČ                                                                                                                                                                                                                                                                                                                                                                                           20 774                       20 774
+ZUŠ                               28 900                                                                                                                          800                                                                                                                                                                                                                              722 465                      752 165
+ZUŠ súkromná                                                                                                                                                                                                                                                                                                                                                                                       950 932                      950 932
+Transfer na CVČ inej
+obci                                                                                                                                                                                                                                                                                                                                                                                                1 000                        1 000
+Spolu OK                     0 61 900           55 800       40 360 72 710 306 700                       0            0          0        0        25 000 36 740                   0            0          0                                       0 553 680                     0              0            0                         0                     0    5 050           0           0 2 701 841         7 800      3 867 581
+
+Spolu PK+OK         13 630 83 100 55 800 89 460 72 710 306 700                0 2 000                                            0     600 6 179 650 36 740               39 070       30 788 23 380           20 050       21 000          6 850 553 680              471 492        122 054       215 598 51 392             5 100                22 100 54 100                 0           0 2 701 841         7 800 11 186 685
+Vypracoval: Ing. Želinská, Ing. Marošová, Barvirčáková, Mgr. Bujdošová, Ing. Polák
+Stropkov 26.10.2026
+Rozpočet príjmov školstva pre rok 2028
+                                                                                                                                                                                                Prenesené kompetencie
+                       212003      223001       223001       223002    223003        223003        242      292       292012     311       312001       312001     312001       312001       312001     312001       312001        312001        312001         312001         312001      312001        312001     312001       312001       312           312       322         453                                 Rozpočet
+                                                                                                                                                                                                                                                                  PO             PO
+Prenesené                        Šk.,záp.,slu                          Stravné       Stravné                iné                                                                                                                                 Dotácia na    Pedagogický   Sebaobslužné                                                                  Špecifiká             z predch.
+                                                                                                                                                                                                                                                                                                                                                                                                         Transfer z
+                       Nájomné        ž.        Rehabilit.   Zápisné    réžia         potr.        úroky   príjmy     doborpisy Granty   Transfery PK   Vzdel.p.    SZP         Dopravné     Učebnice    ŠvP          LV          HN-št.šk.p.   stravu ŠR       asistent        úkony       ŠPT         Odchodné   Rekreácia     VVP MŠ       zo ŠR       Ukrajina    zo ŠR       Roku                                     spolu
+kompetencie                                                                                                                                                                                                                                                                                                                                                                                 Výnos dane   inej obce
+I.ZŠ                      900                                                                                                       1 202 990                      30 690        3 600 5 500             6 000        5 000          6 000                     130 093                                                                                                                                                 1 390 773
+II.ZŠ                                                                                                      2 000                    1 989 660                       3 750       23 400 11 500           11 000       11 000            900                     112 500                                               3 000                                                                                             2 168 710
+Hala - II ZŠ            5 000                                                                                                          40 000                                                                                                                                                                                                                                                                             45 000
+III.ZŠ                  8 070 30 540                                                                                            600 1 488 310                       2 000        4 310        6 880      4 050        6 000            300                     101 680                                               2 100                                                                                             1 654 840
+Spolu PK ZŠ            13 970 30 540                    0          0             0             0      0 2 000               0 600 4 720 960                    0   36 440       31 310 23 880           21 050       22 000          7 200                0    344 273                0             0         0      5 100                0           0           0         0           0            0           0     5 259 323
+
+MŠ A. Hlinku                                              23 600                                                                       813 300                      2 700           168                                                 50                      59 400                                   7 725                    9 000 16 140                                                                           932 083
+MŠ Mat. slov.                                             25 500                                                                       821 800                      2 700           270                                                200                      81 900                                                           13 100                                                                                  945 470
+Spolu PK MŠ                  0             0            0 49 100                 0             0      0           0         0      0 1 635 100                 0    5 400           438             0            0            0        250                0    141 300                0             0    7 725               0   22 100 16 140                    0         0           0            0           0     1 877 553
+
+Spolu PK ZŠ a MŠ       13 970 30 540                    0 49 100                 0             0      0 2 000               0 600 6 356 060                    0   41 840       31 748 23 880           21 050       22 000          7 450                0    485 573                0             0    7 725       5 100       22 100 16 140                    0         0           0            0           0     7 136 876
+
+
+                                                                                                                                                                                               Originálne kompetencie
+Bazén                                           55 100                                                                                      25 000                                                                                                                                                                                                                                           150 000                      230 100
+ŠKD pri I.ZŠ                                                                                                                                                                                                                                                                                                                                                                                  50 544                       50 544
+ŠKD pri II.ZŠ                                                24 500                                                                                                                                                                                                                                                                                                                          125 064                      149 564
+ŠKD pri III.ZŠ                                               16 400                                                                                                                                                                                                                                                                                                                           87 480                      103 880
+ŠJ I.ZŠ                                600                             13 000 100 000                                                                                                                                                           117 200                                                                                                                                      106 920                      337 720
+ŠJ II.ZŠ                                                               20 000 22 000                                                                                                                                                            237 320                                                                                                                                      118 390                      397 710
+ŠJ III.ZŠ                         32 700                               35 060 84 300                                                                                                                                                            167 100                                                                                                                                       75 622                      394 782
+ŠJ MŠ Ahlinku                                                           5 100 50 400                                                                                                                                                             12 000                                                                                                                                       66 320                      133 820
+ŠJ MŠ Mat.slov.                                                         7 400 62 000                                                                                                                                                             16 000                                                                                                                                       80 920                      166 320
+ŠJ -súkr. SOU                                                                                                                                                                                                                                                                                                                                                                                                                   0
+CVČ pri I.ZŠ                                                                                                                                             9 000                                                                                                                                                                                                                                28 750                       37 750
+CVČ pri II.ZŠ                                                   500                                                                                     17 000                                                                                                                                                                                3 000                                           27 799       5 000           53 299
+CVČ pri III.ZŠ                                                  500                                                                                     10 140                                                                                                                                                                                2 250                                           20 552       2 800           36 242
+ZCŠ - ŠKD                                                                                                                                                                                                                                                                                                                                                                                     90 624                       90 624
+ZCŠ - CVČ                                                                                                                                                                                                                                                                                                                                                                                     21 261                       21 261
+ZUŠ                               29 220                                                                                                                   800                                                                                                                                                                                                                               742 911                      772 931
+ZUŠ súkromná                                                                                                                                                                                                                                                                                                                                                                                 973 209                      973 209
+Transfer na CVČ inej
+obci                                                                                                                                                                                                                                                                                                                                                                                          1 000                        1 000
+Spolu OK                     0 62 520 55 100 41 900                    80 560 318 700                 0           0         0      0        25 000 36 940                   0            0          0                                       0 549 620                  0              0             0                        0            0   5 250               0         0           0 2 767 366        7 800       3 950 756
+
+Spolu PK+OK        13 970 93 060 55 100 91 000 80 560 318 700             0 2 000                                           0 600 6 381 060 36 940                 41 840       31 748 23 880           21 050       22 000          7 450 549 620             485 573                0             0    7 725       5 100       22 100 21 390                    0         0           0 2 767 366        7 800 11 087 632
+Vypracoval: Ing. Želinská, Ing. Marošová, Barvirčáková, Mgr. Bujdošová, Ing. Polák
+Stropkov26.10.2026
+Rozpočet príjmov školstva pre rok 2029
+                                                                                                                                                                                                Prenesené kompetencie
+                       212003      223001       223001       223002    223003        223003        242      292       292012     311       312001       312001     312001       312001       312001     312001       312001        312001       312001         312001         312001      312001        312001     312001       312001       312           312       322         453                                 Rozpočet
+                                                                                                                                                                                                                                                                 PO             PO
+Prenesené                        Šk.,záp.,slu                          Stravné       Stravné                iné                                                                                                                                Dotácia na    Pedagogický   Sebaobslužné                                                                  Špecifiká             z predch.
+                                                                                                                                                                                                                                                                                                                                                                                                        Transfer z
+                       Nájomné        ž.        Rehabilit.   Zápisné    réžia         potr.        úroky   príjmy     doborpisy Granty   Transfery PK   Vzdel.p.   PO SZP       Dopravné     Učebnice    ŠvP          LV          HN-št.šk.p. stravu zo ŠR     asistent        úkony       ŠPT         Odchodné   Rekreácia     VVP MŠ       zo ŠR       Ukrajina    zo ŠR       Roku                                     spolu
+kompetencie                                                                                                                                                                                                                                                                                                                                                                                Výnos dane   inej obce
+I.ZŠ                      900                                                                                                     1 202 990                        30 690        3 600 5 500             6 000        5 000         6 000                     130 093                                                                                                                                                 1 390 773
+II.ZŠ                                                                                                      2 000                  1 989 660                         3 750       23 400 11 500           11 000       11 000           900                     112 500                                               3 000                                                                                             2 168 710
+Hala - II ZŠ            5 000                                                                                                        40 000                                                                                                                                                                                                                                                                              45 000
+III.ZŠ                  8 070 30 540                                                                                          600 1 488 310                         2 000        4 310 6 880             4 050        6 000           300                     101 680                                               2 100                                                                                             1 654 840
+Spolu PK ZŠ            13 970 30 540                    0          0             0             0      0 2 000               0 600 4 720 960                    0   36 440       31 310 23 880           21 050       22 000         7 200                0    344 273                0             0         0      5 100                0           0           0         0           0            0           0     5 259 323
+
+MŠ A. Hlinku                                              23 600                                                                       813 300                      2 700           168                                                 50                     59 400                                   7 725                    9 000 16 140                                                                           932 083
+MŠ Mat. slov.                                             25 500                                                                       821 800                      2 700           270                                                200                     81 900                                                           13 100                                                                                  945 470
+Spolu PK MŠ                  0             0            0 49 100                 0             0      0           0         0      0 1 635 100                 0    5 400           438             0            0            0        250               0    141 300                0             0    7 725               0   22 100 16 140                    0         0           0            0           0     1 877 553
+
+Spolu PK ZŠ a MŠ       13 970 30 540                    0 49 100                 0             0      0 2 000               0 600 6 356 060                    0   41 840       31 748 23 880           21 050       22 000         7 450                0    485 573                0             0    7 725       5 100       22 100 16 140                    0         0           0            0           0     7 136 876
+
+
+                                                                                                                                                                                               Originálne kompetencie
+Bazén                                           59 220                                                                                      25 000                                                                                                                                                                                                                                          150 000                      234 220
+ŠKD pri I.ZŠ                                                                                                                                                                                                                                                                                                                                                                                 51 480                       51 480
+ŠKD pri II.ZŠ                                                24 500                                                                                                                                                                                                                                                                                                                         127 380                      151 880
+ŠKD pri III.ZŠ                                               16 400                                                                                                                                                                                                                                                                                                                          89 100                      105 500
+ŠJ I.ZŠ                                600                             13 000 100 000                                                                                                                                                          117 200                                                                                                                                      108 900                      339 700
+ŠJ II.ZŠ                                                               20 000 22 000                                                                                                                                                           237 320                                                                                                                                      120 582                      399 902
+ŠJ III.ZŠ                         32 700                               35 060 84 300                                                                                                                                                           167 100                                                                                                                                       77 022                      396 182
+ŠJ MŠ Ahlinku                                                           5 100 50 400                                                                                                                                                            12 000                                                                                                                  
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/0daaa499-732e-4c77-9762-acd35532550b
+                                 Mesto Stropkov
+
+
+Materiál na rokovanie Mestského zastupiteľstva v Stropkove
+2. zasadnutie, konané dňa 15.12.2026
+
+
+k bodu programu rokovania č. .
+
+
+
+
+ROZPOČET MESTA STROPKOV NA ROKY 2027-2029
+                                         ( Návrh )
+
+
+
+
+Spracoval:    Ing. Ján Polák , vedúci odboru financií a správy daní
+
+
+
+
+Predkladá:    Ing. Ján Polák, vedúci odboru financií a správy daní
+                                  Dôvodová správa
+        Základom finančného hospodárenia mesta Stropkov je programový rozpočet mesta,
+ktorý sa zostavuje na obdobie troch rokov.
+        Programový rozpočet Mesta Stropkov na roky 2027 - 2029 je zostavený v súlade
+s nasledovnými právnymi normami:
+    • so zákonom č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy
+        a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,
+    • so zákonom č. 523/2004 Z.z. o rozpočtových pravidlách verejnej správy a o zmene
+        a doplnení niektorých zákonov v znení neskorších predpisov,
+    • so zákonom č. 564/2004 Z.z. o rozpočtovom určení výnosu dane z príjmov územnej
+        samospráve a o zmene a doplnení niektorých zákonov v znení neskorších predpisov,
+    • so zákonom č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+    • s nariadením vlády č. 668/2004 Z.z. o rozdeľovaní a poukazovaní výnosu dane
+        z príjmov územnej samospráve,
+    • so zákonom č. 582/2004 Z.z. o miestnych daniach a miestnom poplatku za komunálne
+        odpady a drobné stavebné odpady v znení neskorších predpisov,
+    • so zákonom č. 322/2025 Z.z. o financovaní škôl a školských zariadení v znení
+        neskorších predpisov,
+    • so zákonom č. 321/2025 Z.z. o školskej správe a o zmene a doplnení niektorých
+        zákonov,
+    • so zákonom č. 448/2008 Z.Z o sociálnych službách a o zmene a doplnení zákona čl.
+        455/1991 Zb. o živnostenskom podnikaní (živnostenský zákon) v znení neskorších
+        predpisov,
+    • s opatrením MF SR č. MF/010175/2004-42 zo dňa 8.12.2004 v znení neskorších
+        predpisov, ktorým sa ustanovuje druhová klasifikácia, organizačná klasifikácia
+        a ekonomická klasifikácia rozpočtovej klasifikácie a vyhláškou štatistického úradu
+        č. 257 zo dňa 18. septembra 2014, ktorou sa ustanovuje štatistická klasifikákcia
+        výdavkov verejnej správy
+
+       Návrh rozpočtu rešpektuje aj ďalšie právne normy regulujúce činnosť samosprávy.
+
+        Návrh programového rozpočtu Mesta Stropkov na roky 2028 – 2029 nie je v zmysle
+§ 9 odst. 4 zákona č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy
+a o zmene a doplnení niektorých zákonov v znení neskorších predpisov záväzný.
+        Návrh rozpočtu mesta Stropkov na rok 2027 je zostavený na základe požiadaviek
+jednotlivých odborov mestského úradu, obchodných spoločností, rozpočtových
+a príspevkových organizácií mesta.
+        Návrh rozpočtu je zostavený ako programový t.j. zdôrazňujúci vzťah medzi
+rozpočtovými výdavkami a očakávanými výstupmi a výsledkami realizovaných
+rozpočtovaných programov a aktivít.
+
+V programovom rozpočte na roky 2027 – 2029 sú výdavky mesta Stropkov alokované do
+14 programov:
+          ▪ Plánovanie, manažment              ▪   Vzdelávanie
+              a kontrola
+          ▪ Propagácia a marketing             ▪   Kultúra
+
+                                                                                         2
+           ▪ Interné služby mesta                     ▪   Šport
+           ▪ Služby občanom                           ▪   Prostredie pre život
+           ▪ Bezpečnosť a poriadok                    ▪   Bývanie
+           ▪ Odpadové hospodárstvo                    ▪   Sociálne služby
+           ▪     Miestne komunikácie                  ▪    Administratíva
+
+Základná štruktúra rozpočtu mesta podľa rozpočtovej klasifikácie na rok 2027 v EUR je
+nasledovná:
+                  Celkový rozpočet        Bežný rozpočet        Kapitálový rozpočet      Finančné operácie
+               Rozpočet     Rozpočet   Rozpočet    Rozpočet    Rozpočet     Rozpočet   Rozpočet    Rozpočet
+               rok 2026     rok 2027   rok 2026    rok 2027    rok 2026     rok 2027   rok 2026    rok 2027
+
+Príjmy     19 432 694     22 804 594   17 156 939 17 164 003    847 475   3 691 811 1 428 280    1 948 780
+Výdavky    19 252 274     22 803 902   17 215 371 16 407 432    1 737 827 6 019 687   299 076     376 783
+Výsledok   + 180 420        + 692       - 58 432  + 756 571    - 890 352 - 2 327 876 +1 129 204 + 1 571 997
+
+
+    Rozpočet Mesta Stropkov na rok 2027 je navrhnutý ako prebytkový t.j. rozdiel
+medzi príjmami a výdavkami (vrátane príjmových a výdavkových finančných operácií)
+je 692 EUR.
+
+   Celkové navrhované príjmy predstavujú sumu 22 804 594 EUR a celkové navrhované
+výdavky predstavujú sumu 22 803 902 EUR.
+
+    Bežný rozpočet je navrhovaný ako prebytkový vo výške 756 571 EUR. Celkové bežné
+príjmy predstavujú sumu 17 164 003 EUR a celkové bežné výdavky predstavujú sumu
+16 407 432 EUR. Navrhnuté hospodárenie v bežnom rozpočte zohľadňuje príjmy približne na
+úrovni roka 2026.
+    Bežné výdavky sú rozpočtované približne na úrovni roka 2026. V rámci bežných
+výdavkov je zohľadnená avizovaná valorizácia miezd o 8,4 % od 1.7.2027.
+
+   Kapitálový rozpočet je rozpočtovaný ako schodkový vo výške 2 327 876 EUR. Celkové
+kapitálové príjmy sú rozpočtované v sume 3 691 811 EUR. Príjmy z predaja majetku
+mesta nie sú rozpočtované. Tieto príjmy z predaja majetku mesta budú do rozpočtu
+zapracované pri jeho úpravách v prípade schváleného odpredaja prebytočného majetku mesta
+mestským zastupiteľstvom.
+    Príjmy z kapitálových grantov a transferov sú rozpočtované v sume 3 691 811 EUR.
+   V rámci kapitálových grantov a transferov ide o nasledujúce príjmy.
+   1.) Dotácia z Ministerstva investícií regionálneho rozvoja a informatizácie na projekt:
+       IV. etapa revitalizácie Námestia SNP v Stropkove v sume 597 242 €. (Realizácia tohto
+       projektu je rozdelená do dvoch rokov. Celkové výdavky projektu sú v sume
+       1 705 888,85 €. Celkové oprávnené výdavky projektu sú v sume 1 183 559, 78 €
+       a neoprávnené výdavky predstavujú sumu 522 329,07 € - hradené z rozpočtu mesta.
+       Nenávratný finančný príspevok je zo zdrojov EÚ 85 % a zo zdrojov SR v sume 7 % čo
+       predstavuje spolu sumu 1 088 875 €. Spolufinancovanie z rozpočtu mesta je vo výške
+       8 % t.j. v sume 94 684,78 €. Spolufinancovanie + neoprávnené výdavky spolu
+       predstavujú sumu 617 013,85 €.
+              Z tohto projektu COV kapitálové sú v sume 1 106 130,64 €, Nenávratný
+       finančný príspevok je v sume 1 017 640,19 €, Spolufinancovanie z rozpočtu mesta je
+                                                                                                    3
+    v sume 88 490,45 € a neoprávnené výdavky predstavujú sumu 522 329,07 €, ktoré sú
+    hradené z rozpočtu mesta. COV bežné predstavujú čiastku 77 429,14 €, z toho
+    nenávratný príspevok je v sume 71 234,81 € a spolufinancovanie z rozpočtu mesta je
+    v čiastke 6 194,33 € je z rozpočtu mesta.)
+2.) Dotácia z Ministerstva investícií regionálneho rozvoja a informatizácie na projekt:
+    IV. etapa revitalizácie Námestia SNP v Stropkove - obnova severozápadného bastiónu
+    hradného opevnenia a priľahlého verejného priestoru v sume 918 343 €. (Realizácia
+    tohto projektu je rozdelená do dvoch rokov. Celkové výdavky projektu sú v sume
+    2 216 933,37 €. Celkové oprávnené výdavky projektu sú v sume 2 084 665,34 €
+    a neoprávnené výdavky predstavujú sumu 132 268,03 € - hradené z rozpočtu mesta.
+    Nenávratný finančný príspevok je zo zdrojov EÚ 85 % a zo zdrojov SR v sume 7 % čo
+    predstavuje spolu sumu 1 917 892,11 €. Spolufinancovanie z rozpočtu mesta je vo
+    výške 8 % t.j. v sume 166 773,23 €. Spolufinancovanie + neoprávnené výdavky
+    spolu predstavujú sumu 299 041,26 €.
+            Z tohto projektu COV kapitálové sú v sume 1 948 285,36 €, Nenávratný
+    finančný príspevok je v sume 1 792 422,53 €, Spolufinancovanie z rozpočtu mesta je
+    v sume 155 862,83 € a neoprávnené výdavky predstavujú sumu 132 268,03 €, ktoré sú
+    hradené z rozpočtu mesta.
+            COV bežné predstavujú čiastku 136 379,98 €, z toho nenávratný príspevok je
+    v sume 125 469,58 € a spolufinancovanie z rozpočtu mesta je v čiastke 10 910,40 € je
+    z rozpočtu mesta.)
+3.) Dotácia z Ministerstva dopravy a výstavby SR na výstavbu 34 bytov v sume
+    597 242 €. V roku 2026 bola mestu poukázaná dotácia v sume 44 727 € vo forme
+    refundácie časti výdavkov za projektovú dokumentáciu, ktorú mesto uhradilo
+    z vlastných finančných prostriedkov v sume 53 820 € v roku 2025.
+4.) Dotácia z Ministerstva dopravy a výstavby SR na technickú vybavenosť pre výstavbu
+    34 bytov nad Obchodný dom MIER v sume 49 960 €.
+5.) Dotácia na projekt: Sociálne nájomné bývanie v meste Stropkov - ide o obstaranie
+    projektovej dokumentácie na výstavbu troch bytových jednotiek po 24 bytov t.j.
+    72 bytov na ul. Za jarkom v sume 119 107 €.
+6.) Dotácia z Ministerstvo školstva, výskumu, vývoja a mládeže SR na projekt:
+    Novostavba materskej školy v meste Stropkov je rozpočtovaná v sume 100 045 €.
+    Táto suma je ponížená o predpokladanú korekciu v čiastke 70 000 €. Ide o refundáciu
+    výdavkov vynaložených na predmetný projekt v roku 2026. (Celkové oprávnené
+    výdavky projektu 1 391 040 €. Neoprávnené výdavky projektu sú v sume 17 531 €.
+    Celkové výdavky spolu: 1 408 571 €. V roku 2024 mesto obdŕžalo dotáciu v sume
+    973 728 €. Z tejto zálohovej platby bolo nedočerpanie finančných prostriedkov v sume
+    476 422,66 €, ktoré boli presunuté do príjmových finančných operácií v roku 2025 na
+    stanovený účel. Pre rok 2025 z rozpočtovanej sumy 371 852 € v rámci kapitálových
+    grantov bolo skutočne poukázaných 207 546,91 €. Z tejto čiastky bolo čerpaných
+    206 813,51 €. Nedočerpaná suma 733,40 € tvorí prebytok hospodárenia a bude
+    použitá na stanovený účel v roku 2026. V rámci bežných grantov bola poukázaná
+    čiastka 61 045,30, čo v porovnaní s rozpočtom 67 801 € predstavuje plnenie na
+    90,04 %. Čerpané finančné prostriedky boli v sume 58 573,40 €. Čiastka 2 471,90 €
+    bola vrátená dňa 9.2.2026 do ŠR SR. Spolu za obidva roky boli čerpané finančné
+    prostriedky v sume 1 239 114,91 € a čiastka 733,40 € bude použitá v roku 2026 t.j.
+    spolu 1 239 848,31 €. V roku 2026 bola predpokladaná dotácia na bežné výdavky
+    v sume 3 490,14 € a na kapitálové výdavky v sume 170 044,92 €. Ukončenie projektu
+    bolo v decembri 2025. V roku 2025 bola uhradená faktúra z rozpočtu mesta PD
+    Ondava Stropkov v sume 151 212 €.).
+
+                                                                                      4
+   7.) Dotácia z Environmentálneho fondu na projekt: Zníženie energetickej náročnosti
+       objektu Materskej školy na ul. Andreja Hlinku v sume 963 324 €. (Realizácia tohto
+       projektu je rozdelená do dvoch rokov. Celkové výdavky projektu sú v sume
+       2 150 873,69 €. Celkové oprávnené výdavky projektu sú v sume 2 049 461,19 €
+       a neoprávnené výdavky predstavujú sumu 101 412,50 € - hradené z rozpočtu mesta.
+       Nenávratný finančný príspevok je zo zdrojov EÚ 85 % a zo zdrojov SR v sume 10 %
+       čo predstavuje spolu sumu 1 946 988,13 €. Spolufinancovanie z rozpočtu mesta je vo
+       výške 5 % t.j. v sume 102 473,06 €. Spolufinancovanie + neoprávnené výdavky
+       spolu predstavujú sumu 203 885,56 €.
+              Z tohto projektu COV kapitálové sú v sume 1 998 047,19 €, Nenávratný
+       finančný príspevok je v sume 1 898 144,83 €, Spolufinancovanie z rozpočtu mesta je
+       v sume 99 902,36 € a neoprávnené výdavky predstavujú sumu 101 412,51 €, ktoré sú
+       hradené z rozpočtu mesta. COV bežné predstavujú čiastku 51 414 €, z toho nenávratný
+       príspevok je v sume 48 843,30 € a spolufinancovanie z rozpočtu mesta je v čiastke
+       2 570,70 € je z rozpočtu mesta.)
+
+    Celkové kapitálové výdavky predstavujú sumu 6 019 687 EUR. V rámci kapitálových
+výdavkov sú rozpočtované položky:
+   a) výdavky v programe 1 – PLÁNOVANIE, MANAŽMENT A KONTROLA sú
+       rozpočtované v sume 20 000 € na úhradu výdavkov súvisiacich s obstaraním
+       projektových dokumentácií pri podávaní projektov na získanie grantových finančných
+       prostriedkov.
+   b) Výdavky v programe 6 – ODPADOVÉ HOSPODÁRSTVO sú rozpočtované v sume
+       40 950 €. V rámci vybudovanie polopodzemných stojísk na odpad sú rozpočtované
+       nasledovné položky: Vyhotovenie výškopisu a polohopisu územia pre účely prípravy
+       PD na vybudovanie polopodzemných kontajnerov v sume 350 €, Prípravná
+       a projektová dokumentácia na polopodzemné stojiská v sume 600 € a samotné
+       vybudovanie polopodzemných stojísk v sume 40 000 €.
+   c) výdavky v programe 7 - MIESTNE KOMUNIKÁCIE sú rozpočtované na úhradu PD
+       na miestne komunikácie v sume 5 000 €, na rekonštrukciu a výstavbu miestnych
+       komunikácií je rozpočtovaná čiastka 21 000 €. V rámci bežných výdavkov na opravy
+       miestnych komunikácií je rozpočtovaná čiastka 15 000 €.
+   8.) výdavky v programe 8 – VZDELÁVANIE sú rozpočtované v sume 1 214 735 €.
+              V sume 1 034 735 € sú rozpočtované výdavky na projekt: Zníženie
+       energetickej náročnosti objektu Materskej školy na ul. Andreja Hlinku. Odovzdanie
+       staveniska zhotoviteľovi diela by malo byť v prvom štvrťroku 2027. Realizácia tohto
+       projektu je 18 mesiacov a je rozdelená do dvoch rokov po 50 %. Celkové výdavky
+       projektu sú v sume 2 150 873,69 €. Celkové oprávnené výdavky projektu sú v sume
+       2 049 461,19 € a neoprávnené výdavky predstavujú sumu 101 412,50 € - hradené
+       z rozpočtu mesta. Nenávratný finančný príspevok je zo zdrojov EÚ 85 % a zo zdrojov
+       SR v sume 10 % čo predstavuje spolu sumu 1 946 988,13 €. Spolufinancovanie
+       z rozpočtu mesta je vo výške 5 % t.j. v sume 102 473,06 €. Spolufinancovanie +
+       neoprávnené výdavky spolu predstavujú sumu 203 885,56 €. V roku 2027 sú
+       rozpočtované príjmy vo forme refundácie v sume 28 500 € za projektovú
+       dokumentáciu uhradenú v sume 30 000 € v roku 2024 a taktiež príjmy v sume
+       4 089,75 € za uhradené výdavky na manažéra pre verejné obstarávanie v roku 2026
+       v sume 4 305 €. Refundácia výdavkov z predchádzajúcich rokov je teda
+       rozpočtovaná spolu 32 589,75 €.
+              Kapitálové výdavky sú rozpočtované pri Základnej škole na ul. Konštantínovej
+       v sume 180 000 € na odstránenie havarijného stavu podláh v telocvični Základnej
+
+                                                                                        5
+   školy. Úhrada faktúr je rozpočtovaná z dotácie Ministerstva školstva, výskumu vývoja
+   a mládeže SR, ktorá bola mestu poukázaná v roku 2026.
+d) výdavky v programe 9 – KULTÚRA sú rozpočtované v sume 47 900 €.
+   V podprograme Kultúrne centrum sú výdavky rozpočtované v sume 3 800 € na
+   Vytvorenie diela Osobnosti mesta Stropkov - príprava publikácie ( Autorské
+   honoráre). V podprograme Mestská knižnica sú výdavky rozpočtované v sume
+   4 100 € na Zakúpenie klímy a montáž Klimatizácie Sinclair -2x7kW. V podprograme
+   Organizácia kultúrnych aktivít sú výdavky rozpočtované v sume 40 000 € na úhradu
+   za vytvorenie a osadenie diela – Pamätník holokaustu. Celková cena diela je zmluvne
+   dohodnutá v sume 60 000 € z toho suma 20 000 € je rozpočtovaná na úhradu v roku
+   2026.
+e) výdavky v programe 10 – ŠPORT sú výdavky rozpočtované v sume 10 000 € na
+   rekonštrukciu hygienických zariadení – toaliet v budove Turistická ubytovňa Pod
+   vlekom.
+f) výdavky v programe 12 - BÝVANIE sú rozpočtované v sume 4 660 102 €.
+   V podprograme Bývanie o občianska vybavenosť sú výdavky rozpočtované v sume
+   15 560 € na položke: Stvárnenie histórie mesta technikou sgrafito na opravenou múre
+   na ulici Hlavná od DSS po Kostol Najsvätejšej Trojice.
+           V rámci projektu: Nájomné byty – nadstavba 34 bytov nad obchodný dom
+   Mier sú výdavky rozpočtované v sume 2 723 480 € a v roku 2028 v sume 200 370 €.
+           Úhrady faktúr sú rozpočtované z Dotácie z Ministerstva dopravy a výstavby
+   SR v čiastke 993 750 € a to:
+   1.) na výstavbu 34 bytov nad Obchodný dom MIER v sume 943 343 €. (V roku 2026
+       bola mestu poukázaná dotácia z Ministerstva dopravy a výstavby SR na výstavbu
+       34 bytov nad Obchodný dom MIER v sume 44 727 €. Ide o refundáciu výdavkov
+       vynaložených na vypracovanie projektovej dokumentácie v roku 2025
+       z finančných prostriedkov mesta vo výške 53 820 €. )
+   2.) na technickú vybavenosť pre výstavbu 34 bytov nad Obchodný dom MIER
+       v sume 49 960 €.
+           Úhrady faktúr z úveru zo ŠFRB sú rozpočtované v sume 1 568 780 €a to:
+   1.) na výstavbu 34 bytov nad Obchodný dom MIER v sume 1 482 790 €,
+   2.) na technickú vybavenosť pre výstavbu 34 bytov nad Obchodný dom MIER
+       v sume 85 990 €.
+           Úhrada z vlastných finančných prostriedkov mesta je rozpočtovaná
+    v sume 160 950 € v roku 2027 a v roku 2028 v sume 200 370 €.
+
+          V rámci projektu: IV. etapa revitalizácie Námestia SNP v Stropkove sú
+   výdavky rozpočtované v sume 785 733 €. Úhrady faktúr sú rozpočtované v sume
+   597 242 € z dotačných finančných prostriedkov a v sume 188 491 € z vlastných
+   finančných prostriedkov mesta. V rámci dotačných finančných prostriedkov je
+   rozpočtovaná sume 120 539,11 € vo forme refundácie 95 % za vypracovanie
+   projektovej dokumentácie uhradenej z prostriedkov mesta v predchádzajúcich rokoch
+   v sume 131 020,79 € .
+          V rámci bežných výdavkov na tomto projekte je rozpočtovaná suma 39 030 €
+   a úhrady faktúr sú rozpočtované v sume 35 907 € z dotačných finančných prostriedkov
+   a v sume 3 123 € z vlastných finančných prostriedkov mesta. Realizácia projektu je
+   rozdelená do dvoch rokov.
+    (Celkové výdavky projektu sú v sume 1 705 888,85 €. Celkové oprávnené výdavky
+   projektu sú v sume 1 183 559, 78 € a neoprávnené výdavky predstavujú sumu
+   522 329,07 € - hradené z rozpočtu mesta. Nenávratný finančný príspevok je zo
+
+                                                                                     6
+       zdrojov EÚ 85 % a zo zdrojov SR v sume 7 % čo predstavuje spolu sumu 1 088 875 €.
+       Spolufinancovanie z rozpočtu mesta je vo výške 8 % t.j. v sume 94 684,78 €.
+       Spolufinancovanie +neoprávnené výdavky spolu predstavujú sumu 617 013,85 €.)
+
+              V rámci projektu: IV. etapa revitalizácie Námestia SNP v Stropkove - obnova
+       severozápadného bastiónu hradného opevnenia a priľahlého verejného priestoru sú
+       výdavky rozpočtované v sume 1 016 222 €. Úhrady faktúr sú rozpočtované v sume
+       918 343 € z dotačných finančných prostriedkov a v sume 97 879 € z vlastných
+       finančných prostriedkov mesta. V rámci dotačných finančných prostriedkov je
+       rozpočtovaná sume 44 262,12 € vo forme refundácie 95 % za Archeologický výskum
+       uhradený z finančných prostriedkov mesta v predchádzajúcich rokoch v sume
+       48 111 €.
+              V rámci bežných výdavkov na tomto projekte je rozpočtovaná suma 79 575 €
+       a úhrady faktúr sú rozpočtované v sume 77 170 € z dotačných finančných prostriedkov
+       a v sume 2 405 € z vlastných finančných prostriedkov mesta. Realizácia projektu je
+       rozdelená do dvoch rokov po 50 %.
+       (Celkové výdavky projektu sú v sume 2 216 933,37 €. Celkové oprávnené výdavky
+       projektu sú v sume 2 084 665,34 € a neoprávnené výdavky predstavujú sumu
+       132 268,03 € - hradené z rozpočtu mesta. Nenávratný finančný príspevok je zo
+       zdrojov EÚ 85 % a zo zdrojov SR v sume 7 % čo predstavuje spolu sumu
+       1 917 892,11 €. Spolufinancovanie z rozpočtu mesta je vo výške 8 % t.j. v sume
+       166 773,23 €. Spolufinancovanie + neoprávnené výdavky spolu predstavujú sumu
+       299 041,26 €.)
+
+       V rámci projektu: Sociálne nájomné bývanie v meste Stropkov ( Výstavba 3b.j. po 24
+       bytov na ul. Za jarkom.) sú výdavky rozpočtované v sume 119 107 € za vypracovanie
+       projektovej dokumentácie. Úhrady faktúr sú rozpočtované z dotácie od Úradu vlády
+       SR – splnomocnenca pre rómske komunity.
+
+    V rozpočte finančných operácií príjmová časť je rozpočtovaná v sume 1 948 780 EUR.
+Položka prijaté úvery je rozpočtovaná v sume 200 000 €. Čerpanie predmetného úveru je
+zamerané na úhradu kapitálových výdavkov v roku 2027.
+Prevody zostatku finančných prostriedkov z minulých rokov na bežné výdavky nie sú
+rozpočtované. Rozpočtované budú pri úprave rozpočtu po spracovaní Záverečného účtu mesta
+za rok 2026.
+Prevody zostatku finančných prostriedkov na kapitálové výdavky sú rozpočtované
+v čiastke 180 000 €. Ide o dotáciu z Ministerstva školstva na odstránenie havarijného stavu
+podláh v telocvični Základnej školy na ul. Konštantínovej, ktorá bola mestu poukázaná v roku
+2026.
+
+    Prevody z mimorozpočtových fondov nie sú rozpočtované. Ide o prevod finančných
+prostriedkov z Rezervného fondu.
+        Prostriedky rezervného fondu môže obec použiť výlučne na vykrytie schodku
+kapitálového rozpočtu (t.j. na kapitálové výdavky) a na splácanie návratných zdrojov
+financovania (napr. istiny bankového úveru, leasingu). Vyplýva to z ustanovenia § 10 odst. 7,
+zákona 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení
+niektorých zákonov.
+        V parlamente 28.10.2025 bol schválený návrh poslancov Jána Ferenčáka a Štefana
+Gašparoviča aby výnimka používania rezervného fondu na bežné výdavky platila aj pre rok
+2026. Poslanci schválili v záverečnom hlasovaní novelu zákon 583/2004 Z.z. , na používanie
+
+                                                                                           7
+rezervného fondu na bežné a kapitálové výdavky natrvalo. Návratné zdroje na financovanie
+bežných výdavkov Ministerstvo financií neodporučilo a neboli predmetom rokovania.
+        Zákon 583/2024 Z. z. o rozpočtových pravidlách v znení neskorších zmien
+a predpisov bol novelizovaný zákonom č. 334/2025 Z. z. (ďalej len „novela zákona
+č. 583/2004 Z. z.“). Novela zákona č. 334/2005 Z. z. nadobudla účinnosť 1.1.2026.
+        Podľa nového ustanovenia § 10 ods. 7 a 9 vo vzťahu k použitiu prostriedkov
+rezervného fondu na úhradu bežných výdavkov a ustanovenia § 12 ods. 3 obec a vyšší
+územný celok nie sú povinné uplatňovať vo vzťahu k použitiu prostriedkov rezervného fondu
+a zabezpečeniu vyrovnanosti bežného rozpočtu na základe rozhodnutia svojho zastupiteľstva.
+
+Prevod finančných prostriedkov z Účelovej finančnej rezervy na monitorovanie skládky
+Stropkov – Chotča nie je rozpočtovaný. Ide o refundáciu výdavkov vynaložených
+z vlastných finančných prostriedkov mesta na monitorovanie skládky.
+
+   Iné príjmové finančné operácie        nie sú rozpočtované. Ide o prevod finančných
+zábezpek.
+
+    Výdavková časť finančných operácií predstavuje sumu 376 783 EUR.
+    Položka splácanie istín z úverov je rozpočtovaná v zmysle uzatvorených úverových zmlúv
+a predstavuje čiastku 376 783 €.
+    Položka vrátenie finančnej zábezpeky nie je rozpočtovaná. Ide o vrátenie finančných
+zábezpek.
+
+   Výsledok finančných operácií je prebytok v sume 1 571 997 EUR.
+
+   Výdavky sú spracované v programovej štruktúre.
+
+
+Stanoviská vedenia MsÚ, príslušných komisií a mestskej rady:
+
+Odborné stanovisko vedenia mestského úradu, zo dňa 24.11.2026:
+Vedenie mesta nemá námietky k predloženému návrhu a odporúča MsZ schváliť:
+1.) Rozpočet Mesta Stropkov na rok 2027 a zobrať na vedomie rozpočet na roky 2028 – 2029,
+2.) a) Prijatie úveru z komerčnej banky v sume 200 000 € na úhradu kapitálových výdavkov.
+    b) Zabezpečenie úveru zmenkou, prípadne nehnuteľným majetkom mesta.
+
+Stanovisko komisie pre financie a majetok mesta pri MsZ v Stropkove zo dňa ..12.2026:
+Komisia pre financie a majetok mesta --------
+1.) Rozpočet Mesta Stropkov na rok 2027 a zobrať na vedomie rozpočet na roky 2028 – 2029,
+ 2.) a) Prijatie úveru z komerčnej banky v sume 500 000 € na úhradu kapitálových výdavkov.
+     b) Zabezpečenie úveru zmenkou, prípadne nehnuteľným majetkom mesta
+
+3.) Stanovisko Mestskej rady v Stropkove zo dňa 4.12.2026:
+Mestská rada nemá námietky k predloženému návrhu a odporúča MsZ schváliť:
+1.) Rozpočet Mesta Stropkov na rok 2027 a zobrať na vedomie rozpočet na roky 2028 – 2029,
+ 2.) a) Prijatie úveru z komerčnej banky v sume 500 000 € na úhradu kapitálových výdavkov.
+     b) Zabezpečenie úveru zmenkou, prípadne nehnuteľným majetkom mesta
+
+
+
+
+                                                                                         8
+Návrh na uznesenie:
+
+Mestské zastupiteľstvo v Stropkove v zmysle § 11 odst. 4 písm. b) zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších zmien a v súlade s § 9 a nasl. zákona 583/2004 Z.z.
+o rozpočtových pravidlách územnej samosprávy o o zmene a doplnení niektorých zákonov
+
+a) schvaľuje
+ 1.) Rozpočet Mesta Stropkov na rok 2027
+ 2.) a) Prijatie úveru z komerčnej banky v sume 200 000 € na financovanie kapitálových výdavkov,
+     b) ) Zabezpečenie úveru zmenkou, prípadne nehnuteľným majetkom mesta.
+
+
+b) berie na vedomie
+Rozpočet Mesta Stropkov na roky 2028 – 2029.
+
+
+
+
+V Stropkove, 20.11.2026
+
+                                                                 Ing. Ján Polák
+                                                             vedúci odboru financií
+                                                                 a správy daní
+
+
+
+
+                                                                                         9
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/51efe348-33f2-4c08-83e9-ae4dc46ac87c
+                                                                 Rozpočet Mesta Stropkov na roky 2027 -2029 v EUR
+
+
+                                                                                                   Skutočnosť       Skutočnosť       Rozpočet         0čakávaná        Rozpočet         Rozpočet       Rozpočet
+Bežné príjmy
+                                                                                                      rok              rok              rok           skutočnosť          rok              rok            rok
+       kategória položka podpo-                                                                       2024             2025            2026              2026            2027             2028           2029
+                         ložka    príjem
+  1     100                       DAŇOVÉ PRÍJMY                                                       6 999 409        6 026 987       6 508 250         6 721 896       7 044 922        7 297 451      7 610 607
+  2
+  3     110                       Dane z príjmov, ziskov a kapitálového majetku                       6 025 405        5 059 389       5 556 900         5 814 164       6 139 922        6 392 451      6 705 607
+  4              111              Výnos dane z príjmov FO                                             6 025 405        5 059 389       5 556 900         5 814 164       6 139 922        6 392 451      6 705 607
+  5
+  6     120                       Dane z majetku                                                       586 536          578 302          562 000          568 000          566 000         566 000         566 000
+  7              121              daň z nehnuteľností                                                  586 536          578 302          562 000          568 000          566 000         566 000         566 000
+  8                      001        - z pozemkov                                                        87 128           85 275           82 400           88 400           93 000          93 000          93 000
+  9                      002        - zo stavieb                                                       457 684          448 667          437 600          437 600          430 000         430 000         430 000
+  10                     003        - z bytov                                                           41 724           44 360           42 000           42 000           43 000          43 000          43 000
+  11
+  12    130                       Dane za tovary a služby                                              387 431          389 195          389 350          339 732          339 000         339 000         339 000
+  13             133              dane za špecifické služby                                            387 431          389 195          389 350          339 732          339 000         339 000         339 000
+  14                     001        - za psa                                                             6 316            5 667            5 800            5 182            5 500           5 500           5 500
+  15                     003        - za nevýherné hracie prístroje                                        850              750              750              750              750             750             750
+  16                     004        - za predajné automaty                                                 400              317              300              300              250             250             250
+  17                     006        - za ubytovaníe                                                      2 006            2 293              500            1 500              500             500             500
+  18                     012        - za užívanie verejného priestranstva                               53 666           50 469           60 000           10 000           10 000          10 000          10 000
+  19                     013        - za komunálne odpady a drobné stavebné odpady                     324 193          329 699          322 000          322 000          322 000         322 000         322 000
+  20             139              Iné dane za tovary a služby                                                0                0                0                0                0               0               0
+                                  Sankcie uložené v daňovom konaní a sankcie súvisiace s
+  21    160                       úhradami za služby verejnosti poskytované RTVS                             37              101               0                 0               0                0              0
+  22    200                       NEDAŇOVÉ PRÍJMY                                                     1 454 071        1 478 350       1 426 082         1 585 986       1 452 650        1 480 544      1 447 001
+  23                              Príjmy mestského úradu                                                647 448          766 027         777 874           907 362         810 250          811 954        773 991
+  24                              z toho:
+  25    210                       Príjmy z podnikania a z vlastníctva majetku                          345 687          406 069          409 680          404 750          362 677         351 861         301 178
+  26             211              príjmy z podnikania                                                        0                0                0                0                0               0               0
+  27                     003        - dividendy
+  28             212              príjmy z vlastníctva                                                 345 687          406 069          409 680          404 750          362 677         351 861         301 178
+  29                     002        - z prenajatých pozemkov                                            30 895           31 155           21 716           26 212           24 124          24 031          23 348
+  30                     003        - z prenajatých budov,priestorov a objektov                        264 646          324 768          337 817          328 391          288 406         277 683         277 683
+  31                                   z toho:
+  32                                            prenájom budov                                         120 775          113 028          104 412           94 986           71 360          60 637          60 637
+  33                                            bytov                                                  143 871          211 740          233 405          233 405          217 046         217 046         217 046
+                              - z prenajatých strojov, prístrojov, zariadení, techniky a
+  34                     004 náradia                                                                     50 146           50 146          50 147           50 147           50 147          50 147               147
+  35
+  36    220                       Administratívne a iné poplatky a platby                              265 370          299 598          315 350          403 275          394 829         407 329         420 029
+  37             221              administratívne poplatky                                              37 617           54 607           24 000           45 500           46 000          47 500          49 000
+  38                     004        - ostatné                                                           37 617           54 607           24 000           45 500           46 000          47 500          49 000
+  39                                    z toho:
+  40                                        výherné hracie prístroje                                     16 104           16 060           6 000                0                0               0               0
+  41                                        ostatné správne poplatky                                     21 513           38 547          18 000           45 500           46 000          47 500          49 000
+  42             222              pokuty a penále za porušenie predpisov                                  5 130            4 930           3 100            3 179            3 000           3 200           3 500
+  43                               - pokuty uložené okresným úradom v Stropkove                               0                0             100              100                0               0               0
+  44                               - pokuty uložené Mestskou políciou                                     5 130            4 930           3 000            3 000            3 000           3 200           3 500
+  45                              - pokuty uložené OVŽP                                                       0                0               0                0                0
+  46                               - za porušenie predpisov na dani z nehnuteľnosti
+  47                               - úroky z omeškania                                                                                                         79
+  48             223              poplatky a platby z nepriemyselného a náhodného                      222 623          239 995          288 250          354 596          345 829         356 629         367 529
+  49                              predaja a služieb
+  50                     001       - za predaj výrobkov,tovarov a služieb                              222 444          239 644          288 250          354 596          345 829         356 629         367 529
+  51                              z toho:
+  52                                - za relácie v miestnom rozhlase                                        569            1 055             600            1 000            1 000           1 100           1 200
+  53                                - zo vstupnéhé (prof. súbory)                                        51 935           31 383          30 000           30 000           30 000          35 000          40 000
+  54                                - zo vstupného do Kina                                               31 666           52 647          30 000           30 000           30 000          33 000          35 000
+  55                                - za školné, zápisné a kurzy                                              0                0           1 000            1 000            1 000           1 000           1 000
+  56                                - za cirkulovaná výpožičnú službu                                     1 276            2 173           1 000            1 500            1 000           1 200           1 500
+  57                              - z kultúrnej činnosti                                                      0            6 400           6 500            5 900            5 000           5 500           6 000
+  58                                - za predaj tombolových lístkov                                       9 687           10 000          10 000           12 209           10 000          10 000          10 000
+  59                                - za káblovú televíziu - MAGAZÍN PSK                                    621              621             621              661              700             700             700
+                                  - za administratívne práce pre MŠ A. Hlinku, M. slovenskej,
+  60                              ZUŠ, I. ZŠ, II.ZŠ, III.ZŠ                                            105 001          105 000          159 601          163 201          163 201         163 201         163 201
+                                    - za administratívne práce pre 42 obcí na úseku stavebného
+                                  úradu ( 4 € / obyv./rok ) v zmysle uzatvorenej Zmluvy o
+  61                              zriadení spoločného obecného úradu                                                      19 464          38 928           38 928           38 928          38 928          38 928
+                                    - za predaj výrobkov materiálov a služieb TIC -
+  62                              podnikateľská činnosť                                                  19 362              5 764            5 000          5 000              5 000        5 000              5 000
+                                    - za predaj výrobkov materiálov a služieb Areál Pod vlekom -
+  63                              podnikateľská činnosť                                                                      2 534            5 000          5 000              5 000        5 000              5 000
+                                    - za ostatný predaj výrobkov, tovarov a služieb - Byhos -
+  64                              správa bytov                                                               544              748
+  65                                - za predajný stánok - Jarmok                                                                                          58 727           55 000          57 000          60 000
+  66                              - za ostatný predaj výrobkov, tovarov a služieb                              20               25
+  67                                - príjem z benefičného koncertu                                         1 763            1 830                           1 470
+  68             223     004       - za prebytočný hnuteľný majetok (burza kníh)                              179              351
+  69             229              ďalšie administratívne a iné poplatky a platby                                0               66               0                 0               0               0               0
+  70                     005        - za znečisťovanie ovzdušia                                                 0               66               0                 0               0               0               0
+  71
+                                                                                               Skutočnosť       Skutočnosť       Rozpočet       0čakávaná        Rozpočet         Rozpočet       Rozpočet
+Bežné príjmy
+                                                                                                  rok              rok              rok         skutočnosť          rok              rok            rok
+       kategória položka podpo-                                                                   2024             2025            2026            2026            2027             2028           2029
+                         ložka    príjem
+  72    240                       Úroky z domácich úverov,pôžičiek a vkladov                             440          44 016          52 744         52 744           52 744          52 764          52 784
+  73             243              z účtov finančného hospodárenia                                        440             236              50             50               50              70              90
+                                  z vkladov - výnos z dlhopisov VODA SPIEVA I. a to za
+  74             246              obdobie od 2.4.2024 - 31.1.2025                                                     43 780          52 694         52 694           52 694          52 694          52 694
+  75
+  76    290                       Iné nedaňové príjmy                                                35 951           16 344              100        46 593                  0               0              0
+  77             292              ostatné príjmy
+  78                     006      - z náhrad poistného plnenia                                                                                       28 960
+  79                     008      - z výťažkov lotérií a iných podobných hier                             0                  0            100            50                  0               0              0
+  80                     012      - z dobropisov                                                     21 037              8 270                        9 875
+  81                     017       - vrátky                                                           3 741                997                          500
+  82                     019       - z refundácie                                                     1 131              4 091              0         4 196                  0               0              0
+  83                     027       - iné platby                                                       8 969              1 424                            0
+  84                     027       - vecné bremeno                                                    1 073              1 562              0         3 012                  0
+                                  ŠKOLSKÉ ZARIADENIA MESTA STROPKOV -
+                                  originálne kompetencie - školské zariadenia bez
+  85                              právnej subjektivity                                                      0                0              0                0               0               0              0
+  86                              z toho:
+  87    210                       Príjmy z podnikania a z vlastníctva majetku                               0                0              0                0               0               0              0
+  88             212              príjmy z vlastníctva
+  89                     003      - z prenajatých budov,priestorov a objektov                               0                0              0                0               0               0              0
+  90    220                       Administratívne a iné poplatky a platby                                   0                0              0                0               0               0              0
+  91             223              poplatky a platby z nepriemyselného a náhodného
+  92                              predaja a služieb
+  93                     001       - za predaj výrobkov,tovarov a služieb
+  94                              z toho:
+  95                               - zo vstupného CVČ FAUNA                                                 0                0              0                0               0               0              0
+  96                               - zápisné CVČ FAUNA
+  97    290                       Iné nedaňové príjmy                                                       0                0              0                0               0               0              0
+  98                     017      - z dobropisov
+  99                     027      - iné
+ 100                              - vrátky
+
+                                  ŠKOLSKÉ ZARIADENIA MESTA STROPKOV -
+                                  originálne kompetencie - školské zariadenia s
+ 101                              právnou subjektivitou                                            552 157          525 950          473 208        486 265          481 670         503 680         503 680
+ 102                              z toho:
+ 103    210                       Príjmy z podnikania a z vlastníctva majetku                               0                0              0                0               0               0              0
+ 104             212              príjmy z vlastníctva
+ 105                     001       - za predaj výrobkov tovarov a služieb
+ 106                     003       - z prenajatých budov, priestorov a objektov                          0                0                0              0                0               0               0
+ 107    220                       Administratívne a iné poplatky a platby                          541 447          506 089          473 208        484 738          481 670         503 680         503 680
+ 108             223              poplatky a platby z nepriemyselného a náhodného
+ 109                              predaja a služieb
+ 110                     001       - za predaj výrobkov,tovarov a služieb
+ 111                              z toho:
+                                  - za predaj materiálov výrobkov a služieb (Rozpočtované I.
+ 112                              ZŠ , II. ZŠ a III. ZŠ - stravné gymnázium. )                       45 696           44 856          33 160         33 160           33 000          33 300          33 300
+ 113                               - zápisné - Základná umelecká škola                               23 075           28 294          21 650         33 180           28 900          29 220          29 220
+ 114                               - zápisné - Materské školy                                        27 464                0
+ 115                               - zápisné - Školské kluby detí                                    20 004           28 143          33 588         33 588           39 360          40 900          40 900
+ 116                               - zápisné - CVČ pri ZŠ                                            2 743            2 139            1 500          1 500            1 000           1 000           1 000
+ 117                               - za stravné ŠJ pri MŠ                                           10 776           10 463           12 000         12 000           12 500          12 500          12 500
+ 118                               - za stravné ŠJ pri MŠ - potraviny                       

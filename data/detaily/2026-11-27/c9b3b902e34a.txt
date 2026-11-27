@@ -1,0 +1,225 @@
+URL: https://cuet.slovensko.sk/en/dokument/4a2dd63a-f5c2-48b7-9803-99b4427815f8
+OBEC: Hozelec (Poprad)
+NÁZOV: Rozpočet na roky 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/4a2dd63a-f5c2-48b7-9803-99b4427815f8
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Rozpočet na roky 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Hozelec
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Hozelec
+Published to:
+12.12.2026
+Registry case:
+Name of official document:
+Rozpočet na roky 2027-2029
+Document abstract:
+Rozpočet 2027-2029 - návrh.pdf
+[https://www.obechozelec.sk/e_download.php?file=/data/uredni_deska/obsah607_1.pdf&original=Rozpočet 2027-2029 - návrh.pdf]_
+Typ: PDF dokument, Veľkosť: 805.64 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Rozpočet 2027-2029 - návrh.pdf
+Type and size:
+.pdf, 805.64 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/209a1b43-7db7-48e2-bee8-13a99e0229d9
+Obec Hozelec, Hlavná 58/27, 059 11 Hozelec
+
+                                                                        Skutočné                    Očakávaná       Rozpočet na    Rozpočet     Rozpočet
+                                                           Skutočné     plnenie za    Rozpočet      skutočnosť          rok         na rok       na rok
+Rozpočet na roky 2027-2029 - návrh                          plnenie      rok 2025      na rok       za rok 2026        2027          2028         2029
+                                                          za rok 2024                   2026
+Bežné príjmy
+110 - Dane z príjmov (podielové dane)                      370 037,99   273 418,72    291 902,00       294 758,00    312 302,00    312 302,00   312 302,00
+120 - Dane z majetku (za stavby a pozemky)                  30 832,43    31 899,18      30 000,00       30 000,00     32 000,00     32 000,00    32 000,00
+130 - Dane a tovary za služby (za psa, za KO)               21 539,66    29 466,59     32 000,00        32 000,00     32 000,00     32 000,00    32 000,00
+211 - Dividendy PVPS                                             0,00       341,50         340,00          340,00        400,00        400,00       400,00
+212 – Príjmy z vlastníctva (za prenájom)                     8 401,00     8 635,50       7 000,00        7 000,00     10 000,00     10 000,00    10 000,00
+221 – Administratívne poplatky                               3 442,00     8 642,00       4 000,00       14 000,00     14 000,00     14 000,00    14 000,00
+223 – Poplatky a platby z náhodného predaja služieb         27 755,18    30 410,74      20 000,00       20 000,00     20 000,00     20 000,00    20 000,00
+242 – Úroky z vkladov                                            0,00         0,00           0,00            0,00          0,00          0,00         0,00
+290 – Iné nedaňové príjmy                                  152 279,40     5 106,56       5 000,00        9 000,00      7 000,00      7 000,00     7 000,00
+311 – Granty – dary                                         15 775,20     6 200,00       6 000,00       12 500,00      8 000,00      8 000,00     8 000,00
+312 – Transfery v rámci verejnej správy (dotácie bežné)     35 807,33    15 352,42      10 000,00       13 292,00     10 000,00     10 000,00    10 000,00
+312 - Transfery v rámci verejnej správy (dotácia na MŠ)          0,00   166 488,00    160 000,00       160 000,00    188 800,00    188 800,00   188 800,00
+Bežné príjmy spolu                                         665 870,19   575 961,21    566 242,00       592 890,00    634 502,00    634 502,00   634 502,00
+
+Finančné príjmy
+453 - Prostriedky z predchádzajúcich rokov-nevyčerpaná
+      dotácia na stravu-predškoláci                          1 491,00     1 262,80          0,00             0,00           0,00         0,00         0,00
+453 - Prostriedky z predchádzajúcich rokov KZ 72f - ŠJ       1 940,19     1 894,58          0,00             0,00           0,00         0,00         0,00
+453 – Prostriedky z predchádzajúcich rokov -
+nevyčerpaná
+      dotácia „Čítame pre radosť“                              500,00          0,00         0,00             0,00           0,00         0,00         0,00
+453 – Prostr. z predchádzajúcich rokov – nevyčerpaný
+      dar na zmenu ÚPN-O                                       337,50          0,00         0,00             0,00           0,00         0,00         0,00
+453 – Prostr.z predchádzajúcich rokov – nevyčerpaná
+      dotácia z Envirofondu                              23 000,00            0,00          0,00           0,00         0,00            0,00            0,00
+453 – Prostr. z predchádzajúcich rokov – nevyčerpaná
+      dotácia za výrub stromov                                0,00     146 358,20 110 0000,00       110 000,00     35 000,00      35 000,00       35 000,00
+454 – Prostriedky z rezervného fondu obce                15 000,00       8 000,00   10 000,00        35 000,00          0,00           0,00            0,00
+513 - Bankové úvery                                           0,00           0,00        0,00             0,00          0,00           0,00            0,00
+514 – Dlhodobé pôžičky                                        0,00           0,00        0,00             0,00          0,00           0,00            0,00
+
+Kapitálové príjmy
+233 – Príjem z predaja pozemkov                            5 288,36       2 230,00          0,00          0,00          0,00           0,00            0,00
+321 – Príjem daru na zmenu ÚPN-O                           1 350,00           0,00          0,00      4 340,25          0,00           0,00            0,00
+321 – Dar na rozvoj obce                                       0,00           0,00          0,00     86 182,95    201 749,80     201 749,80      201 749,80
+322 – Transfer z Environmentálneho fondu – oplotenie
+      cintorína                                                0,00     10 341,00           0,00           0,00         0,00            0,00            0,00
+322 – Transfer z Environmentálneho fondu-energetická
+      Hospodárnosť budov                                       0,00           0,00    250 000,00    250 000,00          0,00            0,00            0,00
+322 – Dotácia na miestnu infraštruktúru                        0,00           0,00          0,00     10 000,00          0,00            0,00            0,00
+Príjmy spolu                                            714 777,24     746 047,79     936 242,00   1 088 413,20   871 251,80     871 251,80      871 251,80
+
+                                                       Skutočné       Skutočné       Rozpočet na Očakávaná     Rozpočet na     Rozpočet na     Rozpočet na
+                                                       plnenie za     plnenie za     rok 2026    skutočnosť za rok 2027        rok 2028        rok 2029
+Bežné výdavky                                          rok 2024       rok 2025                   rok 2026
+0111 - Obec
+             610 - Mzdy                                 111 957,81     114 236,96     115 000,00    115 000,00    135 000,00     135 000,00      135 000,00
+             620 - Odvody                                47 221,16      48 769,75      40 000,00     40 000,00     46 000,00      46 000,00       46 000,00
+             630 - Tovary a služby                       60 358,90      65 850,22      70 000,00     70 000,00     70 000,00      70 000,00       70 000,00
+             642 – Finančný príspevok na stravu           5 505,65       5 111,45       7 000,00      7 000,00      8 500,00       8 500,00        8 500,00
+0112 - Poplatky banke
+             630 - Tovary a služby                         1 625,99       1 712,60      1 500,00       1 500,00     1 500,00        1 500,00        1 500,00
+0160 – Voľby
+             610 - Mzdy                                     240,00            0,00        100,00        100,00       100,00          100,00          100,00
+              620 - Odvody                                107,49        0,00       70,00        70,00        70,00       70,00       70,00
+              630 - Tovary a služby                     2 697,89        0,00      100,00       100,00     1 000,00    1 000,00    1 000,00
+              630 – Vrátenie nevyčerp. dot. za voľby      333,35        0,00        0,00         0,00         0,00        0,00        0,00
+0170 - Verejný dlh
+              651 - Splátka úrokov z úveru              2 568,10    1 350,17     2 700,00     2 700,00    1 000,00    1 000,00    1 000,00
+0320 - Ochrana pred požiarmi
+             630 – Rovnošaty, zásahový materiál
+                    pre DHZO z dotácie od DPO SR        3 000,00    3 000,00     3 000,00     3 000,00    3 000,00    3 000,00    3 000,00
+             630 - Tovary a služby-poistenie, STK       3 315,03    1 110,29     1 000,00     1 000,00    1 000,00    1 000,00    1 000,00
+             642 - Dotácia DHZ                            650,00        0,00     2 000,00     2 000,00    1 000,00    1 000,00    1 000,00
+0451 - Cestná doprava - chodníky, cesty
+             630 - Tovary a služby                       917,92      388,78      1 500,00     1 500,00    1 500,00    1 500,00    1 500,00
+0510 - Nakladanie s odpadmi
+             630 - Tovary a služby                     25 620,17   25 686,63    32 000,00    32 000,00   32 000,00   32 000,00   32 000,00
+0540 – Ochrana prírody a krajiny
+             630 – Tovary a služby                          0,00   18 277,89   110 000,00   143 750,00   35 000,00   35 000,00   35 000,00
+0620 - Rozvoj obcí
+             630 - Tovary a služby                     19 037,44   10 572,47    43 892,00    43 892,00   32 652,00   32 652,00   32 652,00
+0640 - Verejné osvetlenie
+             630 - Tovary a služby                      3 828,82    2 623,41     6 000,00     6 000,00    6 000,00    6 000,00    6 000,00
+0810 - Rekreačné a športové služby
+             630 - Tovary a služby                          0,00        0,00         0,00         0,00       0,00        0,00        0,00
+             642 - Dotácia OFK Prebojník Hozelec        2 700,00    3 000,00     3 300,00     3 300,00     500,00      500,00      500,00
+             642 – Dotácia Extremme obsracle runners      200,00        0,00         0,00         0,00       0,00        0,00        0,00
+             642 – Dotácia Mestský hokejový klub
+                    Dolný Kubín, o.z.                       0,00        0,00     1 300,00     1 300,00        0,00        0,00        0,00
+0820 - Kultúrne služby -ostatné
+             630 - Vybavenie kuchynky                       0,00       65,97       100,00       100,00      100,00      100,00      100,00
+             630 - Tovary a služby                     11 523,30    4 100,68     3 000,00    11 500,00   13 000,00   13 000,00   13 000,00
+0830 - Vysielacie a vydavateľské služby (konces.popl.)
+              630 - Tovary a služby                        862,32      558,42       600,00       600,00       600,00       600,00       600,00
+0840 - Náboženské a iné spoločenské služby
+              630 - Tovary a služby                       1 738,53    1 896,95     1 500,00     1 500,00     1 700,00     1 700,00     1 700,00
+              642 - Dotácia MS SČK                          400,00      300,00       500,00       500,00       500,00       500,00       500,00
+              642 - Členské príspevky                     1 336,97      597,14       600,00       600,00       600,00       600,00       600,00
+              642 – Dotácia Cirkev.zbor ECAV
+                     Švábovce                              200,00      100,00       100,00       100,00       250,00       250,00       250,00
+              642 – Dotácia Rimsko-katol. cirkev
+                     Hozelec                               200,00      100,00       100,00       100,00       250,00       250,00       250,00
+09111 - Predprimárne vzdelávanie s bežnou
+starostlivos.
+              610 - Mzdy                                 99 681,94   89 876,67   100 000,00   100 000,00   110 000,00   110 000,00   110 000,00
+              620 - Odvody                               38 255,56   34 744,55    40 000,00    40 000,00    45 000,00    45 000,00    45 000,00
+              630 - Tovary a služby                      30 768,50   30 169,34    18 500,00    37 239,43    33 800,00    33 800,00    33 800,00
+              630 – Potraviny pre MŠ                     13 414,51        0,00         0,00         0,00         0,00         0,00         0,00
+              642 – Finančný príspevok na stravu          1 242,00    1 028,00     1 500,00     1 500,00     1 700,00     1 700,00     1 700,00
+09601 - Vedľajšie služby na predprimárne
+vzdelávanie
+              610 - Mzdy                                      0,00   15 536,08    16 000,00    16 000,00    18 000,00    18 000,00    18 000,00
+              620 - Odvody                                    0,00    5 774,75     6 000,00     6 000,00     6 600,00     6 600,00     6 600,00
+              630 – Tovary a služby                           0,00    4 891,06    13 000,00    13 000,00    10 000,00    10 000,00    10 000,00
+              630 - Potraviny pre ŠJ                          0,00   11 764,92    14 000,00    14 000,00    14 000,00    14 000,00    14 000,00
+              642 – Finančný príspevok na stravu              0,00      209,20       300,00       300,00       400,00       400,00       400,00
+09602 – Transfer na krúžkovú činnosť
+              641 - Transfer na krúžkovú činnosť            40,00       80,00         80,00        80,00       80,00        80,00        80,00
+              642 – Dotácia pre OZ pri MŠ                    0,00        0,00          0,00         0,00      500,00       500,00       500,00
+102- Staroba
+              630 - Tovary a služby-doplatok na stravu
+                    pre dôchodcov                         9 211,50    9 142,00     9 500,00     9 500,00    10 000,00    10 000,00    10 000,00
+             630 - Tovary a služby – príspevok pre Klub
+                   dôchodcov                                   299,35       300,00       400,00      400,00         600,00         600,00         600,00
+             630 – Popl. opatrov. službe + soc.pracovník       600,09         0,00         0,00        0,00           0,00           0,00           0,00
+             620 - Odvody                                      215,20         0,00         0,00        0,00           0,00           0,00           0,00
+             642 – Príspevok soc. zariadeniu                   370,66       400,73       500,00      500,00         500,00         500,00         500,00
+107 - Soc. pomoc občanom v HN a soc. núdzi
+             630 - Tovary a služby-stravovanie predškol.      2 744,00     2 958,20    2 500,00     2 500,00       3 500,00       3 500,00       3 500,00
+             642 - Sociálna výpomoc jednotlivcovi               800,00         0,00        0,00         0,00           0,00           0,00           0,00
+             642 – Vratky za str. -predškol.za predch.rok     1 491,00     1 262,80        0,00         0,00           0,00           0,00           0,00
+             642 – Prísp. za ubytovanie odídencov z UA        5 245,00         0,00        0,00         0,00           0,00           0,00           0,00
+Bežné výdavky spolu                                         512 526,15   517 548,08 671 242,00    730 231,43   647 502,00     647 502,00     647 502,00
+Finančné operácie
+0170 - Verejný dlh
+         821005 - Splátka úveru dlhodobého                   16 290,96    15 142,77        0,00    10 000,00     10 000,00      10 000,00      10 000,00
+         821005 – Splátka úveru dlhodobého z RF                   0,00         0,00   10 000,00         0,00          0,00           0,00           0,00
+Kapitálové výdavky
+        713 – Nákup traktor.kosačky z dotácie                     0,00        0,00         0,00     3 600,00          0,00           0,00           0,00
+        714 – Nákup malotraktora z dotácie                   22 006,56        0,00         0,00         0,00          0,00           0,00           0,00
+        714 – Nákup malotraktora z vlastných zdrojov          1 158,24        0,00         0,00         0,00          0,00           0,00           0,00
+        716 - Dokumentácia PHSR                                   0,00        0,00         0,00         0,00      5 000,00       5 000,00       5 000,00
+        716 – Dokumentácia -oplotenie obec. cintorína             0,00      150,00         0,00         0,00          0,00           0,00           0,00
+        716 – Dokumentácia kanalizácia ul. Popradská              0,00        0,00         0,00     1 107,00          0,00           0,00           0,00
+        716 – Dokumentácia–cesta ul. Poľná-Švábovce
+              sever                                              0,00          0,00        0,00     1 500,00          0,00           0,00           0,00
+        716 – Dokumentácia ÚPN-O z vl. zdrojov                 635,00      5 026,25    5 000,00     8 680,50      7 000,00       7 000,00       7 000,00
+        716 – Dokumentácia ÚPN-O z daru z predchá-
+              dzajúcich rokov                                   337,50         0,00        0,00         0,00          0,00           0,00           0,00
+        716 – Dokumentácie ÚPN-O z daru                       1 350,00         0,00        0,00         0,00          0,00           0,00           0,00
+        717 - Rekonštrukcia cesty ul. Poľná-Švábovce
+              sever                                               0,00         0,00        0,00         0,00    100 000,00     100 000,00     100 000,00
+        717 – Rekonštrukcia oplotenie obecný cintorín z
+              dotácie                                            0,00    10 341,00         0,00          0,00             0,00              0,00         0,00
+        717 – Rekonštrukcia oplotenie obecný cintorín z
+              vlastných zdrojov                                  0,00     1 883,56         0,00          0,00             0,00              0,00         0,00
+        717 – Realizácia -energetická hospodárnosť
+budov                                                            0,00         0,00   250 000,00     227 382,66            0,00              0,00         0,00
+      717 – Rekonštrukcia cesty ul.Športová vl. zdroje           0,00         0,00         0,00      19 728,66            0,00              0,00         0,00
+      717 – Rekonštrukcia cesty ul.Športová z daru               0,00         0,00         0,00      86 182,95            0,00              0,00         0,00
+      717 – Rekonštrukcia chodníkov                              0,00         0,00         0,00           0,00      101 749,80        101 749,80   101 749,80
+Výdavky spolu                                              554 304,41   550 091,66   936 242,00   1 088 413,20      871 251,80        871 251,80   871 251,80
+Hospodárenie obce                                         +160 472,83 +195 956,13          0,00          0,00             0,00              0,00         0,00
+
+Vypracovala:     Iveta Mrkvicová, ekonómka obce
+
+V Hozelci, dňa : 26.11.2026
+Vyvesené dňa: 27.11.2026
+Schválené dňa:                                                                                                   Jozef Pavligovský,
+Uznesením č.:                                                                                                    starosta obce
+

@@ -1,0 +1,482 @@
+URL: https://cuet.slovensko.sk/en/dokument/ac8734c4-ad04-4b30-a424-255802008333
+OBEC: Podhorany (nejednoznačné: Kežmarok / Prešov)
+NÁZOV: Návrh rozpočtu Obce Podhorany 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/ac8734c4-ad04-4b30-a424-255802008333
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu Obce Podhorany 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Podhorany
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Obec Podhorany
+Published to:
+Registry case:
+Name of official document:
+Návrh rozpočtu Obce Podhorany 2027-2029
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+navrh_rozpoctu_podhorany_2027-2029.pdf
+Type and size:
+.pdf, 122.53 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/4360ffed-a80e-4d55-a8dc-0556ab82d581
+OBEC PODHORANY                                                                                                                                                      Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                                   Príjmy
+
+
+         Funkčná     Ekonom.                                                               Čerpanie      Čerpanie      Schválený     Očakávaná       Návrh           Návrh          Návrh
+ Druh                          Zdroj   Názov
+           klas.       klas.                                                                 2024          2025          2026        skut. 2026      2027            2028           2029
+
+   1                                   Bežný rozpočet
+
+                      111003    41     Výnos dane z príjmov poukázaný samosp.               467 419,63    404 655,66    444 471,00      436 556,00   462 733,00       483 750,00    512 960,00
+
+                      121001    41     Daň z pozemkov                                        39 438,21     41 446,80     39 830,00       39 830,00    40 150,00        40 150,00     40 150,00
+
+                      121002    41     Daň zo stavieb                                        21 195,42     21 276,99     21 230,00       22 543,00    22 200,00        22 200,00     22 200,00
+
+                      121003    41     Daň z bytov a nebyt. priestorov                          42,30         42,30          40,00          42,30        40,00            40,00         40,00
+
+                      133001    41     Daň za psa                                              916,67        902,92         920,00         888,00       888,00           888,00        888,00
+
+                      133006    41     Daň za ubytovanie                                          0,00       216,90           0,00         385,20       250,00           250,00        250,00
+
+                      133013    41     Daň za komunálne odpady                               41 868,56     59 698,58     59 800,00       61 617,00    61 600,00        61 600,00     61 600,00
+
+                      212002    41     Príjmy z prenajatých pozemkov                           332,79        937,79         251,00         251,00       251,00           251,00        251,00
+
+                      212003    41     Príjmy z prenajatých budov, priestorov, inventáru      1 560,34      1 209,34      1 000,00        1 000,00     1 000,00         1 000,00      1 000,00
+
+                      212003    41     Príjmy z prenajatých priestorov - KD                   1 923,00       630,00       1 000,00        1 000,00     1 000,00         1 000,00      1 000,00
+
+                      212003    41     Príjmy z prenaj. priestorov - MSM, VSM                  825,00        415,00         500,00         500,00       500,00           500,00        500,00
+
+                      212003    41     Príjmy z prenajatých priestorov - DS                    140,00        150,00         150,00         150,00       150,00           150,00        150,00
+
+                      221002    41     Správne popl.- rybárske lístky                          293,00           0,00        100,00         100,00       100,00           100,00        100,00
+
+                      221004    41     Správne popl.- overovanie                               752,00        812,00         800,00         800,00       800,00           800,00        800,00
+
+                      221004    41     Správne poplatky - stavebný poriadok                   1 103,00      2 034,00        800,00        3 885,00     2 000,00         2 000,00      2 000,00
+
+                      221004    41     Správne popl. - životné prostredie                       30,00           0,00         50,00          50,00        50,00            50,00         50,00
+
+                      221004    41     Ostatné poplatky                                           0,02         -0,73          0,00            0,00           0,00            0,00           0,00
+
+                      222003    41     Pokuty a penále                                          15,00         15,00           0,00          20,00            0,00            0,00           0,00
+
+                      223001    41     Poplatky za stočné                                    68 339,15     63 405,28     67 000,00       67 000,00    66 200,00        66 200,00     66 200,00
+
+                      223001    41     Cintorínske poplatky                                    434,60        185,00         250,00         255,00       250,00           250,00        250,00
+
+                      223001    41     Poplatky za smetné                                     1 855,00      1 914,40      2 000,00            0,00           0,00            0,00           0,00
+
+                      223001    41     Miestny rozhlas, kopírov, poskyt.setov,známky pes      4 008,38       462,45         700,00         700,00       700,00           700,00        700,00
+
+                      223001    41     Plastové smetné nádoby, vrecia na TKO                  3 191,49      2 104,08      2 000,00        2 000,00     2 000,00         2 000,00      2 000,00
+
+                      223001    41     Poplatok za pripojenie na kanalizaciu                      9,00          9,00         20,00          20,00        20,00            20,00         20,00
+
+                      223001    41     Ostatné príjmy za tovary a služby                          0,00      3 948,21          0,00            0,00           0,00            0,00           0,00
+
+                      223002    41     Poplatky rodičovský príspevok MŠ                       7 602,00      3 540,00      3 000,00        3 000,00     3 000,00         3 000,00      3 000,00
+
+                      223002    41     Poplatky rodičovské príspevky ZŠ-ŠJ, ŠKD                   0,00      4 680,00      4 600,00        4 600,00     4 600,00         4 600,00      4 600,00
+
+
+
+Podklad obce z 18. 11. 2026                                                                                                                                                              1 / 11
+OBEC PODHORANY                                                                                                                                                      Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                                   Príjmy
+
+
+         Funkčná     Ekonom.                                                               Čerpanie      Čerpanie      Schválený     Očakávaná       Návrh           Návrh          Návrh
+ Druh                          Zdroj   Názov
+           klas.       klas.                                                                 2024          2025          2026        skut. 2026      2027            2028           2029
+
+                       243      41     úroky z vkladov                                         125,25         36,17          50,00         127,46       100,00           100,00        100,00
+
+                      292006    41     Z náhrad z poistného plnenia                               0,00          0,00          0,00        2 052,38           0,00            0,00           0,00
+
+                      292012    41     Z dobropisov (vratky energií v bud.roku)               5 837,82      1 407,44          0,00            0,00           0,00            0,00           0,00
+
+                      292017    41     Z vratiek (NFV od OZ)                                      0,00      1 000,00          0,00            0,00           0,00            0,00           0,00
+
+                      312001   111     Transfery z MSR                                        8 803,00      7 250,20          0,00        8 936,00           0,00            0,00           0,00
+
+                      312001   111     Transfer ŠR Živ.Pros.                                   138,45        152,67         150,00         162,89       160,00           160,00        160,00
+
+                      312001   111     Transfer ŠR Regist. adries                               21,20         37,20          38,00          26,00        26,00            26,00         26,00
+
+                      312001   111     Transfer ŠR Regist.obyvateľ.                            377,52        385,44         385,00         380,82       380,00           380,00        380,00
+
+                      312001   111     Transfer CO                                             206,88        225,12         200,00         200,00       200,00           200,00        200,00
+
+                      312001   111     voľby, referendum dotácia                              5 281,90          0,00          0,00        1 944,36           0,00            0,00           0,00
+
+                      312001   111     Transfery Spojená škola - strava                      31 886,60     31 711,90     30 000,00       34 707,30    30 000,00        30 000,00     30 000,00
+
+                      312001   111     Transfer pre MŠ nenormativne                           8 307,00      1 550,00          0,00        1 100,00           0,00            0,00           0,00
+
+                                       Transfery Spojená škola prenesené komp.
+                      312001   111                                                          404 667,00    415 318,00    396 960,00      400 122,00   396 960,00       396 960,00    396 960,00
+                                       normatívne
+                      312001   111     Transfery ZŠ vzdel. poukazy                            2 362,00      2 182,00      2 244,00        1 286,00     2 244,00         2 244,00      2 244,00
+
+                      312001   111     Transfery ZŠ asistent                                 22 832,00     35 296,00     46 033,00       39 504,00    46 033,00        46 033,00     46 033,00
+
+                      312001   111     Transfery ZŠ, MŠ dopravné                              1 219,00      1 970,00      2 624,00        1 578,00     2 624,00         2 624,00      2 624,00
+
+                      312001   111     Transfery ZŠ lyžiarsky kurz                                0,00      3 000,00          0,00            0,00           0,00            0,00           0,00
+
+                      312001   111     Transfery ZŠ škola v prírode                           1 600,00          0,00      2 000,00        2 000,00     2 000,00         2 000,00      2 000,00
+
+                      312001   111     Transfery ZŠ dotácia eduk.publikácie                   2 377,00      2 135,00      2 000,00        1 345,00     2 000,00         2 000,00      2 000,00
+
+                      312001   111     Transfery ZŠ školský podporný tím                      2 161,00      4 354,00          0,00        4 986,00           0,00            0,00           0,00
+
+                      312001   111     Transfery Spojená škola - odmeny                           0,00      4 740,00          0,00            0,00           0,00            0,00           0,00
+
+                      312001   111     Transfery ZŠ nepedag. zmc podporné opatrenia               0,00      2 380,00          0,00        5 092,00           0,00            0,00           0,00
+
+                      312001   111     Transfery - zvýšenie plat.taríf origi.kompetencie          0,00      1 630,00          0,00            0,00           0,00            0,00           0,00
+
+                      312001   111     Transfery - odchodné                                       0,00      3 200,00          0,00        4 282,00           0,00            0,00           0,00
+
+                      312001   1AC1    Transfer ZŠ - NIVAM pop2                              14 318,86          0,00          0,00            0,00           0,00            0,00           0,00
+
+                      312002    45     TKO - príspevok envirofond                                 0,00      3 721,20      3 000,00        4 047,95     3 000,00         3 000,00      3 000,00
+
+                      312008   11H     Dotácia z NSK                                          2 417,00      5 000,00          0,00            0,00           0,00            0,00           0,00
+
+                      312011   111     Transfery ÚPSVaR dávka v hmotnej núdzi                 2 247,00      2 380,00      2 160,00        2 160,00     2 160,00         2 160,00      2 160,00
+
+
+Podklad obce z 18. 11. 2026                                                                                                                                                              2 / 11
+OBEC PODHORANY                                                                                                                                                             Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                                            Príjmy
+
+
+        Funkčná     Ekonom.                                                                  Čerpanie       Čerpanie       Schválený      Očakávaná         Návrh           Návrh           Návrh
+ Druh                           Zdroj   Názov
+          klas.       klas.                                                                    2024           2025           2026         skut. 2026        2027            2028            2029
+
+                     312012      111    Dotácia na MŠ prenesený výkon štátnej správy                 0,00    184 346,00     145 000,00       177 412,00     145 000,00       145 000,00     145 000,00
+
+  *1                                    Bežný rozpočet spolu                                 1 180 481,04   1 330 099,31   1 283 356,00   1 340 644,66 *   1 303 369,00    1 324 386,00    1 353 596,00
+
+   2                                    Kapitálový rozpočet
+
+                     233001       43    Predaj pozemkov                                              0,00        148,02            0,00            0,00             0,00            0,00            0,00
+
+                     322002       45    Dotácia zo štát. učel. fondu - Enviromentálny fond     37 534,00            0,00           0,00            0,00             0,00            0,00            0,00
+
+                     322008      11H    Od ostatných subjektov verejnej správy                       0,00           0,00           0,00        5 000,00             0,00            0,00            0,00
+
+  *2                                    Kapitálový rozpočet spolu                              37 534,00         148,02           0,00         5 000,00             0,00            0,00            0,00
+
+   3                                    Finančné operácie
+
+                       453      131O    Prostriedky z predchádzajúcich rokov                         0,00       1 604,00           0,00            0,00             0,00            0,00            0,00
+
+                       453      131O    Prostriedky z predchádzajúcich rokov                         0,00       4 232,30           0,00            0,00             0,00            0,00            0,00
+
+                       453      131P    Dotácia - škola 2025                                         0,00           0,00           0,00       10 918,66             0,00            0,00            0,00
+
+                       453        41    Zostatok prostriedkov z pred.rokov Sociálny fond             0,00       1 179,90       1 000,00        1 000,00             0,00            0,00            0,00
+
+                     454001       46    Zostatok prostriedkov - Rezervný fond obce                   0,00     72 908,72            0,00      214 061,36             0,00            0,00            0,00
+
+  *3                                    Finančné operácie spolu                                     0,00      79 924,92       1 000,00       225 980,02             0,00            0,00            0,00
+
+                                        Príjmy spolu                                         1 218 015,04   1 410 172,25   1 284 356,00   1 571 624,68 *   1 303 369,00    1 324 386,00    1 353 596,00
+
+
+
+
+* Súčet dopočítaný z položiek pre orezaný údaj v pôvodnom PDF.                                                                                                                                    3 / 11
+OBEC PODHORANY                                                                                                                                                    Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                                Výdavky
+
+
+         Funkčná     Ekonom.                                                             Čerpanie      Čerpanie      Schválený     Očakávaná       Návrh           Návrh          Návrh
+ Druh                          Zdroj   Názov
+           klas.       klas.                                                               2024          2025          2026        skut. 2026      2027            2028           2029
+
+   1                                   Bežný rozpočet
+
+                               111     Prenesené kompetencie Spojená škola                495 411,60    683 062,10    626 861,00      673 414,30   626 861,00       626 861,00    626 861,00
+
+                               131P    Prenesené kompetencie Spojená škola z roku 2025          0,00          0,00          0,00        6 309,86           0,00            0,00           0,00
+
+                                41     Originálne kompetencie MŠ, ŠKD, ŠJ                 223 454,00     95 906,00    101 110,00      107 370,63   124 259,71       116 000,00    116 000,00
+
+                                       Školstvo                                           718 865,60    778 968,10    727 971,00      787 094,79   751 120,71       742 861,00    742 861,00
+
+          01.1.1       611     111     Voľby Tarifný plat OcÚ                                415,68           0,00          0,00         136,96            0,00            0,00           0,00
+
+          01.1.1       611      41     Tarifný plat OcÚ                                    78 439,11     79 452,43     84 570,00       84 570,00    96 600,00        97 000,00     97 300,00
+
+          01.1.1       614     111     Odmeny                                                   0,00      2 000,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1       621     111     dotacia - poistné do VŠZP                               64,32         88,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1       621     111     voľby- poistné do VŠZP                                   0,00          0,00          0,00            8,00           0,00            0,00           0,00
+
+          01.1.1       621      41     Poistné do VšZP                                      7 431,59      6 844,25      9 040,00        9 040,00     8 920,00         8 950,00      8 980,00
+
+          01.1.1       623     111     dotácia poistné do ostatných ZP                          0,00       132,00           0,00            0,00           0,00            0,00           0,00
+
+          01.1.1       623      41     Poistné do ostatných zdrav. poisťovní                2 598,31      1 824,96      1 725,00        1 725,00     1 850,00         1 850,00      1 850,00
+
+          01.1.1      625001   111     dotácia Na nemocenské poistenie                          0,00         11,20          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      625001   111     voľby Na nemocenské poistenie                            0,00          0,00          0,00            2,24           0,00            0,00           0,00
+
+          01.1.1      625001    41     Poistné do Soc.poisťovne - nemocenské                1 265,08      1 116,31      1 380,00        1 380,00     1 370,00         1 370,00      1 370,00
+
+          01.1.1      625002   111     dotácia Na starobné poistenie                            0,00       112,00           0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      625002   111     voľby Na starobné poistenie                              0,00          0,00          0,00            6,40           0,00            0,00           0,00
+
+          01.1.1      625002    41     Poistné do Soc.poisťovne - starobné                 12 625,70     11 323,95     13 825,00       13 825,00    13 700,00        13 700,00     13 700,00
+
+          01.1.1      625003   111     dotácia Na úrazové poistenie                             0,00         16,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      625003    41     Poistné do Soc.poisťovne - úrazové                    720,99        646,84         798,00         798,00       784,00           784,00        784,00
+
+          01.1.1      625004   111     dotácia Na invalidné poistenie                           0,00         24,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      625004   111     voľby Na invalidné poistenie                             0,00          0,00          0,00            4,80           0,00            0,00           0,00
+
+          01.1.1      625004    41     Poistné do Soc.poisťovne - invalidne                 2 630,17      2 401,22      2 970,00        2 970,00     2 940,00         2 940,00      2 940,00
+
+          01.1.1      625005   111     dotácia Na poistenie v nezamestnanosti                   0,00          4,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      625005   111     dotácia Poistné na finan.podpory                         0,00          4,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      625005   111     voľby Na poistenie v nezamestnanosti                     0,00          0,00          0,00            1,60           0,00            0,00           0,00
+
+          01.1.1      625005    41     Poistné do Soc.poisťovne - nezam                      817,72        603,52       1 000,00        1 000,00      980,00           980,00        980,00
+
+
+Podklad obce z 18. 11. 2026                                                                                                                                                            4 / 11
+OBEC PODHORANY                                                                                                                                                       Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                                   Výdavky
+
+
+         Funkčná     Ekonom.                                                                Čerpanie      Čerpanie      Schválený     Očakávaná       Návrh           Návrh          Návrh
+ Druh                          Zdroj   Názov
+           klas.       klas.                                                                  2024          2025          2026        skut. 2026      2027            2028           2029
+
+          01.1.1      625005    41     Poistné na finan.podpory                                 214,39        193,78         190,00         190,00       190,00           190,00        190,00
+
+          01.1.1      625007   111     dotáci Na poistenie do rezervného fondu solidarity         0,00         38,00           0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      625007    41     Poistné do Soc.poisťovne - RFS                          4 245,83      3 841,69      4 725,00        4 725,00    4 650,00         4 650,00      4 650,00
+
+          01.1.1      631001    41     Cestovné náhrady - tuzemsko                                0,00        158,94         100,00           0,00       100,00           100,00        100,00
+
+          01.1.1      632001    41     Energie OcU (plyn)                                      2 185,25      2 062,98          0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      632001    41     Energie elektrina OcU                                   1 372,77      1 172,10          0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      632001    41     Energie elektrina siréna                                 834,03         60,58           0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      632001    41     Energie elektrina kamery                                2 484,09       127,74           0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      632002    41     Vodné OcÚ                                                 44,16         26,77          50,00          70,00       100,00           100,00        100,00
+
+          01.1.1      632003   111     Voľby Poštové služby                                      36,50          0,00           0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      632003   111     Poštové služby zo ŠR                                      21,20         37,20          38,00          26,00        26,00            26,00         26,00
+
+          01.1.1      632003    41     Poštové služby                                           805,76        753,90         950,00         950,00       950,00           950,00        950,00
+
+          01.1.1      632004    41     Komunikačná infra.-munipolis,internet,webhosting         871,03       1 144,42      1 000,00        1 000,00    1 000,00         1 000,00      1 000,00
+
+          01.1.1      632005    41     Telekomunikačné služby                                   994,61        808,54       1 000,00        1 000,00      800,00           800,00        800,00
+
+          01.1.1      632006    41     Elekrtina OcU                                              0,00          0,00       1 500,00        1 200,00    1 500,00         1 500,00      1 500,00
+
+          01.1.1      632006    41     Elekrtina siréna                                           0,00          0,00         100,00         100,00       100,00           100,00        100,00
+
+          01.1.1      632006    41     Elekrtina kamery                                           0,00          0,00         150,00         150,00       150,00           150,00        150,00
+
+          01.1.1      632007    41     OcU plyn                                                   0,00          0,00       2 500,00        1 900,00    2 000,00         2 000,00      2 000,00
+
+          01.1.1      633001    41     Interiérové vybavenie                                      0,00        509,20       1 000,00         200,00     1 000,00         1 000,00      1 000,00
+
+          01.1.1      633002    41     Výpočtová technika                                         0,00       2 637,60        500,00           0,00       500,00           500,00        500,00
+
+          01.1.1      633004    41     Prevádz. stroje, prístroje a zariadenia                    0,00          0,00         500,00           0,00       500,00           500,00        500,00
+
+          01.1.1      633006   111     Všeob.materiál zo ŠR                                     377,52        385,44         385,00         380,82       380,00           380,00        380,00
+
+          01.1.1      633006   111     voľby Všeob.materiál                                     119,27          0,00           0,00         157,59            0,00            0,00           0,00
+
+          01.1.1      633006   11H     Všeobecný materiál dotacia NSK                           317,00          0,00           0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      633006    41     Všeobecný materiál ocú                                  2 080,39      2 421,21      2 000,00        4 000,00    2 500,00         2 500,00      2 500,00
+
+          01.1.1      633009    41     Knihy, časopisy, noviny, učebnice                          0,00          0,00         150,00         150,00       150,00           150,00        150,00
+
+          01.1.1      633010    41     Prac. odevy, obuv a prac. pomôcky                         43,00          0,00           0,00           0,00            0,00            0,00           0,00
+
+          01.1.1      633013    41     Softvér a licencie - virtuálny cintorín                  460,20       1 703,54        500,00        1 234,31    1 000,00         1 000,00      1 000,00
+
+
+
+Podklad obce z 18. 11. 2026                                                                                                                                                               5 / 11
+OBEC PODHORANY                                                                                                                                                  Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                              Výdavky
+
+
+         Funkčná     Ekonom.                                                           Čerpanie      Čerpanie      Schválený     Očakávaná       Návrh           Návrh          Návrh
+ Druh                          Zdroj   Názov
+           klas.       klas.                                                             2024          2025          2026        skut. 2026      2027            2028           2029
+
+          01.1.1      633016   111     Voľby Reprezentačné                                  94,46           0,00          0,00          36,00            0,00            0,00           0,00
+
+          01.1.1      633016    41     Reprezentačné                                      1 446,82      2 523,89      2 500,00        2 500,00     2 500,00        2 500,00       2 500,00
+
+          01.1.1      634001   111     Voľby Spotreba PHM, mazivá                           80,00           0,00          0,00          40,00            0,00            0,00           0,00
+
+          01.1.1      634001    41     Spotreba PHM,mazivá - OcÚ                           508,04        215,93         500,00         500,00       700,00           700,00        700,00
+
+          01.1.1      634002   111     Servis, údržba a opravy z dotácie                  4 934,80          0,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      634002    41     Auto - servis, údržba a opravy                      570,00        450,90         700,00         700,00       500,00           500,00        500,00
+
+          01.1.1      634002    41     Servis, údržba a opravy                           24 500,00          0,00          0,00        1 468,74           0,00            0,00           0,00
+
+          01.1.1      634003    41     auto, vozík - poistenie                             426,60        333,85         300,00         300,00       300,00           300,00        300,00
+
+          01.1.1      634004    41     Prepravné ( Arriva Nitra)                          5 097,52      4 567,09      5 000,00        5 000,00     5 000,00        5 000,00       5 000,00
+
+          01.1.1      635002    41     Údržba výpočtovej techniky                          855,41        360,00         500,00         240,00       500,00           500,00        500,00
+
+          01.1.1      635004    41     Údržba prevádz. strojov (kopírka,tlač.)             150,00         61,50         300,00         524,61       300,00           300,00        300,00
+
+          01.1.1      635006    41     Údržba budov, priestorov a objektov                 850,58        628,67       2 500,00        6 300,00     2 500,00        2 500,00       2 500,00
+
+          01.1.1      635009    41     Aktualiz, update, štand.údržba softvéru URBIS      1 216,86      1 272,60      1 300,00        1 300,00     1 500,00        1 500,00       1 500,00
+
+          01.1.1      636001    41     Nájomné (horná studňa,S pri kostole,...)               0,00       151,00         100,00         282,31       300,00           300,00        300,00
+
+          01.1.1      637001    41     Školenia, kurzy, semináre                          1 966,84      1 335,00      1 800,00         950,00      1 800,00        1 800,00       1 800,00
+
+          01.1.1      637002    41     Konkurzy a súťaže                                  3 588,00          0,00      3 000,00        2 000,00     3 000,00        3 000,00       3 000,00
+
+          01.1.1      637003    41     Propagácia, reklama a inzercia                         0,00       125,00         500,00         900,00       500,00           500,00        500,00
+
+          01.1.1      637004   111     Všeobecné služby dotácie                             10,00       1 279,00          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      637004    41     Všeobecné služby OcÚ                              13 661,37     15 355,24     15 000,00       12 725,50    15 000,00       15 000,00      15 000,00
+
+          01.1.1      637004    41     Účtovné služby                                         0,00     11 300,00     15 400,00       15 400,00    17 800,00       17 800,00      17 800,00
+
+          01.1.1      637005    41     Špeciálne služby (Audit, BOZP, Advokát,GDPR)       8 592,00      8 002,50      8 500,00        8 500,00     8 500,00        8 500,00       8 500,00
+
+          01.1.1      637011   111     Štúdie, expertízy, posudky z dotácie                   0,00          0,00          0,00        3 936,00           0,00            0,00           0,00
+
+          01.1.1      637011    41     Štúdie, expertízy, posudky                         1 500,00          0,00        500,00         500,00       500,00           500,00        500,00
+
+          01.1.1      637012    41     Poplatky, odvody, dane a clá (SOZA,správne..)      1 332,83      1 458,12      1 500,00        1 500,00     1 500,00        1 500,00       1 500,00
+
+          01.1.1      637014   111     Voľby Stravovanie                                   565,52           0,00          0,00         244,75            0,00            0,00           0,00
+
+          01.1.1      637014    41     Poplatky za stravovanie OcÚ                        3 041,20      2 628,94      4 000,00        3 500,00     4 000,00        4 000,00       4 000,00
+
+          01.1.1      637015    41     Poistné (budovy)                                   1 858,45      1 902,06      2 100,00        2 100,00     2 100,00        2 100,00       2 100,00
+
+          01.1.1      637016    41     Sociálny fond výdavok                               700,00        950,16       1 000,00        1 000,00     1 000,00        1 000,00       1 000,00
+
+
+
+Podklad obce z 18. 11. 2026                                                                                                                                                          6 / 11
+OBEC PODHORANY                                                                                                                                                      Rozpočtové údaje v eurách
+
+Návrh rozpočtu na roky 2027 – 2029                                                                                                                                                  Výdavky
+
+
+         Funkčná     Ekonom.                                                               Čerpanie      Čerpanie      Schválený     Očakávaná       Návrh           Návrh          Návrh
+ Druh                          Zdroj   Názov
+           klas.       klas.                                                                 2024          2025          2026        skut. 2026      2027            2028           2029
+
+          01.1.1      637026   111     voľby odmeny členov OVK                                2 925,50          0,00          0,00        1 021,16           0,00            0,00           0,00
+
+          01.1.1      637027   111     voľby - odmeny mimopracovného pomeru                    117,10           0,00          0,00           39,20           0,00            0,00           0,00
+
+          01.1.1      637027    41     Odmeny mimopracovného pomeru - OcU                     3 720,02      1 383,69      2 100,00        4 100,00     2 000,00         2 000,00      2 000,00
+
+          01.1.1      637031    41     Pokuty a penále                                            0,00         18,14          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      637035    41     Dane                                                      14,61          5,80         50,00           50,00       50,00            50,00         50,00
+
+          01.1.1      637037   111     dotácie Vratky do ŠR                                    853,55        294,80           0,00         245,66            0,00            0,00           0,00
+
+          01.1.1      637037    41     Vratky                                                     0,00         57,53          0,00            0,00           0,00            0,00           0,00
+
+          01.1.1      642001    41     Transfery občianskym združeniam a nadáciam             3 349,75      4 060,00      4 060,00        3 231,00     3 500,00         3 500,00      3 500,00
+
+          01.1.1      642006    41     Členské príspevky - transfery                          5 077,93      4 878,61      6 000,00        7 309,26     7 500,00         7 500,00      7 500,00
+
+          01.1.1      642012    41     Na odstupné                                                0,00          0,00     10 560,00            0,00           0,00            0,00           0,00
+
+          01.1.1      642026   111     Tra.na dávku v hmot.núdzi a prís.k dávke               2 247,00      2 380,00      2 160,00        2 160,00     2 160,00         2 160,00      2 160,00
+
+          01.1.1                       Obecná správa                                        220 368,43    192 668,33    224 576,00      223 505,91   229 750,00       230 180,00    230 510,00
+
+          02.2.0      637027   111     CO Odmeny dohody                                        206,88        225,12         200,00         200,00       200,00           200,00        200,00
+
+          02.2.0                       Civilná ochrana                                         206,88        225,12         200,00         200,00       200,00           200,00        200,00
+
+          03.2.0      633005    41     Pož.ochrana-Špec. stroje, prístroje                        0,00          0,00        100,00         100,00       100,00           100,00        100,00
+
+          03.2.0      635005    41     Pož.ochrana - údržba požiarnej techniky                    0,00          0,00        150,00         150,00       150,00           150,00        150,00
+
+          03.2.0                       Požiarna ochrana                                           0,00          0,00        250,00         250,00       250,00           250,00        250,00
+
+          04.5.1      634002   111     Miestne komunikácie - servis, údržba, opravy               0,00      3 247,20          0,00        5 000,00           0,00            0,00           0,00
+
+          04.5.1      634002    41     Miestne komunikácie - servis, údržba, opravy          28 192,90     40 454,97     65 617,00       74 835,99           0,00            0,00           0,00
+
+          04.5.1      634002    46     Miestne komunikácie - servis, údržba, opravy z RF          0,00          0,00          0,00      168 639,00           0,00            0,00 

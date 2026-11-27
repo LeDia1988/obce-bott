@@ -1,75 +1,79 @@
 {
- "datum": "2026-11-26",
- "vygenerovane": "2026-11-26T09:32:10",
- "obdobie_od": "2026-11-23",
+ "datum": "2026-11-27",
+ "vygenerovane": "2026-11-27T10:12:30",
+ "obdobie_od": "2026-11-24",
  "prvy_beh": false,
  "strany": 80,
  "dokumenty": 800,
- "nasich": 63,
+ "nasich": 33,
  "chyby": [],
  "fulltext_ihrisko": 50,
  "fulltext_ihriska": 50,
- "fulltext_workout": 5,
- "fulltext_multifunkčné": 33,
+ "fulltext_workout": 6,
+ "fulltext_multifunkčné": 41,
  "fulltext_oplotenie": 50,
- "fulltext_mobiliár": 15,
- "fulltext_lavičky": 27,
- "fulltext_zastávka": 29,
+ "fulltext_mobiliár": 24,
+ "fulltext_lavičky": 22,
+ "fulltext_zastávka": 32,
  "fulltext_revitalizácia": 50,
  "fulltext_oddychová zóna": 50,
  "fulltext_náučný chodník": 50,
- "fulltext_pumptrack": 6,
+ "fulltext_pumptrack": 4,
  "fulltext_stavebný zámer": 50,
  "fulltext_dopadová plocha": 50,
  "nezaradene_ukazka": [
   "Okresný súd Banská Bystrica",
-  "Mestský súd Košice",
-  "Mesto Prievidza (OVM)",
-  "Okresný súd Komárno",
-  "Zverejňovanie na CUET - Obec Vlčkovce",
-  "Obec Tekovská Breznica",
-  "Okresný súd Galanta",
-  "Úrad pre územné plánovanie a výstavbu Slovenskej republiky",
-  "Mesto Trenčín (OVM)",
-  "Mestský súd Bratislava IV",
-  "Zverejňovanie na CUET - Obec Tureň",
   "Hlavné mesto SR Bratislava",
-  "Mesto Liptovský Mikuláš (OVM)",
-  "Okresný súd Trebišov",
+  "Mestský súd Bratislava IV",
+  "Okresný súd Galanta",
+  "Okresný súd Komárno",
+  "Okresný súd Trnava",
+  "Zverejňovanie na CUET - Obec Čierne",
+  "Okresný súd Senica",
+  "Mestský súd Košice",
+  "Okresný súd Rimavská Sobota",
+  "Obec Sklabiňa",
+  "Okresný súd Trenčín",
+  "Obec Jablonec",
+  "Obec Dobrá Voda",
   "Okresný súd Rožňava",
-  "Mesto Dunajská Streda (OVM)",
-  "Mesto Nové Zámky (OVM)",
-  "Mesto Vráble (OVM)",
-  "Mesto Brezno (OVM)",
-  "Ústredie práce, sociálnych vecí a rodiny, Úrad práce, sociálnych vecí a rodiny Trnava",
-  "Ústredie práce, sociálnych vecí a rodiny, Úrad práce, sociálnych vecí a rodiny Rožňava",
-  "Obec Temeš",
-  "Obec Šajdíkove Humence",
-  "Mesto Banská Bystrica (OVM)",
-  "Okresný súd Spišská Nová Ves"
+  "Okresný súd Žiar nad Hronom",
+  "CÚET – Obec Rovinka(NEDORUČOVAŤ)",
+  "Okresný súd Michalovce",
+  "Okresný súd Pezinok",
+  "Mesto Trenčín (OVM)",
+  "Mesto Stará Turá",
+  "Obec Zlaté Klasy",
+  "Obec Pohronská Polhora (OVM)",
+  "Obec Palárikovo",
+  "Mesto Revúca - Zverejňovanie na CUET"
  ],
  "rss_en": 0,
  "nalezy": [
   {
    "zdroj": "CUET",
-   "obec": "Oreské",
+   "obec": "Hôrka",
    "statut": "OBEC",
-   "okres": "Michalovce",
-   "kraj": "Košický kraj",
-   "kod": "522848",
-   "institucia_cuet": "Zverejňovanie na CUET - obec Oreské",
+   "okres": "Poprad",
+   "kraj": "Prešovský kraj",
+   "kod": "523488",
+   "institucia_cuet": "Obec Hôrka",
    "nejednoznacny_nazov": false,
-   "title": "Návrh VZN č. 2/2026 o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Oreské",
-   "url": "https://cuet.slovensko.sk/en/dokument/5e7fe1f3-2ec0-4318-8984-0093de531a92",
+   "title": "Návrh programového rozpočtu Obce Hôrka na roky 2027-2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/38d5e471-01aa-4f5f-b0b4-af0253fc05e3",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/02c062ed-7371-48ac-8625-7c0c1d555eb9"
+    "https://cuet.slovensko.sk/en/priloha/uloz/98c05ced-5a3e-4b1d-b6eb-ccabb268ce80"
    ],
-   "zverejnene": "2026-11-26",
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
+    "Detské ihrisko",
+    "Športovisko",
     "Park / oddych"
    ],
    "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
@@ -77,339 +81,295 @@
    "firmy": [],
    "sumy_eur": [],
    "ukazky": [
-    "…emového kontajnera. (2) Pôvodcovia objemného odpadu sú povinní v období medzi vývozmi tohto odpadu dočasne ho uložiť na vhodnom mieste mimo verejného priestranstva. (3) Zakazuje sa zmiešavať objemný odpad s ostatnými druhmi odpadov. 7 (4) Medzi objemný odpad patria komunálne odpady, ktoré sa svojou veľkosťou nevojdú do be…",
-    "…dpadu a s iným oddelene zbieraným komunálnym odpadom, ako i ukladať tieto odpady do zberných nádob na komunálny odpad alebo vedľa nich a na verejné priestranstvá. (4) Medzi odpady z domácností s obsahom nebezpečných látok patria: odpadové motorové a mazacie oleje, rozpúšťadlá, staré farby, lepidlá, živice, laky, kyselin…"
+    "…í športových aktivít pre obyvateľov obce  prenájom priestorov na cvičenie pre ženy  3x týždenne cca 1 hod.  výstavba šatní na futbalovom ihrisku  do konca roka 2025  plynulý prístup na multifunkčné ihrisko  rezervačný systém na webovej stránke obce Zabezpečiť kvalitné a široko dostupné vysielanie mie…",
+    "…na cvičenie pre ženy  3x týždenne cca 1 hod.  výstavba šatní na futbalovom ihrisku  do konca roka 2025  plynulý prístup na multifunkčné ihrisko  rezervačný systém na webovej stránke obce Zabezpečiť kvalitné a široko dostupné vysielanie miestneho rozhlasu  frekvencia vysielania  priebežne podľa potre…",
+    "…m priestorov na cvičenie pre ženy  3x týždenne cca 1 hod.  výstavba šatní na futbalovom ihrisku  do konca roka 2025  plynulý prístup na multifunkčné ihrisko  rezervačný systém na webovej stránke obce Zabezpečiť kvalitné a široko dostupné vysielanie miestneho rozhlasu  frekvencia vysielania  priebežne pod…",
+    "…00 39 600,00 39 600,00 Dane za tovary a služby - daň za psa stanovená na základe Všeobecne záväzného nariadenia Obce Hôrka, daň za užívanie verejného priestranstva (stánkový predaj, predaj z auta), miestny poplatok za komunálne odpady a drobné stavebné odpady v zmysle zákona č. 582/2004 Z.z. o miestnych daniach a poplatku…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Viničky",
-   "statut": "OBEC",
-   "okres": "Trebišov",
-   "kraj": "Košický kraj",
-   "kod": "543926",
-   "institucia_cuet": "Obec Viničky",
-   "nejednoznacny_nazov": false,
-   "title": "NÁVRH VZN o miestnych daniach a poplatkoch 1/2026",
-   "url": "https://cuet.slovensko.sk/en/dokument/e505e48b-8008-4319-a548-35451eff9847",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/2f1f935c-e4bf-4a79-bf98-2cded20ada27"
-   ],
-   "zverejnene": "2026-11-26",
-   "spis": "",
-   "temy": [
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer",
-    "Stavebný zámer / konanie"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    3568.0,
-    1035.0
-   ],
-   "ukazky": [
-    "…latkov 1. Obec Viničky týmto VZN ukladá tieto miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za ubytovanie, d) daň za užívanie verejného priestranstva. 2. Obec Viničky týmto VZN ustanovuje miestny poplatok za komunálne odpady a drobné stavebné odpady. 1 DRUHÁ ČASŤ DAŇ Z NEHNUTEĽNOSTÍ Článok 3 Daň z nehnuteľno…",
-    "…enie dane a nevyrubovanie dane Obec Viničky neustanovuje zníženie dane za psa ani oslobodenie od dane za psa. 6 ŠTVRTÁ ČASŤ DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA Článok 15 Predmet dane 1. Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného priestranstva vymedzené v § 30 zákona. 2. Verejným …"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Kluknava",
-   "statut": "OBEC",
-   "okres": "Gelnica",
-   "kraj": "Košický kraj",
-   "kod": "543233",
-   "institucia_cuet": "Obec Kluknava",
-   "nejednoznacny_nazov": false,
-   "title": "Udelenie súhlasu na zásah do biotopu európskeho významu a biotopu národného významu podľa § 6 ods. 2 zákona č. 543/2002 Z. z. o ochrane prírody a krajiny v znení neskorších predpisov – oznámenie",
-   "url": "https://cuet.slovensko.sk/en/dokument/f270b694-0e3e-4cad-ae64-a18e54ac59dc",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/1e656efc-358b-422e-958c-29389bc6badd"
-   ],
-   "zverejnene": "2026-11-26",
-   "spis": "",
-   "temy": [
-    "Mobiliár"
-   ],
-   "typ": [],
-   "projekcia": true,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…súhlasu na zásah do biotopu európskeho významu (prioritné*) Br2/3220 Horské vodné toky a bylinná vegetácia pozdĺž ich brehov (BRP02 Štrkové lavice so smlzom patrsťovým), Sk2/5220 Silikátové skalné steny a svahy so štrbinovou vegetáciou (SKA02 Silikátové skalné steny a svahy so štrbinovou vegetáciou), Br7/…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Hrušov",
+   "obec": "Rudná",
    "statut": "OBEC",
    "okres": "Rožňava",
    "kraj": "Košický kraj",
-   "kod": "525758",
-   "institucia_cuet": "Obec Hrušov - Zverejňovanie na CUET",
+   "kod": "526215",
+   "institucia_cuet": "Obec Rudná",
    "nejednoznacny_nazov": false,
-   "title": "Rozsah hodnotenia strategického dokumentu Územný plán obce Hrušov",
-   "url": "https://cuet.slovensko.sk/en/dokument/ec9e4432-9ab9-4640-a6cf-332e3ca4cf62",
+   "title": "Rozpočet 2027-2029 - obec Rudná",
+   "url": "https://cuet.slovensko.sk/en/dokument/2ad1d44e-c9c9-43a0-b6f3-cffdd881d42d",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/7baace37-19cc-4cbc-b584-c5ad779ac5c3"
+    "https://cuet.slovensko.sk/en/priloha/uloz/8a107cef-2763-4aa3-9590-84b7b1178b48",
+    "https://cuet.slovensko.sk/en/priloha/uloz/128bc308-1159-4db4-8359-b2c13a8d5ec5"
    ],
-   "zverejnene": "2026-11-26",
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
-    "Turistická infraštruktúra",
-    "Dotácia / výzva"
+    "Zastávka",
+    "Park / oddych"
    ],
    "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "projekcia": false,
    "firmy": [],
    "sumy_eur": [],
    "ukazky": [
-    "…úlade s vyhláškou Ministerstva zdravotníctva SR č. 549/2007 Z. z. a podľa potreby navrhnúť opatrenia na ochranu chránených íunkcií. 2.2. 18 Cyklotrasa musí byt' navrhnutá mimo telesa cesty III. triedy prípadne za cestnou priekopou alebo vytvoriť miesto pre cyklotrasu v súbehu s cestou III. triedy za podmienky…",
-    "…ených íunkcií. 2.2. 18 Cyklotrasa musí byt' navrhnutá mimo telesa cesty III. triedy prípadne za cestnou priekopou alebo vytvoriť miesto pre cyklotrasu v súbehu s cestou III. triedy za podmienky dodržania výhľadového šírkového usporiadania cesty III. triedy vzmysle STN 73 6101. Projektovanie ciest adiaľnic a S…",
-    "…cií, cestovného mchu, územného plánovania alebo využívania územia, regionálneho rozvoja a životného prostredia, ako aj strategický dokument spolufinancovaný Európskou úniou, ktoré majú pravdepodobne významný vplyv na životné prostredie azároveň vytvárajú rámec na schválenie niektorej z navrhovaných činností uvedený…"
+    "…lužby 534 200 199 330 1 330 1 037 330 330 330 637 004 Všeobecné služby 335 0 0 0 1 000 938 0 0 0 637 015 Poistenie - chodník pri hl. ceste, zastávka 199 200 199 330 330 100 330 330 330 05.1.0 Nakladanie s odpadmi 22 395 27 476 32 089 32 000 38 386 30 638 42 200 43 000 46 500 633 Materiál 0 0 0 0 5 600 5 581…",
+    "…lužby 12 946 19 555 19 530 19 920 19 920 16 164 33 800 33 820 38 800 133 001 Za psa 449 423 409 420 420 326 400 420 600 133 012 Za úžívanie verejného priestranstva 0 0 0 0 0 0 0 0 0 133 013 Za komunálne odpady a drobné stavebné odpady 12 497 19 132 19 121 19 500 19 500 15 839 33 400 33 400 38 200 Nedaňové príjmy - príjmy …"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Poprad",
+   "obec": "Stropkov",
    "statut": "MESTO",
-   "okres": "Poprad",
+   "okres": "Stropkov",
    "kraj": "Prešovský kraj",
-   "kod": "523381",
-   "institucia_cuet": "Mesto Poprad (OVM)",
+   "kod": "527840",
+   "institucia_cuet": "Mesto Stropkov - Zverejňovanie na CUET",
    "nejednoznacny_nazov": false,
-   "title": "VN prípojka a trafostanica, k.ú. Spišská Sobota",
-   "url": "https://cuet.slovensko.sk/en/dokument/5062b16a-5460-4623-969e-1e96ca39337f",
+   "title": "Návrh - Programový rozpočet mesta Stropkov na roky 2027 - 2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/5fc11f29-69ad-4277-a159-0c8689ab7e16",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/5aeb2008-0fc3-4edd-8fd2-e61b64143c28"
+    "https://cuet.slovensko.sk/en/priloha/uloz/1e7957b4-c348-4180-a4a4-7ac1c2293213",
+    "https://cuet.slovensko.sk/en/priloha/uloz/0daaa499-732e-4c77-9762-acd35532550b",
+    "https://cuet.slovensko.sk/en/priloha/uloz/51efe348-33f2-4c08-83e9-ae4dc46ac87c"
    ],
    "zverejnene": "2026-11-26",
-   "spis": "89962/6172/2026",
+   "spis": "",
    "temy": [
-    "Park / oddych"
+    "Park / oddych",
+    "Dotácia / výzva"
    ],
    "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer",
+    "Objednávka PD / štúdie"
+   ],
+   "projekcia": true,
+   "firmy": [],
+   "sumy_eur": [
+    3691811.0,
+    2327876.0,
+    2216933.37,
+    2084665.34,
+    1948285.36
+   ],
+   "ukazky": [
+    "…ov a transferov ide o nasledujúce príjmy. 1.) Dotácia z Ministerstva investícií regionálneho rozvoja a informatizácie na projekt: IV. etapa revitalizácie Námestia SNP v Stropkove v sume 597 242 €. (Realizácia tohto projektu je rozdelená do dvoch rokov. Celkové výdavky projektu sú v sume 1 705 888,85 €. Celkové o…",
+    "… čiastke 6 194,33 € je z rozpočtu mesta.) 2.) Dotácia z Ministerstva investícií regionálneho rozvoja a informatizácie na projekt: IV. etapa revitalizácie Námestia SNP v Stropkove - obnova severozápadného bastiónu hradného opevnenia a priľahlého verejného priestoru v sume 918 343 €. (Realizácia tohto projektu je …",
+    "…elkové oprávnené výdavky projektu sú v sume 1 183 559, 78 € a neoprávnené výdavky predstavujú sumu 522 329,07 € - hradené z rozpočtu mesta. Nenávratný finančný príspevok je zo zdrojov EÚ 85 % a zo zdrojov SR v sume 7 % čo predstavuje spolu sumu 1 088 875 €. Spolufinancovanie z rozpočtu mesta je vo výške 8 % t.j. v sume 94 684,7…",
+    "…ené z rozpočtu mesta. Nenávratný finančný príspevok je zo zdrojov EÚ 85 % a zo zdrojov SR v sume 7 % čo predstavuje spolu sumu 1 088 875 €. Spolufinancovanie z rozpočtu mesta je vo výške 8 % t.j. v sume 94 684,78 €. Spolufinancovanie + neoprávnené výdavky spolu predstavujú sumu 617 013,85 €. Z tohto projektu COV kap…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Stropkov",
+   "statut": "MESTO",
+   "okres": "Stropkov",
+   "kraj": "Prešovský kraj",
+   "kod": "527840",
+   "institucia_cuet": "Mesto Stropkov - Zverejňovanie na CUET",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh - Zmena rozpočtu mesta Stropkov na rok 2026 rozpočtovým opatrením č. 8",
+   "url": "https://cuet.slovensko.sk/en/dokument/39b5c503-e4d8-45d9-9127-42fcf3e8c116",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/020768c6-3981-498a-9fd3-024091d031a9",
+    "https://cuet.slovensko.sk/en/priloha/uloz/db808a31-55e3-4bc0-be8d-27244cd5e1d8",
+    "https://cuet.slovensko.sk/en/priloha/uloz/0de8fba0-333f-4c28-a99c-39fe0683f54c"
+   ],
+   "zverejnene": "2026-11-26",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Oplotenie",
+    "Park / oddych",
+    "Dotácia / výzva"
+   ],
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie",
+    "Objednávka PD / štúdie"
+   ],
+   "projekcia": true,
+   "firmy": [],
+   "sumy_eur": [
+    1585986.0,
+    568000.0,
+    404750.0,
+    403275.0,
+    339732.0
+   ],
+   "ukazky": [
+    "…k hospodárenia. Ostatné rozpočtované účelové dotácie sa nemenia a tvorí ich: 1.) Dotácia v rámci výzvy poslancov VÚC PSK na projekt: Obnova detského ihriska na ulici Hrnčiarskej v sume 5 000 €. 2.) Dotácia z Ministerstva dopravy a výstavby SR na projekt: Obnova objektu ZUŠ F. Veselého v Stropkove je rozpočtovaná v …",
+    "… 000 €. Úhrada v sume 12 880 € bola rozpočtovaná z dotačných finančných prostriedkov. Na položke Realizácia ochranných sietí na plot pozdĺž ihriska od ul. Ondavskej - Úhrada z vlastných finančných prostriedkov mesta je zvýšenie o 8 300 € na sumu 20 300 €. Na položke Naviac práce - Úhrada z vlastných finanč…",
+    "…é školy je zníženie príjmov 11 460 € na sumu 5 302 777 €. V rámci príjmov pre základné školy je rozpočtovaný projekt: Modernizácia učební a športovísk v ZŠ na ul. Hrnčiarskej v sume 82 056 € sa znižuje o 902 € na čiastku 81 154 €. V rámci sociálneho zabezpečenia je zvýšenie príjmov na položke záškoláctvo o 6 …",
+    "….p. Služba. V rámci aktivity Prímestská rekreačná zóna sa výdavky znižujú o 404 € na sumu 29 649 €. V rámci projektu: Modernizácia učební a športovísk v ZŠ na ul. Hrnčiarskej je zníženie výdavkov o 980 €. V programe Prostredie pre život je zníženie rozpočtu o 2 900 € € na sumu 900 € na položke Fontána na Náme…",
+    "…ce v sume 14 000 €. Úhrada v sume 12 880 € bola rozpočtovaná z dotačných finančných prostriedkov. Na položke Realizácia ochranných sietí na plot pozdĺž ihriska od ul. Ondavskej - Úhrada z vlastných finančných prostriedkov mesta je zvýšenie o 8 300 € na sumu 20 300 €. Na položke Naviac práce - Úhrada z v…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Spišský Štvrtok",
+   "statut": "OBEC",
+   "okres": "Levoča",
+   "kraj": "Prešovský kraj",
+   "kod": "543624",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Spišský Štvrtok",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh rozpočtu na roky 2027 - 2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/a5355a8b-2faa-4da2-839e-b796d3e564ae",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/f8e334b6-ff45-4c5d-a189-d85db238f5af",
+    "https://cuet.slovensko.sk/en/priloha/uloz/6c97f014-e326-4522-9457-7ec9394afe0f",
+    "https://cuet.slovensko.sk/en/priloha/uloz/2b7a13e9-b12f-4166-9e64-663199b0182a"
+   ],
+   "zverejnene": "2026-11-26",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
+    "Oplotenie",
+    "Zastávka",
+    "Park / oddych",
+    "Dotácia / výzva"
+   ],
+   "typ": [
+    "Pozvánka na zastupiteľstvo",
+    "Rozpočet / zmena rozpočtu",
+    "Uznesenie / zápisnica",
+    "Verejné obstarávanie",
     "Návrh VZN / zámer",
     "Stavebný zámer / konanie"
    ],
    "projekcia": true,
    "firmy": [],
-   "sumy_eur": [],
+   "sumy_eur": [
+    700000.0,
+    70000.0,
+    50000.0,
+    40000.0,
+    30000.0
+   ],
    "ukazky": [
-    "…inimálnych bezpečnostných a zdravotníckych požiadavkách na stavenisko. 13. Počas stavebných prác nesmie byť stavebný materiál skladovaný na verejnom priestranstve. 14. Oprávnená osoba, ktorá bude uskutočňovať stavbu je povinná dbať na to, aby pri realizácii prác nebola spôsobená na cudzích nehnuteľnostiach a na majetku š…",
-    "…rávnenej osoby v zmysle ustanovenia § 127 ods. 3 zákona č. 47/1992 Zb. Občiansky zákonník. 15. Pri realizácii stavby nesmú byť znečisťované verejné priestranstvá a komunikácia. V prípade ich znečistenia je ten, kto znečistenie spôsobil, priestranstvo a komunikáciu vyčistiť na vlastné náklady. 16. Dodržať podmienky z vyj…"
+    "…u úveru v sume 70.000,00 €. Ďalej sa predpokladá realizácia chodníka Sadová, Tatranská, ul. Osloboditeľov v sume 40.000,00 €, realizácia AZ Ihrisko, ul. Osloboditeľov v predpokladanej výške 20.000,00 € a vypracovaníe PD pre výstavbu MK Javorová v sume 5.000,00 €. Cieľ: Zabezpečiť výstavbu nových komunikáci…",
+    "…ŕňa starostlivosť o verejnú zeleň, verejné priestranstvá, historické a pamätné miesta. V roku 2027 sa predpokladá realizácia parkoviska pri Ihrisku, Cintoríne a KD v sume 30.000,00 € z vlastných zdrojov a využitia fondu - Poplatok za rozvoj a realizácia vodozádržných opatrení ZŠ, Ovsisko v sume 30.000,00 €…",
+    "…ky predstavujú náklady na energie, údržbu, materiálové zabezpečenie a správu hrobových miest. Pre rok 2027 je naplánovaná realizácia nového plotu okolo cintorína v predpokladanej sume 5.000,00 €. Cieľ: Zvyšovať podiel platných nájomných zmlúv z celkového počtu obsadených hrobov Mu: Počet platných nájomný…",
+    "….2. majetkoprávne vysporiadanie pozemkov 32 960 17 040 50 000 3.2. Projekt / odsávanie spalín (požiarna zbrojnica) 26 000 2 500 28 500 3.3. Plot - cintorín 5 000 5 000 3.6. Most Alejová 70 000 70 000 3.6. Chodník Sadová, Tatranská, Osloboditeľov 40 000 40 000 3.6. Autobusové zastávky / ihrisko, Oslobodi…",
+    "…00 28 500 3.3. Plot - cintorín 5 000 5 000 3.6. Most Alejová 70 000 70 000 3.6. Chodník Sadová, Tatranská, Osloboditeľov 40 000 40 000 3.6. Autobusové zastávky / ihrisko, Osloboditeľov 20 000 20 000 3.6. Miestne komunikácie / PD Javorová 5 000 5 000 10 000 3.6. Miestne komunikácie / IBV Široké 700 000 10 000 710 000 3…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Mlynky",
+   "obec": "Osikov",
    "statut": "OBEC",
-   "okres": "Spišská Nová Ves",
-   "kraj": "Košický kraj",
-   "kod": "543357",
-   "institucia_cuet": "Zverejňovanie na CUET - obec Mlynky",
+   "okres": "Bardejov",
+   "kraj": "Prešovský kraj",
+   "kod": "519707",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Osikov",
    "nejednoznacny_nazov": false,
-   "title": "Návrh VZN o miestnych daniach a o miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Mlynky",
-   "url": "https://cuet.slovensko.sk/en/dokument/5522ce37-5f6d-4260-8ac4-4103bf7ecf2a",
+   "title": "Návrh finančného rozpočtu Obce Osikov na roky 2027, 2028, 2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/7c40cc20-841c-4b76-ac4f-b911278aefdf",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/77e64182-b47b-4a4c-afaf-1d0091b20b86"
+    "https://cuet.slovensko.sk/en/priloha/uloz/efaf77ba-758b-4b1d-a18b-6943b8ffd01a"
+   ],
+   "zverejnene": "2026-11-26",
+   "spis": "OcÚ-0440/2026",
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko",
+    "Park / oddych",
+    "Dotácia / výzva"
+   ],
+   "typ": [
+    "Rozpočet / zmena rozpočtu",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "… 322001 111 KŠA Zo štátneho rozpočtu-šatne-rekonštruk.+ amfiteáter 243 333.94 0.00 0.00 322001 111 MULT Zo štátneho rozpočtu - Multifunkčné ihrisko-tenis. 152 515.60 0.00 0.00 322001 111 ODD Zo štátneho rozpočtu-oddychová zóna-park cintorín 44 000.00 0.00 0.00 * 1 664 324.85 0.00 0.00 *2 2-kapitálový rozpo…",
+    "….31 0.00 0.00 322001 111 KŠA Zo štátneho rozpočtu-šatne-rekonštruk.+ amfiteáter 243 333.94 0.00 0.00 322001 111 MULT Zo štátneho rozpočtu - Multifunkčné ihrisko-tenis. 152 515.60 0.00 0.00 322001 111 ODD Zo štátneho rozpočtu-oddychová zóna-park cintorín 44 000.00 0.00 0.00 * 1 664 324.85 0.00 0.00 *2 2-kapitálo…",
+    "…33.94 0.00 0.00 322001 111 MULT Zo štátneho rozpočtu - Multifunkčné ihrisko-tenis. 152 515.60 0.00 0.00 322001 111 ODD Zo štátneho rozpočtu-oddychová zóna-park cintorín 44 000.00 0.00 0.00 * 1 664 324.85 0.00 0.00 *2 2-kapitálový rozpočet 1 664 324.85 0.00 0.00 3 3-finančné operácie 453 131N 9 Zostatok prostriedk…",
+    "…t.rozpočtu MŠ - výchovno-vzdel.proces-5.roč. 2 200.00 2 200.00 2 200.00 312001 111 99 Zo ŠR ZŠ-učebnice 700.00 700.00 700.00 312001 111 ENV Envirofond 2 000.00 2 000.00 2 000.00 312001 111 NORM Zo štát.rozpočtu MŠ 197 134.00 197 134.00 197 134.00 312001 111 UPSV Zo štátneho rozpočtu UPSVaR 200.00 200.00 200.0…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Dobšiná",
+   "statut": "MESTO",
+   "okres": "Rožňava",
+   "kraj": "Košický kraj",
+   "kod": "525634",
+   "institucia_cuet": "Mesto Dobšiná - Zverejňovanie na CUET",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh rozpočtu mesta Dobšiná na roky 2027 - 2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/e9a465c6-e0a9-48fe-9563-cceffae56f9e",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/e17c46c6-75e5-4061-8a22-ec7bdda7b7ac",
+    "https://cuet.slovensko.sk/en/priloha/uloz/5109827d-c8fc-4632-ab44-60705c58023c",
+    "https://cuet.slovensko.sk/en/priloha/uloz/99954701-8e82-454d-b8ff-7f684d4e773b"
    ],
    "zverejnene": "2026-11-26",
    "spis": "",
    "temy": [
-    "Športovisko",
     "Park / oddych"
    ],
    "typ": [
-    "Uznesenie / zápisnica",
+    "Rozpočet / zmena rozpočtu",
+    "Verejné obstarávanie",
     "Návrh VZN / zámer"
    ],
    "projekcia": false,
    "firmy": [],
-   "sumy_eur": [],
+   "sumy_eur": [
+    4590127.0,
+    1124389.0,
+    352323.0,
+    309595.0,
+    272200.0
+   ],
    "ukazky": [
-    "…ozemkov: a) pozemky na ktorých sú cintoríny, kolumbáriá, urnové háje a rozptylové lúky, b) pozemky verejne prístupných parkov, priestorov a športovísk, c) pozemky užívané školami a školskými zariadeniami. (2) Správca dane ustanovuje oslobodenie od dane zo stavieb a od dane z bytov: a) stavby alebo byty slúžia…",
-    "… na území obce Mlynky. (2) Obec Mlynky na svojom území ukladá tieto miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za ubytovanie, e) daň za predajné automaty, f) daň za nevýherné hracie prístroje. (3) Obec Mlynky na svojom území ukladá poplatok za komunálne odpady a…",
-    "…o držiteľovi psa za úhradu 2,00 € novú známku. Povinnosťou vlastníka je pri odhlásení psa evidenčnú známku vrátiť. Článok 8 Daň za užívanie verejného priestranstva (1) Verejným priestranstvom sú verejnosti prístupné pozemky vo vlastníctve obce Mlynky, ktorými sa rozumejú nasledovné miesta: a) hlavné (štátne) a všetky vedľ…"
+    "… Dane za tovary a služby 321 657 2027 2028 2029 Rozpočet (v EUR) 321 657 202 102 202 102 Rozpočet 1.3.1 Dane 155 114 1.3.1. Daň za užívanie verejného priestranstva ................................................ 6 318 € Predmetom dane za užívanie verejného priestranstva je v zmysle zákona NR SR č.582/2004 Z. z. o miestny…",
+    "… 155 114 1.3.1. Daň za užívanie verejného priestranstva ................................................ 6 318 € Predmetom dane za užívanie verejného priestranstva je v zmysle zákona NR SR č.582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov oso…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Spišská Belá",
-   "statut": "MESTO",
-   "okres": "Kežmarok",
+   "obec": "Podhorany",
+   "statut": "OBEC",
+   "okres": "nejednoznačné: Kežmarok / Prešov",
    "kraj": "Prešovský kraj",
-   "kod": "523828",
-   "institucia_cuet": "Mesto Spišská Belá (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN č. .../2026 o o miestnych daniach a mies",
-   "url": "https://cuet.slovensko.sk/en/dokument/06ef0c3a-1d5a-4cce-b533-0ea40f0a9c22",
+   "kod": "",
+   "institucia_cuet": "Obec Podhorany",
+   "nejednoznacny_nazov": true,
+   "title": "Návrh rozpočtu Obce Podhorany 2027-2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/ac8734c4-ad04-4b30-a424-255802008333",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/093a46b6-9d84-4267-804e-6716a2a96c6b"
+    "https://cuet.slovensko.sk/en/priloha/uloz/4360ffed-a80e-4d55-a8dc-0556ab82d581"
    ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…pišská Belá. 2. Mesto Spišská Belá (ďalej len „mesto“) ukladá tieto miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za ubytovanie, e) daň za predajné automaty, f) daň za nevýherné hracie prístroje. 3. Mesto Spišská Belá (ďalej len „mesto“) ukladá miestny poplatok za …",
-    "… na poľovnícke účely, d) záchranárske psy. Vzor tlačiva na evidenciu psov mesta Spišská Belá je v prílohe č. 1. ŠTVRTÁ ČASŤ DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA §9 Sadzba dane Správca dane určuje sadzbu dane za užívanie verejného priestranstva sa za každý aj začatý m2 osobitne užívaného verejného priestranstva a každý …"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Spišská Belá",
-   "statut": "MESTO",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523828",
-   "institucia_cuet": "Mesto Spišská Belá (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "VZN č. X/2026 o niektorých podmienkach držania pso",
-   "url": "https://cuet.slovensko.sk/en/dokument/adb60084-5eb3-4c8b-a87d-899a4797a2a8",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/e1436fc5-68c7-4ecf-878e-cecb72230ad1"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "VZN č. X/2026 o niektorých podmienkach držania pso",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…ovej 4. Nad kaštieľom 5. Popradská §4 Zákaz vstupu so psom 1. Vstup so psom je zakázaný: a) do priestorov škôl a školských zariadení, b) na detské ihriská a pieskoviská, c) do priestorov úradných budov a zariadení, obchodov, divadiel, kina, výstavísk, múzeí, galérií a iných športových a kultúrnych zariadení, d) d…",
-    "…úradných budov a zariadení, obchodov, divadiel, kina, výstavísk, múzeí, galérií a iných športových a kultúrnych zariadení, d) do priestorov športových zariadení a športovísk, e) do budovy zdravotného strediska, f) do reštaurácií, kaviarní, pohostinstiev, vinární a iných stravovacích a ubytovacích zariadení, ak sa pre t…",
-    "…ení, obchodov, divadiel, kina, výstavísk, múzeí, galérií a iných športových a kultúrnych zariadení, d) do priestorov športových zariadení a športovísk, e) do budovy zdravotného strediska, f) do reštaurácií, kaviarní, pohostinstiev, vinární a iných stravovacích a ubytovacích zariadení, ak sa pre tento zákaz ro…",
-    "…šská Belá vydá držiteľovi psa náhradnú evidenčnú známku psa za úhradu vo výške 3,00 EUR. §3 Voľný pohyb psa Voľný pohyb psa (bez vôdzky) na verejnom priestranstve v meste Spišská Belá je zakázaný na nižšie uvedených častiach územia mesta: 1. 1. mája 12. Ladislava Novomeského 23. Slnečná 2. Agátová 13. Letná 24. Slov. Nár…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Spišská Belá",
-   "statut": "MESTO",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523828",
-   "institucia_cuet": "Mesto Spišská Belá (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Všeobecne záväzné nariadenie Mesta Spišská Belá č",
-   "url": "https://cuet.slovensko.sk/en/dokument/e4eeae0b-0ed9-48fb-bff9-ff7d34145ae4",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/658a6743-8c8d-4e42-a622-5882771de6f7"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Mobiliár",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…bezpečený bezpečný prístup, b) nebol narušený vzhľad okolia (estetika) a hygiena prostredia, c) nádoby neboli umiestnené v blízkosti okien, detských ihrísk, frekventovaných miest a pod., d) nádoby boli umiestnené na spevnenom podklade, e) nádoby neboli umiestnené trvalo a prednostne na chodníkoch, komunikáciách al…",
-    "…obám, v opačnom prípade sa vývoz odpadu neuskutoční. 5. Na verejných priestranstvách sú na ukladanie komunálnych odpadov umiestnené verejné odpadkové koše. Tieto koše sú určené prioritne na zmesový komunálny odpad osôb pohybujúc sa po meste. Do týchto verejných odpadkových košov je zakázané ukladať odpady vyprodu…",
-    "…miestnené verejné odpadkové koše. Tieto koše sú určené prioritne na zmesový komunálny odpad osôb pohybujúc sa po meste. Do týchto verejných odpadkových košov je zakázané ukladať odpady vyprodukované v prevádzkach právnických osôb a fyzických osôb oprávnených na podnikanie a ďalšie odpady, na ktoré nie sú tieto koše …",
-    "…ko zmesový KO a do zberných nádob určených na triedený zber KO zložku KO, pre ktorú nie je zberová nádoba určená, ponechať staré vozidlo na verejnom priestranstve, m) vykonávať zber oddelene zbieraných zložiek KO (odpady z obalov a neobalových výrobkov, elektroodpad z domácností, použité batérie a akumulátory) bez zariad…",
-    "…V čase odvozu odpadu sú fyzické osoby povinné umožniť voľný prístup k zberným nádobám, v opačnom prípade sa vývoz odpadu neuskutoční. 5. Na verejných priestranstvách sú na ukladanie komunálnych odpadov umiestnené verejné odpadkové koše. Tieto koše sú určené prioritne na zmesový komunálny odpad osôb pohybujúc sa po meste. Do…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Spišská Belá",
-   "statut": "MESTO",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523828",
-   "institucia_cuet": "Mesto Spišská Belá (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "VZN MESTA SPIŠSKÁ BELÁ č. ../2026, o poskytovaní",
-   "url": "https://cuet.slovensko.sk/en/dokument/c89c9e87-1839-4d1c-b837-90e9e77cd2e8",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/9e108b35-7704-4a2e-ab51-85c299d314b6",
-    "https://cuet.slovensko.sk/en/priloha/uloz/77cbf85e-5217-4bb0-83d0-5a9e8e91d059"
-   ],
-   "zverejnene": "2026-11-25",
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
     "Dotácia / výzva"
    ],
    "typ": [
     "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "projekcia": false,
    "firmy": [],
-   "sumy_eur": [
-    1038.5,
-    1035.0
-   ],
+   "sumy_eur": [],
    "ukazky": [
-    "… a na domácu opatrovateľskú službu podľa ods. 1 sa podáva spolu s potrebnými prílohami na príslušnom Úrade práce, sociálnych vecí a rodiny. Žiadosť o poskytnutie prepravnej služby, žiadosť o poskytnutie alebo zabezpečenie odľahčovacej služby, ako aj žiadosť o vydanie rozhodnutia o potrebe poskytovania sociálnej služby v…",
-    "…ods. 1 sa podáva spolu s potrebnými prílohami na príslušnom Úrade práce, sociálnych vecí a rodiny. Žiadosť o poskytnutie prepravnej služby, žiadosť o poskytnutie alebo zabezpečenie odľahčovacej služby, ako aj žiadosť o vydanie rozhodnutia o potrebe poskytovania sociálnej služby v zariadení pre seniorov z iných vážnych d…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Spišská Belá",
-   "statut": "MESTO",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523828",
-   "institucia_cuet": "Mesto Spišská Belá (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "VZN č. XX/2026 poskytovaní sociálnych služieb na",
-   "url": "https://cuet.slovensko.sk/en/dokument/b5405dfa-d39d-45b5-9613-6ff6105cc0f0",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/5ca662bc-3f65-4621-9753-02fd908732cd",
-    "https://cuet.slovensko.sk/en/priloha/uloz/022a7d7b-6f16-4c80-bf6b-97a79fd2ccec"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Dotácia / výzva"
-   ],
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1038.5,
-    1035.0
-   ],
-   "ukazky": [
-    "… a na domácu opatrovateľskú službu podľa ods. 1 sa podáva spolu s potrebnými prílohami na príslušnom Úrade práce, sociálnych vecí a rodiny. Žiadosť o poskytnutie prepravnej služby, žiadosť o poskytnutie alebo zabezpečenie odľahčovacej služby, ako aj žiadosť o vydanie rozhodnutia o potrebe poskytovania sociálnej služby v…",
-    "…ods. 1 sa podáva spolu s potrebnými prílohami na príslušnom Úrade práce, sociálnych vecí a rodiny. Žiadosť o poskytnutie prepravnej služby, žiadosť o poskytnutie alebo zabezpečenie odľahčovacej služby, ako aj žiadosť o vydanie rozhodnutia o potrebe poskytovania sociálnej služby v zariadení pre seniorov z iných vážnych d…"
+    "… 200,00 0,00 4 282,00 0,00 0,00 0,00 312001 1AC1 Transfer ZŠ - NIVAM pop2 14 318,86 0,00 0,00 0,00 0,00 0,00 0,00 312002 45 TKO - príspevok envirofond 0,00 3 721,20 3 000,00 4 047,95 3 000,00 3 000,00 3 000,00 312008 11H Dotácia z NSK 2 417,00 5 000,00 0,00 0,00 0,00 0,00 0,00 312011 111 Transfery ÚPSVaR dávk…"
    ]
   },
   {
@@ -421,59 +381,57 @@
    "kod": "543608",
    "institucia_cuet": "Obec Spišský Hrhov (OVM)",
    "nejednoznacny_nazov": false,
-   "title": "Zadanie územnoplánovacej informácie",
-   "url": "https://cuet.slovensko.sk/en/dokument/fba5b8a6-8720-4e74-a7fc-51f93973c5a0",
+   "title": "Návrh rozpočtu obce Spišský Hrhov 2027-2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/29a86f6c-5732-4c84-a719-2a585bf41328",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/404ec37e-f579-45c7-bc75-0f1b566a1c23",
-    "https://cuet.slovensko.sk/en/priloha/uloz/dbbc38cc-45f1-43cf-af8a-25d2030a37ac"
+    "https://cuet.slovensko.sk/en/priloha/uloz/a264b1a0-dcbc-4512-b462-a9ebfe94729a",
+    "https://cuet.slovensko.sk/en/priloha/uloz/844193f6-73e3-4040-9a6b-bdb73586d95c",
+    "https://cuet.slovensko.sk/en/priloha/uloz/7ae27729-0eb5-4a95-9558-3f795fb0211f"
    ],
-   "zverejnene": "2026-11-25",
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
-    "Športovisko",
-    "Zastávka",
+    "Detské ihrisko",
+    "Oplotenie",
     "Park / oddych",
-    "Turistická infraštruktúra"
+    "Dotácia / výzva"
    ],
    "typ": [
+    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
-   "projekcia": false,
+   "projekcia": true,
    "firmy": [],
    "sumy_eur": [],
    "ukazky": [
-    "…lít UNESCO (Levoča, Spišský hrad). 5.5 Rekreácia, šport a cestovný ruch PRI RIEŠENÍ UPLATNIŤ NASLEDOVNÉ ZÁSADY • intenzifikovať a dovybaviť športový areál obce a preveriť potrebu nových plôch športu vo väzbe na rozvoj obytného územia, • vymedziť plochy dennej rekreácie obyvateľov a preveriť rekreačný potenciál kr…",
-    "…a susedné obce v súlade s krajskou cyklostratégiou, • riešiť statickú dopravu (parkovanie pri občianskej vybavenosti, kaštieli, cintoríne a športovom areáli) a autobusové zastávky s pešou dostupnosťou, • rešpektovať požiadavky na dopravnú obsluhu územia hromadnou dopravou a jej integráciu v rámci IDS PSK. 6.3 Techn…",
-    "…ade s krajskou cyklostratégiou, • riešiť statickú dopravu (parkovanie pri občianskej vybavenosti, kaštieli, cintoríne a športovom areáli) a autobusové zastávky s pešou dostupnosťou, • rešpektovať požiadavky na dopravnú obsluhu územia hromadnou dopravou a jej integráciu v rámci IDS PSK. 6.3 Technické vybavenie Vodné ho…",
-    "…ade s krajskou cyklostratégiou, - riešiť statickú dopravu (parkovanie pri občianskej vybavenosti, kaštieli, cintoríne a športovom areáli) a autobusové zastávky s pešou dostupnosťou, - rešpektovať požiadavky na dopravnú obsluhu územia hromadnou dopravou a jej integráciu v rámci IDS PSK. Strana 12 / 22 Názov požiadavky …",
-    "…vodňami v rozsahu určenom osobitnými predpismi a príslušnými správcami, • podporovať realizáciu protipovodňových a vodozádržných opatrení a revitalizáciu vodných tokov. Zásobovanie energiami Elektrická energia je dodávaná prostredníctvom distribučnej siete a transformačných staníc; obec je plynofikovaná. Návrh Ú…"
+    "… KULTÚRA A NÁBOŽENSTVO 08.1.0 Rekreačné a športové služby 24 380,00 0,00 0,00 24 380,00 BV: Transfery OZ, tovary a sl., údržba - športové a detské ihriská, kúpalisko, CCH 24 380,00 24 380,00 08.2.0 Kultúrne služby 132 440,00 0,00 0,00 132 440,00 KD - kultúrny dom: prevádzka a údržba 22 465,00 22 465,00 KS - výdav…",
+    "… 15 000,00 0,00 23 700,00 BV: DS - Dom smútku, cintorín - údržba, energie, tovary a služby, DoVP 8 700,00 8 700,00 KV: Cintorín - chodník a oplotenie, osvetlenie 15 000,00 15 000,00 Ekonomická klasifikácia ROK 2027 Funkčná klasifikácia Bežné výdavky v € Kapitálové výdavky v € Finančné operácie v € SPOLU 600 …",
+    "…ary a služby 43 940,00 43 940,00 06.2.0 Rozvoj obcí 120 080,00 107 953,00 0,00 228 033,00 BV: Rozvoj obce - údržba, obnova a rekonštrukcie: verejné priestranstvá, Pálenica, Remeselná 120 080,00 120 080,00 dielňa, ost. obecné stavby a nebytové priestory /mzdy, odvody, tovary a služby/ KV: Dom pri KD - rekonštrukcia: \"Rel…",
+    "… 428,00 Kapitálové príjmy v EUR 200 - Príjmy z predaja pozemkov Suma Odpredaj pozemkov 0,00 Spolu 0,00 300 - Investičná výstavba Suma NFP - Nenávratný finančný príspevok na investičnú výstavbu: 0,00 Spolu 0,00 Kapitálové príjmy spolu 0,00 Finančné operácie v EUR 400 - Finančné operácie Suma Prevod finančných prostriedkov z reze…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Michalovce",
-   "statut": "MESTO",
-   "okres": "Michalovce",
-   "kraj": "Košický kraj",
-   "kod": "522279",
-   "institucia_cuet": "Mesto Michalovce (OVM)",
+   "obec": "Prešovský samosprávny kraj",
+   "statut": "VÚC",
+   "okres": "Prešov",
+   "kraj": "Prešovský kraj",
+   "kod": "VUC-PSK",
+   "institucia_cuet": "Prešovský samosprávny kraj",
    "nejednoznacny_nazov": false,
-   "title": "Návrh rozpočtu mesta Michalovce na rok 2027 a viacročný rozpočet na roky 2028-2029",
-   "url": "https://cuet.slovensko.sk/en/dokument/ce767a97-f3b4-462e-a072-9e52a5272383",
+   "title": "Návrh rozpočtu_PSK_2027_2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/b85cd2c6-d4a0-4e08-8682-74c0e67a463e",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/c781acff-9ba0-4263-9394-e649b04d7be5",
-    "https://cuet.slovensko.sk/en/priloha/uloz/7ca83f41-e0d8-4870-bf30-3dd1cfdf5221",
-    "https://cuet.slovensko.sk/en/priloha/uloz/e3a2a5a4-a7d9-43b1-b300-3f1b4f712bae"
+    "https://cuet.slovensko.sk/en/priloha/uloz/f311560f-74b8-46f2-b09b-fdb4530cd0c5",
+    "https://cuet.slovensko.sk/en/priloha/uloz/616e64ba-02ae-4f06-810b-57aff5119d86",
+    "https://cuet.slovensko.sk/en/priloha/uloz/af60e07a-c2de-47ba-8be7-0fa886f71534"
    ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
+   "zverejnene": "2026-11-26",
+   "spis": "43871/2026",
    "temy": [
     "Detské ihrisko",
     "Športovisko",
-    "Workout / fitness",
-    "Oplotenie",
-    "Zastávka",
     "Park / oddych",
     "Turistická infraštruktúra",
     "Dotácia / výzva"
@@ -481,586 +439,278 @@
    "typ": [
     "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
-    "Verejné obstarávanie",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": true,
+   "firmy": [],
+   "sumy_eur": [
+    4912000.0,
+    4400000.0,
+    4367606.0,
+    4062850.0,
+    3750000.0
+   ],
+   "ukazky": [
+    "…o Jonáša Záborského javisku v počte 30 ks, nový systém ovládania ťahov Podduklianske osvetové stredisko vo 11 PD - Rekonštrukcia tenisového ihriska Svidníku 12 Krajské múzeum v Prešove PPD A PD - budova NKP Kumšt 13 Krajské múzeum v Prešove PD - Rekonštrukcia výstavnej haly a novostavba na Slovenskej ulici…",
+    "…€ Giraltovciach Domov sociálnych služieb v 25 Klimatizácia do podkrovných priestorov 41 22 000 € Giraltovciach 26 Senior dom Svida, Svidník Multifunkčná panvica s montážou Vario Pro L 41 25 500 € Domov sociálnych služieb 27 Výmena kotlov 41 10 000 € vo Vranove nad Topľou Domov sociálnych služieb 28 Bleskozvod 4…",
+    "…ľou Zariadenie 29 sociálnozdravotných služieb Batériové úložisko EE 41 50 000 € Bijacovce Zariadenie 30 sociálnozdravotných služieb Úprava, revitalizácia záhrady 41 10 000 € Bijacovce 9 Príloha č. 2 k uzneseniu Zastupiteľstva č. xx/2026 zo dňa 14.12.2026 Zásobník projektových dokumentácií za Úrad PSK p.č. Názov …",
+    "… NKP Kumšt 13 Krajské múzeum v Prešove PD - Rekonštrukcia výstavnej haly a novostavba na Slovenskej ulici. 14 Krajské múzeum v Prešove PD - Revitalizácia budovy depozitu Krajského múzea - Delňa 15 Krajské múzeum v Prešove PD - Rekonštrukcia strechy Kaštieľa Hanušovce nad Topľou 16 Krajské múzeum v Prešove PD - I…",
+    "…a Slovenského raja na vybraných úsekoch Poprad - Starý Smokovec 14 SÚC PSK PD - EV11 - Vybudovanie cykloinfraštruktúry na vybraných úsekoch cyklotrás v okrese Stará Ľubovňa (Šambron) 12 Príloha č. 5 k uzneseniu Zastupiteľstva č. xx/2026 zo dňa 14.12.2026 Zásobník majetkovoprávnych usporiadaní za SÚC PSK Názo…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Gelnica",
+   "statut": "MESTO",
+   "okres": "Gelnica",
+   "kraj": "Košický kraj",
+   "kod": "526509",
+   "institucia_cuet": "Mesto Gelnica - Zverejňovanie na CUET",
+   "nejednoznacny_nazov": false,
+   "title": "Rozhodnutie o stavebnom zámere",
+   "url": "https://cuet.slovensko.sk/en/dokument/06dc61e6-0c5d-459f-87da-d4a54832defd",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/29ef7b95-8b33-4af4-a475-7514f30bebb7"
+   ],
+   "zverejnene": "2026-11-26",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
+    "Športovisko"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
     "Návrh VZN / zámer",
     "Stavebný zámer / konanie"
    ],
    "projekcia": true,
    "firmy": [],
-   "sumy_eur": [
-    4644596.0,
-    2061000.0,
-    1866684.0,
-    1800000.0,
-    1708500.0
-   ],
-   "ukazky": [
-    "… učební ZŠ P. Horova – 642 127 € Na ZŠ bude realizovaná výstavba odborných učební a športovísk - vytvorenie bežeckého oválu, multifunkčného ihriska, doskočiska, lezeckej steny a workoutového ihriska v rámci projektu UMR MFO Michalovce. 7 • výstavba odborných učební ZŠ U. Švermu – 32 950 € Na ZŠ bude realiz…",
-    "…vaná výstavba odborných učební a športovísk - vytvorenie bežeckého oválu, multifunkčného ihriska, doskočiska, lezeckej steny a workoutového ihriska v rámci projektu UMR MFO Michalovce. 7 • výstavba odborných učební ZŠ U. Švermu – 32 950 € Na ZŠ bude realizovaná výstavba odborných učební v rámci projektu UM…",
-    "…diverzity je podaný, je v procese administratívnej kontroly. Druhý projekt bude podaný po schválení zmeny rozpočtu v KR UMR MFO. • výstavba športovísk a obnova odb. učební ZŠ P. Horova – 642 127 € Na ZŠ bude realizovaná výstavba odborných učební a športovísk - vytvorenie bežeckého oválu, multifunkčného ihrisk…",
-    "…zpočtu v KR UMR MFO. • výstavba športovísk a obnova odb. učební ZŠ P. Horova – 642 127 € Na ZŠ bude realizovaná výstavba odborných učební a športovísk - vytvorenie bežeckého oválu, multifunkčného ihriska, doskočiska, lezeckej steny a workoutového ihriska v rámci projektu UMR MFO Michalovce. 7 • výstavba odbor…",
-    "… bude realizovaná výstavba odborných učební a športovísk - vytvorenie bežeckého oválu, multifunkčného ihriska, doskočiska, lezeckej steny a workoutového ihriska v rámci projektu UMR MFO Michalovce. 7 • výstavba odborných učební ZŠ U. Švermu – 32 950 € Na ZŠ bude realizovaná výstavba odborných učební v rámci pro…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Michalovce",
-   "statut": "MESTO",
-   "okres": "Michalovce",
-   "kraj": "Košický kraj",
-   "kod": "522279",
-   "institucia_cuet": "Mesto Michalovce (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Rozpočtové opatrenie č. 8",
-   "url": "https://cuet.slovensko.sk/en/dokument/1023442d-5698-4933-adee-6049992020ad",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/2355822c-2d94-462b-80bd-e30ee0af9149",
-    "https://cuet.slovensko.sk/en/priloha/uloz/35e5e1b3-ef50-4af8-bd1e-e6f0e6775561",
-    "https://cuet.slovensko.sk/en/priloha/uloz/f951653b-5cd0-4ed1-b665-2411ae7a235c"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Mobiliár",
-    "Park / oddych",
-    "Dotácia / výzva"
-   ],
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    4845503.0,
-    1478438.0,
-    1406837.0,
-    1331615.0,
-    1072000.0
-   ],
-   "ukazky": [
-    "…119 -383 722 2 738 397 z toho: bežné výdavky 329 985 -18 056 311 929 kapitálové výdavky 2 792 134 -365 666 2 426 468 finančné operácie 0 3. Detské ihriská a pieskoviská 58 000 0 58 000 z toho: bežné výdavky 58 000 58 000 kapitálové výdavky 0 4. Mestský mobiliár 50 000 0 50 000 z toho: bežné výdavky 50 000 50 000 …",
-    "…alizované práce • NFP revitalizácia a rozšírenie gaštanového parku – zníženie o 17 530 € z dôvodu refundácie za PD v r. 2027 • NFP výstavba športovísk a obnova odb. učební ZŠ P. Horova Ul. kpt. Nálepku – zníženie o 445 344 €. Príjmy sa presúvajú do r. 2027 nakoľko v r. 2026 nebude preinvestovaných min. 20 % v…",
-    "… zníženie o 936 211 € na základe skutočnej kúpnej ceny nehnuteľnosti odsúhlasenej MsZ 09.5.0 – Vzdelanie nedefinované podľa úrovne Výstavba športovísk a obnova odb. učebne pri ZŠ kpt. Nálepku – zníženie o 450 000 € z dôvodu presunu výdavkov do roku 2027, nakoľko v r. 2026 nedôjde k preinvestovaniu 20 % výdavk…",
-    "…loha č. 9), z toho: ➢ + 2 344 € ZŠ T. J. Moussona – od KSK projekt „Vzdelávanie pre zajtrajšok“ na nákup lichobežníkových manipulovateľných lavíc 3 ➢ +789 € ZŠ Moskovská 1 – RÚŠS KE (na zabezpečenie súťaží v Pytagoriáda a Slávik) ➢ +800 € ZŠ Jána A. Komenského 1 – RÚŠS KE (na zabezpečenie súťaže v cezpoľ…",
-    "…468 finančné operácie 0 3. Detské ihriská a pieskoviská 58 000 0 58 000 z toho: bežné výdavky 58 000 58 000 kapitálové výdavky 0 4. Mestský mobiliár 50 000 0 50 000 z toho: bežné výdavky 50 000 50 000 kapitálové výdavky 0 5. Fontány 43 000 0 43 000 z toho: bežné výdavky 43 000 43 000 kapitálové výdavky 0 6.…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Michalovce",
-   "statut": "MESTO",
-   "okres": "Michalovce",
-   "kraj": "Košický kraj",
-   "kod": "522279",
-   "institucia_cuet": "Mesto Michalovce (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Prerušenie distribúcie el. energie - 14.12.2026",
-   "url": "https://cuet.slovensko.sk/en/dokument/283557e6-ad2d-46f5-834c-281ef6ef2efb",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/7f07d082-380d-4627-b232-51ca717bc8eb"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Edukačné tabule"
-   ],
-   "typ": [],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": []
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Rudňany",
-   "statut": "OBEC",
-   "okres": "Spišská Nová Ves",
-   "kraj": "Košický kraj",
-   "kod": "543519",
-   "institucia_cuet": "Obec Rudňany (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VŠEOBECNE ZÁVÄZNÉ NARIADENIE OBCE RUDŇANY č. 4/2026 o miestnych daniach a o miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce RUDŇANY",
-   "url": "https://cuet.slovensko.sk/en/dokument/ebdc7594-58a5-4ff7-afb3-92ddda3f593f",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/652bd221-d65a-4f85-9123-61038a176ee1",
-    "https://cuet.slovensko.sk/en/priloha/uloz/3f9cc6c5-88fc-45ca-a0c5-79a47a609956",
-    "https://cuet.slovensko.sk/en/priloha/uloz/360255c9-63dc-45bb-9e72-2981a14a44f7"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Športovisko",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
    "sumy_eur": [],
    "ukazky": [
-    "…a pásy pozemkov v lesoch vyčlenené na rozvod elektrickej energie a vykurovacích plynov c) pozemky verejne prístupných parkov , priestorov a športovísk d) na pozemky, ktorých hospodárske využívanie je obmedzené vzhľadom na podkopanie, ich umiestnenie v dobývacích priestoroch, alebo pásiem hygienickej ochrany v…",
-    "…ňany . §2 Druhy miestnych daní 1. Obec ukladá na svojom území tieto miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za nevýherné hracie prístroje. 2. Obec ukladá: a) miestny poplatok za komunálne odpady a drobné stavebné odpady (ďalej len“ poplatok“) 3. Zdaňovacím ob…",
-    "…dy a drobné stavebné odpady (ďalej len“ poplatok“) 3. Zdaňovacím obdobím pre miestne dane: daň z nehnuteľností, daň za psa, daň za užívanie verejného priestranstva, daň za nevýherné hracie prístroje a poplatok je kalendárny rok. DRUHÁ ČASŤ MIESTNE DANE §3 Daň z nehnuteľností Daň z nehnuteľností zahŕňa: a) daň z pozemkov, …"
+    "…asti bývania sú: hlavnou funkciou : - obytné objekty vo viacpodlažnej zástavbe; doplnkovou funkciou: - zariadenia technickej vybavenosti, - detské ihriská a športoviská, - drobné služby, administratíva (nerušiace funkciu bývania), - parková zeleň; neprípustné funkcie - ostatné funkčné plochy. Navrhovaná stavba – …",
+    "…hlavnou funkciou : - obytné objekty vo viacpodlažnej zástavbe; doplnkovou funkciou: - zariadenia technickej vybavenosti, - detské ihriská a športoviská, - drobné služby, administratíva (nerušiace funkciu bývania), - parková zeleň; neprípustné funkcie - ostatné funkčné plochy. Navrhovaná stavba – významná obnov…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Dubovica",
-   "statut": "OBEC",
-   "okres": "Sabinov",
-   "kraj": "Prešovský kraj",
-   "kod": "524379",
-   "institucia_cuet": "Obec Dubovica (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh rozpočtu OCU,MŠ,ZŠ na roky 2027-2029",
-   "url": "https://cuet.slovensko.sk/en/dokument/924b1244-8f3b-4f7b-9afc-27f25b07d16f",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/97d43f8d-88d1-4092-bc50-550cc3218de6",
-    "https://cuet.slovensko.sk/en/priloha/uloz/fe67ca16-0c84-4c1f-b0e3-7040b9a51178",
-    "https://cuet.slovensko.sk/en/priloha/uloz/0e1af021-98f9-40d0-84ba-8776708889ec"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Oplotenie"
-   ],
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…451 633006 206 Materiál -oprava MK +chodníky,obrubníky 14 740,68 10 000,- 5 824,- 10 000,- 5 000,- 5 000,- 41 R 0451 633006 289 Materiál na oplotenie pri KD -aktivácia 745,43 41 R 0451 633006 290 Materiál na spev.ploch pri KD -aktivácia 5 365,22 Obec Dubovica S/N 1 N á v r h r o z p o č t u - podrobný výpis …"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Nová Polhora",
-   "statut": "OBEC",
-   "okres": "Košice",
-   "kraj": "Košický kraj",
-   "kod": "521795",
-   "institucia_cuet": "Zverejňovanie na CUET - obec Nová Polhora",
-   "nejednoznacny_nazov": false,
-   "title": "NÁVRH_Programový rozpočet obce na roky 2027-2029",
-   "url": "https://cuet.slovensko.sk/en/dokument/2c1595fb-81a1-4e80-80ca-4981b6a41057",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/65fe772b-42cb-40ca-9887-7bf2131ed05a",
-    "https://cuet.slovensko.sk/en/priloha/uloz/37ee9a33-004a-4248-868d-cfc9d32c0e9e",
-    "https://cuet.slovensko.sk/en/priloha/uloz/ce6abfe3-faa8-49c0-ac89-fd34fa734abc"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Mobiliár",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    538421.0,
-    497371.0,
-    453596.0,
-    274210.0,
-    191000.0
-   ],
-   "ukazky": [
-    "…80,00 1 500,00 1 500,00 1 500,00 41 633006 Všeobecný materiál TJ 788,58 1 552,95 1 000,00 350,00 1 000,00 1 000,00 1 000,00 41 633015 PHM - ihrisko 482,50 348,01 500,00 230,00 500,00 500,00 500,00 635 Rutinná a štandardná údržba 60,00 0,00 0,00 0,00 1 000,00 1 000,00 1 000,00 41 635006 Údržba TJ 60,00 0,00…",
-    "…00,00 500,00 45 312002 Transfer z FPU - interiérové vybavenie KD 0,00 2 000,00 0,00 0,00 0,00 0,00 0,00 11H 312008 KSK - dotácia - osadenie lavičiek 0,00 0,00 0,00 2 000,00 0,00 0,00 0,00 111 312012 Regob, register adries 198,59 203,44 210,00 212,00 220,00 220,00 220,00 111 312012 OÚ KE - okolie - odbor ško…",
-    "…- - - - - - Ide o zapojenie prostriedkov predchádzajúcich období do rozpočtu roku 2027 – prostriedky z Environmentálneho fondu na projekt: „Revitalizácia obecného parku v obci Nová Polhora“ a z FoÚ – obecné nájomné byty. 9 VÝDAVKOVÁ ČASŤ očakávaná skutočné plnenie skutočné plnenie schválený rozpočet Návrh PR Náv…",
-    "…0 0,00 0,00 0,00 0,00 0,00 111 312001 MFSR - odmeny originálne kompetencie 0,00 2 179,00 0,00 0,00 0,00 0,00 0,00 45 312002 Transfer z EF - Revitalizácia obecného parku 0,00 0,00 0,00 20 050,00 0,00 0,00 0,00 45 312002 Transfer z EF - recyklačný fond 363,20 368,08 400,00 430,00 500,00 500,00 500,00 45 312002 Tra…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Belža",
-   "statut": "OBEC",
-   "okres": "Košice",
-   "kraj": "Košický kraj",
-   "kod": "521167",
-   "institucia_cuet": "Obec Belža",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh - Rozpočet 2027, s výhľadom na roky 2028-202",
-   "url": "https://cuet.slovensko.sk/en/dokument/71c3922c-b307-470a-8845-70252e87b233",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/cca34e56-96fe-4a1d-8c1f-563b545e0f41"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Park / oddych",
-    "Dotácia / výzva"
-   ],
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": true,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…a na Náklady spojené s prípravou UP obce Belža 0,00 16000,00 0,00 0,00 0,00 0,00 0,00 45 322002 Dotácia Fond na podporu športu Multifunkčné ihrisko 0,00 0,00 0,00 56963,99 0,00 0,00 0,00 45 322002 Dotácia UPSVaR Detské ihrisko 0,00 0,00 0,00 50000,00 0,00 0,00 0,00 111 322002 Dotácia Úrad pre územné plánov…",
-    "…,00 0,00 0,00 45 322002 Dotácia Fond na podporu športu Multifunkčné ihrisko 0,00 0,00 0,00 56963,99 0,00 0,00 0,00 45 322002 Dotácia UPSVaR Detské ihrisko 0,00 0,00 0,00 50000,00 0,00 0,00 0,00 111 322002 Dotácia Úrad pre územné plánovanie a výstavbu UP obce Belža 0,00 0,00 0,00 13776,00 0,00 0,00 0,00 111 322001…",
-    "…321000 Dotácia na Náklady spojené s prípravou UP obce Belža 0,00 16000,00 0,00 0,00 0,00 0,00 0,00 45 322002 Dotácia Fond na podporu športu Multifunkčné ihrisko 0,00 0,00 0,00 56963,99 0,00 0,00 0,00 45 322002 Dotácia UPSVaR Detské ihrisko 0,00 0,00 0,00 50000,00 0,00 0,00 0,00 111 322002 Dotácia Úrad pre územn…",
-    "… dotacia 0,00 0,00 0,00 50000,00 0,00 0,00 0,00 46 717001 Ihrisko pre každé dieťa MPSVaR RF 0,00 0,00 0,00 2988,84 0,00 0,00 0,00 45 717001 Multifunkčné ihrisko Fond na podporu športu 0,00 0,00 0,00 56963,99 0,00 0,00 0,00 46 717001 Multifunkčné ihrisko Fond na podporu športu z RF 0,00 0,00 0,00 10089,46 0,00 0…",
-    "…,99 6000,00 7550,00 7600,00 7600,00 7600,00 41 133001 Daň za psa 514,00 685,00 700,00 700,00 700,00 700,00 700,00 41 133012 Daň za úžívanie verejného priestranstva 0,00 0,00 20,00 20,00 20,00 20,00 20,00 41 133013 Poplatok za odpady 13199,53 15937,66 17000,00 18250,00 18500,00 18500,00 18500,00 200 Nedaňové príjmy 41 2120…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Markušovce",
-   "statut": "OBEC",
-   "okres": "Spišská Nová Ves",
-   "kraj": "Košický kraj",
-   "kod": "543331",
-   "institucia_cuet": "Obec Markušovce (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Zverejnenie návrhu rozpočtu obce",
-   "url": "https://cuet.slovensko.sk/en/dokument/10418688-6831-434a-b56e-c3eb2e43b6cc",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/3393d732-0c42-42b2-ba04-fae2ebd3314d",
-    "https://cuet.slovensko.sk/en/priloha/uloz/86ad5ce6-3228-4ac4-b8f4-6e22fff550aa",
-    "https://cuet.slovensko.sk/en/priloha/uloz/2f65c997-c7f5-47b1-8c99-a98276df49bb"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Park / oddych",
-    "Turistická infraštruktúra",
-    "Dotácia / výzva"
-   ],
-   "typ": [
-    "Rozpočet / zmena rozpočtu",
-    "Verejné obstarávanie",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": true,
-   "firmy": [],
-   "sumy_eur": [
-    263088.29,
-    7020.0,
-    3200.0
-   ],
-   "ukazky": [
-    "… 322 111 Miloj Spiš 200 000,00 0,00 0,00 0,00 0,00 97 322 111 Zberný dvor/dotácia 0,00 0,00 580 000,00 580 000,00 0,00 0,00 0,00 98 322 111 Detské ihrisko 0,00 0,00 50 000,00 50 000,00 0,00 0,00 0,00 99 Kapitálové príjmy spolu 227 350,61 1 270 049,61 1 039 620,00 1 102 150,00 1 000,00 1 000,00 1 000,00 100 101 45…",
-    "… PD- kuria Michalská č.49, PD - kanalizácia Pod Horou č.13, 15, 16,PD- kanalizácia Za Tehelňou, PD - nový most Jareček, PD - zmena hokejové ihrisko, PD - úprava priestoru pri Milk Agre, PD - dažďová voda ul.Komenského/Bystrá/Michalská.PD- voda Hornadska,PD- kanalizácia Hornádska,PD -Rozšírenie kuchyne a šk…",
-    "…,39 343,27 350,00 345,00 350,00 350,00 350,00 10 133001 41 Za psa 854,43 627,25 800,00 600,00 800,00 800,00 800,00 11 133012 41 Za užívanie verejného priestranstva 400,00 134,00 330,00 2 000,00 2 000,00 2 000,00 2 000,00 12 133013 41 Za komunálne odpady 40 394,54 37 830,00 101 400,00 43 500,00 140 000,00 140 000,00 140 00…",
-    "…nského/Bystrá/Michalská.PD- voda Hornadska,PD- kanalizácia Hornádska,PD -Rozšírenie kuchyne a školskej jedálne.PD-Osvetlenie cintorína,PD - cyklotrasa, PD- zachytávanie daždovej vody v centrálnej zone obce,PD- vyhliadková cesta babiná.Taktiež sú zahrnuté náklady na vypracovanie geometrického plánu na vysporia…",
-    "…D -Rozšírenie kuchyne a školskej jedálne.PD-Osvetlenie cintorína,PD - cyklotrasa, PD- zachytávanie daždovej vody v centrálnej zone obce,PD- vyhliadková cesta babiná.Taktiež sú zahrnuté náklady na vypracovanie geometrického plánu na vysporiacanie vecných bremien, znalecké posudky a vykup pozemkov v obci. Rekonš…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Švábovce",
+   "obec": "Hozelec",
    "statut": "OBEC",
    "okres": "Poprad",
    "kraj": "Prešovský kraj",
-   "kod": "523950",
-   "institucia_cuet": "Zverejňovanie na CUET - Obec Švábovce",
+   "kod": "523496",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Hozelec",
    "nejednoznacny_nazov": false,
-   "title": "VZN-2/2026 o miestnych daniach na území obce Švábovce",
-   "url": "https://cuet.slovensko.sk/en/dokument/0a96c109-46fa-4e8c-9c8b-0a4da575ada8",
+   "title": "Rozpočet na roky 2027-2029",
+   "url": "https://cuet.slovensko.sk/en/dokument/4a2dd63a-f5c2-48b7-9803-99b4427815f8",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/0990933f-e0a4-491c-ab42-fb1cc90db85d"
+    "https://cuet.slovensko.sk/en/priloha/uloz/209a1b43-7db7-48e2-bee8-13a99e0229d9"
    ],
-   "zverejnene": "2026-11-25",
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
-    "Detské ihrisko",
-    "Park / oddych"
+    "Oplotenie",
+    "Dotácia / výzva"
    ],
    "typ": [
+    "Rozpočet / zmena rozpočtu",
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "projekcia": false,
    "firmy": [],
-   "sumy_eur": [
-    1576.0
-   ],
+   "sumy_eur": [],
    "ukazky": [
-    "…ranstvo na strede obce, stred časti Bane, stred časti Úsvit, chodníky, komunikácie, pozemok okolo Obecného klubu, priestranstvo futbalového ihriska a pod.). 2. Osobitným užívaním môže fyzická osoba alebo právnická osoba užívať verejné priestranstvá na umiestnenie zariadenia slúžiaceho na poskytovanie služi…",
-    "…tanovenia 1. Obec Švábovce (ďalej aj „obec“) ukladá na svojom území miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za nevýherné hracie prístroje 2. Správu miestnych daní na území obce Švábovce vykonáva obec Švábovce (ďalej aj „správca dane“). §3 Zdaňovacie obdobie 1…",
-    "… nehnuteľností, za psa a daň za nevýherné hracie prístroje je kalendárny rok. 2. Zdaňovacie obdobie pre miestnu daň vzniká začatím užívania verejného priestranstva a zaniká skončením užívania verejného priestranstva. Druhá časť Daň z nehnuteľnosti §4 Druhy dane z nehnuteľností 1. Daň z nehnuteľností zahŕňa a) daň z pozemk…"
+    "…,00 0,00 0,00 321 – Dar na rozvoj obce 0,00 0,00 0,00 86 182,95 201 749,80 201 749,80 201 749,80 322 – Transfer z Environmentálneho fondu – oplotenie cintorína 0,00 10 341,00 0,00 0,00 0,00 0,00 0,00 322 – Transfer z Environmentálneho fondu-energetická Hospodárnosť budov 0,00 0,00 250 000,00 250 000,00 0,00 …",
+    "…h zdrojov 1 158,24 0,00 0,00 0,00 0,00 0,00 0,00 716 - Dokumentácia PHSR 0,00 0,00 0,00 0,00 5 000,00 5 000,00 5 000,00 716 – Dokumentácia -oplotenie obec. cintorína 0,00 150,00 0,00 0,00 0,00 0,00 0,00 716 – Dokumentácia kanalizácia ul. Popradská 0,00 0,00 0,00 1 107,00 0,00 0,00 0,00 716 – Dokumentácia–ces…",
+    "…h rokov – nevyčerpaný dar na zmenu ÚPN-O 337,50 0,00 0,00 0,00 0,00 0,00 0,00 453 – Prostr.z predchádzajúcich rokov – nevyčerpaná dotácia z Envirofondu 23 000,00 0,00 0,00 0,00 0,00 0,00 0,00 453 – Prostr. z predchádzajúcich rokov – nevyčerpaná dotácia za výrub stromov 0,00 146 358,20 110 0000,00 110 000,00 35…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Ľubica",
+   "obec": "Sečovská Polianka",
    "statut": "OBEC",
-   "okres": "Kežmarok",
+   "okres": "Vranov nad Topľou",
    "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica (OVM)",
+   "kod": "529133",
+   "institucia_cuet": "Zverejňovanie na CUET - obec Sečovská Polianka",
    "nejednoznacny_nazov": false,
-   "title": "Navrh_VZN_Miestne_dane_2027",
-   "url": "https://cuet.slovensko.sk/en/dokument/aa2f8be8-1061-4aec-b60b-2250236f917a",
+   "title": "Návrh VZN č. 3 /2026 o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Sečovská Polianka",
+   "url": "https://cuet.slovensko.sk/en/dokument/10d2ff45-94a2-4e07-855b-85c3a22ee229",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/5078f3d6-6e7c-4e07-895b-1952f097faf1"
+    "https://cuet.slovensko.sk/en/priloha/uloz/9429f913-0d61-45e8-bf05-5cfd0d616a05"
    ],
-   "zverejnene": "2026-11-25",
-   "spis": "10178/627/2026/KGr",
+   "zverejnene": "2026-11-26",
+   "spis": "",
    "temy": [
-    "Detské ihrisko",
-    "Športovisko",
     "Oplotenie",
-    "Mobiliár",
     "Zastávka",
     "Park / oddych"
    ],
    "typ": [
-    "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
    "projekcia": false,
    "firmy": [],
-   "sumy_eur": [
-    1364.0
-   ],
+   "sumy_eur": [],
    "ukazky": [
-    "…som, Podtatranská, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na poz…",
-    "…á, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na pozemkoch zapísa…",
-    "…v, jednorazový predaj z áut počas iných kultúrnych a spoločenských udalostí 10,00 eur/deň/m2 B) umiestnenie stavebného zariadenia (lešenie, oplotenie stavenísk, stavebné bunky, ) 0,20 eur/deň/m2 C) umiestnenie reklamného zariadenia na verejnom priestranstve 0,20 eur/deň/m2 D) umiestnenie zariadenia slúžiaceh…",
-    "…eň/m2 - motorové vozidlá pre držiteľa preukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, šp…",
-    "…reukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, športových a trhových podujatí, ak je toto za…"
+    "…, d) umiestniť zberné nádoby na zmesový komunálny odpad a na jednotlivé zložky komunálneho odpadu v priestore nehnuteľnosti (objektov alebo oplotených pozemkov) ak to nie je možné umiestniť ich na patrične upravenej ploche verejného priestranstva po dohode s jej vlastníkom, správcom tak, aby boli ľahko prístu…",
+    "…vý komunálny odpad do zberných nádob určených pre iných účastníkov systému zberu, alebo do nádob určených na odpad u ulíc alebo cintorínov (autobusové zastávky a cintoríny ) g) dbať, aby zberné nádoby boli v prevádzkyschopnom stave, ponechať ich na stanovisku, chrániť ich pred poškodením a odcudzením, h) v prípade poš…",
+    "…čených a aby boli umožnené všetky práce spojené s odvozom. 2) Pôvodca ako organizátor aj jednorazových podujatí a činností pre verejnosť na verejných priestranstvách je povinný: a) uskutočňovať opatrenia pre zníženie tvorby odpadov vznikajúcich zákazníkom/návštevníkom z výrobkov a obalov v rámci poskytovanej činnosti, ak od…",
+    "…nálneho odpadu v priestore nehnuteľnosti (objektov alebo oplotených pozemkov) ak to nie je možné umiestniť ich na patrične upravenej ploche verejného priestranstva po dohode s jej vlastníkom, správcom tak, aby boli ľahko prístupné a ich umiestnenie nespôsobovalo hygienické ani estetické závady a aby premiestňovanie zberný…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Ľubica",
-   "statut": "OBEC",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN o miestnych daniach a poplatkoch",
-   "url": "https://cuet.slovensko.sk/en/dokument/293d54bf-2429-4a34-b7e8-26cb85d2253b",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/b75f0104-9f72-4601-afed-159a8c8b29fe"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Oplotenie",
-    "Mobiliár",
-    "Zastávka",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1364.0
-   ],
-   "ukazky": [
-    "…som, Podtatranská, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na poz…",
-    "…á, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na pozemkoch zapísa…",
-    "…v, jednorazový predaj z áut počas iných kultúrnych a spoločenských udalostí 10,00 eur/deň/m2 B) umiestnenie stavebného zariadenia (lešenie, oplotenie stavenísk, stavebné bunky, ) 0,20 eur/deň/m2 C) umiestnenie reklamného zariadenia na verejnom priestranstve 2 0,20 eur/deň/m D) umiestnenie zariadenia slúžiace…",
-    "…eň/m2 - motorové vozidlá pre držiteľa preukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, šp…",
-    "…reukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, športových a trhových podujatí, ak je toto za…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Ľubica",
-   "statut": "OBEC",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN o miestnych daniach a poplatkoch",
-   "url": "https://cuet.slovensko.sk/en/dokument/5d88dc79-edb1-4fc5-806b-876b3e1091cc",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/e48e2364-8dda-48f2-a8c5-d00b562949f9"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Oplotenie",
-    "Mobiliár",
-    "Zastávka",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1364.0
-   ],
-   "ukazky": [
-    "…som, Podtatranská, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na poz…",
-    "…á, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na pozemkoch zapísa…",
-    "…v, jednorazový predaj z áut počas iných kultúrnych a spoločenských udalostí 10,00 eur/deň/m2 B) umiestnenie stavebného zariadenia (lešenie, oplotenie stavenísk, stavebné bunky, ) 0,20 eur/deň/m2 C) umiestnenie reklamného zariadenia na verejnom priestranstve 2 0,20 eur/deň/m D) umiestnenie zariadenia slúžiace…",
-    "…eň/m2 - motorové vozidlá pre držiteľa preukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, šp…",
-    "…reukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, športových a trhových podujatí, ak je toto za…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Ľubica",
-   "statut": "OBEC",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "VZN 8 Návrh VZN/2026 Návrh VZN o miestnych daniach",
-   "url": "https://cuet.slovensko.sk/en/dokument/27813286-a923-458d-883b-af0becc60b67",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/f4134ab5-56b8-4b27-9f3e-52be874d1faf"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Oplotenie",
-    "Mobiliár",
-    "Zastávka",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1364.0
-   ],
-   "ukazky": [
-    "…som, Podtatranská, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na poz…",
-    "…á, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na pozemkoch zapísa…",
-    "…v, jednorazový predaj z áut počas iných kultúrnych a spoločenských udalostí 10,00 eur/deň/m2 B) umiestnenie stavebného zariadenia (lešenie, oplotenie stavenísk, stavebné bunky, ) 0,20 eur/deň/m2 C) umiestnenie reklamného zariadenia na verejnom priestranstve 2 0,20 eur/deň/m D) umiestnenie zariadenia slúžiace…",
-    "…eň/m2 - motorové vozidlá pre držiteľa preukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, šp…",
-    "…reukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, športových a trhových podujatí, ak je toto za…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Ľubica",
-   "statut": "OBEC",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN o miestnych daniach a poplatkoch",
-   "url": "https://cuet.slovensko.sk/en/dokument/c97ec6df-9774-4725-ae91-ca757b185113",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/59d36eaa-ddc5-4e8f-a241-7ef91ee7ae10"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Detské ihrisko",
-    "Športovisko",
-    "Oplotenie",
-    "Mobiliár",
-    "Zastávka",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1364.0
-   ],
-   "ukazky": [
-    "…som, Podtatranská, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na poz…",
-    "…á, Poľná, Povstalecká, Remeselnícka, Slnečná, Svätej Alžbety, Školská, Športová, Úzka, Vrbovská, 8. mája, b) verejné parky, detské ihriská, športoviská a oddychové zóny nachádzajúce sa na uliciach uvedených v písm. a) tohto odseku, c) trhové miesta a príležitostné trhy zriadené Obcou Ľubica na pozemkoch zapísa…",
-    "…v, jednorazový predaj z áut počas iných kultúrnych a spoločenských udalostí 10,00 eur/deň/m2 B) umiestnenie stavebného zariadenia (lešenie, oplotenie stavenísk, stavebné bunky, ) 0,20 eur/deň/m2 C) umiestnenie reklamného zariadenia na verejnom priestranstve 2 0,20 eur/deň/m D) umiestnenie zariadenia slúžiace…",
-    "…eň/m2 - motorové vozidlá pre držiteľa preukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, šp…",
-    "…reukazu ZŤP alebo ZŤP-S 0,015 eur/deň/m2 H ) umiestnenie samostatného exteriérového sedenia, stolov, lavíc, prístreškov, stanov alebo iného mobiliáru slúžiaceho na konzumáciu občerstvenia a nápojov a na oddych návštevníkov počas konania kultúrnych, spoločenských, športových a trhových podujatí, ak je toto za…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Gemerská Poloma",
-   "statut": "OBEC",
-   "okres": "Rožňava",
-   "kraj": "Košický kraj",
-   "kod": "525669",
-   "institucia_cuet": "Obec Gemerská Poloma (OVM)",
-   "nejednoznacny_nazov": false,
-   "title": "Všeobecne záväzné nariadenie č. 3/2026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady - NÁVRH",
-   "url": "https://cuet.slovensko.sk/en/dokument/09b9e27f-7740-41d5-a60c-b2367b82112b",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/e20e3a9a-7ea4-4c62-a149-187559669155"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Oplotenie",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1370.0
-   ],
-   "ukazky": [
-    "…a na poskytovanie služieb, b) umiestnenie stavebného zariadenia alebo zabezpečenie oblasti pracoviska počas stavebných prác, napr. lešenie, oplotenie, stavebné mechanizmy, c) umiestnenie predajného zariadenia alebo zariadenia na prezentáciu tovaru a služieb a vystavenie tovaru pred prevádzkou, d) umiestnenie…",
-    "…právca dane (ďalej len „správca dane“) ukladá na svojom území tieto miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za ubytovanie, e) daň za predajné automaty, f) daň za nevýherné hracie prístroje. 2. Obec Gemerská Poloma na svojom území ukladá miestny poplatok za ko…",
-    "…. Časť III. Daň za psa § 10 Sadzba dane Správca dane určuje sadzbu dane 10,00 EUR za jedného psa a kalendárny rok. Časť IV. Daň za užívanie verejného priestranstva § 11 Vymedzenie predmetu dane 1. Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného priestranstva. 2. Verejným priestranstvom na…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Chlmec",
+   "obec": "Koškovce",
    "statut": "OBEC",
    "okres": "Humenné",
    "kraj": "Prešovský kraj",
-   "kod": "520268",
-   "institucia_cuet": "Obec Chlmec",
+   "kod": "520403",
+   "institucia_cuet": "Zverejňovanie na CUET - obec Koškovce",
    "nejednoznacny_nazov": false,
-   "title": "Návrh VZN Obce Chlmecč.1/2026",
-   "url": "https://cuet.slovensko.sk/en/dokument/90aaaae3-b3f2-4475-a18f-bf542a9ef946",
+   "title": "VZN č. 3 obce Koškovce, ktorým sa vydáva prevádzkový poriadok pohrebiska v obci Koškovce",
+   "url": "https://cuet.slovensko.sk/en/dokument/67f19903-601e-42c7-8cde-6e1e2c5eae01",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/a1c67f94-78e1-4f8b-8cc2-5753e90e36c4"
+    "https://cuet.slovensko.sk/en/priloha/uloz/fb2a0055-fa04-455b-8075-0ea195c9e196"
    ],
-   "zverejnene": "2026-11-25",
+   "zverejnene": "2026-11-26",
+   "spis": "",
+   "temy": [
+    "Mobiliár"
+   ],
+   "typ": [
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…u prevádzkovateľ nájomcu vopred písomne informuje; o uskutočnenom zásahu ho bezodkladne písomne informuje. 7. Stromy a kry možno vysádzať a lavičky umiestňovať len s predchádzajúcim súhlasom prevádzkovateľa. Prevádzkovateľ môže odstrániť výsadbu, ktorá ohrozuje bezpečnosť, poškodzuje hrobové miesta alebo b…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Záborské",
+   "statut": "OBEC",
+   "okres": "Prešov",
+   "kraj": "Prešovský kraj",
+   "kod": "525448",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Záborské",
+   "nejednoznacny_nazov": false,
+   "title": "Verejná vyhláška - Rozhodnutie o stavebnom zámere",
+   "url": "https://cuet.slovensko.sk/en/dokument/d9cccb47-67f4-40aa-9bcb-895529afe555",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/22c88271-4514-4934-82e4-11a156668ee1"
+   ],
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
     "Športovisko",
-    "Oplotenie",
-    "Zastávka",
+    "Park / oddych"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer",
+    "Stavebný zámer / konanie"
+   ],
+   "projekcia": true,
+   "firmy": [],
+   "sumy_eur": [],
+   "ukazky": [
+    "…rárne na strechách objektov c) Neprípustné funkcie: priemyselné a poľnohospodárske výrobné areály, stavebné dvory, dopravné areály, sklady, športové areály, administratívne budovy, zariadenia na zneškodňovanie odpadov d) Ostatné podmienky: Objekty môžu byť jednoúčelové alebo polyfunkčné, v nich alebo na ich pozemk…",
+    "…0. Stavebník je povinný zabezpečiť stavenisko v zmysle § 6 ods. 3 stavebného zákona. 11. Skladovanie stavebného materiálu počas výstavby na verejných priestranstvách, t. j. na uliciach, chodníkov a podobne sa zakazuje. 12. Stavebník je povinný dbať na to, aby pri uskutočňovaní stavebných prác nedošlo k spôsobeniu škôd na cu…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Hlinné",
+   "statut": "OBEC",
+   "okres": "Vranov nad Topľou",
+   "kraj": "Prešovský kraj",
+   "kod": "544230",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Hlinné",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh Všeobecné záväzné nariadenie obce Hlinné č.22027",
+   "url": "https://cuet.slovensko.sk/en/dokument/966811f0-a5ce-4f54-9519-d84f7565e6e4",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/530e4ea8-7a98-4fda-9946-dd544073e0e2"
+   ],
+   "zverejnene": "2026-11-27",
+   "spis": "",
+   "temy": [
+    "Športovisko",
+    "Park / oddych"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [
+    1397.0,
+    1151.0
+   ],
+   "ukazky": [
+    "…ky vo vlastníctve právnických osôb, ktoré nie sú založené alebo zriadené na podnikanie, c/ pozemky verejne prístupných parkov, priestorov a športovísk, d/ pozemky na ktorých je cintorín, e/ časti pozemkov, na ktorých sú zriadené meračské značky, stožiare rozvodov elektrickej energie, stĺpy telekomunikačného v…",
+    "…ní niektorých zákonov. (2) Obec Hlinné na svojom území ukladá tieto miestne dane: a/ daň z nehnuteľností, b/ daň za psa, c/ daň za užívanie verejného priestranstva, d/ daň za ubytovanie. e/ daň za predajné automaty f/ daň za nevýherné hracie prístroje, (3) Obec Hlinné na svojom území ukladá miestny poplatok za komunálne o…",
+    "… ťažkým zdravotným postihnutím alebo držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom. Čl. 10 Daň za užívanie verejného priestranstva (1) Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného priestranstva. Miesta, ktoré sú verejnými priestranstvami sú: a/ všetky m…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Osikov",
+   "statut": "OBEC",
+   "okres": "Bardejov",
+   "kraj": "Prešovský kraj",
+   "kod": "519707",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Osikov",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh VZN č. 1/2026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Osikov",
+   "url": "https://cuet.slovensko.sk/en/dokument/b6501cf5-42e3-402c-920e-328f2fadf254",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/6802c4af-e4e6-428a-88ca-4e5ee5d11dbc"
+   ],
+   "zverejnene": "2026-11-26",
+   "spis": "OcÚ-0438/2026",
+   "temy": [
+    "Detské ihrisko",
+    "Park / oddych"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [
+    1467.0,
+    1096.0
+   ],
+   "ukazky": [
+    "… intraviláne obce. 2. Vyhradenými priestormi verejného priestranstva v obci Osikov sú: - parkovisko pri Hasičskej zbrojnici, pri futbalovom ihrisku a plocha Cigánsky briežok. 3. Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného priestranstva pri miestnom obchode a obecnom úr…",
+    "… území obce Osikov. 2. Obec Osikov zavádza s účinnosťou od 01.01.2027 na svojom území tieto miestne dane: a) daň za psa, b) daň za užívanie verejného priestranstva, c) daň za ubytovanie, d) daň za predajné automaty, e) daň za nevýherné hracie prístroje. 3. Obec Osikov ukladá na svojom území miestny poplatok za komunálne o…",
+    "…okladne obecného úradu, b) na účet obce vedený v Prima banka Slovensko, a. s., IBAN SK94 5600 0000 0036 1634 9001 III. časť Daň za užívanie verejného priestranstva §3 1. Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Osikov, ktorými sa rozumejú nasledovné miesta: a) hlavné (…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Bertotovce",
+   "statut": "OBEC",
+   "okres": "Prešov",
+   "kraj": "Prešovský kraj",
+   "kod": "524191",
+   "institucia_cuet": "Zverejňovanie na CUET - obec Bertotovce",
+   "nejednoznacny_nazov": false,
+   "title": "Návrh VZN Obce Bertotovce č.02_2026 o miestnych daniach na území obce",
+   "url": "https://cuet.slovensko.sk/en/dokument/9eb3df0d-5312-4eca-a4d9-4f84c1e124e8",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/a1dfa500-34e1-447c-9452-dcf44e7a1d17"
+   ],
+   "zverejnene": "2026-11-26",
+   "spis": "",
+   "temy": [
+    "Detské ihrisko",
     "Park / oddych"
    ],
    "typ": [
@@ -1071,105 +721,65 @@
    "firmy": [],
    "sumy_eur": [],
    "ukazky": [
-    "… spojení s bývaním v služobnom resp. prevádzkovom byte, živnostenské aktivity nerušivého charakteru, remeselné činnosti, 1.2.3.2.3 - plochy športovísk, rekreačných objektov, zelene. 1.2.3.3 - na území je zakázané umiestňovať: 1.2.3.3.1 - plochy priemyselnej a poľnohospodárskej výroby, výrobné služby a skladov…",
-    "… základný systém cestnej siete obce nebude menený, vybudujú sa obslužné komunikácie pre sprístupnenie navrhovaných skupín rodinných domov a športového areálu 1.4.5 - pre sprístupnenie lyžiarského strediska zrealizovať samostatnú prístupovú komunikáciu kategórie MO 7,5/40 podľa výkr.č.1 ZaD č.2 ÚPN O 1.4.6 - podmienk…",
-    "… , s celkovou šírkou uličného priestoru 10 -12,0 m podľa výkresu č.2 A,B ZaD č.2 ÚPN O 1.4.8 - v križovatkách komunikácií je potrebné voliť oplotenie pozemkov rodinných domov tak, aby boli zabezpečené dĺžky rozhľadových polí v zmysle STN 73 6110 1.4.9 - autobusové zastávky budú vybavené samostatnými zastávko…",
-    "…04.04 Pozdĺž brehov miestneho vodného toku Bystrý potok, ponechať v šírke 5,0 m voľný manipulačný nezastavaný pás. 3.04.05 20 m - PHO okolo oploteného vodojemu. 3.04.06 Pozdĺž hydro melioračných zariadení rešpektovať ochranného pásma 5 m od brehovej čiary u otvorených kanálov a 5 m od osi krytého kanála 3.04.…",
-    "…nikácií je potrebné voliť oplotenie pozemkov rodinných domov tak, aby boli zabezpečené dĺžky rozhľadových polí v zmysle STN 73 6110 1.4.9 - autobusové zastávky budú vybavené samostatnými zastávkovými pruhmi 1.4.10 - pri umiestňovaní podnikateľských aktivít do objektov rodinných domov zabezpečovať potrebný počet parkov…"
+    "…ná plocha pre chodenie obyvateľov na celom území obce, c/ parkovisko pri budove Obecného úradu v Bertotovciach d/ verejné priestranstvo pri ihrisku v strede obce (2) Sadzbu dane za osobitné užívanie verejného priestranstva je 0,20 € za každý aj začatý m2 osobitne užívaného verejného priestranstva a za každ…",
+    "…niami. §2 Základné ustanovenia Obec Bertotovce na svojom území ukladá miestne dane: a) daň za psa, b) daň za ubytovanie, c) daň za užívanie verejného priestranstva §3 Správu miestnych daní vykonáva obec Bertotovce (ďalej aj „správca dane“). 2 Obec BERTOTOVCE VZN O MIESTNYCH DANIACH NA ÚZEMÍ OBCE ČLÁNOK II. DAŇ ZA PSA §4 S…",
+    "… splatná do 15. dňa kalendárneho mesiaca nasledujúceho po ukončení kalendárneho polroka, za ktorý sa daň uhrádza. ČLÁNOK IV DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA §12 (1) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Bertotovce, ktorými sa rozumejú najmä nasledovné miesta:…"
    ]
   },
   {
    "zdroj": "CUET",
-   "obec": "Dubovica",
+   "obec": "Spišský Štiavnik",
    "statut": "OBEC",
-   "okres": "Sabinov",
+   "okres": "Poprad",
    "kraj": "Prešovský kraj",
-   "kod": "524379",
-   "institucia_cuet": "Obec Dubovica (OVM)",
+   "kod": "523879",
+   "institucia_cuet": "Zverejňovanie na CUET - Obec Spišský Štiavnik",
    "nejednoznacny_nazov": false,
-   "title": "VZN",
-   "url": "https://cuet.slovensko.sk/en/dokument/76fc0627-1d17-460d-a2ab-003fe55cddd1",
+   "title": "Návrh VZN 2/2027",
+   "url": "https://cuet.slovensko.sk/en/dokument/c0f2b4bc-af80-4df4-a6d0-19d6877899a9",
    "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/ccea05ae-a565-4e4f-b9c2-c60df5cc1304",
-    "https://cuet.slovensko.sk/en/priloha/uloz/99feda40-cfa3-4575-bf1e-c7cc9d1aceb4",
-    "https://cuet.slovensko.sk/en/priloha/uloz/b481f4fe-7918-4f69-9bc1-fe5ca51f34e9"
+    "https://cuet.slovensko.sk/en/priloha/uloz/7538a9d6-b868-4d10-a8bc-cb9968efff41"
    ],
-   "zverejnene": "2026-11-25",
+   "zverejnene": "2026-11-27",
+   "spis": "1250/2026",
+   "temy": [
+    "Park / oddych"
+   ],
+   "typ": [
+    "Uznesenie / zápisnica",
+    "Návrh VZN / zámer"
+   ],
+   "projekcia": false,
+   "firmy": [],
+   "sumy_eur": [
+    1825.0
+   ],
+   "ukazky": [
+    "…aní 1. Správca dane ukladá od 1. januára 2027 na svojom území tieto miestne dane: a. daň z nehnuteľností, b. daň za psa, c. daň za užívanie verejného priestranstva, d. daň za ubytovanie, e. daň za predajné automaty, f. daň za nevýherné hracie prístroje. 2. Správca dane ukladá od 1. januára 2027 na svojom území miestny pop…",
+    "…a jedného psa a kalendárny rok. Takto určená sadzba dane platí za každého ďalšieho psa u toho istého daňovníka. Štvrtá časť Daň za užívanie verejného priestranstva § 11 Verejné priestranstvá a ich užívanie 1. Verejnými priestranstvami v obci sú: a. miesta na miestnej komunikácii - ulica Hornádska 241, Spišský Štiavnik, b.…"
+   ]
+  },
+  {
+   "zdroj": "CUET",
+   "obec": "Jaklovce",
+   "statut": "OBEC",
+   "okres": "Gelnica",
+   "kraj": "Košický kraj",
+   "kod": "543187",
+   "institucia_cuet": "Obec Jaklovce (OVM)",
+   "nejednoznacny_nazov": false,
+   "title": "VZN 2/2026 - NÁVRH",
+   "url": "https://cuet.slovensko.sk/en/dokument/334d2b84-44c7-43b6-8e0e-2564465af969",
+   "prilohy": [
+    "https://cuet.slovensko.sk/en/priloha/uloz/2d4a4caf-d288-4382-9957-ac3d978f2859"
+   ],
+   "zverejnene": "2026-11-27",
    "spis": "",
    "temy": [
-    "Mobiliár",
     "Park / oddych"
    ],
    "typ": [
     "Pozvánka na zastupiteľstvo",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    1400.0
-   ],
-   "ukazky": [
-    "…iacúčelového domu a inventára 1. Úhrada sa platí za prenájom priestorov nachádzajúcich sa vo viacúčelovom dome s príslušenstvoma zapožičaný mobiliár. Úhradu zaplatí právnická alebo fyzická osoba, ktorá si prenajala priestory a mobiliár na kultúrne, športové, spoločenské a viacúčelové účely. Úhrada sa platí …",
-    "…sa vo viacúčelovom dome s príslušenstvoma zapožičaný mobiliár. Úhradu zaplatí právnická alebo fyzická osoba, ktorá si prenajala priestory a mobiliár na kultúrne, športové, spoločenské a viacúčelové účely. Úhrada sa platí pri odovzdaní objektu v hotovosti do pokladne obce. 2. Výška poplatkov pre občanov s tr…",
-    "…né a čisté. V prípade poškodenia zariadenia je nájomca povinný vzniknuté nedostatky odstrániť alebo škodu nahradiť. 5. Poplatky za využitie voľnočasovej miestnosti a prenájom inventára na podujatia: Predmet prenájmu / služba Výška poplatku Využitie voľnočasovej miestnosti (min. objednávka 2 dráhy) 8,00 € / 1 ho…",
-    "…radiť. 5. Poplatky za využitie voľnočasovej miestnosti a prenájom inventára na podujatia: Predmet prenájmu / služba Výška poplatku Využitie voľnočasovej miestnosti (min. objednávka 2 dráhy) 8,00 € / 1 hod. / 1 dráha Párty stan malý (6 m × 4 m) 30,00 € / akcia Párty stan veľký (6 m × 12 m) 50,00 € / akcia Nožnic…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Janovce",
-   "statut": "OBEC",
-   "okres": "nejednoznačné: Bardejov / Poprad",
-   "kraj": "Prešovský kraj",
-   "kod": "",
-   "institucia_cuet": "Zverejňovanie na CUET - Obec Jánovce",
-   "nejednoznacny_nazov": true,
-   "title": "Rozhodnutie o stavebnom zámere",
-   "url": "https://cuet.slovensko.sk/en/dokument/51f38d73-52aa-4a2b-95b0-5099278f8268",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/f40e1649-1f7f-4f43-aff6-2719ee389b83"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Verejné obstarávanie",
-    "Návrh VZN / zámer",
-    "Stavebný zámer / konanie"
-   ],
-   "projekcia": true,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…nia vyhlášky č. 532/2002 Z. z.. 15. Uskladnenie stavebného materiálu zabezpečí stavebník na vlastnom pozemku. 16. Nie je prípustný zásah do verejného priestranstva (uskladnenie stavebného materiálu, rozkopávka verejného priestranstva) bez predchádzajúceho písomného súhlasu zo strany OcÚ Jánovce. 17. Stavebník zabezpečí vy…",
-    "…abezpečí stavebník na vlastnom pozemku. 16. Nie je prípustný zásah do verejného priestranstva (uskladnenie stavebného materiálu, rozkopávka verejného priestranstva) bez predchádzajúceho písomného súhlasu zo strany OcÚ Jánovce. 17. Stavebník zabezpečí vytýčenie priestorovej polohy stavby právnickou alebo fyzickou osobou na…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Fričovce",
-   "statut": "OBEC",
-   "okres": "Prešov",
-   "kraj": "Prešovský kraj",
-   "kod": "524409",
-   "institucia_cuet": "Zverejňovanie na CUET- obec Fričovce",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN č. 2/2026 o miestnych daniach a o miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Fričovce",
-   "url": "https://cuet.slovensko.sk/en/dokument/c6b810d3-00e1-452d-9652-9267c04d71a3",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/00acba10-8f48-442e-bac8-800290bf5a08"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Športovisko",
-    "Park / oddych"
-   ],
-   "typ": [
     "Uznesenie / zápisnica",
     "Návrh VZN / zámer"
    ],
@@ -1177,110 +787,8 @@
    "firmy": [],
    "sumy_eur": [],
    "ukazky": [
-    "…ej energie a vykurovacích plynov, d) pozemky verejne prístupných parkov, priestorov a športovísk, e) pozemky funkčne spojené so stavbami slúžiacimi verejnej doprave, f) pozemky užívané školami a školskými zariadeniami. (2) V obci Fričovce sa od dane zo stavieb oslobodzujú stavby: a/ stavby alebo byty slúžiace…",
-    "…rších predpisov z a v á d z a s účinnosťou od 1. januára 2027 tieto miestne dane: a/ daň z nehnuteľností, b/ daň za psa, c/ daň za užívanie verejného priestranstva, d/ daň za ubytovanie, e/ daň za predajné automaty, f/ daň za nevýherné hracie prístroje. (2) Obec Fričovce na svojom území ukladá a vyberá poplatok za komunál…",
-    "…Táto sadzba platí za každého ďalšieho psa u toho istého daňovníka. §7 Daň za užívanie verejného priestranstva (1) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve obce Fričovce, ktorými sa rozumejú najmä nasledovné miesta: a/ hlavné (štátne) a všetky vedľajšie (miestne) cestné komu…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Ľubica",
-   "statut": "OBEC",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Ľubica",
-   "url": "https://cuet.slovensko.sk/en/dokument/4b13f3d8-fe34-4a91-8ae0-1325422e58e0",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/b4875f7c-9b42-4138-99f5-59f72674f693"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Mobiliár",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…padu, o) vykonať v prípade potreby dezinfekciu zberných nádob na zmesový KO vo svojom vlastníctve, p) ukladať komunálny odpad do vonkajších odpadkových košov na to určených a umiestnených na verejnom priestranstve obce tak, aby nedochádzalo k jeho rozptýleniu do okolia, q) informovať obec o zabezpečení si novej zber…",
-    "…cích zariadeniach v domácnostiach, k) znečisťovať stanovišťa zberných nádob a ich okolia ukladaním odpadu mimo zberných nádob/kontajnerov a odpadkových košov alebo ukladanie odpadov, pre ktoré nie je určené, l) odovzdať komunálny odpad alebo jeho zložky iným subjektom ako zberovej spoločnosti, ktorá má uzatvorenú zm…",
-    "…triedených zložiek komunálneho odpadu, ktorá je umiestnená na miestach na to určených - t.j. zberné miesto/stojisko zberných nádob alebo na verejnom priestranstve len v prípade presne vymedzených týmto nariadením v čase vývozu odpadu. 21. Dostatočný počet zberných nádob znamená taký počet zberných nádob, ktorých veko sa …",
-    "…cim nehnuteľnosť, pre ktorú je zberná nádoba určená. 33. Stojisko zberných nádob je stanovište zberných nádob/kontajnera nachádzajúce sa na verejnom priestranstve alebo v ohradenom priestranstve, ktoré je sprístupnené pôvodcovi odpadu a ktoré je určené obcou na umiestenie zbernej nádoby 1100 l pre ZKO a veľkoobjemového k…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Ľubica",
-   "statut": "OBEC",
-   "okres": "Kežmarok",
-   "kraj": "Prešovský kraj",
-   "kod": "523682",
-   "institucia_cuet": "Obec Ľubica - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "VZN 11 Návrh/2026 Návrh VZN o nakladaní s komunálnymi odpadmi a drobnými stavebnými odpadmi na území obce Ľubica",
-   "url": "https://cuet.slovensko.sk/en/dokument/de2e5d4a-09b6-447f-a5f4-155d8a9461f9",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/377ed6c4-a528-43e5-9e67-0b906f6c3940"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "",
-   "temy": [
-    "Mobiliár",
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [],
-   "ukazky": [
-    "…padu, o) vykonať v prípade potreby dezinfekciu zberných nádob na zmesový KO vo svojom vlastníctve, p) ukladať komunálny odpad do vonkajších odpadkových košov na to určených a umiestnených na verejnom priestranstve obce tak, aby nedochádzalo k jeho rozptýleniu do okolia, q) informovať obec o zabezpečení si novej zber…",
-    "…cích zariadeniach v domácnostiach, k) znečisťovať stanovišťa zberných nádob a ich okolia ukladaním odpadu mimo zberných nádob/kontajnerov a odpadkových košov alebo ukladanie odpadov, pre ktoré nie je určené, l) odovzdať komunálny odpad alebo jeho zložky iným subjektom ako zberovej spoločnosti, ktorá má uzatvorenú zm…",
-    "…triedených zložiek komunálneho odpadu, ktorá je umiestnená na miestach na to určených - t.j. zberné miesto/stojisko zberných nádob alebo na verejnom priestranstve len v prípade presne vymedzených týmto nariadením v čase vývozu odpadu. 21. Dostatočný počet zberných nádob znamená taký počet zberných nádob, ktorých veko sa …",
-    "…cim nehnuteľnosť, pre ktorú je zberná nádoba určená. 33. Stojisko zberných nádob je stanovište zberných nádob/kontajnera nachádzajúce sa na verejnom priestranstve alebo v ohradenom priestranstve, ktoré je sprístupnené pôvodcovi odpadu a ktoré je určené obcou na umiestenie zbernej nádoby 1100 l pre ZKO a veľkoobjemového k…"
-   ]
-  },
-  {
-   "zdroj": "CUET",
-   "obec": "Veľký Slivník",
-   "statut": "OBEC",
-   "okres": "Prešov",
-   "kraj": "Prešovský kraj",
-   "kod": "525391",
-   "institucia_cuet": "Obec Veľký Slivník - Zverejňovanie na CUET",
-   "nejednoznacny_nazov": false,
-   "title": "Návrh VZN č. 2/2026 o miestnych daniach a miestnom poplatku",
-   "url": "https://cuet.slovensko.sk/en/dokument/ee880cf9-bd09-4272-a516-2588cae8eacd",
-   "prilohy": [
-    "https://cuet.slovensko.sk/en/priloha/uloz/dace06d1-39ec-429c-90dd-abc9af3c4b78"
-   ],
-   "zverejnene": "2026-11-25",
-   "spis": "001",
-   "temy": [
-    "Park / oddych"
-   ],
-   "typ": [
-    "Uznesenie / zápisnica",
-    "Návrh VZN / zámer"
-   ],
-   "projekcia": false,
-   "firmy": [],
-   "sumy_eur": [
-    2592.0
-   ],
-   "ukazky": [
-    "… Veľký Slivník. (2) Obec Veľký Slivník ukladá na svojom území tieto miestne dane: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, e) daň za predajné automaty, f) daň za nevýherné hracie prístroje, (3) Obec Veľký Slivník ukladá na svojom území miestny poplatok za komunálne odpady a drobné…",
-    "…rokov evidovaná na trvalý pobyt sama – samostatne žijúca v domácnosti b) oslobodenie sa vzťahuje len na držanie jedného psa Daň za užívanie verejného priestranstva §8 (1) Verejným priestranstvom na účely dane za užívanie verejného priestranstva sú verejnosti prístupné pozemky vo vlastníctve obce Veľký Slivník, a to: - Mie…"
+    "…za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov ukladá: a) daň z nehnuteľností, b) daň za psa, c) daň za užívanie verejného priestranstva, d) daň za ubytovanie, e) daň za predajné automaty, f) daň za nevýherné hracie prístroje, g) poplatok za komunálne odpady a drobné stavebné odpady (ďalej už le…",
+    "…ho daňovníka. 5) Ak je daňovník držiteľom alebo vlastníkom viacerých psov, od dane je oslobodený iba jeden pes. TRETIA ČASŤ DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA Článok 8 Predmet dane 1) Osobitným užívaním verejného priestranstva na území obce je: a) umiestnenie zariadenia slúžiaceho na poskytovanie služieb, b) umiestne…"
    ]
   }
  ]

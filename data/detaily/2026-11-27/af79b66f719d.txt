@@ -1,0 +1,268 @@
+URL: https://novapolhora.sk/wp-content/uploads/dokumenty/rozpocty/3.-uprava-programovyrozpocet-tabulkova-cast-9g3f73.pdf
+OBEC: Nová Polhora (Košice)
+NÁZOV: Stiahnuť súbor 3. úprava ProgramovyRozpočet – tabuľková časť Veľkosť a typ súboru 294 KB / PDF
+ZDROJ: web obce
+
+                                                 Programový rozpočet za rok 2026, Obdobie: 11. 2026. IČO: 00324540
+                                   Obec Nová Polhora, Nová Polhora 95, 044 44 Nová Polhora - Návrh na úpravu k 24.11.2026
+                                                                                    Rozpočet po
+                                                                                                     3. úprava PR
+Zdroj                                 Oddiel           Trieda         Položka        poslednej                    Popis / Poznámka
+                                                                                                     k 24.11.2026
+                                                                                      zmene
+Bežný rozpočet
+
+Príjmová časť
+
+200 Nedaňové príjmy                                                                     2 100,00 €      2 550,00 €
+
+41                                                                    221002 002         600,00 €         700,00 € Správne poplatky - overovanie
+
+41                                                                    221002 003         450,00 €         550,00 € Správne poplatky - potvrdenia, ostatné povolenia
+
+41                                                                    223001 003         650,00 €         800,00 € KUKA nádoby a vrecia
+
+41                                                                    223001 004         400,00 €         500,00 € Vyhlásenie v MR
+
+300 Granty a transfery                                                                95 004,00 €     117 526,00 €
+
+111                                                                   312001 001        5 200,00 €      6 360,00 € ÚPSVaR - HN
+
+111                                                                   312012 005        2 000,00 €      3 044,00 € Voľby a referendá
+
+111                                                                   312012 006      87 804,00 €      88 072,00 € Financovanie MŠ - prostriedky ŠR - normatív
+
+45                                                                    312002 003            0,00 €     20 050,00 € Transfer z EF - Revitalizácia obecného parku
+
+Spolu za Príjmovú časť (bežný, kapitálový, FO)                                        97 104,00 €     120 076,00 €
+
+Výdavková časť
+
+600 Bežné výdavky
+
+1. Plánovanie, manažment a kontrola
+
+1.1. Manažment
+                                                                                                                     Mzdy, platy, služobné príjmy a ostatné osobné
+41                                    01               110            610             61 450,00 €      62 400,00 €
+                                                                                                                     vyrovnania
+41                                    01               110            620             26 370,00 €      22 830,00 € Poistné a príspevky do poisťovní
+
+41                                    01               110            642012 001      11 860,00 €           0,00 € Transfery jednotlivcom - odstupné
+41                                    01            110   642014 002     3 000,00 €    3 100,00 € Prídel do SF - OcÚ
+
+Spolu za 1.1. Manažment                                                102 680,00 €   88 330,00 €
+
+1.5. Podporná činnosť obce - správa obce
+
+41                                    01            110   632003 003       600,00 €     500,00 € Poštové služby - OcÚ
+
+41                                    01            110   632006 001       350,00 €     360,00 € Elektrina - OcÚ
+
+41                                    01            110   633006 003     1 500,00 €     500,00 € Kvety, vence - OcÚ
+
+41                                    01            110   637012 003     1 300,00 €    1 500,00 € Bankové poplatky - OcÚ
+
+Spolu za 1.5. Podporná činnosť obce - správa obce                        3 750,00 €    2 860,00 €
+
+1.6. Obecné zastupiteľstvo
+
+41                                    01            110   620              572,00 €     496,00 € Poistné a príspevky do poisťovní
+
+41                                    01            110   637026 001     1 200,00 €    1 415,00 € Odmeny poslancov OZ
+
+Spolu za 1.6. Obecné zastupiteľstvo                                      1 772,00 €    1 911,00 €
+
+1.8. Voľby, referendá
+
+111                                   01            600   610              300,00 €     362,35 € Odmeny - Voľby
+                                                                                                    Cestovné náhrady (vlastným zamestnancom) -
+111                                   01            600   631001 002         0,00 €       20,60 €
+                                                                                                    Voľby
+111                                   01            600   633006 001       250,00 €     123,65 € Všeobecný materiál - Voľby
+
+111                                   01            600   633016 001        90,00 €       62,00 € Reprezentačné - Voľby
+
+111                                   01            600   637004 001       110,00 €     150,00 € Všeobecné služby - Voľby
+                                                                                                    Cestovné náhrady (iným než vlastným
+111                                   01            600   637007 001        20,00 €     168,20 €
+                                                                                                    zamestnancom) - Voľby
+111                                   01            600   637014 001       220,00 €     123,60 € Stravovanie - Voľby
+
+111                                   01            600   637026 001       895,00 €    1 923,04 € Odmeny členom a zapisovateľom VK - Voľby
+
+111                                   01            600   637037 001       105,00 €     101,55 € Vratky - voľby, referendá
+
+Spolu za 1.8. Voľby, referendá                                           1 990,00 €    3 034,99 €
+2. Služby obyvateľom
+
+2.4. Kultúra
+
+41                                     08            200       637002 001    8 300,00 €    8 900,00 € Príspevok na športové a kultúrne podujatia
+
+41                                     08            200       637002 002    4 000,00 €    5 500,00 € Príspevok na MDD, Mikuláš, dôchodcovia
+
+Spolu za 2.4. Kultúra                                                       12 300,00 €   14 400,00 €
+
+2.5. Šport
+
+41                                     08            100       633006 001    2 900,00 €     350,00 € Všeobecný materiál TJ
+
+41                                     08            100       633015 001     500,00 €      230,00 € PHM - ihrisko
+
+Spolu za 2.5. Šport                                                          3 400,00 €     580,00 €
+
+2.7. Sociálna pomoc rodinám
+
+111                                    10            700       642026 001    5 200,00 €    6 360,00 € ÚPSVaR - HN
+
+Spolu za 2.7. Sociálna pomoc rodinám                                         5 200,00 €    6 360,00 €
+
+3. Odpadové hospodárstvo
+
+3.1. Likvidácia odpadu - komunálneho a separovaného
+
+41                                     05            100       637004 001   21 200,00 €   22 850,00 € Odvoz odpadu
+
+41                                     05            100       637004 002    4 500,00 €    3 810,00 € Odvoz VKK
+
+Spolu za 3.1. Likvidácia odpadu - komunálneho a separovaného                25 700,00 €   26 660,00 €
+
+3.2. Nákup KUKA nádob a vriec
+
+41                                     05            100       633006 001    1 604,00 €    2 000,00 € Nákup KUKA nádob a vriec, kompostérov
+
+Spolu za 3.2. Nákup KUKA nádob a vriec                                       1 604,00 €    2 000,00 €
+
+4. Pozemné komunikácie a verejné priestranstvá
+
+4.1. Údržba komunikácii a verejných priestranstiev
+                                                                                                        Prevádzkové stroje, prístroje, zariadenie, technika a
+41                                     04            510       633004 001        0,00 €    1 410,00 €
+                                                                                                        náradie - údržba MK a chodníkov
+Spolu za 4.1. Údržba komunikácii a verejných priestranstiev                     0,00 €    1 410,00 €
+
+5. Bezpečnosť
+
+5.1. Požiarna ochrana
+
+41                                    03             200      635004 001     265,00 €      300,00 € Údržba hasiacich prístrojov
+
+Spolu za 5.1. Požiarna ochrana                                               265,00 €      300,00 €
+
+6. Vzdelávanie
+
+6.1. Materská škola
+                                                                                                       Mzdy, platy, služobné príjmy a ostatné osobné
+111                                   09             111      610          56 228,00 €   56 341,00 €
+                                                                                                       vyrovnania
+111                                   09             111      632007 001    3 500,00 €    2 500,00 € Financovanie MŠ - normatív - plyn
+
+111                                   09             111      633006 001     350,00 €      505,00 € Financovanie MŠ - ŠR - všeob. materiál
+
+111                                   09             111      635006 002    1 921,00 €    1 656,00 € Financovanie MŠ - ŠR - bežná údržba priestorov
+
+111                                   09             111      637027 001        0,00 €    1 265,00 € Financovanie MŠ - ŠR - Dohody o vykonaní práce
+
+41                                    09             111      633001 001        0,00 €    2 200,00 € Interiérové vybavenie MŠ
+
+41                                    09             111      635006 001    3 000,00 €    1 000,00 € Bežná údržba priestorov MŠ - VZ
+
+41                                    09             111      642014 001        0,00 €     100,00 € FPnS - MŠ
+
+Spolu za 6.1. Materská škola                                               64 999,00 €   65 567,00 €
+
+6.2. Školská jedáleň
+                                                                                                       Mzdy, platy, služobné príjmy a ostatné osobné
+41                                    09             601      610          14 780,00 €   15 230,00 €
+                                                                                                       vyrovnania
+41                                    09             601      620           5 240,00 €    5 510,00 € Poistné a príspevky do poisťovní
+
+41                                    09             601      633006 001     300,00 €      350,00 € Čistiace, hygienické potreby a ost. materiál - ŠJ
+
+41                                    09             601      633010 001        0,00 €       80,00 € Pracovné odevy, obuv,pracovné pomôcky - ŠJ
+
+41                                    09             601      637016 001     220,00 €      200,00 € Prídel do SF - ŠJ
+
+41                                    09             601      642014 001     410,00 €      370,00 € FPnS - ŠJ
+Spolu za 6.2. Školská jedáleň                                               20 950,00 €    21 740,00 €
+
+7. Bývanie
+
+7.1. Obecné nájomné byty
+
+41                                    06             100      632002 094     2 500,00 €     3 000,00 € Vodné - BD 12 b.j.
+
+Spolu za 7.1 Obecné nájomné byty                                             2 500,00 €     3 000,00 €
+
+
+
+Kapitálový rozpočet
+
+Výdavková časť
+
+700 Kapitálové výdavky
+
+2. Služby obyvateľom
+
+2.4. Kultúra
+
+46                                    08             200      713001 001    20 000,00 €         0,00 € Interiérového vybavenia - KD (RF)
+
+Spolu za 2.4. Kultúra                                                       20 000,00 €         0,00 €
+
+2.5. Šport
+
+41                                    08             100      717001 006    14 445,80 €         0,00 € Športový areál - prístrešok
+
+Spolu za 2.5. Šport                                                         14 445,80 €         0,00 €
+
+4. Pozemné komunikácie a verejné priestranstvá
+
+4.1. Údržba komunikácii a verejných priestranstiev
+
+41                                    04             510      714004 001         0,00 €    10 000,00 € Traktor s príslušenstvom
+
+46                                    04             510      714004 001         0,00 €    20 000,00 € Traktor s príslušenstvom - prostriedky RF
+
+Spolu za 4.1. Údržba komunikácii a verejných priestranstiev                      0,00 €    30 000,00 €
+
+Spolu za Výdavkovú časť (bežný, kapitálový, FO)                            281 555,80 €   268 152,99 €
+                                                                      1. úprava PR                                    2. úprava PR                    3. úprava PR
+                                      Schválený PR     RO 1/2026                       RO 2/2026       RO 3/2026                       RO 4/2026
+         Prehľad - sumarizácia                                           2026 v €                                        2026 v €                        2026 v €
+                                        2026 v €      k 31.03.2026                    k 23.06.2026    k 31.08.2026                    k 30.09.2026
+                                                                      k 21.05.2026                                    k 29.09.2026                    k 24.11.2026
+
+Bežný rozočet:
+
+- bežné príjmy                        443 271,00 €    442 580,80 €    459 787,03 €    459 787,03 €    459 787,03 €    493 679,03 €    493 679,03 €    516 652,02 €
+
+- bežné výdavky                       398 619,00 €    398 619,00 €    419 358,00 €    425 412,20 €    430 956,20 €    455 008,20 €    455 008,20 €    446 051,19 €
+
+Hospodárenie za bežný rozpočet         44 652,00 €     43 961,80 €     40 429,03 €     34 374,83 €     28 830,83 €     38 670,83 €     38 670,83 €     70 600,83 €
+
+Kapitálový rozpočet:
+
+- kapitálové príjmy                          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €
+
+- kapitálové výdavky                   46 044,00 €     46 044,00 €     46 044,00 €     39 989,80 €     34 445,80 €     44 285,80 €     44 285,80 €     39 840,00 €
+
+Hospodárenie za kapitálový rozpočet   -46 044,00 €    -46 044,00 €    -46 044,00 €    -39 989,80 €    -34 445,80 €    -44 285,80 €    -44 285,80 €    -39 840,00 €
+
+Finančné operácie:
+
+- príjmové finančné operácie           31 000,00 €     31 690,20 €     35 222,97 €     35 222,97 €     35 222,97 €     35 222,97 €     35 222,97 €     35 222,97 €
+
+- výdavkové finančné operácie          29 608,00 €     29 608,00 €     29 608,00 €     29 608,00 €     29 608,00 €     29 608,00 €     29 608,00 €     29 608,00 €
+
+Hospodárenie z finančných operácií      1 392,00 €      2 082,20 €      5 614,97 €      5 614,97 €      5 614,97 €      5 614,97 €      5 614,97 €      5 614,97 €
+
+Sumarizácia
+
+- Príjmy celkom                       474 271,00 €    474 271,00 €    495 010,00 €    495 010,00 €    495 010,00 €    528 902,00 €    528 902,00 €    551 874,99 €
+
+- Výdavky celkom                      474 271,00 €    474 271,00 €    495 010,00 €    495 010,00 €    495 010,00 €    528 902,00 €    528 902,00 €    515 499,19 €
+
+Hospodárenie celkom                          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €          0,00 €    36 375,80 €
+

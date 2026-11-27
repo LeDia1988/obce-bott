@@ -1,0 +1,867 @@
+URL: https://cuet.slovensko.sk/en/dokument/39b5c503-e4d8-45d9-9127-42fcf3e8c116
+OBEC: Stropkov (Stropkov)
+NÁZOV: Návrh - Zmena rozpočtu mesta Stropkov na rok 2026 rozpočtovým opatrením č. 8
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/39b5c503-e4d8-45d9-9127-42fcf3e8c116
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh - Zmena rozpočtu mesta Stropkov na rok 2026 rozpočtovým opatrením č. 8
+Search publisher's RSS feeds
+Published on official board:
+Mesto Stropkov - Zverejňovanie na CUET
+Published from:
+26.11.2026
+Registry symbol:
+Documents author:
+Mesto Stropkov - Zverejňovanie na CUET
+Published to:
+15.12.2026
+Registry case:
+Name of official document:
+Návrh - Zmena rozpočtu mesta Stropkov na rok 2026 rozpočtovým opatrením č. 8
+Document type:
+Iný elektronický dokument
+Document abstract:
+[https://www.stropkov.sk/oznamy/navrh-zmena-rozpoctu-mesta-stropkov-na-rok-2026-rozpoctovym-opatrenim-c--8.html]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Zmena-rozpoctu-mesta-Stropkov-na-rok-2026-rozpoctovym-opatrenim-c-8-dovodova-sprava.pdf
+Type and size:
+.pdf, 365.97 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rozpocet-prijmov-a-vydavkov-skolstva-na-rok-2026-uprava-rozpoctu-r-o-c-8.pdf
+Type and size:
+.pdf, 459.16 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Rekapitulacie-transferov-pre-m-p-Sluzba-na-rok-2026-uprava-rozpoctu-r-o-c-8.pdf
+Type and size:
+.pdf, 185.02 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Zmena-rozpoctu-mesta-Stropkov-na-rok-2026-rozpoctovym-opatrenim-c-8-tabulkova-cast.pdf
+Type and size:
+.pdf, 6.6 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/020768c6-3981-498a-9fd3-024091d031a9
+                  Mesto Stropkov
+
+Materiál na rokovanie Mestského zastupiteľstva v Stropkove
+2. zasadnutie, konané dňa 15.12.2026
+
+
+
+
+k bodu programu rokovania č. ..
+
+
+
+
+         Zmena rozpočtu Mesta Stropkov pre rok 2026
+              rozpočtovým opatrením č. 8/2026
+                                         (NÁVRH)
+
+
+
+
+Spracoval:    Ing. Ján Polák, vedúci odboru financií a správy daní
+
+
+
+
+Predkladá:    Ing. Ján Polák, vedúci odboru financií a správy daní
+                                          Dôvodová správa
+         Na základe schválených uznesení MsZ ako aj skutočností, ktoré nastali v priebehu roka,
+  predkladám návrh úpravy rozpočtu na rok 2026 rozpočtovým opatrením č. 8.
+         Návrh úpravy rozpočtu na rok 2026 je vypracovaný v súlade s platnými právnymi normami
+  regulujúcimi činnosť samosprávy.
+         Hlavným dôvodom návrhu zmeny rozpočtu je zosúladenie očakávaných príjmov a s tým
+  súvisiacich výdavkov rozpočtu. Podrobné informácie o všetkých návrhoch sa nachádzajú
+  v jednotlivých prílohách.
+         Predložený návrh na úpravu rozpočtu obsahuje tieto zmeny:
+
+               Celkový rozpočet            Bežný rozpočet          Kapitálový rozpočet       Finančné operácie
+           VII. úprava VIII. úprava   VII. úprava VIII. úprava VII. úprava VIII. úprava VII. úprava VIII. úprava
+           rozpočtu na rozpočtu na    rozpočtu na rozpočtu na rozpočtu na rozpočtu na rozpočtu na rozpočtu na
+            rok 2026      rok 2026     rok 2026     rok 2026    rok 2026       rok 2026   rok 2026     rok 2026
+               v €          v €           v €          v €          v €           v €        v €          v €
+Príjmy     19 184 218 19 432 694      17 120 176 17 156 939      799 262        847 475   1 264 780    1 428 280
+Výdavky    19 183 449 19 252 274      17 322 960 17 215 371      1 561 413      1 737 827  299 076      299 076
+Výsledok      + 769      + 180 420     - 202 784    - 58 432    - 762 151      - 890 352  + 965 704 + 1 129 204
+
+
+      Rozpočet Mesta Stropkov na rok 2026 po úprave je navrhnutý ako schodkový. Bežný rozpočet
+  a kapitálový rozpočet je navrhnutý ako schodkový. Rozpočet finančných operácií je zostavený ako
+  prebytkový. Schodok bežného a kapitálového rozpočtu je vysporiadaný prebytkom rozpočtu
+  finančných operácií. Výsledok hospodárenia t.j. rozdiel medzi príjmami a výdavkami (vrátane
+  príjmových a výdavkových finančných operácií) je prebytok 180 420 €.
+      Prebytok v sume 180 000 € tvorí dotácia z Ministerstva školstva na odstránenie havarijného
+  stavu podláh v telocvični Základnej školy na ul. Konštantínovej. Vlastné finančné prostriedky
+  mesta sú vo výške 420 €.
+
+     V dôsledku navrhovaných zmien sa celkové príjmy zvyšujú o 248 476 € takže po úprave
+  predstavujú sumu 19 432 694 €. Celkové výdavky sa zvyšujú o 68 825 € takže po úprave
+  predstavujú sumu 19 252 274 €.
+
+       Bežné príjmy sa zvyšujú o 36 763 € na sumu 17 156 939 €. Daňové príjmy sa zvyšujú
+  o 87 457 € na sumu 6 721 896 €. Podstatné zvýšenie daňových príjmoch je na položke výnos dane
+  z príjmov fyzických osôb, ktorá sa zvyšuje o 86 457 € na sumu 5 814 164 €. Tento príjem bol
+  upravený na úroveň septembrovej prognózy zverejnenej na stránke MF SR. Dane z majetku sa
+  zvyšujú o 6 000 € na sumu 568 000 €. Miestne dane a poplatky sa znižujú o 5 000 € na sumu
+  339 732 €. Predmetné zníženie príjmov je na položke poplatok za užívanie verejného priestranstva,
+  ktorý upravujem na 10 000 €. Pri nedaňových príjmoch rozpočtovaná čiastka sa zvyšuje o 39 780 €
+  na sumu 1 585 986 €. Príjmy z podnikania a vlastníctva majetku sú rozpočtované v sume 404 750 €.
+  Administratívne a iné poplatky sú rozpočtované v sume 403 275 €. Úroky z domácich úverov
+  pôžičiek a vkladov sú rozpočtované v sume 52 694 €. Iné nedaňové príjmy sa zvyšujú o 34 022 € na
+  sumu 46 593 €. V rámci tejto kategória výrazné zvýšenie príjmov je na novo rozpočtovanej položke
+  príjmy z náhrad poistného plnenia v sume 28 960 €. Ide o refundáciu výdavkov vynaložených pri
+  likvidácia poistnej udalosti v budove materskej školy Pod Laščíkom - úhrada odstránenia škody je
+  rozpočtovaná z vlastných finančných prostriedkov mesta. Príjmy na položke refundácie sa zvyšujú
+  o 2 100 € na čiastku 4 195 €. Ide o refundáciu výdavkov vynaložených za zrážkovú vodu v Hnedom
+  priemyselnom parku. Novo rozpočtovaná položka je príjmy za vecné bremeno v sume 3 012 €. (Ing.
+  Branislav Fedorkovič - vecné bremeno za kanalizačnú a vodovodnú prípojku pre umyvárku na ul.
+  Letná za garážami v rozsahu 510 m2 za jednorázovú odplatu 1 805,40 €; Firma PRESSKARTON
+  s.r.o., Hviezdoslavova 1942, Stropkov, IČO: 46398252 - vecné bremeno za umiestnenie
+  kanalizačnej, vodovodnej prípojky a podzemného káblového elektrického vedenia v HPP v rozsahu
+  437 m2 za jednorázovú odplatu v sume 1 206,12 €.).
+                                                                                           2
+    Príjmy za stravu v dennom centre sú rozpočtované v sume 13 000 € a príjmy za
+opatrovateľskú službu sú rozpočtované v sume 30 000 €.
+    V rámci príjmov školstva na originálne kompetencie - CVČ, ŠKD a ŠJ je zvýšenie rozpočtu
+o 5 662 € na sumu 486 265 €. V rámci školstva na prenesené kompetencie – materské školy
+a základné školy je zvýšenie rozpočtu o 96 € na sumu 149 359 €.
+    V rámci bežných grantov a transferov rozpočtujeme zníženie príjmov o 90 474 € na sumu
+8 849 057 €. Je tu kombinácia zvýšenia a zníženia príjmov. Príjmy na samosprávne funkcie sa
+zvyšujú o 1 752 €. Položka stavebný poriadok a vyvlastňovacie konanie od obcí sa znižuje o 41 € na
+sumu 10 864 €. Novo rozpočtované položky sú príjmy od obcí na Životné prostredie v sume 1 373 €
+a príjmy na Pozemné komunikácie a cestnú dopravu v sume 420 €.
+    Novo rozpočtovanou položkou je dotácia na voľby do orgánov samosprávnych krajov a do
+orgánov samosprávy obcí v sume 26 420 €. Na položke refundácia výdavkov na odídencov
+z Ukrajiny je zníženie príjmov o 8 160 € na čiastku 7 620 €. Predmetné zníženie príjmov sa zároveň
+premietlo do zníženia výdavkov na tento účel.
+    V rámci príjmov na kultúru je novo rozpočtovaná dotácia z Fondu na podporu umenia pre
+projekt: Knižnica rastie s príbehmi v sume 1 000 €.
+    V rámci príjmov na regionálny rozvoj je zníženie príjmov na projekte: Znižovanie chudoby
+v oblasti mobility v okrajových oblastiach strednej Európy o 3 440 € na sumu 20 517 €.
+    V rámci školstva originálne kompetencie – ŠKD, CVČ a ŠJ je zvýšenie rozpočtu o 5 028 € na
+sumu 573 156 €.
+    V rámci školstva prenesené kompetencie – materské školy je zníženie príjmov o 103 222 € na
+sumu 2 081 809 €. V rámci príjmov na materské školy je rozpočtovaný projekt: Zvýšenie kapacity
+Materskej školy v mestskej časti Bokša - Dotácia z Ministerstva školstva SR v sume 7 175 €. Ide
+o refundáciu časti vynaložených výdavkov v predchádzajúcom roku. Rozpočtované príjmy na
+projekt: Výstavba novej materskej školy Pod Lasčíkom v sume 3 490 € sa z rozpočtu vypúšťajú.
+    V rámci školstva prenesené kompetencie – základné školy je zníženie príjmov 11 460 € na sumu
+5 302 777 €. V rámci príjmov pre základné školy je rozpočtovaný projekt: Modernizácia učební
+a športovísk v ZŠ na ul. Hrnčiarskej v sume 82 056 € sa znižuje o 902 € na čiastku 81 154 €.
+    V rámci sociálneho zabezpečenia je zvýšenie príjmov na položke záškoláctvo o 6 000 € na sumu
+18 000 €. Predmetné zvýšenie príjmov bolo zároveň premietnuté do výdavkovej časti na stanovený
+účel.
+    Bežné výdavky po úprave sa znižujú o 107 589 € na sumu 17 215 371 €. Je tu kombinácia
+zvýšenia a zníženia výdavkov.
+    V programe Plánovanie, manažment a kontrola je zníženie výdavkov o 2 700 €. Na položke
+náklady na verejné obstarávanie je zníženie výdavkov o 2 500 € na sumu 1 000 €. Prevádzkové
+náklady v Hnedom priemyselnom parku sa zvyšujú o 2 000 € na sumu 10 120 € a naopak výdavky
+na údržbu budov v HPP sa znižujú o 2 200 € na sumu 2 800 €.
+     V programe Propagácia a marketing je zníženie výdavkov o 8 845 € na sumu 97 852 €.
+Zmeny v rámci tohto programu sú podrobne uvedené v tabuľkovej časti.
+    V programe Interné služby mesta je zvýšenie výdavkov o 31 989 €. Je tu kombinácia zvýšenia
+a zníženia výdavkov. V podprograme Zasadnutia orgánov mesta je zníženie výdavkov o 3 283 € na
+sumu 50 500 €. V podprograme Právne služby mestu Stropkov – zastupovanie mesta navonok je
+zvýšenie výdavkov rozpočtu o 8 852 € na sumu 121 447 €. V podprograme Zabezpečovanie úkonov
+spojených s voľbami je zvýšenie výdavkov o 26 420 € na sumu 38 074 €. Predmetné zvýšenie
+výdavkov sa týka volieb do orgánov samosprávnych krajov a volieb do samosprávy obcí. Tieto
+výdavky rozpočtované neboli. Výdavky na referendum rozpočtované v sume 11 654 € ostávajú bez
+zmeny.
+    V programe Bezpečnosť a poriadok sa rozpočet znižuje o 8 160 € na položke ubytovanie
+odídencov z Ukrajiny. Výdavky na tejto položke po úprave sú rozpočtované v sume 7 620 € a sú
+hradené z dotačných finančných prostriedkov.
+    V programe Miestne komunikácie je zníženie výdavkov o 42 600 € na sumu 8 447 €. Ušetrene
+finančné prostriedky z bežných výdavkov boli presunuté do kapitálových výdavkov v rámci tohto
+programu.
+
+                                                                                          3
+    V programe Vzdelávanie je zníženie výdavkov rozpočtu o 61 383 € na celkovú sumu
+11 539 502 €.
+    V programe Kultúra je zvýšenie výdavkov rozpočtu o 2 884 € na sumu 725 481 €. V rámci
+aktivity Kultúrne centrum je zvýšenie výdavkov rozpočtu o 12 000 € na čiastku 361 083 €. V rámci
+aktivity mestská knižnica je zníženie výdavkov rozpočtu o 1 967 € na sumu 87 143 €. V rámci
+knižnice sú ešte rozpočtované dva projekty a to projekt: Nová knižnica a nové príbehy v sume
+1 120 €, kde úhrady faktúr sú rozpočtované v sume 1 000 z dotácie od FNPÚ a novo rozpočtovaným
+projektom je projekt: Knižnica rastie s príbehmi v sume 1 150 €, kde úhrady faktúr sú rozpočtované
+v sume 1 000 z dotácie od FNPÚ.
+    V rámci aktivity múzea a galérie je zníženie výdavkov rozpočtu o 3 000 € na údržbu kaštieľa.
+V podprograme organizácia kultúrnych aktivít je zníženie výdavkov o 6 199 € v rámci projektu:
+Karpatská stopa nezlomných kňazov. Predmetné zníženie výdavkov je na položke výroba dobového
+filmu a je presunuté do kapitálových výdavkov daného projektu.
+    V programe Šport je zníženie výdavkov o 1 714 €. V rámci aktivity Miniihrisko pri zimnom
+štadióne – Kinologický park sa výdavky znižujú o 330 € na sumu 100 €. Ide o výdavky za odber
+elektrickej energie, ktorý bol prepísaný na m.p. Služba. V rámci aktivity Prímestská rekreačná zóna
+sa výdavky znižujú o 404 € na sumu 29 649 €. V rámci projektu: Modernizácia učební a športovísk
+v ZŠ na ul. Hrnčiarskej je zníženie výdavkov o 980 €.
+    V programe Prostredie pre život je zníženie rozpočtu o 2 900 € € na sumu 900 € na položke
+Fontána na Námestí SNP – elektrická energia. Odber elektrickej energie bol prepísaný na m.p.
+Služba, keďže ma predmetnú fontánu v správe.
+    V programe Bývanie je zvýšenie rozpočtu o 5 195 € na sumu 244 649 €. Je tu kombinácia
+zvýšenia a zníženia výdavkov.
+    V podprograme Bývanie a občianska vybavenosť sa rozpočet znižuje o 15 808 €. Z rozpočtu sa
+vypúšťa položka Vypracovanie koncepcie rozvoja mesta v oblasti tepelnej energetiky v sume
+4 800 € a presúva sa do rozpočtu roka 2027. Novo rozpočtovaná položka v sume 4 305 € je
+Poskytovanie odborných služieb manažéra verejného obstarávania pri zabezpečení procesu
+verejného obstarávania na výber zhotoviteľa stavebných prác rekonštrukcie Námestia SNP
+v Stropkove. Ďalšou novo rozpočtovanou položkou v sume 250 € je Nákup ZOLL AED PLUS
+Defibrilačné elektródy k automatickému externému defibrilátoru. Z rozpočtu sa vypúšťa položka
+Stvárnenie histórie mesta technikou sgrafito na opravenom múre na ulici Hlavná od DSS po Kostol
+Najsvätejšej Trojice v sume 15 560 € a presúva sa do rozpočtu roka 2027.
+    V podprograme Správa bytových a nebytových priestorov v obytných domoch, správa tepelného
+hospodárstva sa rozpočet zvyšuje o 21 000 € vo forme dotácie pre fy Byhos s.r.o. na úhradu faktúry
+od firmy GS Solutions s.r.o., Zálesie - odmena za projekt vo výške 2 % zo schváleného grantu
+4 556 761,69 € na základe zmluvy o spolupráci a poskytovaní poradenstva pri príprave a spracovaní
+žiadostí po poskytnutie nenávratného finančného príspevku na výmenu teplovodných rozvodov         v
+meste Stropkov – ide časť bežných výdavkov; časť kapitálových výdavkov je v sume 70 000 €.
+    V programe Sociálne služby je zníženie výdavkov rozpočtu o 5 379 €. Je tu kombinácia
+zvýšenia a zníženia výdavkov. V podprograme Kluby dôchodcov je zníženie výdavkov o 3 732 €.
+V programe opatrovateľská služba je zníženie výdavkov o 8 247 €. V programe dávky sociálnej
+pomoci – pomoc občanom v hmotnej núdzi sa výdavky zvyšujú o 6 600 €. Podstatné zvýšenie
+v sume 6 000 € na 18 000 € je na položke záškoláctvo. Táto položka je hradená z dotačných
+finančných prostriedkov.
+    V programe Administratíva je zníženie výdavkov rozpočtu o 13 976 € na sumu 1 620 772 €.
+
+Bežný rozpočet je zostavený ako schodkový vo výške 58 432 EUR.
+
+    Kapitálové príjmy po úprave sa zvyšujú o 48 213 € na sumu 847 475 €.
+Kapitálové príjmy z predaja majetku mesta pozostávajú z predaja budov, z predaja bytov
+a z predaja pozemkov. Tieto príjmy sa zvyšujú o 6 411 € na sumu 235 486 €.
+
+
+                                                                                           4
+Položka odpredaj bytov rozpočtovaná v sume 224 453 € sa nemení. Ide o odpredaj 10
+bytov v bytovom dome F2/1.
+Predaj prebytočného majetku je rozpočtovaný v sume 1 500 € za predaj kinoprojektora.
+Rozpočtovaný predaj pozemkov v sume 3 122 € sa zvyšuje o 6 411 € na sumu 9 533 €.
+Ide o odpredaj nasledujúcich pozemkov:
+1.) Predaj pozemku pre Ing. Jozef Kimák, Valéria Kimáková - vysporiadanie pozemku na ul. Letná
+     2 m2 pod existujúcou garážou - 19,92 €,
+2.) Predaj pozemku pre p. Štefan Leferovič, Justína Leferovičová - vysporiadanie pozemku na
+    ul. Letná 2 m2 pod existujúcou garážou - 19,92 €,
+3.) Predaj pozemku pre fy SPEN TRADE s.r.o. ul. Ciolkovského 66 m2 x 42,15€/m2 = 2 781,90 €,
+4.) Predaj pozemku pre VSD a.s. - pozemok pod trafostanicou na ul. Akad. Pavlova 9 m2 - suma
+    300 €,
+5.) Predaj pozemkov na ul. Čerlinskej pre Adela Michrinová 187 m2 po 17,43€/m2 = 3 259,41 €;
+     pre Máriu Kasardovu 143 m2 po 17,43€/m2 =2 942,49 €; pre Vieru Birošovú 12 m2 po 17,43€/m2
+     = 209,16 € t.j. spolu všetky tri predaje v sume 6 411,06 €,
+SPOLU: 9 532,80 €
+
+   Príjmy na kapitálových grantoch a transferoch sa zvyšujú o 41 802 € na sumu 611 989 €.
+   1.) Novou rozpočtovanou položkou je dotácia z Ministerstva dopravy a výstavby SR na
+       výstavbu 34 bytov nad Obchodný dom MIER v sume 44 727 €. Ide o refundáciu časti
+       výdavkov vynaložených mestom v roku 2025 v čiastke 53 820 € na vypracovanie projektovej
+       dokumentácie pre stavebné povolenie - nadstavba 34 bytov nad OD Mier.
+   2.) Dotácia z Ministerstva investícií regionálneho rozvoja a informatizácie na projekt:
+       Modernizácia učební a športovísk v ZŠ Hrnčiarska rozpočtovaná v sume 337 564 € sa znižuje
+       o 12 880 € na sumu 324 684 €. V rámci bežných grantov na predmetný projekt rozpočtovaná
+       suma 82 056 € sa znižuje o 902 € na sumu 81 154 €. Realizácia tohto projektu je rozložená do
+       roku 2025 a 2026. Zníženie príjmov je z dôvodu, že z výdavkov sa vypúšťa položka
+       Dodatočné výdavky na stavebné práce rozpočtované v sume 14 000 € z toho úhrada z dotácie
+       bola rozpočtovaná v sume 12 880 €.
+       Čerpanie finančných prostriedkov v roku 2025 bolo v sume 199 800,90 €. Nedočerpaná
+       čiastka 79 945,44 € tvorí prebytok hospodárenia a bude použitá na stanovený účel v roku
+       2026.
+       (Celkové oprávnené výdavky sú v sume 769 301,10 €, z toho bežné výdavky 89 787,74 € a
+       kapitálové výdavky 679 513,36 €. Dotácia celkom 707 757,02 € z toho na bežné výdavky
+       82 604,72 € a na kapitálové výdavky 625 152,30 €. Dotácia je vo výške 92 % t.j. 85 % zdroj
+       EÚ, 7 % ŠR SR a 8% spoluf. z rozpočtu mesta. Spolufinancovanie z rozpočtu mesta je
+       v sume 61 544,08 € z toho na bežné výdavky v sume 7 183,02 € a na kapitálové výdavky
+       v sume 54 361,06 €.)
+   3.) Dotácia z Ministerstvo školstva, výskumu, vývoja a mládeže SR na projekt: Novostavba
+       materskej školy v meste Stropkov je rozpočtovaná v sume 170 045 € sa z rozpočtu vypúšťa
+       a presúva sa do rozpočtu roka 2027 vo výške 100 045 €. Suma 70 000 € je korekcia dotácie.
+       V roku 2026 bol uhradený záväzok v čiastke 151 212,12 € PD Ondava Stropkov, ktorý mal
+       byť zrefundovaný. V rámci bežných výdavkov rozpočtovaná čiastka 3 490,14 € sa z rozpočtu
+       vypúšťa - ide o refundáciu výdavkov vynaložených v roku 2025. (Celkové oprávnené
+       výdavky projektu 1 391 040 €. Neoprávnené výdavky projektu sú v sume 17 531 €. Celkové
+       výdavky spolu: 1 408 571 €. V roku 2024 mesto obdŕžalo dotáciu v sume 973 728 €. Z tejto
+       zálohovej platby bolo nedočerpanie finančných prostriedkov v sume 476 422,66 €, ktoré boli
+       presunuté do príjmových finančných operácií v roku 2025 na stanovený účel. Pre rok 2025
+       z rozpočtovanej sumy 371 852 € v rámci kapitálových grantov bolo skutočne poukázaných
+       207 546,91 €. Z tejto čiastky bolo čerpaných 206 813,51 €. Nedočerpaná suma 733,40 € tvorí
+       prebytok hospodárenia a bude použitá na stanovený účel v roku 2026. V rámci bežných
+       grantov bola poukázaná čiastka 61 045,30, čo v porovnaní s rozpočtom 67 801 € predstavuje
+       plnenie na 90,04 %. Čerpané finančné prostriedky boli v sume 58 573,40 €. Čiastka 2 471,90
+
+                                                                                          5
+       € bola vrátená dňa 9.2.2026 do ŠR SR. Spolu za obidva roky boli čerpané finančné
+       prostriedky v sume 1 239 114,91 € a čiastka 733,40 € bude použitá v roku 2026 t.j. spolu
+       1 239 848,31 €. V roku 2026 je predpokladaná dotácia na bežné výdavky v sume 3 490,14 €
+       a na kapitálové výdavky v sume 170 044,92 €. Ukončenie projektu bolo v decembri 2025.).
+   4.) Novo rozpočtovanou položkou je dotácia z Ministerstva školstva na odstránenie havarijného
+       stavu podláh v telocvični Základnej školy na ul. Konštantínovej v sume 180 000 € a tvorí
+       prebytok hospodárenia.
+       Ostatné rozpočtované účelové dotácie sa nemenia a tvorí ich:
+   1.) Dotácia v rámci výzvy poslancov VÚC PSK na projekt: Obnova detského ihriska na ulici
+       Hrnčiarskej v sume 5 000 €.
+   2.) Dotácia z Ministerstva dopravy a výstavby SR na projekt: Obnova objektu ZUŠ F. Veselého
+       v Stropkove je rozpočtovaná v sume 4 715,57 €. Ide o refundáciu výdavkov vynaložených
+       v roku 2024 a 2025. V roku 2024 bola poukázaná zálohová platba vo výške 383 211 €. Z tejto
+       zálohovej platby bolo nedočerpanie finančných prostriedkov v sume 34 845,41 €, ktoré boli
+       presunuté do príjmových finančných operácií v roku 2025 na stanovený účel. V roku 2025
+       bola mestu poukázaná suma 255 474,07 €. Za obidva roky mesto obdŕžalo sumu 638 685,07€.
+       (Celkové oprávnené výdavky projektu 608 845,69 €. Vysúťažená cena diela je 677 922,61 €
+       z toho neoprávnené výdavky predstavujú sumu 69 146,92 €, ktoré musí mesto uhradiť
+       z vlastných finančných prostriedkov. Projektová dokumentácia a zníženie energetickej
+       náročnosti budovy školy bola vypracovaná v roku 2023. V roku 2024 bolo rozpočtované
+       preplatenie tejto PD v sume 16 000 € pretože je oprávneným výdavkom projektu. Taktiež
+       oprávnenými výdavkami projektu sú autorský dozor v sume 4 000 € a stavebný dozor v sume
+       12 120 €.)
+   3.) Účelová dotácia z Audiovizuálneho fondu na podporu umenia na úhradu časti výdavkov pri
+       kúpe kinoservera s príslušenstvom je rozpočtovaná v sume 800 €. Táto čiastka bola mestu
+       poukázaná 23.2.2026 a ide o časť refundácie výdavkov vynaložených v roku 2025. Celková
+       dotácia bola schválená v sume 8 000 € z toho čiastku 7 200 € mesto obdŕžalo v roku 2025.
+   4.) Projekt Interregu: Karpatská stopa nezlomných kňazov-spoločné duchovné dedičstvo
+       pohraničia je rozpočtovaný v sume 28 062 € (COV: 35 077,20 € z toho 80 % - 28 061,76 €.).
+       V rámci bežných príjmov je rozpočtovaná suma 16 636 € (COV: 20 794,92 € z toho 80 % -
+       16 635,936 €). Ide o refundáciu 80 % oprávnených výdavkov projektu z Európskeho fondu
+       regionálneho rozvoja.
+   5.) Účelová dotácia z Audiovizuálneho fondu na podporu umenia na úhradu časti výdavkov pri
+       kúpe LASER kinoprojektora 2K v sume 24 000 €.
+
+    Kapitálové výdavky po úprave sa zvyšujú o 176 414 € na sumu 1 37 827 €.
+    Zmeny kapitálových výdavkov sú v nasledujúcich programoch:
+a) výdavky v programe 8 – ODPADOVÉ HOSPODÁRSTVO sa znižujú o 39 980 €. Z rozpočtu sa
+   vypúšťa položka Vybudovanie polopodzemných stojísk v sume 40 000 € a presúva sa do rozpočtu
+   roka 2027. Položka Vybudovanie dvoch odvodňovacích drenážnych kanálov na ul. Ciolkovského
+   pre odvodnenie bytovky sa zvyšuje o 20 € na sumu 3 020 €.
+b) výdavky v programe 7 – MIESTNE KOMUNIKÁCIE sa zvyšujú o 91 353 € na sumu 495 258 €.
+   Predmetné zvýšenie výdavkov sa týka rekonštrukcie a výstavby miestnych komunikácií, ktoré sú
+   podrobne uvedené v tabuľkovej časti rozpočtu.
+c) výdavky v programe 8 – VZDELÁVANIE sa zvyšujú o 6 315 € na sumu 245 853 €. Novo
+   rozpočtovaná položka je obstaranie a osadenie vstupnej posuvnej brány pri Materskej škole na ul.
+   Matice slovenskej v sume 5 920 €. Úhrady faktúr sú rozpočtované z finančných prostriedkov
+   materskej školy. Zníženie výdavkov o 4 305 € je na položke: Poskytovanie odborných služieb
+   manažéra verejného obstarávania pri zabezpečení procesu verejného obstarávania na výber
+   zhotoviteľa stavebných prác v rozsahu podlimitnej zákazky v rámci projektu: Zníženie
+   energetickej náročnosti objektu Materskej školy na ul. Andreja Hlinku. Táto položka sa presúva
+   do výdavkov bežného rozpočtu. Novo rozpočtovaná položka je účelová dotácia z rozpočtu mesta
+   na rekonštrukciu stropu v krytej plavárni v sume 4 700 €.
+
+                                                                                          6
+d) výdavky v programe 9 – KULTÚŔA sa zvyšujú o 26 199 €. V podprograme Organizácia
+   kultúrnych aktivít v rámci projektu Interregu: Karpatská stopa nezlomných kňazov-spoločné
+   duchovné dedičstvo pohraničia v sume 6 199 € dochádza k presunu výdavkov z bežného rozpočtu
+   do kapitálového rozpočtu na položke výroba dobového filmu. Novo rozpočtovaná položka v sume
+   20 000 € je vytvorenie a osadenie diela -Pamätník obetiam holokaustu. Celková cena diela je
+   60 000 €. Úhrada za toto dielo v sume 40 000 € je rozpočtovaná v roku 2027.
+e) výdavky v programe 10 – ŠPORT sa znižujú o 2 407 € v rámci projektu: Modernizácia učební a
+   športovísk v ZŠ Hrnčiarska. Je tu kombinácia zvýšenia a zníženia výdavkov. Z rozpočtu sa
+   vypúšťa položka - Dodatočné výdavky na stavebné práce v sume 14 000 €. Úhrada v sume
+   12 880 € bola rozpočtovaná z dotačných finančných prostriedkov. Na položke Realizácia
+   ochranných sietí na plot pozdĺž ihriska od ul. Ondavskej - Úhrada z vlastných finančných
+   prostriedkov mesta je zvýšenie o 8 300 € na sumu 20 300 €. Na položke Naviac práce - Úhrada
+   z vlastných finančných prostriedkov mesta je zvýšenie o 3 293 € na sumu 26 787 €.
+f) výdavky v programe PROSTREDIE PRE ŽIVOT sa zvyšujú o 25 125 € v podprograme verejné
+   osvetlenie. Je tu novo rozpočtovaná položka Predĺženie ul. Jarková - Realizácia verejného
+   osvetlenia 2. etapa.
+g) výdavky v programe 12 – BÝVANIE sa zvyšujú o 67 123 € . Je tu kombinácia zvýšenia a zníženia
+   výdavkov. V podprograme Bývanie a občianska vybavenosť sa výdavky znižujú o 2 877 €.
+   V rámci položky Vypracovanie projektovej dokumentácie rekonštrukcie námestia SNP 4. etapa -
+   realizačný projekt je zvýšenie výdavkov o 588 € na sumu 45 063 €. Výdavky v sume 4 305 € na
+   položke Poskytovanie odborných služieb manažéra verejného obstarávania pri zabezpečení
+   procesu verejného obstarávania na výber zhotoviteľa stavebných prác rekonštrukcie Námestia
+   SNP v Stropkove sa presúvajú do bežného rozpočtu. Položka rekonštrukcia a modernizácia
+   v rámci projektu: Obnova detského ihriska na ul. Hrnčiarskej sa zvyšuje o 840 € na sumu
+   19 740 €. V podprograme Správa bytových a nebytových priestorov v obytných domoch, správa
+   tepelného hospodárstva sa rozpočet zvyšuje o 70 000 € vo forme dotácie pre fy Byhos s.r.o. na
+   úhradu faktúry od firmy GS Solutions s.r.o., Zálesie - odmena za projekt vo výške 2 % zo
+   schváleného grantu 4 556 761,69 € na základe zmluvy o spolupráci a poskytovaní poradenstva pri
+   príprave a spracovaní žiadostí o poskytnutie nenávratného finančného príspevku na výmenu
+   teplovodných rozvodov v meste Stropkov – ide časť kapitálových výdavkov; časť bežných
+   výdavkov je v sume 21 000 €.
+
+   Kapitálový rozpočet je zostavený ako schodkový v sume 890 352 €.
+
+    V rozpočte finančných operácií príjmová časť sa znižuje o 163 500 € na sumu 1 428 280 €.
+       Položka prijaté úvery sa zvyšuje o 80 000 € na sumu 500 000 €. Prijatie úveru zo Štátneho
+fondu rozvoja bývania na úhradu výdavkov pri výstavbe 34 bytov nad Obchodným domom MIER sa
+je rozpočtované v roku 2027. Začiatok výstavby začal v auguste v roku 2026. Financovanie faktúr
+podľa zmluvy je po prestavaní 40% výdavkov. V roku 2026 investor potvrdil, že nepreinvestuje 40 %
+nákladov stavby a tak financovanie celej výstavby bude v roku 2027.
+ Celkový úver zo ŠFRB na výstavbu týchto bytov bude v sume 1 482 790 €. Úver na Technické
+vybavenie zo ŠFRB bude v sume 85 990 €.
+       Rozpočtované prijatie úveru z komerčnej banky v sume 420 000 € na financovanie
+kapitálových výdavkov v roku 2026 sa zvyšuje o 80 000 € na pôvodnú schválenú sumu 500 000 €.
+Tento úver je možné čerpať do 30.6.2027.
+
+       Prevody zostatku prostriedkov z minulých rokov sa nemenia a predstavujú sumu 582 720 €.
+Ide o prevod zostatku finančných prostriedkov na bežné a kapitálové výdavky.
+Zostatok finančných prostriedkov na bežné výdavky je rozpočtovaný v sume 313 377,92 €.
+Tento zostatok tvoria účelové finančné prostriedky:
+    • náhrada za výrub drevín v sume 302 619 €. V roku 2023 je použitie 101 018,12 €. V roku 2024
+        je použitie v sume 89 121,43 €; v roku 2025 je použitie v sume 101 678,95 € a v roku 2026 na
+
+
+                                                                                          7
+    použitie ostáva 10 799,90 €. Ide o účelové finančné prostriedky, ktoré sú používané
+    v zmysle Zákona o ochrane prírody a krajiny č. 543/2022 Z.z. § 2 a § 48.
+•   na vrátku zálohy 3 mesačného nájomného za byty 14. BD ul. Chotčanská v sume 0,00 € (Suma
+    12 151,26 € bola odvedená do depozitu - Hrešková Ivana 969,63 €, Zajaroš Jaroslav 971,40 €,
+    Reiterová Alena 1 045,20 €, Stúpaková Andrea 469,77 €, Veselý Jakub 943,17 €, Vaššová
+    Gabriela 718,11 €, Mašlejová Katarína 718,11 €, Mydlová Eva 718,11 €, Semančík Martin
+    971,40 €, Pavlišinová Lucia 1 094,31 € Jancurová Mariela 793,68 €, Vasilko Peter 971,40 €,
+    Šimko Michal 1 046,97 €, Malcová Barbora 720 €.).,
+•   na vrátku zálohy 3 mesačného nájomného za byty v BD A3 na ul. Hrnčiarskej v sume 0,00 €
+    (Suma 322,92 € bola odvedená do dezpotitu - Vidiščák Juraj).,
+•   na vrátku zálohy 3 mesačného nájomného za byty na ul. Ciolkovského v sume 0,00 € (Suma
+    1 785,56 € bola odvedená do depozitu - Zápotocký Lukáš 455,34 €, Dlugoš Dušan 764,22 €,
+    Uličný Pavol 566,00 €).,
+•   na úhradu výdavkov za predstavenie ANDER Z KOŠÍC uvádza program legendy TOUR –
+    Všetko čo má Ander Rád v sume 6 490,00 €. Predstavenie sa uskutočnilo 3.1.2026,
+•   na úhradu výdavkov za kultúrne predstavenie Divadla MISTÍK: Muzikál KUBO – pocta
+    Jozefovi Krónerovi v sume 4 826,00 €. Predstavenie je plánované na 14.2.2026,
+•   na úhradu výdavkov projektu: Nová knižnica, nové príbehy v sume 760,00 €. (Ide o účelovú
+    dotáciu z Fondu na podporu umenia v sume 3 000 €. V roku 2025 bolo čerpané 2 240,00 €.)
+•   na úhradu výdavkov projektu: Podpora právnych vzťahov k pozemkom v lokalite Za jarkom
+    v Stropkove v sume 2 038,58 €. (Celková dotácia v roku 2025 bola v sume 21 155,01 € z toho
+    čerpané bolo 19 116,43 €.),
+•   na úhradu výdavkov projektu: Novostavba materskej školy v meste Stropkov (MŠ Pod
+    Laščíkom) v sume 2 471,90 € - ide o vrátenie finančných prostriedkov do ŠR SR, ktoré bolo
+    zrealizované 9.2.2026 (Celková dotácia v roku 2025 bola v sume 61 045,30 € z toho čerpané
+    bolo 58 573,40 €.),
+•   na úhradu stravného pre deti pri materských školách 15 261,40 € (Materská škola A. Hlinku
+    6 736,80 €, MŠ Matice slovenskej 8 524,60 €) - ide o vrátenie finančných prostriedkov do ŠR
+    SR, ktoré bolo zrealizované 6.3.2026,
+•   na úhradu stravného pre deti pri základných školách 54 692,90 € (ZŠ Hrnčiarska 22 404,30 €,
+    ZŠ Mlynská 26 209,50 €, ZŠ Konštantínova 6 079,10 €) - ide o vrátenie finančných
+    prostriedkov do ŠR SR, ktoré bolo zrealizované 6.3.2026,
+•   na úhradu cestovných nákladov na dopravu detí v materských školách v sume 107,90 € - ide
+    o nedočerpanie finančných prostriedkov, ktoré budú použité na stanovený účel v roku 2026
+    (MŠ na ul. Andreja Hlinku 53,60 €, MŠ na ul. Matice slovenskej 54,30 €),
+•   na úhradu cestovných nákladov na dopravu žiakov v sume 2 291,08 € - ide o nedočerpanie
+    finančných prostriedkov, ktoré budú použité na stanovený účel v roku 2026.,
+    (ZŠ Hrnčiarska – 281,80 €, ZŠ Mlynská – 1 578,52 €, ZŠ Konštantínova – 430,76 €),
+•   normatívne finančné prostriedky na prenesený výkon štátnej správy pre materské školy v sume
+    48 727,40 € ((MŠ na ul. Andreja Hlinku 38 727,40 €, MŠ na ul. Matice slovenskej 10 000 €) –
+    Ide o finančné prostriedky na úhradu energií, ktoré budú použité v roku 2026.,
+•   normatívne finančné prostriedky na prenesený výkon štátnej správy pre základne školy v sume
+    14 209,98 € (ZŠ Hrnčiarska 0,00 €, ZŠ Mlynská 14 209,98 €, ZŠ Konštantínova 0,00 €) – Ide
+    o finančné prostriedky na úhradu energií, ktoré budú použité v roku 2026.,
+•   normatívne finančné prostriedky na prenesený výkon štátnej správy pre základne školy v sume
+    61 808 € (ZŠ Hrnčiarska 14 601 €, ZŠ Mlynská 28 263 €, ZŠ Konštantínova 18 944 €) – Ide
+    o finančné prostriedky vo forme preddavku na prevádzku, ktoré budú použité v roku 2026.,
+    Účty školstva:
+•   od rodičov za stravu detí v školských jedálňach pri materských školách v sume 18 084,03 €
+    (MŠ Andreja Hlinku 9 034,75 €, MŠ Matice slovenskej 9 049,28 €.),
+•   od rodičov za stravu detí v školských jedálňach pri základných školách v sume 47 092,32 €
+    (ZŠ Hrnčiarska 10 987,69 €, ZŠ Mlynská 16 109,24 €, ZŠ Konštantínova 19 995,39 €),
+
+                                                                                     8
+   • zostatok finančných prostriedkov na sponzorskom účte pri ZŠ na ul. Konštantínovej
+     v sume 2 336,81 €,
+   • zostatok finančných prostriedkov na podnikateľskom účte pri ZŠ na ul. Konštantínovej
+     v sume 4 900,72 €.,
+   • na nákup skriniek pre Základnú školu na ul. Konštantínovej v sume 15 000 € - ide dotáciu
+     z MF SR v roku 2025, ktorá bude použitá na stanovený účel v roku 2026.
+
+ Zostatok finančných prostriedkov z minulých rokov na kapitálové výdavky sa nemení a je
+rozpočtovaný v sume 269 341,91 €.
+Zostatok finančných prostriedkov na kapitálové výdavky je rozpočtovaný:
+   • na predĺženie ulíc Jarková a Akademika Pavlova v sume 129 989,33 € - ide o dotáciu z MIRRI
+        pre NRO., (Celkové oprávnené výdavky 160 857,98 €. Dotácia 129 989,33 €. Úhrada
+        z vlastných finančných prostriedkov mesta 30 868,65 €.)
+   • na prepojenie parkovísk mestského úradu: Nový riadok – Hlavná v sume 30 000 € - Ide
+        o dotáciu z Ministerstva financií na základe rozhodnutia vlády pri zasadaní v obci Vyšný Orlík
+        pri Svidníku.,
+   • na úhradu výdavkov projektu: Novostavba materskej školy v meste Stropkov (MŠ Pod
+        Laščíkom) v sume 733,40 € - ide o nedočerpanie finančných prostriedkov, ktoré budú použité
+        na stanovený účel v roku 2026, (Celková dotácia v roku 2025 bola v sume 207 546,91 € z toho
+        čerpané bolo 206 813,51 €.),
+   • na úhradu výdavkov projektu: Modernizácia učební a športovísk v ZŠ Hrnčiarska v sume
+        79 945,44 € - ide o nedočerpanie finančných prostriedkov, ktoré budú použité na stanovený
+        účel v roku 2026. (Celková dotácia v roku 2025 bola v sume 279 746,34 € z toho čerpané bolo
+        199 800,90 €.).,
+   • na havarijný stav malej telocvične pri Základnej škole na ul. Hrnčiarskej v sume 18 860 €
+        od Regionálneho úradu školskej správy v Prešove.
+        Účty školstva:
+   • na odstránenie fyzických bariér pri základnej škole na ul. Konštantínova v sume 6 600 € - ide
+        účelové finančné prostriedky z Regionálneho úradu školskej správy v Prešove, ktoré budú
+        použité na stanovený účel v roku 2026.,
+   • na Projekt: Rekonštrukcia mestskej plavárne II. fáza, nová hydroizolačná vrstva detského
+        bazéna a sociálnych priestorov v sume 3 213,74 € - ide o zostatok finančných prostriedkov z
+        dotácie v čiastke 52 734,89 € od Ministerstva investícií regionálneho rozvoja a informatizácie
+        pre najmenej rozvinuté okresy pridelené cez Okresný úrad Stropkov, ktorý bude vrátený do ŠR
+        SR 8.9.2026.
+
+    Prevody z mimorozpočtových fondov rozpočtované v sume 262 000 € sa zvyšujú o 83 500 € na
+sumu 345 500 €. Rozpočtovaný je prevod finančných prostriedkov z Rezervného fondu.
+        Prostriedky rezervného fondu môže obec použiť výlučne na vykrytie schodku kapitálového
+rozpočtu (t.j. na kapitálové výdavky) a na splácanie návratných zdrojov financovania (napr. istiny
+bankového úveru, leasingu). Vyplýva to z ustanovenia § 10 odst. 7, zákona 583/2004 Z.z.
+o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov.
+        V parlamente 28.10.2025 bol schválený návrh poslancov Jána Ferenčáka a Štefana
+Gašparoviča aby výnimka používania rezervného fondu na bežné výdavky platila aj pre rok 2026.
+Poslanci schválili v záverečnom hlasovaní novelu zákon 583/2004 Z.z. , na používanie rezervného
+fondu na bežné a kapitálové výdavky natrvalo. Návratné zdroje na financovanie bežných výdavkov
+Ministerstvo financií neodporučilo a neboli predmetom rokovania.
+        Zákon 583/2024 Z. z. o rozpočtových pravidlách v znení neskorších zmien a predpisov bol
+novelizovaný zákonom č. 334/2025 Z. z. (ďalej len „novela zákona č. 583/2004 Z. z.“). Novela zákona
+č. 334/2005 Z. z. nadobudla účinnosť 1.1.2026.
+        Podľa nového ustanovenia § 10 ods. 7 a 9 vo vzťahu k použitiu prostriedkov rezervného fondu
+na úhradu bežných výdavkov a ustanovenia § 12 ods. 3 obec a vyšší územný celok nie sú povinné
+
+                                                                                            9
+uplatňovať vo vzťahu k použitiu prostriedkov rezervného fondu a zabezpečeniu vyrovnanosti
+bežného rozpočtu na základe rozhodnutia svojho zastupiteľstva.
+       Prevod finančných prostriedkov z Účelovej finančnej rezervy na monitorovanie        skládky
+Stropkov – Chotča nie je rozpočtovaný. Ide o refundáciu výdavkov vynaložených          z vlastných
+finančných prostriedkov mesta na monitorovanie skládky.
+
+   Iné príjmové finančné operácie rozpočtované v sume 60 € sa nemenia. Ide o prevod finančných
+zábezpek za prekopávky miestnych komunikácií.
+
+    Výdavková časť finančných operácií sa nemení a predstavuje sumu 299 076 €. Ide o položku
+splácanie istín z úverov, ktorá je rozpočtovaná v zmysle uzatvorených úverových zmlúv. Z tejto sumy
+splácanie úveru zo ŠFRB prijatého na výstavbu 34 nájomných bytov nad Obchodný dom MIER tvorí
+čiastku 17 237 €. Predmetný úver bude čerpaný až v roku 2027. Podľa zmluvy od otvorenia čerpacieho
+účtu dňa 28.7.2026 sme povinný splácať od nasledujúceho mesiaca istinu do 15. dňa. Lehota čerpania
+úveru je 24 mesiacov od otvorenia čerpacieho účtu.
+    Položka vrátenie finančnej zábezpeky rozpočtovaná sa nemení a predstavuje sumu 60 €. Ide
+o vrátenie finančných zábezpek za prekopávky miestnych komunikácií.
+
+   Výsledok finančných operácií je prebytok v sume 1 129 204 EUR.
+
+
+Stanoviská vedenia MsÚ, príslušných komisií a mestskej rady:
+Odborné stanovisko vedenia mestského úradu, zo dňa 24.11.2026
+Vedenie mesta nemá námietky k predloženému návrhu a odporúča MsZ schváliť:
+1.) Zmenu rozpočtu Mesta Stropkov pre rok 2026 rozpočtovým opatrením č. 8/2026 podľa
+    predloženého návrhu:
+2.) Použitie rezervného fondu na financovanie splátok úverov, na financovanie kapitálových
+    a bežných výdavkov rozpočtu v zmysle zákona č. 344/2025 Z.z., ktorým sa mení a dopĺňa
+    zákon č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení
+    niektorých zákonov v znení neskorších predpisov.
+
+ Stanovisko komisie pre financie a majetok mesta pri MsZ v Stropkove zo dňa ...12.2026:
+Komisia pre financie a majetok mesta -- k predloženému návrhu odporúča MsZ --
+1.) Zmenu rozpočtu Mesta Stropkov pre rok 2026 rozpočtovým opatrením č. 8/2026 podľa
+    predloženého návrhu.
+2.) Použitie rezervného fondu na financovanie splátok úverov, na financovanie kapitálových
+    a bežných výdavkov rozpočtu v zmysle zákona č. 344/2025 Z.z., ktorým sa mení a dopĺňa
+    zákon č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení
+    niektorých zákonov v znení neskorších predpisov.
+
+Stanovisko Mestskej rady v Stropkove zo dňa 4.12.2026:
+Mestská rada nemá námietky k predloženému návrhu odporúča MsZ schváliť:
+1.) Zmenu rozpočtu Mesta Stropkov pre rok 2026 rozpočtovým opatrením č. 8/2026 podľa
+    predloženého návrhu.
+2.) Použitie rezervného fondu na financovanie splátok úverov, na financovanie kapitálových
+    a bežných výdavkov rozpočtu v zmysle zákona č. 344/2025 Z.z., ktorým sa mení a dopĺňa
+    zákon č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení
+    niektorých zákonov v znení neskorších predpisov.
+
+
+
+
+                                                                                        10
+Návrh na uznesenie:
+Mestské zastupiteľstvo v Stropkove v zmysle § 11 odst. 4 písm. b) zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších zmien a v súlade s § 14 a v súlade s § 17 ods. 2 zákona
+583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých
+zákonov
+a.) schvaľuje
+1.) Zmenu rozpočtu Mesta Stropkov pre rok 2026 rozpočtovým opatrením č. 8/2026 podľa
+    predloženého návrhu.
+
+2.) Použitie rezervného fondu na financovanie splátok úverov, na financovanie kapitálových
+    a bežných výdavkov rozpočtu v zmysle zákona č. 344/2025 Z.z., ktorým sa mení a dopĺňa
+    zákon č. 583/2004 Z.z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení
+    niektorých zákonov v znení neskorších predpisov.
+
+
+
+
+Stropkov, 23.11.2026
+
+
+
+Vypracoval: Ing. Ján Polák
+           vedúci odboru financií
+           a správy daní
+
+
+
+
+                                                                                       11
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/db808a31-55e3-4bc0-be8d-27244cd5e1d8
+Rozpočet príjmov školstva pre rok 2026 - zmena rozpočtu RO č.8
+                                                                                                                                                                                                       Prenesené kompetencie
+                       212003         223001       223001       223002        223003      223003       242    292       292012      311         312001       312001       312001       312001       312001       312001       312001
+
+Prenesené                           Šk.,záp.,slu                              Stravné
+                       Nájomné           ž.        Rehabilit.   Zápisné        réžia    Stravné potr. úroky iné príjmy doborpisy   Granty     Transfery PK   Vzdel.p.     PO SZP       Dopravné     Učebnice      ŠvP          LV
+kompetencie
+I.ZŠ                      800                                                                                           2 263         80      1 011 758                   38 250        1 112         4 889           0        4 350
+II.ZŠ                                                                                                        2 000                   150      1 932 467                    5 625       24 819         9 127       6 150       10 050
+Hala - II ZŠ            5 000                                                                                                                    40 000
+III.ZŠ                  7 450         20 700                                                                                         700      1 360 219                    2 025        5 626  5 595              4 050        6 000
+Spolu PK ZŠ            13 250         20 700                0             0         0              0     0 2 000        2 263        930      4 344 444               0   45 900       31 557 19 611             10 200       20 400
+
+MŠ A. Hlinku                                                    24 600                                           51                1 800        782 524                    2 250           101          300
+MŠ Mat. slov.                                                   33 000                                           45                             879 988                    2 700           293          415
+Spolu PK MŠ                     0              0            0   57 600              0              0     0       96           0 1 800         1 662 512               0    4 950           394          715               0            0
+
+Spolu PK S a MŠ        13 250         20 700                0   57 600              0              0     0 2 096        2 263 2 730           6 006 956               0   50 850       31 951 20 326             10 200       20 400
+
+
+                                                                                                                                                                                                                     Originálne kompe
+Bazén                                               53 450                                                                                        25 000
+ŠKD pri I.ZŠ
+ŠKD pri II.ZŠ                                                   20 412
+ŠKD pri III.ZŠ                                                  13 176
+ŠJ I.ZŠ                                   300                                 12 000      90 000
+ŠJ II.ZŠ                                                                      15 000      20 000
+ŠJ III.ZŠ                             32 860                                  33 210      84 300
+ŠJ MŠ Ahlinku                                                                  5 300      53 000                           945
+ŠJ MŠ Mat.slov.                                                                6 700      63 800
+ŠJ -súkr. SOU
+CVČ pri I.ZŠ                                                                                                                                                  8 160
+CVČ pri II.ZŠ                                                     1 000                                                                                      16 218
+CVČ pri III.ZŠ                                                      500                                                                                      10 707
+ZCŠ - ŠKD
+ZCŠ - CVČ
+ZUŠ                                   33 180                                                                               582                                   659
+ZUŠ súkromná
+Transfer na CVČ inej
+obci
+Spolu OK                        0     66 340        53 450      35 088 72 210 311 100                    0          0   1 527             0       25 000 35 744                    0            0            0            0            0
+
+Spolu PK+OK          13 250 87 040 53 450 92 688 72 210 311 100              0 2 096                                    3 790 2 730           6 031 956 35 744            50 850       31 951 20 326             10 200       20 400
+Vypracoval: Ing. Želinská, Ing. Marošová, Barvirčáková, Mgr. Bujdošová, Ing. Polák
+Stropkov 03.11.2026
+mpetencie
+       312001        312001         312001       312001      312001         312001        312001        312001       312001        312        312         312        312            453                                     Rozpočet
+                                      PO           PO
+                                  Pedagogický Sebaobslužné PO Školský                                                                      Profesijný                             z predch.
+                                                                                                                                                                                                               Transfer z
+      HN-št.šk.p.   Stravné ŠR      asistent      úkony    podporný tím   NIVaM (MPC)    Odchodné      Rekreácia     VVP MŠ       zo ŠR      rozvoj     Zisk z PČ   Havarie         Roku                                         spolu
+                                                                                                                                                                                              Výnos dane       inej obce
+         8 732                     118 512        20 368       44 874        25 077        8 336                                  10 576                                           33 743                                       1 333 720
+           598                     108 636        10 184       22 437        76 973            0         3 000                    16 761                                           44 052                                       2 273 029
+                                                                                                                                                                                                                                   45 000
+           200                     103 698        24 265      44 874         25 864                      2 100                               1 750        3 812 127 000            48 213        15 060                         1 809 201
+         9 530                0    330 846        54 817     112 185        127 914        8 336         5 100                0   27 337     1 750        3 812 127 000           126 008        15 060                 0       5 460 950
+
+            116                     44 442        10 184       14 958        89 300        7 807                      8 400       15 160                                           38 781                                       1 040 774
+            149                     59 256        15 276       14 958       118 932                                  12 500                                                        10 054                                       1 147 566
+            265               0    103 698        25 460       29 916       208 232        7 807                 0   20 900       15 160            0           0             0    48 835                  0            0       2 188 340
+
+         9 795                0    434 544        80 277     142 101        336 146 16 143               5 100       20 900       42 497     1 750        3 812 127 000           174 843        15 060                 0       7 649 290
+
+
+nálne kompetencie
+                                                                                                                                                                                     3 214      152 200                           233 864
+                                                                                                                                                                                                 42 420                            42 420
+                                                                                                                                                                                                114 534                           134 946
+                                                                                                                                                                                                 73 932                            87 108
+                    115 360                                                                                                                                                        10 988        99 809                           328 457
+                    229 540                                                                                                                                                        16 109       110 353                           391 002
+                    146 340                                                                                                                                                        19 995        67 811                           384 516
+                     12 000                                                                                                                                                         9 035        78 573                           158 853
+                     16 000                                                                                                                                                         9 049        77 574                           173 123
+                                                                                                                                                                                                    634                               634
+                                                                                                                                                                                                 26 775                            34 935
+                                                                                                                                   3 000                                                         26 220           5 900            52 338
+                                                                                                                                   2 030                                                         18 220           3 350            34 807
+                                                                                                                                                                                                 85 290                            85 290
+                                                                                                                                                                                                 20 160                            20 160
+                                                                                                                                                                                                713 141                           747 562
+                                                                                                                                                                                                898 792                           898 792
+
+                                                                                                                                                                                                  1 000                             1 000
+                0   519 240                0            0             0              0             0             0            0    5 030            0           0             0    68 390     2 607 438           9 250         3 809 807
+
+         9 795      519 240        434 544        80 277     142 101        336 146 16 143               5 100       20 900       47 527     1 750        3 812 127 000           243 233     2 622 498           9 250       11 459 097
+Rozpočet výdavkov školstva pre rok 2026 - zmena rozpočtu RO č. 8
+
+                                    610         620          630       640           700    Rozpočet
+Prenesené kompetencie              Mzdy       Odvody      Prevádzka Transfery        KV        spolu
+I.ZŠ - I. stupeň                   297 930      108 355        15 000                           421 285
+I.ZŠ - II. stupeň                  531 134      219 707       122 772  19 962        18 860     912 435 1 333 720
+II.ZŠ - I. stupeň                  393 034      141 492        30 000                           564 526
+II.ZŠ - II. stupeň               1 046 222      375 668       256 117  30 496                 1 708 503 2 273 029
+III.ZŠ - I. stupeň                 259 968       90 989        93 110        0       11 660     455 727
+III.ZŠ - II. stupeň                764 406      277 760       304 051   7 257                 1 353 474 1 809 201
+MŠ A. Hlinku                       531 274      187 597       311 721  10 182                 1 040 774
+MŠ Mat. slov.                      655 075      235 192       249 832   1 547         5 920   1 147 566
+Športová hala - II. ZŠ              27 252        9 811         7 737     200                    45 000
+Spolu PK                         4 506 295    1 646 571     1 390 340  69 644        36 440   7 649 290
+
+Originálne kompetencie
+III.ZŠ - bazén                      66 132       23 146       136 172         500     7 914       233 864
+ŠKD pri I.ZŠ                        29 471        9 833         3 016         100                  42 420
+ŠKD pri II.ZŠ                       90 774       32 678        11 294         200                 134 946
+ŠKD pri III.ZŠ                      59 197       20 731         6 980         200                  87 108
+ŠJ I.ZŠ - I. stupeň                                                                                     0
+ŠJ I.ZŠ - II. stupeň                73 634      26 509        227 814         500                 328 457   328 457
+ŠJ II.ZŠ - I. stupeň                35 484      12 774         13 134         200                  61 592
+ŠJ II.ZŠ - II. stupeň               53 207      19 155        229 658         200    27 190       329 410   391 002
+ŠJ III.ZŠ - I. stupeň               51 612      18 065         20 430         200                  90 307
+ŠJ III.ZŠ - II. stupeň              38 924      13 643        241 442         200                 294 209   384 516
+ŠJ MŠ A. Hlinku                     50 286      17 670         86 610       4 287                 158 853
+ŠJ MŠ Mat. slov.                    50 769      18 279        101 399       2 676                 173 123
+CVČ pri I.ZŠ                         9 319       3 355         22 161         100                  34 935
+CVČ pri II.ZŠ                       27 097      11 043         14 198           0                  52 338
+CVČ pri III.ZŠ                      21 094       7 230          6 483           0                  34 807
+ZUŠ                                464 300     165 048        114 102       4 112                 747 562
+Spolu OK                         1 121 300     399 159      1 234 893      13 475    35 104     2 803 931
+
+Spolu PK + OK                    5 627 595    2 045 730     2 625 233      83 119    71 544    10 453 221
+
+ŠKD pri ZCŠ                                                                85 290                 85 290
+CVČ pri ZCŠ                                                                20 160                 20 160
+Spolu cirkevné zariadenia                 0           0                   105 450          0     105 450
+ZUŠ súkromná                                                              898 792                898 792
+ŠJ Súkromné SOU                                                               634                    634
+Transfery iným obciam                                                       1 000                  1 000
+
+Spolu OK                         1 121 300     399 159      1 234 893 1 019 351      35 104     3 809 807
+
+Spolu školstvo                   5 627 595    2 045 730     2 625 233 1 088 995      71 544    11 459 097
+
+Vypracoval: Ing. Želinská, Ing. Marošová, Barvirčáková, Mgr. Bujdošová, Ing. Polák
+Stropkov, 03.11.2026
+Rozpočet výdavkov školstva pre rok 2026 - RO č. 8
+- sumár do rozpočtu
+
+                                     610        620           630       640          700    Rozpočet
+Prenesené kompetencie               Mzdy      Odvody       Prevádzka Transfery       KV        spolu
+Spolu PK ZŠ                       3 292 694   1 213 971        821 050  57 715       30 520   5 415 950
+Spolu PK MŠ                       1 186 349     422 789        561 553  11 729        5 920   2 188 340
+Športová hala - II. ZŠ               27 252       9 811          7 737     200            0      45 000
+III.ZŠ - bazén                       66 132      23 146        136 172     500        7 914     233 864
+Spolu PK                          4 572 427   1 669 717      1 526 512  70 144       44 354   7 883 154
+
+Originálne kompetencie:
+ŠKD ZŠ                              179 442      63 242         21 290        500         0      264 474
+ZUŠ                                 464 300     165 048        114 102      4 112         0      747 562
+ŠJ pri ZŠ                           252 861      90 146        732 478      1 300    27 190    1 103 975
+ŠJ pri MŠ                           101 055      35 949        188 009      6 963         0      331 976
+CVČ pri ZŠ                           57 510      21 628         42 842        100         0      122 080
+Spolu OK                          1 055 168     376 013      1 098 721     12 975    27 190    2 570 067
+
+Spolu PK + OK                     5 627 595   2 045 730      2 625 233     83 119    71 544   10 453 221
+
+
+ZCŠ
+ŠKD pri ZCŠ                                                                85 290                85 290
+CVČ pri ZCŠ                                                                20 160                20 160
+Spolu cirkevné zariadenia                 0            0                  105 450         0     105 450
+ZUŠ súkromná                                                              898 792               898 792
+ŠJ Súkromné SOU                                                               634                   634
+Transfery iným obciam                                                       1 000                 1 000
+
+Spolu školstvo                    5 627 595   2 045 730      2 625 233 1 088 995     71 544   11 459 097
+                                                                                              11 459 097
+
+Kapitálové výdavky:
+I.ZŠ
+Odstránenie HS malej telocvične                               18 860 €
+
+II. ZŠ
+Umývačka riadu                                                 3 690 €
+Konvektomat                                                   23 500 €
+                                                              27 190 €
+III. ZŠ
+Odstránenie fyzických bariér                                   6 600 €
+Stropný el. zdvihák                                            5 060 €
+Vrátka dotácie MIRRI do ŠR                                     3 214 €
+Účelová dotácia z rozpočtu
+mesta Stropkov na
+rekonštrukciu stropu v krytej
+plavárni                                                       4 700 €
+                                                              19 574 €
+ZUŠ F. Veselého
+
+MŠ MS
+Vstupná posuvná el. brána                                      5 920 €
+MŠ AH
+
+Spolu                                                         71 544 €
+
+Vypracoval: Ing. Želinská, Ing. Marošová, Barvirčáková, Mgr. Bujdošová, Ing. Polák
+Stropkov, 03.11.2026
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/0de8fba0-333f-4c28-a99c-39fe0683f54c
+                                                                                                                       Príloha č.1
+
+  Rekapitulácia transferov podľa jednotlivých stredísk pre mestský podnik SLUŽBA na rok 2026 v EUR - úprava rozpočtu r.o. č.8
+
+                                        Bežný transfer                                   Kapitálový transfer               Transfer spolu
+                         Požiadavka   Požiadavka                       Požiadavka Požiadavka                             Schválený       Úprava
+                         z rozpočtu   z rozpočtu Požiadavka Požiadavka z rozpočtu z rozpočtu Požiadavka z Požiadavka   rozpočet spolu rozpočtu spolu
+Stredisko
+                             m.p.        m.p.     z MsÚ -    z MsÚ -       m.p.      m.p.       MsÚ -      z MsÚ -
+                         SLUŽBA -     SLUŽBA - schválený      úprava   SLUŽBA- SLUŽBA - schválený           úprava
+                          schválený     úprava    rozpočet   rozpočtu   schválený   úprava     rozpočet    rozpočtu
+                           rozpočet    rozpočtu                          rozpočet  rozpočtu
+
+Letné kúpalisko             35 000       35 000                                                                               35 000        35 000
+Zimný štadión               46 050       46 050                                                                               46 050        46 050
+Verejné osvetlenie         119 400      119 400                             4 318      4 318       3 998       3 998         127 716       127 716
+Dom nádeje                       0            0                                                                                    0             0
+Cintorín                    36 000       36 000                                                                               36 000        36 000
+Park zvierat                70 000       70 000                                                                               70 000        70 000
+Verejná zeleň               73 198       73 198                                                                               73 198        73 198
+Čistenie a údržba MK       170 000      170 000       12 700   12 700                                  0     58 335          182 700       241 035
+ - Stropkovský jarmok            0            0                                                                                    0             0
+Vývoz odpadu +
+separovaný zber            280 000      280 000                            60 804     60 804                                 340 804       340 804
+Skládka BRO                 35 000       35 000                                                                               35 000        35 000
+Verejné WC - Námestie
+SNP                         12 000      12 000                                                                                12 000        12 000
+Verejné WC - SAD            11 000      11 000                                                                                11 000        11 000
+Futbalový štadion           59 800      59 800                                                     4 000      4 000           63 800        63 800
+SPOLU                      947 448     947 448        12 700   12 700      65 122     65 122       7 998     66 333        1 033 268     1 091 603
+Schválený rozpočet                    960 148                                        73 120                                1 033 268
+Úprava rozpočtu                             960 148                                 131 455                                               1 091 603
+
+
+Stropkov, 24.11.2026
+Vypracoval: Ing. Ján Polák
+            vedúci odboru financií
+            a správy daní
+

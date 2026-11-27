@@ -1,0 +1,613 @@
+URL: https://cuet.slovensko.sk/en/dokument/966811f0-a5ce-4f54-9519-d84f7565e6e4
+OBEC: Hlinné (Vranov nad Topľou)
+NÁZOV: Návrh Všeobecné záväzné nariadenie obce Hlinné č.22027
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/966811f0-a5ce-4f54-9519-d84f7565e6e4
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh Všeobecné záväzné nariadenie obce Hlinné č.22027
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Hlinné
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Hlinné
+Published to:
+Registry case:
+Name of official document:
+Návrh Všeobecné záväzné nariadenie obce Hlinné č.22027
+Document abstract:
+o miestnych daniach a miestnom poplatku za komunálné odpady a drobné stavebné odpady na území obce Hlinné
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+vzn_mietne_dane_a_poplatky.pdf
+Type and size:
+.pdf, 689.99 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/530e4ea8-7a98-4fda-9946-dd544073e0e2
+                            OBEC                   HLINNÉ
+                              Obecný úrad Hlinné č. 74, 094 35 Hlinné
+
+
+
+
+                  Návrh
+  Všeobecne záväzné nariadenie obce Hlinné
+                 č. 2/2027
+
+o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné
+                             odpady na území obce Hlinné
+
+
+Návrh VZN:
+-vyvesený na úradnej tabuli obce dňa:                          27.11.2026
+- zverejnený na internetovej adrese obce dňa:                  27.11.2026
+Lehota na predloženie pripomienok k návrhu VZN: do (vrátane)   08.12.2026
+Obecné zastupiteľstvo v Hlinnom na základe § 6 zák. SNR č. 369/1990 Zb. o obecnom zriadení
+v znení neskorších predpisov a v súlade so zákonom č. 582/2004 Z. z. o miestnych daniach a
+ miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších
+predpisov a podľa § 78 ods. 1 písm. c) zákona č. 582/2004 Z. z. o miestnych daniach a miestnom
+poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov
+                                           vydáva
+
+
+
+   Všeobecne záväzné nariadenie obce Hlinné
+                  č. 2/2027
+
+o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné
+                                   odpady na území obce Hlinné
+
+
+                                               I. č a s ť
+                                                 Čl. 1
+                                        ÚVODNÉ USTANOVENIA
+          (1) Toto všeobecne záväzné nariadenie (ďalej len "VZN") upravuje podrobne podmienky
+ukladania miestnych daní a miestneho poplatku za komunálne odpady a drobné stavebné odpady (ďalej
+len "miestne dane a poplatok") na území obce Hlinné. Pokiaľ v tomto všeobecne záväznom nariadení nie
+je podrobnejšia úprava, odkazuje sa na zákon č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku
+za komunálne odpady a drobné stavebné odpady (ďalej len "zákon o miestnych daniach") a na zákon
+č.563/2009 Z.z. o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov.
+         (2) Obec Hlinné na svojom území ukladá tieto miestne dane:
+a/ daň z nehnuteľností,
+b/ daň za psa,
+c/ daň za užívanie verejného priestranstva,
+d/ daň za ubytovanie.
+e/ daň za predajné automaty
+f/ daň za nevýherné hracie prístroje,
+         (3) Obec Hlinné na svojom území ukladá miestny poplatok za komunálne odpady a drobné
+stavebné odpady.
+         (4) Zdaňovacie obdobie je uvedené v ustanovení § 3 nasl. zákona o miestnych daniach.
+
+
+
+
+                                                                                                    2
+                                                                      II. č a s ť
+                                                                   Miestne dane
+                                                                         Čl. 2
+                                                             Daň z nehnuteľností
+           (1) Daň z nehnuteľností zahŕňa:
+a/ daň z pozemkov,
+b/ daň zo stavieb,
+c/ daň z bytov a z nebytových priestorov v bytovom dome (ďalej len "daň z bytov").
+
+
+                                                                         Čl. 3
+                                                                Daň z pozemkov
+             (1) Daňovníkom dane z pozemkov sú tí, ktorí sú uvedení v ustanovení § 5 zákona o miestnych
+daniach.
+              (2) Predmetom dane z pozemkov sú pozemky na území obce Hlinné v členení podľa § 6 zákona
+o miestnych daniach.
+              (3) Daň z pozemkov sa vypočíta ako súčin základu dane a ročnej sadzby dane z pozemkov.
+              (4) Základ dane z pozemkov je pre jednotlivé druhy pozemkov nasledovný:
+a/ orná pôda, chmeľnice, vinice, ovocné sady je hodnota pozemku bez porastov určená vynásobením
+výmery pozemkov v m2 a hodnoty pôdy ............................................................................0,1397 € za 1 m2
+b/ trvalé trávne porasty je hodnota pozemku bez porastov určená vynásobením výmery pozemkov v m2
+a hodnoty pôdy .....................................................................................................................0,0438 € za 1 m2
+c/ záhrady .................................................................................................................................1,85 € za 1 m2
+d/ lesné pozemky, na ktorých sú hospodárske lesy je hodnota pozemku bez porastov určená vynásobením
+výmery pozemkov v m2 a hodnoty pozemku ......................................................................0,0710 € za 1 m2
+e/ rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy je hodnota pozemku bez porastov
+určená vynásobením výmery pozemkov v m2 a hodnoty pozemku ....................................0,0438 € za 1 m2
+f/ zastavané plochy a nádvoria, ostatné plochy je hodnota pozemku určená vynásobením výmery
+pozemkov v m2 a hodnoty pozemkov .....................................................................................1,85 € za 1 m2
+g/ stavebné pozemky je hodnota pozemku určená vynásobením výmery pozemkov v m2 a hodnoty
+pozemkov ...............................................................................................................................18,58 € za 1 m2
+h/ základom dane z pozemkov podľa § 6 ods. 1 zákona o miestnych daniach , na ktorých sa nachádza
+transformačná stanica alebo predajný stánok slúžiaci k predaju tovaru a poskytovaniu služieb (ďalej len
+"predajný stánok"), je hodnota pozemku určená vynásobením skutočnej výmery transformačnej stanice
+alebo predajného stánku v m2 a hodnoty pozemku za 1 m2 pre stavebné pozemky.
+
+
+
+
+                                                                                                                                                        3
+           (5) Ročná sadzba dane z pozemkov je pre jednotlivé druhy pozemkov nasledovná
+a/ orná pôda, chmeľnice, vinice, ovocné sady                                                            0,65 % zo základu dane
+b/ trvalé trávne porasty                                                                                0,65 % zo základu dane
+c/ záhrady                                                                                              0,455 % zo základu dane
+d/ lesné pozemky, na ktorých sú hospodárske lesy                                                        0,65 % zo základu dane
+e/ rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy                                    0,65 % zo základu dane
+f/ zastavané plochy a nádvoria, ostatné plochy                                                         0,455 % zo základu dane
+g/ stavebné pozemky                                                                                     0,455 % zo základu dane
+
+
+                                                                 Čl. 4
+                                                          Daň zo stavieb
+           (1) Daňovníkom dane zo stavieb sú tí, ktorí sú uvedení v ustanovení § 9 zákona o miestnych
+daniach.
+            (2) Predmet dane zo stavieb je uvedený v ustanovení § 10 zákona o miestnych daniach.
+            (3) Základom dane zo stavieb je výmera zastavanej plochy v m2 a uvedené v ustanovení § 11
+zákona o miestnych daniach.
+           (4) Ročná sadzba dane zo stavieb je za každý aj začatý m2 zastavanej plochy nasledovná:
+a/ za stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú stavbu .............0,091 €
+b/ za stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné hospodárstvo, stavby využívané
+na skladovanie vlastnej pôdohospodárskej produkcie vrátane stavieb na vlastnú administratívu ......0,091 €
+c/ za chaty a stavby na individuálnu rekreáciu ...................................................................................0,325 €
+d/ samostatne stojace garáže, stavby hromadných garáží .................................................................. 0,325 €
+e/ za priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu, stavby využívané na
+skladovanie vlastnej produkcie vrátane stavieb na vlastnú administratívu ...........................................0,39 €
+f/ za stavby na ostatné podnikanie                 a na zárobkovú činnosť, skladovanie a administratívu súvisiacu
+s ostatným podnikaním a so zárobkovou činnosťou .............................................................................0,39 €
+g/ ostatné stavby neuvedené v písmenách a/ až g/ .............................................................................0,325 €
+            (5) Pri viacpodlažných stavbách určuje príplatok za podlažie v sume 0,053 € za každé ďalšie
+podlažie okrem prvého nadzemného podlažia.
+
+
+                                                                 Čl. 5
+                                                            Daň z bytov
+           (1) Daňovníkom dane z bytov sú tí, ktorí sú uvedení v ustanovení § 13 zákona o miestnych
+daniach. Daň z bytov sa vypočíta ako súčin základu dane a ročnej sadzby dane z bytov.
+           (2) Predmet dane je uvedený v ustanovení § 14 zákona o miestnych daniach.
+           (3) Základom dane z bytov je výmera podlahovej plochy bytu alebo nebytového priestoru v m2.
+
+
+                                                                                                                                       4
+           (4) Ročná sadzba dane z bytov je 0,091 € za každý aj začatý m2 zastavanej plochy bytu
+a nebytového priestoru.
+
+
+                                                  Čl. 6
+                             Spoločné ustanovenia pre daň z nehnuteľností
+ Oslobodenie od dane a zníženie dane podľa § 17 ods. 2, ods. 3 a nasl. zákona o miestnych daniach
+
+
+           (1) Na území Obce Hlinné sa ustanovuje oslobodenie od dane z pozemkov pre:
+a/ pozemky, stavby, byty a nebytové priestory vo vlastníctve obce,
+b/ pozemky vo vlastníctve právnických osôb, ktoré nie sú založené alebo zriadené na podnikanie,
+c/ pozemky verejne prístupných parkov, priestorov a športovísk,
+d/ pozemky na ktorých je cintorín,
+e/ časti pozemkov, na ktorých sú zriadené meračské značky, stožiare rozvodov elektrickej energie, stĺpy
+telekomunikačného vedenia a televízne rozvádzače
+       (2) Na území Obce Hlinné sa ustanovuje zníženie dane z pozemkov vo výške 50 % pre:
+a/ pozemky, ktorých vlastníkmi sú fyzické osoby staršie ako 70 rokov, ak tieto pozemky slúžia výhradne
+na ich osobnú potrebu,
+       (3) Na území Obce Hlinné sa ustanovuje zníženie dane zo stavieb alebo od dane z bytov vo výške
+50 % pre:
+a/ garáže a nebytové priestory v bytových domoch slúžiace ako garáž vo vlastníctve fyzických osôb
+starších ako 70 rokov.
+       (4) Daňovník uplatní nárok na zníženie dane alebo oslobodenie od dane v priznaní k dani z
+nehnuteľností, k dani za psa, k dani za predajné automaty a k dani za nevýherné hracie prístroje alebo v
+čiastkovom priznaní na to zdaňovacie obdobie, na ktoré mu prvýkrát vzniká nárok na zníženie dane alebo
+oslobodenie od dane, najneskôr v lehote podľa § 99a ods. 1 zákona o miestnych daniach, inak nárok na
+príslušné zdaňovacie obdobie zaniká.
+
+
+                                                  Čl. 7
+                                     Vznik a zánik daňovej povinnosti
+       (1) Vznik a zánik daňovej povinnosti je uvedené v ustanovení § 18 a nasl. zákona o miestnych
+daniach.
+                                                  Čl. 8
+                                 Splatnosť a platenie dane v splátkach
+       (1) Splatnosť a platenie dane v splátkach (tj. za vyrubenú daň z nehnuteľností, daň za psa, daň za
+predajné automaty a daň za nevýherné hracie prístroje) je uvedené v ustanovení § 99g a nasl. zákona
+o miestnych daniach.
+
+                                                                                                       5
+                                                   Čl. 9
+                                                Daň za psa
+        (1) Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou osobou alebo
+právnickou osobou. Predmetom dane za psa nie je pes uvedený v ustanovení § 22 ods. 2. zákona
+o miestnych daniach.
+        (2) Daňovníkom je fyzická osoba alebo právnická osoba, ktorá je
+a) vlastníkom psa alebo
+b) držiteľom psa, ak sa nedá preukázať, kto psa vlastní.
+        (3) Základom dane je počet psov.
+        (4) Sadzba dane je 5,- € za jedného psa a kalendárny rok.
+        (5) Daňová povinnosť vzniká prvým dňom kalendárneho mesiaca nasledujúceho po mesiaci,
+v ktorom sa pes stal predmetom dane podľa § 22 ods. 1 zákona o miestnych daniach a zaniká posledným
+dňom mesiaca, v ktorom pes prestal byť predmetom dane.
+        (6) Na území Obce Hlinné sa ustanovuje 50 % zníženia od dane za psa pre:
+a/ psa, ktorého vlastní alebo používa držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím
+alebo držiteľ preukazu fyzickej osoby s ťažkým zdravotným postihnutím so sprievodcom.
+
+
+                                                   Čl. 10
+                                 Daň za užívanie verejného priestranstva
+        (1) Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného
+priestranstva. Miesta, ktoré sú verejnými priestranstvami sú:
+a/ všetky miestne komunikácie v celej svojej dĺžke a v šírke (od krajnice po krajnicu),
+b/ chodník, príp. časť cesty, alebo iná plocha určená pre chodcov na celom území obce,
+c/ verejne prístupné priestranstvá,
+d/ trhovisko.
+        (2) Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného
+priestranstva.
+         (3) Osobitným užívaním verejného priestranstva sa rozumie umiestnenie zariadenia slúžiaceho na
+poskytovanie služieb, umiestnenie stavebného zariadenia, predajného zariadenia, zariadenia cirkusu,
+zariadenia lunaparku a iných atrakcií, umiestnenie skládky, trvalé parkovanie vozidla mimo stráženého
+parkoviska a podobne. Osobitným užívaním verejného priestranstva nie je užívanie verejného
+priestranstva v súvislosti s odstránením poruchy alebo havárie rozvodov a verejných sietí.
+          (4) Daňovníkom je fyzická osoba alebo právnická osoba, ktorá verejné priestranstvo užíva.
+         (5) Základom dane za užívanie verejného priestranstva je výmera užívaného verejného
+priestranstva v m2.
+         (6) Sadzbu dane za užívanie verejného priestranstva je za každý aj začatý m2 osobitne užívaného
+verejného priestranstva za účelom:
+
+                                                                                                      6
+            služby a predaja je 0,70 €/m2 za každý aj začatý deň,
+    b)      umiestnenia stavebného zariadenia (napr. lešenia, stavebný mechanizmus a pod.), alebo skládky
+            stavebného materiálu alebo iných skládok je 0,20 €/m2 za každý aj začatý deň,
+    c)      umiestnenie lunaparku, cirkusu a iných atrakcií je 0,30 €/m2 za každý aj začatý deň,
+    d) trvalé parkovanie motorového vozidlá mimo stráženého parkoviska je 0,20 €/m2 za každý
+            aj začatý deň.
+    e) počas podujatí konaných na území obce je 0,30 €/m2 za každý aj začatý deň,
+            (7) Daňová povinnosť vzniká dňom začatia osobitného užívania verejného priestranstva a zaniká
+dňom skončenia osobitného užívania verejného priestranstva. Daňovník je povinný oznámiť svoj zámer
+osobitného užívania verejného priestranstva správcovi dane najneskôr v deň vzniku daňovej povinnosti.
+Ak daňová povinnosť zanikne a daňovník oznámi túto skutočnosť správcovi dane do 30 dní odo dňa
+zániku daňovej povinnosti, správca dane vráti pomernú časť dane za zostávajúce dni, za ktoré bola daň
+zaplatená. Nárok na vrátenie pomernej časti dane zaniká, ak daňovník v uvedenej lehote zánik daňovej
+povinnosti neoznámi.
+            (8) Obec vyrubí daň rozhodnutím najskôr v deň vzniku daňovej povinnosti. Platenie dane sa
+určuje takto: Obec môže určiť splátky dane a lehotu ich splatnosti v rozhodnutí. Daňovník môže vyrubenú
+daň, ktorá bola rozhodnutím obce určená v splátkach, zaplatiť aj naraz najneskôr v lehote splatnosti prvej
+splátky.
+
+
+                                                     Čl. 11
+                                             Daň za ubytovanie
+(1) Predmetom dane za ubytovanie je odplatné prechodné ubytovanie podľa § 754 až 759 Občianskeho
+zákonníka v ubytovacom zariadení (ďalej len "zariadenie"), ktorým je hotel, motel, botel, hostel, penzión,
+apartmánový dom, kúpeľný dom, liečebný dom, ubytovacie zariadenie prírodných liečebných kúpeľov
+a kúpeľných liečební, turistická ubytovňa, chata, stavba na individuálnu rekreáciu, zrub, bungalov,
+kemping, minikemp, táborisko, rodinný dom, byt v bytovom dome, v rodinnom dome alebo v stavbe
+slúžiacej na viaceré účely.
+           (2) Daňovníkom je fyzická osoba, ktorá sa v zariadení odplatne prechodne ubytuje.
+           (3) Základom dane je počet prenocovaní.
+           (5) Platiteľom dane je prevádzkovateľ zariadenia, ktorý odplatné prechodné ubytovanie poskytuje.
+           (6) Obec ustanovuje:
+    a) Náležitosti oznamovacej povinnosti platiteľa dane: oznámi správcovi dane počet osôb, počet
+           prenocovaní za predošlý kalendárny mesiac, sumu celkovej výšky dane.
+    b) lehotu oznamovacej povinnosti platiteľa dane: do 7 pracovných dní od skončenia predošlého
+           kalendárneho mesiaca.
+    c) sadzbu dane: 0,50 € na osobu a prenocovanie.
+
+
+
+                                                                                                         7
+    d) rozsah vedenia preukaznej evidencie na účely dane: Platiteľom dane je povinný viesť evidenciu
+        ubytovaných osôb (ďalej len kniha ubytovaných), ktorá obsahuje najmä:
+                                -    meno a priezvisko, dátum narodenia, trvalý pobyt (prípadne aktuálna
+                                     adresa na doručovanie) všetkých ubytovaných,
+                                -    miesto ubytovania,
+                                -    deň príchodu, deň odchodu, počet prenocovaní.
+    e) spôsob vedenia preukaznej evidencie na účely dane: kniha ubytovaných sa vedie v písomnej
+        a elektronickej forme
+    f) spôsob vyberania dane: v hotovosti, alebo prevodom na účet.
+    g) náležitosti potvrdenia o zaplatení dane: označenie, že ide o daň z ubytovania, identifikácia
+        správcu dane, identifikácia platiteľa dane, identifikácia daňovníka (ubytovaného), deň príchodu,
+        deň odchodu, počet prenocovaní, výška dane.
+    h) lehoty odvodu dane obci: do 12 pracovných dní od predošlého príslušného kalendárneho mesiaca.
+    i) spôsoby jej odvodu dane obci: v hotovosti, alebo prevodom na účet.
+
+
+                                                  Čl. 12
+                                        Daň za predajné automaty
+       (1) Predmetom dane za predajné automaty sú prístroje a automaty, ktoré vydávajú tovar za
+odplatu (ďalej len "predajné automaty") a sú umiestnené v priestoroch prístupných verejnosti.
+       (2) Daňovníkom je fyzická osoba alebo právnická osoba, ktorá predajné automaty prevádzkuje.
+       (3) Základom dane je počet predajných automatov.
+       (4) Sadzba dane sa určuje:
+          a) 35,- € - za jeden predajný automat a kalendárny rok za predajný automat obsahujúci v
+           skladbe ponúkaného tovaru najviac 10 druhov tovaru,
+           b)   70,- € - za predajný automat s viac ako 10 druhmi tovaru.
+           c)   Sadzba poplatku sa zvyšuje na päťnásobok, ak skladba ponúkaného tovaru obsahuje
+           cigarety alebo alkohol.
+        (5) Oznamovaciu povinnosť si daňovník musí splniť písomným oznámením, ktoré doručí osobne
+alebo doporučeným listom na obec Hlinné – Obecný úrad Hlinné 74. Písomné oznámenie pri vzniku
+daňovej povinnosti obsahuje - identifikačné údaje daňovníka, identifikáciu prístroja a automatu, miesto
+prevádzkovania, dátum vzniku prevádzkovania. Písomné oznámenie pri zániku daňovej povinnosti
+obsahuje - identifikačné údaje daňovníka, identifikáciu prístroja a automatu, miesto doterajšieho
+prevádzkovania, dátum zániku prevádzkovania.
+       (6) Určuje sa rozsah a spôsob vedenia preukaznej evidencie na účely dane. Daňovník je povinný
+viesť písomnú evidenciu v tomto rozsahu: názov daňovníka, sídlo, IČO:,DIČ:, výrobné číslo prístroja a
+automatu, typ prístroja a automatu, evidenčné číslo pridelené správcom dane (pozn. ak bude pridelené),
+
+
+                                                                                                      8
+dátum v ktorom sa predajný prístroj a automat začal prevádzkovať, miesto kde je umiestnený prístroj a
+automat, začiatok a ukončenie prevádzky prístroj a automat.
+        (7)    Daňovník je povinný každý prístroj a automat označiť na viditeľnom mieste pevne
+prichyteným štítkom, ktorý obsahuje: názov daňovníka, sídlo, IČO:,DIČ:, výrobné číslo prístroja a
+automatu, typ prístroja a automatu, evidenčné číslo pridelené správcom dane (pozn. ak bude pridelené),
+dátum v ktorom sa prístroj a automat začal prevádzkovať, miesto kde je umiestnený prístroj a automat.
+
+
+                                                   Čl. 13
+                                   Daň za nevýherné hracie prístroje
+          (1) Predmetom dane za nevýherné hracie prístroje sú hracie prístroje, ktoré sa spúšťajú alebo
+prevádzkujú za odplatu, pričom tieto hracie prístroje nevydávajú peňažnú výhru a sú prevádzkované
+v priestoroch prístupných verejnosti (ďalej len "nevýherné hracie prístroje").
+         (2) Nevýherné hracie prístroje sú:
+a) elektronické prístroje na počítačové hry,
+b) mechanické prístroje, elektronické prístroje, automaty a iné zariadenia na zábavné hry.
+         (3) Daňovníkom je fyzická osoba alebo právnická osoba, ktorá nevýherné hracie prístroje
+prevádzkuje.
+         (4) Základom dane je počet nevýherných hracích prístrojov.
+         (5) Sadzba dane je 35 € za jeden nevýherný hrací prístroj a kalendárny rok.
+         (6) Oznamovaciu povinnosť si daňovník musí splniť písomným oznámením, ktoré doručí osobne
+alebo doporučeným listom na obec Hlinné – Obecný úrad Hlinné 74. Písomné oznámenie pri vzniku
+daňovej povinnosti obsahuje - identifikačné údaje daňovníka, identifikáciu nevýherného hracieho
+prístroja, miesto prevádzkovania, dátum vzniku prevádzkovania. Písomné oznámenie pri zániku daňovej
+povinnosti obsahuje identifikačné údaje daňovníka, identifikáciu nevýherného hracieho prístroja, miesto
+doterajšieho prevádzkovania, dátum zániku prevádzkovania.
+         (7) Určuje sa rozsah a spôsob vedenia preukaznej evidencie na účely dane. Daňovník je povinný
+viesť písomnú evidenciu v tomto rozsahu: názov daňovníka, sídlo, IČO:, DIČ:, výrobné číslo prístroja, typ
+prístroja, evidenčné číslo pridelené správcom dane (pozn. ak bude pridelené), dátum v ktorom sa predajný
+prístroja začal prevádzkovať, miesto kde je umiestnený prístroj, začiatok a ukončenie prevádzky prístroja.
+         (8) Daňovník je povinný každý nevýherný hrací prístroj označiť na viditeľnom mieste pevne
+prichyteným štítkom, ktorý obsahuje: názov daňovníka, sídlo, IČO:, DIČ:, výrobné číslo prístroja, typ
+prístroja, evidenčné číslo pridelené správcom dane (pozn. ak bude pridelené), dátum v ktorom sa predajný
+prístroja začal prevádzkovať, miesto kde je umiestnený prístroj.
+
+
+                                                 III. č a s ť
+                      Poplatok za komunálne odpady a drobné stavebné odpady
+                                                   Čl. 14
+                                                                                                         9
+         (1) Poplatok sa platí za:
+         a) činnosti nakladania so zmesovým komunálnym odpadom,
+         b) činnosti nakladania s biologicky rozložiteľným komunálnym odpadom,
+         c) triedený zber zložiek komunálneho odpadu, na ktoré sa nevzťahuje rozšírená zodpovednosť
+výrobcov,
+         d) náklady spôsobené nedôsledným triedením oddelene zbieraných zložiek komunálneho
+odpadu, na ktoré sa vzťahuje rozšírená zodpovednosť výrobcov a
+         e) náklady presahujúce výšku obvyklých nákladov podľa osobitného predpisu (§ 59 ods. 8
+zákona č.79/2015 Z.z. o odpadoch v znení neskorších predpisov).
+         (2) Ak ďalej nie je ustanovené inak, poplatok platí poplatník uvedený v ustanovení § 77 ods. 2
+zákona o miestnych daniach, ktorým je:
+         a) fyzická osoba, ktorá má v obci trvalý pobyt alebo prechodný pobyt alebo ktorá je na území
+obce oprávnená užívať alebo užíva byt, nebytový priestor, pozemnú stavbu alebo jej časť, alebo objekt,
+ktorý nie je stavbou, alebo záhradu, vinicu, ovocný sad, trvalý trávny porast na iný účel ako na
+podnikanie, pozemok v zastavanom území obce okrem lesného pozemku a pozemku, ktorý je evidovaný v
+katastri nehnuteľností ako vodná plocha (ďalej len "nehnuteľnosť"),
+         b) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa na
+území obce na iný účel ako na podnikanie,
+         c) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území
+obce na účel podnikania.
+         (3) Poplatok od poplatníka v ustanovenej výške pre obec vyberá a za vybraný poplatok ručí:
+a/ vlastník nehnuteľnosti; ak je nehnuteľnosť v spoluvlastníctve viacerých spoluvlastníkov alebo ak ide o
+bytový dom, poplatok vyberá a za vybraný poplatok ručí zástupca alebo správca určený spoluvlastníkmi,
+ak s výberom poplatku zástupca alebo správca súhlasí,
+b/ správca, ak je vlastníkom nehnuteľnosti štát, vyšší územný celok alebo obec (ďalej len "platiteľ").
+         (4) Platiteľ a poplatník sa môžu písomne dohodnúť, že poplatok obci odvedie priamo poplatník;
+za odvedenie poplatku obci ručí platiteľ. Poplatková povinnosť vzniká dňom, ktorým nastane skutočnosť
+uvedená v odseku 2 a zaniká dňom, ktorým táto skutočnosť zanikne.
+         (5) Sadzba poplatku je:
+a/ u fyzických osôb ako súčin sadzby poplatku 0,0822 € za osobu a kalendárne dni v roku
+pri 2-týždňovom intervale vývozu, t.j. 30,00 € za rok
+  u fyzických osôb ako súčin sadzby poplatku 0,1151 € za osobu a kalendárne dni v roku
+pri 1-týždňovom intervale vývozu, t.j 42,01 € za rok
+b/ u právnických osôb a podnikateľov je v obci zavedený množstvový zber. Poplatok sa určí ako súčin
+frekvencie odvozov (2-týždňový interval), sadzby 0,0700 € za 1 liter komunálnych odpadov a drobných
+
+
+
+                                                                                                         10
+stavebných odpadov a objemu zbernej nádoby, ktorú poplatník užíva v súlade so zavedeným systémom
+zberu komunálnych odpadov a drobných stavebných odpadov, t.j. 200,20 € za rok
+c/ u množstvového zberu drobného stavebného odpadu stanovená na 0,0850 € za kilogram drobných
+stavebných odpadov bez obsahu škodlivín max. 500 kg za zdaňovacie obdobie na 1 domácnosť.
+           (6) Poplatník je povinný v priebehu zdaňovacieho obdobia oznámiť obci vznik poplatkovej
+povinnosti do 30 dní odo dňa vzniku poplatkovej povinnosti a
+          a) uviesť meno, priezvisko, titul, rodné číslo, adresu trvalého pobytu, adresu prechodného pobytu
+(ďalej len "identifikačné údaje"); v prípade určeného zástupcu podľa § 77 ods. 7 zákona o miestnych
+daniach aj identifikačné údaje za ostatných členov domácnosti, a ak je poplatníkom osoba podľa § 77 ods.
+2 písm. b) alebo písm. c) zákona o miestnych daniach, názov alebo obchodné meno alebo dodatok
+obchodného mena, sídlo alebo miesto podnikania a identifikačné číslo,
+          b) uviesť údaje rozhodujúce na určenie poplatku,
+          c) ak požaduje zníženie alebo odpustenie poplatku podľa § 82 zákona o miestnych daniach,
+predložiť aj doklady, ktoré odôvodňujú zníženie alebo odpustenie poplatku.
+           (7) Zmeny skutočností rozhodujúcich na vyrubenie poplatku a zánik poplatkovej povinnosti v
+priebehu zdaňovacieho obdobia je poplatník povinný oznámiť obci do 30 dní odo dňa, keď tieto nastali.
+           (8) Poplatok obec vyrubuje každoročne rozhodnutím na celé zdaňovacie obdobie.
+           (9) Vyrubený poplatok je splatný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia.
+           (10) Ak vznikne poplatková povinnosť v priebehu zdaňovacieho obdobia, správca dane vyrubí
+pomernú časť poplatku rozhodnutím začínajúc dňom vzniku poplatkovej povinnosti až do konca
+príslušného zdaňovacieho obdobia.
+           (11) Poplatok za množstvový zber drobného stavebného odpadu je splatný pri odovzdaní
+odpadu.
+           (12) Obec vráti poplatok alebo jeho pomernú časť poplatníkovi na základe písomnej žiadosti
+doručenej najneskôr do 30 dní odo dňa, keď tieto skutočnosti nastali s doloženými potvrdeniami
+uvedenými v odseku 13. tohto článku za podmienky, že poplatník nie je dlžníkom obce:
+           a) poplatník zrušil v obci trvalý pobyt alebo prechodný pobyt,
+           b) fyzickej osobe zaniklo oprávnenie užívať byt, nebytový priestor, pozemnú stavbu alebo jej
+časť alebo objekt, ktorý nie je stavbou, alebo záhradu, vinicu, ovocný sad, trvalý trávny porast na iný účel
+ako na podnikanie, pozemok v zastavanom území obce okrem lesného pozemku a pozemku, ktorý je
+evidovaný v katastri nehnuteľností ako vodná plocha,
+           c) právnickej osobe zaniklo oprávnenie užívať nehnuteľnosť nachádzajúcu sa na zemí obce na
+iný účel ako na podnikanie,
+           d) podnikateľovi zaniklo oprávnenie užívať nehnuteľnosť
+
+
+
+
+                                                                                                         11
+          (13) Vrátenie poplatku alebo jeho časti v zmysle § 14 ods. 12 tohto nariadenia je podmienené
+predložením nasledovných podkladov správcovi dane, ktorými si poplatník uplatňuje nárok na vrátenie
+poplatku alebo jeho pomernej časti:
+         a) fyzická osoba potvrdenie o prihlásenie sa na trvalý pobyt alebo na prechodný pobyt v inej
+obci,
+         b) fyzická osoba list vlastníctva, zrušenie nájomnej zmluvy – výpoveď, ktoré preukážu zrušenie
+oprávnenia užívať byt, nebytový priestor, pozemnú stavbu alebo jej časť, alebo objekt, ktorý nie je
+stavbou, alebo záhradu, vinicu, ovocný sad, trvalý trávny porast na iný účel ako na podnikanie, pozemok
+v zastavanom území obce okrem lesného pozemku a pozemku, ktorý je evidovaný v katastri nehnuteľností
+ako vodná plocha,
+         c) právnická osoba list vlastníctva, zrušenie nájomnej zmluvy – výpoveď, ktoré preukážu
+zrušenie oprávnenia užívať nehnuteľnosť nachádzajúcu sa na území obce na iný účel ako na podnikanie,
+         d) podnikateľ list vlastníctva, zrušenie nájomnej zmluvy – výpoveď, ktoré preukážu zrušenie
+oprávnenia užívať nehnuteľnosť nachádzajúcu sa na území obce na účel podnikania.
+        (14) Obec nevráti pomernú časť poplatku, ktorá je nižšia alebo sa rovná 2,-€.
+        (15) Správca poplatok zníži na základe písomnej žiadosti poplatníka, že viac ako 90 dní v
+zdaňovacom období sa nezdržiava alebo sa nezdržiaval na území obce o:
+    a) 100 % za obdobie, za ktoré poplatník obci preukáže, že sa zdržiava v nápravnovýchovnom
+        zariadení - výkon väzby alebo trestu,
+    b) 100 % za obdobie, za ktoré poplatník obci preukáže, že sa zdržiava v zariadení poskytujúceho
+        sociálne služby pobytovou formou,
+    c) 50 % za obdobie, za ktoré poplatník obci preukáže, že vykonáva prácu sústavne mimo trvalého
+        bydliska,
+    d) 100 % za obdobie, za ktoré poplatník obci preukáže, že sa zdržiava v zahraničí (na základe
+        potvrdenia o pobyte v zahraničí, pracovného povolenia dokladujúceho potrebu zotrvania v
+        zahraničí počas daného obdobia, z dôvodu pracovných, služobných povinnosti, z dôvodu štúdia v
+        zahraničí atď.),
+    e) 50 % za obdobie, za ktoré poplatník obci preukáže, že sa zdržiava v študentskom domove, alebo
+        na internáte,
+    f) 50 % za obdobie, za ktoré poplatník – vlastník nehnuteľností obci preukáže, že sa v obci
+        nezdržiava, pokiaľ sa nejedná o rekreačnú chatu alebo záhradný domček,
+    g) 100 % za obdobie, za ktoré poplatník, ktorý nie je vlastníkom žiadnej nehnuteľnosti v obci
+        preukáže, že sa zdržiava v inej obci, kde je poplatníkom.
+        (16) Obec zníži poplatok o 30 % poplatníkom, ktorí sú držiteľmi preukazu ZŤP a ZŤP-S,
+na základe písomnej žiadosti poplatníka. K písomnej žiadosti doloží poplatník doklady preukazujúce túto
+skutočnosť (príslušný doklad, preukaz preukazujúci mieru postihnutia. - u držiteľov preukazu fyzickej
+
+                                                                                                      12
+osoby s ťažkým zdravotným postihnutím, držiteľov preukazu fyzickej osoby s ťažkým zdravotným
+postihnutím so sprievodcom, rozhodnutie o priznaní preukazu ZŤP a ZŤP-S, rodný list).
+       (17) Podmienkou na zníženie poplatku je predloženie dokladu, z ktorého jednoznačne vyplýva, že
+poplatník sa nezdržiava alebo nezdržiaval v zdaňovacom období viac ako 90 dní na území obce a spĺňa
+podmienku pracovnoprávneho vzťahu alebo obdobného vzťahu s miestom výkonu práce mimo územia SR
+alebo z dôvodu štúdia mimo územia SR.
+
+
+       Pre účel preukázania nároku na odpustenie poplatku obec ustanovuje tieto doklady:
+   a) Potvrdenie zamestnávateľa zo zahraničia o trvaní pracovného pomeru (nie pracovná zmluva),
+   b) Potvrdenie o činnosti vykonávanej v zahraničí,
+   c) Povolenie k pobytu alebo víza,
+   d) Potvrdenie o platení miestnych poplatkov v zahraničí,
+   e) Potvrdenie zamestnávateľa (SR) o výkone práce poplatníka v zahraničí,
+   f) Potvrdenie od agentúry, ktorá sprostredkovala prácu v zahraničí,
+   g) Doklad vecne príslušného úradu o pobyte v zahraničí
+   h) Potvrdenie o úhrade dane z príjmu v zahraničí
+   i) Potvrdenie o štúdiu v zahraničí (potvrdenie za akademický rok od 1. septembra predchádzajúceho
+       zdaňovacieho obdobie do 31. augusta aktuálneho zdaňovacieho obdobia a potvrdenie za
+       akademický rok od 1. septembra aktuálneho zdaňovacieho obdobia do 31. augusta nasledujúceho
+       zdaňovacieho obdobia) alebo potvrdenie za všetky semestre aktuálneho zdaňovacieho obdobia
+       a pod.,
+   j) Rozhodnutie o výkone trestu odňatia slobody
+   k) Potvrdenie alebo iný doklad o umiestnení v reedukačnom centre
+   l) Doklad o umiestnení v detskom domove
+   m) Doklad o hospitalizácii v zariadení poskytujúcom služby zdravotnej starostlivosti, sociálnej
+       starostlivosti alebo v zariadení sociálnych služieb
+
+
+       Pre účel preukázania nároku na zníženie poplatku ustanovuje tieto doklady:
+   a) Potvrdenie od zamestnávateľa, v ktorom zamestnávateľ potvrdí, že poplatník v zdaňovacom
+       období vykonáva prácu mimo obce Hlinné (nie pracovná zmluva), vrátane dokladu, ktorý
+       preukazuje ubytovanie v mieste výkonu práce (potvrdenie o prechodnom pobyte, nájomná
+       zmluva) a pod.
+   b) Potvrdenie o činnosti vykonávanej na základe živnostenského oprávnenia mimo obce Hlinné,
+       vrátane dokladu, ktorý preukazuje ubytovanie v mieste výkonu práce (potvrdenie o prechodnom
+       ubytovaní, nájomná zmluva, doklad o vlastníctve nehnuteľností) a pod.
+
+
+                                                                                                      13
+    c) Potvrdenie od agentúry, ktorá sprostredkovala prácu v zahraničí, ktoré obsahuje údaje o tom, na
+        aké obdobie a akou formou je práca vykonávaná
+    d) Ak poplatník navštevuje školu mimo územia obce Hlinné, tak je potrebné doložiť doklad
+        o ubytovaní, napr. potvrdenie študentského domova, nájomná zmluva a pod.
+    e) Potvrdenie o zaplatení poplatku v inej obci, kde sa v skutočnosti zdržiava
+    f) Potvrdenie o zaplatení poplatku v inej obci, kde sa v skutočnosti zdržiava, pokiaľ sa nejedná
+        o rekreačnú chatu alebo záhradný domček
+
+
+        (18) Doklady preukazujúce dôvody na zníženie poplatku podľa odseku 17 tohto článku predloží
+poplatník do 30 dní odo dňa vzniku nároku uplatniť si zníženie poplatku. V prípade, že doklad podľa
+odseku 17 nie je v slovenskom jazyku, je potrebné k dokladom predložiť aj preklad. Doklad nie je možné
+nahradiť čestným vyhlásením poplatníka.
+       (19) Poplatník si nárok na zníženie poplatku uplatňuje za každé zdaňovacie obdobie zvlášť
+v zmysle zákona. Podkladom na uplatnenie zníženia poplatku sú hodnoverné doklady, ktoré preukazujú
+nárok na zníženie poplatku, musia byť aktuálne, nie staršie ako jeden rok odo dňa, kedy si poplatník
+uplatňuje nárok na zníženie poplatku.
+      (20) Nárok na úľavu má poplatník, ktorý nie je dlžníkom obce Hlinné ku 31.12. zdaňovacieho
+obdobia.
+      (21) Sadzby poplatku sa ustanovujú k 1. januáru zdaňovacieho obdobia.
+
+
+
+
+                                                IV. č a s ť
+                                   Spoločné a záverečné ustanovenia
+                                                  Čl. 15
+                                          Spoločné ustanovenia
+
+
+       (1) Spôsoby platenia dane a poplatku :
+a/ v hotovosti do pokladne obce Hlinné, Obecný úrad Hlinné 74,
+b/ na účet obce Hlinné číslo účtu IBAN: SK61 0200 0000 0000 2192 4632, vedený vo VÚB a. s. Vranov
+nad Topľou.
+       (2) Správca dane určuje v úhrne sumu 1,- € ako sumu dane, ktorú nebude vyrubovať.
+       (3) Dňom účinnosti tohto všeobecne záväzného nariadenia sa zrušuje Všeobecne záväzné
+nariadenie Obce Hlinné č. 1/2024 schválené dňa 12.12.2024 o miestnych daniach a o miestnom poplatku
+za komunálne odpady a drobné stavebné odpady.
+
+
+
+                                                                                                       14
+           (4) Zmeny a doplnky tohto všeobecne záväzného nariadenia schvaľuje Obecné zastupiteľstvo
+v Hlinnom.
+          (5) Toto všeobecne záväzné nariadenie bolo schválené Obecným zastupiteľstvom v Hlinnom dňa
+.............. uznesením č. ..........   a nadobúda účinnosť dňom 01.01.2027.
+
+
+
+
+V Hlinnom, dňa 26.11.2026
+
+
+
+
+                                                                     Milena Naštová Hladová
+                                                                     starostka obce Hlinné
+
+
+
+
+                                                                                                  15
+

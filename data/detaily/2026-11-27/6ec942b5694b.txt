@@ -1,0 +1,720 @@
+URL: https://cuet.slovensko.sk/en/dokument/b6501cf5-42e3-402c-920e-328f2fadf254
+OBEC: Osikov (Bardejov)
+NÁZOV: Návrh VZN č. 1/2026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Osikov
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/b6501cf5-42e3-402c-920e-328f2fadf254
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN č. 1/2026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Osikov
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Osikov
+Published from:
+26.11.2026
+Registry symbol:
+AG1 A-10
+Documents author:
+Zverejňovanie na CUET - Obec Osikov
+Published to:
+11.12.2026
+Registry case:
+OcÚ-0438/2026
+Name of official document:
+Návrh VZN č. 1/2026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Osikov
+Document abstract:
+Návrh VZN č. 1 2026 o miestnych daniach a miestnom poplatku
+za komunálne odpady a drobné stavebné odpady na území obce
+Osikov
+[https://www.obecosikov.sk/e_download.php?file=/data/uredni_deska/obsah2072_1.pdf&original=Návrh VZN č. 1 2026 o miestnych daniach a miestnom poplatku za KO a DSO na území obce Osikov.pdf]_ _
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh VZN č. 1 2026 o miestnych daniach a miestnom poplatku za KO a DSO na území obce Osikov.pdf
+Type and size:
+.pdf, 295.51 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/6802c4af-e4e6-428a-88ca-4e5ee5d11dbc
+                                     OBEC OSIKOV
+
+
+
+
+                      Návrh
+          Všeobecne záväzného nariadenia
+                   Obce Osikov
+    o miestnych daniach a miestnom poplatku za
+    komunálne odpady a drobné stavebné odpady
+               na území obce Osikov
+
+       V zmysle § 6 ods. 3 zákona SNR č. 369/1990 Zb. o obecnom zriadení v znení neskorších
+predpisov Obec Osikov zverejňuje návrh Všeobecne záväzného nariadenia o miestnych daniach
+a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Osikov.
+
+      Dňom zverejnenia návrhu nariadenia začína plynúť pätnásťdňová lehota, počas ktorej
+môžu fyzické osoby a právnické osoby uplatniť pripomienku k návrhu nariadenia.
+Pripomienky zaslať:
+    • písomne na adresu: Obec Osikov, Obecný úrad Osikov,
+                            Osikov 57, 086 42 Hertník
+    • elektronicky na adresu: obecosikov@obecosikov.sk
+
+Pripomienkou možno v určenej lehote navrhnúť nový text alebo odporučiť úpravu textu, a to doplnenie, zmenu,
+vypustenie alebo spresnenie pôvodného textu. Z pripomienky musí byť zrejmé, kto ju predkladá. Na ostatné podnety
+nemusí navrhovateľ nariadenia prihliadať, a to najmä vtedy, ak nie sú zdôvodnené.
+
+
+
+
+Návrh VZN vyvesený na úradnej tabuli obce: 26.11.2026
+Návrh VZN zverejnený na webovom sídle obce: 26.11.2026
+Lehota na predloženie pripomienok k návrhu VZN: 11.12.2026
+VZN schválené na rokovaní OZ: ... 12.2026
+VZN vyvesené na úradnej tabuli obce: ... 12.2026
+VZN nadobúda účinnosť dňom: 01.01.2027
+               Obec Osikov
+
+
+
+
+       Všeobecne záväzné nariadenie
+               Obce Osikov
+                č. ..../2026
+o miestnych daniach a miestnom poplatku za
+komunálne odpady a drobné stavebné odpady
+           na území obce Osikov
+ Obec Osikov v súlade s ustanovením § 6 ods. 1 a § 11 ods. 4 písm. d) a g) zákona SNR č.
+369/1990 Zb. o obecnom zriadení v znení neskorších predpisov a § 2 ods. 1 a 2 zákona NR SR č.
+582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné
+odpady (ďalej len „zákon č. 582/2004 Z. z.“)
+
+                                          vydáva
+
+           Všeobecne záväzné nariadenie Obce Osikov č. .... /2026
+  o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+                   stavebné odpady na území obce Osikov
+
+                                         I. časť
+                                   Základné ustanovenie
+                                            §1
+
+1. Toto všeobecne záväzné nariadenie upravuje podrobne podmienky ukladania miestnych daní
+   a miestneho poplatku za komunálne odpady a drobné stavebné odpady (ďalej len miestne dane
+   a miestny poplatok) na území obce Osikov.
+
+2. Obec Osikov zavádza s účinnosťou od 01.01.2027 na svojom území tieto miestne dane:
+   a) daň za psa,
+   b) daň za užívanie verejného priestranstva,
+   c) daň za ubytovanie,
+   d) daň za predajné automaty,
+   e) daň za nevýherné hracie prístroje.
+
+3. Obec Osikov ukladá na svojom území miestny poplatok za komunálne odpady a drobné
+   stavebné odpady (ďalej len „poplatok“).
+
+4. Zdaňovacím obdobím miestnych daní uvedených v § 1 ods. 2 písm. a), d), e) a poplatku
+   uvedeného v ods. 3 je kalendárny rok.
+
+
+                                          II. časť
+                                         Daň za psa
+                                             §2
+
+1. Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou osobou alebo právnickou
+osobou.
+
+2. Základom dane je počet psov.
+
+ 3. Sadzba dane je 10,00 EUR za jedného psa a kalendárny rok. Takto určená sadzba platí za
+každého ďalšieho psa u toho istého daňovníka.
+
+ 4. Daň za psa obec vyrubí rozhodnutím. Vyrubená daň je splatná do 15 dní odo dňa nadobudnutia
+právoplatnosti rozhodnutia.
+
+ 5. Ak vznikne daňová povinnosť k dani za psa v priebehu zdaňovacieho obdobia, daňovník je
+povinný podať priznanie najneskôr do 30 dní odo dňa vzniku tejto daňovej povinnosti.
+6. Spôsoby vyberania dane:
+a) v hotovosti do pokladne obecného úradu,
+b) na účet obce vedený v Prima banka Slovensko, a. s., IBAN SK94 5600 0000 0036 1634 9001
+
+                                                III.   časť
+                              Daň za užívanie verejného priestranstva
+                                              §3
+
+1. Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve
+obce Osikov, ktorými sa rozumejú nasledovné miesta:
+   a) hlavné (štátne) a všetky vedľajšie (miestne) cestné komunikácie v celej svojej dĺžke
+   a v šírke od krajnice po krajnicu,
+   b) vybudovaný chodník, príp. aj upravená plocha pre chodenie obyvateľov na celom území
+   obce,
+   c) všetky neknihované parcely v intraviláne obce.
+
+2. Vyhradenými priestormi verejného priestranstva v obci Osikov sú:
+          - parkovisko pri Hasičskej zbrojnici, pri futbalovom ihrisku a plocha Cigánsky briežok.
+
+ 3. Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného
+priestranstva pri miestnom obchode a obecnom úrade.
+
+4. Osobitným užívaním verejného priestranstva sa podľa tohto VZN rozumie
+a) umiestnenie zariadenia slúžiaceho na poskytovanie služieb,
+b) umiestnenie stavebného zariadenia, predajného zariadenia, zariadenia cirkusu, zariadenia
+   lunaparku a iných atrakcií,
+c) umiestnenie skládky,
+d) trvalé parkovanie vozidla mimo stráženého parkoviska.
+
+5. Daňovníkom je fyzická osoba alebo právnická osoba, ktorá verejné priestranstvo užíva.
+
+6. Základom dane za užívanie verejného priestranstva je výmera užívaného verejného priestranstva
+v m2 .
+
+ 7. Sadzba dane za užívanie verejného priestranstva je 0,20 EUR za každý aj začatý m2 osobitne
+užívaného verejného priestranstva a za každý aj začatý deň.
+
+8. Daňová povinnosť vzniká začatím užívania verejného priestranstva a zaniká ukončením
+užívania verejného priestranstva.
+        Daňovník je povinný osobne alebo písomne podať oznámenie o začatí užívania
+verejného priestranstva Obecnému úradu v Osikove, a to pred začatím osobitného užívania
+verejného priestranstva, výnimočne v deň, v ktorom sa má realizovať užívanie verejného
+priestranstva.
+        Daňovník je tiež povinný ohlásiť do 3 dní každú skutočnosť, ktorá má alebo môže mať
+vplyv na výšku stanovenej, resp. zaplatenej dane. Daňovník je povinný oznámiť Obecnému
+úradu v Osikove skutočnosť, že osobitné užívanie verejného priestranstva skončilo a verejné
+priestranstvo bolo uvedené do pôvodného stavu.
+
+9. Miestnu daň obec vyrubí rozhodnutím a splatnosť sa stanovuje nasledovne:
+a) jednorazovo v hotovosti do pokladne obecného úradu,
+b) pri dobe užívania verejného priestranstva najviac 15 dní pri ohlasovaní vzniku poplatkovej
+povinnosti na Obecnom úrade v Osikove. Vyrubená daň je splatná do 15 dní od nadobudnutia
+právoplatnosti rozhodnutia.
+c) pri dobe užívania verejného priestranstva dlhšie ako 15 dní a to týždennými alebo mesačnými
+splátkami, pričom termín a spôsob splátok určí poverený zamestnanec správcu miestnej dane na
+Obecnom úrade v Osikove pri ohlásení vzniku daňovej povinnosti daňovníkom.
+
+                                         IV. časť
+                                     Daň za ubytovanie
+                                            § 4
+
+1. Predmetom dane za ubytovanie je odplatné prechodné ubytovanie fyzickej osoby v zariadení
+poskytujúcom služby prechodného ubytovania.
+
+2. Daňovníkom je fyzická osoba, ktorá sa v zariadení odplatne prechodne ubytuje.
+
+3. Základom dane je počet prenocovaní.
+
+4. Sadzba dane je 0,20 EUR na osobu a prenocovanie.
+
+5. Platiteľom dane je prevádzkovateľ zariadenia, ktorý odplatné prechodné ubytovanie poskytuje.
+   O vybratej dani vedie prevádzkovateľ evidenciu v "Knihe ubytovaných". Daň za ubytovanie
+prevádzkovateľ vyberá pri nástupe daňovníka do zariadenia, v hotovosti a v eurách. O zaplatení
+dane prevádzkovateľ vypíše príjmový pokladničný doklad s predpísanými náležitosťami.
+
+6. Daň prevádzkovateľ odvádza obecnému úradu nasledovným spôsobom: v hotovosti do
+pokladne obecného úradu.
+
+                                          V. časť
+                                 Daň za predajné automaty
+                                            §5
+
+1. Predmetom dane za predajné automaty sú prístroje a automaty, ktoré vydávajú tovar za odplatu
+(ďalej len „predajné automaty“) a sú umiestnené v priestoroch prístupných verejnosti.
+
+2. Daňovníkom je fyzická osoba alebo právnická osoba, ktorá predajné automaty prevádzkuje.
+
+3. Základom dane je počet predajných automatov.
+
+4. Sadzba dane je 40,00 EUR za jeden predajný automat a kalendárny rok.
+
+5. Daňová povinnosť vzniká prvým dňom kalendárneho mesiaca nasledujúceho po mesiaci,
+v ktorom sa predajný automat začal prevádzkovať a zaniká posledným dňom v mesiaci, v ktorom
+sa ukončilo jeho prevádzkovanie.
+
+6. Obec vyrubí daň rozhodnutím. Vyrubená daň je splatná do 15 dní odo dňa nadobudnutia
+právoplatnosti rozhodnutia.
+7. Ak vznikne daňová povinnosť k dani za predajné automaty v priebehu zdaňovacieho obdobia,
+daňovník je povinný podať daňové priznanie najneskôr do 30 dní od vzniku daňovej povinnosti.
+Ak daňová povinnosť zanikne v priebehu zdaňovacieho obdobia a daňovník to oznámi správcovi
+dane čiastkovým daňovým priznaním, správca dane vráti pomernú časť dane za zostávajúce dni
+zdaňovacieho obdobia, za ktoré bola daň zaplatená.
+8. Daň obec vyberá nasledovným spôsobom: v hotovosti do pokladne obecného úradu.
+
+9. Obec určuje pre platbu dane za predajné automaty variabilný symbol: číslo rozhodnutia.
+
+10. Na účely výberu dane prevádzkovateľ je povinný viesť nasledovnú preukaznú evidenciu
+ohľadne každého predajného automatu osobitne:
+a) výrobné číslo predajného automatu,
+b) typ.
+
+                                         VI. časť
+                              Daň za nevýherné hracie prístroje
+                                            § 6
+
+1. Predmetom dane za nevýherné hracie prístroje sú hracie prístroje, ktoré sa spúšťajú alebo
+prevádzkujú za odplatu, pričom tieto hracie prístroje nevydávajú peňažnú výhru a sú
+prevádzkované v priestoroch prístupných verejnosti (ďalej len „nevýherné hracie prístroje“).
+
+2. Nevýherné hracie prístroje sú:
+a) elektronické prístroje na počítačové hry,
+b) mechanické prístroje, elektronické prístroje, automaty a iné zariadenia na zábavné hry.
+
+3. Daňovníkom je fyzická osoba alebo právnická osoba, ktorá nevýherné hracie prístroje
+prevádzkuje.
+
+4. Základom dane je počet nevýherných hracích prístrojov.
+
+5. Sadzba dane je 20,00 EUR za jeden nevýherný hrací prístroj a kalendárny rok.
+
+6. Daňová povinnosť vzniká dňom začatia prevádzkovania nevýherných hracích prístrojov
+a zaniká dňom ukončenia ich prevádzkovania.
+
+7. Daňovník je povinný písomne oznámiť vznik daňovej povinnosti správcovi dane do 30 dní od
+vzniku daňovej povinnosti. Daňová povinnosť vzniká prvým dňom kalendárneho mesiaca
+nasledujúceho po mesiaci, v ktorom sa nevýherný hrací prístroj začal prevádzkovať a zaniká
+posledným dňom mesiaca, v ktorom sa ukončilo jeho prevádzkovanie. Ak daňová povinnosť
+zanikne v priebehu zdaňovacieho obdobia a daňovník to oznámi správcovi dane najneskôr do 30
+dní odo dňa zániku daňovej povinnosti, správca dane vráti pomernú časť dane za zostávajúce dni
+zdaňovacieho obdobia, za ktoré bola daň zaplatená.
+        Oznamovaciu povinnosť si daňovník musí splniť písomným oznámením, ktoré doručí
+osobne alebo doporučeným listom na Obecný úrad v Osikove. Písomné oznámenie pri vzniku
+daňovej povinnosti obsahuje: identifikačné údaje daňovníka, identifikáciu nevýherného hracieho
+prístroja, miesto prevádzkovania. Písomné oznámenie pri zániku daňovej povinnosti obsahuje:
+identifikačné údaje daňovníka, identifikáciu nevýherného hracieho prístroja, miesto doterajšieho
+prevádzkovania.
+
+8. Obec vyrubí daň rozhodnutím. Vyrubená daň je splatná do 15 dní odo dňa nadobudnutia
+právoplatnosti rozhodnutia.
+
+9. Daň obec vyberá nasledovným spôsobom: v hotovosti do pokladne obecného úradu.
+
+10. Obec určuje pre platbu dane za nevýherné hracie prístroje variabilný symbol: číslo
+rozhodnutia.
+ 11. Na účely výberu dane prevádzkovateľ je povinný viesť nasledovnú preukaznú evidenciu
+ ohľadne každého nevýherného hracieho prístroja osobitne:
+ a) výrobné číslo nevýherného hracieho prístroja,
+ b) typ, značka.                                          .
+
+                                        VII. časť
+              Miestny poplatok za komunálne odpady a drobné stavebné odpady
+                                           § 7
+
+    Obecné zastupiteľstvo v Osikove podľa § 2 ods. 2 zákona NR SR č. 582/2004 Z. z. o miestnych
+ daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších
+ predpisov rozhodlo, že na území obce a jeho častiach sa bude vyberať miestny poplatok za
+ komunálne odpady a drobné stavebné odpady.
+
+
+                                             Poplatok
+                                               §8
+
+1. Poplatok sa platí za:
+    a) činnosti nakladania so zmesovým komunálnym odpadom,
+    b) činnosti nakladania s biologicky rozložiteľným komunálnym odpadom,
+    c) triedený zber zložiek komunálneho odpadu, na ktoré sa nevzťahuje rozšírená
+        zodpovednosť výrobcov,
+    d) náklady spôsobené nedôsledným triedením oddelene zbieraných zložiek komunálneho
+        odpadu, na ktoré sa vzťahuje rozšírená zodpovednosť výrobcov a
+    e) náklady presahujúce výšku obvyklých nákladov podľa osobitného predpisu,
+    f) činnosti nakladania s drobným stavebným odpadom, ak v obci nebol zavedený
+        množstvový zber drobného stavebného odpadu.
+
+2. Poplatok platí poplatník, ktorým je
+a) fyzická osoba, ktorá má v obci trvalý pobyt alebo prechodný pobyt alebo ktorá je na území obce
+   oprávnená užívať alebo užíva byt, nebytový priestor, pozemnú stavbu alebo jej časť, alebo
+   objekt, ktorý nie je stavbou, alebo záhradu, vinicu, ovocný sad, trvalý trávny porast na iný účel
+   ako na podnikanie, pozemok v zastavanom území obce okrem lesného pozemku a pozemku,
+   ktorý je evidovaný v katastri nehnuteľností ako vodná plocha (ďalej len „nehnuteľnosť“),
+b) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území
+   obce na iný účel ako na podnikanie,
+c) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území obce
+   na účel podnikania.
+
+3. Ak má osoba podľa odseku 2 písm. a) v obci súčasne trvalý pobyt a prechodný pobyt, poplatok
+   platí iba z dôvodu trvalého pobytu. Ak má osoba podľa odseku 2 písm. a) v obci trvalý pobyt
+   alebo prechodný pobyt a súčasne je oprávnená užívať alebo užíva nehnuteľnosť na iný účel ako
+   na podnikanie, poplatok platí iba z dôvodu trvalého pobytu alebo prechodného pobytu. Ak má
+   osoba podľa odseku 2 písm. a) v obci trvalý pobyt alebo prechodný pobyt a súčasne je podľa
+   odseku 2 písm. c) fyzickou osobou oprávnenou na podnikanie a miestom podnikania je miesto
+   jej trvalého pobytu alebo prechodného pobytu a v tomto mieste nemá zriadenú prevádzkareň,
+   poplatok platí iba raz z dôvodu trvalého pobytu alebo prechodného pobytu. To neplatí, ak sa na
+   poplatníka vzťahuje množstvový zber v príslušnej časti obce.
+
+4. Poplatníkom nie je osoba, ktorej oprávnenie užívať nehnuteľnosť vyplýva z povahy právneho
+   vzťahu s poplatníkom podľa odseku 2, ak na jeho základe
+a) užíva priestory nehnuteľnosti vyhradené na prechodné ubytovanie v zariadení na to určenom,
+b) je hospitalizovaná v zariadení poskytujúcom služby zdravotnej starostlivosti,
+c) sa jej poskytuje sociálna služba v zariadení sociálnych služieb pobytovou formou,
+d) užíva z dôvodu plnenia povinností vyplývajúcich z pracovnoprávneho vzťahu alebo iného
+   obdobného vzťahu s poplatníkom nehnuteľnosť, ktorú má právo užívať alebo ju užíva aj
+   poplatník, alebo
+e) v nehnuteľnosti, ktorú má poplatník právo užívať alebo ju užíva, vykonáva pre poplatníka práce
+   alebo mu poskytuje iné služby v rámci výkonu svojej činnosti a pri tejto činnosti produkuje len
+   komunálne odpady alebo drobné stavebné odpady.
+
+5.    Platiteľom poplatku je vlastník nehnuteľností. Ak je nehnuteľnosť v spoluvlastníctve viacerých
+     spoluvlastníkov, poplatok vyberá a ručí zaň zástupca alebo správca určený spoluvlastníkmi. Ak
+     si spoluvlastníci neurčia zástupcu alebo správcu, určí platiteľa správca poplatku. Určený
+     spoluvlastník, ktorý zaplatí poplatok, je oprávnený požadovať od ostatných spoluvlastníkov
+     náhradu podľa veľkosti ich spoluvlastníckych podielov. Ak je vlastníkom nehnuteľnosti, bytu
+     alebo nebytového priestoru štát, vyšší územný celok alebo obec, je platiteľom správca.
+
+ 6. Ak viacero poplatníkov podľa odseku 2 písm. a) žije v spoločnej domácnosti, plnenie
+ povinnosti poplatníka môže za ostatných členov tejto domácnosti na seba prevziať jeden z nich.
+ Za poplatníka, ktorý nie je spôsobilý na právne úkony, v plnom rozsahu plní povinnosti poplatníka
+ jeho zákonný zástupca, prípadne opatrovník. Povinnosti poplatníka nesmie za iného prevziať alebo
+ plniť osoba, ktorá sa dlhodobo zdržiava mimo územia Slovenskej republiky alebo je nezvestná.
+ Tieto skutočnosti, ako aj ich zmeny je osoba, ktorá za iného plní povinnosti poplatníka, povinná
+ oznámiť obci.
+ 7. Poplatník je povinný ohlásiť správcovi poplatku všetky skutočnosti, ktoré sú rozhodujúce pre
+ vznik alebo zánik poplatkovej povinnosti a každú zmenu, ktorá je rozhodujúca pre správne určenie
+ výšky poplatku najneskôr do 30 dní odo dňa, keď táto skutočnosť nastala.
+ 8. Poplatková povinnosť vzniká dňom, ktorým nastane skutočnosť uvedená v odseku 2) a zaniká
+ dňom, ktorým táto skutočnosť zanikne.
+ 9. Poplatník je povinný zabezpečiť si jednu funkčnú 120 l zbernú nádobu, ktorú si môže zakúpiť
+ prostredníctvom Obecného úradu v Osikove.
+ 10. V spoločnej domácnosti s 5 a viac poplatníkmi je možnosť využitia dvoch zberných nádob.
+
+
+                                          Sadzba poplatku
+                                                 §9
+  1. Sadzba poplatku za zber, prepravu a zneškodňovanie komunálnych odpadov a drobných a
+ stavebných odpadov je
+ a) 0,1096 EUR za osobu a kalendárny deň, t. j. 40,00 EUR (za osobu a rok) u poplatníkov
+    podľa § 77 ods. 2 písm. a) zákona NR SR č. 582/2004 Z. z., ktorí sú vlastníkmi zberných
+    nádob,
+ b) 0,0513 EUR za liter komunálnych odpadov a drobných stavebných odpadov, t. j. 160,00 EUR
+    za jednu 120 l zbernú nádobu za kalendárny rok, 320,00 EUR za jednu 240 l zbernú nádobu
+    za kalendárny rok, 1 467,00 EUR za jeden 1 100 l kontajner u poplatníkov podľa § 77 ods. 2
+    písm. b) a c) zákona NR SR č. 582/2004 Z. z. Pre poplatníka podľa vyššie uvedeného
+    ustanovenia je možnosť určenia frekvencie vývozu komunálnych odpadov, a to v 2-
+    týždňovom alebo 4-týždňovom cykle podľa veľkosti prevádzky.
+ c) poplatok za drobný stavebný odpad pre fyzické osoby je zahrnutý v paušálnom poplatku za
+    komunálny odpad.
+2. Sadzba poplatku uvedená v § 9 ods. 1 písm. a) sa násobí počtom kalendárnych dní, počas
+ktorých má alebo bude mať poplatník podľa § 8 ods. 2, písm. a) v obci trvalý pobyt alebo
+prechodný pobyt, alebo počas ktorých nehnuteľnosť užíva alebo je oprávnený ju užívať.
+3. Ak dôjde k zmene poplatkovej povinnosti po 31.1. príslušného kalendárneho roka, použije sa
+pri určení výšky poplatku príslušný koeficient odo dňa nasledujúceho po písomnom oznámení a
+preukázaní zmeny poplatkovej povinnosti.
+4. Pri ohlásení poplatku poplatník postupuje v zmysle § 80 zákona NR SR č. 582/2004 Z. z.
+
+
+                               Vyrubenie poplatku a splatnosť
+                                              § 10
+1. Poplatok obec vyrubuje každoročne rozhodnutím na celé zdaňovacie obdobie. Vyrubený
+poplatok je splatný do 15 dní odo dňa nadobudnutia právoplatnosti rozhodnutia. Pri vyrubení
+poplatku vychádza obec z údajov, ktoré sú jej známe v čase vydávania rozhodnutia.
+2. V prípade vzniku, zmeny alebo zániku poplatkovej povinnosti v priebehu zdaňovacieho
+obdobia, obec zohľadní túto skutočnosť dodatočným rozhodnutím. Alikvotnú časť poplatku za
+príslušné obdobie vypočíta s presnosťou na dni.
+
+
+                           Vrátenie, zníženie a odpustenie poplatku
+                                              § 11
+
+1. Obec vráti poplatok alebo jeho pomernú časť poplatníkovi, ktorému zanikla povinnosť platiť
+poplatok v priebehu zdaňovacieho obdobia a preukáže splnenie podmienok na vrátenie poplatku
+alebo jeho pomernej časti ustanovených vo všeobecne záväznom nariadení, ak o to požiada
+najneskôr do 30 dní od vzniku rozhodujúcej skutočnosti.
+
+2. Obec poplatok zníži alebo odpustí na základe písomnej žiadosti poplatníka, že viac ako 90 dní
+v zdaňovacom období sa nezdržiava alebo sa nezdržiaval na území obce:
+a) o 100% za obdobie, za ktoré sa poplatník obci preukáže, že sa zdržiava v nápravnovýchovnom
+zariadení – výkon väzby alebo trestu,
+b) o 100% za obdobie, za ktoré sa poplatník obci preukáže, že sa zdržiava v zariadení
+poskytujúcom sociálne služby pobytovou formou,
+c) o 50% za obdobie, za ktoré sa poplatník obci preukáže, že sa zdržiava v zahraničí (na základe
+potvrdenia o pobyte v zahraničí, pracovnej zmluvy s miestom výkonu v zahraničí, z dôvodu
+pracovných, služobných povinností, z dôvodu štúdia v zahraničí),
+d) o 50% pre poplatníka (žiaka alebo študenta), ktorý obci preukáže, že navštevuje školu so sídlom
+mimo územia Slovenskej republiky,
+e) o 50% pre poplatníka (žiaka alebo študenta), ktorý navštevuje školu so sídlom na území
+Slovenskej republiky a zároveň je ubytovaný v študentskom domove alebo internáte.
+
+3.Obec poplatok zníži o 100% na základe písomnej žiadosti poplatníka, ktorý obci preukáže, že sa
+v priebehu celého zdaňovacieho obdobia trvalo zdržiava alebo zdržiaval v zahraničí.
+4.Osoby – poplatníci uvedené v ods. 2 a 3 sú povinné preukázať správcovi poplatku doklady
+preukazujúce nárok na zníženie alebo odpustenie poplatku (potvrdenie o návšteve školy
+v zahraničí, pracovná zmluva s miestom výkonu v zahraničí, potvrdenie o zaplatení poplatku
+v mieste prechodného pobytu, príp. v inej obci, potvrdenie o ubytovaní v Centrách sociálnych
+služieb) do konca februára príslušného kalendárneho roka.
+4. Podkladmi pre zníženie alebo odpustenie poplatku sú hodnoverné doklady, z ktorých
+jednoznačne vyplýva počet dní pobytu poplatníka mimo obec, a to:
+a) potvrdenie nápravno-výchovného zariadenia o výkone väzby alebo trestu,
+b) potvrdenie zariadenia poskytujúceho sociálne služby pobytovou formou,
+c) potvrdením, že sa v určenom období zdržiava alebo zdržiaval v zahraničí (na základe potvrdenia
+o pobyte v zahraničí, pracovnej zmluvy s miestom výkonu v zahraničí, pracovného povolenia
+dokladujúceho potrebu zotrvania v zahraničí počas daného obdobia, z dôvodu pracovných,
+služobných povinností, z dôvodu štúdia v zahraničí a pod.). V prípade, že potvrdenie nie je
+v slovenskom alebo českom jazyku, je potrebné doložiť aj preklad. Doklad nie je možné nahradiť
+čestným vyhlásením.
+d) potvrdenie o návšteve školy, ak žiak alebo študent navštevuje školu so sídlom mimo územia
+Slovenskej republiky,
+e) potvrdením o zaplatení poplatku za komunálny odpad v inej obci s uvedením mena a priezviska
+poplatníka (poplatníkov).
+
+
+                              Spoločné a záverečné ustanovenia
+                                              § 12
+
+1. Ak si daňovník a poplatník neplnia oznamovaciu a finančnú povinnosť podľa tohto nariadenia,
+správca daní a poplatku uplatní sankciu v zmysle § 154 – 157 zákona NR SR č. 563/2009 Z. z.
+o správe daní (daňový poriadok) a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov.
+
+2. Poplatok ani jeho rozdiel nemožno vyrubiť ani vymáhať po uplynutí päť rokov od konca
+kalendárneho roku, v ktorom vznikla poplatková povinnosť.
+3. Ak bol pred uplynutím lehoty podľa ods. 2 vykonaný úkon smerujúci na vyrubeniu poplatku
+alebo jeho rozdielu, plynie päťročná lehota znovu od konca roka, v ktorom bol poplatník o tomto
+úkone vyrozumený. Vyrubiť poplatok alebo jeho rozdiel však je možné najneskôr do desiatich
+rokov od konca obdobia, v ktorom vznikla oznamovacia povinnosť alebo v ktorom vznikla
+poplatková povinnosť bez oznamovacej povinnosti.
+4. Na konanie vo veciach poplatku sa vzťahujú osobitné predpisy, a to zákon SNR č. 369/1990
+Zb. o obecnom zriadení v znení neskorších predpisov, zákon NR SR č. 582/2004 Z. z. o miestnych
+daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady a zákon NR SR č.
+563/2009 Z. z. o správe daní (daňový poriadok ) a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov.
+5. Správu poplatku vykonáva Obec Osikov v mene ktorej vystupuje starosta obce. Administratívnu
+stránku správy poplatku vykonáva obecný úrad, v súčinnosti so subjektom zabezpečujúcim zber,
+prepravu a zneškodňovanie komunálnych odpadov a drobných stavebných odpadov.
+6. Kontrolu nad dodržiavaním tohto nariadenia vykonáva obec a hlavný kontrolór obce.
+7. Správca poplatku má právo kedykoľvek sa presvedčiť o správnosti údajov platiteľov
+jednotlivých poplatkov a o dodržiavaní podmienok určených pri stanovenom poplatku.
+8. Poplatník je povinný dodržiavať podmienky pri stanovení poplatkov a umožniť správcovi
+poplatku alebo oddeleniu zabezpečujúcemu súčinnosť a hlavnému kontrolórovi obce, vstup do
+prevádzkových (obchodných) miestností, predložiť im účtovné doklady a iné požadované údaje,
+ktoré súvisia s poplatkom, podať informácie a spolupracovať pri stanovení poplatku, alebo
+kontrole správnosti vykazovania.
+9. Správca poplatku môže na zmiernenie alebo odstránenie tvrdosti nariadenia v jednotlivých
+prípadoch na základe žiadosti poplatníka, poplatok znížiť alebo odpustiť. Podobne môže povoliť
+odklad platenia poplatku.
+10. Poplatky sa platia v hotovosti do pokladne Obecného úradu v Osikove, poštovou poukážkou
+alebo prevodom na účet obce.
+11. Toto nariadenie bolo schválené OZ dňa ........... 12.2026 uznesením č. .......2026 a nadobúda
+účinnosť 01.01.2027.
+12. Dňom účinnosti tohto nariadenia sa zrušuje Všeobecne záväzné nariadenie č. 3/2024
+o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na
+území obce Osikov.
+
+
+
+
+                                                           Ing. Jozef Kvokačka, PhD.
+                                                                  starosta obce
+
+
+=== ODKAZ http://slovensko.sk
+Titulná stránka -... - UPVS
+
+=== ODKAZ https://cuet.slovensko.sk/
+Centrálna úradna elektronická tabuľa
+Vstúpiť na nové slovensko.sk
+Zmena kontrastu
+Úvod
+O portáli
+Pomoc
+Kontakt
+English
+RSS CUET
+Dnes zverejnené dokumenty
+Zverejňovateľ (Orgán verejnej moci):
+Zverejňovanie na CUET - Obec Čierne
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Zverejňovanie na CUET - Obec Čierne
+Zverejnené do:
+19.01.2038
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+Zásady hospodárenia a nakladania s majetkom obce Čierne - vnútorný predpis obce Čierne č. 2/2026
+Anotácia dokumentu:
+Zásady hospodárenia a nakladania s majetkom obce Čierne
+[https://www.obeccierne.sk/e_download.php?file=/data/uredni_deska/obsah7933_1.pdf&original=Vnútorný predpis riadenia obce Čierne č. 2-2026 - Zásady hospodárenia a nakladania s majetkom obce Čierne.pdf]_
+Typ: PDF dokument, Veľkosť: 2.16 MB_
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Zverejňovanie na CUET - Obec Čierne
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Zverejňovanie na CUET - Obec Čierne
+Zverejnené do:
+19.01.2038
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+Pravidlá pre dobrovoľnú zbierku v obci Čierne
+Anotácia dokumentu:
+Pravidlá pre dobrovoľnú zbierku v obci Čierne
+[https://www.obeccierne.sk/e_download.php?file=/data/uredni_deska/obsah7934_1.pdf&original=Vnútorný predpis riadenia obce Čierne č. 3-2026 - Pravidlá pre dobrovoľnú zbierku v obci Čierne.pdf]_
+Typ: PDF dokument, Veľkosť: 2.51 MB_
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Obec Sklabiňa
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Obec Sklabiňa
+Zverejnené do:
+31.12.2027
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+Dodávka potravín na obecné podujatie
+Anotácia dokumentu:
+Obecný úrad poskytol na zverejnenie objednávku na dodávku
+potravín na podujatie Vianočné trhy.
+dokument na stiahnutie
+[https://www.obecsklabina.sk/e_download.php?file=/data/uredni_deska/obsah3060_1.pdf&original=O-086.pdf]
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Okresný súd Trenčín
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Okresný súd Trenčín
+Zverejnené do:
+29.12.2027
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+83Csp/14/2026-93, oznámenie o doručovaní písomnosti - Intrum Slovakia s.r.o. c/a Renata Danielová
+Anotácia dokumentu:
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Hlavné mesto SR Bratislava
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Hlavné mesto SR Bratislava
+Zverejnené do:
+27.11.2027
+Číslo registratúrneho záznamu:
+MAG 671763/2026
+Názov dokumentu:
+Petícia za bezpečný priechod pre chodcov na Bajkalskej ulici v Bratislave
+Anotácia dokumentu:
+Petícia za bezpečný priechod pre chodcov na Bajkalskej ulici v Bratislave
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Okresný súd Senica
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Okresný súd Senica
+Zverejnené do:
+25.11.2027
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+8Pm/1/2026 - Verejná vyhláška - podpísané osobne
+Anotácia dokumentu:
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Okresný súd Senica
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Okresný súd Senica
+Zverejnené do:
+25.11.2027
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+25Pm/1/2026 - Verejná vyhláška - podpísané osobne
+Anotácia dokumentu:
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Obec Jablonec
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+A-L1
+Autor dokumentov:
+Obec Jablonec
+Zverejnené do:
+28.02.2027
+Číslo registratúrneho záznamu:
+R2026/2265
+Názov dokumentu:
+Výzva na odstránenie a orez stromov a iných porastov - Západoslovenská distribučná
+Anotácia dokumentu:
+Výzva na odstránenie a okliesnenie stromov a iných porastov,
+ktoré ohrozujú bezpečnosť alebo spoľahlivosť prevádzky
+energetických zariadení distribučnej sústavy.
+[https://www.jablonec.sk/e_download.php?file=/data/uredni_deska/obsah1074_1.pdf&original=Výzva.pdf]
+Typ: PDF dokument, Veľkosť: 94.58 kB_ Typ: PDF dokument, Veľkosť:
+94.58 kB_
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Okresný súd Trnava
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Okresný súd Trnava
+Zverejnené do:
+04.02.2027
+Číslo registratúrneho záznamu:
+Názov dokumentu:
+101Csp/45/2026 - Oznámenie ÚT - nariadenie VVR T4/2 - podpísané pečaťou
+Anotácia dokumentu:
+Zobraziť
+Zverejňovateľ (Orgán verejnej moci):
+Hlavné mesto SR Bratislava
+Zverejnené od:
+27.11.2026
+Registratúrna značka:
+Autor dokumentov:
+Hlavné mesto SR Bratislava
+Zverejnené do:
+01.02.2027
+Číslo registratúrneho záznamu:
+MAG 682639/2026
+Názov dokumentu:
+Hodžovo nám. - obchodná verejná súťaž - nájom NP č. 1.42
+Anotácia dokumentu:
+Hodžovo nám. - obchodná verejná súťaž - nájom NP č. 1.42 - zámer a podmienky
+Zobraziť
+«
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+...
+157
+158
+»
+© 2013 - 2026, Slovensko.sk
+Informácie zverejnené na portáli majú informatívny charakter.
+Prevádzku stránky www.slovensko.sk a správu jej obsahu zabezpečuje
+Národná agentúra pre sieťové a elektronické služby
+.

@@ -1,0 +1,419 @@
+URL: https://www.drienov.sk/modules/file_storage/download.php?file=885fa628%7C535&inline=1
+OBEC: Drienov (Prešov)
+NÁZOV: Faktúry 10/2026
+ZDROJ: web obce
+
+IČO:     00326984                                                                                                                                                                                27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                Číslo        Číslo faktúry
+   Faktúry          objednávky             zmluvy         dodávateľa Ičo            Obchodný Názov                     Adresa                                                     Suma Vrátane dph Mena
+                                                                                                                             Dátum     Dátum     Dátum          Dátum
+Predmet                                                                                                                     príchodu vystavenia splatnosti      úhrady      Dokument
+678/2026                                                 9026336        00327646    Mesto Prešov                       Hlavná 2907 73, 08001 Prešov                             5 540,00    ✔        EUR
+
+Stavebný úrad, úsek stavebného poriadku a úsek cestnej dopravy                                                             29.10.2026 23.10.2026 07.11.2026 29.10.2026
+Položky: Stavebný úrad, úsek stavebného poriadku a úsek cestnej dopravy, 1.000000 ks, Suma položky 5540.00 Eur,
+677/2026                                                 20260027       37876848    Základná škola                     Námestie kpt. Nálepku 225/12, 08204 Drienov               253,44     ✔        EUR
+
+MŠ- strava učiteliek za 10/2026                                                                                            29.10.2026 28.10.2026 15.11.2026 29.10.2026
+Položky: MŠ-stravné, 1.000000 ks, Suma položky 253.44 Eur,
+676/2026                                                 FV2600173      43538941    Mgr. Rastislav Pribula-OXCOM       Drienov 0, 08204 Drienov                                   19,03     ✔        EUR
+
+OCU-toner do tlačiarne                                                                                                     28.10.2026 21.10.2026 04.11.2026 28.10.2026
+Položky: OCU-toner do tlačiarne, 1.000000 ks, Suma položky 19.03 Eur,
+675/2026                                                 FV2600174      43538941    Mgr. Rastislav Pribula-OXCOM       Drienov 0, 08204 Drienov                                   24,70     ✔        EUR
+
+OCU-toner do tlačiarne                                                                                                     28.10.2026 26.10.2026 09.11.2026 28.10.2026
+Položky: OCU-toner do tlačiarne, 1.000000 ks, Suma položky 24.70 Eur,
+674/2026                                                 F260023        36473413    HIREKON s.r.o.                     Masarykova 16, 08001 Prešov                              2 337,00    ✔        EUR
+
+Audit                                                                                                                      22.10.2026 22.10.2026 05.11.2026 22.10.2026
+Položky: Audit, 1.000000 ks, Suma položky 2337.00 Eur,
+673/2026                                                 20261243       43995187    T-MAPY s. r. o.                    Dvojkrížna 49, 82106 Bratislava-Podunajské Biskupice      932,34     ✔        EUR
+
+aktualizačný poplatok mapového portálu obce 10/2026-09/2027                                                                   22.10.2026 16.10.2026 30.10.2026 26.10.2026
+Položky: 1.000000 ks, Suma položky 233.01 Eur, aktualizačný poplatok mapového portálu obce 11/2023-10/2024, 1.000000 ks, Suma
+položky 699.33 Eur,
+672/2026                                                 FV260901       46641904    STAVAD s.r.o.                      Pri hati 1, 04001 Košice                                18 463,87    ✔        EUR
+
+MŠ-sadové úpravy                                                                                                           21.10.2026 22.09.2026 22.10.2026 26.10.2026
+Položky: 1.000000 ks, Suma položky 18463.87 Eur,
+671/2026                                                 2620487        36777889    BAMIDA s.r.o.                      Košická 28, 08001 Prešov                                  442,80     ✔        EUR
+
+Tlač občasníka                                                                                                             21.10.2026 16.10.2026 30.10.2026 26.10.2026
+Položky: Tlač občasníka, 1.000000 ks, Suma položky 442.80 Eur,
+670/2026                                                 2002608250     45626618    VEDOS, s. r. o.                    Rožkovany 11, 08271 Lipany nad Torysou                    945,62     ✔        EUR
+
+OCU-betó na údržbu                                                                                                         21.10.2026 20.10.2026 03.11.2026 21.10.2026
+Položky: OCU-betó na údržbu, 1.000000 ks, Suma položky 945.62 Eur,
+669/2026                                                 FV32/2026320160
+                                                                      31633200      PPG Deco Slovakia, s.r.o.          Volgogradská 9, 08001 Prešov                               56,27     ✔        EUR
+
+FI-farba na maľovanie                                                                                                      21.10.2026 16.10.2026 30.10.2026 21.10.2026
+Položky: FI-farba na maľovanie, 1.000000 ks, Suma položky 56.27 Eur,
+
+
+
+                                                                                                Strana 1 / 8                                                                  Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                                    27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                 Číslo         Číslo faktúry
+   Faktúry          objednávky              zmluvy          dodávateľa Ičo              Obchodný Názov                        Adresa                                                 Suma Vrátane dph Mena
+                                                                                                                                   Dátum     Dátum     Dátum          Dátum
+Predmet                                                                                                                           príchodu vystavenia splatnosti      úhrady    Dokument
+668/2026                                                   180272136900 35815256        Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                      274,00     ✔        EUR
+
+Elektrina-splátka za 10/2026 - ul.kpt.Nálepku                                                                                     21.10.2026 08.10.2026 08.10.2026 07.10.2026
+Položky: elektrina-splátka za 10/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 274.00 Eur,
+667/2026                                                   180272136887 35815256        Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                      169,00     ✔        EUR
+
+VO-Elektrina-splátka za 10/2026 - ul.Žižková                                                                                      21.10.2026 08.10.2026 08.10.2026 07.10.2026
+Položky: elektrina-splátka za 10/2026- ul. Osloboditeľov, 1.000000 ks, Suma položky 169.00 Eur,
+666/2026                                                   180272136884 35815256        Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                      158,00     ✔        EUR
+
+Elektrina-splátka za 10/2026 - ul.Májová                                                                                          21.10.2026 08.10.2026 08.10.2026 07.10.2026
+Položky: VO-elektrina-splátka za 10/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 158.00 Eur,
+665/2026                                                   180272136879 35815256        Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                      122,00     ✔        EUR
+
+Elektrina-splátka za 10/2026 - ul.kpt.Nálepku                                                                                     21.10.2026 08.10.2026 08.10.2026 07.10.2026
+Položky: elektrina-splátka za 10/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 122.00 Eur,
+664/2026                                                   180272136875 35815256        Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                      106,00     ✔        EUR
+
+Elektrina-splátka za 10/2026 - ul. Osloboditeľov                                                                                  21.10.2026 08.10.2026 08.10.2026 07.10.2026
+Položky: VO-elektrina-splátka za 10/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 106.00 Eur,
+663/2026                                                   180272136869 35815256        Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       67,00     ✔        EUR
+
+Elektrina-splátka za 10/2026 - ul. Osloboditeľov                                                                                  21.10.2026 08.10.2026 08.10.2026 07.10.2026
+Položky: VO-elektrina-splátka za 10/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 67.00 Eur,
+662/2026                                                   263107200       31411045     CWS Slovensko, s. r. o.               Tehelňa 12, 84107 Bratislava-Devínska Nová Ves         153,63     ✔        EUR
+
+MŠ-dezinfekcia a papierové rolky                                                                                                  21.10.2026 20.10.2026 27.10.2026 03.11.2026
+Položky: MŠ, - pap. rolky, 1.000000 ks, Suma položky 153.63 Eur,
+661/2026                                                   263107199       31411045     CWS Slovensko, s. r. o.               Tehelňa 12, 84107 Bratislava-Devínska Nová Ves          51,29     ✔        EUR
+
+OcÚ-dezinfekcia a papierové rolky                                                                                                 21.10.2026 20.10.2026 27.10.2026 25.11.2026
+Položky: OcÚ, - pap. rolky, 1.000000 ks, Suma položky 51.29 Eur,
+660/2026                                                   26018498        47192941     Galileo Corporation s.r.o.            Boženy Němcovej 8, 81104 Bratislava-Staré Mesto        249,69     ✔        EUR
+
+MŠ služby-úradná tabuľa                                                                                                           20.10.2026 20.10.2026 03.11.2026 21.10.2026
+Položky: služby-úradná tabuľa, 1.000000 ks, Suma položky 249.69 Eur,
+659/2026                                                   2501711339      36570460     Východoslovenská vodárenská spoločnosť, a.s.
+                                                                                                                           Komenského 62/50, 04001 Košice-Sever                      605,69     ✔        EUR
+
+vodné 16.07.2026-14.10.2026                                                                                                       19.10.2026 19.10.2026 18.11.2026 21.10.2026
+Položky: vodné Osloboditeľov 310/1, 1.000000 ks, Suma položky 605.69 Eur,
+
+
+
+
+                                                                                                      Strana 2 / 8                                                                Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                                      27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                 Číslo         Číslo faktúry
+   Faktúry          objednávky              zmluvy          dodávateľa Ičo               Obchodný Názov                        Adresa                                                  Suma Vrátane dph Mena
+                                                                                                                                    Dátum     Dátum     Dátum        Dátum
+Predmet                                                                                                                            príchodu vystavenia splatnosti    úhrady      Dokument
+658/2026                                                   FV60261557      43999107      RONEX WORLD s.r.o.                    Osloboditeľov 309 3, 08204 Drienov                      77,26      ✔        EUR
+
+OD-čistiace prostriedky                                                                                                            19.10.2026 16.10.2026 30.10.2026 21.10.2026
+Položky: OcÚ-čistiace prostriedky, 1.000000 ks, Suma položky 77.26 Eur,
+657/2026                                                   12626           10741437      USK Stavebno-dopravná firma           Šarišské Bohdanovce 136, 08205 Šarišské Bohdanovce     500,00      ✔        EUR
+
+KD-preprava Poľsko                                                                                                                 19.10.2026 16.10.2026 27.10.2026 19.10.2026
+Položky: KD-preprava Poľsko, 1.000000 ks, Suma položky 500.00 Eur,
+656/2026                                                   2501710651      36570460      Východoslovenská vodárenská spoločnosť, a.s.
+                                                                                                                            Komenského 62/50, 04001 Košice-Sever                     2 439,87     ✔        EUR
+
+vodné 08.04.2026-14.10.2026                                                                                                        19.10.2026 16.10.2026 16.11.2026 21.10.2026
+Položky: vodné Osloboditeľov 310/1, 1.000000 ks, Suma položky 2439.87 Eur,
+655/2026                                                   20261015        42083541      JUDr. Martin Staroň, advokát          Hlavná 2915/89, 08001 Prešov                           369,00      ✔        EUR
+
+právne služby za 10/2026                                                                                                           19.10.2026 15.10.2026 30.10.2026 21.10.2026
+Položky: právne služby za 10/2026, 1.000000 ks, Suma položky 369.00 Eur,
+654/2026                                                   FV260077        50305905      PJ senior, s. r. o.                   Petrovany 230, 08253 Petrovany                         967,00      ✔        EUR
+
+Príspevok na stravu pre dôchodcov za 09/2026                                                                                       19.10.2026 13.10.2026 27.10.2026 21.10.2026
+Položky: Príspevok na obedy pre občanov, 1.000000 ks, Suma položky 967.00 Eur,
+653/2026                                                   8417469077      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       58,75      ✔        EUR
+
+Elektrina-splátka za 09/2026 - ul.kpt.Nálepku                                                                                      16.10.2026 12.10.2026 27.10.2026 16.10.2026
+Položky: elektrina-splátka za 09/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 58.75 Eur,
+652/2026                                                   8417469078      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       21,37      ✔        EUR
+
+Elektrina-splátka za 09/2026 - ul. Osloboditeľov                                                                                   16.10.2026 12.10.2026 27.10.2026 16.10.2026
+Položky: VO-elektrina-splátka za 09/2026- ul. Osloboditeľov, 1.000000 ks, Suma položky 21.37 Eur,
+650/2026                                                   8417469076      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       48,66      ✔        EUR
+
+Elektrina-splátka za 09/2026 - ul.kpt.Nálepku                                                                                      16.10.2026 12.10.2026 27.10.2026 16.10.2026
+Položky: elektrina-splátka za 09/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 48.66 Eur,
+649/2026                                                   8417469080      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                      127,84      ✔        EUR
+
+Elektrina-splátka za 09/2026 - ul.kpt.Nálepku                                                                                      16.10.2026 12.10.2026 27.10.2026 16.10.2026
+Položky: elektrina-splátka za 09/2026 - ul. Osloboditeľov, 1.000000 ks, Suma položky 127.84 Eur,
+647/2026                                                   17              41750373      Michal Porvažník                      Letná 541/20, 08204 Drienov                            310,00      ✔        EUR
+
+Príspevok na stravu pre dôchodcov za 09/2026                                                                                       16.10.2026 14.10.2026 28.10.2026 16.10.2026
+Položky: Príspevok na obedy pre občanov, 1.000000 ks, Suma položky 310.00 Eur,
+
+
+
+
+                                                                                                      Strana 3 / 8                                                                  Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                         27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                 Číslo        Číslo faktúry
+   Faktúry          objednávky              zmluvy         dodávateľa Ičo              Obchodný Názov              Adresa                                                 Suma Vrátane dph Mena
+                                                                                                                        Dátum     Dátum     Dátum           Dátum
+Predmet                                                                                                                príchodu vystavenia splatnosti       úhrady   Dokument
+646/2026                                                  20260089       51980452      Jozef Bruzda STROV servis   Hlavná 102/76, 08222 Ostrovany                         155,00     ✔        EUR
+
+OD- odborná a servisná prehliadka plynového kotla                                                                      16.10.2026 13.10.2026 27.10.2026 16.10.2026
+Položky: MŠ- odborná a servisná prehliadka plynového kotla, 1.000000 ks, Suma položky 155.00 Eur,
+645/2026                                                  20260088       51980452      Jozef Bruzda STROV servis   Hlavná 102/76, 08222 Ostrovany                         144,00     ✔        EUR
+
+MŠ- odborná a servisná prehliadka plynového kotla                                                                      16.10.2026 13.10.2026 27.10.2026 16.10.2026
+Položky: KD- oprava plynového topidla, 1.000000 ks, Suma položky 144.00 Eur,
+644/2026                                                  2026162        47190221      KORIDA Group, s.r.o.        Ličartovce 308, 08203 Ličartovce                     1 819,00     ✔        EUR
+
+V Drienove na kerce - kulturne podujatie                                                                               16.10.2026 13.10.2026 13.10.2026 16.10.2026
+Položky: V Drienove na kerce - kulturne podujatie, 1.000000 ks, Suma položky 1819.00 Eur,
+643/2026                                                  26002          41913264      Marek Golodžej - GOLO       Drienov 70, 08204 Drienov                            1 190,91     ✔        EUR
+
+ZŠ-materiál na opravu priestorov                                                                                       13.10.2026 12.10.2026 26.10.2026 16.10.2026
+Položky: ZŠ-materiál na opravu priestorov, 1.000000 ks, Suma položky 1190.91 Eur,
+642/2026                                                  20260024       37876848      Základná škola              Námestie kpt. Nálepku 225/12, 08204 Drienov            279,18     ✔        EUR
+
+MŠ- strava učiteliek za 09/2026                                                                                        13.10.2026 30.09.2026 15.10.2026 16.10.2026
+Položky: MŠ-stravné, 1.000000 ks, Suma položky 279.18 Eur,
+641/2026                                                  112618381      36205214      KOSIT a.s.                  Rastislavova 98, 04346 Košice                        9 885,92     ✔        EUR
+
+vývoz odpadu 09/2026                                                                                                   13.10.2026 06.10.2026 07.11.2026 04.11.2026
+Položky: vývoz VOK, , 1.000000 ks, Suma položky 9885.92 Eur,
+640/2026                                                  212026         50298283      AVILIO, s.r.o.              Letná 389 9, 08204 Drienov                             150,00     ✔        EUR
+
+OCU-vykopové práce                                                                                                     12.10.2026 05.10.2026 19.10.2026 12.10.2026
+Položky: OCU-vykopové práce, 1.000000 ks, Suma položky 150.00 Eur,
+639/2026                                                  2600642        33634319      Iveta Sokolová-OPTIMA       Tokajícka 4, 04001 Košice                               10,34     ✔        EUR
+
+OcÚ - kopírovacie služby za 09/2026                                                                                    08.10.2026 02.10.2026 09.10.2026 08.10.2026
+Položky: OcÚ- kopírovacie služby za 09/2026, 1.000000 ks, Suma položky 10.34 Eur,
+638/2026                                                  01102026       41067207      Martin Sabol - STAV,EL      Bretejovce 83, 08203 Bretejovce                        344,46     ✔        EUR
+
+ŠJ-elektromontážne práce                                                                                               07.10.2026 01.10.2026 11.10.2026 07.10.2026
+Položky: Oprava- futbal.šastne, objekt DHZ, 1.000000 ks, Suma položky 344.46 Eur,
+637/2026                                                  FV-94136/2026 51183455       Commander Services s.r.o.   Žitná 7213/23, 83106 Bratislava-Rača                   11,07      ✔        EUR
+
+MONITOR-TOYOTA                                                                                                         07.10.2026 30.09.2026 14.10.2026 07.10.2026
+Položky: MONITOR-TOYOTA, 1.000000 ks, Suma položky 11.07 Eur,
+
+
+
+
+                                                                                                    Strana 4 / 8                                                       Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                                        27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                 Číslo        Číslo faktúry
+   Faktúry          objednávky              zmluvy         dodávateľa Ičo              Obchodný Názov                         Adresa                                                     Suma Vrátane dph Mena
+                                                                                                                                    Dátum     Dátum     Dátum              Dátum
+Predmet                                                                                                                            príchodu vystavenia splatnosti          úhrady   Dokument
+636/2026                                                  202610031        36498980    LIM Po, s.r.o.                         Jesenná 1, 08005 Prešov                                     39,80     ✔        EUR
+
+Voľby - vlajky                                                                                                                     07.10.2026 07.10.2026 17.10.2026 07.10.2026
+Položky: Voľby - vlajky, 1.000000 ks, Suma položky 39.80 Eur,
+635/2026                                                  26100176         55901921    Jana Hudáková                          Zlatá Baňa 84, 08252 Zlatá Baňa                            616,00     ✔        EUR
+
+spracovanie miezd za 09/2026                                                                                                       07.10.2026 02.10.2026 16.10.2026 07.10.2026
+Položky: Spracovanie miezd, 1.000000 ks, Suma položky 616.00 Eur,
+634/2026                                                  F260061          36506575    RAPES, s.r.o.                          Pri Delni 15, 08005 Prešov                                  25,08     ✔        EUR
+
+OCú-materiál na opravy                                                                                                             06.10.2026 06.10.2026 13.10.2026 07.10.2026
+Položky: OCú-materiál na opravy, 1.000000 ks, Suma položky 25.08 Eur,
+633/2026                                                  8395935694       35763469    Slovak Telekom, a.s.                   Bajkalská 17978/28, 82109 Bratislava-Ružinov                19,84     ✔        EUR
+
+OcU-pevná linka (7931301) za 09/2026                                                                                               06.10.2026 01.10.2026 19.10.2026 19.10.2026
+Položky: OcÚ-pevná linka- starosta, 1.000000 ks, Suma položky 19.84 Eur,
+632/2026                                                  8395935651       35763469    Slovak Telekom, a.s.                   Bajkalská 17978/28, 82109 Bratislava-Ružinov                19,64     ✔        EUR
+
+MŠ-pevná linka za 09/2026 7939149                                                                                                  06.10.2026 01.10.2026 19.10.2026 19.10.2026
+Položky: MŠ-pevná linka, 1.000000 ks, Suma položky 19.64 Eur,
+631/2026                                                  1701377334       31361081    SHELL Slovakia, s.r.o.                 Einsteinova 23, 85101 Bratislava-Petržalka                 407,80     ✔        EUR
+
+PHL-KIA,FABIA,KOSENIE                                                                                                              06.10.2026 30.09.2026 10.10.2026 12.10.2026
+Položky: 1.000000 ks, Suma položky 405.83 Eur, PHL-TOYOTA,HYUNDAI, 1.000000 ks, Suma položky 1.97 Eur,
+630/2026                                                  2026140          47190221    KORIDA Group, s.r.o.                   Ličartovce 308, 08203 Ličartovce                           172,00     ✔        EUR
+
+Príspevok na stravu pre dôchodcov za 09/2026                                                                                       06.10.2026 30.09.2026 10.10.2026 07.10.2026
+Položky: Príspevok na obedy pre občanov, 1.000000 ks, Suma položky 172.00 Eur,
+629/2026                                                  26kdi01378       00687022    E K O T E C spol. s r.o.               Lamačská cesta 2657/20, 84103 Bratislava-Lamač             480,93     ✔        EUR
+
+ZŠ Drienov-konrola bezpečnosti multifnkčného ihriska, FI-detské ihrisko                                                            06.10.2026 30.09.2026 14.10.2026 07.10.2026
+Položky: ZŠ Drienov-konrola bezpečnosti multifnkčného ihriska, 1.000000 ks, Suma položky 282.90 Eur, FI-detské ihrisko, 1.000000
+ks, Suma položky 198.03 Eur,
+628/2026                                                  2026/54          55571611    TREFAM s. r. o.                        Hlavná 34/75, 04431 Družstevná pri Hornáde                 130,00     ✔        EUR
+
+ZŠ-prenájom plošiny                                                                                                                06.10.2026 28.09.2026 12.10.2026 07.10.2026
+Položky: ZŠ-prenájom plošiny, 1.000000 ks, Suma položky 130.00 Eur,
+627/2026                                                  7294294941       44483767    Energetika Slovensko, a. s.            Čulenova 4883/6, 81109 Bratislava-Staré Mesto              260,16     ✔        EUR
+
+MŠ-elektrina za 09/2026                                                                                                            06.10.2026 05.10.2026 19.10.2026 07.10.2026
+Položky: MŠ-elektrina, 1.000000 ks, Suma položky 260.16 Eur,
+
+
+
+                                                                                                    Strana 5 / 8                                                                      Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                                    27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                 Číslo         Číslo faktúry
+   Faktúry          objednávky              zmluvy          dodávateľa Ičo              Obchodný Názov                        Adresa                                                 Suma Vrátane dph Mena
+                                                                                                                                   Dátum     Dátum     Dátum          Dátum
+Predmet                                                                                                                           príchodu vystavenia splatnosti      úhrady    Dokument
+626/2026                                                  7294494170      44483767      Energetika Slovensko, a. s.           Čulenova 4883/6, 81109 Bratislava-Staré Mesto          254,79     ✔        EUR
+
+OcÚ-elektrina za 09/2026                                                                                                          06.10.2026 05.10.2026 19.10.2026 19.10.2026
+Položky: OcÚ-elektrina, 1.000000 ks, Suma položky 254.79 Eur,
+625/2026                                                  FV-82467/2026 51183455        Commander Services s.r.o.             Žitná 7213/23, 83106 Bratislava-Rača                   11,07      ✔        EUR
+
+MONITOR-TOYOTA                                                                                                                    06.10.2026 31.08.2026 14.09.2026 06.10.2026
+Položky: MONITOR-TOYOTA, 1.000000 ks, Suma položky 11.07 Eur,
+624/2026                                                  8395935610      35763469      Slovak Telekom, a.s.                  Bajkalská 28, 81762 BRATISLAVA                          63,48     ✔        EUR
+
+OcÚ-pevné linky za 09/2026 7939122                                                                                                06.10.2026 01.10.2026 19.10.2026 07.10.2026
+Položky: OcÚ-pevná linka, 1.000000 ks, Suma položky 63.48 Eur,
+623/2026                                                  8395819150      35763469      Slovak Telekom, a.s.                  Bajkalská 28, 81762 Bratislava                         159,51     ✔        EUR
+
+Mobily OcÚ, nehlasové služby VO za obdobie 09/2026                                                                                06.10.2026 01.10.2026 19.10.2026 07.10.2026
+Položky: Matrika- mobil, 1.000000 ks, Suma položky 9.00 Eur, TSP- mobil, 1.000000 ks, Suma položky 36.00 Eur, OcÚ-mobily,
+1.000000 ks, Suma položky 76.06 Eur, VO-nehlasové služby, 1.000000 ks, Suma položky 20.00 Eur, ostatné, 1.000000 ks, Suma
+položky 18.45 Eur,
+622/2026                                                  FV260634        52083900      ATH-PO Trade s.r.o.                   Záborské 225, 08253 Záborské                           356,70     ✔        EUR
+
+činnosť BOZP 1.7.2026-30.9.2026                                                                                                   06.10.2026 30.09.2026 14.10.2026 07.10.2026
+Položky: činnosť BOZP , 1.000000 ks, Suma položky 356.70 Eur,
+621/2026                                                  8612979235      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                    2 005,00     ✔        EUR
+
+Plyn na obdobie 10/2026                                                                                                           02.10.2026 01.10.2026 02.11.2026 02.11.2026
+Položky: ŠJ-plyn, 1.000000 ks, Suma položky 678.00 Eur, KD-plyn, 1.000000 ks, Suma položky 187.00 Eur, OcÚ-plyn, 1.000000 ks,
+Suma položky 79.00 Eur, MŠ-plyn, 1.000000 ks, Suma položky 599.00 Eur, Plyn na obdobie 10/2026, 1.000000 ks, Suma položky
+462.00 Eur,
+620/2026                                                  8612980227      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       35,00     ✔        EUR
+
+VO-elektrina - splátka - za 10/2026 - Mierova                                                                                     02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: VO-elektrina - splátka - za 10/2026 - Mierova, 1.000000 ks, Suma položky 35.00 Eur,
+619/2026                                                  8612980226      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       65,00     ✔        EUR
+
+VO-elektrina - splátka - za 10/2026 Partizánska                                                                                   02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: VO-elektrina - splátka - za 08/2026 Partizánska, 1.000000 ks, Suma položky 65.00 Eur,
+618/2026                                                  8612980225      35815256      Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                       21,00     ✔        EUR
+
+VO-elektrina - splátka - za 10/2026                                                                                               02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: VO-elektrina - splátka - za 10/2026, 1.000000 ks, Suma položky 21.00 Eur,
+
+
+
+
+                                                                                                    Strana 6 / 8                                                                  Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                                           27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                 Číslo        Číslo faktúry
+   Faktúry          objednávky              zmluvy         dodávateľa Ičo                 Obchodný Názov                        Adresa                                                      Suma Vrátane dph Mena
+                                                                                                                                     Dátum     Dátum     Dátum           Dátum
+Predmet                                                                                                                             príchodu vystavenia splatnosti       úhrady   Dokument
+617/2026                                                  8612980224       35815256       Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                           30,00      ✔        EUR
+
+VO-elektrina - splátka - za 10/2026 Osloboditeľov                                                                                   02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: VO-elektrina - splátka - za 09/2026- Osloboditeľov, 1.000000 ks, Suma položky 30.00 Eur,
+616/2026                                                  81612980223      35815256       Slovenský plynárenský priemysel, a.s. Mlynské Nivy 44, 82104 Bratislava                          108,00      ✔        EUR
+
+VO-elektrina - splátka - za 10/2026 Kpt.nalepku                                                                                     02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: VO-elektrina - splátka - za 10/2026 -mš, 1.000000 ks, Suma položky 108.00 Eur,
+615/2026                                                  2380827890       35958120       Lyreco CE, SE                         Panholec 6105/20, 90201 Pezinok                            259,06      ✔        EUR
+
+MŠ-hygienické potreby                                                                                                               02.10.2026 30.09.2026 14.10.2026 07.10.2026
+Položky: MŠ-hygienické potreby, 1.000000 ks, Suma položky 259.06 Eur,
+614/2026                                                  20260353         54226112       Osobnyudaj.sk - KB IV, s.r.o.         Námestie osloboditeľov 3/0 A, 04001 Košice-Staré Mesto     132,00      ✔        EUR
+
+Poskytovanie služieb v oblasti kybernetiky                                                                                          02.10.2026 01.10.2026 16.10.2026 07.10.2026
+Položky: Správa siete a údržba PC, 1.000000 ks, Suma položky 132.00 Eur,
+613/2026                                                  26018453         47192941       Galileo Corporation s.r.o.            Boženy Němcovej 8, 81104 Bratislava-Staré Mesto            430,50      ✔        EUR
+
+služby                                                                                                                              02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: služby, 1.000000 ks, Suma položky 430.50 Eur,
+612/2026                                                  26018168         47192941       Galileo Corporation s.r.o.            Boženy Němcovej 8, 81104 Bratislava-Staré Mesto            121,77      ✔        EUR
+
+služby                                                                                                                              02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: služby, 1.000000 ks, Suma položky 121.77 Eur,
+611/2026                                                  26018167         47192941       Galileo Corporation s.r.o.            Boženy Němcovej 8, 81104 Bratislava-Staré Mesto            103,32      ✔        EUR
+
+služby+monitoring 01.10.2026-30.10.2026                                                                                             02.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: služby+monitoring 01.10.2026-30.10.2026, 1.000000 ks, Suma položky 103.32 Eur,
+610/2026                                                  112617685        44506031       Elis Textile Care SK s. r. o.         Ľudovíta Stárka 2150/16, 91105 Trenčín                      61,41      ✔        EUR
+
+výmena rohoží - OcÚ 09/2026                                                                                                         02.10.2026 30.09.2026 14.10.2026 07.10.2026
+Položky: výmena rohoží - OcÚ 09/2026, 1.000000 ks, Suma položky 61.41 Eur,
+609/2026                                                  8413140986       44483767       Energetika Slovensko, a. s.           Čulenova 4883/6, 81109 Bratislava-Staré Mesto               38,00      ✔        EUR
+
+OcÚ-elektrina za 10/2026                                                                                                            01.10.2026 01.10.2026 15.10.2026 15.10.2026
+Položky: OcÚ-elektrina, 1.000000 ks, Suma položky 38.00 Eur,
+608/2026                                                  FV262681         36503754       M.S.Profi, s.r.o., Ličartovce         Ličartovce 227, 08203 Lemešany                              63,69      ✔        EUR
+
+internet na 10/2026                                                                                                                 01.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: OcÚ-internet, 1.000000 ks, Suma položky 46.09 Eur, MŠ-internet, 1.000000 ks, Suma položky 17.60 Eur,
+
+
+
+
+                                                                                                       Strana 7 / 8                                                                      Vytlačené systémom Korwin TM
+IČO:     00326984                                                                                                                                                                                    27.11.2026
+Názov: Obec Drienov
+Sídlo:   Mierová 506/1
+         Drienov 08204
+
+
+    Číslo              Číslo                Číslo        Číslo faktúry
+   Faktúry          objednávky             zmluvy         dodávateľa Ičo             Obchodný Názov                           Adresa                                                  Suma Vrátane dph Mena
+                                                                                                                                   Dátum     Dátum     Dátum        Dátum
+Predmet                                                                                                                           príchodu vystavenia splatnosti    úhrady      Dokument
+607/2026                                                 FV2600156      43538941     Mgr. Rastislav Pribula-OXCOM             Drienov 0, 08204 Drienov                                308,00    ✔          EUR
+
+správa siete, akutalizácie webu,                                                                                                  01.10.2026 01.10.2026 15.10.2026 07.10.2026
+Položky: Správa siete a údržba PC, 1.000000 ks, Suma položky 288.00 Eur, Aktualizácia webu, 1.000000 ks, Suma položky 20.00
+Eur,
+606/2026                                                 FV2600133      43538941     Mgr. Rastislav Pribula-OXCOM             Drienov 0, 08204 Drienov                                 16,89    ✔          EUR
+
+OCU-toner do tlačiarne                                                                                                            01.10.2026 19.08.2026 02.09.2026 01.10.2026
+Položky: OCU-toner do tlačiarne, 1.000000 ks, Suma položky 16.89 Eur,
+                                                                                                                                                                             Spolu:            56 696,44
+
+
+
+
+                                                                                                Strana 8 / 8                                                                      Vytlačené systémom Korwin TM
+

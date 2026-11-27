@@ -1,0 +1,386 @@
+URL: https://obec.dobraobec.sk/files/84/uradna_tabula/11e13_Výdaj návrh rozpočtu na roky 2027-2029.pdf
+OBEC: Záhor (Sobrance)
+NÁZOV: 11e13_Výdaj návrh rozpočtu na roky 2027-2029.pdf
+ZDROJ: web obce
+
+Obec Záhor S/N 1                                                                                            N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený: 11.12.2026                                                                            Strana č.   1
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+41    R                0111 611                      TARIF.,OS.,ZAKL.,PLAT, FUNK.PLAT POLICAJ           58 514,09    61 225,79         71 900,-         71 900,-      65 250,-       65 250,-        65 250,-
+                       0111 611         TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                        58 514,09    61 225,79         71 900,-         71 900,-      65 250,-       65 250,-        65 250,-
+111 R                  0111 614                         MR mzdy za 4/2025 ocu                                         2 456,28
+                       0111 614         ODMENY                                                                        2 456,28
+41    R                0111 621                    POISTNE DO VSEOBECNEJ ZDRAVOTNEJ POISTOV                                39,60
+                       0111 621         POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV                                           39,60
+111 R                  0111 623                    MR ZP Dôvera za 5/2025 ocu zúčt                                      264,-
+41 R                   0111 623                    POISTNE DO OSTATNYCH ZDRAVOTNYCH POISTOV              5 762,90     8 583,60           8 100,-         8 100,-       8 100,-        8 100,-         8 100,-
+                       0111 623         POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                         5 762,90     8 847,60           8 100,-         8 100,-       8 100,-        8 100,-         8 100,-
+41    R                0111    625001            Na nemocenske poistenie                                  748,96        935,92             950,-           950,-         950,-          950,-           950,-
+111   R                0111    625002            MR Na starobne poistenie zúčtov                                      1 070,84
+41    R                0111    625002            Na starobne poistenie                                   7 442,80     8 912,50          9 400,-          9 400,-       9 400,-        9 400,-         9 400,-
+41    R                0111    625003            Na urazove poistenie                                      427,95       554,97            470,-            470,-         470,-          470,-           470,-
+41    R                0111    625004            Na invalidné poistenie                                  1 605,27     2 002,73          2 000,-          2 000,-       2 000,-        2 000,-         2 000,-
+41    R                0111    625005            Na poistenie v nezamestnanosti                            534,68       666,42            500,-            500,-         500,-          500,-           500,-
+41    R                0111    625007            Na poistenie do rezervného fondu solidar                2 541,59     3 295,77          2 800,-          2 800,-       2 800,-        2 800,-         2 800,-
+                       0111    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                    13 301,25    17 439,15         16 120,-         16 120,-      16 120,-       16 120,-        16 120,-
+41    R                0111 631001           Cestovné náhrady tuzemské                                    600,-       1 200,-            1 200,-         1 200,-       1 200,-        1 200,-         1 200,-
+                       0111 631    CESTOVNÉ NÁHRADY                                                       600,-       1 200,-            1 200,-         1 200,-       1 200,-        1 200,-         1 200,-
+41    R                0111    632001            MR Energie plyn č.23                                                 3 561,17
+41    R                0111    632002            Vodne, stocne                                             62,69         63,16             100,-           100,-         100,-          100,-           100,-
+41    R                0111    632003            Postove a telekomunikacne sluzby                         266,-         347,80             300,-           300,-         300,-          300,-           300,-
+41    R                0111    632005            Telekomunikačné služby                                   658,14        783,10             900,-           900,-         900,-          900,-           900,-
+41    R                0111    632006            Elektrina ocu                                                                                                         1 500,-        1 500,-         1 500,-
+41    R                0111    632007            Plyn ocu                                                                                                              6 300,-        6 300,-         6 300,-
+                       0111    632    ENERGIE, VODA A KOMUNIKÁCIE                                         986,83      4 755,23           1 300,-         1 300,-       9 100,-        9 100,-         9 100,-
+41    R                0111    633001                   Interiérové vybavenie                             413,29
+41    R                0111    633002                   Vypoctova technika                                                352,80
+41    R                0111    633003                   Telekomunikacna technika                                            0,10
+111   R                0111    633004                   MR skartovačka                                      34,99
+41    R                0111    633004                   Prevadzkove stroje,pristroje,zariadenia,           322,99     1 732,42           1 000,-         1 000,-         500,-          500,-           500,-
+111   R                0111    633006                   Vseobecny material-REGOB,RA                        194,87       227,88             300,-           300,-         300,-          300,-           300,-
+41    R                0111    633006                   Vseobecny material                               1 964,06     3 121,29           3 000,-         3 000,-       2 000,-        2 000,-         2 000,-
+41    R                0111    633009                   Knihy,casopisy,noviny,ucebnice,ucebne a             58,43       130,69             200,-           200,-         200,-          200,-           200,-
+41    R                0111    633010                   Pracovné odevy,obuv a pracovné pomôcky              33,50
+41    R                0111    633011                   Potraviny                                                        24,52
+41    R                0111    633013                   Softver a licencie                                 515,80       885,34             800,-           800,-         500,-          500,-           500,-
+41    R                0111    633016                   Reprezentacne                                      263,42       256,11             300,-           300,-         200,-          200,-           200,-
+                       0111    633    MATERIÁL                                                           3 801,35     6 731,15           5 600,-         5 600,-       3 700,-        3 700,-         3 700,-
+41    R                0111    634001                   Palivo, maziva, oleje, specialne kvapali         1 719,04     1 293,06           2 500,-         2 500,-       1 500,-        1 500,-         1 500,-
+Obec Záhor S/N 1                                                                                             N á v r h r o z p o č t u - podrobný výpis              VÝDAVKY
+Schválený:                                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený: 11.12.2026                                                                            Strana č.   2
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024           2025        Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+41    R                0111 634002                      Servis, udrzba, opravy a vydavky s tym s                                           100,-           100,-         100,-          100,-           100,-
+                       0111 634    DOPRAVNÉ                                                              1 719,04      1 293,06          2 600,-         2 600,-       1 600,-        1 600,-         1 600,-
+41    R                0111    635002            Vypoctovej techniky                                                                       100,-           100,-         100,-          100,-           100,-
+41    R                0111    635004            Prevadzkovych strojov,pristrojov,zariade                7 309,95         621,69         1 000,-         1 000,-         500,-          500,-           500,-
+41    R                0111    635006            Budov, priestorov a objektov                           16 674,28
+41    R                0111    635009            Unikátneho Softvéru                                        32,75
+                       0111    635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                       24 016,98         621,69         1 100,-         1 100,-         600,-          600,-           600,-
+41    R                0111 636001           MR nájomné SPF                                                 32,75          76,06
+                       0111 636    NÁJOMNÉ ZA NÁJOM                                                         32,75          76,06
+41    R                0111    637001                   Skolenia, kurzy, seminare, porady, konfe           177,-         358,-             300,-           300,-         400,-          400,-           400,-
+41    R                0111    637002                   Konkurzy a sutaze                                2 537,82      1 376,80          1 000,-         1 000,-         200,-          200,-           200,-
+41    R                0111    637003                   Propagácia, reklama a inzercia                     120,-                           300,-           300,-         300,-          300,-           300,-
+111   R                0111    637004                   Vseobecne sluzby-spol.úradovňa                      77,69     1 125,58
+41    R                0111    637004                   Vseobecne sluzby                                 1 414,-      5 218,10           3 500,-         3 500,-       3 500,-        3 500,-         3 500,-
+41    R                0111    637007                   Cestovné náhrady                                                460,-
+41    R                0111    637011                   Štúdie, expertízy, posudky                         700,-        900,-           1 000,-          1 000,-       1 000,-        1 000,-         1 000,-
+41    R                0111    637012                   Poplatky a odvody                                  470,55       338,04            300,-            300,-         400,-          400,-           400,-
+41    R                0111    637014                   Stravovanie                                     10 200,-      8 820,80         15 000,-         15 000,-      15 000,-       15 000,-        15 000,-
+41    R                0111    637015                   Poistne                                            609,09       606,09            700,-            700,-         700,-          700,-           700,-
+41    R                0111    637016                   Prídel do sociálneho fondu                                       74,70
+41    R                0111    637026                   Odmeny a prispevky                                  70,-        930,20             800,-           800,-         500,-          500,-           500,-
+41    R                0111    637031                   Pokuty a penale                                                 110,-
+111   R                0111    637037                   MR Vrátka z bežných transferov                                2 179,-
+                       0111    637    SLUŽBY                                                            16 376,15    22 497,31         22 900,-         22 900,-      22 000,-       22 000,-        22 000,-
+41    R                0111    642006            Na clenske prispevky                                     994,40       1 168,52         1 000,-          1 000,-       1 000,-        1 000,-         1 000,-
+41    R                0111    642012            Na odstupne                                                                           15 000,-         15 000,-
+41    R                0111    642014            záloha na stravné lístky                                              2 004,-
+                       0111    642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                            994,40       3 172,52        16 000,-         16 000,-       1 000,-        1 000,-         1 000,-
+
+                       0111    Výkonné a zákonodarné orgány                                            126 105,74   130 355,44        146 820,-        146 820,-     128 670,-      128 670,-       128 670,-
+41    R                0112 611                      MZDA KONTROLÓR                                                                      3 600,-         3 600,-       3 600,-        3 600,-         3 600,-
+                       0112 611         TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                                                         3 600,-         3 600,-       3 600,-        3 600,-         3 600,-
+41    R                0112 623                    ZP KONTROLÓR                                                                            400,-           400,-         400,-          400,-           400,-
+                       0112 623         POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                                                           400,-           400,-         400,-          400,-           400,-
+41    R                0112    625001            Na nemocenské poistenie                                                                    50,-            50,-          50,-           50,-            50,-
+41    R                0112    625002            Na starobné poistenie                                                                     500,-           500,-         500,-          500,-           500,-
+41    R                0112    625003            Na úrazové poistenie                                                                       30,-            30,-          30,-           30,-            30,-
+41    R                0112    625007            Na poistenie do rezervného fondu solidar                                                  200,-           200,-         200,-          200,-           200,-
+                       0112    625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                                                       780,-           780,-         780,-          780,-           780,-
+41    R                0112    637012                   Poplatky a odvody                                 786,18          443,83           500,-           500,-         500,-          500,-           500,-
+Obec Záhor S/N 1                                                                                      N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                   Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                         Zvesený: 11.12.2026                                                                            Strana č.   3
+
+             Kód                                                  Výdavky podľa                    Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie              2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                            2028
+                                                                                                                                                                               2024
+                                                                                                                                                                                 2029 2024
+                                                                                                                                                                                         2029 2024
+                       0112 637         SLUŽBY                                                      786,18          443,83           500,-           500,-         500,-          500,-           500,-
+
+                       0112 Finančné a rozpočtové záležitosti                                       786,18          443,83         5 280,-         5 280,-       5 280,-        5 280,-         5 280,-
+111 R                  0160 611                      MR mzdy za 4/2024 ocu                          295,20
+                       0160 611         TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                    295,20
+111 R                  0160 623                    MR ZP Union za 4/2024 ocu                         32,47
+                       0160 623         POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                     32,47
+111 R                  0160 625002            MR Na starobne poistenie                               70,71
+                       0160 625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                    70,71
+111 R                  0160 631001           MR VPO                    69/PV cestovné vo             95,80
+                       0160 631    CESTOVNÉ NÁHRADY                                                  95,80
+111 R                  0160 632003            MR VPO      18/PV poštovné vo                           2,40
+111 R                  0160 632005            MR telefón ocu                                         15,-
+                       0160 632    ENERGIE, VODA A KOMUNIKÁCIE                                       17,40
+111 R                  0160    633006                   MR Vseobecny material voľby pre              87,70
+111 R                  0160    633016                   MR VPO     41/PV občerstveni                171,54
+41 R                   0160    633016                   MR VPO     41/PV občerstveni                  6,20
+                       0160    633    MATERIÁL                                                      265,44
+111   R                0160    637007                   MR    VPO      42/PV cestovné vo             460,40
+111   R                0160    637014                   MR    VPO      71/PV stravné voľ             191,40
+111   R                0160    637026                   MR    VPO      39/PV odmena voľb           2 510,35
+111   R                0160    637037                   MR    Vrátka za voľby prezidenta S           220,04
+                       0160    637    SLUŽBY                                                       3 382,19
+
+                       0160    Všeobecné verejné služby inde neklasifikované                       4 159,21
+41    R                0170 651002            Splátka úrokov z úveru                               2 093,88     1 423,70           1 500,-         1 500,-       1 500,-        1 500,-         1 500,-
+                       0170 651    SPLÁCANIE ÚROKOV V TUZEMSKU                                     2 093,88     1 423,70           1 500,-         1 500,-       1 500,-        1 500,-         1 500,-
+41    R                0170 653001            Manipulacne poplatky                                  295,75          214,94           300,-           300,-         300,-          300,-           300,-
+                       0170 653    OSTAT.PLATBY SÚVIS. S ÚVEROM,POŽ.,NÁVR.F                         295,75          214,94           300,-           300,-         300,-          300,-           300,-
+
+                       0170 Transakcie verejného dlhu                                              2 389,63     1 638,64           1 800,-         1 800,-       1 800,-        1 800,-         1 800,-
+41    R                0320 642001            Obcianskym zdruzeniam a nadaciam PO                                    50,-            100,-           100,-         100,-          100,-           100,-
+                       0320 642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                                          50,-            100,-           100,-         100,-          100,-           100,-
+
+                       0320 Ochrana pred požiarmi                                                                    50,-            100,-           100,-         100,-          100,-           100,-
+41    R                0451 635006            Budov, priestorov a objektov                                      9 963,-            1 000,-         1 000,-      25 000,-       25 000,-        25 000,-
+                       0451 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                                  9 963,-            1 000,-         1 000,-      25 000,-       25 000,-        25 000,-
+
+                       0451 Cestná doprava                                                                      9 963,-            1 000,-         1 000,-      25 000,-       25 000,-        25 000,-
+111 R                  0510    637004                   MR za vývoz TKO                              515,87       579,70
+41 R                   0510    637004                   Vseobecne sluzby                           6 400,72     8 904,20         11 000,-         11 000,-      15 000,-       15 000,-        15 000,-
+Obec Záhor S/N 1                                                                                            N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený: 11.12.2026                                                                            Strana č.   4
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+                       0510 637         SLUŽBY                                                           6 916,59     9 483,90         11 000,-         11 000,-      15 000,-       15 000,-        15 000,-
+
+                       0510 Nakladanie s odpadmi                                                         6 916,59     9 483,90         11 000,-         11 000,-      15 000,-       15 000,-        15 000,-
+111   R                0620    633004                   Prevadzkove stroje,pristroje,zariadenia,         1 004,13         897,96
+41    R                0620    633004                   Prevadzkove stroje,pristroje,zariadenia,            26,27         344,44
+111   R                0620    633010                   Pracovne odevy,obuv a pracovne pomocky             531,13         376,89
+41    R                0620    633010                   MR VPO       224/PV pracovné od                      3,89
+                       0620    633    MATERIÁL                                                           1 565,42     1 619,29
+41 R                   0620    637004                   Všeobecné služby-kamerový systém                   54,-
+111 R                  0620    637015                   Poistne AČ                                                        139,21
+41 R                   0620    637015                   Poistenie AČ                                      411,24           90,42
+                       0620    637    SLUŽBY                                                              465,24          229,63
+
+                       0620 Rozvoj obcí                                                                  2 030,66     1 848,92
+41    R                0640 632001            Energie                                                    2 006,73     2 261,88           2 500,-         2 500,-       2 000,-        2 000,-         2 000,-
+                       0640 632    ENERGIE, VODA A KOMUNIKÁCIE                                           2 006,73     2 261,88           2 500,-         2 500,-       2 000,-        2 000,-         2 000,-
+41    R                0640 633006                      Všeobecný materiál                                192,-
+                       0640 633    MATERIÁL                                                               192,-
+41    R                0640 635006            Budov, priestorov a objektov VO a MR                        141,60          299,37           300,-           300,-         300,-          300,-           300,-
+                       0640 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                            141,60          299,37           300,-           300,-         300,-          300,-           300,-
+41    R                0640 637004                      Všeobecné služby                                   60,-
+                       0640 637    SLUŽBY                                                                  60,-
+
+                       0640    Verejné osvetlenie                                                        2 400,33     2 561,25           2 800,-         2 800,-       2 300,-        2 300,-         2 300,-
+41    R                0660 633006                      Všeobecný materiál 4.b.j.                                          87,10           100,-           100,-         100,-          100,-           100,-
+                       0660 633    MATERIÁL                                                                                87,10           100,-           100,-         100,-          100,-           100,-
+41    R                0660 635006            Budov, priestorov a objektov 4.b.j.                                                          500,-           500,-         500,-          500,-           500,-
+                       0660 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                                                             500,-           500,-         500,-          500,-           500,-
+41    R                0660 637004                      Vseobecne sluzby                                   64,-            88,-            200,-           200,-         200,-          200,-           200,-
+                       0660 637    SLUŽBY                                                                  64,-            88,-            200,-           200,-         200,-          200,-           200,-
+
+                       0660 Bývanie a občianska vybavenosť inde neklasifikovan                             64,-           175,10           800,-           800,-         800,-          800,-           800,-
+41    R                0810 632001            energie ihrisko                                             312,-           412,92           350,-           350,-         300,-          300,-           300,-
+41    R                0810 632002            Vodné ihrisko                                                15,23           14,38            40,-            40,-          50,-           50,-            50,-
+                       0810 632    ENERGIE, VODA A KOMUNIKÁCIE                                            327,23          427,30           390,-           390,-         350,-          350,-           350,-
+41    R                0810 633006                      Všeobecný materiál ihrisko                          7,-                             50,-            50,-          50,-           50,-            50,-
+                       0810 633    MATERIÁL                                                                 7,-                             50,-            50,-          50,-           50,-            50,-
+41    R                0810 635006            Budov, priestorov a objektov                                                506,83
+                       0810 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                                            506,83
+41    R                0810 637004                      Všeobecné služby                                                    2,-
+                       0810 637    SLUŽBY                                                                                   2,-
+Obec Záhor S/N 1                                                                                  N á v r h r o z p o č t u - podrobný výpis              VÝDAVKY
+Schválený:                                                                              Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                    Zvesený: 11.12.2026                                                                            Strana č.   5
+
+             Kód                                                  Výdavky podľa               Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie         2024           2025        Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                       2028
+                                                                                                                                                                          2024
+                                                                                                                                                                            2029 2024
+                                                                                                                                                                                    2029 2024
+41    R                0810 642001            príspevok TJ                                    9 000,-       7 500,-           7 500,-         7 500,-       8 000,-        8 000,-         8 000,-
+                       0810 642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                   9 000,-       7 500,-           7 500,-         7 500,-       8 000,-        8 000,-         8 000,-
+
+                       0810 Rekreačné a športové služby                                       9 334,23      8 436,13          7 940,-         7 940,-       8 400,-        8 400,-         8 400,-
+41    R                0820    632001            Energie- KM                                  1 328,10      1 887,22          2 000,-         2 000,-
+41    R                0820    632002            Vodné KM                                        60,54         42,29             50,-            50,-         100,-          100,-           100,-
+41    R                0820    632006            Elektrina KM                                                                                                 500,-          500,-           500,-
+41    R                0820    632007            Plyn KM                                                                                                    2 000,-        2 000,-         2 000,-
+                       0820    632    ENERGIE, VODA A KOMUNIKÁCIE                             1 388,64      1 929,51          2 050,-         2 050,-       2 600,-        2 600,-         2 600,-
+41    R                0820 633006                      Všeobecný materiál KM                  180,25          123,30           200,-           200,-         100,-          100,-           100,-
+                       0820 633    MATERIÁL                                                    180,25          123,30           200,-           200,-         100,-          100,-           100,-
+41    R                0820 635006            Budov, priestorov a objektov                                                      500,-           500,-         500,-          500,-           500,-
+                       0820 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                                                  500,-           500,-         500,-          500,-           500,-
+41    R                0820 637002                      Kultúrne a športové podujatia          232,20                                                       7 000,-        7 000,-         7 000,-
+41    R                0820 637004                      Všeobecné služby KM                    169,-           237,70           200,-           200,-         200,-          200,-           200,-
+                       0820 637    SLUŽBY                                                      401,20          237,70           200,-           200,-       7 200,-        7 200,-         7 200,-
+41    R                0820 642001            JDZ                                             2 000,-       1 000,-           2 000,-         2 000,-       3 000,-        3 000,-         3 000,-
+                       0820 642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                   2 000,-       1 000,-           2 000,-         2 000,-       3 000,-        3 000,-         3 000,-
+
+                       0820 Kultúrne služby                                                   3 970,09      3 290,51          4 950,-         4 950,-      13 400,-       13 400,-        13 400,-
+41    R                0830 635006             údržba MR                                       277,20                           300,-           300,-         300,-          300,-           300,-
+                       0830 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                 277,20                           300,-           300,-         300,-          300,-           300,-
+41    R                0830 637012                      Poplatky a odvody                        58,56          67,28           100,-           100,-         100,-          100,-           100,-
+                       0830 637    SLUŽBY                                                        58,56          67,28           100,-           100,-         100,-          100,-           100,-
+41    R                0830 642006            na akcie kultúrne                                             1 058,85          3 000,-         3 000,-
+                       0830 642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                                 1 058,85          3 000,-         3 000,-
+
+                       0830    Vysielacie a vydavateľské služby                                335,76       1 126,13          3 400,-         3 400,-         400,-          400,-           400,-
+111   R                0840    632001            MR Energie-dom smútku plyn                     342,64
+41    R                0840    632001            Energie-dom smútku                           1 107,82      1 608,20          1 500,-         1 500,-
+41    R                0840    632002            Vodne, stocne                                   13,47         12,31             50,-            50,-          50,-           50,-            50,-
+41    R                0840    632006            Elektrina DS                                                                                                 500,-          500,-           500,-
+41    R                0840    632007            Plyn DS                                                                                                    1 200,-        1 200,-         1 200,-
+                       0840    632    ENERGIE, VODA A KOMUNIKÁCIE                             1 463,93      1 620,51          1 550,-         1 550,-       1 750,-        1 750,-         1 750,-
+41    R                0840 633006                      Vseobecny material                     343,50                           100,-           100,-         100,-          100,-           100,-
+                       0840 633    MATERIÁL                                                    343,50                           100,-           100,-         100,-          100,-           100,-
+41    R                0840 635006            Údržba a úprava cintorína                        144,-
+                       0840 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                 144,-
+41    R                0840 637004                      Vseobecne sluzby                         99,-          599,-            100,-           100,-         100,-          100,-           100,-
+                       0840 637    SLUŽBY                                                        99,-          599,-            100,-           100,-         100,-          100,-           100,-
+Obec Záhor S/N 1                                                                                           N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                        Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                              Zvesený: 11.12.2026                                                                            Strana č.   6
+
+             Kód                                                  Výdavky podľa                         Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                   2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                 2028
+                                                                                                                                                                                    2024
+                                                                                                                                                                                      2029 2024
+                                                                                                                                                                                              2029 2024
+
+                       0840 Náboženské a iné spoločenské služby                                         2 050,43     2 219,51           1 750,-         1 750,-       1 950,-        1 950,-         1 950,-
+111 R                  09111 611                     mzdy MŠ                                                        26 959,49         40 000,-         40 000,-      34 850,-       34 850,-        34 850,-
+41 R                   09111 611                     TARIF.,OS.,ZAKL.,PLAT, FUNK.PLAT POLICAJ          36 342,61    34 145,68         20 000,-         20 000,-
+                       09111 611        TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                       36 342,61    61 105,17         60 000,-         60 000,-      34 850,-       34 850,-        34 850,-
+111 R                  09111 614                        MR mzdy MŠ za 5/2025 odmeny 800                              2 880,-
+                       09111 614        ODMENY                                                                       2 880,-
+111 R                  09111 623                   POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                          4 565,86           4 000,-         4 000,-       3 400,-        3 400,-         3 400,-
+41 R                   09111 623                   POISTNE DO OSTATNYCH ZDRAVOTNYCH POISTOV             3 977,59     1 177,35           1 500,-         1 500,-
+                       09111 623        POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                        3 977,59     5 743,21           5 500,-         5 500,-       3 400,-        3 400,-         3 400,-
+111   R                09111 625001            Na nemocenské poistenie                                                 545,26            500,-            500,-         400,-          400,-           400,-
+41    R                09111 625001            Na nemocenske poistenie                                   563,39        319,91            300,-            300,-
+111   R                09111 625002            Na starobné poistenie                                                 6 610,99          6 000,-          6 000,-       4 400,-        4 400,-         4 400,-
+41    R                09111 625002            Na starobne poistenie                                    5 635,84     1 542,20          2 000,-          2 000,-
+111   R                09111 625003            Na úrazové poistenie                                                    370,32            300,-            300,-         350,-          350,-           350,-
+41    R                09111 625003            Na urazove poistenie                                      321,93         67,63            100,-            100,-
+111   R                09111 625004            Na invalidné poistenie                                                1 251,90          1 200,-          1 200,-         900,-          900,-           900,-
+41    R                09111 625004            Na invalidné poistenie                                   1 147,43       303,02            200,-            200,-
+111   R                09111 625005            Na poistenie v nezamestnanosti                                          367,92            350,-            350,-         300,-          300,-           300,-
+41    R                09111 625005            Na poistenie v nezamestnanosti                            365,39        148,03            100,-            100,-
+111   R                09111 625007            Na poistenie do rezervného fondu solidar                              2 145,35          2 000,-          2 000,-       1 400,-        1 400,-         1 400,-
+41    R                09111 625007            Na poistenie do rezervného fondu solidar                 1 912,02       497,86          1 500,-          1 500,-
+                       09111 625    POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                      9 946,-     14 170,39         14 550,-         14 550,-       7 750,-        7 750,-         7 750,-
+41    R                09111 631001           Cestovné náhrady tuzemské                                   15,80                            50,-            50,-          50,-           50,-            50,-
+                       09111 631    CESTOVNÉ NÁHRADY                                                      15,80                            50,-            50,-          50,-           50,-            50,-
+111   R                09111 632001            MR Uhrada FP za plyn MŠ z účtu                                        3 660,60           4 000,-         4 000,-
+41    R                09111 632001            Energie                                                  3 289,21       255,94           1 000,-         1 000,-
+111   R                09111 632002            Vodné, stočné                                                           115,13             100,-           100,-         100,-          100,-           100,-
+41    R                09111 632002            Vodne, stocne                                              94,67                            60,-            60,-          50,-           50,-            50,-
+111   R                09111 632005            Telekomunikačné služby                                                    248,15           300,-           300,-         300,-          300,-           300,-
+41    R                09111 632005            Telekomunikačné služby                                    201,16
+111   R                09111 632006            Elektrina MŠ                                                                                                             500,-          500,-           500,-
+111   R                09111 632007            plyn MŠ                                                                                                                1 500,-        1 500,-         1 500,-
+                       09111 632    ENERGIE, VODA A KOMUNIKÁCIE                                         3 585,04     4 279,82           5 460,-         5 460,-       2 450,-        2 450,-         2 450,-
+111   R                09111   633006                   Všeobecný materiál                               491,70      1 133,54             600,-           600,-         300,-          300,-           300,-
+41    R                09111   633006                   Vseobecny material                               442,38        264,74             200,-           200,-
+111   R                09111   633009                   Knihy,časopisy,noviny,učebnice,učebné a                        425,92             200,-           200,-         200,-          200,-           200,-
+111   R                09111   633011                   Potraviny z dotie strava                        3 031,-      3 637,16
+72f   R                09111   633011                   Potraviny                                       1 516,49     1 994,04           2 000,-         2 000,-
+111   R                09111   633013                   MR Softver a licencie MŠ                                       117,88
+41    R                09111   633013                   Softver a licencie MŠ                                           68,88
+Obec Záhor S/N 1                                                                                            N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený: 11.12.2026                                                                            Strana č.   7
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+                       09111 633        MATERIÁL                                                         5 481,57     7 642,16           3 000,-         3 000,-         500,-          500,-           500,-
+111 R                  09111 635006            MR VPO     96/PV Za uloženie                                               300,-
+41 R                   09111 635006            MR výmena dverí MŠ                                         800,-
+                       09111 635    RUTINNÁ A ŠTANDARDNÁ ÚDRŽBA                                           800,-           300,-
+41 R                   09111 637001                     Skolenia, kurzy, seminare, porady, konfe                                            50,-            50,-          50,-           50,-            50,-
+111 R                  09111 637002                     Konkurzy a súťaže                                                  80,-            200,-           200,-         100,-          100,-           100,-
+41 R                   09111 637002                     Konkurzy a sutaze                                  85,24
+111 R                  09111 637004                     Všeobecné služby                                                  356,33
+41 R                   09111 637004                     Vseobecne sluzby                                   173,-           15,-            100,-           100,-         300,-          300,-           300,-
+111 R                  09111 637015                     Poistne                                            268,36         268,36           200,-           200,-         300,-          300,-           300,-
+131N R                 09111 637037                     MR Vrátka z bežných transferov                   1 371,60
+131O R                 09111 637037                     MR Vratenie nevyčer. bežných do                                 968,10
+                       09111 637    SLUŽBY                                                               1 898,20     1 687,79             550,-           550,-         750,-          750,-           750,-
+41 R                   09111 642001            Obcianskym zdruzeniam a nadaciam                            25,-
+111 R                  09111 642014            MR záloha na stravné lístky MŠ                                         1 968,-
+                       09111 642    TRANSFERY JEDNOTLIVCOM A NEZISKOVÝM PRÁV                               25,-       1 968,-
+
+                       09111 Predprimárne vzdelávanie s bežnou starostlivosťou                          62 071,81    99 776,54         89 110,-         89 110,-      49 750,-       49 750,-        49 750,-
+111 R                  09121 611                     TARIF.,OS.,ZAKL.,PLAT, FUNK.PLAT POLICAJ           26 265,04    26 202,18         65 000,-         65 000,-
+41 R                   09121 611                     MR Preúčtovanie kodu zdroja - m                    26 024,02    43 692,56
+                       09121 611        TARIF.,OS.,ZÁKL.,FUNKČ.,HODNOST.,PLAT, P                        52 289,06    69 894,74         65 000,-         65 000,-
+111 R                  09121 614                        MR mzdy za 5/2025 ZŠ                                          1 840,-
+                       09121 614        ODMENY                                                                        1 840,-
+111 R                  09121 621                   MR VŠZP za 5/2025 ZŠ odmeny                           1 329,07     2 388,08           2 200,-         2 200,-
+41 R                   09121 621                   MR VŠZP za 11/20 ZŠ                                     364,43
+                       09121 621        POISTNÉ DO VŠEOBECNEJ ZDRAVOTNEJ POISŤOV                         1 693,50     2 388,08           2 200,-         2 200,-
+111 R                  09121 623                   MR ZP Dôvera za 5/2025 ZŠ odmen                       3 503,66     5 092,26           5 000,-         5 000,-
+41 R                   09121 623                   MR ZP Union za 11/20 ZŠ                                 830,90
+                       09121 623        POISTNÉ DO OSTATNÝCH ZDRAVOTNÝCH POISŤOV                         4 334,56     5 092,26           5 000,-         5 000,-
+111   R                09121   625001                   MR Na nemocenske poistenie                         571,84     1 015,80             900,-           900,-
+41    R                09121   625001                   MR Na nemocenske poistenie                         152,22
+111   R                09121   625002                   MR Na starobne poistenie                         6 471,32    10 160,40           9 000,-         9 000,-
+41    R                09121   625002                   MR Na starobne poistenie                           771,41
+111   R                09121   625003                   Na urazove poistenie                               326,80         580,32           600,-           600,-
+41    R                09121   625003                   MR Na urazove poistenie                             86,89
+111   R                09121   625004                   Na invalidné poistenie                           1 064,92     2 177,03           2 000,-         2 000,-
+41    R                09121   625004                   MR Na invalidné poistenie                          325,98
+111   R                09121   625005                   Na poistenie v nezamestnanosti                     381,25         725,37           750,-           750,-
+41    R                09121   625005                   MR Na poistenie v nezamestnanos                    135,75
+111   R                09121   625007                   Na poistenie do rezervného fondu solidar         1 941,06     3 447,07           3 000,-         3 000,-
+41    R                09121   625007                   MR Na poistenie do rezervného f                    516,13
+Obec Záhor S/N 1                                                                                            N á v r h r o z p o č t u - podrobný výpis               VÝDAVKY
+Schválený:                                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                               Zvesený: 11.12.2026                                                                            Strana č.   8
+
+             Kód                                                  Výdavky podľa                          Skutočné plnenie                      2026                              Návrh rozpočtu
+          programu/     klasifikácie
+Zdroj T podprogramu funkčnej ekonom. investičná akcia Popis ekonomickej klasifikácie                    2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                  2028
+                                                                                                                                                                                     2024
+                                                                                                                                                                                       2029 2024
+                                                                                                                                                                                               2029 2024
+                       09121 625        POISTNÉ DO SOCIÁLNEJ POISŤOVNE                                  12 745,57    18 105,99         16 250,-         16 250,-
+111 R                  09121 631001           Cestovné náhrady tuzemské                                                                     50,-            50,-
+                       09121 631    CESTOVNÉ NÁHRADY                                                                                        50,-            50,-
+111   R                09121 632001            Energie                                                   3 283,-      4 512,60           5 000,-         5 000,-
+111   R                09121 632002            Vodne, stocne                                               179,36        77,51             200,-           200,-
+111   R                09121 632003            Postove a telekomunikacne sluzby                              2,50                           50,-            50,-
+111   R                09121 632005            Telekomunikačné služby                                      178,69         244,45           250,-           250,-
+41    R                09121 632005            MR telefón ZŠ                                                21,21
+                       09121 632    E

@@ -1,0 +1,1205 @@
+URL: https://cuet.slovensko.sk/en/dokument/b85cd2c6-d4a0-4e08-8682-74c0e67a463e
+OBEC: Prešovský samosprávny kraj (Prešov)
+NÁZOV: Návrh rozpočtu_PSK_2027_2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/b85cd2c6-d4a0-4e08-8682-74c0e67a463e
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu_PSK_2027_2029
+Search publisher's RSS feeds
+Published on official board:
+Prešovský samosprávny kraj
+Published from:
+26.11.2026
+Registry symbol:
+AL
+Documents author:
+Prešovský samosprávny kraj
+Published to:
+10.12.2026
+Registry case:
+43871/2026
+Name of official document:
+Návrh rozpočtu_PSK_2027_2029
+Document type:
+Elektronický úradný dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Webové sídlo
+Date of alternative publication start:
+26.11.2026
+Date of alternative publication end:
+09.12.2026
+Attachment name:
+01.pdf
+Type and size:
+.pdf, 2.98 MB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+06.pdf
+Type and size:
+.pdf, 851.63 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+49.pdf
+Type and size:
+.pdf, 1.93 MB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/f311560f-74b8-46f2-b09b-fdb4530cd0c5
+                                   PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                               Návrh programového rozpočtu na roky 2027 - 2029
+
+Programový rozpočet na rok 2027-2029
+Poznámka: Údaj o skutočnom plnení za rok 2026 predstavuje stav k 30. 6. 2026.
+
+Program: 1 Plánovanie, manažment, kontrola
+
+Zámer: Profesionálny manažment kraja orientovaný na rast a rozvoj regiónu
+
+EK                2024 S        2025 S       2026 SR       2026 OS         2027 N        2028 N        2029 N
+BV               2 066 383 €   2 587 912 €   3 667 000 €   4 400 000 €    3 333 150 €   3 700 000 €   3 750 000 €
+KV               6 990 987 €           0€            0€            0€             0€            0€            0€
+SPOLU            9 057 370 €   2 587 912 €   3 667 000 €   4 400 000 €    3 333 150 €   3 700 000 €   3 750 000 €
+
+Komentár: Program zahŕňa komplexný manažment samosprávneho kraja vrátane funkcie predsedu PSK,
+ďalej aktivity a činnosti PSK súvisiace s plánovaním, riadením a koordináciou medzinárodnej spolupráce s
+územnými celkami alebo orgánmi iných štátov a s propagáciou kraja. Dôležitou časťou programu je kontrola
+výkonu kompetencií, hospodárenia a nakladania s majetkom PSK útvarom hlavného kontrolóra
+samosprávneho kraja a účasť kraja v samosprávnych organizáciách a združeniach pre zabezpečenie
+presadzovania záujmov PSK a jeho informovanosti na samosprávnych fórach, v záujmových združeniach
+právnických osôb a pod. Ďalším nástrojom pre účinné a transparentné napomáhanie plnenia politiky PSK je
+aj plynulý priebeh rozpočtového procesu a verné zobrazenie skutočného stavu majetku a záväzkov PSK.
+Pre zabezpečenie plánovania, manažmentu a kontroly v komplexnej podobe sú v rámci programového
+rozpočtu realizované a financované nasledujúce podprogramy: Samosprávne riadenie regiónu,
+Medzinárodné vzťahy, Kontrola, Manažment ekonomiky, Podpora všeobecne prospešných služieb v regióne,
+Členstvo v samosprávnych organizáciách a združeniach a Propagácia kraja.
+Finančné prostriedky predstavujú bežné výdavky na zabezpečenie jednotlivých aktivít v rámci uvedených
+podprogramov a to na aktivity spojené s výkonom predsedu PSK, na financovanie Centra podpory PSK, na
+členské príspevky, na zabezpečenie fungovania medzinárodnej spolupráce a na prezentáciu všetkých
+dôležitých informácií o činnosti Ú PSK, dianí v kraji, významných osobností kraja, informovanie o
+poskytovaných službách (príprava jednotlivých čísel Župných novín PSK, príprava televíznej relácie Týždeň
+v PSK, zabezpečenie operatívneho monitoringu informácií o kraji, príprava výjazdových rokovaní Predsedu
+PSK do jednotlivých okresov Prešovského kraja a pod.).
+
+Podprogram: 1.1 Samosprávne riadenie regiónu
+
+Zámer: Účinné riadenie regiónu
+
+Prvok: 1.1.1 Výkon funkcie predsedu
+
+Zámer: Zabezpečiť plynulý chod kancelárie predsedu.
+Zodpovednosť         Ing. Anna Antolová, MBA – Kancelária predsedu PSK
+Cieľ                 Zabezpečiť účasť predsedu kraja na najvýznamnejších podujatiach v PSK
+Merateľný ukazovateľ Výstup               Plánovaný počet podujatí s účasťou na najvyššej úrovni za rok spolu
+Rok                          2025               2026               2027            2028               2029
+Plánovaná hodnota             190                190                190             190                190
+Skutočná hodnota              202                101
+Cieľ                 Zabezpečiť prijatie občanov kraja u predsedu PSK
+Merateľný ukazovateľ Výstup               Plánovaný počet prijatí občanov u predsedu PSK
+Rok                          2025               2026               2027            2028               2029
+Plánovaná hodnota             800                800                800             800                800
+Skutočná hodnota              964                513
+Zapísal: Ing. Anna Antolová, MBA – Kancelária predsedu PSK
+
+
+                                                       1
+                                 PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                             Návrh programového rozpočtu na roky 2027 - 2029
+
+Komentár: Zahŕňa činnosti a aktivity kancelárie predsedu PSK pri príprave týždenného časového
+harmonogramu predsedu, zabezpečenie darov, občerstvenia a prislúchajúcich administratívnych činností
+kancelárie predsedu.
+Na realizáciu predmetného prvku sú rozpočtované bežné výdavky na zakúpenie darov, občerstvenia a pod.
+Poznámka:
+Pri počte prijatých občanov je počet stanovený podľa požiadaviek, ktoré sú písomne evidované v kancelárii
+predsedu PSK. Plánovaný počet môže byť vyšší, nakoľko predseda prijíma občanov aj mimo kancelárie, t.j.
+na výjazdoch, oficiálnych podujatiach a náhodných stretnutiach.
+
+Prvok: 1.1.2 Agenda SK8
+Zámer: Presadzovanie záujmov a potrieb PSK v rámci realizovaných podujatí Združenia SK8 na úrovni
+predsedu PSK.
+
+Zodpovednosť         PhDr. Lenka Karnižová, Mgr. Ľudmila Wišniovská - Kancelária predsedu PSK
+                     Presadzovanie záujmov a potrieb PSK v rámci realizovaných podujatí Združenia SK8 na
+Cieľ
+                     úrovni predsedu PSK alebo v jeho mene povereným zástupcom.
+Merateľný ukazovateľ Výstup                 Počet realizovaných podujatí
+Rok                           2025                2026            2027            2028         2029
+Plánovaná hodnota                                                   20              20          20
+Skutočná hodnota
+
+Zapísal: Ing. Anna Antolová, MBA - Kancelária predsedu PSK
+
+Komentár: V rámci daného prvku sa realizujú aktivity/podujatia organizované Združením SK8 s dôrazom
+na presadzovanie záujmov samosprávnych krajov a ich obyvateľov pri rešpektovaní ich autonómneho
+postavenia, aktívne ovplyvňovanie rozvoja samosprávnych funkcií, zjednocovanie postupu členov združenia
+pri vykonávaní im zverených kompetencií, navrhovanie riešenia problémov samosprávy vecne príslušným
+orgánom v súlade s Ústavou Slovenskej republiky a zákonmi Slovenskej republiky a s prihliadnutím na
+Európsku chartu samosprávy.
+
+Podprogram: 1.2 Medzinárodné vzťahy
+
+Zámer: Samosprávny kraj využívajúci medzinárodné možnosti pre rozvoj svojho územia
+
+Prvok: 1.2.2 Medzinárodná spolupráca
+
+Zámer: Zabezpečenie medzinárodnej spolupráce so zahraničnými partnermi.
+
+Zodpovednosť         Mgr. Patrícia Janošková Hnátová, MBE - Oddelenie zahraničných vzťahov a protokolu
+                     Zvýšiť úroveň rozvoja vzťahov a medzinárodnej spolupráce na podporu všestranného
+Cieľ
+                     rozvoja kraja
+Merateľný ukazovateľ Výstup                  Počet realizovaných medzinárodných aktivít
+Rok                           2025                 2026            2027             2028           2029
+Plánovaná hodnota              160                  160             160              160            160
+Skutočná hodnota               211                   90
+
+Zapísal: Ing. Anna Antolová, MBA – Kancelária predsedu PSK
+
+Komentár: Prešovský samosprávny kraj v zmysle zákona č. 302/2001 Z. z. o samospráve vyšších územných
+celkov v znení neskorších predpisov (§ 5 medzinárodná spolupráca), v rozsahu svojej pôsobnosti
+spolupracuje s územnými a správnymi celkami alebo s úradmi iných štátov na podporu realizácie
+rozvojových cieľov kraja v oblastiach regionálneho rozvoja, cestovného ruchu a životného prostredia,
+
+
+                                                    2
+                                  PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                              Návrh programového rozpočtu na roky 2027 - 2029
+
+sociálnych vecí a zdravotníctva, kultúry, vzdelávania, školstva a športu a i. Aktivity medzinárodnej
+spolupráce sa realizujú so zahraničnými partnermi -Abruzzo, Dubrovnícko-neretvianska župa, Horné
+Pyreneje, Ivano-Frankovská oblasť, Malopoľské vojvodstvo, More og Romsdal, Pardubický kraj,
+Podkarpatské vojvodstvo, Provence-Alpes-Côte d'Azur, Provincia Hebei/Memorandum, Vojvodina,
+Zakarpatská oblasť a i.; Agenda zahŕňa:
+a)plánovanie, organizovanie, realizovanie a vyhodnocovanie úrovne medzinárodnej spolupráce s územnými
+celkami alebo orgánmi cudzích štátov vykonávajúcimi regionálne funkcie;
+b)podpora a pomoc pri vytváraní a sieťovaní inštitucionálnych partnerstiev;
+c)príprava a spracovanie medzinárodne záväzných dokumentov s územnými celkami alebo orgánmi iných
+štátov: Dohôd o spolupráci, Deklarácii, Memoránd, Listov o zámere, Protokolov a i.;
+d)kompletné protokolárne a technické zabezpečenie a participácia na medzinárodných rokovaniach PSK so
+zahraničnými partnermi;
+e) protokolárne zabezpečenie návštev SR a stretnutí, akcií a eventov PSK – protokol vonkajšie vzťahy SR a
+PSK;
+f) zabezpečovanie odborných špecializovaných prekladov v zmysle kompetencií Úradu PSK;
+g) komplexné zabezpečovanie zahraničných služobných ciest PSK;
+h) zahraničná komunikácia a korešpondencia;
+i) agenda vo vzťahu k Medzivládnym komisiám a cezhraničná agenda.
+
+Podprogram: 1.3 Kontrola
+
+Zámer: Legitímne fungujúci kraj
+
+Prvok: 1.3.1 Kontrola verejných výdavkov
+
+Zodpovednosť         Mgr. Erika Lukáčová - Útvar hlavného kontrolóra
+Cieľ                 Zabezpečiť pravidelnú kontrolu výkonu kompetencií Úradu a zariadení PSK
+Merateľný ukazovateľ Výstup                 plánovaný počet kontrol za rok spolu
+Rok                            2025               2026             2027            2028               2029
+Plánovaná hodnota                60                  60              60              60                 60
+Skutočná hodnota                 64                  37
+                     Dosiahnuť zabezpečenie hospodárnosti pri nakladaní s majetkom a finančnými
+Cieľ                 prostriedkami kontrolou splnených opatrení z uložených opatrení prijatých na základe
+                     zistení z kontroly
+                                            % splnených opatrení z uložených opatrení prijatých na základe
+Merateľný ukazovateľ Výstup
+                                            zistení kontroly
+Rok                            2025               2026             2027            2028               2029
+Plánovaná hodnota               100                 100             100             100                100
+Skutočná hodnota                100                 100
+
+Zapísal: Mgr. Erika Lukáčová - Útvar hlavného kontrolóra
+
+Komentár: Prvok predstavuje činnosti Útvaru hlavného kontrolóra PSK realizované pri kontrole plnenia
+úloh samosprávneho kraja: hospodárenie s rozpočtovými prostriedkami samosprávneho kraja, hospodárenie
+a nakladanie s vlastným majetkom samosprávneho kraja, majetkom zvereným do správy alebo prenechaným
+do užívania, nakladanie s pohľadávkami a inými majetkovými právami a záväzkami v rámci následnej
+finančnej kontroly a pod. v súlade s platnou právnou legislatívou. Bežné výdavky na realizáciu predmetného
+prvku sú zahrnuté v programe 9 -Administratíva a predstavujú režijné výdavky (mzdy, platy a ostatné osobné
+vyrovnania, poistné a príspevok do poisťovní a tovary a služby) na jeho zabezpečenie.
+
+
+
+
+                                                     3
+                                  PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                              Návrh programového rozpočtu na roky 2027 - 2029
+
+Prvok: 1.3.2 Petície, sťažnosti, podania
+
+Zámer: Kontrola vybavovania sťažností a petícií na Úrade PSK.
+
+Zodpovednosť         Mgr. Erika Lukáčová - Útvar hlavného kontrolóra
+Cieľ                 Dosiahnuť vybavenie petícií, sťažností, a podania v súlade s legislatívou
+                                      % vybavených petícií, sťažností a podaní vybavovaných v zákonných
+Merateľný ukazovateľ Výstup
+                                      lehotách
+Rok                        2025              2026               2027              2028            2029
+Plánovaná hodnota           100               100                100                100            100
+Skutočná hodnota            100               100
+
+Zapísal: Mgr. Erika Lukáčová - Útvar hlavného kontrolóra
+
+Komentár: Prvok predstavuje vybavovanie petícií, sťažností a podaní v súlade s právnymi predpismi v
+súlade so zákonom č. 9/2010 Z.z o sťažnostiach a zákonom č. 29/2015 Z.z., ktorým sa mení a dopĺňa zákon
+č. 85/1990 Zb. o petičnom práve v znení neskorších predpisov.
+
+Podprogram: 1.4 Manažment ekonomiky
+
+Prvok: 1.4.1 Audit
+
+Zámer: Verné a pravdivé výkazníctvo PSK
+
+Zodpovednosť            Mgr. Jana Fričová - Odbor financií
+Cieľ                    Zabezpečiť objektívne zhodnotenie ekonomického riadenia PSK
+Merateľný ukazovateľ    Výstup              počet priebežných kontrol audítorom za rok spolu
+Merateľný ukazovateľ    Výstup              Povinný audit hospodárskej činnosti s výrokom "bez výhrad"
+Rok                            2025               2026             2027              2028            2029
+Plánovaná hodnota               Áno                Áno              Áno               Áno             Áno
+Skutočná hodnota                Áno                Áno
+
+Zapísal: Ing. Stanislava Fabianová – Odbor financií
+
+Komentár: Realizácia prvku zahŕňa posudzovanie a hodnotenie schopnosti PSK plniť si svoje záväzky,
+revízie účtov a kontrolu účtovníctva. Rozpočtované finančné prostriedky predstavujú bežné výdavky
+súvisiace s audítorskými službami.
+
+Prvok: 1.4.2 Rozpočtová politika
+
+Zámer: Zodpovedná rozpočtová a finančná politika
+
+Zodpovednosť               Mgr. Gabriela Futejová - Odbor financií
+Cieľ                       Zabezpečiť monitorovanie a hodnotenie plnenia rozpočtu
+Merateľný ukazovateľ       Výstup              Počet predložených správ o plnení rozpočtu za rok
+Rok                               2025               2026           2027             2028           2029
+Plánovaná hodnota                   2                  2              2                2              2
+Skutočná hodnota                    2                  1
+
+Zapísal: Ing. Stanislava Fabianová – Odbor financií
+
+
+
+
+                                                      4
+                                  PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                              Návrh programového rozpočtu na roky 2027 - 2029
+
+Komentár: Prvok zahŕňa činnosti a aktivity realizované pre plynulý priebeh rozpočtového procesu, ako
+nástroja pre účinné a transparentné napomáhanie plneniu politiky PSK. Správy o plnení rozpočtu sú
+predkladané dva krát ročne a to k 30.6., pričom súčasťou správy je Monitoring programového rozpočtu a k
+31.12., pričom súčasťou Záverečného účtu PSK je aj Hodnotiaca správa programového rozpočtu.
+
+Podprogram: 1.5 Centrum podpory PSK
+
+Zámer: Podpora organizácií v zriaďovateľskej pôsobnosti PSK v oblasti spracovania ekonomiky a miezd,
+informačno - komunikačných technológií, správy budov a zároveň dostupnosť zdravotnej starostlivosti.
+
+Zodpovednosť           Ing. Matúš Lukáč – Riaditeľ Centra podpory PSK
+Cieľ                   Poskytovanie služieb organizáciám v zriaďovateľskej pôsobnosti PSK
+Merateľný ukazovateľ   Výsledok                 Počet organizácií poskytujúcim služby Centra podpory PSK
+Rok                              2025                2026             2027            2028           2029
+Plánovaná hodnota                 19                   34              38              45             50
+Skutočná hodnota                  10                   21
+
+Zapísal: Ing. Stanislava Fabianová – Odbor financií
+
+Komentár: Činnosť Centra podpory PSK – rozpočtovej organizácie PSK spočíva v poskytovaní služieb v
+oblasti účtovníctva, rozpočtu, personalistiky a mzdového účtovníctva, výkazníctva a štátnej pokladnice.
+Zároveň poskytuje metodickú podporu, technickú podporu, správu digitálnych služieb, služby manažéra
+kybernetickej bezpečnosti, upratovacie služby a iné. Služby sú poskytované primárne organizáciám v
+zriaďovateľskej pôsobnosti PSK. Centrum podpory PSK je aj prevádzkovateľom zdravotnej starostlivosti v
+troch ambulanciách, ktoré sa nachádzajú v priestoroch na Volgogradskej 5 v Prešove.
+
+Podprogram: 1.6 Členstvo v samosprávnych organizáciách a združeniach
+
+Zámer: Účinné presadzovanie záujmov PSK vo všetkých strategických oblastiach
+
+Zodpovednosť            Ing. Daniela Fecková - Odbor strategického rozvoja
+Cieľ                    Zabezpečiť presadzovanie záujmov PSK pri rozvoji kraja
+Merateľný ukazovateľ    Výstup            počet združení na podporu rozvoja, v ktorých je PSK členom
+Rok                           2025              2026              2027              2028            2029
+Plánovaná hodnota               20                20                19               19              19
+Skutočná hodnota                21                21
+
+Zapísal: Mgr. Dominik Lejko – Odbor strategického rozvoja
+
+Komentár: Záujmové združenia právnických osôb:
+1. Agentúra regionálneho rozvoja PSK
+2. Energetický klaster Prešovského kraja
+3. Inovačné partnerské centrum Prešov
+4. Klaster AT+R
+5. Združenie samosprávnych krajov SK 8
+Neziskové organizácie:
+6. Krajské autistické centrum Prešov
+7. Ľubovnianska nemocnica
+8. PRO COMITATU
+9. Vranovská nemocnica
+10. Svet zdravia Akadémia Svidník
+11. Nadácia PSK pre podporu rodiny
+Akciové spoločnosti:
+12. Prešovské zdravotníctvo Humenné
+
+
+                                                      5
+                                   PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                               Návrh programového rozpočtu na roky 2027 - 2029
+
+13. Nemocnica arm. gen. L. Svobodu Svidník
+14. Nemocnica A. Leňa Humenné
+15. Vranovská nemocnica
+Spoločnosť s ručením obmedzeným:
+16. IDS Východ
+Ďalšie organizácie:
+17. Prešov Region, Krajská organizácii cestovného ruchu Severovýchod Slovenska, ktorá vznikla v zmysle
+zákona NR SR č. 91/2010 Z.z.
+18. Združenie Euroregión Tatry
+19. Združenie EUROMONTANA
+
+Podprogram: 1.7 Propagácia/Prezentácia kraja
+
+Zámer: Komunikujúci a maximálne prezentovaný kraj
+
+Komentár: Vybudovať samosprávny kraj, ktorý bude mať v povedomí svojich občanov a širšej verejnosti
+imidž moderného, dôveryhodného, priateľského participatívneho, komunikatívneho a otvoreného partnera.
+Úrad PSK bude pracovať so svojimi obyvateľmi a pre obyvateľov PSK tak, aby využil všetky možnosti, ako
+pre      každého        zabezpečiť       plnohodnotný,         zdravý       a       uspokojivý       život.
+Jedným z krokov, ktoré pomôžu naplniť túto víziu, je zlepšovanie imidžu úradu, poslaneckého zboru a dôvery
+občanov k nemu, jeho zamestnancom, voleným zástupcom, predovšetkým zlepšovaním informovanosti,
+budovaním dobrých vzťahov s verejnosťou vlastnými zamestnancami i poslaneckým zborom.
+
+Prvok: 1.7.1 Mediálna propagácia kraja
+
+Zámer: Systematický a pravidelný výstup informácií o dianí v kraji.
+
+Zodpovednosť         Mgr. Daša Jeleňová - Oddelenie komunikácie, Mgr. Michal Fischer - Oddelenie marketingu
+                     Zabezpečiť maximálnu informovanosť o kraji prostredníctvom interných a externých
+Cieľ
+                     výstupov
+Merateľný ukazovateľ Výstup          Počet vydaných a rozdistribuovaných čísiel periodika Spravodaj PSK za rok
+Merateľný ukazovateľ Výstup          Počet zorganizovaných tlačových besied a brífingov
+Rok                       2025              2026                2027               2028              2029
+Plánovaná hodnota           35                35                  35                35                 35
+Skutočná hodnota            41                30
+Merateľný ukazovateľ Výstup          Počet vydaných tlačových správ a informácií pre médiá
+Rok                       2025              2026                2027               2028              2029
+Plánovaná hodnota          500               500                 500                500               500
+Skutočná hodnota           634               403
+                                     Počet televíznych relácií Týždeň v PSK vyrobených a odvysielaných v
+Merateľný ukazovateľ Výstup
+                                     lokálnych televíziách
+Rok                       2025              2026                2027               2028              2029
+Plánovaná hodnota           48                48                  46                46                 46
+Skutočná hodnota            43                23
+Merateľný ukazovateľ Výstup          Počet vydaných informačných newslettrov
+Rok                       2025              2026                2027               2028              2029
+Plánovaná hodnota           12                12                  12                12                 12
+Skutočná hodnota            12                 6
+Merateľný ukazovateľ Výstup          Počet printových vydaní magazínu PSK - PO kraji
+Rok                       2025              2026                2027               2028              2029
+Plánovaná hodnota           4                  4                  2                  2                 2
+Skutočná hodnota            4                  1
+Merateľný ukazovateľ Výstup          Počet tematicky a príležitostne vydaných tlačovín PSK
+
+
+
+                                                       6
+                                   PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                               Návrh programového rozpočtu na roky 2027 - 2029
+
+Rok                       2025               2026               2027               2028               2029
+Plánovaná hodnota           2                  2                  2                  2                  2
+Skutočná hodnota            8                  6
+Merateľný ukazovateľ Výstup           Počet sledovateľov na facebooku
+Rok                       2025               2026               2027              2028               2029
+Plánovaná hodnota         21 000            21 500             22 000             23 000             25 000
+Skutočná hodnota          25 000            27 000
+Merateľný ukazovateľ Výstup           Počet príspevkov na instagrame
+Rok                       2025               2026               2027               2028               2029
+Plánovaná hodnota          150                150                150                150                150
+Skutočná hodnota           484                240
+Merateľný ukazovateľ Výstup           Počet sledovateľov na instagrame
+Rok                       2025               2026               2027              2028               2029
+Plánovaná hodnota                                              27 000             29 000             31 000
+Skutočná hodnota
+
+Zapísal: Ing. Anna Antolová, MBA – Kancelária predsedu PSK
+
+Komentár: Predmetný prvok má zabezpečiť maximálne množstvo informácií o kompetenciách, činnosti a
+aktivitách Úradu PSK pre všetkých obyvateľov kraja. Využívame na to vlastné komunikačné kanály smerom
+k obyvateľom, ako i externé kanály. Medzi interné kanály patrí televízna relácia Týždeň v PSK, newsletter
+a printový magazín PO kraji. Tieto informačné médiá sprostredkovávajú obyvateľom kraja dôležité udalosti
+a        informácie,        prezentujú        osobnosti         kraja,       jednotlivé        organizácie.
+TV relácia Týždeň v PSK je vysielaná s týždennou periodicitou v 16 lokálnych televíziách Prešovského kraja.
+Mesačný newsletter je rozosielaný na cca 1 200 mailových adries v rámci Úradu PSK, inštitúcií v
+zriaďovateľskej pôsobnosti PSK, poslaneckého zboru PSK a do miest a obcí Prešovského kraja.
+PSK od roku 2021 vydáva vlastné printové noviny PO kraji, ktoré sú distribuované do všetkých poštových
+schránok v celom regióne Prešovského kraja.
+Okrem toho PSK tematicky prispieva podľa potrieb a požiadaviek aj do ďalších printových médií.
+Osobitnou kategóriou je správa sociálnych sietí, predovšetkým facebooku a instagramu, kde na dennej báze
+sú prezentované aktivity PSK.
+Externé komunikačné kanály zahŕňajú médiá, ktoré nemožno ovplyvňovať a s ktorými kraj proaktívne
+komunikuje - organizáciou tlačových besied, distribúciou tlačových správ, informácií a odpovedí pre
+novinárov.
+Tlačové besedy sú organizované pravidelne pri významným udalostiach a podujatiach.
+Oddelenie komunikácie vydáva vlastné tlačové správy, v ktorých informuje o činnosti a aktivitách PSK a
+zároveň promptne reaguje na novinárske dopyty týkajúce sa rôznych oblastí a diania v krajskej samospráve.
+Oddelenie marketingu realizuje propagáciu samosprávneho kraja aj prostredníctvom zabezpečenia
+propagačných predmetov rôzneho druhu i charakteru pri rôznych udalostiach PSK ako i podujatiach, kde kraj
+poskytuje spoluprácu a záštitu.
+
+Prvok: 1.7.2 Externá propagácia kraja
+
+Zámer: Prezentácia kraja pre potencionálnych návštevníkov.
+
+Zodpovednosť         PhDr. Dáša Uharčeková Pavúková - Odbor kultúry
+                     Prezentovať kraj ako atraktívny pre návštevníkov a priateľský a otvorený pre
+Cieľ
+                     obyvateľov
+                                      Počet verejných podujatí a aktivít pozitívne predstavujúcich činnosť,
+Merateľný ukazovateľ Výstup
+                                      kompetencie a zaujímavosti kraja
+Rok                        2025              2026               2027                2028               2029
+Plánovaná hodnota            8                 8                  8                   8                  8
+Skutočná hodnota            10                 5
+
+
+
+                                                        7
+                                  PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                              Návrh programového rozpočtu na roky 2027 - 2029
+
+                                       Počet spoločenských podujatí a aktivít pozitívne predstavujúcich činnosť,
+Merateľný ukazovateľ Výstup
+                                       kompetencie a zaujímavosti kraja
+Rok                       2025                2026             2027                 2028               2029
+Plánovaná hodnota           5                   5                 5                   5                  5
+Skutočná hodnota            5                   4
+
+Zapísal: PhDr. Gabriela Vašková - Odbor kultúry
+
+Komentár: Prvok externá propagácia kraja predstavuje všetky činnosti a aktivity PSK, ktoré prezentujú kraj
+ako mimoriadne atraktívny a zaujímavý región pre návštevníkov a povzbudzujú ich k návšteve. Zároveň sa
+obyvateľom kraja pozitívne prezentuje a zviditeľňuje ako dôveryhodná inštitúcia, ktorá má k občanom blízko
+a mapuje ich potreby.
+Medzi verejné podujatia, ktorými sa kraj pozitívne prezentuje patrí napríklad: Súťaž stredoškolských
+časopisov škôl Prešovského kraja, podujatia Kniha roka PSK, Týždeň knižníc, Európsky týždeň mobility a
+iné.
+Medzi spoločenské podujatia, ktoré zvyšujú prestíž kraja možno zaradiť: Benefičný bowlingový turnaj o
+putovný pohár predsedu PSK, Pedagóg a žiak PSK, Cena PSK a Cena predsedu PSK, Krídla túžby a iné.
+
+Prvok: 1.7.4 Monitoring médií
+
+Zámer: Mapovanie dosahu a úspešnosti zverejnených informácií o kraji.
+
+Zodpovednosť                     Mgr. Daša Jeleňová - Oddelenie komunikácie
+Cieľ                             Získať prehľad o publikovaných výstupoch o kraji
+Merateľný ukazovateľ             Výstup               Počet dodaných monitoringov o kraji
+Rok                                     2025              2026          2027           2028             2029
+Plánovaná hodnota                        350                350          350             350             350
+Skutočná hodnota                         355                180
+
+Zapísal: Ing. Anna Antolová, MBA – Kancelária predsedu PSK
+
+Komentár: Monitoring médií je dôležitým doplnkom všetkých mediálnych a prezentačných aktivít kraja,
+pretože ukazuje ich úspešnosť podľa počtu zverejnených informácií v slovenských médiách. Monitoring slúži
+pre všetkých vedúcich pracovníkov úradu ako pomôcka a spätná väzba na ich aktivity.
+
+Prvok: 1.7.5 Informácie na webovom sídle PSK
+
+                     Mgr. Nicole Removčíková – Odbor informačno-komunikačných technológií, Ing. Matej Bajzík
+Zodpovednosť
+                     – Odbor informačno-komunikačných technológií
+                     Poskytnúť prehľadný a komplexný prístup k informáciám a službám samosprávy a
+Cieľ
+                     Prešovského kraja, a tým prispieť k zvyšovaniu návštevnosti webového sídla
+Merateľný ukazovateľ Výstup            Počet rôznych používateľov (návštevnosť) webového sídla PSK [ ks ]
+Rok                         2025              2026             2027              2028             2029
+Plánovaná hodnota         150 000           160 000           170 000           180 000          190 000
+Skutočná hodnota          230 000           128 000
+
+Zapísal: Mgr. Pavlína Baranová – Odbor informačno-komunikačných technológií
+
+Komentár: V zmysle platnej legislatívy je PSK (ako verejná správa) povinný zverejňovať množstvo
+informácií a služieb zameraných pre občanov kraja. Webové sídlo PSK sa pravidelne aktualizuje a vyvíja,
+aby sa prispôsobilo nielen legislatívnym predpisom, ale aj dynamickému vývoju a požiadavkám
+návštevníkov stránok PSK.
+
+
+
+                                                       8
+                                   PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                               Návrh programového rozpočtu na roky 2027 - 2029
+
+Program: 2 Rozvoj kraja
+
+Zámer: Všestranný rozvoj kraja a jeho maximálna prezentácia
+
+EK               2024 S        2025 S       2026 SR        2026 OS         2027 N         2028 N         2029 N
+BV              3 666 989 €   4 062 850 €   7 752 990 €    5 550 000 €    4 912 000 €    5 410 000 €    5 420 000 €
+KV              4 367 606 €   1 918 255 € 157 229 912 €    5 435 000 €   12 037 473 €    8 224 437 €   11 117 379 €
+SPOLU           8 034 595 €   5 981 105 € 164 982 902 €   10 985 000 €   16 949 473 €   13 634 437 €   16 537 379 €
+
+Komentár: Program Rozvoj kraja predstavuje aktivity a činnosti, prostredníctvom ktorých najmä:
+vypracováva a vyhodnocuje analýzy rozvoja kraja a jeho častí, zabezpečuje a koordinuje vypracovanie a
+realizáciu programu hospodárskeho a sociálneho rozvoja samosprávneho kraja, pravidelne ho monitoruje a
+každoročne vyhodnocuje jeho plnenie, koordinuje vypracovanie a plnenie sektorových a odvetvových
+stratégií a koncepcií rozvoja kraja, vypracováva a vyhodnocuje rozvojový program verejných prác
+samosprávneho kraja, spolupracuje s príslušnými orgánmi štátnej správy, so samosprávou obcí a miest, ich
+združeniami, s ďalšími samosprávnymi krajmi, s ostatnými partnermi pôsobiacimi v oblasti regionálneho
+rozvoja, vykonáva činnosti súvisiace s obstarávaním, prerokovávaním a schvaľovaním územnoplánovacích
+podkladov samosprávneho kraja, vykonáva činnosti súvisiace s utváraním podmienok na rozvoj cestovného
+ruchu a koordinuje jeho rozvoj na území samosprávneho kraja, spolupracuje s ministerstvami a ostatnými
+ústrednými orgánmi štátnej správy v rámci systému riadenia a kontroly pomoci poskytovanej z fondov
+Európskeho                                                                                spoločenstva.
+V rámci programu sú poskytované aj dotácie na rozvoj kraja v zmysle platných VZN PSK a financovanie
+Energetickej agentúry SMART PSK.
+
+Podprogram: 2.1 Strategické dokumenty a územné plánovanie
+
+Zámer: Kvalitne vypracované rozvojové a územno - plánovacie dokumenty kraja
+
+Komentár: Strategické plánovanie je metóda riadenia používaná na koordináciu jednotlivých činností, ktoré
+súvisia s plánovaním, realizáciou a vyhodnocovaním aktivít spolufinancovaných z verejných zdrojov a
+určených na regionálny rozvoj. Samosprávny kraj sa pri výkone samosprávy stará o všestranný rozvoj svojho
+územia a o potreby svojich obyvateľov. Pritom najmä zabezpečuje tvorbu a plnenie programu hospodárskeho
+rozvoja a sociálneho rozvoja samosprávneho kraja, vykonáva plánovacie činnosti týkajúce sa územia
+samosprávneho kraja, obstaráva, prerokúva a schvaľuje územnoplánovacie podklady samosprávneho kraja a
+územné plány regiónov.
+
+Prvok: 2.1.1 Programové dokumenty kraja
+
+Zámer: Utvárať podmienky pre trvalo udržateľný rozvoj regiónu a jeho subregiónov a podporovať
+vytváranie systému integrovaného manažmentu strategického plánovania kraja.
+
+                     Ing. Stanislav Sendek, Ph.D. - Odbor strategického rozvoja
+Zodpovednosť
+                     Mgr. Peter Louma - Odbor Rady Partnerstva
+Cieľ                 Zabezpečiť predpoklady pre komplexný rozvoj PSK
+                                    Počet nových a aktualizovaných vypracovaných rozvojových dokumentov (vr.
+Merateľný ukazovateľ Výstup
+                                    odvetvových)
+Rok                       2025             2026                2027             2028              2029
+Plánovaná hodnota                                                4                 1                1
+Skutočná hodnota
+
+Zapísal: Mgr. Dominik Lejko – Odbor strategického rozvoja
+
+
+
+
+                                                      9
+                                   PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                               Návrh programového rozpočtu na roky 2027 - 2029
+
+Komentár: Prvok má za cieľ zabezpečiť komplexný rozvoj územia PSK v zmysle Zákona č. 302/2001 Z. z.
+o samospráve vyšších územných celkov. Dokumenty Program hospodárskeho rozvoja a sociálneho rozvoja
+PSK na roky 2021 - 2030, SMART koncepcia PSK a odvetvové koncepcie a stratégie definujú rozvojové
+potreby a určujúcim ciele, ktoré chce kraj dosiahnuť v strednodobom časovom horizonte. Komunikačný
+systém má zabezpečiť efektívnejšiu koordináciu subjektov implementácie stratégie rozvoja územia s cieľom
+efektívnejšieho strategického riadenia a rozhodovania.
+
+Prvok: 2.1.2 Územné plánovanie a územnoplánovacie podklady
+
+Zámer: Sústavne a komplexne riešiť priestorové usporiadanie a funkčné využívanie územia
+samosprávneho kraja.
+Zodpovednosť         Ing. Kristína Haasová - Odbor strategického rozvoja
+                     Udržiavanie aktuálneho stavu územnoplánovacích podkladov a územných plánov
+Cieľ
+                     regiónov samosprávneho kraja
+                                       Počet obstarávaných zmien alebo doplnkov územnoplánovacej
+Merateľný ukazovateľ Výstup
+                                       dokumentácie samosprávneho kraja
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota             1                  1                  1                 1                  0
+Skutočná hodnota              1                  1
+                     Utváranie predpokladov na optimálne usporiadanie vzájomných vzťahov sídelných
+Cieľ
+                     útvarov a ostatných prvkov svojho územia
+Merateľný ukazovateľ Výstup            Počet územnoplánovacích podkladov
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota             0                  0                  1                 0                  0
+Skutočná hodnota              0                  0
+                                       Počet vydaných stanovísk k územnoplánovacím podkladom
+Merateľný ukazovateľ Výstup            a územnoplánovacím dokumentáciám obstarávaným mestami a obcami
+                                       samosprávneho kraja
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota            85                 85                 85                85                 85
+Skutočná hodnota             93                 52
+Merateľný ukazovateľ Výstup            Počet spracovaných stanovísk iných ako UPP a UPD
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota            25                 25                 40                40                 40
+Skutočná hodnota             90                 56
+                                       Počet vydaných záväzných stanovísk súladu/nesúladu so Záväznou časťou
+Merateľný ukazovateľ Výstup
+                                       Územného plánu Prešovského samosprávneho kraja k umiestňovaniu stavieb
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota           110                110                300               300                300
+Skutočná hodnota            466                440
+                     Podieľanie sa na riešení problémov, ktoré sa týkajú viacerých obcí na území
+Cieľ
+                     samosprávneho kraja
+Merateľný ukazovateľ Výstup            Počet poskytnutých konzultácií a stanovísk
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota            25                 25                 25                25                 25
+Skutočná hodnota             48                 10
+                                       Počet koordinačných a konzultačných stretnutí s relevantnými partnermi v
+Merateľný ukazovateľ Výstup
+                                       súvislosti s územným plánovaním a životným prostredím
+Rok                        2025               2026              2027               2028               2029
+Plánovaná hodnota            10                 10                 10                10                 10
+Skutočná hodnota             20                  7
+
+Zapísal: Mgr. Dominik Lejko – Odbor strategického rozvoja
+
+
+                                                      10
+                                   PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                               Návrh programového rozpočtu na roky 2027 - 2029
+
+Komentár: Predmetný prvok predstavuje koncepčnú a koordinačnú činností PSK v oblasti územného
+plánovania podľa zákonov č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku, od 1.4.2024 podľa
+zákona č. 200/2022 Z. z. o územnom plánovaní a č. 2/2005 Z. z. o posudzovaní a kontrole hluku vo
+vonkajšom prostredí a o zmene zákona Národnej rady Slovenskej republiky č. 272/1994 Z. z. o ochrane
+zdravia ľudí, prostredníctvom obstarávania územnoplánovacích podkladov, územnoplánovacej
+dokumentácie regiónu, prípravou podkladov pre vymedzovanie územia aglomerácií za účelom spracovania
+hlukových máp na úrovni samosprávneho kraja, vydávania stanovísk ako príslušného orgánu územného
+plánovania a rozvíjania spolupráce s inými regiónmi.
+
+Podprogram: 2.2 Regionálne verejné politiky
+
+Zámer: Kvalitné zabezpečovanie verejných služieb na regionálnej úrovni.
+
+Komentár: Prvok zahŕňa činnosti vyššieho územného celku zamerané na tvorbu a vykonávanie lepších
+verejných politík týkajúcich sa viacerých úsekov výkonu originálnych alebo prenesených kompetencií.
+
+Prvok: 2.2.1 Ekonomický rozvoj a inovačný ekosystém
+
+Zámer: Zvýšenie inovačného potenciálu a socio-ekonomického rozvoja kraja.
+
+Zodpovednosť         Ing. Stanislav Sendek, PhD. - Odbor strategického rozvoja
+Cieľ                 Podporiť aktérov rozvoja socio-ekonomického a inovačného ekosystému v kraji
+Merateľný ukazovateľ Výstup             Počet zasadnutí Krajskej inovačnej rady
+Rok                         2025               2026               2027             2028              2029
+Plánovaná hodnota                                                   3                 3                3
+Skutočná hodnota
+                                        Počet koordinačných a metodických stretnutí so socio-ekonomickými
+Merateľný ukazovateľ Výstup
+                                        partnermi a podnikmi
+Rok                         2025               2026               2027             2028              2029
+Plánovaná hodnota                                                   5                 5                5
+Skutočná hodnota
+Zapísal: Mgr. Dominik Lejko – Odbor strategického rozvoja
+
+Komentár: Prvok zahrňuje podporu socio-ekonomického rozvoja a inovačného ekosystému na území
+Prešovského samosprávneho kraja formou podpory inovačných kapacít, budovaním partnerských sietí
+(miestna a medzinárodná spolupráca), prepájaním partnerov v zmysle quadruple helix (verejná správa,
+súkromný sektor, akademický sektor a tretí sektor).
+
+Prvok: 2.2.2 Sociálna inklúzia a zamestnanosť
+Zámer: Vytvárať podmienky pre podporu v oblasti inklúzie a zamestnanosti príslušníkov sociálne
+znevýhodnených komunít
+
+Zodpovednosť         Ing. Stanislav Sendek, PhD. - Odbor strategického rozvoja
+                     Vytvárať podmienky pre podporu v oblasti inklúzie a zamestnanosti príslušníkov
+Cieľ
+                     sociálne znevýhodnených komunít.
+Merateľný ukazovateľ Výstup                   Počet komunitných 
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/616e64ba-02ae-4f06-810b-57aff5119d86
+Príloha č. 1
+                                                                                         Rozpočet PSK na roky 2027 - 2029
+Príjmy celkom
+
+    EK                               TEXT (v eur)                               2024 S           2025 S            2026 SR            2026 OS           2027 N              2028 N              2029 N             Rozdiel (5-3)
+
+                                                                                   1                2                  3                  4                5                   6                     7                  8
+    100        Daňové príjmy                                                     167 086 178     175 777 586        194 000 000        197 000 000       212 500 000         221 000 000            232 000 000        18 500 000
+    111        Daň z príjmov fyzických osôb                                      167 086 178     175 777 586        194 000 000        197 000 000       212 500 000         221 000 000            232 000 000        18 500 000
+    200        Nedaňové príjmy                                                    18 368 655      24 313 897         22 880 000          27 250 000       24 400 000          25 150 000             25 150 000         1 520 000
+    210        Príjmy z podnikania a z vlastníctva majetku                             598 314          504 163            150 000            500 000          300 000             350 000               350 000            150 000
+    220        Administratívne a iné poplatky a platby                             9 125 965      16 802 898         16 500 000          18 700 000       16 300 000          16 300 000             16 300 000          -200 000
+    230        Kapitálové príjmy                                                       108 360      1 378 040              100 000        2 700 000            500 000             500 000               500 000            400 000
+    240        Úroky z tuzem. úverov, pôžičiek, návratn. fin.výpomocí, vkladov a ážio1 605 024          431 460            100 000            500 000          200 000             200 000               200 000            100 000
+    290        Iné nedaňové príjmy                                                 2 423 517            592 510            250 000            450 000          200 000             700 000               700 000            -50 000
+               §17 zákona 523/2004 Z. z.*                                          1 568 908        1 722 670          2 080 000          1 600 000        2 500 000           2 600 000              2 600 000             420 000
+               SRP - §22 zákona 523/2004 Z. z.**                                   2 938 567        2 882 156          3 700 000          2 800 000        4 400 000           4 500 000              4 500 000             700 000
+    300        Granty a transfery                                                118 126 584     133 696 407        238 000 000        157 860 000       130 000 000         130 000 000            130 000 000         9 000 000
+  312+322      Transfery v rámci verejnej správy                                 115 227 247     130 446 569        238 000 000        155 000 000       130 000 000         130 000 000            130 000 000         9 000 000
+    330        Zahraničné granty                                                       769 940          641 724                 0              60 000               0                   0                     0                    0
+               §17 zákona 523/2004 Z. z.*                                              722 661          532 702                 0             800 000               0                   0                     0                    0
+               SRP - §22 zákona 523/2004 Z. z.**                                   1 406 736        2 075 412                   0         2 000 000                 0                   0                     0                    0
+
+100+200+300 Príjmy celkom                                                        303 581 417     333 787 890        454 880 000        382 110 000       366 900 000         376 150 000            387 150 000       -87 980 000
+
+
+
+* § 17 ods. 4 zákona 524/2004 Z. z. (od ÚPSVaR SR, z poistného plnenia, zisk z podnikateľskej činnosti po zdanení, zápisné v jazykových školách a i.)
+** Samostatné rozpočtové prostriedky - finančné prostriedky v zmysle § 22 zákona 523/2004 Z. z. (podnikateľská činnosť, školské stravovanie, dary, granty, Fond na podporu umenia, ERASMUS a i.).
+Príloha č. 2                                                                                                                                                                                                        OK
+                                                                                      A. Bežný rozpočet PSK na roky 2027 - 2029
+A.1 Bežné príjmy
+
+
+    EK                            TEXT (v eur)                            2024 S              2025 S               2026 SR               2026 OS              2027 N               2028 N           2029 N           Rozdiel (5-3)
+
+                                                                             1                   2                     3                     4                   5                    6               7                   8
+
+    100        Daňové príjmy                                                167 086 178        175 777 586           194 000 000            197 000 000         212 500 000         221 000 000     232 000 000           18 500 000
+    111        Daň z príjmov fyzických osôb                                 167 086 178        175 777 586           194 000 000            197 000 000         212 500 000         221 000 000     232 000 000           18 500 000
+
+    200        Nedaňové príjmy                                               18 260 295          22 935 857            22 780 000            24 550 000          23 900 000          24 150 000      24 150 000            1 120 000
+    210        Príjmy z podnikania a z vlastníctva majetku                       598 314             504 163               150 000               500 000             300 000              350 000         350 000             150 000
+    220        Administratívne a iné poplatky a platby                        9 125 965          16 802 898            16 500 000            18 700 000          16 300 000          16 300 000      16 300 000               -200 000
+    240        Úroky z tuzem. úverov, pôžičiek, návratn. fin.výpomocí, vkladov 1a 605
+                                                                                  ážio024            431 460               100 000               500 000             200 000              200 000         200 000             100 000
+    290        Iné nedaňové príjmy                                            2 423 517              592 510               250 000               450 000             200 000              200 000         200 000              -50 000
+               §17 zákona 523/2004 Z. z.*                                     1 568 908           1 722 670             2 080 000             1 600 000           2 500 000           2 600 000       2 600 000               420 000
+               SRP - §22 zákona 523/2004 Z. z.**                              2 938 567           2 882 156             3 700 000             2 800 000           4 400 000           4 500 000       4 500 000               700 000
+
+    300        Granty a transfery                                           104 530 638        122 851 091           121 000 000            127 830 000         130 000 000         130 000 000     130 000 000            9 000 000
+    312        Transfery v rámci verejnej správy                            101 652 301        119 911 974           121 000 000            125 000 000         130 000 000         130 000 000     130 000 000            9 000 000
+    330        Zahraničné granty - bežné                                         769 940             474 540                    0                 30 000                  0                    0               0                     0
+               §17 zákona 523/2004 Z. z.*                                        722 661             532 702                    0                800 000                  0                    0               0                     0
+               SRP - §22 zákona 523/2004 Z. z.**                              1 385 736           1 931 875                     0             2 000 000                   0                    0               0                     0
+
+100+200+300 Bežné príjmy celkom                                             289 877 111        321 564 534           337 780 000            349 380 000         366 400 000         375 150 000     386 150 000           28 620 000
+
+
+* § 17 ods. 4 zákona 524/2004 Z. z. (od ÚPSVaR SR, z poistného plnenia, zisk z podnikateľskej činnosti po zdanení, zápisné v jazykových školách a i.)
+** Samostatné rozpočtové prostriedky - finančné prostriedky v zmysle § 22 zákona 523/2004 Z. z. (podnikateľská činnosť, školské stravovanie, dary, granty, Fond na podporu umenia, ERASMUS a i.).
+                                                                                                                                                                             OK
+                                                             B. Kapitálový rozpočet PSK na roky 2027 - 2029
+B.1 Kapitálové príjmy
+
+
+
+ EK                UKAZOVATEĽ              2024 S                2025 S          2026 SR          2026 OS         2027 N          2028 N          2029 N          Rozdiel (5-3)
+
+                                             1                     2                3                4              5               6               7                  8
+
+ 100   Daňové príjmy                                    0                   0                0               0               0               0               0                    0
+
+ 200   Nedaňové príjmy                           108 360            1 378 040           100 000      2 700 000          500 000         500 000         500 000          400 000
+
+ 230   Kapitálové príjmy                         108 360            1 378 040           100 000      2 700 000          500 000         500 000         500 000          400 000
+
+ 300   Granty a transfery                    13 595 946            10 845 316     117 000 000       30 030 000               0               0               0      -117 000 000
+
+ 322   Transfery v rámci verejnej správy     13 574 946            10 534 595     117 000 000       30 000 000               0               0               0      -117 000 000
+
+       Zahraničné granty - kapitálové                   0              167 184               0           30 000              0               0               0                    0
+
+       SRP - §22 zákona 523/2004 Z. z.**            21 000             143 537               0               0               0               0               0                    0
+
+       Kapitálové príjmy celkom              13 704 306            12 223 356     117 100 000       32 730 000          500 000         500 000         500 000     -116 600 000
+Príloha č. 4
+                                                                                                   Rozpočet PSK na roky 2027 - 2029
+Výdavky celkom
+Stĺpe
+                       Oblasť financovania (FK)                         EK              2024 S               2025 S              2026 SR             2026 OS           2027 N            2028 N            2029 N            Rozdiel (5-3)
+ c1
+                                                                                           1                    2                    3                   4               5                 6                 7                     8
+
+Úrad PSK (FK 01)                                                     660+700               39 418 546           41 811 616          31 908 727         29 584 000        27 550 000         25 800 000        27 000 000           -4 358 727
+       Centrum podpory PSK
+v tom FK :                                                           600+700                   119 790              403 356          1 200 000               800 000      1 200 000            1 250 000         1 300 000             1 080 210
+        EA Smart Regiónu PSK                                         600+700                   325 350              338 378              400 000             735 000         671 500            410 000           420 000               346 150
+Projekty (FK 04.1.2)                                                 600+700               24 418 704           15 033 868        161 016 690          15 000 000        14 265 973         12 224 437        15 117 379         -146 750 717
+Doprava (FK 04.5)                                                    600+700               88 385 984           83 506 206          94 699 828        100 540 000        82 450 000         83 550 000        86 050 000          -12 249 828
+v tom: Cestná doprava (SaÚC PSK)                                     600+700               57 148 283           48 345 582          59 249 828         60 500 000        47 100 000         47 500 000        49 000 000          -12 149 828
+        § 17 zákona 523/2004 Z. z. (SUC PSK)                         600+700                    38 862               34 117               50 000              40 000            50 000            50 000            50 000                    0
+        Cestná doprava (Prepravcovia SAD a IDS)                      600+700               31 198 839           35 126 507          35 400 000         40 000 000        35 300 000         36 000 000        37 000 000                -100 000
+Kultúrne služby (FK 08)                                              600+700               26 219 822           19 915 346          20 819 460         21 360 000        20 073 000         20 380 000        21 480 000                -746 460
+        Organizácie v pôsobnosti PSK                                 600+700               25 654 240           19 506 175          20 454 460         21 000 000        19 893 000         20 200 000        21 300 000                -561 460
+        § 17 zákona 523/2004 Z. z.                                   600+700                    23 606               27 859              190 000             190 000            30 000            30 000            30 000              -160 000
+
+        SRP - §22 zákona 523/2004 Z. z.**                            600+700                   541 976              381 312              175 000             170 000         150 000            150 000           150 000                -25 000
+
+Vzdelávanie (FK 09)                                                  600+700              123 382 256          131 097 157        156 437 501         165 220 000       151 105 946        150 600 000       151 300 000           -5 331 555
+v tom:
+       Prenesené kompetencie                                         600+700              106 574 350          114 254 364        138 237 501         144 000 000       131 005 946        130 000 000       130 000 000           -7 231 555
+        Originálne kompetencie                                       600+700                7 506 999            7 561 434           8 500 000         10 600 000        10 600 000         11 000 000        11 500 000               2 100 000
+        § 17 zákona 523/2004 Z. z.                                   600+700                1 044 152               978 657          1 000 000          1 194 000         1 200 000            1 200 000         1 200 000              200 000
+        SRP - §22 zákona 523/2004 Z. z.**                            600+707                4 218 033            4 224 304           3 500 000          5 926 000         4 200 000            4 200 000         4 200 000              700 000
+        Neštátne subjekty                                            600+700                4 038 722            4 078 398           5 200 000          3 500 000         4 100 000            4 200 000         4 400 000         -1 100 000
+
+Sociálne zabezpečenie (FK 10)                                        600+700               46 019 750           50 790 445          55 546 535         60 180 000        69 376 850         70 970 000        73 470 000           13 830 315
+v tom:
+       Organizácie v pôsobnosti PSK                                  600+700               35 514 068           39 670 868          42 096 535         43 800 000        44 106 850         45 200 000        47 200 000               2 010 315
+        § 17 zákona 523/2004 Z. z. (SUC PSK)                         600+700                1 081 790            1 041 864           1 000 000          1 250 000         1 220 000            1 220 000         1 220 000              220 000
+        SRP - §22 zákona 523/2004 Z. z.**                            600+700                    49 181               40 396               50 000              30 000            50 000            50 000            50 000                    0
+
+        PO a FO poskytujúce sociálne zabezpečenie                    600+700                9 374 711           10 037 317          12 400 000         15 100 000        24 000 000         24 500 000        25 000 000           11 600 000
+                            Výdavky spolu                            600+700              348 290 202          342 896 372        522 028 741         393 419 000       366 693 269        365 184 437       376 137 379         -155 335 472
+
+* do 31.12.2017 - Mimorozpočtové prostriedky v zmysle § 23 zákona 523/2004 Z. z. o rozpočtových pravidlách verejnej správy
+od 1.1.2018 - Samostatné rozpočtové prostriedky - finančné prostriedky v zmysle § 17 ods. 4 a § 28 zákona 523/2004 Z. z. o rozpočtových pravidlách verejnej správy
+Príloha č. 5
+                                                                                       A. Bežný rozpočet PSK na roky 2027 - 2029
+A.2 Bežné výdavky
+
+            Oblasť financovania                      EK             2024 S                 2025 S                2026 SR                2026 OS               2027 N                 2028 N            2029 N          Rozdiel (5-3)
+                                                                       1                      2                      3                       4                    5                      6               7                   8
+Úrad PSK                                             600              19 175 784             19 711 517              23 900 000             22 084 000           24 400 000             25 800 000      27 000 000               500 000
+
+Centrum popdpory PSK                                 600                   119 790                403 356             1 200 000                  800 000          1 200 000              1 250 000       1 300 000                     0
+EA Smart Regiónu PSK                                 640                   325 350                338 378                400 000                 400 000              400 000                410 000         420 000                   0
+Projekty                                             600                2 244 540              3 952 637              5 497 990              5 000 000            3 900 000              4 000 000       4 000 000          -1 597 990
+Doprava                                              600              62 497 695             74 384 439              81 850 000             87 040 000           81 050 000             83 550 000      86 050 000               -800 000
+Cestná doprava (SaÚC PSK)                            600              31 259 994             39 223 815              46 400 000             47 000 000           45 700 000             47 500 000      49 000 000               -700 000
+§ 17 zákona 523/2004 Z. z. (SUC PSK)                 600                    38 862                 34 117                 50 000                  40 000               50 000                 50 000          50 000                   0
+Cestná doprava (Prepravcovia,IDS, Lanovka)           640              31 198 839             35 126 507              35 400 000             40 000 000           35 300 000             36 000 000      37 000 000               -100 000
+Kultúrne služby                                      600              16 575 926             16 816 619              18 765 000             19 110 000           19 680 000             20 380 000      21 480 000               915 000
+Organizácie v pôsobnosti PSK                         600              16 436 324             16 665 248              18 400 000             18 750 000           19 500 000             20 200 000      21 300 000           1 100 000
+§ 17 zákona 523/2004 Z. z.                           600                    23 606                 27 859                190 000                 190 000               30 000                 30 000          30 000             -160 000
+SRP - §22 zákona 523/2004 Z. z.**                    600                   115 996                123 512                175 000                 170 000              150 000                150 000         150 000              -25 000
+Vzdelávanie                                          600             117 286 209            122 981 053            139 200 000            146 180 000          150 100 000            150 600 000      151 300 000          10 900 000
+Prenesené kompetencie                                600             100 615 616            106 211 635            121 000 000            125 000 000          130 000 000            130 000 000      130 000 000           9 000 000
+Originálne kompetencie                               600                7 506 999              7 561 434              8 500 000             10 600 000           10 600 000             11 000 000      11 500 000           2 100 000
+§ 17 zákona 523/2004 Z. z.                           600                   969 161                963 919             1 000 000              1 180 000            1 200 000              1 200 000       1 200 000               200 000
+SRP - §22 zákona 523/2004 Z. z.**                    600                4 155 711              4 165 667              3 500 000              5 900 000            4 200 000              4 200 000       4 200 000               700 000
+Neštátne subjekty                                    600                4 038 722              4 078 398              5 200 000              3 500 000            4 100 000              4 200 000       4 400 000          -1 100 000
+Sociálne zabezpečenie                                600              45 566 775             48 847 420              53 250 000             57 380 000           68 770 000             70 970 000      73 470 000          15 520 000
+Organizácie v pôsobnosti PSK                         600              35 061 093             37 727 843              39 800 000             41 000 000           43 500 000             45 200 000      47 200 000           3 700 000
+§ 17 zákona 523/2004 Z. z.                           600                1 081 790              1 041 864              1 000 000              1 250 000            1 220 000              1 220 000       1 220 000               220 000
+SRP - §22 zákona 523/2004 Z. z.**                    600                    49 181                 40 396                 50 000                  30 000               50 000                 50 000          50 000                   0
+PO a FO poskytujúce sociálne zabezpečenie            640                9 374 711            10 037 317              12 400 000             15 100 000           24 000 000             24 500 000      25 000 000          11 600 000
+            Bežné výdavky spolu                      600             263 792 069            287 435 419            324 062 990            337 994 000          349 500 000            356 960 000      365 020 000          25 437 010
+
+
+* § 17 ods. 4 zákona 524/2004 Z. z. (od ÚPSVaR SR, z poistného plnenia, zisk z podnikateľskej činnosti po zdanení, zápisné v jazykových školách a i.)
+** Samostatné rozpočtové prostriedky - finančné prostriedky v zmysle § 22 zákona 523/2004 Z. z. (podnikateľská činnosť, školské stravovanie, dary, granty, Fond na podporu umenia, ERASMUS a i.).
+Príloha č. 6
+                                                         B. Kapitálový rozpočet PSK na roky 2027 - 2029
+B.2 Kapitálové výdavky
+
+  Stĺpec1              Oblasť financovania (FK)   EK    2024 S          2025 S          2026 SR        2026 OS          2027 N          2028 N        2029 N        Rozdiel (5-3)
+                                                          1               2                3              4               5               6             7                8
+Úrad PSK                                          700    20 242 762      22 100 099        8 008 727      7 500 000       3 150 000              0             0         -4 858 727
+Centrum popdpory PSK                              700              0               0              0                0               0             0             0             -580 000
+EA Smart Regiónu PSK                              700              0               0                          335 000         271 500            0             0                    0
+Projekty (FK 04.1.2)                              700    22 174 164      11 081 231      155 518 700     10 000 000      10 365 973       8 224 437    11 117 379      -145 152 727
+Doprava (FK 04.5)                                 700    25 888 289       9 121 767       12 849 828     13 500 000       1 400 000              0             0        -11 449 828
+Cestná doprava (SaÚC PSK)                         700    25 888 289       9 121 767       12 849 828     13 500 000       1 400 000              0             0        -11 449 828
+Cestná doprava (IDS a prepravcovia)               700              0               0              0                0               0             0             0                    0
+Kultúrne služby (FK 08)                           700     9 643 896       3 098 727        2 054 460      2 250 000           393 000            0             0         -1 661 460
+Organizácie v pôsobnosti PSK                      700     9 217 916       2 840 927        2 054 460      2 250 000           393 000            0             0         -1 661 460
+SRP - §22 zákona 523/2004 Z. z.**                 700         425 980         257 800             0                0               0                                                0
+Vzdelávanie (FK 09)                               700     6 096 047       8 116 104       17 237 501     19 040 000       1 005 946              0             0        -16 231 555
+Organizácie v pôsobnosti PSK                      700     5 958 734       8 042 729       17 237 501     19 000 000       1 005 946              0             0        -16 231 555
+§ 17 zákona 523/2004 Z. z.                        700          74 991          14 738             0            14 000              0             0             0
+SRP - §22 zákona 523/2004 Z. z.**                 700          62 322          58 637             0            26 000              0             0             0                    0
+Sociálne zabezpečenie (FK 10)                     700         452 975     1 943 025        2 296 535      2 800 000           606 850            0             0         -1 689 685
+Organizácie v pôsobnosti PSK                      700         452 975     1 943 025        2 296 535      2 800 000           606 850            0             0         -1 689 685
+SRP - §22 zákona 523/2004 Z. z.**                 700              0               0              0                0               0             0             0                    0
+               Kapitálové výdavky spolu           700   84 498 133      55 460 953      197 965 751     55 425 000      17 193 269       8 224 437    11 117 379     -180 772 482
+Príloha č. 7
+                                                                     C. Rozpočet PSK na roky 2027 - 2029 - Finančné operácie
+C.1 Príjmové finančné operácie
+
+    EK                                UKAZOVATEĽ                                     2024 S          2025 S          2026 SR         2026 OS         2027 N       2028 N       2029 N        Rozdiel (5-3)
+                                                                                       1               2                3               4              5            6            7                8
+   400         Príjmy z transakcií s fin. aktívami a fin. pasívami                    55 188 573      23 169 928     17 649 427      26 462 878       9 000 000            0            0        -8 130 292
+
+   411         Zo splátok NFV                                                                   0               0               0           80 000            0            0                                 0
+
+   453         Zostatok prostriedkov z predchádzajúcich rokov                          2 869 223       4 107 022        550 231       3 170 000               0            0            0         -550 231
+               §17 zákona 523/2004 Z. z.*                                                  150 663     1 271 960        160 000         261 000               0            0            0         -160 000
+               SRP - §22 zákona 523/2004 Z. z.**                                       1 554 125            66 549          25 000    1 390 000               0            0            0           -25 000
+               Zostatok prostriedkov z predchádzajúcich rokov z úverov a
+   453                                                                                21 758 639       1 084 646            11 878          11 878    9 000 000            0            0        8 988 122
+               NFV
+   454         Prevod prostriedkov z peňažných fondov - RF                            18 144 521      13 401 134     16 568 183      20 000 000               0                                -16 568 183
+   454         Prevod prostriedkov z peňažných fondov - FND                            8 051 166           966 816      334 135         330 000               0            0            0         -334 135
+   456         Iné príjmové finančné operácie (zábezpeky)                              2 660 236       2 271 801                0     1 300 000               0            0            0                    0
+   500         Prijaté úvery, pôžičky a návratné finančné výpomoci                    13 924 887      26 314 941     80 201 324      20 000 000               0            0            0      -48 201 324
+ 513, 523 Bankové úvery                                                               13 193 999      26 314 941     48 201 324      20 000 000               0                         0      -48 201 324
+   514         Ostatné úvery, pôžičky a NFV                                                730 888                   32 000 000                 0             0            0            0      -32 000 000
+
+400 + 500 Príjmové finančné operácie spolu                                            69 113 460      49 484 869     97 850 751      46 462 878       9 000 000            0            0      -56 331 616
+
+C.2 Výdavkové finančné operácie
+    EK                                UKAZOVATEĽ                                     2024 S          2025 S          2026 SR         2026 OS         2027 N       2028 N       2029 N        Rozdiel (5-3)
+                                                                                       1               2                3               4              5            6            7                8
+   810         Úvery, pôžičky, návratné fin. výpomoci, účasť na majetku                2 008 078       1 919 697                0     1 000 100               0            0            0                    0
+   811         Úvery, pôžičky a návratné fin. výpomoci v rámci VS                           80 000                              0               0             0            0            0                    0
+   814         účasť na majetku                                                                 0               0               0               0             0
+   819         Ostatné výdavkové finančné operácie (kurzové rozdiely)                          17              17               0             100             0            0            0                    0
+   819         Ostatné výdavkové finančné operácie (zábezpeky)                         1 928 061       1 919 680                0     1 000 000               0            0            0                    0
+   820         Splácanie istín                                                         8 223 124      14 125 385     30 702 010      23 827 300       9 206 731   10 465 563    10 512 621     -21 495 279
+   821         Splácanie tuzemskej istiny                                              5 101 741      10 792 237     26 874 744      20 000 000       4 979 465    5 979 473     5 979 473     -21 895 279
+   823         Soplácanie istiny dlhodobého úveru zahraničnej finančnej inštitúcií     3 121 383       3 333 148      3 827 266       3 827 300       4 227 266    4 486 090     4 533 148         400 000
+
+   800         Výdavky z transakcií s fin. aktívami a fin. pasívami                   10 231 202      16 045 082     30 702 010      24 827 400       9 206 731   10 465 563    10 512 621     -21 495 279
+      Príloha č. 8
+
+                                                                        Rekapitulácia príjmov a výdavkov na roky 2027 - 2029
+
+        .                                 Ukazovateľ                       2024 S           2025 S          2026 SR         2026 OS          2027 N            2028 N          2029 N          Rozdiel (5-3)
+
+                                                                             1                2                3               4               5                 6               7                  8
+
+       A.1           Bežné príjmy                                          289 877 111      321 564 534      337 780 000     349 380 000      366 400 000      375 150 000     386 150 000          28 620 000
+
+       B.1           Kapitálové príjmy                                      13 704 306       12 223 356      117 100 000      32 730 000            500 000          500 000         500 000      -116 600 000
+
+     A1+B1           Príjmy spolu (P)                                      303 581 417      333 787 890      454 880 000     382 110 000      366 900 000      375 650 000     386 650 000         -87 980 000
+
+       A.2           Bežné výdavky                                         263 792 069      287 435 419      324 062 990     337 994 000      349 500 000      356 960 000     365 020 000          25 437 010
+
+       B.2           Kapitálové výdavky                                     84 498 133       55 460 953      197 965 751      55 425 000       17 193 269        8 224 437      11 117 379        -180 772 482
+
+     A2+B2           Výdavky spolu (V)                                     348 290 202      342 896 372      522 028 741     393 419 000      366 693 269      365 184 437     376 137 379        -155 335 472
+
+ (A1+B1)-(A2+B2)     Bilancia (príjmy- výdavky)                             -44 708 785       -9 108 482     -67 148 741     -11 309 000            206 731     10 465 563      10 512 621          67 355 472
+
+       C.1           Finančné operácie príjmové (FOP)                       69 113 460       49 484 869       97 850 751      46 462 878           9 000 000              0               0        -88 850 751
+
+                     v tom Prijaté úvery, pôžičky a návratné finančné
+                                                                            13 193 999       26 314 941       48 201 324      20 000 000                  0               0               0        -48 201 324
+                     výpomoci
+       C.2           Finančné operácie výdavkové (FOV)                      10 231 202       16 045 082       30 702 010      24 827 400           9 206 731    10 465 563      10 512 621         -21 495 279
+
+  (A1+B1)+C1         Príjmy + FO príjmové                                  372 694 877      383 272 759      552 730 751     428 572 878      375 900 000      375 650 000     386 650 000        -176 830 751
+
+  (A2+B2)+C2         Výdavky + FO výdavkové                                358 521 404      358 941 454      552 730 751     418 246 400      375 900 000      375 650 000     386 650 000        -176 830 751
+
+  ((A1+B1)+C1) -
+                     Bilancia (P+FOP) - (V + FOV)                           14 173 473       24 331 305                0      10 326 478                  0               0               0                    0
+   ((A2+B2)+C2)
+
+       D.1           Zmena stavu vybraných záväzkov                              -985 713     2 494 698       -1 500 000      -1 586 245        -1 300 000       1 000 000       2 000 000              200 000
+
+       D.2           Zmena stavu vybraných pohľadávok                            -942 441         955 345          15 000          133 346            35 000          50 000          35 800             20 000
+
+        D            Zmena stavu vybraných záväzkov a pohľadávok            -11 520 990       3 450 043       -1 485 000      -1 452 899        -1 265 000       1 050 000       2 035 800              220 000
+
+(A1+B1)-(A2+B2)+D Prebytok (+)/schodok (-) v ESA 2010                       -56 229 775       -5 658 439     -68 633 741     -12 761 899        -1 058 269      11 515 563      12 548 421          67 575 472
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/af60e07a-c2de-47ba-8be7-0fa886f71534
+DOLOŽKA: Materiál vyvesený dňa 26.11.2026 v súlade s § 9 ods. 3 zákona NR SR č. 302/2001
+         Z. z. o samospráve vyšších územných celkov v znení neskorších predpisov
+
+
+              PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                 Úrad Prešovského samosprávneho kraja
+
+
+
+
+     Návrh rozpočtu Prešovského samosprávneho kraja
+                   na roky 2027 - 2029
+
+
+
+
+                                    November 2026
+                 PREŠOVSKÝ SAMOSPRÁVNY KRAJ
+                    Úrad Prešovského samosprávneho kraja
+
+
+                                                         Číslo poradia:
+
+3. zasadnutie Zastupiteľstva
+Prešovského samosprávneho kraja
+dňa 14.12.2026
+
+
+
+
+     Návrh rozpočtu Prešovského samosprávneho kraja na roky 2027 - 2029
+
+
+
+
+Predkladá:
+Ing. Peter Makara
+vedúci odboru financií
+
+Spracovali:
+
+Ing. Peter Makara
+vedúci odboru financií
+
+Mgr. Gabriela Futejová
+vedúca oddelenia rozpočtu, odbor financií
+
+
+Odporúča:
+Mgr. Fabián Novotný
+riaditeľ Ú PSK
+
+Prerokované:
+
+komisia finančná 30.11.2026
+
+V Prešove dňa 26.11.2026
+                                       Návrh na uznesenie
+
+
+
+Zastupiteľstvo Prešovského samosprávneho kraja v súlade s ustanovením § 11 ods. 2 písm. d)
+zákona NR SR č. 302/2001 Z. z. o samospráve vyšších územných celkov v znení neskorších
+predpisov a v súlade so zákonom NR SR č. 583/2004 Z. z. o rozpočtových pravidlách územnej
+samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších predpisov
+
+
+A.    schvaľuje
+
+A . 1 rozpočet Prešovského samosprávneho kraja pre rok 2027 v nasledovnom členení:
+
+     Príjmy celkom        (vrátane finančných operácií príjmových)
+                                                                       375 900 000 €
+     Výdavky celkom (vrátane finančných operácií výdavkových)          375 900 000 €
+     V tom:
+ 1. Bežný rozpočet                                                      16 900 000 €
+
+     Bežné príjmy                                                     366 400 000 €
+
+     Bežné výdavky                                                    349 500 000 €
+
+ 2. Kapitálový rozpočet                                               - 16 693 269 €
+
+     Kapitálové príjmy                                                    500 000 €
+
+     Kapitálové výdavky                                                 17 193 269 €
+
+ 3. Finančné operácie príjmové                                           9 000 000 €
+
+     Finančné operácie výdavkové                                         9 206 731 €
+
+ Príjmy celkom (bez finančných operácií príjmových)                    366 900 000 €
+ Výdavky celkom (bez finančných operácií výdavkových)                  366 693 269 €
+ Zmenu stavu záväzkov a pohľadávok                                      - 1 265 000 €
+ 4. Programový rozpočet
+Program 001                Plánovanie, manažment, kontrola             3 333 150 €
+Program 002                Rozvoj kraja                               16 949 473 €
+Program 003                Interné služby                              3 116 350 €
+Program 004                Doprava a komunikácie                      82 650 000 €
+Program 005                Vzdelávanie                               151 182 946 €
+Program 006                Kultúra                                    20 073 000 €
+Program 007                Sociálne zabezpečenie                      69 758 850 €
+Program 008                Zdravotníctvo                                415 000 €
+Program 009                Administratíva                             19 214 500 €
+A.2 Účelové prostriedky bežného rozpočtu:
+
+ a)   Dotácie pre neštátne základné umelecké školy a neštátne školské zariadenia         4 100 000 €
+      (súkromné a cirkevné školské zariadenia) v súlade s VZN PSK č. XXX/2026
+      v platnom znení
+ b)   Dotácie neverejným a verejným poskytovateľom sociálnych služieb v zmysle          24 000 000 €
+      zákona č. 448/2008 Z. z. a vykonávateľov opatrení sociálnoprávnej ochrany
+      v súlade so zákonom č. 305/2005 Z. z. a v zmysle VZN PSK č. 109/2025
+
+ c)   Dotácia pre dopravcov na platby za služby vo verejnom záujme v prímestskej        34 000 000 €
+      autobusovej doprave
+ d)   Účelová dotácia v súlade s § 8 ods. 2 zák. 583/2004 Z. z. pre Nadáciu PSK pre        382 000 €
+      podporu rodiny (v tom vklad do nadačného fondu na riešenie krízových situácii
+      82 000 €)
+ e)   Dotácie v zmysle VZN PSK č. XXX/2026 o poskytovaní dotácií z vlastných               500 000 €
+      príjmov Prešovského samosprávneho kraja v platnom znení
+
+
+
+
+A.3 Rozpis kapitálových výdavkov (v prílohe č. 1 uznesenia):
+
+        Úrad PSK                                                                        3 421 500 €
+        Projekty                                                                       10 365 973 €
+        Cestná doprava                                                                  1 400 000 €
+        Kultúrne služby                                                                   393 000 €
+        Vzdelávanie                                                                     1 005 946 €
+        Sociálne zabezpečenie                                                             606 850 €
+
+A.4 Zásobníky PD a MPV (v prílohách č. 2 - 5 uznesenia):
+
+
+B.    berie na vedomie
+
+      rozpočet Prešovského samosprávneho kraja pre roky 2028 – 2029.
+
+
+C.    splnomocňuje Predsedu PSK
+
+      a) na rozpis finančných prostriedkov na financovanie, predfinancovanie a spolufinancovanie
+         projektov (EÚ, ŠR a iných finančných mechanizmov) a ich presun do iných oblastí
+         financovania z rezervy oblasti projektov (zdroje EÚ a ŠR, vlastné zdroje PSK, úverové zdroje).
+
+      b) v súvislosti s prijatím úverových zdrojov schválených uzneseniami Z PSK a v súlade
+         s úverovými zmluvami na úpravu príjmových finančných operácií (EK 500) - prijaté návratné
+         zdroje financovania a kapitálových výdavkov (EK 700) za účelom realizácie úhrady výdavkov
+         v rámci investičných akcií a projektov už schválených Zastupiteľstvom PSK a na úpravu
+                                                                                                       4
+   príjmov (EK 300), zdrojov rezervného fondu (EK 454) a výdavkových finančných operácií
+   (EK 800) za účelom zabezpečenia splátok úveru po zúčtovaní projektov riadiacim orgánom
+
+c) na úpravu rozpočtu príjmových finančných operácií a kapitálových výdavkov a rozpis
+   kapitálových výdavkov na neukončené investičné akcie z predchádzajúcich rokov a na
+   nevyčerpané dotácie a to v období od 1. 1. 2027 do doby schválenia záverečného účtu za rok
+   2026.
+
+
+
+
+                                                                                            5
+                                     Príloha č. 1 k uzneseniu Zastupiteľstva č. xx/2026 zo dňa 14.12.2026
+
+
+p.č Názov organizácie               Názov investičnej akcie                                                   ZF           Suma
+                                                                                                             SPOLU   17 193 269 €
+                                                                                                              41      8 193 269 €
+                                                                                                              52      9 000 000 €
+Oblasť financovania: Úrad samosprávneho kraja                                                                         3 421 500 €
+                                                                                                              41      3 421 500 €
+    1 Úrad PSK                      Výmena Firewall a Proxy, Lan prepinače, switche                           41         70 000 €
+    2 Úrad PSK                      Registratúra pre OvZP                                                     41       100 000 €
+                                    Havarijné stavy na sídle PSK, Námestie mieru 2 Prešov (strechy,
+    3 Úrad PSK                                                                                                41       150 000 €
+                                    suterén, schodiska) - dofinancovanie
+    4 Úrad PSK                      Úrad PSK - fotovoltické zariadenie                                        41       100 000 €
+    5 Úrad PSK                      Sanácia vlhkosti budovy Úradu PSK                                         41       200 000 €
+    6 Úrad PSK                      Energetické certifikáty                                                   41         30 000 €
+    7 Úrad PSK                      Krajinnoplánovacia štúdia Prešovského samosprávneho kraja                 41       300 000 €
+    8 Úrad PSK                      Dopravná štúdia realizovateľnosti v pohraničí Ukrajiny                    41       200 000 €
+    9 Úrad PSK                      Zásobník PD                                                               41       700 000 €
+10 Úrad PSK                         Obnova vozového parku                                                     41       200 000 €
+                                    Vypracovanie PD na verejný vodovod a verejnú kanalizáciu a
+11 Úrad PSK                         zabezpečenie výkonu inžinierskej činnosti pre 6 obcí oblasti Pčoliné a    41       600 000 €
+                                    okolie
+                                    Dotácie v zmysle VZN PSK č. XXX/2026 o poskytovaní dotácií z
+12 Úrad PSK                                                                                                   41       500 000 €
+                                    vlastných príjmov Prešovského samosprávneho kraja v platnom znení
+13 EA Smart Regiónu PSK        

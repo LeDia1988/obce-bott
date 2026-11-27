@@ -1,0 +1,942 @@
+URL: https://cuet.slovensko.sk/en/dokument/e9a465c6-e0a9-48fe-9563-cceffae56f9e
+OBEC: Dobšiná (Rožňava)
+NÁZOV: Návrh rozpočtu mesta Dobšiná na roky 2027 - 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/e9a465c6-e0a9-48fe-9563-cceffae56f9e
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu mesta Dobšiná na roky 2027 - 2029
+Search publisher's RSS feeds
+Published on official board:
+Mesto Dobšiná - Zverejňovanie na CUET
+Published from:
+26.11.2026
+Registry symbol:
+Documents author:
+Mesto Dobšiná - Zverejňovanie na CUET
+Published to:
+11.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu mesta Dobšiná na roky 2027 - 2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+[https://www.dobsina.sk/oznamy/navrh-rozpoctu-mesta-dobsina-na-roky-2027-2029.html]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Navrh-rozpoctu-vydavky-2027-tabulka.pdf
+Type and size:
+.pdf, 512.7 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Navrh-rozpoctu-prijmy-2027-text.pdf
+Type and size:
+.pdf, 458.19 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Navrh-rozpoctu-vydavky-2027-text.pdf
+Type and size:
+.pdf, 2.11 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Navrh-rozpoctu-2027-podla-RK.pdf
+Type and size:
+.pdf, 669.69 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+Navrh-rozpoctu-prijmy-2027-tabulka.pdf
+Type and size:
+.pdf, 207.65 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/e17c46c6-75e5-4061-8a22-ec7bdda7b7ac
+PROGRAM 1: PLÁNOVANIE, MANAŽMENT A KONTROLA
+
+                                                           €                €               €                €              €          €           €            €           €            €            €           €          €            €             €               €               €
+                                                                                                         Očakávaná
+                                                       Skutočnosť       Skutočnosť       Rozpočet
+                                                                                                         skutočnosť                               Bežné výdavky                                            Kapitálové výdavky
+                                                                                                                                                                                                                                                     Rozpočet        Rozpočet        Rozpočet
+        Funkčná
+                                Ukazovateľ               na rok           na rok          na rok           na rok                                                                                                                                     na rok          na rok          na rok
+       klasifikácia                                                                                                         610        620         630         640         650         Spolu         711         712         716        Spolu
+                                                          2024             2025            2026            2026                                                                                                                                        2027            2028            2029
+1 1 Plánovanie, manažment a kontrola                   1 098 497,       1 099 704,       1 164 907,         981 395, 704 461, 294 289, 511 912,               93 960,     14 000,     1 618 622,    35 000, 30 000,         55 000, 120 000,          1 738 622,      1 835 204,     1 956 484,
+13 1 Výkon funkcie primátora                               3 681,           9 277,           9 150,           5 913,       0,       0,   9 350,                    0,          0,         9 350,         0,      0,              0,       0,              9 350,          9 350,         9 350,
+14      01.1.1 Výkonné a zákonodarné orgány                    3 681,           8 287,          8 000,         8 000,                    8 000,                                           8 000,                                          0,              8 000,          8 000,         8 000,
+15      04.7.3 Cestovný ruch                                       0,             990,          1 150,           667,                    1 350,                                           1 350,                                          0,              1 350,          1 350,         1 350,
+16      08.4.0 Náboženské a iné spoločenské služby                 0,               0,              0,                                                                                        0,                                          0,                  0,
+2 2 Výkonné riadenie mestského úradu                     906 600,         918 749,         932 731,         827 334, 663 189, 278 650, 332 857,               74 200,     14 000,     1 362 896,    35 000, 30 000,         55 000, 120 000,          1 482 896,      1 579 788,     1 687 788,
+3 1 Mestský úrad                                          890 752,         899 700,        902 510,          827 334, 645 189, 273 159, 331 157,              73 200,     14 000,      1 336 705,   35 000,     30 000,     55 000,     120 000,       1 456 705,      1 553 597,     1 661 597,
+4       01.1.1 Výkonné a zákonodarné orgány               869 293,         875 725,        881 610,          789 988, 645 189, 273 159, 317 707,              73 200,                 1 309 255,    35 000, 30 000,         55 000, 120 000,          1 429 255,      1 526 147,     1 634 147,
+5       01.1.2 Finančné a rozpočtové záležitosti            4 572,           4 994,          5 500,            6 550,                     6 550,                                          6 550,                                          0,              6 550,          6 550,         6 550,
+6       01.6.0 Všeobecné verejné služby inde               13 550,           3 350,                            9 300,                     3 500,                                          3 500,                                          0,              3 500,          3 500,         3 500,
+7       01.7.0 Transakcie verejného dlhu                   15 358,          10 941,          14 000,          14 000,                                                     14 000,        14 000,                                          0,             14 000,         14 000,        14 000,
+8       07.2.1 Všeobecná zdravotná starostlivosť               45,             117,             300,              95,                       300,                                            300,                                          0,                300,            300,           300,
+9       08.3.0 Vysielacie a vydavateľské služby                59,              68,             100,              80,                       100,                                            100,                                          0,                100,            100,           100,
+10      09.5.0 Vzdelávanie nedefinované podľa úrovne        1 425,           7 855,           1 000,           7 321,                     3 000,                                          3 000,                                          0,              3 000,          3 000,         3 000,
+11 2 Chránená dielňa MsÚ                                   15 848,          19 049,          30 221,          22 862,   18 000,   5 491,   1 700,              1 000,            0,      26 191,           0,          0,          0,           0,       26 191,         26 191,        26 191,
+12      01.1.1 Výkonné a zákonodarné orgány                15 848,          19 049,          30 221,          17 294,  18 000,   5 491,   1 700,               1 000,                    26 191,                                                0,       26 191,        26 191,         26 191,
+17 3 Členstvo v profesijných a v záujmových                 6 783,          10 419,         10 000,           8 954,              0,         0,          0,   17 500,            0,      17 500,           0,          0,          0,           0,       17 500,        17 500,         17 500,
+18      08.4.0 Náboženské a iné spoločenské služby             6 783,       10 419,          10 000,          17 500,                                         17 500,                    17 500,                                                0,       17 500,        17 500,         17 500,
+19 4 Správa a údržba majetku obce                          65 813,          44 332,         77 419,          41 826,              0,         0,   92 055,          0,            0,      92 055,           0,          0,          0,           0,       92 055,       101 495,        109 695,
+20 1 Budova Zimná 126                                      10 434,           6 727,          12 522,           5 716,                             10 150,                                10 150,                                                0,       10 150,         10 090,        14 590,
+21 2 Budova chata Dobšinská Maša                            2 186,             693,           3 890,           2 000,                              4 655,                                 4 655,                                                0,        4 655,          4 455,        10 455,
+22 3 Budova Zimná 118                                         709,             851,           1 403,             445,                              1 100,                                 1 100,                                                0,        1 100,          1 300,         1 600,
+23 4 Budova Reštaurácia Tri ruže                            6 482,           1 446,             555,             644,                                725,                                   725,                                                0,          725,            725,           725,
+24 5 Budova Nová 813, OZS                                  20 754,          26 066,          26 000,          24 634,                             35 850,                                35 850,                                                0,       35 850,         47 350,        43 050,
+25 6 Budova Hnilecká 917                                    1 570,             755,           2 035,             700,                              1 870,                                 1 870,                                                0,        1 870,          1 870,         1 570,
+26 7 Budova Banícky dom a Podnik služieb mesta                  2,               7,              80,              21,                             11 090,                                11 090,                                                0,       11 090,         10 090,        10 090,
+27 8 Ostatný nehnuteľný majetok /napr.pamätníky/            1 616,           2 306,          17 294,           2 269,                             18 000,                                18 000,                                                0,       18 000,         17 000,        19 000,
+28 9 Budova SNP 620                                        21 358,           4 878,          13 120,           3 643,                              6 850,                                 6 850,                                                0,        6 850,          6 850,         6 850,
+29 10 Budova Jarková 370                                      702,             603,             520,           1 754,                              1 765,                                 1 765,                                                0,        1 765,          1 765,         1 765,
+30 5 Mestský informačný systém                                    0,               0,               0,                0,          0,         0,          0,          0,          0,            0,          0,          0,          0,           0,              0,              0,              0,
+31 1 Nákup softvéru                                                0,               0,              0,                0,          0,         0,          0,          0,          0,            0,          0,          0,          0,           0,              0,              0,              0,
+32      01.1.1 Výkonné a zákonodarné orgány                                                                                                                                                    0,                                               0,              0,
+33      08.2.0 Kultúrne služby                                                                      0,                                                                                         0,                                               0,              0,
+34 2 Nákup hardvéru                                                0,               0,              0,                            0,         0,          0,          0,          0,            0,          0,          0,          0,           0,              0,              0,              0,
+35      01.1.1 Výkonné a zákonodarné orgány                                                                                                                                                   0,                                                0,            0,
+36      08.2.0 Kultúrne služby                                                                                                                                                                0,                                                0,            0,
+37 6 Autodoprava                                            6 800,           6 800,          7 450,           6 949,              0,         0,   22 250,            0,          0,      22 250,           0,          0,          0,           0,       22 250,         17 050,        17 050,
+38      01.1.1 Výkonné a zákonodarné orgány                    8 503,           8 189,          7 450,        16 750,                             22 250,                                22 250,                                                0,       22 250,         17 050,        17 050,
+39 7 Organizácia občianskych záležitostí                    5 690,           5 690,          6 907,           3 710,              0,         0,    7 542,            0,          0,       7 542,           0,          0,          0,           0,        7 542,          7 542,         7 542,
+40      08.2.0 Kultúrne služby                                 5 178,           6 219,          6 907,           5 644,                            7 542,                                 7 542,                                                0,        7 542,          7 542,         7 542,
+41 8 Činnosť matriky                                       37 608,          38 915,         41 942,          33 700,       17 605,     6 731,      1 798,      1 280,            0,      27 414,           0,          0,          0,           0,       27 414,         27 414,        27 414,
+42      01.3.3 Iné všeobecné služby                        37 218,          38 915,          41 442,          37 471,      17 605,     6 731,      1 298,      1 280,                    26 914,                                                0,       26 914,         26 914,        26 914,
+43      09.5.0 Vzdelávanie nedefinované podľa úrovne          390,                              500,                                                 500,                                   500,                                                0,          500,            500,           500,
+44 9 Spoločný obecný úrad - stavebný                       33 292,          33 292,         43 124,          39 902,       23 667,     8 908,     13 420,       980,             0,      46 975,           0,          0,          0,           0,       46 975,         42 025,        47 105,
+45      01.1.1 Výkonné a zákonodarné orgány                37 015,          38 788,          42 524,          35 232,      23 667,     8 908,     12 820,       980,                     46 375,                                                0,       46 375,         41 425,        46 505,
+46      09.5.0 Vzdelávanie nedefinované podľa úrovne           42,             760,             600,             380,                                600,                                   600,                                                0,          600,            600,           600,
+47 10 Právne služby mestu                                   1 000,           1 000,         10 000,                 84,           0,         0,   12 000,            0,          0,      12 000,           0,          0,          0,           0,       12 000,         12 000,        12 000,
+48      01.1.1 Výkonné a zákonodarné orgány                    4 952,           4 355,       10 000,          12 000,                             12 000,                                12 000,                                                0,       12 000,         12 000,        12 000,
+49 11 Zasadnutie orgánov mesta                             31 230,          31 230,         26 184,          13 023,              0,         0,   20 640,            0,          0,      20 640,           0,          0,          0,           0,       20 640,         21 040,        21 040,
+50      01.1.1 Výkonné a zákonodarné orgány                13 336,          19 585,          26 184,          22 913,                             20 640,                                20 640,                                                0,       20 640,         21 040,        21 040,
+PROGRAM 2: BEZPEČNOSŤ
+
+                                                                     €           €                        €            €          €           €           €             €           €          €              €            €           €
+                                                                                                      Očakávaná
+                                                                 Skutočnosť Skutočnosť                                                                                             Kapitálové
+                                                                                                      skutočnosť                      Bežné výdavky
+                                                                 Rozpočet     Rozpočet    Rozpočet                                                                                  výdavky                Rozpočet     Rozpočet    Rozpočet
+           Funkčná
+          klasifikácia
+                                         Ukazovateľ                na rok      na rok      na rok       na rok                                                                                              na rok       na rok      na rok
+                                                                                                                      610         620         630         640         Spolu        713        Spolu
+                                                                   2024         2025        2026        2026                                                                                                 2027         2028        2029
+ 1   2 Bezpečnosť                                                 429 900, 566 146, 501 963,            409 278,    345 931, 123 603,        81 901,     13 950, 565 385,                0,           0,    565 385,    460 222,    408 814,
+ 2   1 Verejný poriadok a bezpečnosť                              414 415, 539 329, 468 823,            389 655,    345 931, 121 368,        43 726,     13 950, 524 975,                0,           0,    524 975,    449 072,    401 664,
+ 3   1 Aktívna ochrana                                             289 066,    296 379,    332 094,      261 006,   215 901,     76 057,     35 111,     11 200,     338 269,            0,           0,     338 269,    329 369,    330 369,
+ 4          03.1.0    Policajné služby                             287 707,    295 122,    330 004,      259 631,   215 901,     76 057,     31 961,     11 200, 335 119,                             0,    335 119,    327 219,    328 219,
+ 5          07.2.1    Všeobecná zdravotná starostlivosť                                         90,           75,                               150,                 150,                             0,        150,        150,        150,
+ 6          09.5.0    Vzdelávanie nedefinované podľa úrovne          1 359,      1 257,      2 000,        1 300,                             3 000,               3 000,                             0,      3 000,      2 000,      2 000,
+ 7   2 Kamerový systém                                              59 748,     57 287,     47 716,       48 794,    34 030,     10 731,      2 829,      2 750,      50 340,            0,           0,      50 340,     51 440,     71 135,
+ 8          03.1.0    Policajné služby                              49 382,     57 287,     47 716,       48 794,    34 030,     10 731,      2 829,      2 750,      50 340,                         0,     50 340,     51 440,     71 135,
+ 9   3 Preventívno-výchovná činnosť                                      0,          0,          0,            0,           0,          0,          0,          0,            0,         0,           0,           0,          0,            0,
+10          03.1.0    Policajné služby                                                                                                                                        0,                      0,           0,
+11   4 Miestna občianska poriadková služba (MOPS)                   50 116,    185 663,     89 013,       79 855,    96 000,     34 580,      5 786,            0,   136 366,            0,           0,     136 366,     68 263,          160,
+12          03.1.0    Policajné služby                             156 034,    185 623,     89 013,       79 855,    96 000,     34 580,      5 626,                 136 206,                         0,    136 206,     68 103,          0,
+            07.2.1    Všeobecná zdravotná starostlivosť                130,         40,                                                         160,                     160,                                   160,        160,        160,
+13 2 Civilná                                                                        0,      3 000,                                            3 000,                   3 000,                         0,      3 000,      3 000,      3 000,
+13 2 Kybernetick             bezpečnosť                            15 485,     26 817,     30 140,       19 623,            0,    2 235,     35 175,                  37 410,                         0,     37 410,      8 150,      4 150,
+15        03.2.0         Ochrana pred požiarmi                      15 485,     26 817,     18 200,       19 623,                 2 235,     22 575,                  24 810,                         0,     24 810,     25 410,     25 410,
+            07.2.1.      Všeobecná zdravotná starostlivosť                                     100,                                             100,                     100,                                   100,        100,        100,
+            01.1.1.      Kybernetická bezpečnosť                                            11 840,                                          12 500,                  12 500,                                12 500,      5 500,      6 800,
+16          09.5.0       Vzdelávanie nedefinované podľa úrovne                                                                                                             0,                         0,          0,
+PROGRAM 3: ODPADOVÉ HOSPODÁRSTVO
+
+                                                          €            €              €               €              €         €       €      €         €          €        €     €     €           €            €             €           €
+
+                                                                                                  Očakávanaá
+                                                      Skutočnosť Skutočnosť
+                                                                                                  skutočnosť       Bežné výdavky                               Kapitálové výdavky
+                                                      Rozpočet      Rozpočet       Rozpočet        Rozpočet                                                                                                   Rozpočet      Rozpočet    Rozpočet
+       Funkčná
+                                    Ukazovateľ          na rok       na rok         na rok          na rok                                                                                                     na rok        na rok      na rok
+      klasifikácia                                                                                                   630     Spolu     713    714       716       717       718   719   720       Spolu
+                                                        2024          2025          2026             2026                                                                                                       2027          2028        2029
+1   3 Odpadové hospodárstvo                              47 584,     89 727, 387 900,               255 533,       447 843, 447 843,         252 976,     0,     847 591,    0,    0,       0,   1 100 567,    1 548 410,   484 338,    521 261,
+2   1 Zber a odvoz odpadu                                     0,     83 282, 351 700,               242 604,       411 643, 411 643,         252 976,     0,     847 591,                        1 100 567,    1 512 210,   463 138,    500 061,
+3       05.1.0       Nakladanie s odpadmi                             83 282,       351 700,         242 604,      411 643, 411 643,         252 976,            847 591,                        1 100 567,    1 512 210,   463 138,    500 061,
+4   2 Zneškodňovanie odpadu                              43 722,        296,                 0,               0,         0,       0,                                                                     0,            0,         0,          0,
+5       05.1.0       Nakladanie s odpadmi                 43 722,          296,                                                   0,                                                                     0,            0,
+6   3 Nakladanie s odpadovými vodami                      3 862,      6 149,        36 200,          12 929,        36 200,  36 200,                                                                     0,       36 200,     21 200,     21 200,
+7       05.2.0       Nakladanie s odpadovými vodami        3 862,      6 149,        36 200,          12 929,       36 200,  36 200,                                                                     0,       36 200,     21 200,     21 200,
+8   4 Zber separovaného odpadu                                                0,             0,                                   0,                                                                     0,            0,
+PROGRAM 4: KOMUNIKÁCIE
+
+                                                          €                 €              €                €               €          €             €          €          €              €            €           €
+                                                                                                        Očakávaná
+                                                      Skutočnosť        Skutočnosť
+                                                                                                        skutočnosť        Bežné výdavky               Kapitálové výdavky
+                                                      Rozpočet          Rozpočet        Rozpočet                                                                                       Rozpočet     Rozpočet    Rozpočet
+         Funkčná
+                                 Ukazovateľ             na rok            na rok         na rok           na rok                                                                        na rok       na rok      na rok
+        klasifikácia                                                                                                       630        Spolu         716        717        Spolu
+                                                         2024              2025           2026            2026                                                                           2027         2028        2029
+ 1   4 Komunikácie                                              813,       19 395,        92 500,           34 129,       96 500,     96 500,      32 500,     60 000,    92 500,       189 000,     87 000,    105 500,
+ 2   1 Správa a údržba komunikácií                              813,       19 395,        92 500,           34 129,       96 500,     96 500,      32 500,     60 000,    92 500,       189 000,     87 000,    105 500,
+ 3   1 Výstavba komunikácií                                        0,              0,              0,                0,          0,           0,          0,         0,           0,           0,     15 000,     23 500,
+ 4       04.5.1 Cestná doprava                                                     0,                                                         0,                                  0,           0,    15 000,     23 500,
+ 5   2 Obnova dopravného značenia                                  0,              0,       4 500,                   0,     5 500,     5 500,       4 500,           0,     4 500,        10 000,      2 500,      2 500,
+ 6       04.5.1 Cestná doprava                                                              4 500,                         5 500,      5 500,       4 500,                  4 500,       10 000,       2 500,      2 500,
+ 7   3 Obnova a údržba existujúcich komunikácií                    0,              0,      22 000,           17 428,       20 000,    20 000,      20 000,     60 000,     80 000,       100 000,     10 000,     10 000,
+ 8       04.5.1 Cestná doprava                                                             22 000,           17 428,      20 000,     20 000,      20 000,     60 000,    80 000,       100 000,     10 000,     10 000,
+ 9   4 Oprava a údržba mostov a lávok a regulácia                  0,              0,           0,                0,             0,           0,    8 000,           0,     8 000,         8 000,      2 500,      2 500,
+10       04.5.1 Cestná doprava                                                                                    0,                          0,    8 000,                  8 000,        8 000,       2 500,      2 500,
+11   5 Letné a zimné čistenie miestnych komunikácií              813,       19 395,        66 000,           16 701,       71 000,    71 000,             0,                      0,      71 000,     57 000,     67 000,
+12       04.5.1 Cestná doprava                                   813,       19 395,        66 000,           16 701,      71 000,     71 000,                                     0,     71 000,     57 000,     67 000,
+PROGRAM 5: VZDELÁVANIE
+
+                                                                    €               €            €               €             €            €               €        €            €              €              €                €             €
+                                                                                                             Očakávaná
+                                                                Skutočnosť      Skutočnosť                                                                                                   Kapitálové
+                                                                                                             skutočnosť                          Bežné výdavky
+                                                                Rozpočet        Rozpočet      Rozpočet                                                                                        výdavky        Rozpočet         Rozpočet      Rozpočet
+          Funkčná
+                                         Ukazovateľ               na rok          na rok       na rok          na rok                                                                                         na rok           na rok        na rok
+         klasifikácia                                                                                                         610          620             630       640         Spolu          Spolu
+                                                                  2024            2025         2026            2026                                                                                            2027             2028          2029
+ 1   5 Vzdelávanie                                               3 509 538,     3 649 643,    4 225 227,     4 043 960,     2 959 954,   1 096 357, 734 910,        21 362,     4 812 583,                    4 812 583,      4 809 496,    4 563 764,
+ 2   1 Materské školy                                              565 787,       587 188,      606 542,       564 025,       453 172,     168 964, 112 579,         4 057,       738 772,                      738 772,        701 284,      701 284,
+ 3   1 Materská škola na ul. SNP                                    289 712,       300 697,      312 287,       288 126,      232 719,      84 641,       42 523,    1 500,       361 383,              0,      361 383,         323 895,     323 895,
+ 4       07.2.1 Všeobecná zdravotná starostlivosť                        35,                         120,                                                    120,                    120,               0,         120,             120,          120,
+ 5      09.1.1.1 Predprimárne vzdelávanie s bežnou                  289 461,       300 447,      311 867,       287 886,     232 719,      84 641,        42 103,    1 500,      360 963,               0,     360 963,         323 475,      323 475,
+ 6       09.5.0 Vzdelávanie nedefinované podľa úrovne                   216,           250,          300,           240,                                     300,                    300,               0,         300,             300,          300,
+ 7   2 Materská škola P.J. Šafárika                                 276 075,       286 191,      279 655,       275 899,      206 753,      80 373,       68 706,    2 057,       357 889,                      357 889,         357 889,     357 889,
+ 8       07.2.1 Všeobecná zdravotná starostlivosť                        20,                          30,                                                     30,                     30,               0,          30,              30,           30,
+ 9      09.1.1.1 Predprimárne vzdelávanie s bežnou                  275 839,       286 041,      279 325,       275 749,     206 753,      80 373,        68 376,    2 057,      357 559,                      357 559,         357 559,      357 559,
+10       09.5.0 Vzdelávanie nedefinované podľa úrovne                   216,           150,          300,           150,                                     300,                    300,               0,         300,             300,          300,
+11   3 Škola otvorená všetkým - MPC, Pomáhajúce                                        300,       14 600,             0,       13 700,          3 950,     1 350,        500,      19 500,              0,          19 500,       19 500,      19 500,
+12      09.1.1.1 Predprimárne vzdelávanie s bežnou                                     300,       14 600,                      13 700,      3 950,   1 350,            500,        19 500,              0,       19 500,         19 500,       19 500,
+13   2 Základná škola                                            2 040 142,     2 138 646,    2 656 351,     2 514 370,     1 902 989,    706 660, 292 343,          1 655,     2 903 647,                    2 903 647,      2 931 134,    2 681 166,
+14   1   ZŠ E. Ruffínyho                                          1 928 266,     2 027 438,    2 557 165,      2 416 190,   1 645 957,     610 249,      292 343,    1 655,     2 550 204,                     2 550 204,      2 881 216,    2 631 248,
+15   2   Zdravotnícky pracovník                                      20 159,        21 958,       22 080,         22 080,      17 054,       6 130,                                23 184,              0,        23 184,         23 184,       23 184,
+16   3   Pomocné profesie                                            41 341,        75 552,       51 646,         51 500,      30 115,      14 836,                                44 951,              0,        44 951,
+17   4   Školský podporný tím                                       101 258,       103 695,      104 706,        104 000,      80 869,      29 072,                               109 941,              0,       109 941,        109 941,     109 941,
+18   5   Pedagogický asitent                                        138 117,       139 875,      141 556,        139 800,     109 330,      39 303,                               148 633,              0,       148 633,        148 633,     148 633,
+19   6   Samoobslužné úkony                                          22 458,        13 698,       25 460,         24 600,      19 664,       7 070,                                26 734,              0,        26 734,         26 734,      26 734,
+20   3 Základné umelecké školy                                     207 475,       240 050,      184 643,       156 950,      170 240,      61 808,        25 991,    9 750,      267 789,               0,     267 789,         276 108,      262 628,
+21   1 ZUŠ                                                          220 061,       240 050,      156 950,       156 950,      165 800,      60 500,       25 991,    9 750,       262 041,              0,      262 041,         266 797,     253 317,
+22   2 Chránená dielňa ZUŠ                                            3 941,                       9 311,                       4 440,       1 308,                                 5 748,              0,        5 748,           9 311,       9 311,
+23   4 Centrum voľného času                                        170 086,       148 370,      166 980,       148 370,      101 036,      37 816,        42 819,    4 155,      185 826,               0,     185 826,         183 841,      200 594,
+24        09.5.0.2      Centrá voľného času                                        148 370,      166 832,       148 370,     101 036,      37 816,        42 819,    4 155,      185 826,               0,     185 826,         183 841,      200 594,
+25   5 Školský klub                                                155 711,       163 816,      140 798,       215 339,      163 616,      58 820,         3 495,      495,      226 426,               0,     226 426,         226 426,      226 426,
+26        09.5.0.1      Zariadenia záujmového vzdelávania           155 682,       163 816,      215 339,       215 339,     163 616,      58 820,         3 495,      495,      226 426,               0,     226 426,         226 426,      226 426,
+27   6 Školský úrad                                                 31 111,        20 181,       28 564,         24 694,      15 160,       6 512,         5 875,        0,       27 547,               0,      27 547,          27 427,       27 427,
+28         07.2.1       Všeobecná zdravotná starostlivosť                                0,                                                                                            0,               0,           0,
+29         09.5.0       Vzdelávanie nedefinované podľa úrovne           564,           214,          600,            39,                                     600,                    600,               0,         600,             600,          600,
+30         09.8.0       Vzdelávanie inde neklasifikované             33 125,        19 967,       34 597,        24 655,      15 160,       6 512,         5 275,          0,     26 947,               0,      26 947,          26 827,       26 827,
+31   7 originálne kompetencie                                          120,           458,        1 000,           120,                                    1 000,                  1 000,               0,       1 000,           1 000,        1 000,
+32   8 Stravovanie v jedálňach predškolských                       118 732,        88 237,      134 849,       114 592,       64 535,      23 708,        52 358,      750,      141 351,               0,     141 351,         142 051,      143 014,
+33         09.5.0       Vzdelávanie nedefinované podľa úrovne                                        200,                                                    350,                    350,               0,         350,             350,          350,
+34        09.6.0.1      Vedľajšie služby poskytované v rámci        118 732,        88 237,      134 649,       114 592,      64 535,      23 708,        52 008,     750,       141 001,               0,     141 001,         141 701,      142 664,
+35   9 Stravovanie v základných školách                            220 374,       262 697,      305 500,       305 500,       89 206,      32 069,       198 450,     500,       320 225,               0,     320
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/5109827d-c8fc-4632-ab44-60705c58023c
+                                                                                                                  ROZPOČET
+ PRÍJMY
+                                                                                                                    10 560 861
+
+                                                        2027                               2028                           2029
+
+ Rozpočet (v EUR)                                10 560 861                           8 961 145                      8 844 734
+
+
+
+                                                                                                                  ROZPOČET
+ BEŽNÉ PRÍJMY
+                                                                                                                     9 038 972
+
+                                                        2027                               2028                           2029
+
+ Rozpočet (v EUR)                                 9 038 972                           8 744 545                      8 671 134
+  Bežné príjmy na rok 2027 sú rozpočtované vo výške a v štruktúre uvedenej v tabuľke:
+  Bežnépríjmy                                                                                                             v eur
+ - daňové príjmy                                                                                                   3 216 997,-
+ - nedaňové príjmy                                                                                                 1 231 848,-
+ - granty a transfery                                                                                              4 590 127,-
+
+
+
+
+                                                                                                                  ROZPOČET
+ 1 DAŇOVÉ PRÍJMY
+                                                                                                                     3 216 997
+
+                                                        2027                               2028                           2029
+
+ Rozpočet (v EUR)                                 3 216 997                           3 077 585                      3 098 734
+
+
+
+                                                                                                                     Rozpočet
+ 1.1 Dane z príjmov a kapitálového majetku
+                                                                                                                     2 680 873
+
+                                                        2027                               2028                           2029
+
+ Rozpočet (v EUR)                                 2 680 873                           2 677 147                      2 698 296
+
+
+                                                                                                                     Rozpočet
+  1.1.1 Daň z príjmov fyzickej osoby
+                                                                                                                     2 680 873
+
+                                                        2027                               2028                           2029
+
+ Rozpočet (v EUR)                                 2 680 873                           2 677 147                      2 698 296
+
+
+1.1. Výnos dane z príjmov poukázaný územnej samospráve ............................... 2 680 873,- €
+ - v zmysle zákona č. 564/2004 Z.z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a doplnení
+niektorých zákonov v znení neskorších výnos dane z príjmov fyzických osôb je príjmov rozpočtu obce vo výške 53 %. Výnos dane
+sa rozdeľuje podľa kritérií v zmysle nariadenia vlády o rozdeľovaní výnosu dane z príjmov územnej samospráve nasledovne:
+      a) 28 % podľa počtu obyvateľov obce s trvalým pobytom na území obce k 1. januáru predchádzajúceho kalendárneho roka, z
+      toho 57 % prepočítaný koeficientom nadmorskej výšky obce uvedeným v prílohe č. 1,
+      b) 38,9 % podľa počtu obyvateľov obce s trvalým pobytom na území obce k 1. januáru predchádzajúceho kalendárneho roka
+      prepočítaného koeficientom v závislosti od zaradenia obce do veľkostnej kategórie; veľkostné kategórie obcí a príslušné
+      koeficienty sú uvedené v prílohe č. 2,
+      c) 27 % podľa počtu žiakov (detí, poslucháčov) škôl a školských zariadení zisteného zberom údajov podľa osobitného
+      predpisu1) a prepočítaného príslušným koeficientom,
+      d) 6,1 % podľa počtu obyvateľov obce, ktorí dovŕšili vek šesťdesiatdva rokov, s trvalým pobytom na území obce k 1. januáru
+      predchádzajúceho kalendárneho roka.
+
+
+
+                                                               1 z 8
+                                                                                                                                            Rozpočet
+  1.2 Dane z majetku
+                                                                                                                                              214 467
+
+
+                                                                                                                                            Rozpočet
+  1.2.1 Daň z nehnuteľností
+                                                                                                                                              214 467
+
+                                                                         2027                                          2028                      2029
+
+  Rozpočet (v EUR)                                                   214 467                                       198 336                    198 336
+1.2. Daň z nehnuteľností .................................................................................... 214 467,- €
+Daň z nehnuteľností upravuje zákon č.582/2004 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+stavebné odpady v znení neskorších predpisov. Daň z nehnuteľností sa člení na daň z pozemkov, daň zo stavieb a daň z bytov
+a nebytových priestorov. Pre vyrubenie dane je rozhodujúci stav k 1.januáru zdaňovacieho obdobia. Na zmeny skutočností
+rozhodujúcich pre daňovú povinnosť, ktoré nastanú v priebehu zdaňovacieho obdobia sa neprihliada, ak zákon neustanovuje inak.
+V zmysle nového návrhu VZN o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na
+území mesta Dobšiná sú sadzby dane z nehnuteľností navrhnuté nasledovné:
+                                                                                                             základ dane
+                                                                                                                                         sadzba dane
+                                                                   hodnota pozemku x výmera
+ Daň z pozemkov
+ Orná pôda                                                                       určené zákonom / m2 x výmera                   1,20 % zo základu dane
+ Trvalé trávnaté porasty                                                         určené zákonom / m2 x výmera                   1,20 % zo základu dane
+ Lesné pozemky, rybníky                                                     určené znal.posudkom / m2 x výmera                  2,50 % zo základu dane
+ Záhrady                                                                                   1,85 € / m2 x výmera                 1,30 % zo základu dane
+ Zastavané plochy                                                                          1,85 € / m2 x výmera                 1,30 % zo základu dane
+ Stavebné pozemky *                                                                        1,85 € / m2 x výmera                 1,30 % zo základu dane
+ Ostatné plochy                                                                            1,85 € / m2 x výmera                 1,30 % zo základu dane
+ Daň zo stavieb
+ Stavby na bývanie                                                                                                          -               0,25 €/m2
+ Stavby poľn. prvovýroby                                                                                                    -               0,30 €/m2
+ Chaty a stavby na individuálnu rekreáciu                                                                                   -               0,65 €/m2
+ Samostatné garáže a hromadné garáže                                                                                        -               0,69 €/m2
+ Priemyselné stavby                                                                                                         -               1,20 €/m2
+ Stavby na podnik. A zárobkovú činnosť                                                                                      -               2,00 €/m2
+ Ostatné stavby                                                                                                             -               0,80 €/m2
+ Daň z bytov
+ Byty a nebytové priestory                                                                                                  -               0,35 €/m2
+ Nebytové priestory na podnikanie                                                                                           -               0,69 €/m2
+
+
+
+
+                                                                                                                                            Rozpočet
+  1.3 Dane za tovary a služby
+                                                                                                                                              321 657
+
+                                                                         2027                                          2028                      2029
+
+  Rozpočet (v EUR)                                                   321 657                                       202 102                    202 102
+
+
+                                                                                                                                            Rozpočet
+  1.3.1 Dane
+                                                                                                                                              155 114
+ 1.3.1. Daň za užívanie verejného priestranstva ................................................ 6 318 €
+Predmetom dane za užívanie verejného priestranstva je v zmysle zákona NR SR č.582/2004 Z. z. o miestnych daniach a miestnom
+poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov osobitné užívanie verejného priestranstva
+(umiestnenie zariadenia na poskytovanie služieb, stavebného zariadenia, predajného zariadenia, lunaparku a iných atrakcií,
+
+                                                                                  2 z 8
+skládky, trvalé parkovanie vozidla). Výšku dane za užívanie verejného priestranstva je možné rozpočtovať len u pravidelných
+drobných užívateľov verejného priestranstva, ktorú rozpočtujeme v sume 6 000 €, za jarmoky v sume 318 €. Výšku dane za
+užívanie verejného priestranstva nie je možné reálne rozpočtovať, pretože je ťažké predvídať individuálne potreby daňovníkov,
+hlavne z radu organizácií, ktoré užívajú verejné priestranstvo na rôzne skládky na parcelách zdanených vyššou sadzbou dane
+sporadicky.
+1.3.2. Daň za psa................................................................................................. 3 788 €
+Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou osobou alebo právnickou osobou. Sadzba dane je
+35 € za kalendárny rok a psa. V zmysle VZN je zníženie o 25 € za psa, ktorého chovateľom je FO s ťažkým zdravotným
+postihnutím, občan poberajúci starobný alebo plný invalidný dôchodok, ktorý psa používa na svoju ochranu v rodinnom dome.
+Ďalšia sadzba - zníženie o 15 € je za kalendárny rok za psa chovaného inde ako v bytovom dome, pokiaľ sa daň neznižuje podľa
+písmena a).
+Daň sa o 20 € znižuje za psa, ktorého chovateľom je občan - fyzická osoba s ťažkým zdravotným postihnutím, občan
+poberajúci starobný alebo plný         invalidný    dôchodok, občan starší ako 62 rokov poberajúci výsluhový dôchodok, ktorý
+psa chová     inde ako v rodinnom          dome (rozhodujúca   je   skutočnosť   o poberaní uvedeného dôchodku chovateľa
+psa, vek chovateľa psa a stav k 1.1. príslušného zdaňovacieho obdobia.
+1.3.3 Daň za ubytovanie ................................................................................... 1 088 €
+Predmetom dane za ubytovanie je odplatné prechodné ubytovanie fyzickej osoby v ubytovacom zariadení. Sadzba dane je 1,00 €
+na osobu a prenocovanie. Platiteľom dane je prevádzkovateľ zariadenia, ktorý odplatné prechodné ubytovanie poskytuje. Daň za
+ubytovanie je ovplyvnená počtom prenocujúcich osôb v ubytovacích zariadeniach v katastrálnom území mesta.
+1.3.4 Daň za nevýherné hracie prístroje ........................................................... 101 €
+Predmetom tejto dane sú hracie prístroje, ktoré sa spúšťajú alebo prevádzkujú za odplatu, pričom tieto hracie prístroje nevydávajú
+peňažnú výhru a sú prevádzkované v priestoroch prístupných verejnosti. Sú to elektronické prístroje na počítačové hry a
+mechanické prístroje, elektronické prístroje, automaty a iné zariadenia na zábavné hry. Daňovníkom je fyzická osoba alebo
+právnická osoba, ktorá nevýherné hracie prístroje prevádzkuje. Sadzba dane je 35 € za jeden kalendárny rok za jeden nevýherný
+hrací prístroj.
+1.3.5 Daň za predajné automaty ........................................................................... 167 €
+Daň za predajné automaty je rozpočtovaná v sume 15 eur a 150 eur za                                                jeden     kalendárny rok   a   jeden   predajný
+automat obsahujúci v skladbe alkoholické nápoje a tabakové výrobky.
+1.3.6 Poplatok za komunálne odpady a drobné stavebné odpady .............. 309 595 €
+Miestny poplatok za komunálne odpady a drobné stavebné odpady sa v zmysle zákona NR SR č.582/2004 Z. z. o miestnych
+daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov platí za komunálne
+odpady a drobné stavebné odpady, ktoré vznikajú na území mesta. Poplatníkom je:
+   1. fyzická osoba, ktorá má v meste trvalý pobyt alebo prechodný pobyt alebo ktorá je na území mesta oprávnená užívať alebo
+   užíva nehnuteľnosť
+   2. právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území mesta na iný účel ako na
+   podnikanie
+   3. podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území mesta na účel podnikania.
+V zmysle nášho VZN je sadzba poplatku v našom meste na osobu a deň 0,1507 €, pri množstvovom zbere máme sadzbu 0,06 €/l,
+a za 1 kg DSO máme sadzbu 0,1128 €.
+V zmysle zákona č.223/2001 Z. z. o odpadoch môže obec z vybraného miestneho poplatku za komunálne odpady a drobné
+stavebné odpady uhradiť náklady na likvidáciu:
+   • komunálneho odpadu z domácností fyzických osôb (FO), právnických osôb (PO) a fyzických osôb podnikateľov (FOP),
+   • odpadu z čistenia ulíc,
+   • odpadu z údržby verejnej zelene, parkov, cintorínov,
+   • bioodpadu z verejnej zelene, parkov, cintorínov, z pozemkov FO, PO, FOP, občianskych združení,
+   • separáciu odpadu.
+   Vo VZN a MDaP od roku 2026 ustanovilo mesto sadzbu poplatku za KO a DSO pri množstvovom zbere za jeden liter
+   komunálnych odpadov, ktorý majú možnosť využívať podnikatelia. Tiež ustanovilo sadzbu poplatku za drobné stavebné odpady
+   za jeden kilogram drobného stavebného odpadu v zmysle zákona č. 79/2015 Z. z. Drobné stavebné odpady budú odovzdávať
+   len občania a poplatok za nich budú platiť v hotovosti pri odovzdaní odpadu.
+
+
+
+                                                                                                                                                    ROZPOČET
+  2 NEDAŇOVÉ PRÍJMY
+                                                                                                                                                      1 231 848
+
+                                                                             2027                                            2028                           2029
+
+  Rozpočet (v EUR)                                                    1 231 848                                        1 134 280                      1 098 030
+Nedaňové príjmy sú príjmy z vlastníctva a z prevodu vlastníctva majetku obce a z činnosti obce a jej rozpočtových organizácií
+podľa tohto alebo osobitného zákona.
+
+
+
+                                                                                       3 z 8
+                                                                                                                          Rozpočet
+  2.1 Príjmy z podnikania a z vlastníctva majetku
+                                                                                                                           663 588
+
+                                                                     2027                                         2028          2029
+
+  Rozpočet (v EUR)                                               663 588                                        561 930    560 630
+
+
+
+                                                                                                                          Rozpočet
+  2.1.2 Príjmy z vlastníctva
+                                                                                                                           563 588
+
+                                                                     2027                                         2028          2029
+
+  Rozpočet (v EUR)                                               563 588                                        561 930    560 630
+
+
+ 2.1.1 Príjmy z odvodu zisku od ML s.r.o. Dobšiná....................................................... 100 000 €
+• v prípade iného rozhodnutia valného zhromaždenia ML bude tento príjem v rámci úpravy rozpočtu v roku 2027 na základe
+   schválenia výsledku hospodárenia ML s.r.o. za rok 2026 a prerozdelenia zisku upravený.
+ 2.1.2 Dividendy z akcií VVS, a.s. ...................... 0 €
+ - mesto vlastní akcie VVS, a.s. v počte 29392, z ktorých každoročne získavala dividendy na základe rozhodnutia valných
+zhromaždení týchto spoločností. Naposledy nám boli poukázané v roku 2018 vo výške 11 757 €, avšak od roku 2019 už tomu tak
+nebolo a preto ani pre ďalšie obdobie ich nerozpočtujeme.
+2.1.3 Príjmy z prenajatých pozemkov ................................................................... 211 265 €
+- tento príjem vo vyplýva z uzatvorených platných nájomných zmlúv a ďalšieho predpokladaného nájmu.
+2.1.4. Príjmy z prenajatých budov, strojov, prístrojov, zariadení a techniky ....... 352 323 €
+- príjem z uzatvorených platných nájomných zmlúv na prenájom budov a zariadení. V tom je aj suma nájomného a spotreba energií
+za byty na Dedičnej ulici v sume 246 980 €, za bytové domy na Rybárskej ulici vo výške 48 702 € a 9 326 € za CIZS.
+
+
+                                                                                                                          Rozpočet
+  2.2 Administratívne poplatky a iné poplatky a platby
+                                                                                                                           468 660
+
+                                                                     2027                                         2028          2029
+
+  Rozpočet (v EUR)                                               468 660                                        472 750    477 800
+
+
+                                                                                                                          Rozpočet
+  2.2.1 Administratívne poplatky
+                                                                                                                           196 460
+
+                                                                     2027                                         2028          2029
+
+  Rozpočet (v EUR)                                               196 460                                        203 250    208 300
+ 2.2.1 Administratívne poplatky ....................................................................196 460 €
+- administratívne poplatky – správne poplatky vyberané podľa zákona č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších
+predpisov – vyhotovenie a osvedčenie matričných dokladov, vyhotovenie odpisu, výpisu z úradných kníh, správny poplatok z
+reklamy, za vydanie rybárskych lístkov, žiadosť o povolenie stavby a o dodatočné povolenie stavby a pod.
+
+
+                                                                                                                          Rozpočet
+  2.2.2 Pokuty, penále a iné sankcie
+                                                                                                                               20 000
+
+                                                                     2027                                         2028          2029
+
+  Rozpočet (v EUR)                                                 20 000                                        20 000        20 000
+ 2.2.2 Pokuty, penále a iné sankcie ............................................................................... 20 000 €
+- triedia sa tu pokuty, penále, zosobnené pokuty a zosobnené penále a iné druhy sankcií podľa osobitných predpisov, napr.
+záškoláci.
+
+
+
+
+                                                                              4 z 8
+                                                                                                                                       Rozpočet
+  2.2.3 Poplatky a platby z nepriemyselného a náhodného predaja a služieb
+                                                                                                                                        251 200
+
+                                                                       2027                                          2028                  2029
+
+  Rozpočet (v EUR)                                                 251 200                                      248 500                 248 500
+
+
+ 2.2.3 Poplatky a platby z nepriemyselného a náhodného predaja a služieb ......................... 29 300 €
+- zahŕňa poplatok za používanie telefónu, faxu, vyhlášku v mestskom rozhlase, používanie chaty na Dobšinskej Maši,
+- príjem zo stravného od zamestnancov.
+2.2.3 Príjmy z prevádzky kultúrneho domu ................................................... 13 500 €
+- Uvedená čiastka pozostáva z príjmu z prenajatých priestorov na predajné akcie, z príjmu zo vstupného na kultúrne podujatia, z
+činnosti knižnice, inzercia a iné služby.
+2.2.4 Opatrovateľská služba ............................................................................ 12 000 €
+- poplatok za opatrovateľskú službu predstavuje úhradu od občana za opatrovanie v byte občana.
+2.2..5. Školské zariadenia Mesta Dobšiná MŠ a ŠJ MŠ 71 060 €
+z toho:
+ - poplatky za materské školy 8 060 €,
+ - poplatky stravníkov réžia vo výške 28 000 €,
+ - príjem na stravovací účet - limit potravín vo výške 35 000 €
+2.2.6. Základné školy, zariadenia pre záujmové vzdelávanie a školské jedálne 272 200 € bez grantu
+Štruktúra príjmov je uvedená v nasledovnej tabuľke
+
+                                                                                         poplatky za
+                                                  príjmy z prenajatých                                                 poplatky za
+                                                                                       školské kluby                                    SPOLU
+                                                     budov a objektov                                                     stravné
+                                                                                                 detí
+   ZŠ E. Ruffínyho                                                                            23 500                         209 000    232 500
+  Centrum voľného časudetí a                                                                  22 700                                     22 700
+  mládeže
+  Základná umelecká škola                                                                        17 000                                  17 000
+
+
+                                                                                                                                       Rozpočet
+  2.2.4 Ďalšie administratívne poplatky a iné poplatky a platby
+                                                                                                                                          1 000
+
+                                                                       2027                                          2028                  2029
+
+  Rozpočet (v EUR)                                                    1 000                                          1 000                1 000
+
+
+  - Poplatok za znečisťovanie ovzdušia. - príjem z uvedeného poplatku vyplýva zo zákona č.401/1998 Z.z. o poplatkoch za
+znečisťovanie ovzdušia a VZN č. 114/2009 o poplatkoch za znečisťovanie ovzdušia malými zdrojmi znečistenia pri plánovanom
+počte 1 poplatníka. Sadzba poplatku je vo výške od 33 € úmerne k množstvu a škodlivosti vypustených znečisťujúcich látok alebo k
+spotrebe palív a surovín, z ktorých znečisťujúce látky vznikajú. V rozpočte je to suma 1 000,- €.
+
+
+
+                                                                                                                                       Rozpočet
+  2.4 Iné nedaňové príjmy
+                                                                                                                                         99 300
+
+                                                                       2027                                          2028                  2029
+
+  Rozpočet (v EUR)                                                   99 300                                         99 300               59 300
+
+
+                                                                                                                                       Rozpočet
+  2.4.1 Ostatné príjmy
+                                                                                                                                         99 300
+
+                                                                       2027                                          2028                  2029
+
+  Rozpočet (v EUR)                                                   99 300                                         99 300               59 300
+ 2.9. Iné nedaňové príjmy:
+- z náhrad poistného plnenia ............................................... 2 000 €
+
+                                                                                5 z 8
+- predmetné príjmy zahŕňajú predovšetkým príjmy z dobropisov, vratiek zo zúčtovania za rok 2026, predpísané náhrady za
+zriadenie vecného bramenia, refundácií a iné náhodné a ostatné príjmy ......... 47 300 €
+- finančná náhrada za výrub drevín ................................... 80 000 €
+
+
+                                                                                                                    ROZPOČET
+  3 GRANTY A TRANSFERY
+                                                                                                                       4 590 127
+
+
+                                                                 2027                    2028                               2029
+
+  Rozpočet (v EUR)                                         4 590 127                4 532 680                          4 474 370
+Granty zahŕňajú príjmy od dobrovoľných darcov a transfery sú príjmy od iných subjektov verejnej správy a zo štátneho rozpočtu na
+prenesené kompetencie:
+
+                                                                                                                       Rozpočet
+  3.1 Tuzemské bežné granty a transfery
+                                                                                                                       4 590 127
+
+                                                                 2027                    2028                               2029
+
+  Rozpočet (v EUR)                                         4 590 127                4 532 680                          4 474 370
+
+
+                                                                                                                       Rozpočet
+  3.1.1 Granty
+                                                                                                                                0
+
+                                                                 2027                    2028                               2029
+
+  Rozpočet (v EUR)                                                    0                      0                                  0
+
+V roku 2027 Mesto Dobšiná nerozpočtuje príjem z darov a grantov.
+
+                                                                                                                       Rozpočet
+   3.1.2 Transfery v rámci verejnej správy
+                                                                                                                       4 590 127
+
+                                                                 2027                    2028                               2029
+
+  Rozpočet (v EUR)                                         4 590 127                4 532 680                          4 474 370
+ Bežné transfery rozpočtujeme v sume 4 590 127 €. Ide o finančné prostriedky na prenesené kompetencie, dotácie na základe
+výziev z bežných výdavkov - na opravu vojnových hrobov, na knižničný fond, kultúrne poukazy, na terénnu sociálnu prácu, na
+komunitné centrum, na opatrovateľskú službu, na matričnú činnosť. Ďalej dotácie z Úradu práce, sociálnych vecí a rodiny jednak
+podľa uzavretých dohôd, ale aj dotácie na detí z rodín v hmotnej núdzi na stravu a školské potreby, dotácia osobitnému príjemcovi
+na dávky v hmotnej núdzi a transfery obcí na činnosť spoločných obecných úradov.
+
+
+                                                                                                                    ROZPOČET
+  KAPITÁLOVÉ PRÍJMY
+                                                                                                                       1 144 389
+
+                                                                 2027                    2028                               2029
+
+  Rozpočet (v EUR)                                         1 144 389                   20 000                             27 000
+
+
+                                                                                                                       Rozpočet
+  1.1 Kapitálové príjmy
+                                                                                                                          20 000
+
+                                                                 2027                    2028                               2029
+
+  Rozpočet (v EUR)                                             20 000                  20 000                             27 000
+
+
+
+
+                                                                          6 z 8
+                                                                                                                 Rozpočet
+  1.1.2 Príjem z predaja pozemkov a nehmotných aktív
+                                                                                                                   20 000
+
+                                                      2027                              2028                         2029
+
+  Rozpočet (v EUR)                                  20 000                            20 000                       27 000
+Návrh rozpočtu na príjem z predaja pozemkov je 20 000 €.
+Kapitálové príjmy sú napr. nedaňové príjmy z vlastníctva a z prevodu vlastníctva majetku, výnosy z finančných prostriedkov,
+sankcie za porušenie finančnej disciplíny uložené obcou
+
+
+                                                                                                                 Rozpočet
+  1.2 Tuzemské kapitálové granty a transfery
+                                                                                                                 1 124 389
+
+                                                      2027                              2028                         2029
+
+  Rozpočet (v EUR)                               1 124 389                                  0                           0
+
+
+                                                                                                                 Rozpočet
+  1.2.1 Transfery v rámci verejnej správy
+                                                                                                                 1 124 389
+
+                                                      2027                              2028                         2029
+
+  Rozpočet (v EUR)                               1 124 389                                  0                           0
+V rámci tuzemských kapitálových grantov a transferov rozpočtujeme 1 124 389 €. Ide o finančné prostriedky na:
+    -   PD Ruffínyiho vila – 33 250,- €
+    -   PD dobudovanie infraštruktúry miestnych komunikácií – 66 500,- €
+    -   Zavedenie systému množstvového zberu – 779 784,- €
+    -   Triedený zber komunálnych odpadov – 244 855,- €
+
+
+                                                                                                                ROZPOČET
+  PRÍJMOVÉ FINANČNÉ OPERÁCIE
+                                                                                                                  377 500
+
+                                                      2027                              2028                         2029
+
+  Rozpočet (v EUR)                                 377 500                           196 600                      146 600
+
+
+                                                                                                                ROZPOČET
+  1 PRÍJMY Z TRANSAKCIÍ S FINANČNÝMI AKTÍVAMI A FINANČNÝMI PASÍVAMI
+                                                                                                                  377 500
+
+                                                      2027                              2028                         2029
+
+  Rozpočet (v EUR)                                 377 500                           196 600                      146 600
+Finančné operácie sú súčasťou rozpočtu obce, ale nie sú súčasťou príjmov a výdavkov rozpočtu obce (uskutočňujú a vykazujú
+sa mimo rozpočtu príjmov a rozpočtu výdavkov). Za finančné operácie sa považujú tie operácie, ktorými sa zabezpečujú ďalšie
+zdroje (poskytnuté pôžičky, prostriedky z prijatých návratných zdrojov financovania a prostriedky určené na ich splácanie).
+Finančnými operáciami sa rozumejú aj prevody z mimorozpočtových peňažných fondov obce, poskytnuté návratné finančné
+výpomoci z rozpočtu obce a ich splátky, predaj a nákup majetkových účastí. Použitie prostriedkov, ktoré sú ustanovené ako
+finančné operácie na konkrétny účel, sa premieta vo výdavkoch príslušného rozpočtu. Podrobné triedenie finančných operácií
+obsahuje rozpočtová klasifikácia.
+
+
+                                                                                                                 Rozpočet
+  1.1 Z ostatných finančných operácií
+                                                                                                                  377 500
+
+                                                      2027                              2028                         2029
+
+  Rozpočet (v EUR)                                 377 500                           196 600                      146 600
+
+
+
+
+                                                             7 z 8
+                                                                                                                                       Rozpočet
+  1.1.1 Zostatok prostriedkov z predchádzajúcich rokov
+                                                                                                                                        211 000
+
+                                                                             2027                                           2028           2029
+
+  Rozpočet (v EUR)                                                      211 000                                        132 000          132 000
+prevody z fondu opráv .......................................................................................... 12 000,- €,
+zostatok nevyčerpaných dotácii a finančnej náhrady za vyrúbané dreviny .......... 10 000,- €.
+Zostatok prostriedkov z predchádzajúcich rokov ................................................. .189 000,-€
+
+
+                                                                                                                                       Rozpočet
+  1.1.2 Prevod prostriedkov z peňažných fondov
+                                                                                                                                        157 000
+
+                                                                             2027                                           2028           2029
+
+  Rozpočet (v EUR)                                                      157 000                                           62 000         12 000
+z fondu obnovy bývania ...................................................................................       7 000,- €,
+z rezervného fondu .... .......................................................................................... 150 000,- €,
+
+
+
+                                                                                                                                      ROZPOČET
+  2 PRIJATÉ ÚVERY, PÔŽIČKY A NÁVRATNÉ FINANČNÉ VÝPOMOCI
+                                                                                                                                              0
+
+                                                                             2027                                           2028           2029
+
+  Rozpočet (v EUR)                                                                0                                               0           0
+
+
+                                                                                                                                       Rozpočet
+  2.1 Tuzemské úvery, pôžičky a návratné finančné výpomoci
+
+
+                                                                             2027                                           2028           2029
+
+  Rozpočet (v EUR)                                                                0                                               0           0
+
+
+                                                                                                                                       Rozpočet
+  2.1.2 Ostatné úvery, pôžičky a návratné finančné výpomoci
+
+
+                                                                             2027                                           2028           2029
+
+  Rozpočet (v EUR)                                                                0                                               0           0
+Mesto Dobšiná neplánuje v roku 2027 prijať úvery, návratné finančné príspevky ani pôžičky.
+
+
+
+
+                                                                                      8 z 8
+
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/99954701-8e82-454d-b8ff-7f684d4e773b
+                                                                                                                   ROZPOČET
+  VÝDAVKY
+                                                                                                                    10 560 861
+
+                                                      2027                              2028                                 2029
+
+  Rozpočet (v EUR)                              10 560 861                         8 961 145                            8 844 734
+
+                                                                                                                   ROZPOČET
+  1 PLÁNOVANIE, MANAŽMENT A KONTROLA
+                                                                                                                        1 854 514
+
+ZÁMER                     Efektívna a transparentná samospráva vytvárajúca príležitosti pre obyvateľov a podnikateľov
+
+ZODPOVEDNOSŤ              primátor mesta
+
+                                                      2027                              2028                                 2029
+
+  Rozpočet (v EUR)                               1 854 514                         1 835 204                            1 956 484
+Zabezpečenie úloh vyplývajúcich zo zák.č. 369/1990 Zb. o obecnom zriadení v znení neskorších zmien a doplnkov, predovšetkým
+plnenie výkonu samosprávnych funkcií.
+
+
+                                                                                                                   ROZPOČET
+1.1 VÝKON FUNKCIE PRIMÁTORA
+                                                                                                                           9 350
+
+ZÁMER                     Efektívny, transparentný a výkonný mestský úrad
+
+ZODPOVEDNOSŤ              Primátor mesta a prednosta mestského úradu
+
+                                                      2027                              2028                                 2029
+
+  Rozpočet (v EUR)                                    9 350                            9 350                               9 350
+
+
+                            Zabezpečiť dôsledné a kontinuálne riadenie Mestského úradu a všetkých inštitúcií v
+  Cieľ
+                           zriaďovateľskej a zakladateľskej pôsobnosti mesta
+ Merateľný ukazovateľ       počet porád zamestnancov
+ Obdobie                          2025               2026              2027              2028                2029
+ Plánovaná                         12                 12                12                12                  12
+ Skutočná
+ Cieľ                        Reprezentácia mesta Dobšiná na domácej pôde i v zahraničí
+ Merateľný ukazovateľ       počet prijatých oficiálnych návštev za rok
+ Obdobie                          2025                   2026               2027               2028                 2029
+ Plánovaná                          5                      5                 5                  5                    5
+ Skutočná
+ Merateľný ukazovateľ       počet zahraničných ciest vedenia mesta za rok
+ Obdobie                          2025                 2026               2027            2028                      2029
+ Plánovaná                          5                    5                 5               5                         5
+ Skutočná                           1
+ Cieľ                       Pomoc a podpora rôznych nešportových záujmových združení
+ Merateľný ukazovateľ       Počet podporených subjektov dotáciou v zmysle VZN o dotáciách
+ Obdobie                          2025                 2026               2027            2028                      2029
+ Plánovaná                          0                   0                  0               0                         0
+   Skutočná                             1                  0
+ Cieľom aktivity je samospráva, flexibilne reagujúca na potreby obyvateľov, podnikateľov, či návštevníkov mesta Dobšiná,
+plánujúca v zmysle trvalo udržateľného rozvoja a riadiaca všetky procesy s maximálnou efektívnosťou a transparentnosťou.
+01.1.1. Obce – 9 350,- €
+- reprezentačné ........ 8000,- €
+- finančné prostriedky budú použité na reprezentačné výdavky a dary
+04.7.3 Cestovný ruch .........1 350,- €
+výdavky na stretnutia s partnerskými mestami, s ktorými má mesto uzavreté partnerské zmluvy a to: ČR - Šternberk, Poľsko -
+Kobjór, Maďarsko Szajoszénpéter, Nemecko - Teistungen.
+
+
+
+
+                                                              1 z 58
+                                                                                                                  ROZPOČET
+  1.2 VÝKONNÉ RIADENIE MESTSKÉHO ÚRADU
+                                                                                                                     1 482 896
+
+ZÁMER                     Maximálne zodpovedné a objektívne riadenie samosprávy
+
+ZODPOVEDNOSŤ              vedúci oddelení MsÚ
+
+                                                      2027                              2028                              2029
+
+  Rozpočet (v EUR)                               1 482 896                         1 579 788                         1 687 788
+
+
+
+ Cieľ                       plnenie výkonu samosprávnych funkcií
+ Merateľný ukazovateľ       počet vydaných platobných výmerov
+ Obdobie                          2025               2026                 2027                 2028                2029
+ Plánovaná                        3700               3700                 3700                 3700                3700
+ Skutočná
+ Merateľný ukazovateľ       počet prijatých podaní
+ Obdobie                          2025                 2026               2027                 2028                2029
+ Plánovaná                        9000                 9000               9000                 9000                9000
+ Skutočná
+ Merateľný ukazovateľ       Vypravené zásielky MsÚ
+ Obdobie                         2025                  2026               2027                 2028                2029
+ Plánovaná                       2300                  2300               3000                 3000                3000
+ Skutočná
+
+
+                                                                                                                     Rozpočet
+  1.2.1 Mestský úrad
+                                                                                                                     1 456 705
+
+ZÁMER                     maximálne funkčný chod mestského úradu
+
+ZODPOVEDNOSŤ              vedúci oddelení MsÚ
+
+                                                      2027                              2028                              2029
+
+  Rozpočet (v EUR)                               1 456 705                         1 553 597                         1 661 597
+
+
+
+    Cieľ                               Obsiahnutie celej agendy úradu
+    Merateľný ukazovateľ               počet zamestnancov administratívy
+    Obdobie                                      2025                  2026    2027                2028               2029
+    Plánovaná                                      23                   23      20                  20                 20
+    Skutočná
+Bežné výdavky ........................................1 336 705,- €
+01.1.1. Obce ........................................... 1 309 255,- €
+1) Mzdy, platy a ostatné osobné vyrovnania vo výške 645 189,- €
+finančné prostriedky určené na funkčné platy zamestnancov MsÚ na 1 rok, funkcionárov mesta, preplatenie dovolenky, nadčasy,
+platové postupy, životné jubileá
+2) Poistné a príspevok zamestnávateľa do poisťovní vo výške 273 159,- €
+3) Tovary a služby 317 707,- €
+Energie, voda a komunikácie.
+  - výdavky na elektrickú a tepelnú energiu, plyn, vodné a stočné, poštové služby, telefóny
+4) Materiál:
+  - finančné prostriedky u

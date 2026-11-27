@@ -1,0 +1,339 @@
+URL: https://www.vinicky.sk/files/2025-03-26-124841-__daje_o_rozpo__te_-_rok_2024.pdf
+OBEC: Viničky (Trebišov)
+NÁZOV: Údaje o rozpočte - rok 2024
+ZDROJ: web obce
+
+                                       FINANČNÉ VÝKAZY SUBJEKTU VEREJNEJ SPRÁVY
+                                                                          k 31.12.2024
+                                               (v eurách zaokrúhlene na dve desatinné miesta)
+ x         FIN 1-12 Finančný výkaz o príjmoch, výdavkoch a finančných operáciách
+IČO                                             Mesiac                 Rok
+                                                  1 2                   2 0 2 4
+Názov subjektu verejnej správy
+ V     i    n     i    č     k    y
+Právna forma
+ R o z p o č                       t    o v á                o     r    g a n               i    z á c    i   a
+Sídlo
+Ulica a číslo
+PSČ                              Názov obce
+E-mailová adresa
+       Zostavený dňa:                                                                           Podpisový záznam štatutárneho orgánu
+                                                                                                alebo člena štatutárneho orgánu subjektu
+                                                                                                verejnej správy:
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]
+                                                                                                                                     1 / 13
+Časť I. Príjmy a výdavky rozpočtu subjektu verejnej správy
+
+
+                                                                                                            1.1. Bežné príjmy
+
+         Typ                                                                                                                                  Schválený       Rozpočet po      Očakávaná     Skutočnosť
+Zdroj          Položka Podpoložka                                                                  Názov
+        zdroja                                                                                                                                 rozpočet        zmenách         skutočnosť   k 31.12.2024
+
+ a         b           c               d                                                             e                                           1                2                3             4
+111                312          001               Zo štátneho rozpočtu okrem transferu na úhradu nákladov preneseného výkonu štátnej správy            0,00       14 888,00                      14 888,11
+3UAN               312          001               Zo štátneho rozpočtu okrem transferu na úhradu nákladov preneseného výkonu štátnej správy            0,00        1 335,00                       1 335,00
+41                 111          003               Výnos dane z príjmov poukázaný územnej samospráve                                             190 000,00       187 427,00                    187 426,89
+41                 121          001               Z pozemkov                                                                                     18 000,00        20 872,00                      20 872,95
+41                 121          002               Zo stavieb                                                                                      8 500,00        11 229,00                      11 229,39
+41                 133          001               Za psa                                                                                             420,00           475,00                         475,22
+41                 133          006               Za ubytovanie                                                                                   3 000,00         4 341,00                       4 341,00
+41                 133          012               Za užívanie verejného priestranstva                                                                100,00           315,00                         315,00
+41                 133          013               Za komunálne odpady a drobné stavebné odpady                                                   17 002,00        14 183,00                      14 182,74
+41                 133          015               Za rozvoj                                                                                            0,00           886,00                         886,50
+41                 160                            Sankcie uložené v daňovom konaní a iné vybrané sankcie                                               0,00           245,00                         245,00
+41                 212          002               Z prenajatých pozemkov                                                                             100,00        1 370,00                       1 370,00
+41                 212          003               Z prenajatých budov, priestorov a objektov                                                         100,00             0,00                           0,00
+41                 221          002               Správne poplatky                                                                                1 000,00         1 719,00                       1 719,00
+41                 221          004               Ostatné poplatky                                                                                1 000,00             46,00                          46,00
+41                 223          001               Za predaj výrobkov, tovarov a služieb                                                           1 632,00         1 085,00                       1 084,86
+41                 223          002               Za školy a školské zariadenia                                                                      400,00           553,00                         553,00
+41                 229          005               Za znečisťovanie ovzdušia                                                                          250,00             0,00                           0,00
+41                 292          012               Z dobropisov                                                                                         0,00        4 726,00                       4 673,76
+41                 292          017               Z vratiek                                                                                            0,00           171,00                         171,10
+71                 223          001               Za predaj výrobkov, tovarov a služieb                                                                0,00        1 590,00                       1 590,00
+72f                223          001               Za predaj výrobkov, tovarov a služieb                                                              600,00        1 158,00                       1 157,94
+72f                223          003               Za stravné                                                                                      3 500,00         4 202,00                       4 202,60
+                                                                                            Úhrn                                                245 604,00       272 816,00                    272 766,06
+
+
+
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                             2 / 13
+                                                                                                                 1.2. Bežné výdavky
+
+         Typ                                                                                                                                                    Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                             Názov
+        zdroja                                                                                                                                                   rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                                1                  2                3             4
+111                ALOK          01         1            1                         633      006       Všeobecný materiál                                                    0,00           476,00                         475,83
+111                ALOK          01         1            1                         637      004       Všeobecné služby                                                      0,00            30,00                          30,00
+                                                                                                      Tarifný plat, osobný plat, základný plat, funkčný plat,
+111                ALOK          01         6            0                         611                                                                                      0,00           240,00                         240,00
+                                                                                                      hodnostný plat, plat, vrátane ich náhrad
+111                ALOK          01         6            0                         621                Poistné do Všeobecnej zdravotnej poisťovne                            0,00            26,00                          26,40
+111                ALOK          01         6            0                         623                Poistné do ostatných zdravotných poisťovní                            0,00             5,00                           4,62
+111                ALOK          01         6            0                         625      001       Na nemocenské poistenie                                               0,00             4,00                           3,96
+111                ALOK          01         6            0                         625      002       Na starobné poistenie                                                 0,00            39,00                          39,48
+111                ALOK          01         6            0                         625      003       Na úrazové poistenie                                                  0,00             2,00                           2,25
+111                ALOK          01         6            0                         625      004       Na invalidné poistenie                                                0,00             8,00                           8,46
+111                ALOK          01         6            0                         625      005       Na poistenie v nezamestnanosti                                        0,00             3,00                           2,82
+111                ALOK          01         6            0                         625      007       Na poistenie do rezervného fondu solidarity                           0,00            13,00                          13,38
+111                ALOK          01         6            0                         631      001       Tuzemské                                                              0,00            29,00                          29,40
+111                ALOK          01         6            0                         632      001       Energie                                                               0,00            29,00                          28,86
+111                ALOK          01         6            0                         632      003       Poštové služby                                                        0,00            44,00                          43,95
+111                ALOK          01         6            0                         632      005       Telekomunikačné služby                                                0,00            15,00                          15,00
+111                ALOK          01         6            0                         633      006       Všeobecný materiál                                                    0,00            42,00                          42,35
+111                ALOK          01         6            0                         633      016       Reprezentačné                                                         0,00            60,00                          60,00
+111                ALOK          01         6            0                         637      014       Stravovanie                                                           0,00           418,00                         417,60
+111                ALOK          01         6            0                         637      026       Odmeny a príspevky                                                    0,00        1 917,80                       1 917,55
+111                ALOK          01         6            0                         637      027       Odmeny zamestnancov mimopracovného pomeru                             0,00            42,00                          42,00
+111                ALOK          01         6            0                         637      037       Vratky                                                                0,00             0,00                           0,00
+111                ALOK          02         2            0                         637      027       Odmeny zamestnancov mimopracovného pomeru                             0,00           155,00                         155,16
+111                ALOK          06         2            0                         633      006       Všeobecný materiál                                                    0,00           464,00                         463,97
+111                ALOK          06         2            0                         633      010       Pracovné odevy, obuv a pracovné pomôcky                               0,00           312,00                         311,63
+111                ALOK          06         2            0                         637      015       Poistné                                                               0,00            75,00                          75,00
+111                ALOK          08         4            0                         633      015       Palivá ako zdroj energie                                              0,00            14,00                          13,64
+                                                                                                      Tarifný plat, osobný plat, základný plat, funkčný plat,
+111                ALOK          09         1            1          1              611                                                                                      0,00        2 191,00                       2 191,31
+                                                                                                      hodnostný plat, plat, vrátane ich náhrad
+111                ALOK          09         1            1          1              614                Odmeny                                                                0,00           500,00                         500,00
+
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                                                  3 / 13
+                                                                                                                  1.2. Bežné výdavky
+
+         Typ                                                                                                                                                    Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                            Názov
+        zdroja                                                                                                                                                   rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                                1                  2                3             4
+111                ALOK          09         1            1          1              633      002       Výpočtová technika                                                    0,00           505,00                         505,20
+111                ALOK          09         1            1          1              633      006       Všeobecný materiál                                                    0,00        3 511,00                       3 511,32
+                                                                                                      Knihy, časopisy, noviny, učebnice, učebné pomôcky a
+111                ALOK          09         1            1          1              633      009                                                                             0,00           826,00                         826,48
+                                                                                                      kompenzačné pomôcky
+                                                                                                      Tarifný plat, osobný plat, základný plat, funkčný plat,
+111                ALOK          09         6            0          1              611                                                                                      0,00        1 338,00                       1 337,69
+                                                                                                      hodnostný plat, plat, vrátane ich náhrad
+111                ALOK          09         6            0          1              633      011       Potraviny                                                             0,00        1 280,00                       1 279,60
+111                ALOK          10         7            0                         633      006       Všeobecný materiál                                                    0,00            33,00                          33,20
+111                ALOK          10         7            0                         642      014       Jednotlivcovi                                                         0,00           240,00                         240,00
+3UAN               ALOK          10         7            0                         642      014       Jednotlivcovi                                                         0,00        1 335,00                       1 335,00
+                                                                                                      Tarifný plat, osobný plat, základný plat, funkčný plat,
+41                 ALOK          01         1            1                         611                                                                              59 000,00          66 855,00                      66 855,13
+                                                                                                      hodnostný plat, plat, vrátane ich náhrad
+41                 ALOK          01         1            1                         612      001       Osobný príplatok                                               5 000,00                0,00                           0,00
+41                 ALOK          01         1            1                         614                Odmeny                                                         2 000,00                0,00                           0,00
+41                 ALOK          01         1            1                         621                Poistné do Všeobecnej zdravotnej poisťovne                     5 385,00           6 315,00                       6 315,61
+41                 ALOK          01         1            1                         623                Poistné do ostatných zdravotných poisťovní                     1 100,00           1 166,00                       1 165,99
+41                 ALOK          01         1            1                         625      001       Na nemocenské poistenie                                           950,00          1 078,00                       1 078,54
+41                 ALOK          01         1            1                         625      002       Na starobné poistenie                                          9 510,00          10 253,00                      10 253,78
+41                 ALOK          01         1            1                         625      003       Na úrazové poistenie                                              545,00             589,00                         589,53
+41                 ALOK          01         1            1                         625      004       Na invalidné poistenie                                         2 000,00           2 148,00                       2 148,02
+41                 ALOK          01         1            1                         625      005       Na poistenie v nezamestnanosti                                    680,00             680,00                         707,43
+41                 ALOK          01         1            1                         625      007       Na poistenie do rezervného fondu solidarity                    3 230,00           3 502,00                       3 502,18
+41                 ALOK          01         1            1                         631      001       Tuzemské                                                          100,00              16,00                          15,80
+41                 ALOK          01         1            1                         632      001       Energie                                                        5 000,00           2 217,00                       2 216,82
+41                 ALOK          01         1            1                         632      002       Vodné, stočné                                                     453,00             307,00                         306,55
+41                 ALOK          01         1            1                         632      003       Poštové služby                                                 1 500,00           1 500,00                       1 509,75
+41                 ALOK          01         1            1                         632      004       Komunikačná infraštruktúra                                        600,00          1 164,00                       1 164,00
+41                 ALOK          01         1            1                         632      005       Telekomunikačné služby                                         1 200,00              956,00                         955,42
+41                 ALOK          01         1            1                         633      001       Interiérové vybavenie                                             200,00               0,00                           0,00
+41                 ALOK          01         1            1                         633      002       Výpočtová technika                                                500,00               0,00                           0,00
+                                                                                                      Prevádzkové stroje, prístroje, zariadenie, technika a
+41                 ALOK          01         1            1                         633      004                                                                         200,00          1 258,00                       1 258,01
+                                                                                                      náradie
+41                 ALOK          01         1            1                         633      006       Všeobecný materiál                                             2 042,00           2 042,00                       2 126,68
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                                                  4 / 13
+                                                                                                                  1.2. Bežné výdavky
+
+         Typ                                                                                                                                                     Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                             Názov
+        zdroja                                                                                                                                                    rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                                 1                  2                3             4
+                                                                                                      Knihy, časopisy, noviny, učebnice, učebné pomôcky a
+41                 ALOK          01         1            1                         633      009                                                                          150,00             615,00                         615,20
+                                                                                                      kompenzačné pomôcky
+41                 ALOK          01         1            1                         633      013       Softvér                                                            200,00               0,00                           0,00
+41                 ALOK          01         1            1                         633      015       Palivá ako zdroj energie                                           250,00             205,00                         204,95
+41                 ALOK          01         1            1                         633      016       Reprezentačné                                                      300,00             116,00                         116,00
+41                 ALOK          01         1            1                         634      001       Palivo, mazivá, oleje, špeciálne kvapaliny                         800,00             260,00                         259,90
+41                 ALOK          01         1            1                         634      003       Poistenie                                                          180,00             180,00                         177,41
+41                 ALOK          01         1            1                         634      004       Prepravné a nájom dopravných prostriedkov                          400,00               0,00                           0,00
+41                 ALOK          01         1            1                         634      005       Karty, známky, poplatky                                            100,00               0,00                           0,00
+41                 ALOK          01         1            1                         635      002       Výpočtovej techniky                                                100,00               0,00                           0,00
+                                                                                                      Prevádzkových strojov, prístrojov, zariadení, techniky a
+41                 ALOK          01         1            1                         635      004                                                                          100,00               0,00                           0,00
+                                                                                                      náradia
+41                 ALOK          01         1            1                         635      006       Budov, objektov alebo ich častí                                    300,00               0,00                           0,00
+41                 ALOK          01         1            1                         636      001       Budov, objektov alebo ich častí                                    100,00               0,00                           0,00
+                                                                                                      Prevádzkových strojov, prístrojov, zariadení, techniky a
+41                 ALOK          01         1            1                         636      002                                                                          500,00             500,00                         474,75
+                                                                                                      náradia
+41                 ALOK          01         1            1                         637      003       Propagácia, reklama a inzercia                                     300,00             168,00                         168,00
+41                 ALOK          01         1            1                         637      004       Všeobecné služby                                                   300,00             477,00                         477,15
+41                 ALOK          01         1            1                         637      005       Špeciálne služby                                                4 000,00           6 529,00                       6 529,83
+41                 ALOK          01         1            1                         637      011       Štúdie, expertízy, posudky                                         100,00               0,00                           0,00
+41                 ALOK          01         1            1                         637      012       Poplatky a odvody                                                  300,00             168,00                         167,76
+41                 ALOK          01         1            1                         637      014       Stravovanie                                                        600,00             600,00                         643,28
+41                 ALOK          01         1            1                         637      015       Poistné                                                            175,00             311,00                         311,95
+41                 ALOK          01         1            1                         637      016       Prídel do sociálneho fondu                                         650,00             650,00                         696,45
+41                 ALOK          01         1            1                         637      026       Odmeny a príspevky                                              2 000,00           1 140,00                       1 140,00
+41                 ALOK          01         1            1                         637      027       Odmeny zamestnancov mimopracovného pomeru                          200,00             122,00                         121,05
+41                 ALOK          01         1            1                         637      031       Pokuty a penále                                                     50,00             118,00                         118,00
+41                 ALOK          01         1            1                         637      034       Zdravotníckym zariadeniam                                           50,00               0,00                           0,00
+                                                                                                      Neziskovej organizácii poskytujúcej všeobecne
+41                 ALOK          01         1            1                         642      002                                                                           50,00          1 200,00                       1 200,00
+                                                                                                      prospešné služby
+41                 ALOK          01         1            1                         642      006       Na členské príspevky                                            1 000,00           1 119,00                       1 119,81
+41                 ALOK          01         1            1                         642      015       Na nemocenské dávky                                                    0,00           199,00                         198,81
+41                 ALOK          01         1            2                         637      012       Poplatky a odvody                                               2 000,00           1 291,00                       1 290,72
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                                                   5 / 13
+                                                                                                                 1.2. Bežné výdavky
+
+         Typ                                                                                                                                                    Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                             Názov
+        zdroja                                                                                                                                                   rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                                1                  2                3             4
+41                 ALOK          01         6            0                         633      006       Všeobecný materiál                                                    0,00             0,20                           0,15
+41                 ALOK          01         6            0                         633      016       Reprezentačné                                                         0,00             6,00                           6,10
+41                 ALOK          01         7            0                         651      002       Banke a pobočke zahraničnej banky                              1 000,00           1 568,00                       1 567,88
+41                 ALOK          02         2            0                         633      006       Všeobecný materiál                                                500,00               0,00                           0,00
+41                 ALOK          02         2            0                         637      005       Špeciálne služby                                                      0,00           160,00                         160,00
+41                 ALOK          02         2            0                         637      027       Odmeny zamestnancov mimopracovného pomeru                             0,00           141,00                         140,67
+41                 ALOK          03         2            0                         637      004       Všeobecné služby                                                  200,00              99,00                          99,00
+41                 ALOK          03         2            0                         637      005       Špeciálne služby                                                  500,00             472,00                         472,00
+41                 ALOK          04         5            1                         633      006       Všeobecný materiál                                                300,00               0,00                           0,00
+41                 ALOK          04         5            1                         633      015       Palivá ako zdroj energie                                          150,00              50,00                          50,10
+41                 ALOK          04         5            1                         633      016       Reprezentačné                                                      50,00               0,00                           0,00
+41                 ALOK          04         5            1                         636      001       Budov, objektov alebo ich častí                                    50,00              29,00                          28,77
+41                 ALOK          04         5            1                         637      004       Všeobecné služby                                                  150,00               0,00                           0,00
+41                 ALOK          05         1            0                         633      006       Všeobecný materiál                                                500,00             552,00                         552,00
+41                 ALOK          05         1            0                         636      001       Budov, objektov alebo ich častí                                   100,00               0,00                           0,00
+41                 ALOK          05         1            0                         637      004       Všeobecné služby                                              16 402,00          15 282,00                      15 281,44
+41                 ALOK          05         4            0                         621                Poistné do Všeobecnej zdravotnej poisťovne                         10,00               0,00                           0,00
+41                 ALOK          05         4            0                         633      006       Všeobecný materiál                                                480,00              86,00                          85,60
+41                 ALOK          05         4            0                         633      015       Palivá ako zdroj energie                                          150,00             195,00                         195,93
+41                 ALOK          05         4            0                         637      004       Všeobecné služby                                                   60,00               0,00                           0,00
+41                 ALOK          05         4            0                         637      027       Odmeny zamestnancov mimopracovného pomeru                         100,00               0,00                           0,00
+41                 ALOK          05         6            0                         633      006       Všeobecný materiál                                                354,00              35,00                          34,65
+41                 ALOK          05         6            0                         637      004       Všeobecné služby                                                  346,00             346,00                         346,20
+                                                                                                      Tarifný plat, osobný plat, základný plat, funkčný plat,
+41                 ALOK          06         2            0                         611                                                                               5 900,00                0,00                           0,00
+                                                                                                      hodnostný plat, plat, vrátane ich náhrad
+41                 ALOK          06         2            0                         614                Odmeny                                                            100,00               0,00                           0,00
+41                 ALOK          06         2            0                         621                Poistné do Všeobecnej zdravotnej poisťovne                        130,00               0,00                           0,00
+41                 ALOK          06         2            0                         623                Poistné do ostatných zdravotných poisťovní                        130,00               0,00                           0,00
+41                 ALOK          06         2            0                         625      001       Na nemocenské poistenie                                            84,00               0,00                           0,00
+41                 ALOK          06         2            0                         625      002       Na starobné poistenie                                             840,00               0,00                           0,00
+41                 ALOK          06         2            0                         625      003       Na úrazové poistenie                                               48,00               0,00                           0,00
+
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                                                  6 / 13
+                                                                                                                 1.2. Bežné výdavky
+
+         Typ                                                                                                                                                  Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                             Názov
+        zdroja                                                                                                                                                 rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                              1                  2                3             4
+41                 ALOK          06         2            0                         625      004       Na invalidné poistenie                                          180,00               0,00                           0,00
+41                 ALOK          06         2            0                         625      005       Na poistenie v nezamestnanosti                                   60,00               0,00                           0,00
+41                 ALOK          06         2            0                         625      007       Na poistenie do rezervného fondu solidarity                     285,00               0,00                           0,00
+                                                                                                      Prevádzkové stroje, prístroje, zariadenie, technika a
+41                 ALOK          06         2            0                         633      004                                                                       100,00               0,00                           0,00
+                                                                                                      náradie
+41                 ALOK          06         2            0                         633      006       Všeobecný materiál                                              700,00             189,00                         188,79
+41                 ALOK          06         2            0                         633      010       Pracovné odevy, obuv a pracovné pomôcky                         100,00              13,00                          12,27
+41                 ALOK          06         2            0                         633      016       Reprezentačné                                                   150,00               0,00                           0,00
+41                 ALOK          06         2            0                         637      004       Všeobecné služby                                                410,00               0,00                           0,00
+41                 ALOK          06         2            0                         637      005       Špeciálne služby                                             1 000,00                0,00                           0,00
+41                 ALOK          06         2            0                         637      014       Stravovanie                                                     200,00               0,00                           0,00
+41                 ALOK          06         2            0                         637      015       Poistné                                                         260,00             148,00                         147,41
+41                 ALOK          06         2            0                         637      016       Prídel do sociálneho fondu                                      200,00               0,00                           0,00
+41                 ALOK          06         2            0                         637      034       Zdravotníckym zariadeniam                                       123,00               0,00                           0,00
+41                 ALOK          06         4            0                         625      002       Na starobné poistenie                                            56,00               0,00                           0,00
+41                 ALOK          06         4            0                         625      003       Na úrazové poistenie                                                4,00             0,00                           0,00
+41                 ALOK          06         4            0                         625      007       Na poistenie do rezervného fondu solidarity                      19,00               0,00                           0,00
+41                 ALOK          06         4            0                         632      001       Energie                                                      5 621,00           3 737,00                       3 736,23
+41                 ALOK          06         4            0                         633      006       Všeobecný materiál                                              400,00             400,00                         374,40
+41                 ALOK          06         4            0                         637      004       Všeobecné služby                                             1 000,00              445,00                         444,96
+41                 ALOK          06         4            0                         637      027       Odmeny zamestnancov mimopracovného pomeru                       400,00               0,00                           0,00
+41                 ALOK          07         4            0                         633      006       Všeobecný materiál                                              500,00               0,00                           0,00
+41                 ALOK          08         1            0                         632      001       Energie                                                         300,00             340,00                         340,00
+41                 ALOK          08         1            0                         632      002       Vodné, stočné                                                    60,00              30,00                          29,23
+41                 ALOK          08         1            0                         633      006       Všeobecný materiál                                              140,00               0,00                           0,00
+41                 ALOK          08         1            0                         633      015       Palivá ako zdroj energie                                        200,00             125,00                         125,00
+41                 ALOK          08         1            0                         637      004       Všeobecné služby                                                    0,00           100,00                         100,00
+41                 ALOK          08         2            0                         632      001       Energie                                                      3 550,00           2 310,00                       2 309,76
+41                 ALOK          08         2            0                         632      002       Vodné, stočné                                                   150,00             171,00                         171,49
+                                                                                                      Prevádzkové stroje, prístroje, zariadenie, technika a
+41                 ALOK          08         2            0                         633      004                                                                        52,00               0,00                           0,00
+                                                                                                      náradie
+41                 ALOK          08         2            0                         633      006       Všeobecný materiál                                           4 500,00           3 454,00                       3 453,51
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                                                7 / 13
+                                                                                                                  1.2. Bežné výdavky
+
+         Typ                                                                                                                                                     Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                             Názov
+        zdroja                                                                                                                                                    rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                                 1                  2                3             4
+                                                                                                      Knihy, časopisy, noviny, učebnice, učebné pomôcky a
+41                 ALOK          08         2            0                         633      009                                                                          548,00               0,00                           0,00
+                                                                                                      kompenzačné pomôcky
+41                 ALOK          08         2            0                         633      011       Potraviny                                                       1 500,00           1 035,00                       1 034,05
+41                 ALOK          08         2            0                         633      016       Reprezentačné                                                      400,00             400,00                         412,38
+41                 ALOK          08         2            0                         634      004       Prepravné a nájom dopravných prostriedkov                          125,00               0,00                           0,00
+                                                                                                      Prevádzkových strojov, prístrojov, zariadení, techniky a
+41                 ALOK          08         2            0                         635      004                                                                          100,00               0,00                           0,00
+                                                                                                      náradia
+41                 ALOK          08         2            0                         637      002       Konkurzy a súťaže                                               1 632,00              400,00                         400,00
+41                 ALOK          08         2            0                         637      004       Všeobecné služby                                                1 100,00           2 351,00                       2 351,50
+41                 ALOK          08         2            0                         637      005       Špeciálne služby                                                   100,00               0,00                           0,00
+41                 ALOK          08         2            0                         637      015       Poistné                                                            243,00             221,00                         220,33
+41                 ALOK          08         4            0                         625      002       Na starobné poistenie                                               42,00               0,00                           0,00
+41                 ALOK          08         4            0                         625      003       Na úrazové poistenie                                                   2,00             0,00                           0,00
+41                 ALOK          08         4            0                         625      007       Na poistenie do rezervného fondu solidarity                         14,00               0,00                           0,00
+41                 ALOK          08         4            0                         632      001       Energie                                                            370,00             692,00                         692,00
+41                 ALOK          08         4            0                         632      002       Vodné, stočné                                                       60,00             156,00                         156,48
+41                 ALOK          08         4            0                         633      006       Všeobecný materiál                                                 100,00             190,00                         190,65
+41                 ALOK          08         4            0                         633      015       Palivá ako zdroj energie                                           150,00             272,00                         272,26
+41                 ALOK          08         4            0                         637      004       Všeobecné služby                                                   100,00               0,00                           0,00
+41                 ALOK          08         4            0                         637      015       Poistné                                                             62,00              62,00                          61,41
+41                 ALOK          08         4            0                         637      027       Odmeny zamestnancov mimopracovného pomeru                          300,00             234,00                         233,28
+41                 ALOK          08         4            0                         642      007       Cirkvi, náboženskej spoločnosti a cirkevnej charite                100,00               0,00                           0,00
+                                                                                                      Tarifný plat, osobný plat, základný plat, funkčný plat,
+41                 ALOK          09         1            1          1              611                                                                               30 300,00          36 562,00                      36 562,94
+                                                                                                      hodnostný plat, plat, vrátane ich náhrad
+41                 ALOK          09         1            1          1              612      001       Osobný príplatok                                                   500,00               0,00                           0,00
+41                 ALOK          09         1            1          1              614                Odmeny                                                             500,00               0,00                           0,00
+41                 ALOK          09         1            1          1              621                Poistné do Všeobecnej zdravotnej poisťovne                      3 000,00           4 081,00                       4 081,64
+41                 ALOK          09         1            1          1              625      001       Na nemocenské poistenie                                            394,00             568,00                         568,69
+41                 ALOK          09         1            1          1              625      002       Na starobné poistenie                                           4 918,00           5 689,00                       5 689,09
+41                 ALOK          09         1            1          1              625      003       Na úrazové poistenie                                               225,00             324,00                         324,97
+41                 ALOK          09         1            1          1              625      004       Na invalidné poistenie                                             844,00          1 218,00                       1 218,93
+41                 ALOK          09         1            1          1              625      005       Na poistenie v nezamestnanosti                                     282,00             405,00                         405,90
+
+
+Tlačová zostava (R11.336) vytvorená 26.3.2025, 12:45:32, používateľom [Ildikó Soltészová]                                                                                                                                   8 / 13
+                                                                                                                 1.2. Bežné výdavky
+
+         Typ                                                                                                                                                    Schválený          Rozpočet po      Očakávaná     Skutočnosť
+Zdroj              Program        Oddiel Skupina Trieda Podtrieda Položka Podpoložka                                             Názov
+        zdroja                                                                                                                                                   rozpočet           zmenách         skutočnosť   k 31.12.2024
+
+ a         b            c             d          e           f            g            h          i                                j                                1                  2                3             4
+41                 ALOK          09         1            1          1              625      007       Na poistenie do rezervného fondu solidarity                    1 337,00           1 930,00                       1 930,06
+41                 ALOK          09         1            1          1              631      001       Tuzemské                                                           50,00               0,00                           0,00
+41                 ALOK          09         1            1          1              632      001       Energie                                                           760,00             869,00                         869,22
+41                 ALOK          09         1            1          1              632      002       Vodné, stočné                                                     200,00             351,00                          48,64
+41                 ALOK 

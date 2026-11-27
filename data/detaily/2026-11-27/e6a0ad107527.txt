@@ -1,0 +1,753 @@
+URL: https://cuet.slovensko.sk/en/dokument/c0f2b4bc-af80-4df4-a6d0-19d6877899a9
+OBEC: Spišský Štiavnik (Poprad)
+NÁZOV: Návrh VZN 2/2027
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/c0f2b4bc-af80-4df4-a6d0-19d6877899a9
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN 2/2027
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Spišský Štiavnik
+Published from:
+27.11.2026
+Registry symbol:
+UF 3
+Documents author:
+Zverejňovanie na CUET - Obec Spišský Štiavnik
+Published to:
+Registry case:
+1250/2026
+Name of official document:
+Návrh VZN 2/2027
+Document abstract:
+VZN obce Spišský Štiavnik č. 2/2027 o miestnych daniach
+a miestnom poplatku za komunálne odpady a drobné stavebné odpady
+– návrh
+[https://www.spisskystiavnik.sk/e_download.php?file=/data/uredni_deska/obsah445_1.pdf&original=VZN-2-2027-navrh-dane-a-poplatok-KO.pdf]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VZN-2-2027-navrh-dane-a-poplatok-KO.pdf
+Type and size:
+.pdf, 264.68 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/7538a9d6-b868-4d10-a8bc-cb9968efff41
+  Návrh - Všeobecne záväzné nariadenie obce Spišský
+                       Štiavnik
+                       č. 2/2027
+o miestnych daniach a miestnom poplatku za komunálne
+           odpady a drobné stavebné odpady
+
+
+
+
+Návrh VZN vyvesený na úradnej tabuli, elektronickej
+                                                      27.11.2026
+úradnej tabuli a webe obce dňa:
+Lehota na predloženie pripomienok k návrhu VZN do
+                                                      11.12.2026
+(vrátane):
+Dátum schválenia VZN:                                 xx.12.2026
+Číslo uznesenia:                                       xx/2026
+VZN po schválení vyvesené na úradnej tabuli,
+                                                      xx.12.2026
+elektronickej úradnej tabuli a webe obce dňa:
+Dátum zvesenia:
+VZN nadobúda účinnosť dňa:                            01.01.2027
+                                   VZN č. 2/2027 návrh
+
+Obecné zastupiteľstvo obce Spišský Štiavnik vo veciach územnej samosprávy
+v zmysle ustanovenia § 4 ods. 3 písm. c), § 6 ods. 1 zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších právnych predpisov a v zmysle ustanovení § 2
+ods. 1 a 2, § 8 ods. 2, § 12 ods. 2 a 3, § 16 ods. 2, § 17 ods. 2, 3 a 4, § 29, § 36, § 43, §
+51, § 59, § 83, § 98, § 98a ods. 1 a § 99 ods. 1 a 2 zákona č. 582/2004 Z. z. o miestnych
+daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady
+v znení neskorších predpisov (ďalej len „zákon o miestnych daniach a poplatku“) sa
+uznieslo na tomto všeobecne záväznom nariadení:
+
+
+
+                        Návrh VZN č. 2/2027
+  o miestnych daniach a miestnom poplatku za komunálne odpady
+                    a drobné stavebné odpady
+
+
+
+                                        Prvá časť
+                                          §1
+                                     Predmet úpravy
+
+   1. Týmto všeobecne záväzným nariadením (ďalej len „nariadenie“) obec Spišský
+      Štiavnik (ďalej len „správca dane“).
+          a. ustanovuje miestne dane a miestny poplatok za komunálne odpady
+             a drobné stavebné odpady (ďalej len „poplatok“),
+          b. určuje sadzbu dane a poplatku, spôsob vyberania dane a poplatku,
+             daňovú povinnosť daňovníka a poplatníka,
+          c. ustanovuje oslobodenie od dane,
+          d. podmienky zníženia alebo odpustenia poplatku.
+
+                                         §2
+                                 Druhy miestnych daní
+
+   1. Správca dane ukladá od 1. januára 2027 na svojom území tieto miestne dane:
+         a. daň z nehnuteľností,
+         b. daň za psa,
+         c. daň za užívanie verejného priestranstva,
+         d. daň za ubytovanie,
+         e. daň za predajné automaty,
+         f. daň za nevýherné hracie prístroje.
+   2. Správca dane ukladá od 1. januára 2027 na svojom území miestny poplatok za
+      komunálne odpady a drobné stavebné odpady.
+
+                                       Druhá časť
+                                          §3
+                                  Daň z nehnuteľností
+
+
+
+
+                                             2
+                            VZN č. 2/2027 návrh
+
+1. Daň z nehnuteľností zahŕňa:
+     a. daň z pozemkov,
+     b. daň zo stavieb,
+     c. daň z bytov a z nebytových priestorov v bytovom dome („ďalej len daň
+         z bytov“).
+
+                             Daň z pozemkov
+                                  §4
+                            Hodnota pozemku
+
+1. Správca dane ustanovuje hodnotu lesných pozemkov na 0,1825€ za 1m2.
+
+                                   §5
+                               Sadzba dane
+
+1. Ročná sadzba dane z pozemkov podľa § 8 ods. 1 zákona o miestnych daniach
+   a poplatku je 0,25%.
+2. Ročnú sadzbu dane z pozemkov uvedenú v ods. 1 správca dane zvyšuje v obci
+   u pozemkov v tomto členení:
+       a. orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty na
+          0,32 % zo základu dane,
+       b. záhrady na 0,53 % zo základu dane,
+       c. zastavané plochy a nádvoria, ostatné plochy na 0,65 % zo základu dane,
+       d. lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb a
+          ostatné hospodársky využívané vodné plochy na 0,78 % zo základu
+          dane,
+       e. stavebné pozemky na 0,53 % zo základu dane.
+3. Správca dane ustanovuje na jednotlivé skupiny pozemkov uvedených v písm. a.
+   až e. tohto odseku, na ktoré bolo vydané povolenie dobývania ložiska
+   nevyhradeného nerastu (rašelina, bahno, kameň, štrk a piesok) alebo na
+   ktorých sa nachádza zariadenie na výrobu elektriny zo slnečnej energie a na
+   ktorých sa nachádza transformačná stanica alebo predajný stánok slúžiaci
+   k predaju tovaru alebo poskytovaniu služieb ročnú sadzbu dane:
+       a. orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty na
+          0,32 % zo základu dane,
+       b. záhrady na 0,53 % zo základu dane,
+       c. zastavané plochy a nádvoria, ostatné plochy na 0,65 % zo základu dane,
+       d. lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom rýb
+          a ostatné hospodársky využívané vodné plochy na 0,78 % zo základu
+          dane,
+       e. stavebné pozemky na 0,53 % zo základu dane.
+
+                              Daň zo stavieb
+                                   §6
+                               Sadzba dane
+
+1. Ročná sadzba dane zo stavieb podľa § 12 ods. 1 zákona o miestnych daniach
+   a poplatku je 0,033 € za každý aj začatý m2 zastavanej plochy.
+
+
+                                     3
+                            VZN č. 2/2027 návrh
+
+2. Ročnú sadzbu dane zo stavieb uvedenú v ods. 1 správca dane zvyšuje pre:
+      a. stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre
+         hlavnú stavbu na 0,096 € za každý aj začatý m2 zastavanej plochy,
+      b. stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+         hospodárstvo,     stavby     využívané     na    skladovanie    vlastnej
+         pôdohospodárskej produkcie vrátane stavieb na vlastnú administratívu
+         na 0,096 € za každý aj začatý m2 zastavanej plochy,
+      c. chaty a stavby na individuálnu rekreáciu na 0,600 € za každý aj začatý
+         m2 zastavanej plochy,
+      d. samostatne stojace garáže na 0,304 € za každý aj začatý m2 zastavanej
+         plochy,
+      e. stavby hromadných garáží na 0,304 € za každý aj začatý m 2 zastavanej
+         plochy,
+      f. stavby hromadných garáží umiestnených pod zemou na 0,304 € za
+         každý aj začatý m2 zastavanej plochy,
+      g. priemyselné stavby, stavby, slúžiace energetike, stavby, slúžiace
+         stavebníctvu, stavby využívané na skladovanie vlastnej produkcie
+         vrátane stavieb na vlastnú administratívu na 0,648 € za každý aj začatý
+         m2 zastavanej plochy,
+      h. stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie
+         a administratívu súvisiacu s ostatným podnikaním a zárobkovou
+         činnosťou na 0,960 € za každý aj začatý m2 zastavanej plochy,
+      i. ostatné stavby neuvedené v písmenách a. až h. na 0,438 € za každý aj
+         začatý m2 zastavanej plochy.
+3. Správca dane pri viacpodlažných stavbách určuje príplatok za každé ďalšie
+   podlažie okrem prvého nadzemného podlažia u:
+      a. stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre
+         hlavnú stavbu v sume 0,053 € za každé ďalšie podlažie okrem prvého
+         nadzemného podlažia,
+      b. stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+         hospodárstvo,     stavby     využívané     na    skladovanie    vlastnej
+         pôdohospodárskej produkcie vrátane stavieb na vlastnú administratívu
+         v sume 0,053 € za každé ďalšie podlažie okrem prvého nadzemného
+         podlažia,
+      c. chaty a stavby na individuálnu rekreáciu v sume 0,053 € za každé ďalšie
+         podlažie okrem prvého nadzemného podlažia,
+      d. samostatne stojace garáže v sume 0,053 € za každé ďalšie podlažie
+         okrem prvého nadzemného podlažia,
+      e. stavby hromadných garáží v sume 0,053 € za každé ďalšie podlažie
+         okrem prvého nadzemného podlažia,
+      f. stavby hromadných garáží umiestnených pod zemou v sume 0,053 € za
+         každé ďalšie podlažie okrem prvého nadzemného podlažia,
+      g. priemyselné stavby, stavby, slúžiace energetike, stavby, slúžiace
+         stavebníctvu, stavby využívané na skladovanie vlastnej produkcie
+         vrátane stavieb na vlastnú administratívu v sume 0,053 € za každé ďalšie
+         podlažie okrem prvého nadzemného podlažia,
+      h. stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie
+         a administratívu súvisiacu s ostatným podnikaním a zárobkovou
+         činnosťou v sume 0,053 € za každé ďalšie podlažie okrem prvého
+         nadzemného podlažia,
+
+
+                                      4
+                            VZN č. 2/2027 návrh
+
+      i.   ostatné stavby neuvedené v písmenách a. až h. v sume 0,053 € za
+           každé ďalšie podlažie okrem prvého nadzemného podlažia.
+
+                                Daň z bytov
+                                   §7
+                               Sadzba dane
+
+1. Ročná sadzba dane z bytov podľa § 16 ods. 1 zákona o miestnych daniach
+   a poplatku je 0,033 € za každý aj začatý m2 podlahovej plochy bytu
+   a nebytového priestoru.
+2. Ročnú sadzbu dane z bytov uvedenú v ods. 1 správca dane zvyšuje v obci u:
+      a. bytov na 0,096 € za každý začatý m2 podlahovej plochy bytu,
+      b. nebytových priestorov na 0,096 € za každý začatý m2 podlahovej plochy
+         nebytového priestoru.
+
+              Spoločné ustanovenia pre daň z nehnuteľností
+                                   §8
+                           Oslobodenie od dane
+
+1. Správca dane oslobodzuje od dane z pozemkov:
+       a. pozemky, na ktorých sú cintoríny, kolumbáriá, urnové háje a rozptylové
+           lúky,
+       b. pozemky vo vlastníctve TJ Spišský Štiavnik užívané v oblasti telesnej
+           kultúry,
+       c. pozemky užívané školami a školskými zariadeniami,
+       d. pozemky vo vlastníctve cirkví a náboženských spoločností, slúžiace
+           výhradne na vykonávanie náboženských obradov cirkví a náboženských
+           spoločností, stavby a ich časti, slúžiace ako úradovne osôb, ktoré sú
+           poverené duchovnou správou cirkví a náboženských spoločností a ak ide
+           o cirkvi a náboženské spoločnosti registrované štátom,
+       e. lesné pozemky od nasledujúceho roka po vzniku holiny do roku
+           plánovaného začatia výchovnej ťažby /prvej prebierky/.
+2. Správca dane oslobodzuje od dane zo stavieb stavby vo vlastníctve TJ Spišský
+   Štiavnik, vykonávajúceho verejnoprospešnú činnosť v oblasti telesnej kultúry.
+3. Obec oslobodzuje od dane zo stavieb stavby, slúžiace školám, školským
+   zariadeniam, stavby užívané na účely sociálnej pomoci, stavby a ich časti vo
+   vlastníctve cirkví a náboženských spoločností, slúžiace výhradne na
+   vykonávanie náboženských obradov cirkví a náboženských spoločností, stavby
+   a ich časti, slúžiace ako úradovne osôb, ktoré sú poverené duchovnou správou
+   cirkví a náboženských spoločností a ak ide o cirkvi a náboženské spoločnosti
+   registrované štátom, ktoré plnia doplnkovú funkciu k týmto stavbám
+4. Správca dane oslobodzuje od dane z pozemkov a od dane zo stavieb vlastníka,
+   ktorý vykonáva dobrovoľnícku činnosť podľa zákona č. 406/2011 Z. z.
+   o dobrovoľníctve a o zmene a doplnení niektorých zákonov v prospech obce na
+   podporu plnenia jej úloh.
+5. Obec znižuje daň zo stavieb na bývanie a bytov o 20 % zo sadzby dane
+   občanov s ťažkým zdravotným postihnutím, alebo držiteľov preukazu občana s
+   ťažkým zdravotným postihnutím, alebo držiteľov preukazu občana s ťažkým
+
+
+                                     5
+                            VZN č. 2/2027 návrh
+
+   zdravotným postihnutím s potrebou sprievodcu, ako aj prevažne alebo úplne
+   bezvládnych občanov, ktoré slúžia na ich trvalé bývanie.
+6. Obec znižuje daň zo stavieb na bývanie a bytov o 50 % vo vlastníctve občanov
+   starších ako 70 rokov /všetci vlastníci dosiahnu uvedený vek k 31.12.
+   príslušného zdaňovacieho obdobia/, ktoré slúžia na ich trvalé bývanie.
+7. Oslobodenie a zníženie dane v bodoch 4) a 5) sa nekumuluje, vždy sa uplatní
+   to, čo je výhodnejšie pre občana – daňovníka.
+
+                                 §9
+       Určenie sumy dane, ktorú správca dane nebude vyrubovať
+
+1. Správca dane určuje, že daň v úhrne do sumy troch eur nebude vyrubovať.
+
+                                Tretia časť
+                                Daň za psa
+                                   § 10
+                               Sadzba dane
+
+1. Správca dane určuje sadzbu dane 7,00 € za jedného psa a kalendárny rok.
+   Takto určená sadzba dane platí za každého ďalšieho psa u toho istého
+   daňovníka.
+
+                               Štvrtá časť
+                 Daň za užívanie verejného priestranstva
+                                   § 11
+                   Verejné priestranstvá a ich užívanie
+
+1. Verejnými priestranstvami v obci sú:
+      a. miesta na miestnej komunikácii - ulica Hornádska 241, Spišský Štiavnik,
+      b. miesta na pozemku par. č. 275/1 pred obecným úradom, hasičskou
+          zbrojnicou, na námestí a na pozemku par. č. 4, 3, 2.
+2. Osobitným spôsobom môže fyzická osoba alebo právnická osoba užívať
+   verejné priestranstvá na:
+      a. umiestnenie zariadenia, slúžiaceho na poskytovanie služieb
+          a predajného zariadenia na verejnom priestranstve,
+      b. umiestnenie stavebného zariadenia a umiestnenie skládky na pozemku
+          vo vlastníctve obce, ktorý je najbližší k pozemku vo vlastníctve
+          stavebníka alebo vlastníka skládky,
+      c. umiestnenie zariadenia cirkusu, zariadenia lunaparku a iných atrakcií na
+          pozemku par. č. 4, 3, 2,
+      d. trvalé parkovanie vozidla mimo strážneho parkoviska na pozemku par. č.
+          275/1, pred obecným úradom, hasičskou zbrojnicou, na námestí a na
+          pozemku par. č. 4, 3, 2.
+3. Daňovník je povinný písomne oznámiť správcovi dane deň začatia osobitného
+   užívania verejného priestranstva najneskôr v deň začatia osobitného užívania
+   verejného priestranstva na predpísanom tlačive uvedeného v prílohe č. 1 tohto
+   nariadenia, ktorá obsahuje podrobnosti a náležitosti oznamovacej povinnosti.
+   Tlačivo je pre daňovníka k dispozícii u správcu dane. Daňovník je povinný
+
+
+                                      6
+                              VZN č. 2/2027 návrh
+
+   tlačivo si sám vypísať podľa predtlače. Vyplnené tlačivo sa doručuje priamo
+   správcovi dane alebo poštou.
+
+                                     § 12
+                                 Sadzba dane
+
+1. Správca dane určuje sadzbu dane za osobitné užívanie verejného
+   priestranstva:
+       a. za umiestnenie zariadenia, slúžiaceho na poskytovanie služieb a
+          predajného zariadenia 6,00 € za každý aj začatý m2 a každý aj začatý
+          deň,
+       b. za umiestnenie stavebného zariadenia 6,00 € za každý aj začatý m 2
+          a každý aj začatý deň,
+       c. za umiestnenie zariadenia cirkusu, zariadenia lunaparku a iných atrakcií
+          6,00 € za každý aj začatý m2 a každý aj začatý deň,
+       d. za umiestnenie skládky 0,10 € za každý aj začatý m 2 a každý aj začatý
+          deň,
+       e. za trvalé parkovanie vozidla mimo stráženého parkoviska 6,00 € za
+          každý aj začatý m2 a každý aj začatý deň.
+
+                                 Piata časť
+                              Daň za ubytovanie
+                                     § 13
+                                 Sadzba dane
+
+1. Správca dane určuje sadzbu dane za ubytovanie 0,33 € na osobu
+   a prenocovanie.
+
+                                    § 14
+                              Daňová povinnosť
+
+1. Daňová povinnosť vzniká dňom začatia poskytovania odplatného prechodného
+   ubytovania v ubytovacom zariadení uvedenom v § 37 zákona o miestnych
+   daniach a poplatku.
+2. Platiteľ dane je povinný písomne oznámiť deň vzniku alebo deň zániku daňovej
+   povinnosti správcovi dane do 30 dní odo dňa vzniku alebo zániku daňovej
+   povinnosti na predpísanom tlačive uvedeného v prílohe č. 2 tohto nariadenia,
+   ktoré obsahuje podrobnosti a náležitosti oznamovacej povinnosti. Tlačivo je pre
+   platiteľa dane k dispozícii u správcu dane. Platiteľ dane je povinný tlačivo si sám
+   vypísať podľa predtlače. Vyplnené tlačivo sa doručuje priamo správcovi dane
+   alebo poštou.
+3. Platiteľ dane je povinný viesť písomne preukázanú evidenciu ubytovaných
+   fyzických osôb – knihu ubytovaných. V knihe ubytovaných je platiteľ dane
+   povinný očíslovať strany a predložiť knihu ubytovaných správcovi dane, do 30
+   dní od vzniku daňovej povinnosti, na opečiatkovanie a potvrdenie správnosti
+   začatia vedenia evidencie. Kniha ubytovaných musí obsahovať:
+        meno a priezvisko ubytovaného,
+        číslo občianskeho preukazu alebo cestovného pasu,
+
+
+                                        7
+                             VZN č. 2/2027 návrh
+
+       trvalý pobyt,
+       dátum príchodu a odchodu.
+   Platiteľ dane je povinný na výzvu správcu dane predložiť knihu ubytovaných pri
+   kontrole alebo ju doručiť správcovi dane v lehote stanovenej vo výzve.
+4. Platiteľ dane je povinný vydať daňovníkovi (fyzická osoba, ktorá sa v zariadení
+   odplatne prechodne ubytuje) potvrdenie o zaplatení dane. Potvrdenie
+   o zaplatení dane musí obsahovať:
+       číslo potvrdenia,
+       dátum vydania potvrdenia,
+       kto vystavil potvrdenie a kto prijal zaplatenú daň,
+       komu bolo vystavené potvrdenie a kto zaplatil daň,
+       počet prenocovaní,
+       výška zaplatenej dane,
+       pečiatka a podpis oprávnenej osoby, ktorá vystavila potvrdenie.
+   Platiteľ dane je povinný na výzvu správcu dane predložiť knihu ubytovaných pri
+   kontrole alebo ju doručiť správcovi dane v lehote stanovenej vo výzve.
+
+                                 § 15
+                   Spôsoby vyberania dane a jej odvodu
+
+1. Platiteľ dane vyberá daň od daňovníka spôsobom:
+       a. v hotovosti priamo do pokladne platiteľa dane. Platiteľ dane odovzdá
+           daňovníkovi potvrdenie (originál) a kópiu si ponechá platiteľ dane pre
+           daňovú kontrolu,
+       b. prevodom z účtu daňovníka na účet platiteľa dane. Dokladom
+           o zaplatení dane je výpis účtu z peňažného ústavu, ktorý platiteľ uchová
+           pre daňovú kontrolu 5 rokov od vystavenia výpisu.
+2. Platiteľ dane môže platiť a odvádzať miestnu daň týmito spôsobmi:
+       a. v hotovosti priamo do pokladne správcu dane,
+       b. bezhotovostným prevodom na účet správcu dane číslo účtu
+           3405138001/5600 vedený v Prima banke, a.s. Poprad, IBAN: SK67 5600
+           0000 0034 0513 8001.
+3. Platiteľ dane je povinný zaplatenú daň daňovníkom odviesť správcovi dane
+   štvrťročne, a to do 10. dňa po uplynutí štvrťroka.
+
+                                Šiesta časť
+                         Daň za predajné automaty
+                                    § 16
+                                Sadzba dane
+
+1. Správca dane určuje sadzbu dane za predajné automaty:
+      a. 49,79 € za jeden predajný automat a kalendárny rok, obsahujúci
+         v skladbe ponúkaného tovaru najviac 10 druhov tovaru,
+      b. 199,16 € za jeden predajný automat a kalendárny rok, obsahujúci
+         v skladbe ponúkaného tovaru najviac 10 druhov tovaru, ak skladba
+         ponúkaného tovaru obsahuje tabakové výrobky alebo alkoholické
+         nápoje,
+      c. 82,98 € za jeden predajný automat a kalendárny rok s viac ako 10 druhov
+         tovaru,
+
+
+                                       8
+                            VZN č. 2/2027 návrh
+
+      d. 365,13 € za jeden predajný automat a kalendárny rok s viac ako 10
+         druhov tovaru, ak skladba ponúkaného tovaru obsahuje tabakové
+         výrobky alebo alkoholické nápoje.
+
+                                 § 17
+             Rozsah a spôsob vedenia preukázanej evidencie
+
+1. Daňovník je povinný viesť písomne preukázanú evidenciu o počte
+   prevádzkovania predajných automatov. Strany v evidencii je daňovník povinný
+   očíslovať a predložiť evidenciu správcovi dane do 30 dní od vzniku daňovej
+   povinnosti na opečiatkovanie a potvrdenie správnosti začatia vedenia
+   evidencie. Evidencia o počte prevádzkovania predajných automatov musí
+   obsahovať:
+      a. deň začatia prevádzkovania predajného automatu,
+      b. deň ukončenia prevádzkovania predajného automatu,
+      c. druh, typ a názov predajného automatu,
+      d. výrobné číslo predajného automatu,
+      e. obsah skladby ponúkaného tovaru do 10 druhov tovaru,
+      f. obsah skladby ponúkaného tovaru nad 10 druhov tovaru,
+      g. miesto umiestnenia predajného automatu.
+2. Evidenciu je daňovník povinný na výzvu správcu dane predložiť pri kontrole
+   alebo ju doručiť správcovi dane v lehote stanovenej vo výzve.
+
+                                  § 18
+               Spôsob identifikácie predajných automatov
+
+1. Daňovník je povinný k priznaniu k dani za predajné automaty predložiť
+   správcovi dane hodnoverné doklady výrobcu, ktoré identifikujú predajný
+   automat.
+
+                              Siedma časť
+                    Daň za nevýherné hracie prístroje
+                                    § 19
+                                Sadzba dane
+
+1. Správca dane určuje sadzbu dane za nevýherné hracie prístroje:
+      a. 663,87 € za jeden elektronický prístroj na počítačové hry a kalendárny
+         rok,
+      b. 16,59 € za jeden mechanický prístroj - biliard a kalendárny rok,
+      c. 16,59 € za jeden mechanický prístroj - stolný futbal a kalendárny rok,
+      d. 16,59 € za jeden mechanický prístroj - stolný hokej a kalendárny rok,
+      e. 16,59 € za jeden mechanický prístroj - šípky a kalendárny rok,
+      f. 16,59 € za jeden elektronický prístroj - a kalendárny rok,
+      g. 16,59 € za jedno iné zariadenie na zábavné hry ako je uvedené v písm. a.
+         až f. a kalendárny rok.
+
+                                 § 20
+             Rozsah a spôsob vedenia preukázanej evidencie
+
+
+                                      9
+                            VZN č. 2/2027 návrh
+
+1. Daňovník je povinný viesť písomne preukázanú evidenciu o počte
+   prevádzkovania nevýherných hracích prístrojov. Strany v evidencii je daňovník
+   povinný očíslovať a predložiť evidenciu správcovi dane do 30 dní od vzniku
+   daňovej povinnosti na opečiatkovanie a potvrdenie správnosti začatia vedenia
+   evidencie. Evidencia o počte prevádzkovania nevýherných hracích prístrojov
+   musí obsahovať:
+      a. deň začatia prevádzkovania nevýherného hracieho prístroja,
+      b. deň ukončenia prevádzkovania nevýherného hracieho prístroja,
+      c. druh, typ a názov nevýherného hracieho prístroja,
+      d. výrobné číslo nevýherného hracieho prístroja,
+      e. miesto umiestnenia nevýherného hracieho prístroja.
+2. Evidenciu je daňovník povinný k priznaniu k dani za nevýherné hracie prístroje
+   predložiť pri kontrole alebo ju doručiť správcovi dane v lehote stanovenej vo
+   výzve.
+
+                                   § 21
+           Spôsob identifikácie nevýherných hracích prístrojov
+
+1. Daňovník je povinný k priznaniu k dani za nevýherné hracie prístroje predložiť
+   správcovi dane hodnoverné doklady výrobcu, ktoré identifikujú nevýherný hrací
+   prístroj.
+
+                            Ôsma časť
+   Miestny poplatok za komunálne odpady a drobné stavebné odpady
+                                    § 22
+                             Platenie poplatku
+
+1. Poplatok za komunálne odpady, okrem elektroodpadov, použitých batérií
+   a akumulátorov pochádzajúcich od fyzických osôb a biologicky rozložiteľného
+   kuchynského a reštauračného odpadu a drobné stavebné odpady, ktoré
+   vznikajú na území správcu dane platí poplatník, ktorý je určený v § 77 ods. 2
+   zákona o miestnych daniach a poplatku.
+2. Poplatok od poplatníka v ustanovenej výške pre správcu dane vyberá a za
+   vybraný poplatok ručí:
+      a. vlastník nehnuteľnosti; ak je nehnuteľnosť v spoluvlastníctve viacerých
+          spoluvlastníkov alebo ak ide o bytový dom, poplatok vyberá a za vybraný
+          poplatok ručí zástupca, alebo správca určený spoluvlastníkmi, ak
+          s výberom poplatku zástupca, alebo správca súhlasí,
+      b. zástupca alebo správca, určený spoluvlastníkmi je povinný túto
+          skutočnosť oznámiť správcovi dane na tlačive, ktoré tvorí prílohu č. 3
+          tohto nariadenia. Tlačivo je pre poplatníka k dispozícii u správcu dane.
+          Poplatník je povinný tlačivo si sám vypísať podľa predtlače. Vyplnené
+          tlačivo sa doručuje priamo správcovi dane alebo poštou.
+      c. správca, ak je vlastníkom nehnuteľnosti štát, vyšší územný celok alebo
+          obec.
+3. Prevzatie plnenia povinností za viacero poplatníkov, žijúcich v spoločnej
+   domácnosti jedným z nich, je táto osoba povinná túto skutočnosť oznámiť
+   správcovi dane na tlačive, ktoré tvorí prílohu č. 4 tohto nariadenia.
+
+
+
+                                      10
+                            VZN č. 2/2027 návrh
+
+                                   § 23
+                              Sadzba poplatku
+
+1. Správca dane určuje sadzbu poplatku za komunálne odpady a drobné stavebné
+   odpady na obdobie jedného kalendárneho roka:
+      a. pri zavedenom množstvovom zbere 0,0233 € za 1 liter komunálnych
+         odpadov alebo drobných stavebných odpadov,
+      b. pri nezavedenom množstvovom zbere – paušálny 0,0959 € za osobu
+         a kalendárny deň.
+2. Správca dane určuje sadzbu poplatku za drobný stavebný odpad /DSO/ 0,037
+   €/kg.
+3. U právnických osôb a podnikateľov sa ukazovateľ dennej produkcie podľa § 79
+   ods. 4 zákona o miestnych daniach a poplatku vynásobí koeficientom
+   s hodnotou 1.
+
+                                  § 24
+Spôsoby a lehota na zaplatenie poplatku pri množstevnom zbere a vrátenia
+                                poplatku
+
+1. Poplatník môže pri množstvovom zbere zaplatiť správcovi dane poplatok:
+       a. spôsobom:
+                v hotovosti priamo do pokladne správcu,
+                bezhotovostným prevodom na účet správcu dane Obce Spišský
+                 Štiavnik, číslo účtu 3405138001/5600 vedený v Prima banke, a.s.
+                 Poprad,
+       b. formou:
+                šeku,
+                príkazu na úhradu z účtu poplatníka na účet správcu dane,
+       c. na mieste:
+                u správcu dane,
+                v príslušnej banke,
+                na pošte,
+       d. v lehote:
+                stanovenej vo faktúre, ktorú správca dane vystaví poplatníkovi za
+                 odvoz komunálneho odpadu,
+       e. poplatok za drobný stavebný odpad – v hotovosti do pokladne
+          oprávnenej osoby.
+2. Ak poplatník zapojený do systému množstvového zberu uhradil správcovi dane
+   vyšší poplatok, ako bol povinný uhradiť, správca dane na žiadosť poplatníka
+   preplatok vráti v lehote do 30 dní od doručenia žiadosti o jeho vrátenie, ak
+   správca dane nemôže preplatok použiť podľa § 79 ods. 1 zákona č. 563/2009 Z.
+   z. o správe daní a poplatkov v znení neskorších predpisov:
+       a. spôsobom:
+                v hotovosti z pokladne správcu dane,
+                bezhotovostným prevodom z účtu správcu dane na účet
+                 poplatníka,
+       b. formou:
+                výdavkového dokladu,
+                výdavkového šeku,
+
+
+                                      11
+                              VZN č. 2/2027 návrh
+
+                príkazu na úhradu z účtu správcu dane na účet poplatníka,
+       c. v lehote:
+                do 30 dní od doručenia žiadosti o jeho vrátenie.
+
+                                 § 25
+        Podmienky na vrátenie poplatku alebo jeho pomernej časti
+
+ 1. Správca dane vráti podľa § 82 ods. 1 zákona o miestnych daniach a poplatku
+    poplatok za komunálne odpady a drobné stavebné odpady alebo jeho pomernú
+    časť poplatníkovi, ktorému zanikla povinnosť platiť poplatok v priebehu
+    zdaňovacieho obdobia a preukáže splnenie podmienok na vrátenie poplatku
+    alebo jeho pomernej časti ustanovených v písm. a. až d. tohto odseku:
+       a. poplatník zrušil v obci trvalý pobyt alebo prechodný pobyt,
+       b. fyzickej osobe zaniklo oprávnenie užívať byt, nebytový priestor, pozemnú
+           stavbu alebo jej časť, alebo objekt, ktorý nie je stavbou, alebo záhradu,
+           vinicu, ovocný sad, trvalý trávny porast na iný účel ako na podnikanie,
+           pozemok v zastavanom území obce okrem lesného pozemku a
+           pozemku, ktorý je evidovaný v katastri nehnuteľností ako vodná plocha,
+       c. právnickej osobe zaniklo oprávnenie užívať nehnuteľnosť nachádzajúcu
+           sa na území obce na iný účel ako na podnikanie,
+       d. podnikateľovi zaniklo oprávnenie užívať nehnuteľnosť nachádzajúcu sa
+           na území obce na účel podnikania.
+ 2. Poplatník uplatňuje nárok na vrátenie poplatku alebo jeho pomernej časti podľa
+    § 25 tohto nariadenia po predložení podkladov uvedených v § 27 ods. 1 tohto
+    nariadenia písomne u správcu dane po uplynutí daňového obdobia -
+    kalendárneho roka.
+
+                                 § 26
+Podmienky na zníženie alebo odpustenie poplatku alebo jeho pomernej časti
+
+ 1. Správca dane poplatok za komunálne odpady a drobné stavebné odpady podľa
+    § 82 ods. 2 zákona o miestnych daniach a poplatku zníži alebo odpustí poplatok
+    alebo jeho pomernú časť za obdobie, za ktoré poplatník obci preukáže splnenie
+    podmienok ustanovených v § 26 ods. 1 na zníženie poplatku alebo odpustenie
+    poplatku a predloží podklady ustanovené v § 27 ods. 2 tohto nariadenia, že viac
+    ako 90 dní v zdaňovacom období sa nezdržiava alebo sa nezdržiaval na území
+    obce z dôvodu:
+       a. výkonu práce alebo štúdia v zahraničí, alebo z iného pobytu v zahraničí,
+       b. výkonu práce alebo štúdia na území Slovenskej republiky – mimo
+           trvalého pobytu,
+       c. prechodného pobytu v inej obci,
+       d. pobytu v zdravotníckom alebo kúpeľnom zariadení,
+       e. výkonu trestu odňatia slobody,
+       f. vykonávania dobrovoľníckej činnosti poplatníka, ktorý vykonáva
+           dobrovoľnícku činnosť podľa zákona č. 406/2011 Z. z. o dobrovoľníctve
+           a o zmene a doplnení niektorých zákonov v prospech obce na podporu
+           plnenia jej úloh,
+       g. že ide o poplatníka (bezdomovca) prihláseného na trvalý pobyt
+           Obecného úradu obce Spišský Štiavnik podľa § 7 ods. 1 písm. f) zákona
+
+
+                                       12
+                            VZN č. 2/2027 návrh
+
+          č. 253/1998 Z. z. o hlásení pobytu občanov Slovenskej republiky a
+          registri obyvateľov Slovenskej republiky v znení neskorších predpisov,
+       h. príležitostného užívania nehnuteľnosti,
+       i. fyzickým osobám starším ako 70 rokov, znižuje sa poplatok o 3,00 €
+2. Poplatník uplatňuje nárok na zníženie alebo odpustenie poplatku alebo jeho
+   pomernej časti podľa § 26 tohto nariadenia po predložení podkladov uvedených
+   v § 27 ods. 2 tohto nariadenia písomne u správcu dane.
+
+                                § 27
+  Podklady preukazujúce vrátenie, zníženie alebo odpustenie poplatku
+
+1. Ak poplatník požiada v zmysle § 25 tohto nariadenia a predloží podklady
+   uvedené v ods. 1, správca dane vráti poplatok alebo jeho pomernú časť:
+      a. fyzická osoba potvrdenie o zrušení trvalého alebo prechodného pobytu,
+      b. fyzická osoba list vlastníctva, zrušenie nájomnej zmluvy – výpoveď, ktoré
+         preukážu zrušenie oprávnenia užívať byt, nebytový priestor, pozemnú
+         stavbu alebo jej časť, alebo objekt, ktorý nie je stavbou, alebo záhradu,
+         vinicu, ovocný sad, trvalý trávny porast na iný účel ako na podnikanie,
+         pozemok v zastavanom území obce okrem lesného pozemku a
+         pozemku, ktorý je evidovaný v katastri nehnuteľností ako vodná plocha,
+      c. právnická osoba list vlastníctva, zrušenie nájomnej zmluvy – výpoveď,
+         ktoré preukážu zrušenie oprávnenia užívať nehnuteľnosť nachádzajúcu
+         sa na území obce na iný účel ako na podnikanie,
+      d. podnikateľ list vlastníctva, zrušenie nájomnej zmluvy – výpoveď, ktoré
+         preukážu zrušenie oprávnenia užívať nehnuteľnosť nachádzajúcu sa na
+         území obce na účel podnikania.
+2. Ak poplatník požiada v zmysle § 26 tohto nariadenia a predloží podklady
+   uvedené v ods. 2 správca dane zníži alebo odpustí poplatok alebo jeho
+   pomernú časť:
+      a. potvrdenie zamestnávateľa alebo doklad, ktorý oprávňuje poplatníka na
+         prechodný alebo trvalý pobyt v zahraničí alebo čestné vyhlásenie, alebo
+         potvrdenie o inom pobyte v zahraničí,
+      b. potvrdenie zamestnávateľa alebo doklad, ktorý oprávňuje poplatníka na
+         prechodný alebo trvalý pobyt v na území Slovenskej republiky – mimo
+         trvalého bydliska,
+      c. písomná žiadosť o zníženie poplatku, v ktorej poskytne žiak alebo
+         študent údaje meno, priezvisko, dátum narodenia na overenie statusu
+         žiaka alebo študenta, ak ide o študenta, ktorý navštevuje školu mimo
+         územia SR, doloží obci aj potvrdenie o návšteve školy, potvrdenie
+         o ubytovaní študenta na internáte, v ubytovni alebo v inej nehnuteľnosti
+         alebo potvrdenie o prechodnom pobyte - poskytne sa najnižšia sadzba
+         0,02 €/osobu/kalendárny deň,
+      d. potvrdenie o hospitalizácii v zdravotníckom zariadení,
+      e. potvrdenie o kúpeľnej liečbe,
+      f. potvrdenie o výkone trestu odňatia slobody,
+      g. potvrdenie obce o vykonávaní dobrovoľníckej činnosti v prospech obce,
+      h. potvrdenie obce o trvalom pobyte poplatníka (bezdomovca)
+         prihláseného na Obecnom úrade obce Spišský Štiavnik,
+      i. čestné vyhlásenie o príležitostnom užívaní nehnuteľnosti.
+
+
+
+                                      13
+                              VZN č. 2/2027 návrh
+
+                                    § 28
+                     Prechodné a záverečné ustanovenia
+
+   1. Dňom účinnosti tohto všeobecne záväzného nariadenia sa zrušuje Všeobecne
+      záväzné nariadenie obce Spišský Štiavnik č. 2/2024 o miestnych daniach
+      a miestnom poplatku za komunálne odpady a drobné stavebné odpady.
+   2. Zmeny a doplnky tohto Všeobecne záväzného nariadenia obce schvaľuje
+      Obecné zastupiteľstvo obce Spišský Štiavnik.
+   3. Na tomto všeobecne záväznom nariadení sa uznieslo Obecné zastupiteľstvo
+      obce Spišský Štiavnik dňa xx.12.2026 uznesením č. xx/2026 .
+   4. Toto všeobecne záväzné nariadenie nadobúda účinnosť 01.01.2027.
+
+
+
+
+V Spišskom Štiavniku, dňa 27.11.2026
+
+
+
+
+                                                Ing. Matúš Korheľ, starosta obce
+
+
+
+
+                                       14
+

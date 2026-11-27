@@ -947,7 +947,7 @@
  },
  "519405": {
   "base": "https://krive.estranky.sk/",
-  "discovered": "2026-11-20",
+  "discovered": "2026-11-27",
   "pages": [
    "https://krive.estranky.sk/clanky/samosprava/uradna-tabula/",
    "https://krive.estranky.sk/clanky/povinne-zverejnovanie/obecne-zastupitelstvo/",
@@ -18620,7 +18620,7 @@
  },
  "543781": {
   "base": "https://www.stankovce.sk/",
-  "discovered": "2026-11-20",
+  "discovered": "2026-11-27",
   "pages": [
    "https://www.stankovce.sk/clanky/uvod/pozvanka-na-ustanovujuce-zasadnutie-obecneho-zastupitelstva-obce-stankovce.html",
    "https://www.stankovce.sk/clanky/obec/zapisnice-a-uznesenia/",
@@ -20385,10 +20385,9 @@
  },
  "599883": {
   "base": "https://www.mckvp.sk/",
-  "discovered": "2026-11-20",
+  "discovered": "2026-11-27",
   "pages": [
    "https://www.mckvp.sk/detail/uradna-tabula/pozvanka-na-i.-zasadnutie-miestneho-zastupitelstva---ustanovujuce",
-   "https://www.mckvp.sk/detail/uradna-tabula/pozvanka-na-xxxiii.-zasadnutie-miestneho-zastupitelstva",
    "https://www.mckvp.sk/kategorie/uradna-tabula",
    "https://www.mckvp.sk/",
    "https://www.mckvp.sk/mestska-cast/fungovanie-uradu/uradna-tabula",
@@ -20400,7 +20399,8 @@
    "https://www.mckvp.sk/mckvp.build.atk.digital/sk/kategorie/projekty",
    "https://www.mckvp.sk/mestska-cast/fungovanie-uradu/zmluvy-faktury-objednavky",
    "https://www.mckvp.sk/detail/projekty/malotraktor-s-prislusenstvom-na-kvp",
-   "https://www.mckvp.sk/detail/projekty/wifi-pre-teba"
+   "https://www.mckvp.sk/detail/projekty/wifi-pre-teba",
+   "https://www.mckvp.sk/detail/projekty/projekt-skatepark-pod-mostom-moskovska"
   ],
   "status": "ok"
  },
@@ -20438,26 +20438,8 @@
   "status": "ok"
  },
  "599981": {
-  "base": "https://www.kosice.sk/",
-  "discovered": "2026-11-20",
-  "pages": [
-   "https://www.kosice.sk/clanky/skupina/uradna-tabula",
-   "https://www.kosice.sk/mesto/samosprava/mestske-zastupitelstvo",
-   "https://www.kosice.sk/clanok/kosice-budu-mat-od-pondelka-noveho-primatora-mandatu-sa-ujme-aj-51-poslancov-mestskeho-zastupitelstva",
-   "https://www.kosice.sk/clanok/projekt-mobilita-vyuzivajuca-intervencie-na-podporu-fyzickej-aktivity-smerom-k-zdravsiemu-zivotnemu-stylu",
-   "https://www.kosice.sk/clanky/skupina/projekty-mesta",
-   "https://static.kosice.sk/files/manual/noviny/Vizie_investicie_vysledky/index.html",
-   "https://static.kosice.sk/files/manual/noviny/VysledkyPreKosice_brozura/index.html",
-   "https://www.kosice.sk/clanok/komunalne-volby-2026-vysledky-volieb-do-organov-samospravy-mesta-kosice",
-   "https://www.kosice.sk/obcan/uzemne-planovanie",
-   "https://www.kosice.sk/mesto/regionalny-rozvoj",
-   "https://www.kosice.sk/mesto/programove-obdobie-2021-2027-udrzatelny-mestsky-rozvoj",
-   "https://www.kosice.sk/mesto/samosprava",
-   "https://www.kosice.sk/obcan/verejne-obstaravania",
-   "https://www.kosice.sk/transparentne-mesto/oznamovanie-protispolocenskej-cinnosti-zakon-c-54-2019-z-z-",
-   "https://www.kosice.sk/"
-  ],
-  "status": "ok"
+  "pages": [],
+  "status": "web nedostupný: ReadTimeout"
  },
  "VUC-KSK": {
   "pages": [],

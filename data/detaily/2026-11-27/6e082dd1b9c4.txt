@@ -1,0 +1,315 @@
+URL: https://michalany.eu/wp-content/uploads/dokumenty/rozpocty/navrh-rozpoctu-2027-michalany-prijmy-2l6t1n.pdf
+OBEC: Michaľany (Trebišov)
+NÁZOV: Stiahnuť súbor Návrh rozpočtu 2027 Michaľany -príjmy Veľkosť a typ súboru 216 KB / PDF
+ZDROJ: web obce
+
+Obec Michaľany S/N 1                                                               N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                    Strana č.   1
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie           Rozpočet roku 2026                        Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024          2025         Schvávený   Očakávaná skut.    2027 2028 2029
+                                                                                                                                                               2028
+                                                                                                                                                                  2024
+                                                                                                                                                                    2029 2024
+                                                                                                                                                                           2029 2024
+41    R 111003                    Výnos dane z príjmov poukázaný územnej s              861 597,11   741 407,75     770 000,-      770 000,-      850 000,-     850 000,-        850 000,-
+         111 *** DAN Z PRÍJMOV FYZICKEJ OSOBY                                           861 597,11   741 407,75     770 000,-      770 000,-      850 000,-     850 000,-        850 000,-
+41    R 121001                   Dan z pozemkov                                           8 635,02    12 030,78      13 300,-        13 300,-      13 300,-      13 300,-         13 300,-
+41    R 121001 OSTROKY           Dan z pozemkov                                              25,60        26,67
+41    R 121001 R-1               Dan z pozemkov                                             123,30        81,51
+41    R 121002                   Dan zo stavieb                                           6 691,19     9 601,18      10 300,-        10 300,-      10 300,-      10 300,-         10 300,-
+41    R 121002 OSTROKY           Dan zo stavieb                                              17,64        57,52
+41    R 121002 R-1               Dan zo stavieb                                             150,16       149,17
+41    R 121003                   Dan z bytov                                              2 249,57     3 514,21       3 000,-         3 000,-       3 000,-       3 000,-          3 000,-
+41    R 121003 OSTROKY           Dan z bytov                                                109,83        15,88
+41    R 121003 R-1               Dan z bytov                                                 87,93        94,03
+         121 *** DAŇ Z NEHNUTEĽNOSTÍ                                                     18 090,24    25 570,95      26 600,-        26 600,-      26 600,-      26 600,-         26 600,-
+41    R 133001                    Dan za psa                                               605,-          976,-       1 000,-         1 000,-       1 000,-       1 000,-          1 000,-
+41    R 133001 OSTROKY            Dan za psa
+41    R 133001 R-1                Dan za psa                                                 22,50        17,50
+41    R 133012                    Dan za uzivanie verejneho priestranstva                   759,-      1 115,-        1 000,-         1 000,-       1 000,-       1 000,-          1 000,-
+41    R 133013                    Dan za komunalne odpady a drobne stavebn               19 967,81    32 563,36      44 500,-        44 500,-      53 000,-      53 000,-         53 000,-
+41    R 133013         PO         Daň za komunálne odpady a drobné staveb                 5 745,60     7 619,40       6 500,-         6 500,-       8 000,-       8 000,-          8 000,-
+41    R 133013 OSTROKY            Dan za komunalne odpady a drobne stavebn                2 552,72       250,-
+41    R 133013 R-1                Dan za komunalne odpady a drobne stavebn                2 422,53     1 219,93
+41    R 133013 R-1     PO         Daň za komunálne odpady a drobné stavebn                  633,60     1 795,20
+         133 *** DANE ZA ŠPECIFICKÉ SLUŽBY                                               32 708,76    45 556,39      53 000,-        53 000,-      63 000,-      63 000,-         63 000,-
+41    R 212002                          Prijmy z prenajatych pozemkov                     3 097,72     2 173,20       1 700,-         1 700,-       1 700,-       1 700,-          1 700,-
+41    R 212002 Č.D.183                  Príjmy z prenajatých pozemkov                       128,52       128,52         129,-           129,-         129,-         129,-            129,-
+41    R 212002 OSTROKY                  Z prenajatých pozemkov
+41    R 212002 R-1                      Z prenajatých pozemkov
+41    R 212003                          Prijmy z prenajatych budov, priestorov a             50,-                                                      50,-          50,-             50,-
+41    R 212003 BD                       Z prenajatých budov, priestorov a objekt         34 047,43    33 875,-       33 834,-        33 834,-      33 834,-      33 834,-         33 834,-
+41    R 212003 KASS                     Prijmy z prenajatych budov, priestorov a            557,03     1 074,91         500,-           500,-         500,-         500,-            500,-
+41    R 212003 R-1                      Prijmy z prenajatych budov, priestorov a            180,-      1 952,58
+41    R 212003 RD262                    Z prenajatých budov, priestorov a objekt          1 006,37     1 006,38
+41    R 212003 RD299                    Prijmy z prenajatych budov, priestorov a
+41    R 212003 SOCU                     Prijmy z prenajatych budov, priestorov a          2 317,68       211,-        1 163,-         1 163,-
+41    R 212003 ZS                       Prijmy z prenajatych budov, priestorov a         30 179,42    33 159,46      32 420,-        32 420,-      32 420,-      32 420,-         32 420,-
+41    R 212004                          Prijmy z prenajatych strojov,pristr.,zar                          15,-          100,-           100,-         100,-         100,-            100,-
+41    R 212004 DOP     HON              Prijmy z prenajatych strojov,pristr.,zar                                         50,-            50,-
+41    R 212004 DOP     MAN L 20         Z prenajatých strojov, prístr.,zariadení           286,-          341,-         200,-           200,-
+41    R 212004 DOP     TRAKTOR          Z prenajatých strojov, prístr.,zariadení           360,-          465,-         200,-           200,-
+41    R 212004 HONKA                    Z prenajatých strojov, prístr.,zariadení                                                                       50,-          50,-             50,-
+41    R 212004 J.DEERE                  Z prenajatých strojov, prístr.,zariadení                                                                       90,-          90,-             90,-
+41    R 212004 KASS                     Z prenajatých strojov, prístr.,zariadení                            48,10
+Obec Michaľany S/N 1                                                               N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                   Strana č.   2
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie          Rozpočet roku 2026                        Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024          2025        Schvávený    Očakávaná skut.   2027 2028 2029
+                                                                                                                                                              2028
+                                                                                                                                                                 2024
+                                                                                                                                                                   2029 2024
+                                                                                                                                                                          2029 2024
+41    R 212004 MAN                Z prenajatých strojov, prístr.,zariadení
+41    R 212004 TRAKTOR            Z prenajatých strojov, prístr.,zariadení
+         212 *** PRÍJMY Z VLASTNÍCTVA                                                    72 210,17    74 450,15      70 296,-        70 296,-     68 873,-      68 873,-         68 873,-
+41    R 221002                   Správne poplatky                                         4 236,-      3 161,60       3 000,-         3 000,-      4 000,-       4 000,-          4 000,-
+41    R 221004                   Ostatne poplatky
+         221 *** ADMINISTRATÍVNE POPLATKY                                                 4 236,-      3 161,60       3 000,-         3 000,-      4 000,-       4 000,-          4 000,-
+41    R 222003                     Za porusenie predpisov
+         222 *** POKUTY, PENÁLE A INÉ SANKCIE
+41    R 223001                     Poplatky a platby za predaj vyrobkov, to               2 005,96     4 337,62       3 000,-         3 000,-      1 500,-       1 500,-          1 500,-
+41    R 223001 DHZ                 Za predaj výrobkov, tovarov a služieb                    905,-      1 225,-          200,-           200,-
+41    R 223001 DOP      MAN L 20   Za predaj výrobkov, tovarov a služieb
+41    R 223001 DS                  Poplatky a platby za predaj vyrobkov, to                161,20         250,-         200,-           200,-        200,-         200,-            200,-
+41    R 223001 IOMO                Za predaj výrobkov, tovarov a služieb
+41    R 223001 KNIZ                Poplatky a platby za predaj vyrobkov, to                160,-          130,-         120,-           120,-        120,-         120,-            120,-
+41    R 223001 KOPIRKA             Za predaj výrobkov, tovarov a služieb                                    3,10
+41    R 223002                     Poplatky a platby za jasle,materske a sk
+72g   R 223002 MŠ                  Za školy a školské zariadnia                           2 856,-      3 140,-        2 000,-         2 000,-      2 000,-       2 000,-          2 000,-
+         223 *** POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO                                 6 088,16     9 085,72       5 520,-         5 520,-      3 820,-       3 820,-          3 820,-
+41    R 229001                   Poplatky a platby z odplaty za vypúšťani                18 641,25    18 520,22      25 500,-        25 500,-     25 500,-      25 500,-         25 500,-
+41    R 229001          PO       Poplatky a platby z odplaty za vypúšťani                 2 316,53     1 141,53       2 000,-         2 000,-      2 000,-       2 000,-          2 000,-
+41    R 229001 OSTROKY           Poplatky a platby z odplaty za vypúšťani                   212,80       426,45
+41    R 229001 OSTROKY PO        Za vypúšťanie odpadových vôd do povrchov
+41    R 229001 R-1               Poplatky a platby z odplaty za vypúšťani                 4 693,44     5 875,80
+41    R 229001 R-1      PO       Za vypúšťanie odpadových vôd do povrchov                              1 417,64
+41    R 229005                   Za znečisťovanie ovzdušia                                  436,80       403,30         500,-           500,-        500,-         500,-            500,-
+         229 *** ĎALŠIE ADMINISTRATÍVNE POPLATKY A INÉ PO                                26 300,82    27 784,94      28 000,-        28 000,-     28 000,-      28 000,-         28 000,-
+41    R 242                             UROKY Z VKLADOV                                       9,51          0,81
+         242 *** Z VKLADOV                                                                    9,51          0,81
+41    R 292006                          Prijmy z nahrad z poistneho plnenia                  92,-
+41    R 292008                          Prijmy z vytazkov z loterii a inych podo         12 078,-     12 045,-        8 100,-         8 100,-      8 100,-       8 100,-          8 100,-
+41    R 292012                          Prijmy z dobropisov                               5 461,65       882,33
+41    R 292012 RD296                    Z dobropisov
+41    R 292012 RD299                    Z dobropisov
+41    R 292017                          Vratky                                               10,72        403,26
+41    R 292017 BD                       Z vratiek
+41    R 292017 SOCU                     Z vratiek                                            35,62        19,18
+41    R 292017 ZS                       Vratky                                            2 754,86       988,18
+41    R 292027                          Iné                                                  79,67     2 928,66
+41    R 292027 BD                       Iné                                               1 763,96     1 502,76
+         292 *** OSTATNÉ PRÍJMY                                                          22 276,48    18 769,37       8 100,-         8 100,-      8 100,-       8 100,-          8 100,-
+Obec Michaľany S/N 1                                                               N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený:                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                        Strana č.   3
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                                   2028
+                                                                                                                                                                      2024
+                                                                                                                                                                        2029 2024
+                                                                                                                                                                               2029 2024
+72a   R 311                             GRANTY
+72a   R 311     DHZ                     GRANTY                                            1 700,-
+72c   R 311     DHZ                     GRANTY                                            3 484,41       3 264,76       3 000,-         3 000,-         3 000,-        3 000,-         3 000,-
+72c   R 311     KNIZ   FNPU             GRANTY
+72c   R 311     NSPP                    GRANTY
+         311 *** GRANTY                                                                   5 184,41       3 264,76       3 000,-         3 000,-         3 000,-        3 000,-         3 000,-
+111 R 312001 CD                         Zo št.rozpočtu okrem transf.na úhradu ná             75,34         75,30           75,-            75,-            75,-           75,-            75,-
+111 R 312001 CO                         Zo štátneho rozpočtu                                362,04        393,96          362,-           362,-           362,-          362,-           362,-
+111 R 312001 DHZ                        Zo št.rozpočtu okrem transf.na úhradu ná            270,-         500,61
+111 R 312001 DVD2024                    Zo št.rozpočtu okrem transf.na úhradu ná         16 221,-
+111 R 312001 HN-STR                     Zo štátneho rozpočtu                             87 763,30     88 770,90     108 000,-       108 000,-       100 000,-      100 000,-        100 000,-
+111 R 312001 HN-UP                      Zo štátneho rozpočtu                              1 211,80      1 162,-        1 175,-         1 175,-         1 157,-        1 157,-          1 157,-
+111 R 312001 INF                        Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 MOM                        Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 MŠ                         Zo št.rozpočtu okrem transf.na úhradu ná                      209 499,-      242 606,-       242 606,-       250 000,-      250 000,-        250 000,-
+111 R 312001 MŠ      SVVP               Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 MŠP                        Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 MŠPA                       Zo št.rozpočtu okrem transf.na úhradu ná          3 996,-      17 275,-       20 000,-         20 000,-       28 000,-       28 000,-         28 000,-
+111 R 312001 MŠPMH                      Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 MŠŠP                       Zo št. rozpočtu okrem trnasf. na úhradu
+111 R 312001 ODMENA                     Zo št.rozpočtu okrem transf.na úhradu ná                       71 443,60
+111 R 312001 OKF                        Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 OPRP                       Zo št.rozpočtu okrem transf.na úhradu ná                         1 407,20         352,-           352,-         4 000,-        4 000,-         4 000,-
+111 R 312001 PREDS                      Zo štátneho rozpočtu                             14 544,-
+111 R 312001 PUPN                       Zo št.rozpočtu okrem transf.na úhradu ná            504,09        284,08
+111 R 312001 RA                         Zo št.rozpočtu okrem transf.na úhradu ná             46,80
+111 R 312001 REE                        Zo št.rozpočtu okrem transf.na úhradu ná          2 873,30
+111 R 312001 REF2023                    Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 REF2026                    Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 RP                         Zo štátneho rozpočtu                              2 220,-        1 500,-        2 200,-         2 200,-         2 200,-        2 200,-         2 200,-
+111 R 312001 SODB    SO                 Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 SVVP                       Zo št.rozpočtu okrem transf.na úhradu ná                         3 100,-        1 900,-         1 900,-         3 000,-        3 000,-         3 000,-
+111 R 312001 TSP                        Zo št. rozpočtu okrem transf. na úhradu
+111 R 312001 V-EP                       Zo št.rozpočtu okrem transf.na úhradu ná          3 038,03
+111 R 312001 V-KOM                      Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 V-NRSR                     Zo št.rozpočtu okrem transf.na úhradu ná
+111 R 312001 V-PSR                      Zo št.rozpočtu okrem transf.na úhradu ná          5 220,28
+111 R 312001 ZŠ-P                       Zo št. rozpočtu okrem transf. na úhradu
+111 R 312001 ZŠK                        Zo štátneho rozpočtu                          1 078 654,34   1 183 765,-    1 251 360,-    1 251 360,-      1 193 160,-    1 193 160,-     1 193 160,-
+111 R 312001 ŽP                         Zo št.rozpočtu okrem transf.na úhradu ná            211,07         227,83         211,-          211,-            244,-          244,-           244,-
+1AC1 R 312001 AZUOZ                     Zo št.rozpočtu okrem transf.na úhradu ná
+1AC1 R 312001 CHSŠ                      Zo št.rozpočtu okrem transf.na úhradu ná
+Obec Michaľany S/N 1                                                                N á v r h r o z p o č t u - podrobný výpis       PRÍJMY
+
+Schválený:                                                                          Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                                Zvesený:                                                                                   Strana č.   4
+                                 Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie          Rozpočet roku 2026                        Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka      Popis ekonomickej klasifikácie                   2024          2025        Schvávený    Očakávaná skut.   2027 2028 2029
+                                                                                                                                                               2028
+                                                                                                                                                                  2024
+                                                                                                                                                                    2029 2024
+                                                                                                                                                                           2029 2024
+1AC1 R 312001 CNTP                       Zo št.rozpočtu okrem transf.na úhradu ná
+1AC1 R 312001 NPPKZ                      Zo št.rozpočtu okrem transf.na úhradu ná
+1AC1 R 312001 NPPOP                      Zo št.rozpočtu okrem transf.na úhradu ná
+1AC1 R 312001 NPPOPŠ                     Zo št.rozpočtu projekt POP zák. škola
+1AC1 R 312001 POZ                        Zo št.rozpočtu okrem transf.na úhradu ná
+1AC1 R 312001 TSP                        Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 AZUOZ                      Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 CHSŠ                       Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 CNTP                       Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 NPPKZ                      Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 NPPOP                      Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 NPPOPŠ                     Zo št.rozpočtu projekt POP zák. škola
+1AC2 R 312001 POZ                        Zo št.rozpočtu okrem transf.na úhradu ná
+1AC2 R 312001 TSP                        Zo št.rozpočtu okrem transf.na úhradu ná
+1AC3 R 312001 NPPOP                      Zo št.rozpočtu okrem transf.na úhradu ná
+1AC3 R 312001 NPPOPŠ                     Zo št.rozpočtu projekt POP zák. škola
+1BB1 R 312001 MOPS                       Zo št.rozpočtu okrem transf.na úhradu ná         44 383,93    57 596,03      53 530,-        53 530,-
+1BB1 R 312001 NPPOPŠ                     Zo št.rozpočtu okrem transf.na úhradu ná         33 898,71    13 265,72
+1BB1 R 312001 POP3                       Zo št.rozpočtu okrem transf.na úhradu ná          7 824,93
+1BB1 R 312001 TSP                        Zo št.rozpočtu okrem transf.na úhradu ná         43 223,55    33 733,27      40 800,-        40 800,-     40 800,-      40 800,-         40 800,-
+1BB2 R 312001 MOPS                       Zo št.rozpočtu okrem transf.na úhradu ná          7 832,46    10 163,97       9 440,-         9 440,-
+1BB2 R 312001 NPPOPŠ                     Zo št.rozpočtu okrem transf.na úhradu ná          3 517,40     2 325,09
+1BB2 R 312001 POP3                       Zo št.rozpočtu okrem transf.na úhradu ná          1 049,20
+1BB2 R 312001 TSP                        Zo št.rozpočtu okrem transf.na úhradu ná          7 627,68     5 952,93       7 200,-         7 200,-      7 200,-       7 200,-          7 200,-
+1P01 R 312001 POEP                       Zo št.rozpočtu okrem transf.na úhradu ná
+1P01 R 312001 ZŠ-P                       Zo št.rozpočtu okrem transf.na úhradu ná
+1P01 R 312001 ZŠ-PSM                     Zo št. rozpočtu okrem transf. na úhradu
+1P01 R 312001 ZŠK                        Zo št. rozpočtu okrem transf. na úhradu
+1P02 R 312001 POEP                       Zo št.rozpočtu okrem transf.na úhradu ná
+1P02 R 312001 ZŠ-P                       Zo št.rozpočtu okrem transf.na úhradu ná
+3AC1 R 312001 NPPOP                      Zo št.rozpočtu okrem transf.na úhradu ná
+3AC1 R 312001 NPPOP         PP           Zo št.rozpočtu okrem transf.na úhradu ná
+3AC1 R 312001 NPPOPŠ                     Zo št.rozpočtu projekt POP zák. škola
+3AC2 R 312001 NPPOP                      Zo št.rozpočtu okrem transf.na úhradu ná
+3AC2 R 312001 NPPOP         PP           Zo št.rozpočtu okrem transf.na úhradu ná
+3AC2 R 312001 NPPOPŠ                     Zo št.rozpočtu projekt POP zák. škola
+3AC3 R 312001 NPPOP                      Zo št.rozpočtu okrem transf.na úhradu ná
+3AC3 R 312001 NPPOP         PP           Zo št.rozpočtu okrem transf.na úhradu ná
+3AC3 R 312001 NPPOPŠ                     Zo št.rozpočtu okrem transf.na úhradu ná
+3BA1 R 312001 RŠA                        Zo št.rozpočtu okrem transf.na úhradu ná
+3BA2 R 312001 RŠA                        Zo št.rozpočtu okrem transf.na úhradu ná
+3BB1 R 312001 NPPOPŠ                     Zo št.rozpočtu okrem transf.na úhradu ná         10 797,30     1 850,45
+Obec Michaľany S/N 1                                                               N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený:                                                                         Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                               Zvesený:                                                                                        Strana č.   5
+                                Príjmy podľa ekonomickej klasifikácie                    Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie                   2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                                   2028
+                                                                                                                                                                      2024
+                                                                                                                                                                        2029 2024
+                                                                                                                                                                               2029 2024
+3BB1 R 312001 POP3              Zo št.rozpočtu okrem transf.na úhradu ná                  4 665,68
+3BB2 R 312001 NPPOPŠ            Zo št.rozpočtu okrem transf.na úhradu ná                  3 254,20        342,47
+3BB2 R 312001 POP3              Zo št.rozpočtu okrem transf.na úhradu ná                    869,49
+3P01 R 312001 POO               Zo št.rozpočtu okrem transf.na úhradu ná
+45   R 312002 EF                Zo štátneho účelového fondu                               1 197,42       1 211,88       1 200,-         1 200,-         1 200,-        1 200,-         1 200,-
+11H R 312011 KNIZ     FNPU      Od ostatných subjektov verejnej správy                                   1 000,-
+11H R 312011 KNIZ     OKF       Od ostatných subjektov verejnej správy
+111 R 312012 MAT                Zo štátneho rozpočtu - prenesený výkon š                 10 647,-       10 734,67     10 694,-         10 694,-       11 000,-       11 000,-         11 000,-
+111 R 312012 RA                 Zo št.rozpočtu na úhradu nákl. prenes. v                                    26,-          47,-             47,-           21,-           21,-             21,-
+111 R 312012 RO                 Zo štátneho rozpočtu - prenesený výkon š                    575,52         575,19        605,-            605,-          570,-          570,-            570,-
+111 R 312012 UUPV               Zo št.rozpočtu na úhradu nákl. prenes. v                                 2 856,91
+        312 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                     1 398 575,86   1 721 039,06   1 751 757,-    1 751 757,-      1 642 989,-    1 642 989,-     1 642 989,-
+
+        1 Časť I. Bežný rozpočet                                                      2 447 277,52   2 670 091,50   2 719 273,-    2 719 273,-      2 698 382,-    2 698 382,-     2 698 382,-
+72j   R 321                             GRANTY                                            3 700,-
+         321 *** GRANTY                                                                   3 700,-
+111   R 322001 BD                Zo štátneho rozpočtu
+111   R 322001 CHODNIK           Zo štátneho rozpočtu
+111   R 322001 DII               Zo štátneho rozpočtu
+111   R 322001 DRKS              Zo štátneho rozpočtu                                                    5 000,-
+111   R 322001 ORZM              Zo štátneho rozpočtu                                    31 500,-
+111   R 322001 PŠJ               ZO štátneho rozpočtu
+111   R 322001 TV                Zo štátneho rozpočtu
+111   R 322001 VODA              Zo štátneho rozpočtu
+111   R 322001 ZŠK               Zo štátneho rozpočtu
+45    R 322001 OUKD              Zo štátneho rozpočtu
+45    R 322002 EFTR              Zo štátneho účelového fondu                                           69 300,-
+45    R 322002 VODA              Zo štátneho účelového fondu                                          217 143,-
+         322 *** TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                       31 500,-     291 443,-
+
+        2 Časť I. Kapitálový rozpočet                                                    35 200,-     291 443,-
+131K R 453       KNIZ    OKF            PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131K R 453       REGP                   Zo št.rozpočtu okrem transf.na úhradu ná
+131K R 453       SODB                   PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131K R 453       ZŠK                    PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453       CHODNIK                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453       DII                    PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453       SODB                   PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453       ZŠ-P                   PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131L R 453       ZŠK                    PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131M R 453       REF2023                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131M R 453       ZŠ-RK                  PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                327,60
+Obec Michaľany S/N 1                                                      N á v r h r o z p o č t u - podrobný výpis         PRÍJMY
+
+Schválený:                                                                Vyvesený: 26.11.2026
+Účínnosť: 01.01.2027                                                      Zvesený:                                                                                        Strana č.   6
+                                Príjmy podľa ekonomickej klasifikácie           Skutočné plnenie            Rozpočet roku 2026                           Návrh rozpočtu
+
+Zdroj T Položka Stredisko   Zákazka     Popis ekonomickej klasifikácie          2024           2025         Schvávený    Očakávaná skut.      2027 2028 2029
+                                                                                                                                                          2028
+                                                                                                                                                             2024
+                                                                                                                                                               2029 2024
+                                                                                                                                                                      2029 2024
+131M R 453     ZŠK               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131N R 453     MŠP               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV              750,-
+131N R 453     OUKD              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131N R 453     PREDS             PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV            4 144,41
+131N R 453     ZŠK               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV           51 259,-
+131O R 453     ORZM              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                         31 500,-
+131O R 453     ZŠK               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                         34 450,-
+131P R 453     MŠ                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+131P R 453     ZŠK               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                        22 000,-         22 000,-
+131Q R 453     ZŠK               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                                                        25 600,-
+1BB1 R 453     MOPS              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+1BB1 R 453     TSP               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+1BB2 R 453     MOPS              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+1BB2 R 453     TSP               PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+41   R 453     BD                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+45   R 453     EFTR              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+45   R 453     OUKD              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                        400 000,-
+45   R 453     VODA              PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                       217 143,-       217 143,-
+46   R 453     BD                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV            1 016,-        3 993,40
+52   R 453     BD                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+52   R 453     TV                PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+72g R 453                        PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                            600,-
+72j R 453                        PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV
+        453 *** PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                            57 497,01    470 543,40     239 143,-       239 143,-        25 600,-
+46    R 454001                   PREVOD PROSTRIEDKOV Z PENAZNYCH FONDOV         29 519,04    132 417,04     189 400,-       189 400,-       200 000,-
+         454 *** PREVOD PROSTRIEDKOV Z PEŇAŽNÝCH FONDOV                         29 519,04    132 417,04     189 400,-       189 400,-       200 000,-
+71    R 456002                    Prijaté finančné zábezpeky                    30 000,-
+72j   R 456002                    Prijaté finančné zábezpeky
+72j   R 456002 BD                 Prijaté finančné zábezpeky
+72j   R 456005 IOMO               Ostatné príjmové finančné operácie
+         456 *** INÉ PRÍJMOVÉ FINANČNÉ OPERÁCIE                                 30 000,-
+
+        3 Časť II. Finančné operácie                                           117 016,05    602 960,44     428 543,-       428 543,-       225 600,-
+
+        CELKOM P R Í J M Y                                                   2 599 493,57   3 564 494,94   3 147 816,-    3 147 816,-      2 923 982,-    2 698 382,-     2 698 382,-
+© IFOsoft
+

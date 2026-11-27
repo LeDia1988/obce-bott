@@ -1,0 +1,636 @@
+URL: https://cuet.slovensko.sk/en/dokument/334d2b84-44c7-43b6-8e0e-2564465af969
+OBEC: Jaklovce (Gelnica)
+NÁZOV: VZN 2/2026 - NÁVRH
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/334d2b84-44c7-43b6-8e0e-2564465af969
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document VZN 2/2026 - NÁVRH
+Search publisher's RSS feeds
+Published on official board:
+Obec Jaklovce (OVM)
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Obec Jaklovce (OVM)
+Published to:
+12.12.2026
+Registry case:
+Name of official document:
+VZN 2/2026 - NÁVRH
+Document abstract:
+o miestnych daniach a miestnom poplatku za komunálne odpady
+a drobné stavebné odpady
+[https://www.jaklovce.sk/e_download.php?file=/data/uredni_deska/obsah510_1.pdf&original=2026-2 - Návrh - o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady.pdf]_
+Typ: PDF dokument, Veľkosť: 278.33 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+2026-2 - Návrh - o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady.pdf
+Type and size:
+.pdf, 278.33 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/2d4a4caf-d288-4382-9957-ac3d978f2859
+                                           N Á V R H
+
+Obec Jaklovce v súlade s ust. § 6 ods. 1 a s ust. § 4 ods. 3 písm. c) Zákona SNR č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a súlade s ustanoveniami Zákona č. 582/2004 Z. z.
+o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení
+neskorších predpisov, vydáva toto všeobecne záväzné nariadenie (ďalej ako „VZN“):
+
+
+                        VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+                                  OBCE JAKLOVCE
+                                       č. 2/2026
+ o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady
+
+                                           Článok 1
+                                     Základné ustanovenia
+
+    1) Obecné zastupiteľstvo v Jaklovciach podľa § 11 ods. 4 písm. d), e) a písm. g) Zákona SNR č.
+369/1990 Zb. o obecnom zriadení v znení neskorších predpisov, Zákona č. 582/2004 Z. z.
+o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady v znení
+neskorších predpisov ukladá:
+       a) daň z nehnuteľností,
+       b) daň za psa,
+       c) daň za užívanie verejného priestranstva,
+       d) daň za ubytovanie,
+       e) daň za predajné automaty,
+       f) daň za nevýherné hracie prístroje,
+       g) poplatok za komunálne odpady a drobné stavebné odpady (ďalej už len poplatok).
+    2) Toto VZN upravuje podmienky určovania a vyberania miestnych daní a miestneho poplatku
+na území Obce Jaklovce.
+
+
+                                       PRVÁ ČASŤ
+                                  DAŇ Z NEHNUTEĽNOSTÍ
+
+                                     DAŇ Z POZEMKOV
+
+                                           Článok 2
+                                          Základ dane
+
+    1) Správca dane určuje základ dane z pozemkov pre pozemky na ktorých sú lesné pozemky,
+hospodárske lesy, rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy:
+0,080 EUR/m2.
+    2) Hodnota pozemku sa použije, len ak daňovník hodnotu pozemku nepreukáže znaleckým
+posudkom.
+
+
+
+
+                                           N Á V R H
+                                            N Á V R H
+
+
+                                             Článok 3
+                                           Sadzba dane
+       Správca dane určuje ročnú sadzbu dane z pozemkov nasledovne:
+       a) orná pôda, chmeľnice, vinice, ovocné sady a trvalé trávnaté porasty:   1,25 %
+       b) záhrady:                                                               0,60 %
+       c) zastavané plochy a nádvoria, ostatné plochy:                           0,70 %
+       d) lesné pozemky, na ktorých sú hospodárske lesy, rybníky s chovom
+           rýb a ostatné hospodársky využívané vodné plochy:                     0,75 %
+       e) stavebné pozemky:                                                      0,60 %
+       f) v rekreačnej oblasti Skalka, Rovne a Gregorik je daň z pozemkov:
+         1) zastavané plochy a nádvoria, ostatné plochy:                         3,00 %
+         2) stavebné pozemky:                                                    3,00 %.
+
+
+                                       DAŇ ZO STAVIEB
+
+                                            Článok 4
+                                           Sadzba dane
+
+        Správca dane určuje ročnú sadzu dane za každý začatý m2 zo stavieb vo výške:
+        a) 0,15 EUR za stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre hlavnú
+stavbu, pri viacpodlažných stavbách obec určuje príplatok za každé ďalšie podlažie okrem prvého
+nadzemného podlažia o 0,20 EUR,
+        b) 0,25 EUR za stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+hospodárstvo, stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie vrátane stavieb
+na vlastnú administratívu,
+        c) 1,50 EUR na stavby rekreačných a záhradkárskych chát a domčekov na individuálnu
+rekreáciu, pri viacpodlažných stavbách obec určuje príplatok za každé ďalšie podlažie okrem prvého
+nadzemného podlažia o 0,20 EUR,
+        d) 0,50 EUR za samostatne stojace garáže, za samostatné stavby hromadných garáží,
+za stavby hromadných garáží umiestnených pod zemou a za stavby určené alebo používané na tieto
+účely, postavené mimo bytových domov, pri viacpodlažných stavbách obec určuje príplatok za každé
+ďalšie podlažie okrem prvého nadzemného podlažia o 0,20 EUR,
+        e) 1,50 EUR priemyselné stavby, stavby slúžiace energetike, stavby slúžiace stavebníctvu,
+stavby využívané na skladovanie vlastnej produkcie vrátane stavieb na vlastnú administratívu, pri
+viacpodlažných stavbách obec určuje príplatok za každé ďalšie podlažie okrem prvého nadzemného
+podlažia o 0,20 EUR,
+        f) 1,50 EUR za stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie
+a administratívu súvisiacu s ostatným podnikaním a so zárobkovou činnosťou, pri viacpodlažných
+stavbách obec určuje príplatok za každé ďalšie podlažie okrem prvého nadzemného podlažia o
+0,20 EUR,
+        g) 0,50 EUR za ostatné stavby neuvedené v písmenách a) až f), pri viacpodlažných stavbách
+obec určuje príplatok za každé ďalšie podlažie okrem prvého nadzemného podlažia o 0,20 EUR.
+
+                                            N Á V R H
+                                            N Á V R H
+
+                                         DAŇ Z BYTOV
+
+                                           Článok 5
+                                          Sadzba dane
+
+       Správca dane určuje daň z bytov a nebytových priestorov aj za začatý m2 podlahovej plochy
+bytu a nebytového priestoru v bytovom dome nasledovne:
+       a) 0,20 EUR za byty,
+       b) 0,20 EUR za nebytové priestory, ktoré neslúžia na podnikanie a inú zárobkovú činnosť,
+       c) 0,50 EUR za nebytové priestory, ktoré sa využívajú na podnikanie a inú zárobkovú činnosť.
+
+
+                                SPOLOČNÉ USTANOVENIA
+                               PRE DAŇ Z NEHNUTEĽNOSTÍ
+
+                                           Článok 6
+                              Oslobodenie od dane a zníženie dane
+
+1) Od dane z pozemkov sú oslobodené:
+     a) pozemky, na ktorých sú cintoríny, urnové háje,
+     b) pozemky užívané školami a školskými zariadeniami,
+     c) pozemky vo vlastníctve obce.
+
+2) Od dane zo stavieb sú oslobodené:
+      a) stavby alebo byty slúžiace školám, školským zariadeniam a zdravotníckym zariadeniam,
+zariadeniam na pracovnú rehabilitáciu a rekvalifikáciu občanov so zmenenou pracovnou
+schopnosťou, stavby užívané na účely sociálnej pomoci,
+     b) stavby vo vlastníctve cirkvi a náboženských spoločností (kostol, kaplnky, fara a pod.),
+     c) stavby vo vlastníctve obce.
+
+3) Zníženie dane o 50 % v zmysle § 17 zák. č. 582/2004 Z. z.:
+     a) Obec Jaklovce znižuje daň z pozemkov uvedených v Článku 3 písm. b) a c) tohto VZN
+- pre občanov starších ako 70 rokov,
+     b) Obec Jaklovce znižuje daň zo stavieb uvedených v Článku 4 písm. a) a d) tohto VZN
+- pre občanov starších ako 70 rokov,
+- občanov s ťažkým zdravotným postihnutím - držiteľov preukazov ZŤP.
+
+4) Oslobodenie alebo zníženie od dane v zmysle Článku 6 ods. 3 tohto VZN sa vzťahuje iba na
+daňovníkov s trvalým pobytom v Obci Jaklovce.
+5) Oslobodenie alebo zníženie od dane v zmysle Článku 6 ods. 3 tohto VZN sa nevzťahuje na stavby
+ktoré sú využité ako chalupy.
+
+
+
+
+                                            N Á V R H
+                                           N Á V R H
+
+
+                                        DRUHÁ ČASŤ
+                                        DAŇ ZA PSA
+
+                                          Článok 7
+                                         Sadzba dane
+
+     1) Správca dane určuje sadzbu dane: 10 EUR za psa a kalendárny rok, chovaného v rodinnom
+dome alebo záhrade, 20 EUR za psa a kalendárny rok chovaného v bytovom dome.
+     2) Znížená sadzba dane sa určuje pre daňovníka s trvalým pobytom na území obce Jaklovce
+o 50 % za každého psa a kalendárny rok:
+           - pre členov poľovníckeho združenia s platným preukazom o pôvode poľovníckeho psa,
+           - pre občanov, ktorí predložia doklad o kastrácii alebo sterilizácii psa,
+           - pre občanov, ktorí si adoptujú (osvoja) psa z útulku.
+     3) Poplatok platí fyzická osoba a právnická osoba, ktorá je vlastníkom psa.
+     4) Určená sadzba dane za psa sa platí aj za každého ďalšieho psa u toho istého daňovníka.
+     5) Ak je daňovník držiteľom alebo vlastníkom viacerých psov, od dane je oslobodený iba jeden
+pes.
+
+
+                                  TRETIA ČASŤ
+                   DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA
+
+                                           Článok 8
+                                         Predmet dane
+
+    1) Osobitným užívaním verejného priestranstva na území obce je:
+       a) umiestnenie zariadenia slúžiaceho na poskytovanie služieb,
+       b) umiestnenie stavebného zariadenia,
+       c) umiestnenie predajného zariadenia,
+       d) umiestnenie zariadenia cirkusu, zariadenia lunaparku a iných atrakcií,
+       e) umiestnenie skládky,
+       f) parkovanie obytného prívesu,
+       g) trvalé parkovanie vozidla mimo stráženého parkoviska.
+    2) Verejným priestranstvom na účely tohto VZN sú verejnosti prístupné pozemky vo vlastníctve
+Obce Jaklovce. Verejným priestranstvom na účely tohto VZN nie sú pozemky, ktoré obec prenajala
+podľa osobitného zákona (napr. Občiansky zákonník).
+
+                                          Článok 9
+                                         Sadzba dane
+
+    Sadzba dane za užívanie verejného priestranstva je nasledovná:
+      a) umiestnenie zariadení, skládky za každý začatý deň za 1 m²: 0,50 EUR,
+      b) predajné zariadenie: 15,00 EUR/deň,
+      c) lunaparky, kolotoče, videoherne: 25,00 EUR/deň,
+                                           N Á V R H
+                                            N Á V R H
+
+        d) cirkusy: 15,00 EUR/deň,
+        e) predaj poľnohospodárskych produktov, kvetov a priemyselného tovaru na verejných
+priestranstvách:
+            - motorové vozidlo osobné: 7,00 EUR/deň,
+            - motorové vozidlo osobné + príves: 10,00 EUR/deň,
+            - motorové vozidlo - dĺžka nad 4 m: 10,00 EUR/deň,
+         f) v prípadoch uvedených v Článku 8 ods.1 písm. f) a g): 1,00 EUR za každý, aj začatý m²
+a za každý aj začatý deň.
+
+                                            Článok 10
+                               Náležitosti oznamovacej povinnosti
+
+    1) Daňovník uvedie svoj zámer osobitného užívania verejného priestranstva správcovi dane
+       najneskôr v deň vzniku daňovej povinnosti.
+    2) Na osobitné užívanie verejného priestranstva vydá správca dane povolenie fyzickej osobe
+alebo právnickej osobe, ktorá obci oznámila svoj zámer užívať verejné priestranstvo. V zámere na
+osobitné užívanie verejného priestranstva daňovník uvedie svoje identifikačné údaje a údaje potrebné
+na vyrubenie dane, a to:
+       a) meno, priezvisko, dátum narodenia, adresu trvalého pobytu alebo obchodné meno, IČO,
+           sídlo alebo miesto podnikania,
+       b) presné označenie verejného priestranstva a jeho výmeru,
+       c) deň začatia a deň ukončenia osobitného užívania verejného priestranstva,
+       d) účel užívania verejného priestranstva.
+
+                                          Článok 11
+                              Oslobodenie od dane a zníženie dane
+
+    1) Oslobodené od dane za užívanie verejného priestranstvá sú:
+       a) verejné priestranstvá vo verejnom záujme,
+       b) verejné priestranstvá na ktorých sú umiestnené zariadenia pre kultúrne, športové a iné
+podujatia bez vyberania vstupného, ktoré organizujú neziskové organizácie poskytujúce všeobecne
+prospešné služby, občianske združenia, nadácie, záujmové združenia právnických osôb,
+       c) trvalé parkovanie vozidla mimo stráženého parkoviska (vyhradené miesto), pre motorové
+vozidlo používané na prepravu občana s ťažkým zdravotným postihnutím.
+
+
+                                       ŠTVRTÁ ČASŤ
+                                    DAŇ ZA UBYTOVANIE
+
+                                            Článok 12
+                                           Sadzba dane
+
+       Obec určuje sadzbu dane za ubytovanie 1,00 EUR na osobu a prenocovanie.
+
+                                            Článok 13
+                                            N Á V R H
+                                           N Á V R H
+
+                            Rozsah a spôsob preukaznej evidencie
+
+    1) Prevádzkovateľ vedie o dani zaplatenej daňovníkom evidenciu v „knihe ubytovaných“. Kniha
+ubytovaných musí byť vedená v zviazanom zošite so zreteľným číselným označením strán. V knihe
+ubytovaných platiteľ vedie najmä tieto údaje:
+       a) meno a priezvisko ubytovaného,
+       b) číslo dokladu totožnosti,
+       c) miesto trvalého pobytu,
+       d) dátum príchodu, odchodu a počet prenocovaní,
+       e) výšku a dátum zaplatenej dane.
+    2) Prevádzkovateľ je povinný:
+       a) predložiť správcovi dane písomné vyúčtovanie, zaplatenú daň odviesť v termíne do
+          31. decembra príslušného kalendárneho roka,
+       b) predložiť správcovi dane knihu ubytovaných ku kontrole kedykoľvek na jeho požiadanie.
+    3) Daňová povinnosť vzniká dňom začatia poskytovania odplatného prechodného ubytovania
+fyzickej osobe v zariadení, poskytujúcom služby prechodného ubytovania.
+
+                                         Článok 14
+                             Spôsoby vyberania dane a jej odvodu
+
+    1) Platiteľ dane vyberá daň od daňovníka spôsobom:
+       a) v hotovosti priamo do pokladne platiteľa dane. Platiteľ dane odovzdá daňovníkovi
+       potvrdenie (originál) a kópiu si ponechá platiteľ dane pre daňovú kontrolu 10 rokov od
+       vystavenia potvrdenia,
+       b) prevodom z účtu daňovníka na účet platiteľa dane. Dokladom o zaplatení dane je výpis z
+       účtu z peňažného ústavu, ktorý platiteľ uchová pre daňovú kontrolu 10 rokov od vystavenia
+       výpisu.
+    2) Platiteľ dane je povinný zaplatenú daň daňovníkom odviesť obci štvrťročne, a to do 10. dňa
+po uplynutí štvrťroka.
+
+
+                                     PIATA ČASŤ
+                             DAŇ ZA PREDAJNÉ AUTOMATY
+
+                                        Článok 15
+ Rozsah a spôsob vedenia preukaznej evidencie a spôsob identifikácie predajných automatov
+
+    1) Daňovník je povinný viesť písomne preukázanú evidenciu o počte prevádzkovania predajných
+automatov. Strany v evidencii je daňovník povinný očíslovať a predložiť evidenciu obecnému úradu
+do 30 dní od vzniku daňovej povinnosti na opečiatkovanie a potvrdenie správnosti začatia vedenia
+evidencie. Evidencia o počte prevádzkovania predajných automatov musí obsahovať:
+        a) deň začatia prevádzkovania predajného automatu,
+        b) druh, typ a názov predajného automatu,
+        c) výrobné číslo predajného automatu,
+        d) obsah skladby ponúkaného tovaru do 10 druhov tovaru,
+                                           N Á V R H
+                                              N Á V R H
+
+         e) obsah skladby ponúkaného tovaru nad 10 druhov tovaru,
+         f) miesto umiestnenia predajného automatu.
+    2) Evidenciu je daňovník povinný na výzvu obce predložiť pri kontrole alebo na obecný úrad
+obce v lehote stanovenej vo výzve.
+    3) K písomnému oznámeniu o vzniku a zániku daňovej povinnosti je daňovník povinný predložiť
+hodnoverné doklady výrobcu o identifikácii výrobcu.
+
+                                               Článok 16
+                                              Sadzba dane
+
+       Obec určuje sadzbu dane za predajné automaty 130 EUR za jeden predajný automat a kalendárny
+rok.
+
+
+                                      ŠIESTA ČASŤ
+                           DAŇ ZA NEVÝHERNÉ HRACIE PRÍSTROJE
+
+                                              Článok 17
+                         Spôsob vedenia preukaznej evidencie na účely dane
+                        a spôsob identifikácie nevýherných hracích prístrojov
+
+    1) Daňovník je povinný viesť preukaznú písomnú evidenciu nevýherných hracích prístrojov v
+rozsahu údajov:
+       a) výrobné číslo prístroja, miesto umiestnenia,
+       b) dátum začatia prevádzkovania prístroja,
+       c) označenie prevádzky a miesta, kde je prístroj umiestnený,
+       d) identifikačné údaje prevádzkovateľa (obchodné meno, sídlo alebo miesto podnikania, IČO,
+          štatutárny zástupca, prevádzkovateľ).
+
+                                               Článok 18
+                                              Sadzba dane
+
+   1) Sadzba dane za jeden nevýherný hrací prístroj:
+      a) typu šípky, biliard, stolný futbal, stolný hokej, bowling je 30 EUR ročne,
+      b) neuvedený v ods. 1 písm. a) Článku 18 tohto VZN je 300 EUR ročne.
+   2) Daň vyrubí správca dane daňovníkovi rozhodnutím.
+
+
+                              SIEDMA ČASŤ
+           POPLATOK ZA KOMUNÁLNY ODPAD A DROBNÝ STAVEBNÝ ODPAD
+
+                                             Článok 19
+                                   Poplatník komunálneho odpadu
+
+       Poplatok platí poplatník, ktorým je:
+                                              N Á V R H
+                                           N Á V R H
+
+     a) fyzická osoba, ktorá má v obci trvalý pobyt, prechodný pobyt, alebo je na území obce
+        oprávnená užívať, alebo užíva byt, nebytový priestor, pozemnú stavbu alebo jej časť, alebo
+        objekt, ktorý nie je stavbou, alebo záhradu, vinicu, ovocný sad, trvalý trávny porast na iný
+        účel ako na podnikanie, pozemok v zastavanom území obce okrem lesného pozemku a
+        pozemku, ktorý je evidovaný v katastri nehnuteľností ako vodná plocha,
+     b) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa na
+        území obce na iný účel ako na podnikanie,
+     c) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území
+        obce na účel podnikania.
+
+                                           Článok 20
+                                        Sadzba poplatku
+
+    1) Ročná sadzba poplatku je:
+       a) 40,00 EUR za osobu a rok, v prepočte 0,110 EUR za osobu a kalendárny deň pre
+          poplatníkov uvedených v Článku 19 písm. a),
+       b) 40,00 EUR za nehnuteľnosť slúžiacu na prechodné ubytovanie, individuálnu rekreáciu
+          (chaty) pre poplatníkov uvedených v Článku 19 písm. a) a rok
+       c) u poplatníkov podľa Článku 19 písm. b) a c), ktorí podliehajú množstvovému zberu, je
+          sadzba uvedená v nasledujúcej tabuľke:
+
+                                                     sadzba poplatku       ročný poplatok v
+typ nádoby            frekvencia vývozu              EUR/nádobu            EUR
+GMT 110 l             1x týždenne                           5,15                  267,80
+GMT 110 l             1 x za 2 týždne                       5,15                  133,90
+GTM 240 l             1x týždenne                          10,30                  535,60
+GTM 240 l             1 x za 2 týždne                      10,30                  267,80
+BOBR 1100 l           1x týždenne                          28,00                 1456,00
+BOBR 1100 l           1 x za 2 týždne                      28,00                  728,00
+
+     2) Zberná nádoba GMT 110 l je kovová alebo plastová nádoba o objeme 110 l a BOBOR 1100
+l je kovová alebo plastová nádoba o objeme 1100 l.
+     3) Poplatok za prenájom zbernej nádoby BOBOR 1100 l je 12,00 EUR/mesiac.
+     4) V prípade, ak zbernú nádobu užíva viac podnikateľských subjektov poplatok platí každý
+podnikateľský subjekt, alebo podľa dohody medzi nimi jeden podnikateľský subjekt. Ak poplatok
+platí každý podnikateľský subjekt sám, v tom prípade sa výška poplatku delí počtom užívateľov
+nádoby.
+     5) Sadzba poplatku za drobné stavebné odpady bez obsahu škodlivín je 0,15 EUR za každý
+kilogram odovzdaný na zbernom dvore.
+     6) Počet zberných nádob na zmesový komunálny odpad v rodinnom dome je určený na počet
+osôb, pričom jedna domácnosť má nárok na jednu zbernú nádobu vo veľkosti 110 litrov. Domácnosti,
+v ktorej na základe trvalého pobytu žije 5 osôb a viac, môže byť umožnené používať aj druhú zbernú
+nádobu. Ak klesne v domácnosti počet osôb pod 5 osôb, vlastník je povinný nepoužívať druhú zbernú
+nádobu.
+
+                                           N Á V R H
+                                            N Á V R H
+
+
+                                           Článok 21
+                           Vznik a zánik povinnosti platenia poplatku
+
+    1) Vznik, zmenu a zánik poplatkovej povinnosti pre fyzické osoby je poplatník povinný oznámiť
+obci:
+        a) písomným oznámením – „Oznámenie k poplatku za komunálne odpady fyzických osôb“
+            podľa príloh č. FO1, – vznik daňovej povinnosti ,
+        b) písomným oznámením – „Oznámenie zániku poplatkovej povinnosti za komunálne
+            odpady“ podľa prílohy č. FO2,
+        c) písomným oznámením – „Žiadosť o zníženie alebo odpustenie poplatku za komunálny
+            odpad“ podľa prílohy č. FO3.
+     2) Vznik a zánik poplatkovej povinnosti pre právnické osoby je poplatník povinný oznámiť obci:
+        a) písomným oznámením poplatníka na vznik poplatkovej povinnosti č. PO1, s určením
+množstvového zberu,
+        b) písomným oznámením poplatníka na zánik poplatkovej povinnosti č. PO2.
+     3) V prípade neoznámenia všetkých skutočností potrebných pre výpočet poplatku, obec
+vychádza z posledných známych údajov predložených poplatníkom.
+     4) Tieto tlačivá sú:
+        a) na oddelení správy miestnych daní a poplatkov na obecnom úrade Jaklovce,
+        b) na internetovej adrese obce www.jaklovce.sk.
+Osobné údaje uvedené v Ohlásení k určeniu miestneho poplatku za komunálne odpady pre fyzické
+osoby sú chránené podľa zákona č. 18/2018 Z. z. o ochrane osobných údajov a o zmene a doplnení
+niektorých zákonov v znení neskorších zmien a doplnkov.
+     5) Termín podania ohlásení:
+        a) fyzické osoby uvedené v Článku 19 písm. a) podajú Ohlásenie pri vzniku a zániku
+           poplatkovej povinnosti a pri zmenách, ktoré majú vplyv na výšku poplatku do 30 dní po
+           vzniku týchto skutočností,
+        b) právnické osoby uvedené v Článku 19 písm. b) a podnikatelia uvedení v Článku 19
+           písm. c) podajú ohlásenia pri vzniku a zániku poplatkovej povinnosti a pri zmenách, ktoré
+           majú vplyv na výšku poplatku do 30 dní po vzniku týchto skutočností.
+
+                                           Článok 22
+                                        Zníženie poplatku
+
+    1) Správca poplatok zníži poplatníkovi o 50 % za obdobie, za ktoré poplatník preukáže, že viac
+ako 90 dní v zdaňovacom období sa nezdržiava alebo nezdržiaval na území obce. Podmienkou na
+zníženie poplatku je podanie písomnej žiadosti /FO 3/, a predloženie podkladov podľa bodu 2) tohto
+článku VZN.
+    2) Podklady na zníženie poplatku sú hodnoverné doklady, z ktorých jednoznačne
+       a nespochybniteľne vyplýva počet dní pobytu poplatníka mimo obce a to najmä:
+       a) potvrdenie od zamestnávateľa o výkone práce mimo obce vrátane dokladu, v ktorom
+           zamestnávateľ potvrdí, že poplatník je ubytovaný v mieste výkonu práce s uvedením
+           obdobia výkonu práce a ubytovania (potvrdenie o prechodnom ubytovaní, nájomná
+           zmluva), doklad o zapojení sa poplatníka do systému komunálneho odpadu (potvrdenie
+                                            N Á V R H
+                                         N Á V R H
+
+       o úhrade poplatku za komunálny odpad v mieste výkonu činnosti za príslušné zdaňovacie
+       obdobie), ak je poplatník dlhodobo zamestnaný mimo región obce, dochádza do
+       zamestnania v turnusových intervaloch s výnimkou denného dochádzania do
+       zamestnania,
+    b) potvrdenie o činnosti vykonávanej na základe živnostenského oprávnenia mimo obce
+        a dokladu, ktorý preukazuje ubytovanie v mieste výkonu práce s uvedením obdobia
+        vykonávanej činnosti a ubytovania (potvrdenie o prechodnom ubytovaní, nájomná
+        zmluva), doklad o zapojení sa poplatníka do systému komunálneho odpadu (potvrdenie
+        o úhrade poplatku za komunálny odpad v mieste výkonu činnosti za príslušné zdaňovacie
+        obdobie), ak je poplatník živnostníkom dlhodobo vykonávajúcim činnosť mimo región
+        obce, dochádza za prácou v pravidelných turnusových intervaloch s výnimkou denného
+        dochádzania za prácou,
+   c) potvrdenie od pracovnej agentúry o sprostredkovaní výkonu práce s uvedením doby
+        a miesta výkonu práce, spolu s potvrdením o ubytovaní, ak je poplatník zamestnaný
+        mimo región obce, dochádza do zamestnania v pravidelných turnusových intervaloch
+        s výnimkou denného dochádzania do zamestnania,
+   d) študenti za zdaňovacie obdobie predložia doklad o ubytovaní, ak navštevujú školu so
+        sídlom na území SR a údaje potrebné na overenie statusu študenta,
+   e) potvrdenie o hospitalizácii v zariadení poskytujúcom služby zdravotnej starostlivosti,
+   f) doklad o vyrubení poplatku za KO obce kde sa poplatník zdržiava, (t. j. rozhodnutie
+       o vyrubení poplatku v základnej sadzbe), vrátane dokladu o úhrade poplatku za
+       komunálny odpad za príslušné zdaňovacie obdobie, spolu s potvrdením o dĺžke pobytu
+       v mieste platenia KO.
+3) Správca zníži poplatok o 50 % fyzickým osobám starším ako 70 rokov.
+4) Čestné prehlásenie nie je možné považovať za doklad preukazujúci nárok na uplatnenie
+   zníženia poplatku.
+5) Preukaznú hodnotu ďalších predložených dokladov, jednoznačne preukazujúcich počet dní
+   pobytu poplatníka mimo obce posúdi správca dane individuálne.
+6) Zníženie poplatku v zmysle Článku 22 ods. 2 písm. a), b), c) ,d), f) sa nevzťahuje na majiteľov
+   nehnuteľností v chatovej osade a majiteľov chalúp.
+
+                                       Článok 23
+                                   Odpustenie poplatku
+
+1) Správca poplatku na základe žiadosti /FO3/ poplatníkovi odpustí poplatok, za obdobie, za
+   ktoré poplatník preukáže, že viac ako 90 dní v zdaňovacom období sa nezdržiava alebo
+   nezdržiaval na území obce, t. j. ak sa poplatník v zdaňovacom období dlhodobo zdržiava, resp.
+   bude zdržiavať v zahraničí (podklady uvedené v Článku 23 bod 2 tohto VZN) alebo sa
+   dlhodobo zdržiava, resp. bude zdržiavať mimo územia obce za podmienok uvedených
+   v Článku 23 bod 3 tohto VZN. Poplatník si uplatňuje odpustenie poplatku za každé
+   zdaňovacie obdobie zvlášť.
+2) Podkladom na uplatnenie odpustenia poplatku a na oslobodenie od poplatku v prípade, že sa
+   dlhodobo zdržiava, resp. bude zdržiavať v zahraničí, sú hodnoverné doklady, z ktorých
+   jednoznačne a nespochybniteľne vyplýva počet dní pobytu poplatníka v zahraničí a to najmä:
+
+                                         N Á V R H
+                                            N Á V R H
+
+  a) potvrdenie od zamestnávateľa, v ktorom zamestnávateľ potvrdí, že poplatník v zdaňovacom
+        období vykonáva prácu v zahraničí (nie pracovná zmluva), s uvedením doby a miesta výkonu
+        práce, ak je poplatník trvalo a dlhodobo zamestnaný mimo územie SR,
+  b) potvrdenie o pracovnej činnosti vykonávanej na základe živnostenského oprávnenia s uvedením
+        doby a miesta výkonu práce, ak je poplatník živnostníkom trvalo a dlhodobo vykonávajúcim
+        činnosť mimo územie SR,
+  c) potvrdenie zamestnávateľa (SR) o výkone práce poplatníka v zahraničí, s uvedením doby
+        a miesta výkonu práce,
+  d) potvrdenie od pracovnej agentúry o sprostredkovaní výkonu práce s uvedením doby a miesta
+        výkonu práce, ak je poplatník trvalo a dlhodobo zamestnaný prostredníctvom pracovnej
+        agentúry mimo územie SR,
+  e) potvrdenie o štúdiu v zahraničí za aktuálne zdaňovacie obdobie. Študenti navštevujúci školu so
+        sídlom mimo územia SR predložia doklad preukazujúci status študenta alebo potvrdenie
+        o návšteve školy a doklad o ubytovaní.
+  f) potvrdenie vecne príslušného úradu, ktoré preukazuje pobyt poplatníka v zahraničí, s uvedením
+        doby pobytu poplatníka v zahraničí,
+  g) doklad o poberaní príspevku na dieťa v zahraničí.
+  3) Podkladom pre uplatnenie oslobodenia od poplatku v prípade, že sa dlhodobo zdržiava, resp.
+      bude zdržiavať mimo územia obce, sú hodnoverné doklady, z ktorých jednoznačne
+      a nespochybniteľne vyplýva počet dní pobytu poplatníka mimo územie obce a to najmä:
+      a) doklad o vyrubení poplatku za KO obce kde sa poplatník zdržiava, (t.j. rozhodnutie
+          o vyrubení poplatku v základnej sadzbe), vrátane dokladu o úhrade poplatku za komunálny
+          odpad za príslušné zdaňovacie obdobie,
+      b) potvrdenie o umiestnení v zariadení sociálnej starostlivosti a zariadení sociálnych služieb,
+      c) potvrdenie o umiestnení v reedukačnom zariadení,
+      d) potvrdenie o umiestnení v detskom domove,
+      e) potvrdenie o výkone väzby, alebo výkone trestu odňatia slobody.
+  4) Odpustenie poplatku v zmysle Článku 23 ods. 2, sa nevzťahuje na majiteľov nehnuteľností
+      v chatovej osade a majiteľov chalúp.
+  5) Čestné prehlásenie nie je možné považovať za doklad preukazujúci nárok na uplatnenie
+      odpustenia poplatku.
+  6) Preukaznú hodnotu ďalších predložených dokladov, jednoznačne preukazujúcich počet dní
+     pobytu poplatníka mimo obce posúdi správca dane individuálne.
+   7) O sporných prípadoch, ktoré nerieši toto VZN rozhoduje obecné zastupiteľstvo svojím
+        uznesením.
+
+                                          Článok 24
+                            Vrátenie poplatku a jeho pomernej časti
+
+     Správca poplatku vráti pomernú časť poplatníkovi, ktorému zanikla povinnosť platiť poplatok
+v priebehu zdaňovacieho obdobia, ak preukáže:
+       a) skončenie trvalého alebo prechodného pobytu v obci, potvrdením inej obce alebo mesta,
+          že je tam prihlásený na trvalý alebo prechodný pobyt,
+       b) zánik práva užívať nehnuteľnosť na území obce najmä kúpnou zmluvou, dohodou
+          o skončení nájmu, odstúpením alebo výpoveďou nájomnej zmluvy,
+                                            N Á V R H
+                                          N Á V R H
+
+      c) zánik práva užívať nehnuteľnosť na území obce na účel podnikania najmä dohodou
+         o ukončení nájmu, odstúpením alebo výpoveďou nájomnej zmluvy,
+      d) ak si v zdaňovacom období poplatník neuplatní nárok na vrátenie poplatku alebo jeho
+         pomernej časti do 31.12. príslušného kalendárneho roka podaním ohlásenia a v tejto lehote
+         nepredloží príslušné doklady, nárok na vrátenie poplatku za toto obdobie zaniká.
+
+
+                                          Článok 25
+                                     Spôsob platenia dane
+
+    Daňovník môže platiť daň:
+      a) v hotovosti priamo do pokladne Obecného úradu v Jaklovciach,
+      b) poštovou poukážkou,
+      c) bezhotovostným prevodom na účet obce číslo účtu SK78 0900 0000 0006 6082 5358
+         vedený v Slovenskej sporiteľni, a. s..
+
+                                        Článok 26
+                             Prechodné a záverečné ustanovenia
+
+        (1) Toto VZN č. 2/2026 o miestnych daniach a miestnom poplatku za komunálne odpady
+a drobné stavebné odpady bolo prerokované a schválené na zasadnutí Obecného zastupiteľstva v
+Jaklovciach dňa ..........2026 uznesením č. ......../2026.
+        (2) Toto VZN č. 2/2026 nadobúda platnosť dňom jeho vyvesenia na úradnej tabuli obce
+a účinnosť dňom 01.01.2027.
+        (3) Zmeny a doplnky tohto VZN schvaľuje Obecné zastupiteľstvo v Jaklovciach a možno ich
+vykonať len všeobecne záväzným nariadením.
+        (4) Dňom nadobudnutia účinnosti tohto VZN, stráca účinnosť Všeobecne záväzné nariadenie
+č. 5/2025 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady.
+
+
+
+
+                                                          PhDr. Mgr. Matúš FEDOR
+                                                                starosta obce
+
+
+Návrh VZN vyvesený dňa : 27.11.2026
+Návrh VZN zvesený dňa     :
+VZN schválené dňa         :
+VZN vyvesené dňa          :
+VZN zvesené dňa           :
+VZN nadobúda účinnosť dňa :
+
+
+
+
+                                          N Á V R H
+

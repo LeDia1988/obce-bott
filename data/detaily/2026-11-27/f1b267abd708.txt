@@ -1,0 +1,494 @@
+URL: https://slatvina.eu/wp-content/uploads/dokumenty/rozpocty/navrh_rozpoctu_slatvina_2027-hrpw05.pdf
+OBEC: Slatvina (Spišská Nová Ves)
+NÁZOV: Stiahnuť súbor Návrh_rozpočtu_Slatvina_2027 Veľkosť a typ súboru 721 KB / PDF
+ZDROJ: web obce
+
+                                                                                    Obec Slatvina
+
+                                                                               Rozpočet obce Slatvina
+
+                                                            Rozpočet obce na rok 2027 a návrh rozpočtu na roky 2028 a 2029
+
+                                                                                                                                 Schválený          Očakávaná
+                                                                                      Skutočné plnenie       Skutočné plnenie     rozpočet          skutočnosť      Rozpočet        Rozpočet
+Ek.klasifikácia    zdroj                                        Názov účtu              za rok 2024            za rok 2025       na rok 2026        za rok 2026    na rok 2027     na rok 2028
+                                Bežné príjmy
+             110             41 Dane z príjmov a kapitálového majetku                        137 534,56             96 908,40       106 242,00        106 242,00      111 742,00     108 542,00
+             120             41 Dane z majetku                                                 4 681,79               7 814,06        8 643,00          8 643,00        8 643,00       8 643,00
+             130             41 Dane za tovary a služby                                        1 781,50               5 461,00        4 725,00          4 725,00        4 725,00       4 725,00
+                                100 Daňové príjmy spolu:                                     143 997,85            110 183,46       119 610,00        119 610,00      125 110,00     121 910,00
+             210             41 Príjmy z podnikania a vlastníctva                              2 739,64               2 692,34        3 081,00          3 081,00        3 081,00       3 081,00
+             220             41 Administratívne poplatky a iné poplatky                        5 701,58               6 835,83        6 600,00          6 600,00        6 600,00       6 600,00
+             220             71 Administratívne poplatky a iné poplatky                               0,00               0,00                0,00           0,00            0,00           0,00
+             220             72 stravne                                                        3 168,31               3 724,74        5 440,00          5 444,00        3 700,00       5 440,00
+             220             43 za prebytočný majetok                                             69,16                  0,00                0,00           0,00            0,00           0,00
+             240             41 Úroky z tuzemských úverov                                             0,00               0,00                0,00           0,00            0,00           0,00
+             290             72 Dary                                                           2 175,21               1 200,00        1 000,00          5 500,00        1 000,00           0,00
+             290             41 Iné nedaňové príjmy                                            2 853,17               2 163,95        1 300,00              0,00            0,00           0,00
+                                200 Nedaňové príjmy spolu:                                    16 707,07             16 616,86        17 421,00         20 625,00       14 381,00      15 121,00
+             310            111 Transfér zo ŠR - VVP                                           2 757,00                200,00           300,00            300,00          700,00           0,00
+                            111 Transfér zo ŠR - energie                                       2 820,28                  0,00                0,00           0,00            0,00           0,00
+                            111 Transfér zo ŠR - voľby                                         1 150,30                  0,00                0,00           0,00            0,00           0,00
+                            111 Transfér stravovanie HN                                          954,98                897,40           900,00              0,00          900,00         900,00
+                           11UA Ukrajina                                                       7 800,00                  0,00                0,00           0,00            0,00           0,00
+                            111 Transfér ŽP                                                       34,20                 39,60            40,00              0,00           40,00          40,00
+                            111 Transfér REGOB                                                   121,57                121,19           125,00              0,00          125,00         125,00
+                            111 Transfér - Cestné komunikácie                                     13,35                122,05            20,00              0,00           20,00          20,00
+                            111 Transfér SU                                                      468,66                596,64           670,00              0,00          700,00         670,00
+             111 Transfér - enviromentálny fond                                810,74        362,38          850,00        850,00          850,00        850,00
+             111 Transfér - DHZ                                               3 000,00          0,00           0,00           0,00           0,00           0,00
+             111 Transfér - špecifiká                                             0,00       157,00            0,00           0,00           0,00           0,00
+             111 Transfér - UPSVaR - práca na skúšku                              0,00       909,54            0,00           0,00           0,00           0,00
+             111 Transfér - odmeny 800€                                           0,00      5 450,75           0,00           0,00           0,00           0,00
+             111 Transfér MŠ                                                      0,00     61 396,00      60 197,00      60 197,00      77 215,00      45 000,00
+      72c        Transfér - z VUC                                                 0,00      2 900,00           0,00           0,00           0,00           0,00
+             72j Transfér od iných subjektov verejnej správy                      0,00      3 000,00        3 000,00      3 000,00       3 000,00       3 000,00
+                 310 Tuzemské bežné granty a transfery spolu:                19 931,08     76 152,55      66 102,00      64 347,00      83 550,00      50 605,00
+                 Bežné príjmy spolu:                                        180 636,00    202 952,87     203 133,00     204 582,00     223 041,00     187 636,00
+
+
+                 Kapitálové príjmy
+230              Príjem z predaja pozemkov                                        0,00         41,30           0,00           0,00           0,00           0,00
+320              320 Tuzemské kapitálové granty a transfery spolu:            9 300,00          0,00           0,00           0,00           0,00           0,00
+            3AG1 ZO ŠR                                                            0,00     28 972,03           0,00           0,00           0,00           0,00
+            3AG2 zo ŠR                                                            0,00      9 657,34           0,00           0,00           0,00           0,00
+             11H Z rozpočtu VUC                                               1 700,00          0,00           0,00           0,00           0,00           0,00
+             111 Dotácia ŠR                                                       0,00          0,00     500 000,00           0,00     500 000,00           0,00
+              45 Envirofond                                                   7 600,00          0,00     900 000,00           0,00     900 000,00           0,00
+                 Kapitálové príjmy spolu:                                     9 300,00     38 670,67    1 400 000,00          0,00    1 400 000,00          0,00
+
+
+                 Finančné príjmy
+                 400 Príjmy z transakcií s fin. aktívami a fin. pasívami
+450          131 Z ostatných finančných operácií                              2 538,40      8 000,00           0,00           0,00           0,00           0,00
+                 400 Príjmy z trans.s fin.aktívami a fin.pasívami spolu:      2 538,40      8 000,00           0,00           0,00           0,00           0,00
+                 500 Prij. úvery, pôžičky a návrat. finančné výpomoci
+510              Úver dlhodobý                                               24 016,45                    50 000,00      50 000,00      30 000,00           0,00
+520              Tuzemské úvery, pôžičky a návrat.fin.výpomoci                              3 724,82           0,00           0,00           0,00           0,00
+                 500 Prijaté úvery, pôžičky a návrat.fin.výpomoci spolu:
+                 Finančné príjmy spolu:                                      26 554,85     11 724,82      50 000,00      50 000,00      30 000,00           0,00
+
+
+                 Spolu príjmy                                              216 490,85    253 348,36    1 653 133,00    254 582,00    1 653 041,00    187 636,00
+                                                                                                                                       Schválený          Očakávaná
+                                                                                            Skutočné plnenie       Skutočné plnenie     rozpočet          skutočnosť      Rozpočet        Rozpočet
+F.klasif. Ek.klasif.                                       Názov účtu                         za rok 2024            za rok 2025       na rok 2026        za rok 2026    na rok 2027     na rok 2028
+                            600 Bežné výdavky
+                            0111 Výkonné a zákonodárne orgány
+0111.610                 41 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania                    47 083,50             37 415,92        36 556,00         36 556,00       48 156,00      45 156,00
+0111.610                111 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania- SU                   355,00                450,00           450,00            450,00          450,00         450,00
+0111.610                111 Mzdy,platy a služobné príjmy a ost. Osobné vyrovnania - REGOB               75,00                   0,00               0,00           0,00            0,00           0,00
+111 614                 111 odmeny 800€                                                                     0,00             960,00                0,00           0,00
+0111.620                111 Poistné a príspevok do poisťovní - SU                                      127,01                146,64           220,00            220,00          220,00         220,00
+0111.620                111 Poistné a príspevok do poisťovni - REGOG                                    26,97                   0,00               0,00           0,00            0,00           0,00
+0111.620                 41 Poistné a príspevok do poisťovní                                        17 609,20             14 580,62        16 224,00         16 224,00       18 785,00      16 224,00
+111 620                 111 Poistné a príspevok do poisťovni - 800€ odmena                                  0,00            1 493,80               0,00           0,00
+0111.630                 41 Tovary a služby                                                         26 395,11             25 422,98        15 180,00         15 180,00       19 617,00      23 100,00
+0111.630                111 Tovary a služby - SU                                                            0,00                8,70               0,00           0,00            0,00           0,00
+0111.630                111 Tovary a služby - energie                                                2 820,28                   0,00               0,00           0,00            0,00           0,00
+0111.630                111 Tovary a služby - UPSVar                                                   389,78                   0,00               0,00           0,00            0,00           0,00
+0111.630               11UA Ukrajina                                                                 7 800,00                   0,00               0,00           0,00            0,00           0,00
+          111 630       72c Tovary a služby dotácia KSK                                                     0,00            3 123,31               0,00           0,00
+111 630                 111 Práca na skúšku                                                                 0,00             909,00                0,00           0,00
+0111.640                 41 Bežné transfery                                                                 0,00             498,80         1 895,00          1 895,00        1 000,00       1 000,00
+                            Výkonné a zákonodárne orgány spolu:                                    102 681,85             85 009,77        70 525,00         70 525,00       88 228,00      86 150,00
+                            0112 Finančné a rozpočtové záležitosti
+0112.610                 41 Tarifný plat - HK                                                          300,00                   0,00               0,00           0,00            0,00           0,00
+0112.620                 41 Odvody - HK                                                                101,82                   0,00               0,00           0,00            0,00           0,00
+0112.630                 41 Tovary a služby                                                          3 274,51               3 503,16        4 000,00          4 000,00        1 700,00       4 000,00
+                            Finančné a rozpočtové záležitosti spolu:                                 3 676,33               3 503,16        4 000,00          4 000,00        1 700,00       4 000,00
+                            0132 Rámcové plánovacie a štatistické služby
+0133.610                111 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania                            0,00                0,00               0,00           0,00           70,00          70,00
+0133.620                111 Poistné a príspevok do poisťovní                                                0,00                0,00               0,00           0,00           35,00          35,00
+0133.630                111 Tovary a služby                                                             19,60                121,00           125,00            125,00           20,00          20,00
+                            Rámcové plánovacie a štatistické služby spolu:                              19,60                121,00           125,00            125,00          125,00         125,00
+                            0160 Všeobecné verejné služby
+0160.610    111 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania           120,00        0,00       0,00       0,00      0,00       0,00
+0160.620    111 Poistné a príspevok do poisťovní                                50,50        0,00       0,00       0,00      0,00       0,00
+0160.630    111 Tovary a služby                                                979,80        0,00       0,00       0,00      0,00       0,00
+0160.630   131M Tovary a služby                                                514,40        0,00       0,00       0,00      0,00       0,00
+                 Všeobecné verejné služby spolu:                              1 664,70      0,00       0,00       0,00       0,00       0,00
+                 0170 Transakcie verejného dlhu
+0170.630      41 Tovary a služby                                               819,07        0,00       0,00       0,00      0,00       0,00
+0170.650         Splácanie úrokov a ost. Platby súvisiace s úvermi, pôžička       0,00       0,00       0,00       0,00      0,00       0,00
+                 Transakcie verejného dlhu spolu:                              819,07       0,00       0,00       0,00       0,00       0,00
+                 0320 Ochrana pred požiarmi
+0320.630    111 Tovary a služby z dotácie                                                                                    0,00       0,00
+0320.630      41 Tovary a služby                                               761,01    1 009,04   1 200,00   1 200,00      0,00    1 200,00
+0320.630    72a Tovary a služby                                               1 795,21   1 200,00       0,00       0,00      0,00       0,00
+0320.630     72j tovary a služby - dotácia                                    3 000,00   3 000,00   3 000,00   3 000,00   3 000,00   3 000,00
+                 Ochrana pred požiarmi spolu:                                 5 556,22   5 209,04   4 200,00   4 200,00   3 000,00   4 200,00
+                 0412 Všeobecná pracovná oblasť
+0412.610         Mzdy, platy, služobné príjmy a ost.osobné vyrovnania             0,00       0,00       0,00       0,00      0,00        0,00
+0412.620         Poistné a príspevok do poisťovní                                 0,00       0,00       0,00       0,00      0,00        0,00
+0412.630         Tovary a služby                                                  0,00       0,00       0,00       0,00      0,00        0,00
+0412.640         Bežné transfery                                                  0,00       0,00       0,00       0,00      0,00        0,00
+                 Všeobecná pracovná oblasť spolu:                                0,00       0,00       0,00       0,00       0,00       0,00
+                 0451 Cestná doprava
+0451.630      41 Tovary a služby                                              1 542,02    840,00    1 000,00   1 000,00   1 000,00   1 000,00
+0451.630    111 Tovary a služby                                                   0,00       0,00     20,00      20,00      20,00       0,00
+                 Cestná doprava spolu:                                        1 542,02    840,00    1 020,00   1 020,00   1 020,00   1 000,00
+                 0510 Nakladanie s odpadmi
+0510.610         Mzdy, platy, služobné príjmy a ost.osobné vyrovnania             0,00       0,00       0,00       0,00      0,00       0,00
+0510.630    111 Tovary a služby z dotácie                                         0,00       0,00       0,00       0,00      0,00       0,00
+0510.630      41 Tovary a služby                                              8 325,33   8 512,47   7 000,00   7 000,00   7 000,00   7 000,00
+0510.630      45 Bežné transfery                                                  0,00       0,00       0,00       0,00      0,00       0,00
+                 Nakladanie s odpadmi spolu:                                  8 325,33   8 512,47   7 000,00   7 000,00   7 000,00   7 000,00
+                 0520 Nakladanie s odpadovými vodami
+0520.630    111 Tovary a služby                                                 14,80        0,00    200,00     200,00     200,00     200,00
+               Nakladanie s odpadovými vodami spolu:                    14,80         0,00     200,00      200,00      200,00      200,00
+               Ochrana ŽP inde neklasifikovaná
+0540.630   111 Tovary a služby z dotácie                                34,20      800,00       40,00       40,00       40,00       40,00
+0540.610    41 Mzdy a platy                                               0,00    7 614,76    9 200,00    9 200,00   11 040,00    9 200,00
+0540.620    41 odvody                                                     0,00    3 889,98    3 390,00    3 390,00    4 002,00    3 390,00
+0540.630    41 Tovary a služby                                         358,77      866,88     2 207,00    2 207,00    1 310,00    1 310,00
+               Životné prostredie                                      392,97    13 171,62   14 837,00   14 837,00   16 392,00   13 940,00
+               0620 Rozvoj obcí
+0630.610    41 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania       0,00        0,00        0,00        0,00        0,00        0,00
+0630.620    41 Poistné a príspevok do poisťovní                           0,00        0,00        0,00        0,00        0,00        0,00
+0630.630    41 Tovary a služby                                        4 069,49    5 756,75    5 000,00    5 000,00    4 000,00    4 000,00
+0630.640    41 Bežné transfery                                            0,00        0,00        0,00        0,00        0,00        0,00
+               vodovod                                                4 069,49    5 756,75    5 000,00    5 000,00    4 000,00    4 000,00
+               0640 Verejné osvetlenie
+0640.630    41 Tovary a služby                                         122,59         0,00     500,00      500,00      500,00      500,00
+               Verejné osvetlenie spolu:                               122,59         0,00     500,00      500,00      500,00      500,00
+               0740 Ochrana, podpora a rozvoj verejného zdravia
+0740.630   111 Tovary a služby                                            0,00        0,00        0,00        0,00        0,00        0,00
+0740.640   111 Bežné transfery                                            0,00        0,00        0,00        0,00        0,00        0,00
+               Ochrana, podpora a rozvoj verejného zdravia spolu:        0,00         0,00        0,00        0,00        0,00        0,00
+               0810 Rekreačné a športové služby
+0810.620       Poistné a príspevok do poisťovní                           0,00        0,00        0,00        0,00        0,00        0,00
+0810.630       Tovary a služby                                            0,00     876,50         0,00        0,00        0,00        0,00
+               Rekreačné a športové služby spolu:                        0,00      876,50         0,00        0,00        0,00        0,00
+               0820 Kultúrne služby
+0820.630   72a Tovary a služby                                          20,00         0,00        0,00        0,00        0,00        0,00
+0820.630    41 Tovary a služby                                         368,30         0,00    1 000,00    1 000,00     150,00      150,00
+               Kultúrne služby spolu:                                  388,30         0,00    1 000,00    1 000,00     150,00      150,00
+               0830 Vysielacie a vydavateľské služby
+0830.630       Tovary a služby                                            0,00        0,00        0,00        0,00        0,00        0,00
+               Vysielacie a vydavateľské služby spolu:                   0,00         0,00        0,00        0,00        0,00        0,00
+               0840 Náboženské a iné spoločenské služby
+0840.620    41 Poistné a príspevok do poisťovní                           0,00        0,00        0,00        0,00        0,00        0,00
+0840.630                 41 Tovary a služby                                                        11,94                   0,00        1 000,00          1 000,00           1 000,00         1 000,00
+                             Náboženské a iné spoločenské služby spolu:                            11,94                  0,00         1 000,00          1 000,00           1 000,00         1 000,00
+                             09111 Predprimárne vzdelávanie s bežnou starostlivosťou
+09111.610                41 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania               31 013,71               3 750,50               0,00           0,00               0,00             0,00
+09111.610               111 Mzdy, platy, služobné príjmy a ost.osobné vyrovnania                       0,00          35 310,66        51 709,00         51 709,00          58 080,00        45 036,00
+09111.620               111 Poistné a príspevok do poisťovní                                   10 280,23             22 200,59         8 488,00          8 488,00           9 464,00        16 188,00
+09111.630               111 Tovary a služby z dotácie                                             391,93               6 797,75               0,00           0,00          10 752,00         7 500,00
+09111.630                41 Tovary a služby                                                            0,00                0,00          845,00            845,00               0,00
+09111.620                41 Poistne a príspevok do poisťovni                                    1 520,45               1 348,24       14 344,00         14 344,00          11 590,00             0,00
+                             Predprimárne vzdelávanie s bež.starostl. spolu:                   43 206,32             69 407,74        75 386,00         75 386,00          89 886,00        68 724,00
+                             0950 Vzdelávanie nedefinované podľa úrovne
+0960.630                 72f Tovary a služby                                                    6 259,60               3 662,00        5 440,00          5 440,00           5 440,00         5 440,00
+0960.630                 41 Tovary a služby                                                            0,00                0,00               0,00           0,00               0,00             0,00
+0960.630                111 Tovary a služby z dotácie                                             541,80                623,00           900,00            900,00             900,00           900,00
+                             Vzdelávanie nedefinované podľa úrovne spolu:                       6 801,40               4 285,00        6 340,00          6 340,00           6 340,00         6 340,00
+                             1020 Staroba
+1070.640               11UA Tovary a služby                                                     2 117,00                   0,00               0,00           0,00               0,00             0,00
+                             Staroba spolu:                                                                               0,00                0,00           0,00               0,00             0,00
+                             600 Bežné výdavky spolu:                                         179 292,93            196 693,05       191 133,00        191 133,00         219 541,00       184 699,00
+
+
+                                                                                                                                  Schválený          Očakávaná
+                                                                                       Skutočné plnenie       Skutočné plnenie     rozpočet          skutočnosť         Rozpočet          Rozpočet
+F.klasif. Ek.klasif.                                       Názov účtu                    za rok 2024            za rok 2025       na rok 2026        za rok 2026       na rok 2027       na rok 2028
+                             700 Kapitálové výdavky
+                             0111 Výkonné a zákonodárne orgány                                    290,00                      0         550000              50000            530000                    0
+0111.710                 41 spevnené plochy                                                       250,00                      0                 0                  0            0,00                   0
+0111.710                 52 spevnené plochy                                                            0,00                   0          50000              50000          30000,00                    0
+          111 710       111 rekonštrukcia a modernizácia                                               0,00                   0         500000                     0      500000,00
+0111.710                 43 nakup pozemkov                                                         40,00                      0                 0                  0            0,00                   0
+                             0320 Ochrana pred požiarmi                                          8348,43                      0                 0                  0                 0                 0
+0320.710                 46 Požiarna zbrojnica-Rekonštrukcia a modernizácia                               0                   0                 0                  0                 0                 0
+0320.710                 52 Požiarna zbrojnica-Rekonštrukcia a modernizácia                      8348,43                      0                 0                  0                 0                 0
+0320.710                111 Požiarna zbrojnica-Rekonštrukcia a modernizácia                            0,00                0,00               0,00           0,00               0,00             0,00
+                               0451 Cestná doprava                                         15 668,02                  0,00                0,00           0,00            0,00            0,00
+0451.710                    51 rekonštrukcia a modernizácia                                                                                              0,00            0,00            0,00
+0451.710                    52 Cestná doprava-Autobus.zastávky                             15 668,02                   0,00               0,00           0,00            0,00            0,00
+                               0520 Nakladanie s odpadovými vodami                                 0,00                0,00               0,00           0,00            0,00            0,00
+0520.710                       Naklad. s odpad. vodami - PD na ČOV                          1 700,00               8 000,00      900 000,00              0,00      900 000,00            0,00
+                               0540 Ochrana prírody a krajiny                                                          0,00               0,00           0,00
+0540.710                    41 parkovisko                                                          0,00                0,00               0,00           0,00            0,00            0,00
+0520.710                   11H Realiz.n.stavieb-Regulácia potoka                            1 700,00               8 000,00      900 000,00              0,00      900 000,00            0,00
+0560.710                       Realiz.n.stavieb                                                    0,00                0,00               0,00           0,00            0,00            0,00
+                               0620 Rozvoj obcí                                                    0,00                0,00               0,00           0,00
+0620.710                       Rozvoj obce-Projekt a Realizácia nových stavieb
+                               0630 Zásobovanie vodou
+0630.710                       Zásob.vodou-proj.dokument., realiz.nových stavieb
+170 710                        Rekonštrukcia a modernizácia - Prameň Anna                          0,00          38 629,37                0,00           0,00
+                               0810 Športové služby
+0810.710                       Realiz.n.stavieb-dot.PSK+vl.
+                               700 Kapitálové výdavky spolu:                               26 006,45             46 629,37     1 450 000,00         50 000,00    1 430 000,00            0,00
+
+
+                                                                                                                              Schválený          Očakávaná
+                                                                                   Skutočné plnenie       Skutočné plnenie     rozpočet          skutočnosť      Rozpočet        Rozpočet
+F.klasif. Ek.klasif.                                            Názov účtu           za rok 2024            za rok 2025       na rok 2026        za rok 2026    na rok 2027     na rok 2028
+                               800 Finančné výdavky
+0170.820                       Splácanie tuz.istiny z bank.úveru                                   0,00            9 334,16       12 000,00         12 000,00        3 500,00
+                               800 Finančné výdavky spolu:                                         0,00            9 334,16       12 000,00         12 000,00        3 500,00            0,00
+
+
+                               Spolu výdavky                                             205 299,38            252 656,58     1 653 133,00        253 133,00    1 653 041,00     184 699,00
+
+
+Návrh rozpočtu vyvesený:
+Návrh rozpočtu zvesený:
+Rozpočet schválený                uznesením č.:
+                                                                                                                                                                    Mgr. Lívia Staňová
+                                                                                                                                                                      starostka obce
+ Rozpočet
+na rok 2029
+
+
+  114 171,00
+    8 643,00
+    4 725,00
+  127 539,00
+    3 081,00
+    6 600,00
+        0,00
+    5 440,00
+        0,00
+        0,00
+        0,00
+        0,00
+   15 121,00
+        0,00
+        0,00
+        0,00
+      900,00
+        0,00
+       40,00
+      125,00
+       20,00
+      670,00
+    850,00
+       0,00
+       0,00
+       0,00
+       0,00
+  45 000,00
+       0,00
+   3 000,00
+  50 605,00
+ 193 265,00
+
+
+
+
+       0,00
+       0,00
+       0,00
+       0,00
+       0,00
+       0,00
+       0,00
+       0,00
+
+
+
+
+       0,00
+       0,00
+
+
+       0,00
+       0,00
+
+
+       0,00
+
+
+193 265,00
+ Rozpočet
+na rok 2029
+
+
+
+
+   45 156,00
+      450,00
+        0,00
+
+
+      220,00
+        0,00
+   16 224,00
+
+
+   23 100,00
+        0,00
+        0,00
+        0,00
+        0,00
+
+
+
+
+    1 000,00
+   86 150,00
+
+
+        0,00
+        0,00
+    4 000,00
+    4 000,00
+
+
+       70,00
+       35,00
+       20,00
+      125,00
+   0,00
+   0,00
+   0,00
+   0,00
+   0,00
+
+
+   0,00
+   0,00
+   0,00
+
+
+   0,00
+1 200,00
+   0,00
+3 000,00
+4 200,00
+
+
+    0,00
+    0,00
+    0,00
+    0,00
+   0,00
+
+
+1 000,00
+   0,00
+1 000,00
+
+
+   0,00
+   0,00
+7 000,00
+   0,00
+7 000,00
+
+
+ 200,00
+  200,00
+
+
+   40,00
+ 9 200,00
+ 3 390,00
+ 1 310,00
+13 940,00
+
+
+     0,00
+     0,00
+ 4 000,00
+     0,00
+ 4 000,00
+
+
+  500,00
+  500,00
+
+
+     0,00
+     0,00
+     0,00
+
+
+     0,00
+     0,00
+     0,00
+
+
+     0,00
+  150,00
+  150,00
+
+
+     0,00
+     0,00
+
+
+     0,00
+    1 000,00
+    1 000,00
+
+
+        0,00
+   45 036,00
+   16 188,00
+    7 500,00
+
+
+        0,00
+   68 724,00
+
+
+    5 440,00
+        0,00
+      900,00
+    6 340,00
+
+
+        0,00
+        0,00
+  184 699,00
+
+
+
+
+ Rozpočet
+na rok 2029
+
+
+              0
+              0
+              0
+
+
+              0
+              0
+              0
+              0
+        0,00
+        0,00
+        0,00
+        0,00
+        0,00
+        0,00
+
+
+        0,00
+        0,00
+        0,00
+
+
+
+
+        0,00
+
+
+
+
+ Rozpočet
+na rok 2029
+
+
+
+
+        0,00
+
+
+184 699,00
+

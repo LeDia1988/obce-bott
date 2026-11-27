@@ -1,0 +1,653 @@
+URL: https://cuet.slovensko.sk/en/dokument/06dc61e6-0c5d-459f-87da-d4a54832defd
+OBEC: Gelnica (Gelnica)
+NÁZOV: Rozhodnutie o stavebnom zámere
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/06dc61e6-0c5d-459f-87da-d4a54832defd
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Rozhodnutie o stavebnom zámere
+Search publisher's RSS feeds
+Published on official board:
+Mesto Gelnica - Zverejňovanie na CUET
+Published from:
+26.11.2026
+Registry symbol:
+Documents author:
+Mesto Gelnica - Zverejňovanie na CUET
+Published to:
+10.12.2026
+Registry case:
+Name of official document:
+Rozhodnutie o stavebnom zámere
+Document type:
+Iný elektronický dokument
+Document abstract:
+Mesto Gelnica, ako príslušný stavebný úrad(ďalej len „stavebný úrad“) podľa § 15 ods. 1zákona č. 25/2025 Z. z. Stavebný zákon a o zmene a doplnení nie [https://www.gelnica.sk/oznamy/rozhodnutie-o-stavebnom-zamere-2.html]
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Vyznamna_obnova_Zahradna11.pdf
+Type and size:
+.pdf, 408.26 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/29ef7b95-8b33-4af4-a475-7514f30bebb7
+                               MESTO GELNICA
+                                   Stavebný úrad
+                         Banícke námestie 4, 056 01 Gelnica
+
+Číslo: Msú-GL-277/2026/SZ-Tá                                  V Gelnici dňa: 09. 11. 2026
+
+                                      ROZHODNUTIE
+
+       Mesto Gelnica, ako príslušný stavebný úrad(ďalej len „stavebný úrad“) podľa § 15 ods.
+1zákona č. 25/2025 Z. z. Stavebný zákon a o zmene a doplnení niektorých zákonov (Stavebný
+zákon) v znení neskorších predpisov (ďalej len „Stavebný zákon“), podľa § 46 a § 47 zákona
+č. 71/1967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov (ďalej len
+„správny poriadok“), rozhodujúc podľa § 60 Stavebného zákona v spojení s § 14 vyhlášky č.
+60/2025 Z. z. o štruktúre a prevádzke informačného systému územného plánovania a
+výstavby, o obsahu podaní a obsahu a rozsahu dokumentácie stavby (ďalej len „vyhláška č.
+60/2025 Z. z.“) vydáva
+
+                            rozhodnutie o stavebnom zámere
+
+ID stavby:           nepridelené.
+Názov stavby/st. úprav:„Významná obnova bytového domu; Zastrešenie bytového
+domu“.
+V členení:           Významná obnova bytového domu
+                     Zastrešenie bytového domu
+Miesto stavby:       Bytový dom s. č. 1372, Gelnica, Záhradná 11, Gelnica
+Stavebný pozemok: parc. č. CKN 4498 a 4499, zastavaná plocha a nádvorie, k. ú. Gelnica
+Žiadateľ:            Bytové družstvo Spišská Nová Ves, Kamenárska 5, 052 01 Spišská
+                     Nová Ves, IČO 00174505
+Stavebník:           Vlastníci bytov a nebytových priestorov bytového domu Záhradná
+                     1372/11, Gelnica v zastúpení Bytovým družstvom Spišská Nová Ves
+Vlastník stavby BD: Vlastníci bytov a nebytových priestorov bytového domu Záhradná
+                     1372/11, Gelnica v zastúpení Bytovým družstvom Spišská Nová Ves
+Typ stavby/existujúcej: samostatná stavba – bytová budova podľa § 3 ods. 1 a 2
+                     Stavebného zákona so 17 bytmi
+Charakter stav. úprav:zmena dokončenej stavby, stavebné úpravy podľa § 2 ods. 9
+                     Stavebného zákona na existujúcej bytovej budove.
+Identifikačný kód: 1120 viacbytové budovy (identifik. kód stavby podľa vyhlášky č. 59/2025
+                     Z. z.)
+PD vypracoval:       časť PD – Zastrešenie BD Záhradná 11, Gelnica v 07/2024 vypracoval
+                     STRECHY 92, s. r. o., Legionárska 17, 911 01 Trenčín, IČO 43 806
+                     538, zodpovedný projektant Ing. Michal Grec, PhD. autorizovaný
+                     stavebný inžinier – statika stavieb, reg. č. 5159*SP*13
+                     Časť PD – Významná obnova BD v 05/2025 vypracoval IZOLAprojekt,
+                     s. r. o.,Textilná 8, 040 01 Košice, zodpovedný projektant Ing. Jaroslav
+                     Varga, CSc. Autorizovaný stavebný inžinier – konštrukcie pozemných
+                     stavieb, reg. č. 0410*11.
+Identifikačné údaje PD: vyhotovená v 05/2025pod názvom: Významná obnova BD na ul.
+                     Záhradná č. 11, Gelnica, predložená v listinnej podobe a
+                     PD vyhotovená 07/2026 pod názvom Zastrešenie BD Záhradná 11,
+                     Gelnica, predložená v listinnej podobe
+Účel stavby/st. úprav: Zlepšenie tepelno- izolačných vlastností BD a skvalitnenie bývania.
+
+
+
+
+                                                                                            1
+Zoznam účastníkov konania:
+   − Vlastníci bytov a nebytových priestorov Záhradná 1372/11, 056 01 Gelnica, v
+     zastúpení Bytovým družstvom Spišská Nová Ves, IČO 00 174 505 - stavebník
+   − IZOLAprojekt, s. r. o., Textilná 8, 040 01 Košice, IČO 44 765 151 – projektant obnovy
+     BD
+   − STRECHY 92, s. r. o., Legionárska 17, 911 01 Trenčín, IČO 43 806 538 – projektant
+     zastrešenia BD
+   − Ostatní účastníci konania - právnické a fyzické osoby, ktorých vlastnícke alebo iné
+     práva k pozemku alebo k stavbe alebo vlastnícke prípadne iné práva k susedným
+     pozemkom a k stavbám môžu byť stavebnými úpravami priamo dotknuté doručované
+     a zverejnené verejnou vyhláškou vyvesenou na úradnej tabuli v Meste Gelnica
+
+Údaje o stavbe/stavebných úprav:
+Jedná sa o bytový dom s piatimi nadzemnými podlažiami, nepodpivničený, zastrešený
+plochou strechou s dvoma samostatnými vstupmi a dvoma schodiskovými sekciami
+tvoriacimi jeden celok s jedným súpisnom číslom. Vstupné podlažie je riešené ako
+technické a čiastočne obytné s jednou bytovou jednotkou a jednou prevádzkou. Na
+ostatných podlažiach sú situované vždy štyri bytové jednotky. V bytovom dome je spolu
+17 BJ a jedna prevádzka.
+
+V rámci obnovy ide o zateplenie obalových konštrukcií, sanáciu lodžií, realizáciu novej
+konštrukcie strechy sedlového tvaru, výmenu bleskozvodu, úprava okapových chodníkov,
+úprava striešok nad vstupmi a priamo nadväzujúce stavebné práce súvisiace s celkovou
+obnovou bytového domu.
+
+Fasády BD budú zateplené kontaktným zatepľovacím systémom TI doskami z minerálnej
+vlny    hr. 160 mm. V soklovej časti, od úrovne terénu do výšky cca 600 mm bude použitý
+extrudovaný polystyrén hr. 160 mm. SZ a SV stena bude pred zateplením očistená od
+biokorózie ochranným náterom.
+Vnútorné loggiové steny budú zateplené z čela polystyrénom hr. 80 mm, na bočné steny
+ohraničujúce byty bude použitý Nobasil hr. 120 mm. Na ostatné konštrukcie, ktoré
+neohraničujú vykurovaný priestor (bočné steny lodžií) budú použité TI dosky z minerálnej
+vlny hr. 50 mm. Na lodžiové stropné dosky bude použitý Ravatherm hr. 40 mm. Na čelá
+lodžií bude použitý nenasiakavý polystyrén hr. 50 mm.
+V rámci sanácie loggií budú odstránené všetky vrstvy podlahy až po nosnú konštrukciu s
+následným položením novej skladby podlahy s tepelnoizolačnou, spádovou,
+hydroizolačnou a nášľapnou vrstvou. Súčasťou bude i výmena zábradlia.
+Stropné konštrukcie v 1. NP nad technickým podlažím budú zateplené celoplošne
+pomocou lamiel alt. z dosák z minerálnej vlny hr. 80 mm. Zateplenie existujúcej plochej
+strechy nad bytmi bude prostredníctvom voľného kladenia minerálnej vlny hr. 250 mm,
+čím sa tepelnoizolačne oddelí vykurovaný priestor bytov od nevykurovaného podkrovia.
+V rámci ostatných prác budú v BD vymenené vnútorné podlahy v spoločných priestoroch
+z keramickej dlažby, podlahy pri vstupoch, maľby stien a stropov v spoločných
+priestoroch, vymenené zábradlia pri zadných schodiskách, vymenený bleskozvod,
+upravený okapový chodník okolo BD.
+
+Zastrešenie bytového domu Záhradná 11, Gelnica
+Jedná sa o zastrešenie bytového domu s plochou strechou a zastrešenie strojovni dvoch
+výťahov. Pôvodná plocha strecha bude nahradená novou sedlovou strechou so sklonom
+15˚ a rovnako budú zastrešené i strojovne výťahov sedlovou strechou v sklone 15˚.
+Nosná konštrukcia bude z drevených priehradových väzníkov, ukotvených do stropnej
+konštrukcie. Presah strechy nad atikou bude cca 350 mm. Ako nová strešná krytina bude
+použitý lakoplastovaný trapézový plech. Výstup na šikmú strechu bude realizovaný
+
+                                                                                        2
+prostredníctvom strešného výlezu. Prístup do strojovne výťahov zostáva zachovaný
+v pôvodnom vyhotovení a to poklopom v strope z podesty najvyššieho poschodia.
+Odvetranie kanalizačnej stúpačky bude predĺžené nad novú strešnú rovinu sedlovej
+strechy s utesnením prestupu pomocou gumenej manžety. Odvetranie povalového
+priestoru bude prostredníctvom vzduchových nasávacích otvorov v mieste odklapových
+žľabov a odvetrávacie hlavice budú v hrebeni strechy. Vzduchotechnické jednotky budú
+predĺžené nad novú strešnú rovinu a doplnené novými odvetrávacími hlavicami.
+Okapové plechové žľaby ɸ 150 mm budú zvedené pomocou ležatých zvodov z PVC rúr
+do jestvujúcich strešných vpustov.
+Prestavbou vznikne technický povalový priestor dvojplášťovej odvetranej šikmej strechy
+bez možnosti vzniku nových obytných a skladových priestorov.
+
+
+Technické údaje:
+   • celková zastavaná plocha BD podľa LV: 387 m2
+   • celková výška objektu s novou šikmou strechou od úrovne ± 0,000 (podlaha 1.
+      NP): + 17,360 m
+   • výška strechy strojovne od úrovne ± 0,000 (podlaha 1.NP): + 19,020 m
+   • počet bytových jednotiek: 17
+   • počet prevádzok: 1
+   • počet nadzemných podlaží: 5
+
+Zoznam záväzných stanovísk a záväzných vyjadrení uplatnených v konaní:
+1. Záväzné vyjadrenie k stavebnému zámeru č. 02751/3/2026-ZV-01, vydané Technickou
+   inšpekciou, a. s. Bratislava dňa 10. 02. 2026 s pripomienkami.
+2. Záväzné stanovisko k stavebnému zámeru, vydané RÚVZ so sídlom v Spišskej Novej Vsi
+   zo dňa 13. 02. 2026 pod č. RÚVZSN/OHŽPaZ/454/1238/2026.
+3. Vyjadrenie k PD stavby, vydané OÚ Gelnica, Odbor starostlivosti o ŽP, OH dňa 18. 02.
+   2026 pod č. OU-GL-2026/000615-002 s podmienkami.
+4. Záväzné stanovisko k stavebnému zámeru stavby: „Významná obnova BD ul. Záhradná č.
+   11“, vydané OÚ Gelnica, Odbor starostlivosti o ŽP zo dňa 24. 02. 2026 pod č. OU-GL-
+   OSZP-2026/000644-002 s podmienkami.
+5. Záväzné stanovisko k stavebnému zámeru stavby: „Zastrešenie BD ul. Záhradná č. 11“,
+   vydané OÚ Gelnica, Odbor starostlivosti o ŽP zo dňa 24. 02. 2026 pod č. OU-GL-OSZP-
+   2026/000645-002 s podmienkami.
+6. Záväzné stanovisko k stavebnému zámeru stavby, vydané OR HaZZ v Spišskej Novej Vsi
+   dňa 02. 04. 2026 pod č. ORHZ-SN1-2026/001342-004 s uplatnením požiadavky na vydanie
+   doložky súladu projektu stavby.
+7. Vyjadrenie ku konaniu o stavebnom zámere, vydané RÚVZ so sídlom v Spišskej Novej Vsi
+   zo dňa 17. 09. 2026 pod č. RÚVZSN/OHŽPaZ/2112/8368/2026.
+8. Záväzné stanovisko Orgánu územného plánovania Mesta Gelnica (súlad s ÚPD mesta) zo
+   dňa 22. 09. 2026 pod č. MsÚ/OV/071/2026.
+
+
+Podmienky pre uskutočnenie stavby (podľa § 60 ods. 1 Stavebného zákona):
+   1. Stavba/ stavebné úpravy budú uskutočnené podľa overovacej doložky projektu zmeny
+      existujúcej stavby, ktorej časť Významná obnova BD vypracovala IZOLAprojekt, s. r.
+      o., Textilná 8, Košice, IČO 44765151, zodpovedný projektant Ing. Jaroslav Varga,
+      CSc, autorizovaný stavebný inžinier – konštrukcie pozemných stavieb,      reg. č.
+      0410*11. Časť PD Zastrešenie BD vypracovala spoločnosť STRECHY 92, s. r. o.,
+      Legionárska 17, 911 01 Trenčín, IČO 43 806 538, zodpovedný projektant Ing. Michal
+      Grec, PhD. autorizovaný stavebný inžinier – statika stavieb, reg. č. 5159*SP*13.
+      Projektant stavby v zmysle § 35 ods. 5 stavebného zákona zodpovedá za
+                                                                                      3
+     komplexnosť, úplnosť a vecnú správnosť projektovej dokumentácie a za jej
+     použiteľnosť.
+2. V prípade ak sa na stavbe majú uskutočniť stavebné práce vedúce k odchýlke od
+     overeného projektu stavby má stavebník povinnosť postupovať podľa ustanovení § 43
+     ods. 2, 3, 4 a 5 Stavebného zákona, prostredníctvom kontrolných prehliadok stavby.
+ 3. O prípadnú        zmenu rozhodnutia o stavebnom zámere stavebník požiada tunajší
+     správny orgán v súlade s § 62 Stavebného zákona..
+ 4. Stavenisko bude vymedzené v rámci bytového domu s. č. 1372, parc. č. CKN 4498 a
+     4499, k. ú. Gelnica.
+ 5. Pri uskutočňovaní stavby je nutné dodržiavať predpisy týkajúce sa bezpečnosti
+     práce a
+     technických zariadení, najmä vyhlášku č. 147/2013 Z. z., ktorou sa ustanovujú
+     podrobnosti na
+     zaistenie bezpečnosti a ochrany zdravia pri stavebných prácach a prácach s nimi
+     súvisiacich
+     a o odbornej spôsobilosti na výkon niektorých pracovných činností v znení
+     neskorších
+     predpisov a dbať na ochranu zdravia a osôb na stavenisku.
+ 6. Pri uskutočňovaní stavby/stavebných úprav sa musí dbať na ochranu životného
+     prostredia aj tým, že stavebník, resp. určený dodávateľ        nesmie nadmernými
+     negatívnymi      vplyvmi obťažovať obyvateľov bytového domu a jeho okolie, napr.
+     prácouv noci, hlukom, prašnosťou, zápachmi, vibráciami a pod. Pri realizácii
+     stavebných prác nesmie dôjsť k znečisťovaniu miestnych komunikácií.
+ 7. Pri stavbe/ stavebných úprav a ich uskutočňovaní musia byť dodržané príslušné, na
+     stavbu sa vzťahujúce ustanovenia zákona 25/2025 Z. z. v znení neskorších predpisov,
+     príslušné technické normy a konštrukcia stavby (významná obnova BD) musí
+     vyhovovať požiadavkám stability stavby.
+ 8. Stavebník je povinný dbať na to, aby pri uskutočňovaní stavebných prác nedošlo ku
+     spôsobeniu škody na cudzích nehnuteľnostiach a majetku.
+ 9. Stavebník je povinný zabezpečiť, aby pri realizácii stavby/ stavebných úprav boli
+     použité stavebné výrobky,vhodné na použitie v súlade s ust. zák. č. 90/1998 Z. z. o
+     stavebných výrobkoch v znení neskorších predpisov, v súlade s § 19 ods. 2
+     Stavebného zákona a podľa osobitných predpisov. Doklady o preukázaní vhodnosti
+     stavebných výrobkov predloží pri kolaudácii stavby.
+ 10. Stavebník je povinný počas realizácie stavby/stavebných úprav nakladať s odpadmi zo
+     stavebných činnosti v súlade s ust. § 99 ods. 1 písm. b) bodov 1, 2, 3, 5, zákona č.
+     79/2015 Z. z. o odpadoch a o zmene a doplnení niektorých zákonov v znení
+     neskorších právnych predpisov a v súlade s VZN Mesta Gelnica o nakladaní s
+     odpadmi.
+ 11. Stavba/stavebné úpravy sa budú uskutočňovať dodávateľským spôsobom
+     prostredníctvom určenej oprávnenej právnickej osoby na stavebné práce v rozsahu
+     povoľovanej stavby.
+ 12. O priebehu realizácie stavebných prác na zmene dokončenej stavby je zhotoviteľ
+     povinný viesť stavebný denník podľa § 30 ods. 6 písm. g) alebo § 32 ods. 3
+     stavebného zákona.        Na stavbe musí byť k dispozícií dokumentácia
+     a všetkydoklady týkajúce sa uskutočňovanej stavby/stavebných úprav.
+ 13. Stavebník je povinný dodržiavať ostatné ustanovenia § 30 stavebného zákona, najmä
+     oznámiť
+     stavebnému úradu začatie uskutočňovania povolených stavebných prác v súlade s §
+     30 ods. 3
+     písm. a) stavebného zákona. Stavba nesmie byť začatá skôr, kým toto rozhodnutie
+     nenadobudne právoplatnosť a bez overenia projektu stavby.
+14. Platnosť rozhodnutia o stavebnom zámere platí dva roky keď nadobudlo právoplatnosť,
+     ak správny orgán neurčil dlhšiu lehotu; nestráca však platnosť, ak bola v týchto
+
+                                                                                       4
+    lehotách podaná žiadosť o overenie projektu. Rozhodnutie o stavebnom zámere stráca
+    platnosť dňom straty platnosti overovacej doložky.
+15. Stavebník je povinný oznámiť tunajšiemu stavebnému úradu termín začatia a termín
+    ukončenia stavby/stav. úprav pred ich uvedením do trvalého užívania a požiadať o
+    vydanie kolaudačného osvedčenia.
+16. Stavebník je pri uskutočňovaní stavby/stavebných úprav povinný postupovať a dodržať
+    prípadné požiadavky dotknutých orgánov uplatnené v záväzných stanoviskách, ak nie
+    sú určené správnymi rozhodnutiami a požiadavky uplatnené vo vyjadreniach
+    dotknutých právnických osôb, a to:
+
+   a) Záväzné vyjadrenie k stavebnému zámeru, vydané Technickou inšpekciou, a. s.
+      Bratislava dňa 10. 0. 2026 pod č. 02751/3/2026-ZV.01 s pripomienkami:
+      2.1 STA – Projektová dokumentácia neobsahuje súhrnnú technickú správu, čo nie je
+      v súlade s požiadavkou na obsah projektu pre stavebný zámer uvedený v prílohe č.
+      16 § 6 ods. 3 vyhlášky č. 60/2025 Z. z.
+      2.2 EL- V predloženej dokumentácií EL, projektant Ing. Pavôanský, nie je súčasťou
+      vyhotovenia neodstrániteľných nebezpečenstiev a ohrození aj možný vznik prepätí
+      od blesku a tvorenie nebezpečných nábojov, čo nie je v súlade s § 4 ods. 1 zákona
+      č. 124/2006 Z. z. v znení neskorších predpisov.
+      2.3 EL – V technickej správe dokumentácie EL, projektant Ing. Pavlanský, sú
+      uvedené a zrejme aj použité neplatné STN a legislatívne predpisy EN 12646-
+      1:2012, STN EN 12655, STN EN 13201 1-4:2005, STN 33 2000.4-42 A2, STN 33
+      2000-5-53:2016, STN 33 2000-7-753:2015, STN 34 7409:2001, STN EN
+      61140:2004, STN EN 60664-3:2004, STN EN 50173-1:2012, STN EN 50174-1
+      A2:2015, STN EN 50174-2:2009, STN EN 50174-3:2004, STN EN 50174-4-2:2016,
+      STN 35 4181:2016, STN EN 60598-2-22:2015, STN EN 60941-1/A2, STN EN
+      61293:2000, STN EN 60909-0:2003, STN EN 62040-1:2020, STN EN 50310:2011,
+      vyhl. č. 208/2005 Z. z., vyhl. č. 605/2007 Z. z., NV SR č. 269/2006 Z. z., čo nie je
+      v súlade s čl. 132.1 a 133.1 STN 33 2000-1:2009 a § 8 zákona č 124/2006 Z. z.
+      v znení neskorších predpisov.
+      2.4 EL – Z predloženej dokumentácie EL, projektant Ing. Pavlanský, nie je zrejmé, či
+      navrhovaná vonkajšia ochrana pred bleskom zaisťuje dostatočný ochranný priestor
+      celého objektu s členitou strechou v zmysle čl. 5.2.2 STN EN 62305-3 (34
+      1390):2012, chýba výkres s vyšetrením ochranného priestoru navrhovaného LPS,
+      čo nie je v súlade s čl. 4.2 predmetnej normy.
+      Počas procesu výstavby musia byť dodržané požiadavky nariadenia vlády: č.
+      391/2006 Z. z., č. 396/2006 Z. z.; č. 392/2006 Z. z.; č. 387/2006 Z. z.; č. 281/2006 Z.
+      z. a vyhlášky č. 147/2006 Z. z.
+
+   b) Záväzné stanovisko k stavebnému zámeru, vydané RÚVZ so sídlom v Spišskej
+      Novej Vsi zo dňa 13. 02. 2026 pod č. RÚVZSN/OHŽPaZ/454/1238/2026 bez
+      pripomienok.
+
+
+   c) Vyjadrenie Okresného úradu Gelnica, Odbor starostlivosti o životné prostredie, ŠS
+      OH, k PD, vydané dňa 18. 02. 2026 pod č. OU-GL-OSZP-2026/000615-002
+      s podmienkami:
+          • v zmysle § 77 ods. 2 zákona o odpadoch pôvodcom odpadov vznikajúcich
+             pri stavebných a demolačných prácach, vykonávaných v sídle alebo mieste
+             podnikania, organizačnej zložky alebo v inom mieste pôsobenia právnickej
+             osoby alebo fyzickej osoby – podnikateľa, je právnická osoba alebo fyzická
+             osoba – podnikateľ, ktorej bolo vydané povolenie podľa stavebného zákona,
+          • pôvodca odpadov zodpovedá za nakladanie s odpadmi, ktoré vzniknú
+             realizáciou stavby a je povinný nakladať s odpadmi v súlade so zákonom
+             o odpadoch a všeobecne záväznými
+                                                                                           5
+  právnymi predpismi na úseku odpadového hospodárstva(dodržiavať povinnosti
+  držiteľa odpadu ustanovené § 14 zákona o odpadoch) a to:
+  - zabezpečiť spracovanie odpadu v zmysle hierarchie odpadového hospodárstva
+      (predchádzanie vzniku odpadu, príprava na opätovné použitie, recyklácia, iné
+      zhodnocovanie, zneškodňovanie),
+  - vzniknuté odpady triediť podľa jednotlivých druhov odpadov v zmysle vyhlášky
+      MŹP SR č. 365/2015 Z. z., ktorou sa ustanovuje Katalóg odpadov v znení
+      vyhlášky MŽP SR č. 320/2017 Z. z.
+  - utriedené odpady do ukončenia stavebných prác zhromažďovať vo vhodných
+      nádobách a kontajneroch tak, aby na vyčlenenom mieste stavby tak, aby
+      nemohlo dôjsť k ohrozeniu alebo poškodeniu životného prostredia,
+  - pred vznikom odpadov odovzdaných len osobe oprávnenej nakladať s odpadmi
+      podľa zákona o odpadoch zabezpečiť preukázateľný zmluvný vzťah o fyzickom
+      nakladaní s nimi, uzatvorený minimálne v rozsahu určenom vykonávacím
+      predpisom, t. j. vyhl. č. 344/2022 Z. z. o stavebných odpadoch a odpadoch z
+      demolácií,
+      • v prípade vzniku zeminy z výkopových zemných prác použiť je na spätné
+          zásypy a úpravu terénu v mieste stavby,
+      • v prípade vzniku nebezpečných odpadov dodržiavať ustanovenia § 25
+          zákona o odpadoch,
+      • požiadať tunajší úrad, orgán štátnej správy odpadového hospodárstva o
+          vyjadrenie k dokumentácií v kolaudačnom konaní a zdokladovať množstvo a
+          spôsob nakladania s odpadmi vzniknutými danou stavbou (predložiť doklady
+          o zhodnotení, resp. zneškodnení odpadov u oprávnenej spoločnosti s
+          jednoznačnou identifikáciou odpadov a danej stavby).
+
+  Upozorňujeme, že podľa § 13 písm. a) a b) zákona o odpadoch sa zakazuje uložiť
+  alebo ponechať odpad na inom mieste ako na mieste na to určenom v súlade so
+  zákonom o odpadoch a zneškodniť alebo zhodnotiť odpad inak ako v súlade so
+  zákonom o odpadoch.
+
+d) Záväzné stanovisko Okresného úradu Gelnica, Odbor starostlivosti o životné
+   prostredie, ŠS OPaK, k stavebnému zámeru: „Významná obnova BD ul. Záhradná
+   č. 11“ v k. ú. Gelnica, vydané dňa 24. 02. 2026 pod č. OU-GL-OSZP-2026/000644-
+   002 s podmienkami:
+   1. Stavebné práce vykonávať tak, aby nedošlo k poškodeniu drevín (či už
+       koreňového systému alebo nadzemných častí drevín) rastúcich v blízkosti
+       miesta stavby.
+   2. Pre prípadný nevyhnutný výrub drevín v zastavanom území obce, ktoré sú
+       súčasťou verejnej zelene, je potrebný súhlas príslušného orgánu ochrany
+       prírody a krajiny, ktorým je Okresný úrad Gelnica, odbor OSZP (vyhradená
+       pôsobnosť obce vo veciach podľa § 47 a § 48 zákona o ochrane prírody
+       a krajiny pre pozemky v zastavanom území, ktoré sú vo vlastníctve obce
+       v nadväznosti na § 47 ods. 5 zákona).
+   3. Upozorňujeme, že výrub drevín a krovín je možné povoliť iba v čase
+       mimovegetačného obdobia, t. j. od 1. 10 do 28. 02.
+   4. Pri realizácií stavby postupovať tak, aby nedošlo k zbytočnému úhynu
+       chránených živočíchov alebo poškodzovaniu a ničeniu ich biotopov.
+   5. Z hľadiska udržiavania priaznivých podmienok pre ochranu vtáctva a netopierov
+       je stavebník povinný riadiť sa posudkom k výskytu chránených živočíchov na
+       bytovom dome Záhradná 11, Gelnica, vypracovaných RNDr. Milanom
+
+
+                                                                                 6
+      Novotným, Dr. Adámyho 913/27, 018 61 Bratislava, ktorý nevrhol tieto
+      kompenzačné opatrenia:
+       - Atikové otvory strešnej dutiny nesmú byť uzatvorené v období hniezdenia
+       vtákov (apríl-august) a v čase hibernácie netopierov (december- polovica
+       marca, v závislosti od klimatických podmienok). Pred ich uzatvorením je
+       potrebné do otvorov osadiť rúrkové výpusty pre netopiere. Vysťahovanie
+       pomocou rúrkových výpustov je nepoužiteľné v období hibernácie netopierov –
+       rúrky môžu byť osadené až po skončení zimného obdobia, najskôr v druhej
+       polovici marca počas suchých nocí s plusovými teplotami.
+       - Kompenzácia možnosti hniezdenia pre dážďovníky a iné druhy dutinových
+       hniezdičov: osadenie v 5 búdok typu APLUS4 do zateplenia tesne pod atikovým
+       plechom na východnej stene budovy, búdky typu APLUS majú byť osadené so
+       vzájomným odstupom minimálne 1,5 metra. Osadenie 2 búdok typu APLUS 3
+       do zateplenia tesne pod atikovými plechmi nad oknami schodiskových
+       priestorov na severnej strane budovy (po jednej búdke na jeden vchod
+       bytového domu).
+       - Kompenzáciu úkrytov pre netopiere – osadenie jednej búdky do zateplenia
+       typu MaxiB. Návrh miesta osadenia búdky – tesne pod atikovým plechom na
+       západnej strane budovy.
+       - Všetky druhy vtákov ako aj netopierov patria medzi zákonom chránené druhy
+       živočíchov a spoločenská hodnota napr. jedného jedinca dažďovníka tmavého
+       je 500,- Eur (vyhláška č. 170/2021 Z. z., ktorou sa vykonáva zákon o ochrane
+       prírody a krajiny). Zákonom chránené sú aj hniezdiská a úkryty v čase
+       neprítomnosti chráneného druhu (napr. po odlete na zimoviská).
+    6. Po ukončení stavebných prác dbať na konečnú úpravu územia.
+     7. Požiadať tunajší úrad, orgán OPaK o záväzné stanovisko ku kolaudácií
+       predmetnej stavby podľa § 9 pds. 1 písm. d) zákona o ochrane prírody a krajiny
+       v nadväznosti na § 9 ods. 3 zákona a predložiť potvrdenie spracovateľa
+       posudku k výskytu chránených živočíchov na bytovom dome o dodržaní
+       opatrení pre ochranu živočíchov.
+
+e) Záväzné stanovisko Okresného úradu Gelnica, Odbor starostlivosti o životné
+   prostredie, ŠS OPaK, k stavebnému zámeru: „Zastrešenie BD ul. Záhradná 11“ v k.
+   ú. Gelnica, vydané dňa 24. 02. 2026 pod č. OU-GL-OSZP-2026/000655-002 s
+   podmienkami:
+   1. Stavebné práce vykonávať tak, aby nedošlo k poškodeniu drevín (či už
+      koreňového systému alebo nadzemných častí drevín) rastúcich v blízkosti
+      miesta stavby.
+   2. Pri realizácií stavby postupovať tak, aby nedošlo k zbytočnému úhynu
+      chránených živočíchov alebo poškodzovaniu a ničeniu ich biotopov.
+   3. Z hľadiska udržiavania priaznivých podmienok pre ochranu vtáctva a netopierov
+      je stavebník povinný riadiť sa posudkom k výskytu chránených živočíchov na
+      bytovom dome Záhradná 11, Gelnica, vypracovaných RNDr. Milanom
+      Novotným, Dr. Adámyho 913/27, 018 61 Bratislava, ktorý nevrhol tieto
+      kompenzačné opatrenia:
+      - Atikové otvory strešnej dutiny nesmú byť uzatvorené v období hniezdenia
+      vtákov (apríl-august) a v čase hibernácie netopierov (december- polovica marca,
+      v závislosti od klimatických podmienok). Pred ich uzatvorením je potrebné do
+      otvorov osadiť rúrkové výpusty pre netopiere. Vysťahovanie pomocou rúrkových
+      výpustov je nepoužiteľné v období hibernácie netopierov – rúrky môžu byť
+      osadené až po skončení zimného obdobia, najskôr v druhej polovici marca
+      počas suchých nocí s plusovými teplotami.
+      - Kompenzácia možnosti hniezdenia pre dážďovníky a iné druhy dutinových
+      hniezdičov: osadenie v 5 búdok typu APLUS4 do zateplenia tesne pod atikovým
+
+                                                                                   7
+     plechom na východnej stene budovy, búdky typu APLUS majú byť osadené so
+     vzájomným odstupom minimálne 1,5 metra. Osadenie 2 búdok typu APLUS 3 do
+     zateplenia tesne pod atikovými plechmi nad oknami schodiskových priestorov
+     na severnej strane budovy (po jednej búdke na jeden vchod bytového domu).
+     - Kompenzáciu úkrytov pre netopiere – osadenie jednej búdky do zateplenia
+     typu MaxiB. Návrh miesta osadenia búdky – tesne pod atikovým plechom na
+     západnej strane
+     - Všetky druhy vtákov ako aj netopierov patria medzi zákonom chránené druhy
+     živočíchov a spoločenská hodnota napr. jedného jedinca dažďovníka tmavého je
+     500,- Eur (vyhláška č. 170/2021 Z. z., ktorou sa vykonáva zákon o ochrane
+     prírody a krajiny). Zákonom chránené sú aj hniezdiská a úkryty v čase
+     neprítomnosti chráneného druhu (napr. po odlete na zimoviská).
+  4. Po ukončení stavebných prác dbať na konečnú úpravu územia.
+
+f) Záväzné stanovisko OR HaZZ v Spišskej Novej Vsi k stavebnému zámeru, vydané
+   dňa 02. 04. 2026 pod č. ORHZ-SN1-2026/001342-004 s upozornením:
+   Toto stanovisko nenahrádza stanovisko orgánu štátneho požiarneho dozoru pre
+   nasledujúce stupne dokumentácie podľa Stavebného zákona.
+
+g) Vyjadrenie/záväzné stanovisko Regionálneho úradu verejného zdravotníctva so
+   sídlom v Spišskej Novej Vsi ku konaniu o stavebnom zámere Významná obnova
+   BD; Zastrešenie BD, Záhradná 11, Gelnica , vydané dňa 17. 09. 2026 pod č.
+   RÚVZSN/OHŽPaZ/2112/8368/2026 bez pripomienok.
+   Regionálny úrad verejného zdravotníctva so sídlom v Spišskej Novej Vsi si súčasne
+   týmto záväzným stanoviskom nahrádza stanovisko pre posúdenie nasledujúcich
+   stupňov dokumentácie podľa zákona č. 25/2025 Z. z.
+
+h) Záväzné stanovisko Mesta Gelnica ako orgánu územného plánovania mesta
+   Gelnica z hľadiska súladu stavby/stavebných úprav s platnou ÚPD mesta, vydané
+   dňa 22. 09. 2026 pod č. MsÚ/OV/071/2026
+   Vyhodnotenie súladu so záväznou časťou ÚPD:
+   Pre územie, ktorého súčasťou sú dotknuté pozemky parc. č. CKN 4498 a 4499,
+   katastrálne územie Gelnica platná územnoplánovacia dokumentácia - „Územný plán
+   SÚ Gelnica“, schválený uznesením MsZ č. 245/99 zo dňa 22.12.1999 (v účinnosti
+   od 07.01.2000), v znení Zmien a doplnkov č. 1“, schválených uznesením MsZ č.
+   496/08 zo dňa 29.09.2008 (v účinnosti od 29.10.2008) a Zmien a doplnkov č. 2“,
+   schválených uznesením MsZ č. 101/24 zo dňa 24.06.2024 (v účinnosti od
+   01.08.2024) stanovuje funkčné využitie územia :
+   Jestvujúce plochy hromadnej bytovej výstavby – plochy bytových domov. Z hľadiska
+   záväzných regulatív funkčného a priestorového usporiadania územia v oblasti
+   bývania podľa II.3.1 Funkčné regulatívy v oblasti bývania sú:
+   hlavnou funkciou : - obytné objekty vo viacpodlažnej zástavbe;
+   doplnkovou funkciou: - zariadenia technickej vybavenosti, - detské ihriská a
+   športoviská,        - drobné služby, administratíva (nerušiace funkciu bývania), -
+   parková zeleň;
+   neprípustné funkcie - ostatné funkčné plochy.
+   Navrhovaná stavba – významná obnova jestvujúceho BD je v súlade so záväznou
+   časťou Územného plánu, ktorá umožňuje obnovu obytných stavieb. Stavba
+   nenarúša priestorovú reguláciu, ani limity využitia územia. Umiestnenie stavby je
+   v súlade s funkčným využitím a kapacitnými možnosťami územia podľa
+   územnoplánovacej dokumentácie.
+   Na základe výsledkov posúdenia vo vzťahu k ÚPN uvedená navrhovaná stavba pod
+   názvom: “Významná obnova bytového domu, zastrešenie bytového domu“ je v
+   súlade s obsahom záväznej časti platnej územnoplánovacej dokumentácie :
+   „Územný plán SÚ Gelnica v znení Zmien a doplnkov č. 1 a č. 2“.
+                                                                                   8
+         Mesto Gelnica ako orgán územného plánovania podľa §24 zákona č. 200/2022 Z. z.
+         o územnom plánovaní, v súlade s § 21 ods. 5 zákona č. 25/2025 Z. z. Stavebný
+         zákon a o zmene a doplnení niektorých zákonov (Stavebný zákon) v znení
+         neskorších predpisov súhlasí s predloženou projektovou dokumentáciou pre
+         vydanie príslušného povolenia stavebným úradom v zmysle ustanovení stavebného
+         zákona.
+
+Námietky účastníkov konania:
+V zákonom stanovenej lehote neboli uplatnené žiadne námietky účastníkov konania. V konaní
+neboli vydané nesúhlasné stanoviská dotknutých orgánov a ich podmienky boli zosúladené
+a zapracované do podmienok tohto rozhodnutia.
+Lehota platnosti rozhodnutia o stavebnom zámere:
+Podľa § 61 ods. 1 Stavebného zákona rozhodnutie o stavebnom zámere platí dva roky odo
+dňa, keď nadobudlo právoplatnosť, nestráca však platnosť, ak bola v tejto lehote podaná
+žiadosť o overenie projektu stavby. Rozhodnutie o stavebnom zámere stráca platnosť dňom
+straty platnosti overovacej doložky.
+Podľa § 61 ods. 4 stavebného zákona rozhodnutie o stavebnom zámere je záväzné aj pre
+právnych nástupcov účastníkov konania.
+Podľa § 62 ods. 3 stavebného zákona možno lehotu platnosti rozhodnutia o stavebnom
+zámere predĺžiť na žiadosť stavebníka podanú pred jej uplynutím najviac o dva roky.
+
+Nadobudnutie oprávnenia na realizáciu stavby podľa stavebného zákona:
+Rozhodnutie o stavebnom zámere nie je dokladom na samotnú realizáciu stavby. Stavebník je
+povinný pre realizáciu stavby požiadať stavebný úrad o overenie projektu stavby podľa § 65
+stavebného zákona.
+
+                                     ODÔVODNENIE
+
+       Stavebník - Vlastníci bytov a nebytových priestorov bytového domu Záhradná 1372/11,
+Gelnica v zastúpení správcom Bytovým družstvom Spišská Nová Ves, Kamenárska 5, 052 01
+Spišská Nová Ves, IČO 00 174 505 podal dňa 25. 06. 2026 na stavebný úrad mesta Gelnica
+žiadosť o vydanie rozhodnutia o stavebnom zámere na zmenu dokončenej stavby, s. č. 1372
+pod názvom: „Významná obnova bytového domu; Zastrešenie bytového domu“, na
+pozemkoch parc. č. CKN 4498 a 4499, zastavaná plocha a nádvorie, k. ú. Gelnica, Záhradná
+11, Gelnica.
+
+        Po preskúmaní predloženej žiadosti a jej príloh bolo zistené, že predmetná žiadosť s
+prílohami neposkytuje dostatočný podklad pre posúdenie navrhovanej stavby/stavebných
+úprav, je neúplná a neobsahuje predpísané náležitosti stanovené zákonom č. 25/2025 Z. z.
+Stavebný zákon a o zmene a doplnení niektorých zákonov (Stavebný zákon) a vyhlášky č.
+60/2025 Z. z. o štruktúre a prevádzke informačného systému územného plánovania a
+výstavby, o obsahu podaní a obsahu a rozsahu dokumentácie stavby. Na základe toho
+správny orgán Mesto Gelnica ako príslušný stavebný úrad podľa § 15 ods. 1 Stavebného
+zákona podľa § 50 ods. 3 rovnakého zákona žiadateľa vyzval na doplnenie predloženej
+žiadosti najneskôr do 30 dní odo dňa doručenia výzvy a predmetné konanie Rozhodnutím zo
+dňa 16. 07. 2026 pod č. MsÚ-GL-277/2026/Výzva-Tá prerušil. Stavebník svoje podanie doplnil
+19. 08. 2026.
+
+        Stavebný úrad oznámením č. MS-GL-277/2026/Ozn-Tá zo dňa 04. 09. 2026 oznámil
+účastníkom konania verejnou vyhláškou, dotknutým orgánom a dotknutým právnickým
+osobám začatie správneho konania o stavebnom zámere a zároveň nakoľko boli stavebnému
+úradu dobre známe pomery staveniska a žiadosť po doplnení poskytovala dostatočný podklad
+na posúdenie navrhovanej zmeny dokončenej stavby podľa § 53 ods. 2 stavebného zákona
+upustil od ústneho pojednávania a miestneho zisťovania. Stavebný úrad v oznámení určil
+                                                                                          9
+lehotu na uplatnenie pripomienok a námietok účastníkov konania v trvaní 7 pracovných dní
+odo dňa doručenia oznámenia. V stanovenej lehote neboli uplatnené žiadne námietky zo
+strany účastníkov konania.
+
+        Po preskúmaní žiadosti bolo zistené, že uskutočnením stavebných úprav na zmene
+dokončenej stavby (obnova BD) bytového domu, s. č. 1370 nie sú ohrozené záujmy
+spoločnosti, ani neprimerane obmedzené či ohrozené práva a oprávnené záujmy účastníkov
+konania. Jej budúcou realizáciou nie sú ohrozené záujmy chránené stavebným zákonom,
+predpismi vydanými na jeho uskutočnenie a osobitnými predpismi. Na základe tohto stavebný
+úrad dospel k záveru, že uskutočnením stavby a stavebných úprav nebudú ohrozené záujmy
+spoločnosti ani neprimerane ohrozené alebo obmedzené práva a právom chránené záujmy
+účastníkov konania. Podanie vyhovuje predpisom, ktoré ustanovujú hygienické, protipožiarne
+podmienky, podmienky bezpečnosti práce a technických zariadení, starostlivosti o ochranu
+prírody a krajiny. Je v súlade s podmienkami a požiadavkami týkajúcimi sa záujmov
+spoločnosti, predovšetkým ochrany životného prostredia, a zodpovedá všeobecným
+technickým požiadavkám na výstavbu. Významná obnova BD zodpovedá                     hľadiskám
+starostlivosti o životné prostredie resp., že týmto hľadiskám neodporuje ani životné prostredie
+neohrozuje. Dokumentácia stavby spĺňa všeobecné technické požiadavky na výstavbu. V
+priebehu konania neboli zistené dôvody, ktoré by bránili povoleniu stavby a stavebných úprav
+na zmene dokončenej stavby. Podmienky dotknutých orgánov uplatnené v ich stanoviskách
+boli zapracované v podmienkach tohto rozhodnutia.
+
+
+      Rozhodnutie o stavebnom zámere nie je dokladom na samotnú realizáciu stavby.
+Stavebník je povinný pre realizáciu stavby požiadať stavebný úrad o overenie projektu
+stavby podľa § 65 stavebného zákona.
+       Na základe vyššie uvedeného stavebný úrad rozhodol tak, ako sa uvádza                vo
+výrokovej časti tohto rozhodnutia.
+Správny poplatok:
+Správny poplatok za vydanie rozhodnutia o stavebnom zámere na jedenásť až päťdesiat
+bytovú budovu a jej zmenu je podľa § 59, písm. a), bod 3. s prepojením na bod 14
+Sadzobníka správnych poplatkoch, ktorý tvorí prílohu zákona č. 145/1995 Z. z. o správnych
+poplatkoch v znení neskorších predpisov vo výške 25% sadzby podľa bodu 3, t. j 500,- € (25%
+z 2 000,- €). Zo strany stavebníka bol v stanovenej výške uhradený na účet mesta dňa 10.
+08. 2026.
+
+
+
+                                         POUČENIE
+
+       Proti tomuto rozhodnutiu má účastník konania právo podať odvolanie v súlade s § 53 a
+§ 54 Správneho poriadku (z. č. 71/1967 Zb. o správnom konaní v znení neskorších predpisov)
+v lehote do 15 dní odo dňa oznámenia (doručenia) rozhodnutia.
+       Odvolanie sa podáva na Mesto Gelnica, Banícke námestie 4, 056 01 Gelnica, pričom
+odvolacím orgánom je Regionálny úrad pre územné plánovanie a výstavbu Košice.Toto
+rozhodnutie je preskúmateľné súdom až po vyčerpaní riadnych opravných prostriedkov.
+
+
+Ing. Dušan Tomaško, MBA
+primátor mesta
+
+Podľa § 26 zák. č. 71/1967 Zb. o správnom konaní v znení neskorších predpisov v spojení s §
+61 ods. 3 zákona č. 25/2025 Stavebný zákon toto oznámenie má povahu verejnej vyhlášky a
+                                                                                         10
+musí byť vyvesené po dobu 15 dní na úradnej tabuli mesta Gelnica. Posledný deň tejto lehoty
+je dňom doručenia. Rozhodnutie sa súčasne zverejní na elektronickej úradnej tabuli mesta
+Gelnica.
+
+Verejnou vyhláškou sa doručuje žiadateľovi, projektantovi, vlastníkom bytov v BD, vlastníkom
+stavbou dotknutých pozemkov, vlastníkom susedných pozemkov a ostatným možným
+účastníkom, ktorých vlastnícke práva k nehnuteľnostiam môžu byť danou zmenou dokončenej
+stavby dotknutí, a to:
+    1. Vlastníci bytov a nebytových priestorov Záhradná 1372/11, 056 01 Gelnica, v
+       zastúpení Bytovým družstvom Spišská Nová Ves, IČO 00 174 505 – stavebník
+    2. IZOLAprojekt, s. r. o., Textilná 8, 040 01 Košice, IČO 44 765 151 – projektant obnovy
+       BD
+    3. STRECHY 92, s. r. o., Legionárska 17, 911 01 Trenčín, IČO 43 806 538 – projektant
+       zastrešenia BD
+    4. Ostatní účastníci konania - právnické a fyzické osoby, ktorých vlastnícke alebo iné
+       práva k pozemkom alebo k stavbám alebo vlastnícke prípadne iné práva k susedným
+       pozemkom a k stavbám môžu byť predmetnou zmenou dokončenej stavby priamo
+       dotknuté doručované a zverejnené verejnou vyhláškou vyvesenou na úradnej tabuli v
+       Meste Gelnica.
+    5. Mesto Gelnica, Banícke námestie 4, 056 01 Gelnica - so žiadosťou o zverejnenie
+       verejnej vyhlášky v mieste obvyklým spôsobom
+
+Dotknuté orgány sa o začatí konania upovedomujú jednotlivo.
+   1. Okresný úrad Gelnica, odbor starostlivosti o ŽP, Hlavná 1, Gelnica - ŠOPaK
+   2. Okresný úrad Gelnica, odbor starostlivosti o ŽP, Hlavná 1, Gelnica – OH
+   3. Regionálny úrad verejného zdravotníctva so sídlom v Spišskej Novej Vsi, A.
+      Mickiewicza 1730/6, 052 01 SNV
+   4. OR Hasičského a záchranného zboru v Spišskej Novej Vsi, Brezová 30, 052 01
+      Spišská Nová Ves
+   5. Technická inšpekcia, a. s. Bratislava, Pracovisko Košice, Hollého 38, 040 01 Košice,
+      IČO 36653004
+   6. Mesto Gelnica, SÚ - spis
+
+Toto oznámenie musí byť vyvesené:
+
+  I.  Na úradnej tabuli Mesta Gelnica po dobu 15 dní:
+Vyvesené dňa: Zvesené dňa:
+ II.  Na webovej stránke Mesta Gelnica (www. gelnica.sk) po dobu 15 dní:
+Začiatok zverejnenie dňa: Koniec zverejnenia dňa:
+
+
+
+
+                                                                                             11
+
