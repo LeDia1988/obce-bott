@@ -1,0 +1,638 @@
+URL: https://cuet.slovensko.sk/en/dokument/6ebb7db8-7d6c-4c84-9534-d26d62cc3811
+OBEC: Valaliky (Košice)
+NÁZOV: Programový rozpočet 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/6ebb7db8-7d6c-4c84-9534-d26d62cc3811
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Programový rozpočet 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Valaliky
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Valaliky
+Published to:
+12.12.2026
+Registry case:
+Name of official document:
+Programový rozpočet 2027-2029
+Document abstract:
+Programový rozpočet 2027-2029.pdf
+[https://www.valaliky.sk/e_download.php?file=/data/uredni_deska/obsah3880_1.pdf&original=Programový rozpočet 2027-2029.pdf]_ _
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Programový rozpočet 2027-2029.pdf
+Type and size:
+.pdf, 517.69 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/e3f3e8b0-bb1c-4073-9842-2f9d6f3c4a20
+Rok: 2027                                                    Zostava programový rozpočet                                                            27.11.2026
+IČO: 00324850             Názov: Obec Valaliky                                        Sídlo: Poľná 165/8 Valaliky 04413
+
+                                                                    Program:             1
+      Názov:                        Plánovanie, manažment a kontrola
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                      29 900,00                29 900,00               29 900,00
+       Kapitálový rozpočet:                     52 000,00                50 000,00               50 000,00
+        Finančné operácie:                           0,00                     0,00                    0,00
+                       Spolu:                   81 900,00                79 900,00               79 900,00
+      Časovo neohraničené           Dátum od:                             Dátum do:
+
+
+
+
+      Zámer:                    Efektívna samospráva zameraná na rozvoj obce a kvalitu verejného života
+      Komentár:                 V programe sú obsiahnuté aktivity obce súvisiace s jej riadením, strategickým a územným plánovaním, kontrolnou
+                                činnosťou vykonávanou hlavným kontrolórom, audítorské služby, činnosti vykonávané v rámci daňovej a rozpočtovej politiky
+                                obce a verejným obstarávaním. Súčasťou rozpočtovaných zdrojov sú aj výdavky vyplývajúce z členstva v samosprávnych
+                                organizáciách a združeniach.
+                                                                 Podprogram: 1.1
+      Názov:             Manažment
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                      15 500,00                15 500,00               15 500,00
+       Kapitálový rozpočet:                          0,00                     0,00                    0,00
+        Finančné operácie:                           0,00                     0,00                    0,00
+                       Spolu:                   15 500,00                15 500,00               15 500,00
+      Zodpovednosť: Starosta obce, prednostka obecného úradu
+      Zámer:             Dosiahnuť             efektívne         zastupovanie        a       riadenie        úradu         navonok         a         dovnútra
+      Komentár:          V podprograme sú rozpočtované výdavky na cestovné,, reprezentačné a ubytovacie služby a pod. súvisiace s pracovnými
+                         cestami starostu obce a výdavky vynakladané pri návštevách družobnej obce Košťany nad Turcom a mestom Košťany a iné.
+      Cieľ:      Dosiahnuť efektívne zastupovanie a riadenie úradu navonok a dovnútra
+
+
+
+  Mu:                 Počet porád so zamestnancami úradu
+  Komentár:           Pracovné porady sú vedené za účelom plánovania org.-technického zabezpečenia kultúrnych a šport.podujatí organizovaných
+                      obcou.
+  Rok:                             2027                2028                  2029
+  Plánovaná hodnota:               6,00                6,00                  6,00
+
+
+
+
+  Mu:                 Počet stretnutí s družobnou obcou Košťany nad Turcom a mestom Košťany
+  Komentár:           Spoločné stretnutie druž. obcí Valaliky,Košťany nad Turcom a                      mesta    Košťany     -   Týždeň   detskej    radosti
+  Rok:                             2027                2028                  2029
+  Plánovaná hodnota:               1,00                1,00                  1,00
+
+
+
+
+              Zdroj   Fnc         Pol     S1 S2 S3                  Názov účtu               Návrh rozpočtu r.   Návrh rozpočtu r.     Návrh rozpočtu r.
+                                                                                                   2027                2028                  2029
+
+
+1.1            41     0111      631001                     Tuzemské cestovné náhrady              1 500,00                  1 500,00            1 500,00
+1.1            41     1070      633003                     Telekomunikačná technika                   0,00                      0,00                0,00
+1.1            41     0111      633016                     Reprezentačné                         10 000,00                 10 000,00           10 000,00
+1.1            41     0111      634004                     Prepravné a nájom dopravných prostriedkov
+                                                                                                  2 000,00                  2 000,00            2 000,00
+1.1            41     09111     635006                     Budov, objektov alebo ich častí            0,00                      0,00                0,00
+1.1            41     0111      637036     1               Reprezentačné výdavky                  2 000,00                  2 000,00            2 000,00
+1.1            41     0111      711005                     Územný plán                                0,00                      0,00                0,00
+                                                                                   Spolu:        15 500,00                 15 500,00           15 500,00
+
+                                                                    1 / 80
+                                                          Podprogram: 1.2
+   Názov:           Plánovanie
+                                    Návrh                  Návrh                  Návrh
+                             rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:                    6 000,00                  6 000,00                 6 000,00
+    Kapitálový rozpočet:                  52 000,00                 50 000,00                50 000,00
+     Finančné operácie:                        0,00                      0,00                     0,00
+                  Spolu:                  58 000,00                 56 000,00                56 000,00
+   Zodpovednosť: Starosta obce, prednostka obecného úradu
+   Zámer:           Rozvoj kvality života v obci
+   Komentár:
+         Zdroj    Fnc        Pol     S1 S2 S3                  Názov účtu              Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                             2027                2028                2029
+
+
+1.2.2     41      0111     711005                  Územný plán                             22 000,00                   0,00                0,00
+1.2.2     43      0111     711005                  Územný plán                                  0,00                   0,00                0,00
+1.2.2     52      0111     711005                  Územný plán                                  0,00                   0,00                0,00
+1.2.2     46      0111     711005                  Uzemný plán                                  0,00                   0,00                0,00
+1.2.2     46     0620        716                   PD - park Slnečná ul.                        0,00                   0,00                0,00
+1.2.2     43      0111       716                   Prípravná a projektová dokumentácia          0,00                   0,00                0,00
+1.2.2     41     0451        716      1            Prípravná a projektová dokumentácia          0,00                   0,00                0,00
+1.2.2     41      0111       716      3            Prípr. a projekt. dokum.-kanal.,vodovod      0,00                   0,00                0,00
+1.2.2     41     09111       716                   PD - elektroinštalácia MŠ                    0,00                   0,00                0,00
+1.2.2     41     0620        716      1            PD Park slnečná                              0,00                   0,00                0,00
+1.2.2     41     09121       716      6            PD - rozšírenie ZŠ                           0,00                   0,00                0,00
+1.2.2     41      0111       716                   Prípravná a projektová dokumentácia 30 000,00                  50 000,00           50 000,00
+1.2.2     41     09121       716      2            PD - Športová hala                           0,00                   0,00                0,00
+1.2.2    1AA1    0810        716                   PD revitalizácia detského ihriska            0,00                   0,00                0,00
+1.2.2     46      0111       716      2            PD - stánok PNS                              0,00                   0,00                0,00
+1.2.2     46      0111       716      3            PD cyklotrasa                                0,00                   0,00                0,00
+1.2.2     46      0111       716      4            PD pošta                                     0,00                   0,00                0,00
+1.2.2     46     09121       716                   PD-rozšírenie ZŠ                             0,00                   0,00                0,00
+1.2.3     41      0111     637002                  Konkurzy a súťaže                        6 000,00               6 000,00            6 000,00
+                                                                            Spolu:         58 000,00              56 000,00           56 000,00
+                                                           Prvok 1.2.1
+   Názov:               Strategické plánovanie
+                                    Návrh                  Návrh                  Návrh
+                             rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:
+    Kapitálový rozpočet:
+     Finančné operácie:
+                  Spolu:                       0,00                        0,00                   0,00
+
+   Zodpovednosť:        Starosta obce, obecné zastupiteľstvo
+   Komentár:            Prvok predstavuje aktivity obce súvisiace so zadávaním projektov. Výdavky sú obsiahnuté v programe Administratíva.
+   Cieľ: Zabezpečiť rozvojové zdroje pre obec z domácich a cudzích zdrojov
+
+
+
+  Mu:                      Počet                                                  podaných                                             projektov
+  Komentár:                Fond na podporu umenia
+  Rok:                     2027               2028                      2029
+  Plánovaná hodnota: 5,00                     5,00                      5,00
+
+
+
+
+                                                               2 / 80
+                                                          Prvok 1.2.2
+   Názov:               Územné plánovanie
+                                    Návrh                  Návrh                  Návrh
+                             rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:                          0,00                  0,00                  0,00
+    Kapitálový rozpočet:                    52 000,00             50 000,00             50 000,00
+     Finančné operácie:                          0,00                  0,00                  0,00
+                  Spolu:                    52 000,00             50 000,00             50 000,00
+
+   Zodpovednosť:        Starosta obce
+   Komentár:        Prvok obsahuje aktivity súvisiace s projektovými zámermi, projektovou dokumentáciou, vypracúvaním geometrických plánov a
+                    pod.
+   Cieľ: Zabezpečiť podmienky pre stavebný, podnikateľský a urbanistický rozvoj obce
+
+
+
+  Mu:                      Počet novo zahájených stavieb za rok
+  Komentár:                Garáže DP, Rekonštrukcia športovej haly ZŠ
+  Rok:                     2027                 2028                  2029
+  Plánovaná hodnota: 2,00                       2,00                  2,00
+
+
+
+         Zdroj    Fnc         Pol    S1 S2 S3               Názov účtu             Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                         2027                2028                2029
+
+
+1.2.2     41      0111     711005                 Územný plán                             22 000,00                0,00                0,00
+1.2.2     43      0111     711005                 Územný plán                                  0,00                0,00                0,00
+1.2.2     52      0111     711005                 Územný plán                                  0,00                0,00                0,00
+1.2.2     46      0111     711005                 Uzemný plán                                  0,00                0,00                0,00
+1.2.2     46     0620        716                  PD - park Slnečná ul.                        0,00                0,00                0,00
+1.2.2     43      0111       716                  Prípravná a projektová dokumentácia          0,00                0,00                0,00
+1.2.2     41     0451        716        1         Prípravná a projektová dokumentácia          0,00                0,00                0,00
+1.2.2     41      0111       716        3         Prípr. a projekt. dokum.-kanal.,vodovod      0,00                0,00                0,00
+1.2.2     41     09111       716                  PD - elektroinštalácia MŠ                    0,00                0,00                0,00
+1.2.2     41     0620        716        1         PD Park slnečná                              0,00                0,00                0,00
+1.2.2     41     09121       716        6         PD - rozšírenie ZŠ                           0,00                0,00                0,00
+1.2.2     41      0111       716                  Prípravná a projektová dokumentácia 30 000,00               50 000,00           50 000,00
+1.2.2     41     09121       716        2         PD - Športová hala                           0,00                0,00                0,00
+1.2.2    1AA1    0810        716                  PD revitalizácia detského ihriska            0,00                0,00                0,00
+1.2.2     46      0111       716        2         PD - stánok PNS                              0,00                0,00                0,00
+1.2.2     46      0111       716        3         PD cyklotrasa                                0,00                0,00                0,00
+1.2.2     46      0111       716        4         PD pošta                                     0,00                0,00                0,00
+1.2.2     46     09121       716                  PD-rozšírenie ZŠ                             0,00                0,00                0,00
+                                                                           Spolu:         52 000,00           50 000,00           50 000,00
+
+
+
+
+                                                             3 / 80
+                                                            Prvok 1.2.3
+   Názov:                 Verejné obstarávanie
+                                      Návrh                  Návrh                  Návrh
+                               rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:                      6 000,00                  6 000,00                 6 000,00
+    Kapitálový rozpočet:                         0,00                      0,00                     0,00
+     Finančné operácie:                          0,00                      0,00                     0,00
+                    Spolu:                   6 000,00                  6 000,00                 6 000,00
+
+   Zodpovednosť:          Starosta obce, prednostka úradu
+   Komentár:              Prvok predstavuje aktivity zamerané na vypracovanie podkladov pre verejné obstarávanie
+   Cieľ: Zabezpečiť transparentné a prehľadné postupy pri obstarávaní prác, tovarov a služieb
+
+
+
+  Mu:                        Počet                                                 verejných                                            obstarávaní
+
+  Rok:                       2027                2028                  2029
+  Plánovaná hodnota: 5,00                        5,00                  5,00
+
+
+
+           Zdroj   Fnc         Pol      S1 S2 S3              Názov účtu                   Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                                 2027                2028                2029
+
+
+1.2.3       41     0111      637002                Konkurzy a súťaže                               6 000,00            6 000,00            6 000,00
+                                                                                  Spolu:           6 000,00            6 000,00            6 000,00
+
+                                                            Podprogram: 1.3
+   Názov:              Kontrola
+                                      Návrh                  Návrh                  Návrh
+                               rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:
+    Kapitálový rozpočet:
+     Finančné operácie:
+                    Spolu:                       0,00                     0,00                      0,00
+   Zodpovednosť: OcÚ - (Kontrolór obce)
+   Zámer:              Súlad činností a rozhodnutí samosprávy so zákonmi, VZN a vnútornými predpismi obce
+   Komentár:           V podprograme sú rozpočtované výdavky súvisiace s úhradou mzdy obecného kontrolóra (mzdy, poistné, V podprograme sú
+                       rozpočtované výdavky súvisiace s úhradou mzdy obecného kontrolóra (mzdy, poistné, cestovné, školenia a pod.) sú súčasťou
+                       programu Administratíva.
+
+
+
+   Cieľ:      Zabezpečiť efektívnu kontrolu všetkých činností obce
+
+
+
+  Mu:              Celkový počet vykonaných kontrol za bežný kalendárny rok
+  Komentár:        Hlavný kontrolór vykonáva kontrolnú činnosť v zmysle schváleného plánu kontrolnej činnosti.
+  Rok:                          2027               2028                2029
+  Plánovaná hodnota:            10,00              10,00               10,00
+
+
+
+
+                                                              4 / 80
+                                                              Podprogram: 1.4
+   Názov:           Finančná a rozpočtová politika
+                                    Návrh                  Návrh                  Návrh
+                             rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:                      2 700,00                     2 700,00                  2 700,00
+    Kapitálový rozpočet:                         0,00                         0,00                      0,00
+     Finančné operácie:                          0,00                         0,00                      0,00
+                 Spolu:                      2 700,00                     2 700,00                  2 700,00
+   Zodpovednosť: OcÚ (Referentka ekonomických činností)
+   Zámer:           Objektívne          a        nezávislé      overenie         hospodárenia,       účtovníctva      a       finančnej        situácie     obce
+   Komentár:
+         Zdroj   Fnc          Pol       S1 S2 S3                 Názov účtu                   Návrh rozpočtu r.    Návrh rozpočtu r.      Návrh rozpočtu r.
+                                                                                                    2027                 2028                   2029
+
+
+1.4.1       41   0111      637005                     Špeciálne služby                                 2 700,00              2 700,00               2 700,00
+                                                                                     Spolu:            2 700,00              2 700,00               2 700,00
+                                                                Prvok 1.4.1
+   Názov:               Audit
+                                    Návrh                  Návrh                  Návrh
+                             rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+        Bežný rozpočet:                      2 700,00                     2 700,00                  2 700,00
+    Kapitálový rozpočet:                         0,00                         0,00                      0,00
+     Finančné operácie:                          0,00                         0,00                      0,00
+                 Spolu:                      2 700,00                     2 700,00                  2 700,00
+
+   Zodpovednosť:        Referentka ekonomických činností
+   Komentár:            Prvok predstavuje výdavky na zabezpečenie auditu.
+   Cieľ: Zabezpečiť                  nezávislú               kontrolu                hospodárenia              a             vedenia               účtovníctva
+
+
+
+
+  Mu:                      Počet audítorských overení za rok
+  Komentár:                overená               individuálna                 účtovná            závierka             obce                za              rok
+  Rok:                     2027                   2028                    2029
+  Plánovaná hodnota: 1,00                         1,00                    1,00
+
+
+
+
+  Mu:                      Počet výhrad audítora za rok
+  Komentár:                bez výhrad
+  Rok:                     2027                   2028                    2029
+  Plánovaná hodnota: 0                            0                       0
+
+
+
+         Zdroj   Fnc          Pol       S1 S2 S3                 Názov účtu                   Návrh rozpočtu r.    Návrh rozpočtu r.      Návrh rozpočtu r.
+                                                                                                    2027                 2028                   2029
+
+
+1.4.1       41   0111      637005                     Špeciálne služby                                 2 700,00              2 700,00               2 700,00
+                                                                                     Spolu:            2 700,00              2 700,00               2 700,00
+
+
+
+
+                                                                 5 / 80
+                                                         Prvok 1.4.2
+Názov:              Daňová politika
+                                  Návrh                  Návrh                  Návrh
+                           rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+      Bežný rozpočet:
+  Kapitálový rozpočet:
+   Finančné operácie:
+               Spolu:                         0,00                       0,00              0,00
+
+Zodpovednosť:       Referentka daní a poplatkov
+Komentár:        Prvok obsahuje výdavky obce spojené so zabezpečením príjmov obce (pracovníci na úseku daní a poplatkov), ktoré sú
+                 obsiahnuté v programe Administratíva.
+Cieľ: Zabezpečiť                      efektívne                   plnenie                      príjmov                       obce
+
+
+
+
+Mu:                      Podiel získaných daňových príjmov na celkovom predpise v %
+
+Rok:                     2027                2028                   2029
+Plánovaná hodnota: 95,00                     95,00                  95,00
+
+
+
+
+                                                         Prvok 1.4.3
+Názov:              Rozpočtová politika
+                                  Návrh                  Návrh                  Návrh
+                           rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+      Bežný rozpočet:
+  Kapitálový rozpočet:
+   Finančné operácie:
+               Spolu:                         0,00                       0,00              0,00
+
+Zodpovednosť:       Referentka ekonomických činností
+Komentár:           Bežné výdavky na zabezpečenie činnosti sú obsiahnuté v programe Administratíva.
+Cieľ: Finančné plnenie rozpočtu
+
+
+
+Mu:                      Percentuálne plnenie rozpočtu - príjmová časť
+
+Rok:                     2027                2028                   2029
+Plánovaná hodnota: 100,00                    100,00                 100,00
+
+
+
+
+Mu:                      Percentuálne plnenie rozpočtu - výdavková časť
+
+Rok:                     2027                2028                   2029
+Plánovaná hodnota: 100,00                    100,00                 100,00
+
+
+
+
+                                                           6 / 80
+                                                            Podprogram: 1.5
+      Názov:             Členstvo v samosprávnych organizáciách a združeniach
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                     5 700,00                  5 700,00                 5 700,00
+       Kapitálový rozpočet:                        0,00                      0,00                     0,00
+        Finančné operácie:                         0,00                      0,00                     0,00
+                       Spolu:                  5 700,00                  5 700,00                 5 700,00
+      Zodpovednosť: Starosta obce
+      Zámer:             Presadzovanie záujmov obce, výmena skúseností a spoločné riešenie problémov regionálneho charakteru.
+      Komentár:          V podprograme sú rozpočtované finančné prostriedky určené na krytie výdavkov na členské poplatky združeniam a
+                         organizáciám, v ktorých je obec členom.
+      Cieľ:      Zabezpečiť aktívnu participáciu zástupcov obce v samosprávnych organizáciách a združeniach
+
+
+
+  Mu:                 Počet organizácií a združení, v ktorých je obec členom
+  Komentár:           ZMOS, Mikroregión Hornád, RVC Košice, Euroregión Karpaty
+  Rok:                            2027              2028                 2029
+  Plánovaná hodnota:              4,00              4,00                 4,00
+
+
+
+
+              Zdroj   Fnc        Pol     S1 S2 S3               Názov účtu                   Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                                   2027                2028                2029
+
+
+1.5            41     0111      642006               Na členské príspevky                            5 700,00            5 700,00            5 700,00
+                                                                                    Spolu:           5 700,00            5 700,00            5 700,00
+
+
+
+
+                                                                7 / 80
+                                                                  Program:                 2
+      Názov:                        Propagácia a marketing
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                      4 000,00                   4 000,00                 4 000,00
+       Kapitálový rozpočet:                         0,00                       0,00                     0,00
+        Finančné operácie:                          0,00                       0,00                     0,00
+                       Spolu:                   4 000,00                   4 000,00                 4 000,00
+      Časovo neohraničené           Dátum od:                           Dátum do:
+
+
+
+
+      Zámer:                    Obec, ktorú nie je možné prehliadnuť
+      Komentár:
+                                                              Podprogram: 2.1
+      Názov:             Propagácia a marketing
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                      4 000,00                   4 000,00                 4 000,00
+       Kapitálový rozpočet:                         0,00                       0,00                     0,00
+        Finančné operácie:                          0,00                       0,00                     0,00
+                       Spolu:                   4 000,00                   4 000,00                 4 000,00
+      Zodpovednosť: Referentka kultúry
+      Zámer:             Prezentácia obce, jej histórie, kultúry, služieb, zaujímavostí.
+      Komentár:          Program obsahuje bežné výdavky spojené s činnosťou propagácie (platby za grafické návrhy plagátov, pozvánok ...)
+      Cieľ:      Zabezpečiť aktívnu a kvalitnú propagáciu obce a podujatí organizovaných obcou
+
+
+
+  Mu:                 Počet vydaných propagačných materiálov, kníh za rok
+  Komentár:           brožúra, kniha
+  Rok:                             2027              2028                  2029
+  Plánovaná hodnota:               2,00               2,00                 2,00
+
+
+
+
+              Zdroj   Fnc         Pol     S1 S2 S3                Názov účtu                   Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                                     2027                2028                2029
+
+
+2.1            41     0111      637003                Propagácia, reklama a inzercia                   4 000,00            4 000,00            4 000,00
+                                                                              Spolu:                   4 000,00            4 000,00            4 000,00
+
+
+
+
+                                                                  8 / 80
+                                                                  Program:                 3
+      Názov:                        Interné služby
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                     39 470,00                39 470,00                   39 470,00
+       Kapitálový rozpočet:                         0,00                 5 000,00                    5 000,00
+        Finančné operácie:                          0,00                     0,00                        0,00
+                       Spolu:                  39 470,00                44 470,00                   44 470,00
+      Časovo neohraničené           Dátum od:                           Dátum do:
+
+
+
+
+      Zámer:                    Flexibilná a účinná samospráva
+      Komentár:                 Program predstavuje aktivity obce súvisiace so zabezpečovaním právnych služieb pre úrad, s činnosťou orgánov obce,
+                                činnosti súvisiace so zabezpečovaním informatickej podpory obecného úradu a so vzdelávaním zamestnancov obce.
+                                                                 Podprogram: 3.1
+      Názov:             Právne služby
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                      4 200,00                    4 200,00                 4 200,00
+       Kapitálový rozpočet:                         0,00                        0,00                     0,00
+        Finančné operácie:                          0,00                        0,00                     0,00
+                       Spolu:                   4 200,00                    4 200,00                 4 200,00
+      Zodpovednosť: OcÚ
+      Zámer:             Komplexné poradenstvo a riešenie každodenných problémov
+      Komentár:          V podprograme sú rozpočtované finančné prostriedky za právne služby.
+
+      Cieľ:      Zabezpečiť účinné presadzovanie záujmov, práv a nárokov obce
+
+
+
+  Mu:                 Počet hodín právnych služieb poskytnutých právnym poradcom zamestnancom obce
+  Komentár:           Právne služby na základe zmluvy poskytuje zamestnancom OcÚ JUDr. Radomír Jakab, PhD..
+  Rok:                            2027               2028                   2029
+  Plánovaná hodnota:              80,00              80,00                  80,00
+
+
+
+
+              Zdroj   Fnc         Pol     S1 S2 S3                 Názov účtu                   Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                                      2027                2028                2029
+
+
+3.1            41     0111      637005                Špeciálne služby                                  4 200,00            4 200,00            4 200,00
+                                                                                       Spolu:           4 200,00            4 200,00            4 200,00
+
+
+
+
+                                                                   9 / 80
+                                                             Podprogram: 3.2
+      Názov:              Činnosť orgánov obce
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                    16 970,00               16 970,00               16 970,00
+       Kapitálový rozpočet:                        0,00                    0,00                    0,00
+        Finančné operácie:                         0,00                    0,00                    0,00
+                       Spolu:                 16 970,00               16 970,00               16 970,00
+      Zodpovednosť: Starosta obce
+      Zámer:              Odbornosť a efektivita, zapojenie verejnosti pri rozhodovaní o základných otázkach života obce
+      Komentár:           V podprograme sú rozpočtované výdavky na odmeny poslancov Obecného zastupiteľstva Valaliky a členov komisií pri Obecnom
+                          zastupiteľstve Valaliky.
+      Cieľ:      Zabezpečiť výkon samosprávnych funkcií obce
+
+
+
+  Mu:                 Počet zasadnutí komisií pri obecnom zastupiteľstve Valaliky
+  Komentár:           finančná komisia, kultúrno-športová komisia,likvidačná a vyraďovacia komisia, kom.vyhodnocovania cen.ponúk, kom. na ochranu
+                      verejného záujmu
+  Rok:                            2027               2028                  2029
+  Plánovaná hodnota:              20,00              20,00                 20,00
+
+
+
+
+  Mu:                 Počet zasadnutí obecného zastupiteľstva Valaliky
+
+  Rok:                            2027               2028                  2029
+  Plánovaná hodnota:              9,00               9,00                  9,00
+
+
+
+
+              Zdroj   Fnc        Pol      S1 S2 S3              Názov účtu               Návrh rozpočtu r.    Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                               2027                 2028                2029
+
+
+3.2            41     0111        621                Poistné do Všeobecnej zdravotnej pois ovne 900,00                   900,00             900,00
+3.2            41     0111        623                Poistné do ostatných zdravotných pois ovní350,00                    350,00             350,00
+3.2            41     0111      625001               Na nemocenské poistenie                    200,00                   200,00             200,00
+3.2            41     0111      625002               Na starobné poistenie                    1 750,00                 1 750,00           1 750,00
+3.2            41     0111      625003               Na úrazové poistenie                       100,00                   100,00             100,00
+3.2            41     0111      625004               Na invalidné poistenie                     370,00                   370,00             370,00
+3.2            41     0111      625005               Na poistenie v nezamestnanosti             100,00                   100,00             100,00
+3.2            41     0111      625005    1          Na poistné FP                              100,00                   100,00             100,00
+3.2            41     0111      625007               Na poistenie do rezervného fondu solidarity600,00                   600,00             600,00
+3.2            41     0111      637026               Odmeny a príspevky-posl. OZ            12 500,00                 12 500,00          12 500,00
+                                                                             Spolu:         16 970,00                 16 970,00          16 970,00
+
+
+
+
+                                                                 10 / 80
+                                                             Podprogram: 3.3
+      Názov:              Vzdelávanie zamestancov obce
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                    11 900,00                 11 900,00            11 900,00
+       Kapitálový rozpočet:                        0,00                      0,00                 0,00
+        Finančné operácie:                         0,00                      0,00                 0,00
+                       Spolu:                 11 900,00                 11 900,00            11 900,00
+      Zodpovednosť: Prednostka úradu
+      Zámer:              Vysoko profesionálni a odborne zdatní zamestnanci obecného úradu
+      Komentár:           Podprogram obsahuje bežné výdavky na školenia, kurzy, semináre pre zamestnancov obce.
+
+      Cieľ:      Zabezpečiť zvyšovanie odbornosti zamestnancov obce
+
+
+
+  Mu:                 Počet               školení               na              ktorých            sa             zúčastnili             zamestnanci
+                      obce za rok
+  Komentár:           Prac.stretnutie matrikárok, - mzdárok, -starostov, - ekonómov, Seminár- dane a poplatky, Zmeny v soc.službách...
+  Rok:                            2027               2028                    2029
+  Plánovaná hodnota:              30,00              30,00                   30,00
+
+
+
+
+              Zdroj   Fnc        Pol      S1 S2 S3              Názov účtu               Návrh rozpočtu r.   Návrh rozpočtu r.   Návrh rozpočtu r.
+                                                                                               2027                2028                2029
+
+
+3.3            41     0111      631001               Tuzemské cestovné náhrady                  200,00           200,00                     200,00
+3.3            41     0111      637001               Školenia, kurzy, semináre, porady, konferencie,
+                                                                                             11 700,00
+                                                                                                     sympóziá 11 700,00                  11 700,00
+                                                                             Spolu:          11 900,00        11 900,00                  11 900,00
+
+                                                             Podprogram: 3.4
+      Názov:              Rozvoj a údržba informačných technológií
+                                        Návrh                  Návrh                  Návrh
+                                 rozpočtu r. 2027 v Eur rozpočtu r. 2028 v Eur rozpočtu r. 2029 v Eur
+           Bežný rozpočet:                     6 400,00                  6 400,00             6 400,00
+       Kapitálový rozpočet:                        0,00                      0,00                 0,00
+        Finančné operácie:                  

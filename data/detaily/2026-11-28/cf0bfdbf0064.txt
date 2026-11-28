@@ -1,0 +1,1088 @@
+URL: https://cuet.slovensko.sk/en/dokument/05215a3b-6642-4366-b59f-2e626ad9d527
+OBEC: Spišské Bystré (Poprad)
+NÁZOV: Návrh Rozpočet obce na r. 2027 - 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/05215a3b-6642-4366-b59f-2e626ad9d527
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh Rozpočet obce na r. 2027 - 2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Spišské Bystré
+Published from:
+27.11.2026
+Registry symbol:
+OCUSB/S2026/00605
+Documents author:
+Obec Spišské Bystré
+Published to:
+16.12.2026
+Registry case:
+012
+Name of official document:
+Návrh Rozpočet obce na r. 2027 - 2029
+Document abstract:
+Návrh Rozpočet obce na r. 2027 - 2029
+[https://www.spisskebystre.sk/e_download.php?file=/data/uredni_deska/obsah1234_1.pdf&original=programový rozpočet 2027.pdf]_
+Typ: PDF dokument, Veľkosť: 1.2 MB_
+Návrh rozpočtu 2027 výdaje
+[https://www.spisskebystre.sk/e_download.php?file=/data/uredni_deska/obsah1234_2.pdf&original=Návrh rozpočtu 2027 výdaje 1.pdf]_
+Typ: PDF dokument, Veľkosť: 1.39 MB_
+Návrh rozpočtu 2027 príjmy
+[https://www.spisskebystre.sk/e_download.php?file=/data/uredni_deska/obsah1234_3.pdf&original=návrh rozpočtu 2027 príjmy 1.pdf]_
+Typ: PDF dokument, Veľkosť: 360.78 kB_
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh rozpočtu 2027 výdaje 1.pdf
+Type and size:
+.pdf, 1.39 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+programový rozpočet 2027.pdf
+Type and size:
+.pdf, 1.2 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Attachment name:
+návrh rozpočtu 2027 príjmy 1.pdf
+Type and size:
+.pdf, 360.78 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/3263361f-54fb-49ba-81ce-2aca80ffae29
+                                                                                              Programový rozpočet na roky 2027 - 2029
+                                                                                                             Výdaje
+                                                                                                             NÁVRH
+
+
+
+
+Progr.Podpr.Prvok.
+                Ekon.kl. Zdroj An. Názov                                                  Čerpanie      Čerpanie           Schválený      Upravený      Očak.skut.     Návrh          Návrh          Návrh
+                                                                                            2024          2025               2026           2026          2026          2027           2028           2029
+
+1                                  PLÁNOVANIE, MANAŽMENT A KONTROLA
+     1                             Výkon funkcie starostu
+                633016 41          Reprezentačné                                             1 601,89       2 170,50           2 500,00      2 500,00       2 500,00     3 000,00       3 000,00       3 000,00
+     *1                            Výkon funkcie starostu                                    1 601,89       2 170,50           2 500,00      2 500,00       2 500,00     3 000,00       3 000,00       3 000,00
+     2                             Členstvo v samospráv.organ. a združeniach
+                637004 41          Členstvo v samospráv.org.                                   981,90         913,19           1 000,00      3 370,00       3 700,00     3 700,00       3 700,00       3 700,00
+     *2                            Členstvo v samospráv.organ. a združeniach                   981,90         913,19           1 000,00      3 370,00       3 700,00     3 700,00       3 700,00       3 700,00
+     4                             Územ.plán. a achitekt.-urban.zámery a štúdie
+                637011 41          Štúdie, expertízy, posudky                                    0,00           0,00           1 000,00      1 000,00       1 000,00     2 000,00       2 000,00       2 000,00
+                711005 41          Zmena ÚPN                                                 2 915,30       6 000,00           8 000,00      8 000,00       1 000,00     5 000,00           0,00           0,00
+     *4                            Územ.plán. a achitekt.-urban.zámery a štúdie              2 915,30       6 000,00           9 000,00      9 000,00       2 000,00     7 000,00       2 000,00       2 000,00
+     6                             Audit
+                637004 41          Audit                                                     1 920,00       2 066,40           2 000,00      2 000,00       2 000,00     2 200,00       2 200,00       2 200,00
+     *6                            Audit                                                     1 920,00       2 066,40           2 000,00      2 000,00       2 000,00     2 200,00       2 200,00       2 200,00
+     7                             Daňová agenda a politika
+            1   637035 41          Zráž. daň z úroku                                         1 944,14         601,23               0,00          0,00         500,00         0,00           0,00           0,00
+     *7                            Daňová agenda a politika                                  1 944,14         601,23               0,00          0,00         500,00         0,00           0,00           0,00
+*1                                 PLÁNOVANIE, MANAŽMENT A KONTROLA                          9 363,23      11 751,32          14 500,00     16 870,00      10 700,00    15 900,00      10 900,00      10 900,00
+2                                  PROPAGÁCIA A MARKETING
+     1                             Propagácia a prezentácia obce
+                637003 41      1   Propagácia, reklama a inzercia                            2 031,60       4 608,30           2 000,00      2 000,00       2 700,00     2 500,00       2 500,00       2 500,00
+     *1                            Propagácia a prezentácia obce                             2 031,60       4 608,30           2 000,00      2 000,00       2 700,00     2 500,00       2 500,00       2 500,00
+     4                             Obecné noviny
+                637004 41          Obecné noviny                                             1 875,96       3 883,36           2 000,00      2 000,00       3 000,00     4 000,00       4 000,00       4 000,00
+     *4                            Obecné noviny                                             1 875,96       3 883,36           2 000,00      2 000,00       3 000,00     4 000,00       4 000,00       4 000,00
+*2                                 PROPAGÁCIA A MARKETING                                    3 907,56       8 491,66           4 000,00      4 000,00       5 700,00     6 500,00       6 500,00       6 500,00
+3                                  INTERNÉ SLUŽBY OBCE
+     1                             Právne služby obci - zastupovanie obce navonok
+                637005 41          Právne služby obci                                          477,35         150,00           1 000,00      1 000,00       1 000,00     1 000,00       1 000,00       1 000,00
+     *1                            Právne služby obci - zastupovanie obce navonok              477,35         150,00           1 000,00      1 000,00       1 000,00     1 000,00       1 000,00       1 000,00
+     2                             Zasadanie orgánov obce
+                637026 41      1   Odmeny poslancom OZ                                         827,16         711,27           1 000,00      1 000,00       1 000,00     1 000,00       1 000,00       1 000,00
+     *2                            Zasadanie orgánov obce                                      827,16         711,27           1 000,00      1 000,00       1 000,00     1 000,00       1 000,00       1 000,00
+     3                             Zabezpeč.úkonov spoj.s voľbami,refer.,sčítnie a ost.
+                614      111       Odmeny voľby, referendum                                    480,00            0,00              0,00          0,00           0,00           0,00           0,00           0,00
+                614      111   3   Odmeny voľby                                                  0,00            0,00              0,00          0,00         730,00           0,00           0,00           0,00
+                625001   111       Poistné voľby, sčítanie                                     174,05            0,00              0,00          0,00           0,00           0,00           0,00           0,00
+                632003   111       Pošt.a telekom.služby - voľby                                88,70            0,00              0,00          0,00           0,00           0,00           0,00           0,00
+                633006   111       Všeobec.mat.-voľby,referendum                                70,00            0,00              0,00          0,00          70,00           0,00           0,00           0,00
+                633006   111   3   Kancelárske potreby- voľby                                   50,00            0,00              0,00          0,00          20,00           0,00           0,00           0,00
+                633016   111       Reprezentačné - voľby,referendum                            122,50            0,00              0,00          0,00         102,05           0,00           0,00           0,00
+                636001   111       Nájom budovy- voľby                                         470,00            0,00              0,00          0,00         415,00           0,00           0,00           0,00
+                637014   111       Stravovanie-voľby                                           852,60            0,00              0,00          0,00         700,00           0,00           0,00           0,00
+                637026   111   1   Odmeny členom OVK, sčítanie                               3 904,10            0,00              0,00          0,00           0,00           0,00           0,00           0,00
+                637027   111   2   Odmeny za doruč.oznám.o voľbách                             176,66            0,00              0,00          0,00           0,00           0,00           0,00           0,00
+     *3                            Zabezpeč.úkonov spoj.s voľbami,refer.,sčítnie a ost.      6 388,61            0,00              0,00          0,00       2 037,05           0,00           0,00           0,00
+     4                             Verejné obstaranie
+                637002 41      1   Konkurzy a súťaže-verej.obstarávanie                          0,00       2 280,00           2 000,00     18 810,00      18 800,00    10 000,00       2 000,00       2 000,00
+     *4                            Verejné obstaranie                                            0,00       2 280,00           2 000,00     18 810,00      18 800,00    10 000,00       2 000,00       2 000,00
+
+
+
+
+                                                                                                            Strana 1 z 9
+                                                                                             Programový rozpočet na roky 2027 - 2029
+                                                                                                            Výdaje
+                                                                                                            NÁVRH
+
+Progr.Podpr.Prvok.
+                Ekon.kl. Zdroj An. Názov                                                 Čerpanie      Čerpanie           Schválený      Upravený      Očak.skut.     Návrh        Návrh        Návrh
+                                                                                           2024          2025               2026           2026          2026          2027         2028         2029
+     6                              Nehnuteľný majetok obce-budovy, objekty
+            1    632001   41        Elektrina OcU                                           5 642,03       3 698,47           8 000,00          0,00           0,00         0,00         0,00         0,00
+            1    632001   41   2    Plyn OcÚ                                                6 309,56       9 041,16           9 000,00          0,00           0,00         0,00         0,00         0,00
+            1    632002   41   1    Voda - OcÚ                                                295,44         547,08             300,00        300,00         300,00       350,00       350,00       350,00
+            1    632006   41        Elektrina oú                                                0,00           0,00               0,00      8 000,00       7 000,00     7 000,00     7 000,00     7 000,00
+            1    632007   41   2    Plyn OcÚ                                                    0,00           0,00               0,00      9 000,00      10 000,00    12 000,00    12 000,00    12 000,00
+            1    635004   41        Údržba prevádzk. zariadení, techniky                        0,00          45,43             200,00        200,00          50,00       200,00       200,00       200,00
+            1    635006   41   1    Údržba budov, priest.a objek.-OÚ                        1 189,63       1 976,94           2 000,00      2 000,00       1 500,00     2 000,00     2 000,00     2 000,00
+            1    717002   41   6    Rekonštrukcia a modernizácia-budova OÚ pošta                0,00      26 979,88               0,00          0,00           0,00         0,00         0,00         0,00
+            2    717001   111       Atletická dráha ZŚ                                          0,00           0,00               0,00     80 000,00      80 000,00         0,00         0,00         0,00
+            2    717001   41   11   Parkovisko ZŚ                                               0,00       2 430,00               0,00          0,00           0,00         0,00         0,00         0,00
+            2    717001   41   22   Park ZŚ                                                     0,00           0,00         100 000,00    100 000,00           0,00   100 000,00         0,00         0,00
+            2    717001   46        Atletická dráha ZŚ spoluúčasť                               0,00           0,00          20 000,00     20 000,00      18 400,00         0,00         0,00         0,00
+            2    717001   46   12   Parkovisko ZŚ                                               0,00           0,00          48 000,00     48 000,00           0,00    65 000,00         0,00         0,00
+            2    717002   111 2     Dotácia ZŠ-odstránenie HS plynovej kotolne                  0,00      10 000,05               0,00          0,00           0,00         0,00         0,00         0,00
+            2    717002   131N      Dotácia ZŠ-odstránenie HS plynovej kotolne             78 835,92      80 864,08               0,00          0,00           0,00         0,00         0,00         0,00
+            2    717002   46   6    Rekonštrukcia ZŠ-zníženie energ.náročn. spoluúčasť          0,00           0,00          60 000,00     60 000,00           0,00    60 000,00         0,00         0,00
+            3    632001   41        Elektrina - DS                                            825,00       1 513,10           1 500,00          0,00           0,00         0,00         0,00         0,00
+            3    632002   41        Voda- cintorín+DS                                          63,39          90,02              80,00         80,00         100,00       120,00       120,00       120,00
+            3    632006   41        Elektrina DS                                                0,00           0,00               0,00      1 500,00       1 500,00     2 000,00     2 000,00     2 000,00
+            3    635006   41   3    Oprava,údržba DS a cintorín                                 0,00       1 559,51           3 000,00      3 000,00       1 000,00     1 000,00     1 000,00     1 000,00
+            4    632001   41   1    Elektrina DHZO                                            938,50         945,56           1 500,00          0,00           0,00         0,00         0,00         0,00
+            4    632001   41   2    Plyn DHZO                                               2 855,64       4 781,69           4 600,00          0,00           0,00         0,00         0,00         0,00
+            4    632002   41        Voda - DHZO                                                 8,31          15,54              30,00        130,00         130,00       130,00       130,00       130,00
+            4    632006   41   1    Elektrina DHZO                                              0,00           0,00               0,00      1 500,00       1 500,00     1 600,00     1 600,00     1 600,00
+            4    632007   41   2    Plyn DHZO                                                   0,00           0,00               0,00      4 600,00       6 000,00     8 000,00     8 000,00     8 000,00
+            4    635006   41   4    Údržba budov-Hasičská zbrojnica                             0,00           0,00             100,00        100,00         100,00       200,00       200,00       200,00
+            5    632001   41   3    Elektrina ihrisko                                         583,00         253,00           1 000,00          0,00           0,00         0,00         0,00         0,00
+            5    632006   41   3    Elektrina ihrisko                                           0,00           0,00               0,00      1 000,00       1 000,00     1 000,00     1 000,00     1 000,00
+            7    632001   41        Energie-býv.kino                                        9 600,37       4 664,98           8 000,00      8 000,00           0,00         0,00         0,00         0,00
+            7    632002   41        Vodné, stočné býv.kino.                                     0,00           0,00               0,00          0,00           0,00     1 000,00     1 000,00     1 000,00
+            7    632006   41        Elektrina býv.kino                                          0,00           0,00               0,00          0,00           0,00     8 000,00     8 000,00     8 000,00
+            7    632007   41        Plyn býv.kino                                               0,00           0,00               0,00          0,00           0,00       200,00       200,00       200,00
+            7    635006   41   6    Údržba budov-býv.budova kina                                0,00         159,42             500,00        500,00         500,00       500,00       500,00       500,00
+            8    635004   41   1    Revízie a kontroly zariadení                            7 245,92         940,00           2 800,00      2 800,00         800,00       800,00       800,00       800,00
+            13   717001   46        Športové ihrisko                                            0,00           0,00          70 000,00     70 000,00           0,00         0,00         0,00         0,00
+            14   717001   45        Dotácia Fond na podp.umenia-Amfiteáter Kubašok              0,00           0,00               0,00    200 000,00           0,00         0,00         0,00         0,00
+            14   717001   46   92   Amfiteáter Kubašok                                          0,00           0,00          25 000,00     25 000,00           0,00    35 000,00         0,00         0,00
+            19   633006   41        Všeobec. mat.-obec                                      3 000,00       4 632,92           4 500,00      4 500,00       4 500,00     4 500,00     4 500,00     4 500,00
+            19   637004   111       Starostlivosť o vojnové hroby                             150,85         164,15             125,00        125,00         125,00       125,00       125,00       125,00
+            19   637004   41        Terénne úpravy ul.Vodárenská                            4 536,00           0,00               0,00          0,00           0,00         0,00         0,00         0,00
+            19   637005   1P01 1    Dotácia pasportizácia budov                                 0,00           0,00               0,00     30 627,00      30 627,00         0,00         0,00         0,00
+            19   637005   41   3    Žiadosti o NFP                                              0,00       7 720,50               0,00          0,00           0,00         0,00         0,00         0,00
+            19   716      1BA1 1    Prípravná a projektová dokumentácia MRK                     0,00           0,00               0,00          0,00      38 683,00         0,00         0,00         0,00
+            19   716      1BA2 1    Prípravná a projektová dokumentácia MRK                     0,00           0,00               0,00          0,00       6 826,00         0,00         0,00         0,00
+            19   716      41   1    Prípravná a projektová dokumentácia                    31 752,00      15 405,00          45 000,00     40 500,00      26 500,00    20 000,00         0,00         0,00
+            19   716      46   1    Prípravná a projektová dokumentácia                         0,00      14 999,85               0,00          0,00           0,00         0,00         0,00         0,00
+            19   717001   41        Oplotenie areálu ZŠ                                         0,00           0,00               0,00      7 000,00       7 000,00         0,00         0,00         0,00
+            21   637015   41        Poistné                                                 1 637,68       1 618,70           1 700,00      1 700,00       1 900,00     2 000,00     2 000,00     2 000,00
+     *6                             Nehnuteľný majetok obce-budovy, objekty               155 469,24     195 047,03         416 935,00    730 162,00     246 041,00   332 725,00    52 725,00    52 725,00
+     7                              Nehnuteľný majetok obce-pozemky
+            1    711001 41          Pozemky                                                     0,00         869,38          35 000,00     26 351,00       9 700,00    35 000,00    20 000,00           0,00
+            1    711001 46     1    Pozemky                                                     0,00           0,00               0,00          0,00           0,00   100 000,00         0,00           0,00
+            1    711001 46     2    Výkup pozemkov                                         11 251,79           0,00               0,00          0,00           0,00         0,00         0,00           0,00
+
+
+
+
+                                                                                                           Strana 2 z 9
+                                                                                       Programový rozpočet na roky 2027 - 2029
+                                                                                                      Výdaje
+                                                                                                      NÁVRH
+
+Progr.Podpr.Prvok.
+                Ekon.kl. Zdroj An. Názov                                          Čerpanie       Čerpanie           Schválený      Upravený       Očak.skut.     Návrh         Návrh         Návrh
+                                                                                    2024           2025               2026           2026           2026          2027          2028          2029
+            2   637004 41         Geometrické plány                                   1 330,00         700,00           2 000,00       2 000,00       1 000,00      1 000,00      1 000,00      1 000,00
+     *7                           Nehnuteľný majetok obce-pozemky                    12 581,79       1 569,38          37 000,00      28 351,00      10 700,00   136 000,00      21 000,00      1 000,00
+     8                            Vzdelávanie zamestnancov obce
+                637001 41         Škol.kurzy,semin.porady,konf.                        503,97          330,00           1 000,00       1 500,00       1 500,00     1 500,00      1 500,00      1 500,00
+     *8                           Vzdelávanie zamestnancov obce                        503,97          330,00           1 000,00       1 500,00       1 500,00     1 500,00      1 500,00      1 500,00
+     9                            Archív a registratúra
+                637004 41         Všeobecné služby-registratúra a archív              1 743,66         221,40             500,00        500,00          500,00       500,00        500,00        500,00
+     *9                           Archív a registratúra                               1 743,66         221,40             500,00        500,00          500,00       500,00        500,00        500,00
+     10                           Autodoprava
+            1   634001   41       PHM VW,Citroen                                      2 010,77       1 673,72           2 000,00       2 000,00       2 000,00     2 500,00      2 500,00      2 500,00
+            1   634002   41       Servis, údržba, opravy a výdavky -os.autá           2 000,00       1 794,02           3 000,00       3 000,00       3 000,00     3 000,00      3 000,00      3 000,00
+            1   634003   41    1 Poistenie Citroen, VW                                  732,95         821,63             850,00         850,00         850,00       900,00        900,00        900,00
+            3   634001   41       PHM mazivá,oleje,špec.kvap.DHZO                       172,20         433,08             500,00         500,00         500,00       500,00        500,00        500,00
+            3   634002   111   2 Servis, údržba, opravy a výdavky -autá DHZO            334,00           0,00               0,00           0,00           0,00         0,00          0,00          0,00
+            3   634002   41       Opravy,údržba auta-DHZO                               249,40         228,00             200,00         200,00         200,00       200,00        200,00        200,00
+            3   634003   41       Poistenie DHZO vozidla                                972,15       1 037,08           1 400,00       1 400,00       1 400,00     1 600,00      1 600,00      1 600,00
+            5   634001   41       PHM Traktor                                           642,47         834,04           1 000,00       1 000,00       1 300,00     1 500,00      1 500,00      1 500,00
+            5   634002   41       Servis, údržba, opravy a výdavky -traktor               0,00           0,00               0,00       3 200,00       3 700,00     3 200,00      3 200,00      3 200,00
+            5   634003   41       Poistenie traktor                                      97,67         173,20             120,00         210,00         285,00       300,00        300,00        300,00
+            5   714004   41    1 Traktorový príves s príslušenstvom                       0,00           0,00               0,00       4 500,00       4 428,00         0,00          0,00          0,00
+     *10                          Autodoprava                                         7 211,61       6 994,77           9 070,00      16 860,00      17 663,00    13 700,00     13 700,00     13 700,00
+     11                           Služby zamestnanosti (ÚPSVaR)
+            3   634001 111        PHM DHZO                                                0,00         250,07               0,00           0,00           0,00         0,00          0,00          0,00
+     *11                          Služby zamestnanosti (ÚPSVaR)                           0,00         250,07               0,00           0,00           0,00         0,00          0,00          0,00
+     12                           Protipovodňové opatrenia
+                717002 46         Rekonštrukcia most Kubašok                             0,00            0,00          75 000,00      75 000,00      73 000,00         0,00          0,00          0,00
+     *12                          Protipovodňové opatrenia                               0,00            0,00          75 000,00      75 000,00      73 000,00         0,00          0,00          0,00
+*3                                INTERNÉ SLUŽBY OBCE                              185 203,39      207 553,92         543 505,00     873 183,00     372 241,05   496 425,00     93 425,00     73 425,00
+4                                 SLUŽBY OBČANOM
+     1                            Organizácia občianskych obradov
+                633016 41         Občianske obrady                                    2 326,61       1 635,28           2 000,00       2 000,00       2 000,00     2 500,00      2 500,00      2 500,00
+     *1                           Organizácia občianskych obradov                     2 326,61       1 635,28           2 000,00       2 000,00       2 000,00     2 500,00      2 500,00      2 500,00
+     2                            Matričný úrad
+            1   611      111   1 Hrubé mzdy-MATRIKA                                  7 357,00        7 444,67           7 357,00       7 357,00       7 357,00     7 357,00      7 357,00      7 357,00
+            1   614      111      Odmeny 800€ MF SR- matrika PK                          0,00          533,28               0,00           0,00           0,00         0,00          0,00          0,00
+            1   625002   111      Zák.poist.- MATRIKA                                2 560,70        2 752,71           2 561,00       2 561,00       2 560,00     2 561,00      2 561,00      2 561,00
+            1   633006   111      Kancelárske potreby-matrika                          112,50          147,60             170,00         170,00         170,00       170,00        170,00        170,00
+            1   637004   111   4 Všeob služby - matrika                                616,80          581,40             559,00         559,00         559,00       559,00        559,00        559,00
+     *2                           Matričný úrad                                     10 647,00       11 459,66          10 647,00      10 647,00      10 646,00    10 647,00     10 647,00     10 647,00
+     4                            Evidencia obyvateľstva
+                611      111   5 Hrubé mzdy- Evidencia obyv.                           505,10          620,05             600,00        600,00          600,00       600,00        600,00        600,00
+                625002   111   5 Odvody-Evidencia obyv.                                200,00          200,00             200,00        200,00          200,00       200,00        200,00        200,00
+                633006   111      Všeob,mat.-register obyv.                            110,00            0,00               0,00          0,00            0,00         0,00          0,00          0,00
+                633006   111   11 Kancelárske potreby-register adries                   46,80           42,00              47,00         47,00           47,00        47,00         47,00         47,00
+     *4                           Evidencia obyvateľstva                               861,90          862,05             847,00        847,00          847,00       847,00        847,00        847,00
+     7                            Cintorínske a pohrebné služby
+                633006   41       Materiál - DS                                         21,23          104,94             300,00         300,00         300,00       300,00        300,00        300,00
+                637004   41       Všeobecné služby-cintorín                              0,00            0,00             500,00         500,00         500,00       500,00        500,00        500,00
+                717002   111      Rekonštrukcia múru na cintoríne-dotácia MF SR          0,00            0,00               0,00      29 750,00      29 750,00         0,00          0,00          0,00
+                717002   46       Rekonštrukcia múru na cintoríne                        0,00            0,00          92 000,00      92 000,00      68 200,00         0,00          0,00          0,00
+     *7                           Cintorínske a pohrebné služby                         21,23          104,94          92 800,00     122 550,00      98 750,00       800,00        800,00        800,00
+     8                            Miestny rozhlas
+                635004 41         Opravy,údržba-miestny rozhlas                        252,00          309,33             500,00        500,00          500,00     1 000,00        500,00        500,00
+     *8                           Miestny rozhlas                                      252,00          309,33             500,00        500,00          500,00     1 000,00        500,00        500,00
+
+
+
+
+                                                                                                     Strana 3 z 9
+                                                                                         Programový rozpočet na roky 2027 - 2029
+                                                                                                        Výdaje
+                                                                                                        NÁVRH
+
+Progr.Podpr.Prvok.
+                Ekon.kl. Zdroj An. Názov                                             Čerpanie      Čerpanie           Schválený      Upravený      Očak.skut.     Návrh          Návrh          Návrh
+                                                                                       2024          2025               2026           2026          2026          2027           2028           2029
+     9                           Miestna knižnica
+                633009   131N    Knihy - dotácia 2023                                   1 000,00           0,00              0,00           0,00           0,00         0,00           0,00           0,00
+                633009   131O    Knihy - dotácia 2024                                       0,00       1 100,00              0,00           0,00           0,00         0,00           0,00           0,00
+                633009   131P    Knihy - dotácia 2025                                       0,00           0,00              0,00       1 000,00       1 000,00         0,00           0,00           0,00
+                633009   41      Knihy,časop.noviny KNIŽNICA                              465,80         262,31            500,00         500,00         500,00       500,00         500,00         500,00
+     *9                          Miestna knižnica                                       1 465,80       1 362,31            500,00       1 500,00       1 500,00       500,00         500,00         500,00
+     10                          Stavebný úrad
+                611      111 3 Hrubé mzdy-STAV.ÚRAD                                     3 171,55       2 875,44           3 171,00      3 171,00       3 171,00     3 171,00       3 171,00       3 171,00
+                614      111     Odmeny 800€ MF SR- stavebný úrad PK                        0,00         320,00               0,00          0,00           0,00         0,00           0,00           0,00
+                625002   111     Odvody-STAV.ÚRAD                                         963,70       1 420,05             931,00        931,00         931,00       931,00         931,00         931,00
+                637004   111     Všeob.služby - stav.úrad                                   0,00           0,00              36,00         36,00          36,00        36,00          36,00          36,00
+     *10                         Stavebný úrad                                          4 135,25       4 615,49           4 138,00      4 138,00       4 138,00     4 138,00       4 138,00       4 138,00
+*4                               SLUŽBY OBČANOM                                        19 709,79      20 349,06         111 432,00    142 182,00     118 381,00    20 432,00      19 932,00      19 932,00
+5                                BEZPEČNOSŤ, PRÁVO A PORIADOK
+     1                           Civilná obrana
+                637026   41      Odmeny a príspevky- CO                                   279,18         303,71            210,00         210,00         254,00       260,00         260,00         260,00
+     *1                          Civilná obrana                                           279,18         303,71            210,00         210,00         254,00       260,00         260,00         260,00
+     2                           Ochrana pred požiarmi
+                633006   111 9 Materiál -činnosť DHZO                                   1 750,91       2 454,08           2 000,00      3 000,00       4 500,00     3 000,00       3 000,00       3 000,00
+                633006   41   2 Mat.-činn.DHZO/výstroj,výzbroj,mobilita ap.                93,00           0,00             500,00        500,00         500,00       500,00         500,00         500,00
+                637001   111     Školenia, kurzy, odb.výcvik-DHZO                       1 120,00           0,00           1 000,00      2 000,00       1 000,00     2 000,00       2 000,00       2 000,00
+                637004   111 9 Služby-DHZO                                                  0,00         699,87               0,00          0,00           0,00         0,00           0,00           0,00
+                637004   41      Služby - DHZO                                            133,36         237,33             350,00        350,00         350,00       500,00         500,00         500,00
+     *2                          Ochrana pred požiarmi                                  3 097,27       3 391,28           3 850,00      5 850,00       6 350,00     6 000,00       6 000,00       6 000,00
+*5                               BEZPEČNOSŤ, PRÁVO A PORIADOK                           3 376,45       3 694,99           4 060,00      6 060,00       6 604,00     6 260,00       6 260,00       6 260,00
+6                                ODPADOVÉ HOSPODÁRSTVO
+     1                           Zvoz, odvoz a zneškodnenie odpadu
+                633004   41      Kompostéry                                                 0,00           0,00               0,00          0,00           0,00    90 000,00           0,00           0,00
+                637004   41   1 Odvoz, zneškodnenie odpadu                             90 000,10      64 789,11         110 000,00    110 000,00      90 000,00    90 000,00      90 000,00      90 000,00
+                637004   45      Odvoz, zneškodnenie odpadu                                 0,00       2 981,61               0,00      2 528,00       2 528,00         0,00           0,00           0,00
+                637037   131N    Vratky-dotácia predchádzanie vzniku neleg.skládky      2 500,00           0,00               0,00          0,00           0,00         0,00           0,00           0,00
+     *1                          Zvoz, odvoz a zneškodnenie odpadu                     92 500,10      67 770,72         110 000,00    112 528,00      92 528,00   180 000,00      90 000,00      90 000,00
+     2                           Zberný dvor
+                717001   46   89 Zberný dvor                                                0,00            0,00         61 000,00     61 000,00           0,00    71 000,00             0,00           0,00
+     *2                          Zberný dvor                                                0,00            0,00         61 000,00     61 000,00           0,00    71 000,00             0,00           0,00
+     3                           Nakladanie s odpadovými vodami
+            1   632001   41      Elektrina- ČOV                                        20 387,12      10 534,94          14 000,00          0,00           0,00         0,00           0,00           0,00
+            1   632006   41      Elektrina čov                                              0,00           0,00               0,00     14 000,00       8 000,00     8 000,00       8 000,00       8 000,00
+            1   635004   41      Servis, údržba, opr.--ČOV+kanal.                       5 853,95      11 701,52          14 124,00     14 124,00      10 000,00    10 000,00      10 000,00      10 000,00
+            1   637027   41      Dohody o vykonaní práce-ČOV                            3 238,80       3 250,80           3 250,00      3 250,00       3 250,00     3 250,00       3 250,00       3 250,00
+            2   717001   46      Rozšírenie kanalizácie                                     0,00           0,00         240 000,00    240 000,00      90 827,00    93 000,00           0,00           0,00
+            2   717002   41   8 Rekonštrukcia ČOV, kanalizácie                          4 310,24       3 542,40          10 000,00     10 000,00           0,00    10 000,00           0,00           0,00
+     *3                          Nakladanie s odpadovými vodami                        33 790,11      29 029,66         281 374,00    281 374,00     112 077,00   124 250,00      21 250,00      21 250,00
+*6                               ODPADOVÉ HOSPODÁRSTVO                                126 290,21      96 800,38         452 374,00    454 902,00     204 605,00   375 250,00     111 250,00     111 250,00
+8                                POZEMNÉ KOMUNIKÁCIE
+     1                           Správa a údržba pozem.komunikácií
+                635006   41   2 Správa a udržba ciest                                   9 916,98         230,05           4 000,00     14 936,00      19 000,00    10 315,00       8 000,00       8 000,00
+     *1                          Správa a údržba pozem.komunikácií                      9 916,98         230,05           4 000,00     14 936,00      19 000,00    10 315,00       8 000,00       8 000,00
+     2                           Rekonštrukcia komunikácií
+                717002   46      Rekonštrukcia miestnej komunikácie                   119 194,67       4 386,00          20 000,00     20 000,00      17 000,00   150 000,00             0,00           0,00
+     *2          
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/5580f506-870a-438f-a4a3-9404ff3f6300
+    OBEC SPIŠSKÉ BYSTRÉ
+
+      Programový rozpočet
+         obce - NÁVRH
+                                   na r.2027 - 2029
+
+
+
+
+Schválený OZ dňa ......... uznesením č............
+               Programový rozpočet Obce Spišské Bystré
+                        na roky 2027 – 2029
+          Rozpočet obce je základným nástrojom finančného hospodárenia v príslušnom rozpočtovom roku, ktorým
+sa riadi financovanie úloh a funkcií obce v príslušnom rozpočtovom roku. Rozpočet obce je súčasťou rozpočtu
+sektora verejnej správy.
+
+        Rozpočtový rok je zhodný s kalendárnym rokom.
+
+        Rozpočet obce vyjadruje samostatnosť hospodárenia obce. Obsahuje príjmy a výdavky, v ktorých sú
+vyjadrené finančné vzťahy k právnickým osobám a fyzickým osobám – podnikateľom pôsobiacim na území obce,
+ako aj k obyvateľom žijúcim na tomto území vyplývajúce pre ne zo zákonov a z iných všeobecne záväzných
+právnych predpisov, zo všeobecne záväzných nariadení obce, ako aj zo zmlúv. Rozpočet obce zahŕňa aj finančné
+vzťahy podľa § 3 ods.1 – dotácie na úhradu nákladov preneseného výkonu štátnej správy.
+
+
+         Programový rozpočet Obce Spišské Bystré na rok 2026-2028 je zostavený v súlade s nasledovnými
+právnymi normami:
+    •    zákonom č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení
+         niektorých zákonov v znení neskorších predpisov,
+    •    zákonom č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení niektorých
+         zákonov v znení neskorších predpisov,
+    •    zákonom č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene
+         a doplnení niektorých zákonov v znení neskorších predpisov
+    •    zákonom č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov,
+    •    s nariadením vlády č. 668/2004 Z. z. o rozdeľovaní a poukazovaní výnosu dane z príjmov územnej
+         samospráve
+    •    zákonom č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+         stavebné odpady v znení neskorších predpisov
+    •    zákonom č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení v znení
+         neskorších predpisov
+    •    s opatrením MF SR č. MF/010175/2004-42 zo dňa 8.12.2004 v znení neskorších predpisov, ktorým sa
+         ustanovuje druhová klasifikácia, organizačná klasifikácia a ekonomická klasifikácia rozpočtovej
+         klasifikácie,
+    •    v súlade so Zásadami nakladania s finančnými prostriedkami Obce Spišské Bystré v znení neskorších
+         predpisov.
+K legislatívnym východiskám tvorby a schvaľovania rozpočtu obce ďalej patria najmä:
+    • ústavný zákon č. 493/2011 Z. z. o rozpočtovej zodpovednosti,
+    • zákon č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a o zmene a
+         doplnení niektorých zákonov a nariadenie vlády SR č. 668/2004 Z. z. o rozdeľovaní výnosu dane z
+         príjmov územnej samospráve.
+
+
+               Programový rozpočet Obce Spišské Bystré na rok 2027
+        Programový rozpočet Obce Spišské Bystré na rok 2027 je navrhnutý ako vyrovnaný, t.j. rozdiel medzi
+príjmami a výdavkami (vrátane príjmových a výdavkových finančných operácií) je 0. Bežný rozpočet je
+navrhovaný ako prebytkový vo výške 299 262,-€, kapitálový rozpočet je rozpočtovaný so schodkom
+949 000,- € a finančné operácie s prebytkom 649 738 ,- €. Schodok kapitálového rozpočtu je krytý prebytkom
+bežného rozpočtu Obce Spišské Bystré a čerpaním rezervného fondu.
+        Návrh rozpočtu je zostavený ako programový t.j. zdôrazňujúci vzťah medzi rozpočtovými výdavkami
+a očakávanými výstupmi a výsledkami realizovaných rozpočtových programov a aktivít. Pre roky 2027-2029 je
+rozpočtovaných 18 programov, ktoré predstavujú 73 podprogramov slúžiacich k plneniu zámeru jednotlivých
+programov.
+        Príjmová časť návrhu rozpočtu počíta s úpravou.
+        Návrh Programového rozpočtu Obce Spišské Bystré na roky 2027-2029 je uvedený v tabuľkovej časti
+Programového rozpočtu. Rozpočet na roky 2028-2029 nie je v zmysle § 9 ods.3 zákona č. 583/2004 Z. z.
+o rozpočtových pravidlách územnej samosprávy a o zmene a doplnení niektorých zákonov v znení neskorších
+predpisov záväzný.
+           Obec pri zostavovaní rozpočtu na r.2027 vychádza z platnej výnimky na uplatňovanie sankcií podľa Čl.
+12 ods. 10 ústavného zákona č.493/2011 Z. z. o rozpočtovej zodpovednosti a pri tvorbe rozpočtu a jeho zmenách
+postupuje v súlade s ustanoveniami zákona č. 583/2004 Z .z. o rozpočtových pravidlách územnej samosprávy bez
+obmedzení dlhovej brzdy.
+
+
+
+                  1. P R Í J M O V Á                                     Č AS Ť
+      Tabuľka č.1: v €
+
+
+  Ekon. klasifikácia                     2027                   2028                    2029
+  Druh príjmov
+  100 Daňové príjmy                   1 356 538,00            1 376 576,00            1 376 576,00
+  z toho :
+  110 Dane z príjmov                     1 200 268,00            1 220 306,00            1 220 306,00
+  120 Dane z majetku                        34 670,00               34 670,00               34 670,00
+  130 Dane za tovary a služby              121 600,00              121 600,00              121 600,00
+
+  200 Nedaňové príjmy                   379 844,00              379 844,00               379 844,00
+  z toho:
+  210 Príjmy z vlastníctva                 76 804,00                76 804,00               76 804,00
+  220 Poplatky                            303 040,00               303 040,00              303 040,00
+  240 Úroky z vkladov                              0                        0                       0
+  290 Iné nedaňové príjmy                          0                        0                       0
+
+  300 Granty a transfery              1 706 545,00            1 706 545,00            1 653 451,00
+  z toho:
+  310 Tuzemské granty a trans.           1 706 545,00            1 706 545,00            1 653 451,00
+  330 Zahraničné granty                             0                       0                       0
+
+  Bežné príjmy spolu                  3 442 927,00            3 462 965,00            3 409 871,00
+  Z toho príjmy RO s právnou
+  subjektivitou                           114 700,00               114 700,00              114 700,00
+
+  400 Príjmové FO                       759 000,00                          0                       0
+  z toho :
+  450 Z ostatných FO                      759 000,00                        0                        0
+
+  Príjmy spolu                        4 201 927,00            3 462 965,00            3 409 871,00
+Bežné príjmy                                                                                3 442 927,- €
+
+
+1. Daňové príjmy                                                                            1 356 538,- €
+
+1.1. Výnos dane z príjmov poukázaný územnej samospráve                                         1 200 268 ,- €
+     V zmysle zákona č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve
+a o zmene a doplnení niektorých zákonov v znení neskorších výnos dane z príjmov fyzických osôb je príjmov
+rozpočtu obcí vo výške 55,1%. Výnos dane sa rozdeľuje podľa kritérií v zmysle nariadenia vlády č. 668/2004 Z.
+z. o rozdeľovaní výnosu dane z príjmov územnej samospráve nasledovne:
+     a) 28% podľa počtu obyvateľov obce s trvalým pobytom na území obce k 1.januáru predchádzajúceho
+         kalendárneho roka, z toho 57 % prepočítaný koeficientom nadmorskej výšky stredu obce,
+     b) 40% podľa počtu obyvateľov obce s trvalým pobytom na území obce k 1.januáru predchádzajúceho
+         kalendárneho roka prepočítaného koeficientom v závislosti od zaradenia obce do veľkostnej kategórie,
+     c) 24,9% podľa počtu žiakov (detí) základných umeleckých škôl a školských zariadení v zriaďovateľskej
+         pôsobnosti obce vrátane neštátnych škôl a školských zariadení k 15. septembru predchádzajúceho
+         kalendárneho roka prepočítaného koeficientom základnej umeleckej školy a školského zariadenia,
+     d) 6,3% podľa počtu obyvateľov obce, ktorí dovŕšili vek šesťdesiatdva rokov, s trvalým pobytom na území
+         obce k 1. januáru predchádzajúceho kalendárneho roka.
+
+1.2. Daň z nehnuteľnosti                                                                           34 670,- €
+     Daň z nehnuteľnosti upravuje zákon č. 582/2004 o miestnych daniach a poplatku za komunálne odpady
+a drobné stavebné odpady v znení neskorších predpisov. Daň z nehnuteľností sa člení na daň z pozemkov, daň zo
+stavieb a daň z bytov a nebytových priestorov. Pre vyrubenie dane je rozhodujúci stav k 1.januáru zdaňovacieho
+obdobia. Na zmeny skutočností rozhodujúcich pre daňovú povinnosť, ktoré nastanú v priebehu zdaňovacieho
+obdobia sa neprihliada, ak zákon neustanovuje inak.
+Sadzby dane z nehnuteľností sú upravené vo VZN č.9/2024 o miestnych daniach a miestnom poplatku za
+komunálne odpady a drobné stavebné odpady.
+
+1.3. Daň za užívanie verejného priestranstva                                                         1 000,- €
+     Predmetom dane za užívanie verejného priestranstva je v zmysle zákona č.582/2004 Z. z. o miestnych daniach
+a poplatku za komunálne odpady a drobné stavebné odpady v znení neskorších predpisov, zákona č. 563/2009 Z.
+z. o správe daní a o zmene a doplnení niektorých zákonov v znení neskorších predpisov osobitné užívanie
+verejného priestranstva (umiestnenie zariadenia na poskytovanie služieb, stavebného zariadenia, predajného
+zariadenia, lunaparku a iných atrakcií, skládky, trvalé parkovanie vozidla).
+
+1.4. Poplatok za komunálne odpady a drobný stavebný odpad                                         115 000,- €
+     Miestny poplatok za komunálne odpady a drobné stavebné odpady sa v zmysle zákona č.582/2004 Z. z.
+o miestnych daniach a poplatku za komunálne a drobné stavebné odpady v znení neskorších predpisov sa platí za
+komunálne odpady a drobné stavebné odpady, ktoré vznikajú na území Obce. Poplatníkom je:
+     a) fyzická osoba, ktorá má v obci trvalý pobyt alebo prechodný pobyt alebo užíva nehnuteľnosť na území
+         Obce na iný účel ako na podnikanie
+     b) právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území Obce na
+         iný účel ako na podnikanie
+     c) podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na území Obce na účel
+         podnikania
+Sadzba poplatku na osobu a kalendárny deň je upravená vo VZN č. 9/2024 o miestnych daniach a poplatku za
+komunálne odpady a drobné stavebné odpady .
+Podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť na území Obce na účel podnikania a právnická
+osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť na území Obce na iný účel ako na podnikanie realizuje
+v zmysle vyššie uvedeného VZN platenie poplatku množstvovým zberom.
+
+Za nakladanie s komunálnymi odpadmi a drobnými stavebnými odpadmi zodpovedá obec v zmysle zákona č.
+79/2015 Z. z. o odpadoch. Náklady na činnosti nakladania so zmesovým komunálnym odpadom a biologicky
+rozložiteľným komunálnym odpadom, náklady triedeného zberu zložiek komunálneho odpadu, na ktoré sa
+nevzťahuje rozšírená zodpovednosť výrobcov, a náklady spôsobené nedôsledným triedením oddelene zbieraných
+zložiek komunálneho odpadu, na ktoré sa vzťahuje rozšírená zodpovednosť výrobcov a náklady presahujúce
+výšku obvyklých nákladov podľa § 59 ods. 8, hradí obec z miestneho poplatku za komunálne odpady a drobné
+stavebné odpady podľa osobitného predpisu.
+V zmysle zákona č.79/2015 Z. z. o odpadoch môže obec z vybraného miestneho poplatku za komunálne odpady
+a drobné stavebné odpady uhradiť náklady na likvidáciu:
+• komunálneho odpadu z domácností fyzických osôb (FO), právnických osôb (PO) a fyzických osôb
+     podnikateľov (FOP),
+• odpadu z čistenia ulíc,
+• odpadu z údržby verejnej zelene, parkov, cintorínov,
+• bioodpadu z verejnej zelene, parkov, cintorínov, z pozemkov FO, PO, FOP, občianskych združení,
+• drobného stavebného odpadu od FO,
+• separáciu odpadu.
+
+1.5 Daň za psa                                                                               3 100,- €
+    Predmetom dane je pes starší ako šesť mesiacov chovaný fyzickou alebo právnickou osobou. Podmienky
+povinnosti vzniku, výška a splatnosť sú stanovené VZN obce č.9/2024.
+
+1.6 Daň za ubytovanie                                                                                 2 500,- €
+    Predmetom dane je odplatné prechodné ubytovanie fyzickej osoby v ubytovacom zariadení, ktorého
+kategorizáciu určuje osobitný predpis. VZN č. 9/2024 obce stanovuje platiteľa, výšku, splatnosť dane.
+
+
+
+2. Nedaňové príjmy                                                                              379 844,- €
+
+2.1. Príjmy z prenajatých nebytových priestorov a pozemkov                                 24 100- €
+     - príjem z uzatvorených platných nájomných zmlúv na prenájom budov a pozemkov. Najväčšie očakávané
+príjmy v roku 2027 vyplývajú z prenájmu nasledovných objektov: za prenájom priestorov – Obecného úradu,
+domu smútku.
+     - príjem z podnikateľskej činnosti za nájom, ubytovanie vo Villa Cubach                36 000,- €
+
+2.2. Správne poplatky                                                                            8 200,- €
+     - správne poplatky vyberané podľa zákona č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších
+predpisov – vyhotovenie a osvedčenie matričných dokladov, výpis z úradných kníh, správny poplatok za overenie
+podpisov, žiadosť o povolenie stavby a o dodatočné povolenie stavby a pod.
+
+2.3. Cintorínske služby – hrobové miesta                                                               500, - €
+     - príjem za cintorínske služby – hrobové miesta vyplýva z VZN č. 3/2020, ktorým sa vydáva prevádzkový
+poriadok pohrebiska Obce Spišské Bystré. Pohrebiská (cintoríny a urnové háje) zriaďuje a ruší obec Spišské Bystré
+výlučne po prerokovaní s príslušným Regionálnym úradom verejného zdravotníctva. Obec Spišské Bystré
+prevádzkuje cintorín.
+
+2.4. Stočné                                                                                    19 500 ,- €
+     - príjem za používanie verejnej kanalizácie a čistiarne odpadových vôd vyplýva z VZN č.7/2016 . O výške
+poplatku ako aj podmienkach úhrady rozhoduje obecné zastupiteľstvo zvyčajne každoročne, v prípade
+neschválenia ceny obecným zastupiteľstvom na príslušný rok, platí cena za rok predchádzajúci.
+
+2.5. Ostatné                                                                                        8 000,- €
+     - predmetné príjmy zahŕňajú predovšetkým príjmy z vyhlásení v obecnom rozhlase, z dobropisov, vratky zo
+zúčtovania za rok 2026, trovy konania a pod., príjmy za použitie telefónu, faxu, za kopírovanie a pod.
+
+2.6. Zápisné knižnica                                                                                 50,- €
+
+2.7.Príjem Základná škola s materskou školou celkom                                             114 700,- €
+z toho      - poplatky za ŠKD, MŠ                                                                30 000,- €
+            - príjem z prenájmu                                                                   8 700,- €
+            - réžijné poplatky - strava ŠJ                                                       29 000,- €
+            - úhrady za školské stravovanie – potraviny                                          47 000,- €
+2.8.Nájom 8 b. j.                                                                                 16 704,- €
+    - predmetné príjmy zahŕňajú nájomné v 8 b. j. na ulici Družstevnej
+2.9. Poplatky za služby 8 b. j.                                                                   12 090,- €
+     - príjmy zahŕňajú poplatky za energie (voda, plyn, elektrina)
+
+2.10. Poplatky za znečisťovanie ovzdušia malými zdrojmi                                               0,- €
+     - výšku poplatku a poplatkovú povinnosť fyzických a právnických osôb, ktoré prevádzkujú malý zdroj
+znečisťovania ovzdušia v katastrálnom území obce Spišské Bystré upravuje VZN č. 8/2023 v zmysle § 1 písm. b)
+a § 3 ods. 1 zákona č. 190/2023 Z. z. o poplatkoch za znečisťovanie ovzdušia v znení neskorších.
+Nový zákon o poplatkoch za znečisťovanie ovzdušia nadobudol účinnosť 1. januára 2024. Ustanovenia, ktoré sa
+týkajú poplatkov za emisie z veľkého, alebo stredného zdroja a ich výpočet (§ 2 odsek 2 písmeno f), nadobudnú
+účinnosť 1. januára 2025, po novom povinnosť platiť za znečistenie ovzdušia budú mať iba tie firmy, ktoré
+vypustia do ovzdušia emisie v hodnote 500 eur.
+
+2.11. Príjem z podnikateľskej činnosti – stravovacie služby, ostatné služby                        140 000,- €
+     - príjem zahŕňa tržby za stravovacie služby pri rôznych oslavách, svadbách a iných spoločenských udalostiach
+v priestoroch kultúrneho domu Villa Cubach
+
+
+3. Granty a transfery                                                                         1 706 545,- €
+
+Granty a transfery na rok 2027 sú rozpočtované v celkovej výške 1 879 620,- €.
+Sú to očakávané cudzie prostriedky predovšetkým zo štátneho rozpočtu na financovanie prenesených kompetencií
+a na financovanie rozvojových projektov z EÚ fondov. Použitie grantov a transferov je na bežné výdavky.
+Predpokladané príjmy z tuzemských grantov a dotácií v roku 2026 budú realizované v nasledujúcej štruktúre:
+
+
+3.1. Dotácie na základné vzdelanie s bežnou starostlivosťou - ZŠ s MŠ                           1 620 096,- €
+   (prenesené kompetencie na základnú školu, materskú školu, dopravné žiakov,
+   vzdelávacie poukazy a ost. nenormatívne prostriedky)
+
+3.2. Stavebný úrad                                                                                 4 028,- €
+
+3.3. Matričná činnosť                                                                             10 647,- €
+
+3.4. Dotácia DHZO SR                                                                               5 000,- €
+
+3.5. Príspevok ÚPSVaR na školské pomôcky pre deti v hmotnej núdzi                                   1 300,- €
+a deti pod hranicou životného minima
+
+3.6. Dotácia PK životné prostredie                                                                  298,- €
+
+3.7. Dotácia PK register obyvateľstva                                                               800,- €
+
+3.8. Dotácia PK špec. stavebný úrad pre miestne komunikácie                                         110,- €
+
+3.9. Osobitný príjemca – rodinné prídavky                                                         8 000,- €
+
+3.10. Osobitný príjemca – sociálne dávky                                                          3 000,- €
+
+3.11 Dotácia na starostlivosť o vojnové hroby                                                       125,- €
+
+3.12 Dotácia NP TSP                                                                              53 094,- €
+
+3.13 Dotácia register adries                                                                          47,- €
+Kapitálové príjmy                                                                                       0,- €
+
+
+Finančné operácie                                                                             759 000,- €
+
+V zmysle zákona č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy v znení neskorších predpisov
+sú súčasťou rozpočtu obce aj finančné operácie, ktorými sa vykonávajú prevody z peňažných fondov obce a
+realizujú sa návratné zdroje financovania a ich splácanie. Ďalej tu patria aj zostatky prostriedkov z
+predchádzajúcich rokov, ktoré obec použije v nasledujúcom roku a podmienkou ich použitia je ich zapojenie do
+rozpočtu prostredníctvom príjmových finančných operácií, a majetkové účasti. Finančné operácie nie sú súčasťou
+príjmov a výdavkov.
+
+Čerpanie rezervného fondu na krytie kapitálových výdajov:                                759 000,- €
+- Zberný dvor - spoluúčasť                                                                71 000,- €
+- rekonštrukcia miestnej komunikácie                                                     150 000,- €
+- vodozádržné opatrenia ZŠ – spoluúčasť projektu                                          65 000,- €
+- rozšírenie kanalizácie                                                                  93 000,- €
+- amfiteáter Kubašok                                                                      35 000,- €
+- zníženie energetickej náročnosti budova ZŠ                                              60 000,- €
+- parkovisko ZŠ                                                                            65 000,- €
+- výstavba chodníkov ul.Školská                                                           40 000,- €
+- komunikácia Školská – Partizánska                                                       80 000,- €
+- pozemky                                                                                100 000,- €
+            2. V Ý D A V K O V Á                                                 Č A S Ť
+
+
+   PROGRAM Č. 1: PLÁNOVANIE, MANAŽMENT A KONTROLA
+
+                     Zámer programu:
+     SAMOSPRÁVA, FLEXIBILNE REAGUJÚCA NA POTREBY
+OBYVATEĽOV, PODNIKATEĽOV, ČI NÁVŠTEVNÍKOV OBCE SPIŠSKÉ
+   BYSTRÉ PLÁNUJÚCA V ZMYSLE TRVALO UDRŽATEĽNÉHO
+   ROZVOJA A RIADIACA VŠETKY PROCESY S MAXIMÁLNOU
+         EFEKTÍVNOSŤOU A TRANSPARENTNOSŤOU
+
+                                  ROK 2 0 2 7                    ROK 2 0 2 8                ROK 2 0 2 9
+ Bežné výdaje                       10 900,- €                    10 900,- €                 10 900,- €
+ Kapitálové výdaje                   5 000,- €                         0,- €                      0,- €
+ Celkové výdaje                     15 900,- €                    10 900,- €                 10 900,- €
+
+
+Podprogram 1.1 Výkon funkcie starostu obce Spišské Bystré
+
+Zámer Podprogramu : Vzájomné informovanie občanov a starostu o dianí v obci.
+
+Finančné prostriedky sú určené na občerstvenie pri príležitosti pracovných rokovaní starostu obce so zástupcami
+samosprávy, štátnej správy, rôznych organizácií a pri pracovných poradách vedenia obce. Ďalej pokrývajú náklady
+na reštauračné služby poskytované pri príležitosti pracovných obedov starostu obce. Finančné prostriedky sú
+taktiež určené na reprezentačné účely - zakúpenie kytíc a darov pre členov rôznych delegácií, pre významných
+predstaviteľov hospodárskeho, spoločenského či kultúrneho života prijatých na úrovni starostu obce.
+
+
+
+
+                                                                                                 Cieľová
+  Cieľ                                            Merateľný ukazovateľ
+                                                                                                 hodnota
+
+  Dosiahnuť vysoký stupeň otvorenosti             •   Počet osobných stretnutí s občanmi         • 500
+  informovania občanov a podnikateľov Obce
+
+  Zabezpečiť aktívnu reprezentáciu Obce Spišské   •   Počet pracovných rokovaní so zástupcami    • 159
+  Bystré na domácej pôde                              samosprávy, štátnej správy, organizácií
+
+
+
+
+Reprezentačné výdavky                                                                                3 000,- €
+ Podprogram 1.2: Členstvo v samosprávnych organizáciách združeniach
+
+ Zámer Podprogramu : Aktívna účasť obce v záujmových organizáciách a združeniach
+
+ Cieľ                                               Merateľný ukazovateľ                                 Cieľová hodnota
+ Zabezpečiť aktívnu účasť Obce Spišské Bystré       •   počet členstiev Obce v organizáciách             •   3
+ v záujmových organizáciách a združeniach               a združeniach
+
+
+ Podprogram zahŕňa zabezpečenie aktívnej účasti Obce v záujmových združeniach a organizáciách.
+
+
+ Členstvo v samospráv. organiz. a združeniach                                                                    3 700,- €
+ - ročné poplatky obce za členstvo obce v organizáciách a združeniach uvádza nasledujúca tabuľka
+
+                                                                                     Členský
+                                                                                     poplatok
+                                       Organizácia, združenie
+                                                                                       /rok/
+                                                                                        v€
+                       Regionálne vzdelávacie centrum                                            400,-
+                       Pro Tatry                                                               1 240,-
+                       Regionálne združenie tatranských a podtatranských obcí                    810,-
+                       Oblastná organizácia CR Vysoké Tatry-Podhorie                           1 000,-
+                       Memorandum o partnerstve a spolupráci PSK                                 250,-
+                       SPOLU                                                                   3 700,-
+
+
+
+ Podprogram 1.3: Strategické plánovanie
+
+ Prvok 1.3.3: Program rozvoja obce
+
+
+   Cieľ                      Merateľný ukazovateľ                                                 Cieľová hodnota
+   Spracovať strategický      •    percento prípravy (rozpracovania) dokumentu                      • 0%
+   materiál
+
+
+Od 1. apríla 2024 je v účinnosti zákonná úprava v ustanovení § 8 zákona č. 539/2008 Z. z. o podpore regionálneho
+rozvoja v znení neskorších predpisov, pričom platí, že program rozvoja obce je strednodobý rozvojový dokument,
+ktorý je vypracovaný v súlade s cieľmi a prioritami ustanovenými v národnej stratégii a zohľadňuje ciele a priority
+ustanovené v programe rozvoja vyššieho územného celku, na území ktorého sa obec nachádza, a je vypracovaný
+podľa záväznej časti územného plánu obce.
+Podprogram 1.4: Územné plánovanie a architektonicko-urbanistické zámery
+a štúdie
+
+ Cieľ                      Merateľný ukazovateľ                                               Cieľová hodnota
+ Urbanistický rozvoj          •    Počet schválených zmien a doplnkov ÚPN za rok               • 1
+ v súlade so záujmami
+ obce a obyvateľov
+
+
+Podprogram zahŕňa vypracovanie znaleckých posudkov vo veci stanovenia všeobecnej hodnoty pozemkov pre
+účely prevodu.
+
+ Štúdie, expertízy, posudky                                                                               2 000,- €
+bežné výdavky
+
+
+Obec Spišské Bystré je v zmysle § 30 zákona č. 50/1976 Zb. o územnom plánovaní a stavebnom poriadku v znení
+neskorších predpisov a zákona č. 25/2025 (stavebný zákon) povinný sledovať, či sa nezmenili územno-technické,
+hospodárske alebo sociálne predpoklady, na ktorých základe bola navrhnutá koncepcia organizácie územia. Ak
+dôjde k zmene predpokladov alebo aj na základe verejnej požiadavky, orgán územného plánovania obstará doplnok
+alebo zmenu územnoplánovacej dokumentácie. Je potrebné opätovne pripraviť zmenu územného plánu tak, aby
+sa do neho mohli zapracovali novovzniknuté požiadavky nie len fyzických a právnických osôb, ale rovnako tak aj
+požiadavky obce.
+
+Zmena ÚPN                                                                                                 5 000,- €
+kapitálové výdavky
+
+
+
+Podprogram 1.5: Vnútorná kontrola
+
+Zámer Podprogramu : Súlad činnosti a rozhodnutí samosprávy so zákonmi, všeobecne záväznými
+              nariadeniami a vnútornými         normami     Obce Spišské Bystré a efektívne
+              fungujúca samospráva
+
+ Cieľ                                       Merateľný ukazovateľ                                Cieľová hodnota
+ Zabezpečiť účinnú kontrolu úloh             • kontrolné úlohy podľa plánov kontrolnej           • 100%
+ schválených OZ Obce Spišské Bystré            činnosti
+                                             • počet vykonaných kontrol plnenia opatrení         • 1
+                                               prijatých na odstránenie nedostatkov za rok
+
+Bežné výdavky na túto aktivitu sú zahrnuté v programe č.16.1 – Správa obce a predstavujú režijné náklady (mzdy,
+platy a ostatné osobné vyrovnania, poistné a príspevky do poisťovní a tovary a služby) na jej zabezpečenie.
+
+
+
+Podprogram 1.6: Audit
+
+Zámer Podprogramu : Zabezpečiť vonkajšiu kontrolu hospodárenia obce
+
+ Cieľ                                                  Merateľný ukazovateľ                    Cieľová hodnota
+
+ Zabezpečiť dôslednú nezávislú kontrolu                 • počet zrealizovaných audítorských     • 2
+                                                          kontrol za rok
+ hospodárenia a vedenia účtovníctva Obce Spišské
+ Bystré
+V súlade s ustanovením §16 ods. 3 zákona NR SR č.583/2004 Z. z. o rozpočtových pravidlách územnej
+samosprávy a o zmene a doplnení niektorých zákonov v platnom znení účtovnú závierku za príslušný rok overuje
+audítor. Overuje tiež či hospodárenie obce je v súlade s rozpočtom. Správa audítora tvorí prílohu záverečného účtu
+obce. Audítor každoročne overuje aj konsolidovanú účtovnú závierku a výročnú správu.
+
+Audit                                                                                                      2 200,- €
+
+
+
+Podprogram 1.7: Daňová agenda a politika
+
+Zámer Podprogramu : Minimalizovať výšku nedoplatkov na dani a poplatkoch
+
+ Cieľ                                      Merateľný ukazovateľ                                 Cieľová hodnota
+
+ Zabezpečiť efektívne plnenie rozpočtu     • počet výziev na uhradenie nedoplatkov na dani a     • 50
+                                             poplatku
+ miestnych daní a poplatkov
+
+
+
+
+Stav daňových nedoplatkov závisí od dodržania platobnej disciplíny daňového subjektu v príslušnom zdaňovacom
+období. Úlohou obce je minimalizovať výšku nedoplatkov na najnižšiu mieru. Správca dane po uplynutí lehoty
+splatnosti dane, prípadne splátky dane, písomne vyzýva daňových dlžníkov k zaplateniu daňového nedoplatku.
+Správca dane podľa § 26 zákona č.563/2009 Z. z. o správe daní a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov vyzýva subjekty, ktoré sú povinné na výzvu správcu dane poskytovať informácie potrebné
+na účely správy daní, na poskytnutie konkrétnych údajov o daňovom subjekte. Na základe takto poskytnutých
+údajov, správca dane ďalej postupuje pri vymáhaní daňových nedoplatkov.
+
+
+
+Podprogram 1.8: Rozpočtová politika
+
+Zámer Podprogramu : Zabezpečiť rozpočtový proces obce
+
+ Cieľ                                    Merateľný ukazovateľ                                        Cieľová
+                                                                                                     hodnota
+
+ Zabezpečiť plynulý priebeh              • rozpočet schválený OZ v Spišskom Bystrom do konca         • áno
+                                           kalendárneho roka
+ rozpočtového
+ Zabezpečiť pravidelné                   • počet vypracovaných monitorovacích a hodnotiacich správ   • 2
+                                           za rok
+ monitorovanie plnenia rozpočtu
+
+
+Hlavným ekonomickým nástrojom obce je rozpočet obce na príslušný rok, ktorý je zhodný s kalendárnym rokom.
+Rozpočet obce na rok 2027 s výhľadom na roky 2028-2029 bude predmetom rokovania obecného zastupiteľstva
+v decembri 2026.
+
+
+
+Podprogram 1.9: Účtovníctvo
+
+Zámer Podprogramu : Zabezpečiť vedenie účtovníctva v súlade so zákonom o účtovníctve
+  Cieľ                                 Merateľný ukazovateľ                                        Cieľová hodnota
+
+  Zabezpečiť vedenie účtovníctva        • výrok audítora                                           • bez výhrad
+  v súlade so zákonom o účtovníctve,    • nedostatky zistené kontrolami                            • 0
+
+
+ Obec vedie účtovníctvo v zmysle zákona č. 431/2002 Z. z.. Finančné prostriedky pre audítora sú rozpočtované
+ v Podprograme 1.6.
+
+
+
+
+ Podprogram 1.10: Evidencia ulíc, verejných priestranstiev a budov
+
+ Zámer Podprogramu : Komplexná a efektívna evidencia budov, ulíc a verejných
+ priestranstiev
+
+  Cieľ                                          Merateľný ukazovateľ                             Cieľová hodnota
+  • Zabezpečiť prehľadné označovanie ulíc       • Zápis do registra adries -oznámenie            • 11
+    a domov
+
+
+ Podprogram súvisí s prideľovaním súpisných a orientačných čísel (kontrola podkladov, zápis do registra adries-
+ oznámenie) a zabezpečením označovania ulíc a iných verejných priestranstiev (príprava návrhu na pomenovanie,
+ zmenu pomenovania ulice, zabezpečenie tabuľky s označením).
+
+ Bežné výdavky na túto aktivitu sú zahrnuté v podprograme č. 16.1 - Správa obce a predstavujú režijné náklady
+ (mzdy, platy a ostatné osobné vyrovnania, poistné a príspevky do poisťovní a tovary a služby) na jej zabezpečenie.
+
+
+
+
+                  PROGRAM Č. 2: PROPAGÁCIA A MARKETING
+
+                            Zámer programu:
+     OBEC Spišské Bystré ZNÁMA AKO OTVORENÁ, KOMUNIKUJÚCA
+    A PRIATEĽSKÁ OBEC NA SPIŠI, KTORÚ SA OPLATÍ NAVŠTÍVIŤ
+
+              ROK 2 0 2 7                         ROK 2 0 2 8                               ROK 2 0 2 9
+               6 500,- €                           6 500,- €                                  6 500,- €
+
+
+ Podprogram 2.1: Propagácia a prezentácia obce
+
+Zámer Podprogramu : Účinná prezentácia obce
+
+
+ Cieľ                                  Merateľný ukazovateľ                             Cieľová hodnota
+        •   Prezentácia a propagácia        •   Počet vydaných publikácií (kníh) o      •    0
+            obce                                obci
+  V rámci tohto Podprogramu sa pripravujú a realizujú informačné, propagačné, reklamné alebo prezentačné
+  materiály a predmety – kalendáre, tričká, perá, tašky, poháre.
+
+  Propagácia a prezentácia obce                                                                              2 500,- €
+
+  Podprogram 2.2: Podpora rozvoja turistického ruchu v obci Spišské Bystré
+
+Zámer Podprogramu : Prostredníctvom informačných, propagačných a prezentačných materiálov
+                a webovej stránky obce zabezpečiť rozvoj turistického ruchu v obci Spišské Bystré
+
+ Cieľ                                     Merateľný ukazovateľ                           Cieľová hodnota
+
+        •   Informovanie návštevníkov         •   Počet informačných tabúľ               •    0
+            o zaujímavostiach v obci
+            a jej okolí
+
+  Všeobecný materiál                                                                                                 0,- €
+
+
+  Podprogram 2.3: Kronika obce Spišské Bystré
+      •
+      •    o zaujímavostiach okolia
+Zámer Podprogramu : Záznamy zo života obce pre budúce generácie
+      •
+      •
+  Cieľ                                   Merateľný ukazovateľ                            Cieľová hodnota
+      •
+      •
+  Záznamy   zo života obce
+           možnostiao  druoch rastlín,   •    Počet záznamov v kronike                   •    12
+           živočíchov onformačných
+           tabúľ
+Kronika slúži na zaznamenávanie dôležitých spoločenských a kultúrnych udalostí ako spomienka pre budúce generácie.
+
+
+
+  Podprogram 2.4: Obecné noviny
+
+Zámer Podprogramu : Informovať občanov o dianí v obci
+
+  Cieľ                                    Merateľný ukazovateľ                           Cieľová hodnota
+  Informovať občanov o dianí v obci       •   Počet vydaní za rok                        •    4
+
+
+
+
+  Obecné noviny                                                                                               4 000,- €
+
+
+                       PROGRAM Č. 3: INTERNÉ SLUŽBY OBCE
+
+                         Zámer programu:
+    PLYNULÁ A FLEXIBILNÁ ČINNOST OBECNEJ SAMOSPRÁVY VĎAKA
+       VYSOKOKVALITNÝM A EFEKTÍVNYM INTERNÝM SLUŽBÁM
+
+                                        ROK 2 0 2 7                   ROK 2 0 2 8                  ROK 2 0 2 9
+   Bežné výdaje                           81 425,- €                   73 425,- €                   73 425,- €
+   Kapitálové výdaje                     415 000,- €                   20 000,- €                        0,- €
+   Celkové výdaje                        496 425,- €                   93 425,- €                   73 425,- €
+ Podprogram 3.1: Právne služby Obci Spišské Bystré – zastupovanie obce
+ navonok
+ Zámer Podprogramu: Profesionálne právne zastupovanie obce navonok
+
+ Cieľ                                Merateľný ukazovateľ                        Cieľová hodnota
+ Chrániť právne záujmy obce          •   Počet vypracovaných právnych dokum.     •   5
+
+
+                                  •
+ V rámci predmetnej činnosti budú •
+                                 poskytnuté právne služby v súvislosti s majetkovo – právnym vysporiadaním
+                                      dokumentov
+ pozemkov, realizuje sa aj prípadné zastupovanie obce pred súdmi a inými orgánmi, evidencia súdnych sporov
+ (poverenie na zastupovanie obce, účasť na súdnych pojednávania, evidencia sporu, výzvy, platenie súdnych
+ poplatkov, kontrola a riešenie vykonania rozhodnutia), vymáhanie pohľadávok a exekučné konanie(komunikácia
+ s neplatičom, riešenie žaloby až po zaplatenie, podanie návrhu na exekúciu, vypracovanie zmluvy s exekútorom
+ a pod.).
+
+  Právne služby obci                                                                                1 000,- €
+
+
+
+
+ Podprogram 3.2: Zasadnutia orgánov obce
+
+Zámer Podprogramu: Zabezpečiť ekonomický a kultúrno-spoločenský život obce
+
+ Cieľ                                Merateľný ukazovateľ                        Cieľová hodnota
+ Zabezpečiť efektívne fungovanie     •   počet zorganizovaných zasadnutí OZ za   •   6
+ samosprávy                              rok
+
+
+ Obecné zastupiteľstvo sa schádza najmenej raz za tri mesiace a rozhoduje o dôležitých úlohách obce v súlade so
+ zákonom č. 369/1990 Zb. o obecnom zriadení v znení neskorších predpisov. Bežné výdavky sú určené na
+ odmeňovanie poslancov obecného zastupiteľstva, predsedov a členov komisií.
+
+  Odmeny poslancom OZ                                                                                1 000,- €
+
+
+
+ Podprogram 3.3: Zabezpečenie úkonov spojených s voľbami, referendom,
+ sčítaním
+
+ Zámer Podprogramu: Zabezpečiť hladký priebeh volieb
+
+ Náklady na zabezpečenie volieb sú hradené zo štátneho rozpočtu.
+
+
+
+
+ Podprogram 3.4: Verejné obstarávanie
+
+ Zámer Podprogramu: Všetky potrebné vstupy obstarané v najvyššej kvalite za najnižšiu cenu
+ Cieľ                                  Merateľný ukazovateľ                       Cieľová hodnota
+ Transparentný výber dodávateľov       •   Počet realizovaných verejných          •   1
+ tovarov, služieb, prác                    obstarávaní
+                                       •   Počet vypracovaných právnych dokum.
+ Finančné prostriedky budú použité na• zabezpečenie procesov verejného obstarávania podľa zákona č. 343/2015
+ Z. z. o verejnom obstarávaní v znení •neskorších predpisov.
+                                       •   dokumentov
+ Verejné obstarávanie                                                                               10 000,- €
+
+ Podprogram 3.5: Hnuteľný majetok obce
+
+Zámer Podprogramu: Aktuálna a informačne prehľadná evidencia majetku vo vlastníctve Obce
+                Spišské Bystré
+
+ Cieľ                                  Merateľný ukazovateľ                       Cieľová hodnota
+ Zabezpečiť prehľadnú a aktuálnu       •   Priebežné vyraďovanie opotrebovaného   •   2
+ evidenciu hnuteľného majetku vo           a nefunkčného majetku
+ vlastníctve Obce Spišské Bystré
+
+
+
+
+ Podprogram 3.6: Nehnuteľný majetok obce-budovy, objekty
+
+Zámer Podprogramu: Aktuálna a informačne prehľadná evidencia majetku vo vlastníctve Obce
+                Spišské Bystré
+
+ Cieľ                                  Merateľný ukazovateľ                       Cieľová hodnota
+ Zvýšiť tepelno-technické vlastnosti   •   Percento realizovaných prác za rok     •   100 %
+ budovy ,znížiť spotrebu energií
+
+
+ Zabezpečiť prevádzky schopné          •   Počet prevádzkovaných budov            •   7
+ budovy
+
+
+
+
+ Kapitálové výdavky vo výške 280 000,- € budú použité na:
+
+ - prípravnú a projektovú dokumentáciu na investičné akcie vo výške 20 000,- €,
+
+ - Amfiteáter Kubašok – projekt z Fondu na podporu umenia, výzva - Mimoriadna výzva č. 2/2025 Fondu na
+ podporu umenia, podprogram Obnova kultúrnej infraštruktúry, 8.1 Kompl
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/ab3e6bb1-be09-4bde-acc3-a7c741f10ff2
+                                                                                      Finančný rozpočet na roky 2027 - 2029
+                                                                                                    Príjmy
+                                                                                                    NÁVRH
+
+Ekon.kl.   Zdroj Názov                                                Čerpanie       Čerpanie         Schválený       Upravený       Očak.skut.      Návrh          Návrh          Návrh
+                                                                        2024           2025             2026            2026           2026           2027           2028           2029
+
+                 1-bežný rozpočet
+111003     41    Daň z príjmov poukaz.územ.samospr.                   1 303 639,79   1 024 104,77     1 124 129,00    1 124 129,00   1 124 129,00   1 200 268,00   1 220 306,00   1 220 306,00
+121001     41    D z pozemkov                                            19 297,59      19 662,60        16 500,00       19 500,00      19 500,00      19 500,00      19 500,00      19 500,00
+121002     41    D zo stavieb                                            15 803,96      15 877,96        15 000,00       15 000,00      15 000,00      15 000,00      15 000,00      15 000,00
+121003     41    D z bytov a nebyt.priest.v byt.dome                        175,60         170,40           170,00          170,00         170,00         170,00         170,00         170,00
+133001     41    D za psa                                                 2 307,98       3 284,96         3 100,00        3 100,00       3 100,00       3 100,00       3 100,00       3 100,00
+133006     41    D za ubytovanie                                          1 720,00       2 809,75         2 500,00        2 500,00       2 500,00       2 500,00       2 500,00       2 500,00
+133012     41    D za užív.verej.priestr.                                 1 179,00         820,00         1 000,00        1 000,00       1 100,00       1 000,00       1 000,00       1 000,00
+133013     41    Komunál.odpady a drob.stav.odpady                       74 397,09     117 911,45       115 000,00      115 000,00     110 000,00     115 000,00     115 000,00     115 000,00
+211003     41    Dividendy                                                    0,00       1 040,80             0,00        1 561,00           0,00           0,00           0,00           0,00
+212002     41    Z prenajatých pozemkov                                   1 207,39         631,69           900,00          900,00         900,00         900,00         900,00         900,00
+212003     41    Nájom 8BJ                                               14 588,00      15 970,00        16 704,00       16 704,00      16 704,00      16 704,00      16 704,00      16 704,00
+212003     41    Nájom budov,priest.a objekt.                            26 834,18      24 646,69        23 200,00       23 200,00      23 200,00      23 200,00      23 200,00      23 200,00
+212003     71    Prenájom priestorov Villa Cubach                        18 305,03      26 663,25        25 000,00       25 000,00      23 000,00      25 000,00      25 000,00      25 000,00
+212003     71    Ubytovanie Villa Cubach PĆ                              14 205,72       9 658,41        11 000,00       11 000,00      11 000,00      11 000,00      11 000,00      11 000,00
+221002     41    Správne poplatky                                             0,00       8 623,50         8 200,00        8 200,00       8 200,00       8 200,00       8 200,00       8 200,00
+221004     41    Ostat.poplatky administratívne                           8 955,50           0,00             0,00            0,00           0,00           0,00           0,00           0,00
+222003     41    Pokuty                                                     292,00          50,00             0,00          260,00          30,00           0,00           0,00           0,00
+223001     41    Poplatky za služby 8BJ                                  12 136,00      13 130,92        12 090,00       12 090,00      12 090,00      12 090,00      12 090,00      12 090,00
+223001     41    Stočné                                                  14 487,39      14 390,04        19 500,00       19 500,00      19 500,00      19 500,00      19 500,00      19 500,00
+223001     41    Cintorínske                                                360,00         364,01           500,00          500,00         500,00         500,00         500,00         500,00
+223001     41    Knižnica.zápisné,predaj kníh                                41,50           0,00            50,00           50,00          50,00          50,00          50,00          50,00
+223001     41    Ostat.prijmy                                             9 141,38       7 945,72         8 000,00        8 000,00       8 000,00       8 000,00       8 000,00       8 000,00
+223001     71    Za predaj výrobkov, tovarov a ost. služieb Villa C      11 055,75       2 916,50         5 000,00       10 819,00       5 000,00       5 000,00       5 000,00       5 000,00
+223002     41    ZŠ- BP MŠ, ŠJ, ŠK (poplatky)                            85 119,97      85 497,55        51 150,00       57 574,00      71 000,00      67 700,00      67 700,00      67 700,00
+223002     41    ZŠ-zostatky účtov m.r.                                   1 619,20           0,00             0,00            0,00           0,00           0,00           0,00           0,00
+223002     72f   ZŠ príjem ŠJ                                               954,00           0,00        44 000,00       44 000,00      44 000,00      47 000,00      47 000,00      47 000,00
+223003     71    Stravovacie služby Villa Cubach PČ                     126 467,83     132 181,30       120 500,00      122 800,00     142 000,00     135 000,00     135 000,00     135 000,00
+242        41    Úrok z vkladov                                          10 232,32       3 164,38             0,00        2 555,00       1 389,00           0,00           0,00           0,00
+292006     72e   Z náhrad z poistného plnenia                                 0,00         629,92             0,00            0,00           0,00           0,00           0,00           0,00
+292017     41    Vratka ZŠ-nevyčerp.PK dopravné                          45 023,35      43 813,92             0,00            0,00           0,00           0,00           0,00           0,00
+292017     41    Vratka - nevyčerp.dotácie organizácií                       54,76         171,56             0,00            0,00           0,00           0,00           0,00           0,00
+292017     71    Vratka - Villa Cubach                                        0,00       2 849,52             0,00            0,00           0,00           0,00           0,00           0,00
+292027     41    Nerozpočt.príjmy-soc.fond                                1 887,94       2 012,08             0,00            0,00           0,00           0,00           0,00           0,00
+292027     71    Sociálny fond Villa Cubach                                 216,18         307,53             0,00            0,00           0,00           0,00           0,00           0,00
+311        71    Granty, príspevky                                          132,84          90,00             0,00            0,00    

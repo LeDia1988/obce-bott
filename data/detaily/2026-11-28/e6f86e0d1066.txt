@@ -1,0 +1,689 @@
+URL: https://cuet.slovensko.sk/en/dokument/3d009cfb-90ee-458b-ae2a-639682e9ca80
+OBEC: Prešov (Prešov)
+NÁZOV: Rozhodnutie o stavebnom zámere
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/3d009cfb-90ee-458b-ae2a-639682e9ca80
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Rozhodnutie o stavebnom zámere
+Search publisher's RSS feeds
+Published on official board:
+Mesto Prešov (OVM)
+Published from:
+27.11.2026
+Registry symbol:
+AL
+Documents author:
+Mesto Prešov (OVM)
+Published to:
+12.12.2026
+Registry case:
+OVS/185/164683/2026
+Name of official document:
+Rozhodnutie o stavebnom zámere
+Document type:
+Iný elektronický dokument
+Document abstract:
+Rozhodnutie o stavebnom zámere: Rodinný dom A, k. ú. Prešov, obec Prešov, p. č. 14132/373.
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+VV1162.pdf
+Type and size:
+.pdf, 281.69 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/5dd87509-a64c-4bf3-8f5a-102d25e19fb1
+                                                                                       27. NOV. ZOZ6
+                                                               Vyvesené dňa _ _ _ ....
+                                                                                  _............
+                                                                                         __
+                                                                                          ~--   .....   '
+                                                                                                      ___ _
+                                                                                                ~~···>'-·.·····"
+
+
+
+
+                                                               Zvesené dňa----------
+                                MESTO PREŠOV
+                                      stavebný úrad
+
+
+Hlavná č. 73                                                                 PSČ 080 Ol
+ Číslo: SÚ/8693/171570/2026-Dk/098                              V Prešove dňa: 23.11.2026
+
+
+
+
+                      Rozhodnutie o stavebnom zámere
+                                  (VEREJNÁ VYHLÁŠKA)
+
+       Mesto Prešov, ako príslušný stavebný úrad (ďalej len "stavebný úrad") podľa§ 15 ods.
+l písm. zákona č. 25/2025 Z. z. Stavebný zákon a o zmene a doplnení niektorých zákonov
+(Stavebný zákon) v znení neskorších predpisov (ďalej len "Stavebný zákon"), podľa § 46 a §
+47 zákona č. 7111967 Zb. o správnom konaní (správny poriadok) v znení neskorších predpisov
+(ďalej len "správny poriadok"), rozhodujúc podľa § 60 Stavebného zákona v spojení s § 14
+vyhlášky č. 60/2025 Z. z. o štruktúre a prevádzke informačného systému územného plánovania
+a výstavby, o obsahu podaní a obsahu a rozsahu dokumentácie stavby (ďalej len "vyhláška č.
+60/2025 Z. z.") vydáva
+
+                             rozhodnutie o stavebnom zámere
+
+ ID stavby:                     Nebolo pridelené IS
+ názov stavby:                  "Rodinný dom A"
+ v členení:                     SO l - Rodinný dom
+                                S02 - NN elektrická prípojka
+                                S03 -Vodovodná prípojka
+                                S04 -Kanalizačná prípoj ka
+                                SOS -Dažďová kanalizácia+ RN
+                                S06 - Spevnené plochy a vjazd
+ miesto stavby:                 k. ú. Prešov, obec Prešov, p. č. 14132/3 73
+ stavebné pozemky:              KN-C 14132/373 , k. ú. Prešov, novovytvorená z pôvodnej
+                                parc. KN-C 14132/298, k. ú. Prešov podľa geometrického
+                                plánu č. G1-1894/25 overeného dňa 20.10.2025, KN-C
+                                14132/299, k. ú. Prešov - podielové spoluvlastníctvo
+                                stavebníka, KN-C 14132/242, KN-C 14132/313 a KN-C
+                                14132/224, k. ú. Prešov - zmluva o budúcej zmluve
+                                o zriadení vecného bremena zo dňa 15.04.2026
+ stavebník:                     Ing. Peter Novotný, Jarkova 28, 082 21 Veľký Šariš
+                                V zast. Marek Leško, Sabinovská 12, 082 21 Veľký Šariš
+ účel stavby:                   1111 jednobytová budova
+ typ stavby:                    novostavba
+ projektant:                    Ing. Martin Muranský, P. R. O. S., Šarišská 145, 082 21
+                                Veľký Šariš
+                                                2
+
+
+ identifikačné údaje               "Rodinný dom A", vypracovaná 05/2025
+ dokumentácie:
+
+ účastníci konania:                vlastníci parcely KN-E 1712/3 zapísaní na LV 8259, k. ú .
+                                   Prešov
+
+                                   vlastník parcely KN-E 1712/2 zapísaný na LV 13129, k. ú.
+                                   Prešov
+
+                                   vlastník parcely KN -C 1413 2/3 O5 zapísaný na L V 18 723 ,
+                                   k. ú. Prešov
+
+                                   vlastník parcely KN-C 14132/372 zapísaný na LV 17333,
+                                   k. ú. Prešov
+
+                                   vlastníci parcely KN-C 14132/299 zapísaní na LV 18620,
+                                   k. ú. Prešov
+
+                                   Marek Leško, Sabinovská 12, 082 21 Vel'ký Šariš - v
+                                   zastúpení
+
+                                   Ing. Martin Muranský P. R.O. S., Šarišská 145 , 082 21
+                                   Vel'ký Šariš - projektant
+
+       Novostavba rodinného domu je osadená v súlade s platným územným plánom mesta
+Prešov, pre ktorú mesto Prešov, odbor hlavného architekta ako orgán územného plánovania
+vydalo záväzné stanovisko pod č. OHA/1935/2026 zo dňa 20.01.2026, v ktorom vyhodnocuje
+súlad so záväznou časťou územnoplánovacej dokumentácie nasledovne:
+"a) Podľa Územného plánu mesta Prešov sa predmetný pozemok nachádza na funkčnej ploche
+určenej ako obytná plocha rodinných domov- návrh.
+b) Stavba " Rodinný dom A " j e v súlade s obsahom záväznej časti Územného plánu mesta
+Prešov, vyhlásenej VZN mesta Prešov č. 5/2013 v znení neskorších VZN "
+
+Podrobné údaje o stavbe:
+
+SOl- Rodinný dom
+
+       Ide     o novostavbu      samostatne     stojaceho,     murovaného,      dvojpodlažného,
+nepodpivničeného, 4 izbového rodinného domu s terasou, zastrešeného plochou strechou so
+sklonom strešných rovín 2   o.
+
+
+
+
+Konštatuje sa, že stavba bude slúžiť na bývanie. Rodinný dom pozostáva z týchto
+miestností: l. NP: zádverie, wc, obývacia izba, kuchyňa, sklad, 2. NP: chodba, izba č. l , spálňa,
+izba č. 2, wc a kúpel'ňa, technická miestnosť, o celkovej úžitkovej ploche 99,73 m', obytnej
+ploche 76,20 m' a zastavanej ploche 69,60 m' .
+
+Rodinný dom sa osadí presne podl'a zakreslenia na situačnom pláne nasledovne:
+• 7,050 mod hranice pozemku parc. č. KN-C 14132/299, k. ú. Prešov;
+• 2,050 mod hranice pozemku parc. č . KN-C 14132/3 05, k. ú. Prešov;
+• 10,150 mod hranice pozemku paľc. č. KN-E 1712/2, k. ú. Prešov;
+                                               3
+
+
+•   na hranici s pozemkom parc. č. KN -C 14132/372, k. ú. Prešov;
+•   maximálna výška hrebeňa strechy bude riešená na kóte+ 6,435 mod úrovne podlahy l . NP,
+    ktorá bude riešená na kóte ± 0,00 m=295,250 m n.m.,
+•   celkové rozmery rodinného domu s terasou v jeho najdlhších osiach budú 9,600 m x 7,150
+    m
+
+S02 -NN elektrická prípoj ka
+
+        Jedná sa o NN podzemnú prípojku pre rodinný dom.
+
+S03 - Vodovodná prípoj ka
+
+        Jedná sa o novú vodovodnú prípojku pre rodinný dom napojenú na verejný vodovod.
+Nová vodovodná prípoj ka bude profilu DN32 a bude z polyetylénových trubiek HDPE potrubie
+pre tlakový rozvod vody. Za napojením na mestský vodovod sa osadí prípojkový uzáver so
+zemnou súpravou. Meranie spotreby vody bude vo vodomernej šachte osadenej meter od
+hranice parcely stavebníka.
+
+S04 - Kanalizačná prípoj ka
+
+        Jedná sa o novú kanalizačnú prípojku pre rodinný dom napojenú na verejnú kanalizáciu.
+Kanalizačnou prípoj kou budú odvádzané splaškové vody z objektu rodinného domu do verejnej
+kanalizácie na základe gravitácie. V blízkosti hlavného objektu je osadená revízna šachta
+v mieste spojenia kanalizácií. Meter od hranice parcely 14132/373 je osadená hlavná revízna
+šachta v mieste spojenia kanalizácií do jedného potrubia. Od tejto šachty po verejnú kanalizáciu
+je navrhovaná kanalizačná prípojka DN 160.
+
+S05 -Dažďová kanalizácia + RN
+
+        Dažďové vody zo strechy navrhovaného objektu budú odvádzané do retenčnej nádrže,
+ktorá zabezpečí ich zadržiavanie a následný prepad do vsakovacieho objektu. Objem retenčnej
+nádrže sa bude využívať na zalievanie záhrady.
+
+S06 - Spevnené plochy a vjazd
+
+        Navrhovaný objekt rodinný dom je napojený na jestvujúcu obslužnú komunikáciu
+navrhovaným vjazdom. Miestna obslužná komunikácia sa nachádza na parcele KN-C
+14132/299 aje spoločným vlastníctvom majiteľov okolitých pozemkov. Spevnené plochy sú
+navrhované parkovacími stojiskami v počte 2ks šírky 2,50 ma dÍžky 5,0 ma chodníkom šírky
+1,5 m napojeným na prístupovú komunikáciu. Pozemok objektu bude oplotený a vjazd na
+pozemok bude cez bránu šírky min. 5,0 m. Odvodnenie parkovacích miest bude zabezpečené
+tak, že pomedzi 12 mm škáry medzi dlažbou bude voda vsakovať do podložia, pričom je taktiež
+navrhovaný odvodňovací žľab č. 150 zaústený do vsakovacej nádrže.
+
+Napojenie stavby na technické vybavenie územia:
+
+        Zásobovanie rodinného domu el. energiou bude riešené el. NN káblovou prípojkou
+z verejného rozvodu podľa vyjadrenia prevádzkovateľa distribučnej sústavy VSD a. s., č.
+22112026 zo dňa 07.01.2026 a stanoviska č. NPP/92/2026 zo dňa 08.01.2026.
+                                               4
+
+
+
+        Zásobovanie rodinného domu pitnou vodou bude riešené samostatnou vodovodnou
+prípojkou napojenou na jestvujúci vodovod podľa vyjadrenia VVS a. s. , závod Prešov, č.
+382112026/0 zo dňa 14.01.2026.
+        Odkanalizovanie rodinného domu bude zabezpečené samostatnou kanalizačnou
+prípojkou do jestvujúcej kanalizácie podľa vyjadrenia VVS a. s., závod Prešov, č . 3821/2026/0
+zo dňa 14.01.2026.
+        Dopravné pripojenie k navrhovanej stavbe bude zriadením nového vjazdu z miestnej
+cesty parc. KN-C 14132/30, k. ú. Prešov (Bendíkova ulica) cez parc. KN-C 14132/224, KN-C
+14132/343, parc. KN-C 14132/313 a parc. KN-C 14132/299, k. ú. Prešov na pozemok parc.
+KN-C 14132/373, k. ú. Prešov. Vjazd bude vytvorený plynulým prechodom medzi vozovkou
+prístupovej cesty a jestvujúcou účelovou cestou, pričom:
+- bude konštrukčne a stavebno-technicky zodpovedať príslušným technickým normám
+a nebude zasahovať do prejazdného profilu účelovej cesty,
+- na miestnej a účelovej ceste nesmie byť skladovaný žiadny stavebný materiál ani zeminy
+z výkopov,
+- v prípade, že počas stavebných prác dôjde k znečisteniu alebo poškodeniu existujúcej miestnej
+alebo účelovej cesty alebo chodníka, žiadateľ je povinný uviesť ich bezodkladne do pôvodného
+stavu.
+
+Údaje zo zist'ovacieho konania:
+
+     Pre navrhovanú činnosť nebolo vedené zisťovacie konanie podľa zákona č . 24/2006 Z. z.
+o posudzovaní vplyvov na životné prostredie a o zmene a doplnení niektorých zákonov v znení
+neskorších predpisov.
+
+Zoznam záväzných stanovísk a záväzných vyjadrení uplatnených v konaní:
+
+     • Mesto Prešov, pod č. OHA/1935/2026 zo dňa 20.01.2026
+     • Krajský pamiatkový úrad Prešov pod č. Z-PUSR-000165/2026 zo dňa 14.04.2026
+     • VSD a. s., pod č. 221 /2026 zo dňa 07.01.2026 a NPP/92/2026 zo dňa 08.01.2026
+     • Východoslovenská vodárenská spoločnosť a.s., pod č. 3821/2026/0 zo dňa 14.01.2026
+     • SPP distribúcia, a.s. pod č. TD/NS/0086/2026/Va zo dňa 02.02.2026
+     • Okresný úrad Prešov, pozemkový a lesný odbor, pod č. OU-PO-PL01-2026/054859-
+        002 zo dňa 21.04.2026
+     • Slovak Telekom a. s., č. 6612600233 zo dňa 07.01.2026
+     • Okresný úrad Prešov, odbor starostlivosti o životné prostredie, pod č . OU-PO-OSZP3-
+        2026/039949-002 zo dňa 18.03.2026
+     • Okresný úrad Prešov, odbor starostlivosti o životné prostredie, pod č. OU-PO-OSZP3-
+        2026/064500-002 zo dňa 22.05.2026
+     • Ministerstvo obrany SR, pod č. SEMai-193-0SE-150 z júna 2026
+
+Podmienky pre uskutočňovanie stavby:
+
+l.   Výstavbu bude uskutočňovať stavebník svojpomocne.
+2.   Osobou vykonávajúcu stavebný dozor na stavbe bude vykonávať Ing. Martin Muranský,
+     Šarišská 145, 082 21 Vel'ký Šariš, stavebný dozor, SKSI: ev. č. 05139 ktorý má
+     potrebnú odbornú kvalifikáciu. Stavebný dozor sleduje spôsob a postup uskutočňovania
+     stavby v zmysle§ 36 stavebného zákona.
+3.   Stavebník, ktorý uskutočňuje stavebné práce svojpomocou, je povinný:
+                                             5
+
+
+    zabezpečiť   na celý čas uskutočňovania stavebných prác osobu oprávnenú na výkon
+   stavebného dozoru a riadiť sa jej pokynmi,
+   zabezpečiť, aby stavebné práce uskutočňovali fyzické osoby, ktoré spÍňajú požiadavky
+   podľa§ 27 ods. 3 stavebného zákona
+   zabezpečiť vytýčenie a súlad priestorovej polohy novej stavby alebo zmeny stavby s
+   overeným projektom stavby,
+   zabezpečiť, aby do stavby boli zabudované len stavebné výrobky vhodné na zamýšľané
+   použitie a spôsobom určeným výrobcom,
+   zabezpečiť súlad vybavenia a prevádzky staveniska s týmto zákonom a súvisiacimi
+   predpismi,
+    zabezpečiť, aby počas zhotovovania stavby sa na stavenisku nachádzala dokumentácia
+    stavby, najmä overený projekt stavby, rozhodnutie o stavebnom zámere a stavebný denník,
+    viesť stavebný denník a zapisovať do neho podstatné udalosti na stavbe a priebeh
+    uskutočňovania stavebných prác,
+    bezodkladne prerušiť stavebné práce a zabezpečiť stavbu a stavenisko pred poškodením
+    alebo znehodnotením, ak to prikázala osoba oprávnená na výkon stavebného dozoru alebo
+    orgán štátneho stavebného dohľadu, a to až do odstránenia prekážky.
+4. Stavebník je povinný pred začatím stavebných prác oznámiť stavebnému úradu začatie
+    uskutočňovania povolených stavebných prác (§ 30 ods. 3 písm. a)) a odovzdať
+    zhotoviteľovi stavby overený projekt stavby, právoplatné rozhodnutie o stavebnom zámere
+    a pozemky na zriadenie staveniska(§ 30 ods. 3 písm. b )).
+   5. Počas stavebných prác sa musia dodržať všeobecné technické požiadavky na
+       uskutočňovanie stavby v zmysle stavebného zákona a vyhlášky MŽP SR č. 532/2002
+       Z. z., bezpečnostné predpisy, ochranné pásma, príslušné technické normy a návody
+       výrobcu stavebných výrobkov na spôsob ich použitia.
+   6. Stavebné práce môže uskutočňovať len právnická alebo fyzická osoba oprávnená na
+       vykonávanie prác podľa § 31 ods. l stavebného zákona.
+   7. Na stavenisku musí byť po celý čas výstavby projektová dokumentácia stavby overená
+       stavebným úradom a stavebný denník vedený oprávnenou osobou, ktoré sú potrebné na
+       uskutočňovanie stavby a na výkon štátneho stavebného dohľadu.
+   8. Zhotoviteľ stavby zodpovedá stavebníkovi, že zhotovená stavba je v súlade so
+        základnými požiadavkami na stavby, so stavebno-technickými požiadavkami na
+       výstavbu, s predpismi na úseku ochrany pred požiarmi, hygienickými a teclmickými
+       predpismi a s overeným projektom stavby.
+   9. Zhotoviteľ stavby je povinný:
+   a) Zabezpečiť výkon geodetických a kartografických činností na stavbe geodetom a určiť
+        hlavného geodeta na stavbe
+   b) Zhotovovať stavbu v súlade s overeným projektom stavby a so zaužívanými
+        pracovnými postupmi a technologickými postupmi
+   c) Zabezpečiť, aby stavbu viedol oprávnený stavbyvedúci, a rešpektovať jeho pokyny
+        týkajúce sa organizácie, koordinácie a harmonogramu stavebných prác a iných činností
+        na stavbe, udržiavania poriadku a čistoty na stavenisku, umiestňovania stavebných
+        výrobkov na stavenisku a odvozu odpadu zo staveniska, zabezpečiť prívod vody
+        a elektriny, ak je prívod vody a elektriny potrebné zabezpečiť na uskutočňovanie
+        stavebných prác
+   d) Zabezpečiť vybavenie potrebné na uskutočňovanie stavebných prác, na prevádzku
+        stavebných mechanizmov a na pobyt osôb uskutočňujúcich stavebné práce
+   e) Umožniť kontrolu stavebným inšpektorom a rešpektovať požiadavky na dodržanie
+        overeného projektu stavby
+                                             6
+
+
+   f)   Uplatňovať    všeobecné zásady prevencie a požiadavky bezpečnosti práce a ochrany
+        zdravia pri práci podľa plánu bezpečnosti práce a rešpektovať pokyny koordinátora
+        bezpečnosti na stavenisku týkajúce sa uplatľiovania pracovných postupov a používania
+        ochranných pracovných pomôcok na stavbe
+    g) Použiť na zabudovanie do stavby stavebné výrobky, ktoré sú podľa základných
+        požiadaviek na stavby vhodné na zamýšľané použitie, a spôsobom mčeným výrobcom
+    h) Zabezpečiť, aby stavebné práce uskutočľiovali len fyzické osoby, ktoré majú potrebné
+        odbornosť, zdravotnú spôsobilosť a oprávnenie
+    i) Zabezpečiť ochranu pamiatkových hodnôt a dodržanie požiadaviek ochrany prírody,
+        naJma umožniť hniezdenie vtákov a prezimovanie netopierov a zabezpečiť
+        odstraľiovanie stromov po splnení podmienok podľa osobitného predpisu
+    j) Zabezpečiť priebežné vykonávanie kontroly statického zabezpečenia pomocných
+        stavebných konštrukcií
+    k) Pripraviť zhotovenú stavbu na kontrolnú prehliadku stavby a prizvať na kontrolnú
+        prehliadku projektanta a stavebníka
+    l) Odovzdať zhotovenú stavbu a dokumentáciu stavby stavebníkovi; zápis o odovzdaní
+        a prebratí zhotovenej stavby a dokumentáciu stavby je povinný zaznamenať
+        elektronicky v informačnom systéme
+    m) Vypratať stavenisko po trvalom ukončení stavebných prác
+    n) Zabezpečovať pri zhotovovaní stavby priebežne také opatrenia, aby nedochádzalo
+        k obmedzovaniu okolitého prostredia nadmerným hlukom, vibráciami, prašnosťou
+        alebo zápachom
+    o) Zabezpečiť zameranie priestorovej polohy odkrytej novopoloženej podzemnej
+        technickej infraštruktúry alebo iných podzemných častí stavby ešte pred ich zakrytím
+    p) Počas uskutočľiovania stavebných prác zaznamenať v stavebnom denníku dohodnuté
+        zmeny oproti overenému projektu stavby a ku kolaudácii stavby zabezpečiť
+        vypracovanie dokumentácie skutočného zhotovenia stavby.
+    lO. Stavebník je povinný zabezpečiť stavenisko v zmysle§ 6 ods. 3 stavebného zákona.
+    ll. Skladovanie stavebného materiálu počas výstavby na verejných priestranstvách, t.j. na
+uliciach, chodníkov a podobne sa zakazuje.
+    12. Stavebník je povinný dbať na to, aby pri uskutočľiovaní stavebných prác nedošlo
+        k spôsobeniu škôd na cudzích nehnuteľnostiach a majetku.
+    13. Stavebník je povinný rešpektovať existujúce inžinierske siete vedené v danom území a
+        pred začatím zemných prác písomne požiadať jednotlivých správcov inžinierskych
+        sietí o ich presné vytýčenie na základe predloženej objednávky a práce uskutočľiovať
+        tak, aby nedošlo k ich poškodeniu, prípadne je potrebné ich vhodne zabezpečiť pred
+        poškodením. Stavebník je povinný počas stavebných prác v ochranných pásmach
+        jestvujúcich inžinierskych sietí, vrátane ich križovania s plánovanou stavbou prizvať
+        jednotlivých správcov inžinierskych sietí, resp. ich zástupcov. V prípade, ak dôjde
+        k poškodeniu siete bezodkladne informovať správcu inžinierskych sietí. V ochranných
+        pásmach podzemných inžinierskych sietí a v blízkosti nadzemných objektov sa nesmie
+        používať vibračný valec a ryhy sa musia kopať ručne.
+    14. Odpad, ktorý vznikne stavebnými prácami počas výstavby rodinného domu je stavebník
+        povinný likvidovať v súlade so zákonom NR SR č. 79/2015 Z. z. o odpadoch a zmene
+        a doplnení niektorých zákonov a v súlade s VZN mesta Prešov.
+    15. Po skončení stavebných prác bude okolie stavby dané do pôvodného stavu, za čo
+        zodpovedá stavebník. Terénne úpravy je potrebné zrealizovať tak, aby nespôsobovali
+        škody tretím osobám, t.j. aby sa podstatne nezmenil vzhľad prostredia alebo odtokové
+        pomery v území. V opačnom prípade je potrebné požiadať stavebný úrad o vydanie
+        rozhodnutia teré1mych úprav podľa ustanovení stavebného zákona.
+                                             7
+
+
+   16. Rozhodnutie o stavebnom zámere nie je dokladom na samotnú realizáciu stavby.
+       Stavebník môže začať s uskutočňovaním stavby až po overení projektu stavby
+       v zmysle § 65 stavebného zákona.
+   17. Stavebník je povinný uskutočňovať na stavbe iba také stavebné práce, ktoré sú
+       v súlade s overeným projektom stavby.
+   18. Ak sa na stavbe majú uskutočniť stavebné práce vedúce k odchýlke od overeného
+       projektu stavby, stavebník je povinný postupovať podľa§ 43 stavebného zákona.
+   19. Overovacia doložka stráca platnosť, ak sa so stavebnými prácami nezačalo do dvoch
+       rokov odo dňa jej vydania v zmysle§ 65 ods. 6 stavebného zákona.
+   20. Stavebník je pri uskutočňovaní stavby povinný dodržať požiadavky dotknutých orgánov
+       uplatnené v záväzných stanoviskách, ak nie sú určené správnymi rozhodnutiami a
+       požiadavky uplatnené vo vyjadreniach dotknutých právnických osôb.
+   21. Stavebník je pri uskutočňovaní stavby povinný dodržať požiadavky dotknutých orgánov
+       uplatnené v záväzných stanoviskách, ak nie sú určené správnymi rozhodnutiami a
+       požiadavky uplatnené vo vyjadreniach dotknutých právnických osôb.
+   22. Stavba sa môže užívať iba na základe kolaudačného osvedčenia, ktoré na podaný
+       písomný návrh stavebníka podľa § 66 stavebného zákona vydá stavebný úrad.
+       Stavebník je povinný ku kolaudácií stavby doložit' najmä atesty a certifikáty
+       všetkých výrobkov a materiálov použitých na stavbe, projekt skutočného
+       vyhotovenia stavby, geodetické zameranie stavby a normalizované hodnotenie
+       energetickej hospodárnosti budov (energetický certifikát).
+   23. Stavebník je povinný uskutočniť stavbu v lehote 36 mesiacov od začatia stavby.
+   24. Prístupové cesty k stavbe musia byť zhotovené do začatia užívania stavby.
+
+Osobitné podmienky:
+
+    25. Stavebník je povinný dodržať podmienky uvedené vo vyjadrení VVS a. s., závod
+         Prešov, č. 382112026/0 zo dňa 14.01.2026:
+- upozorňujeme investora, že v prípade, ak pred vypracovaním projektovej dokumentácie nebol
+vytýčený verejný vodovod a verejná kanalizácia, teda nebola upresnená trasa vodovodu
+a kanalizácie, naša spoločnosť neručí za informáciu o situovaní verejného vodovodu a verejnej
+kanalizácie uvedenú v predloženej projektovej dokumentácii, čo je v súlade so Stavebným
+zákonom č, 25/2025 Z. z.
+- vodomerná šachta musí spfňať technické podmienky, a to minimálne rozmery obdfžnikovej
+šachty musia byť 900x1200mm, kruhová vodomerná šachta musí mať min. vnútorný prierez
+l OOOmm. Obidva typy musia mat' minimálnu vnútornú výšku vrátane vstupného komína 1600
+mm a vstupný otvor 600x600 mm. Štandardná výška vstupného komína je 200 mm . Vodovodné
+potrubie vrátane vodomernej zostavy viesť cez šachtu v priamom smere bez oblúkov a ohybov.
+Vodomernú šachtu vystrojiť výstupkom, ku ktorému bude možné pripevniť držiak vodomernej
+zostavy,
+- pokiaľ plánujete odvádzať splaškové odpadové vody zo suterénnych priestorov, žiadame
+zabezpečiť ochranu objektu pred jeho zaplavením vzdutou vodou, ku ktorému môže dôjsť
+v dôsledku zvýšeného prietoku odvádzaných splaškových vôd v kanalizačnej sieti alebo
+v dôsledku poruchy na kanalizačnej sieti
+- kanalizačnou prípojkou bude možné vypúšťať iba splaškové odpadové vody z dôvodu, že
+v záujmovej lokalite bude verejná kanalizácia vybudovaná ako delená
+-pred realizáciou vodovodnej a kanalizačnej prípojky a montáže meradla je potrebné navštíviť
+ VVS a. s. Závod Prešov - zákaznícke centrum za účelom podania písomnej žiadosti o napojenie
+ (tlačivo obdržíte na našom závode) spolu s PD vodomernej a kanalizačnej prípojky, listom
+vlastníctva, kópiou katastrálnej mapy M 1:10000, kópiou tohto vyjadrenia. Zároveň bude
+                                              8
+
+
+uzavretá zmluva o dodávke vody z verejného vodovodu a odvádzaní odpadových vôd do
+verejnej kanalizácie.
+
+26. Stavebník je povinný dodržať podmienky uvedené v stanovisku prevádzkovateľa
+distribučnej sústavy VSD a. s., č. 22112026 zo dňa 07.01.2026:
+- pred začatím zemných prác, si v prípade potreby objednajte vytýčenie káblov, a to
+prostredníctvom nášho eshopu na www. vsdeshop.sk
+- v prípade, že bude križované naše podzemné vedenie, alebo dôjde ku súbehu plánovaného
+výkopu s ním, je bezpodmienečne nutné zaistiť naše vedenie proti vzniku previsu
+- odkryté vedenie musí byť chránené proti mechanickému poškodeniu
+-pri križovaní, resp. súbehu nášho vedenia s novo ukladanými inžinierskymi sieťami musia byť
+dodržané minimálne vzdialenosti, stanovené v STN 73 6005 Zmena a) tab. l , 2
+- pred zasypaním odkrytého kábla Východoslovenskej distribučnej a. s. žiadame, aby bol
+prizvaný zástupca našej spoločnosti kvôli kontrole nepoškodenosti vedenia
+-zástupcu našej spoločnosti žiadame kontaktovať minimálne 2 pracovné dni pred zasypaním
+-pri zmene kategórie priestoru (povrchu) nad jestvujúcimi NN a VN podzemnými vedeniami
+v zmysle STN 73 6005 (chodník, vozovka, vol'ný terén) je potrebné na náklady stavebníka
+doplniť podľa potreby ochranu el. káblov proti ich mechanickému poškodeniu v súlade
+s normami STN 34 1050, STN 33 2000-5-52 a 73 6005.
+
+27. Stavebník je povinný dodržať podmienky uvedené v rozhodnutí Okresného úradu Prešov,
+pozemkový a lesný odbor č . OU-PO-PLOl-2026/054859-002 zo dňa 21.04.2026.
+
+28. Stavebník je povinný dodržať podmienky uvedené v záväznom stanovisku KPÚ Prešov, č.
+Z-PUSR-000165/2026 zo dňa 05.01.2026:
+- nálezca/stavbyvedúci je povinný v zmysle § 40 pamiatkového zákona a § 44 stavebného
+zákona oznámiť každý archeologický nález Krajskému pamiatkovému úradu Prešov a urobiť
+nevyhnutné opatrenia na ochranu nálezu do jeho odborného posúdenia.
+
+29. Stavebník je povinný dodržať podmienky uvedené vo vyjadrení Slovak Telekom a. s. č.
+6612600233 zo dňa 07.01.2026:
+- existujúce zariadenia sú chránené ochranným pásmom (§ 23 zákona č. 45212021 Z. z.)
+a zároveň je potrebné dodržať ustanovenie§ 108 zákona č. 452/2021 Z. z. o ochrane proti
+rušeniu,
+- vyjadrenie stráca platnosť plynutím doby platnosti uvedenej vyššie vo vyjadrení, v prípade
+zmeny vyznačeného polygónu, dôvodu žiadosti, účelu žiadosti, v prípade ak uvedené parcelné
+číslo v žiadosti nezodpovedá vyznačenému polygónu alebo ak si stavebník nesplní povinnosti
+podľa bodu 3,
+- stavebník alebo ním poverená osoba je povinná v prípade ak zistil, že jeho zámer, pre ktorý
+podal uvedenú žiadost; je v kolízii so SEK Slovak Telekom a. s. a/alebo DIGI SLOVAKIA, s. r.
+o. , alebo zasahuje do ochranného pásma týchto sietí (najneskôr pred spracovaním projektovej
+dokumentácie stavby), vyzvať spoločnosť Slovak Telekom a. s. na stanovenie konkrétnych
+podmienok ochrany alebo predloženia SEK prostredníctvom zamestnanca spoločnosti
+povereného správou sieti: Patrik Kočiš, patrik.kocis@telekom.sk, +421 51 7722299,
+0914700135,
+- v prípade ak na Vami definovanom území v žiadosti o vyjadrenie sa nachádza nadzemná
+telekomunikačná siet; ktorá je vo vlastníctve Slovak Telekom, a. s. a/alebo DIGI SLOVAKIA,
+s. r. o., je potrebné zo strany žiadatel'a zabezpečiť nadzemnú siet' proti poškodeniu alebo
+narušeniu ochranného pásma,
+                                             9
+
+
+- nedodržanie vyššie uvedených podmienok ochrany zariadení je porušením povinností podľa
+§ 23 zákona č. 452/2021 Z z. o elektronických komunikáciách v platnom znení,
+-žiadateľ môže vyjadrenie použiť iba na účel, pre ktorý mu bolo vystavené. Okrem použitia na
+účel konani podľa stavebného zákona a následnej realizácie výstavby, žiadateľ nie je
+oprávnený poskytnuté informácie a dáta ďalej rozširova( prenajímať alebo využívať bez
+súhlasu spoločnosti Slovak Telekom a. s.
+
+30. Stavebník je povinný dodržať podmienky uvedené vo vyjadrení Okresného úradu Prešov,
+odbor starostlivosti o životné prostredie, č. OU-PO-OSZP3-2026/039949-002 zo dňa
+18 .. 03.2026:
+- spôsob nakladania s odpadom vznikajúcim počas výstavby musi byť v súlade so zákonom
+o odpadoch, vyhláškou MŽP SR č. 344/2022 Z z. , o stavebných odpadoch a odpadoch
+o demolácii, vyhláškou MŽP SR č. 371/2015 Z z., ktorou sa vykonávajú niektoré ustanovenia
+zákona o odpadoch v znení neskorších predpisov a vyhláškou č. 365/2015 Z z., ktorou sa
+ustanovuje Katalóg odpadov v znení neskorších predpisov
+-pri nakladani s odpadom musia byt' splnené povinnosti držiteľa odpadu v zmysle§ 12 a § 14
+zákona o odpadoch v nadväznosti na plnenie povinností podľa § 77 zákona o odpadoch, a to
+najmä:
+-stavebné odpady prednostne materiálovo zhodnotiť a výstup z recyklácie realizovaný v mieste
+vzniku prednostne využiť pri svojej činnosti, ak to technické, ekonomické a organizačné
+podmienky dovoľujú
+- zabezpečiť pred vznikom odpadov odovzdávaných osobe oprávnenej nakladať s odpadom na
+základe povoleni podľa zákona o odpadoch preukázateľný zmluvný vzťah o fyzickom nakladaní
+s odpadmi, uzatvorený minimálne v rozsahu určenom vykonávacím predpisom vyhláškou MŽP
+SR 344/2022 Z z.
+- počas realizácie stavby zabezpečit; aby nedošlo k uloženiu odpadu z predmetnej stavby na
+cudzích pozemkoch - zabrániť vzniku divokých skládok zo vznikajúceho odpadu
+ - ku kolaudácii predloží pôvodca odpadu písomný doklad preukazujúci spôsob nakladania
+s jednotlivými kategóriami odpadov spolu s evidenciou o vzniknutých množstvách odpadov
+ -upozorňujeme, že podľa § 77 ods. 2 pôvodcom odpadu pri vykonávaní stavebných prác pre
+fyzické osoby je ten, kto uvedené práce vykonáva.
+
+31. Stavebník je povinný dodržať podmienky uvedené v záväznom stanovisku Okresného
+úradu Prešov, odbor starostlivosti o životné prostredie, č. OU-PO-OSZP3-2026/064500-002
+zo dňa 22.05.2026:
+-v prípade potreby výrubu drevín s obvodom kmeňa do 90 cm, meraným vo výške 130 cm nad
+zemou, a súvislých krovitých porastov s výmerou do 200 m2, ak ide o dreviny rastúce za
+hranicami zastavaného územia obce navrhovateľ pred vydaním rozhodnutia o povoleni stavby
+predloží povoľujúcemu orgánu súhlas v súlade s§ 47 zákona o ochrane prírody a krajiny od
+príslušného orgánu ochrany prírody
+- v prípade výskytu inváznych nepôvodných druhov uvedených v národnom zozname alebo
+v zozname Európskej únie na predmetných pozemkoch, je potrebné pri realizácii stavby prijať
+opatrenia na zamedzenie ich úniku alebo šírenia(§ 3 ods. l zákona č. 15012019 Z z. o prevencii
+a manažmente introdukcie a šírenia inváznych nepôvodných druhov a o zmene a doplnení
+niektorých zákonov) a po ukončeni prác je potrebné pozemok udržiavať a v prípade výskytu
+inváznych nepôvodných druhov, je potrebné ich systematicky odstraňova( Zoznam inváznych
+nepôvodných druhov rastlín je uvedený v Nariadeni vlády č 44912019 Z z. a spôsoby ich
+odstraňovania sú uvedené v prílohe č. 2 vyhlášky MŽP SR č. 450/2019 Z z., ktorou sa
+ustanovujú podmienky a spôsoby odstraňovania inváznych nepôvodných druhov
+                                             10
+
+
+- stavebník počas realizácie stavby zab ezpe čí ochranu zostávajúcich drevín rastúcich mimo
+lesa na všetkých parcelách dotknutých stavebnými objektmi pred poškodením a zničením
+v súlade s STN 83 7010 Ochrana prírody Ošetrovanie, udržiavanie a ochrana stromovej
+vegetácie, najmä:
+-ochranu koreňového priestoru pred zhutnením vo vzdialenosti min. 2, 5 m od km eňa, nesmú sa
+prerušil' korene hrubšie ako 3 cm, v prípade výkopov v koreňovom priestore tieto realizovať
+ručne,
+-ochranu kmeňa pred mechanickým poškodením debnením do výšky min. 2 m bez poškodenia
+stromu a nesmie sa umiestnil' bezprostredne na koreňové nábehy,
+-ochranu koruny vyviazaním konárov, bez orezu konárov.
+
+Námietky účastníkov konania:
+      Námietky účastníkov konania k predmetnej stavbe neboli vznesené. Pripomienky
+dotknutých orgánov k predmetnej stavbe boli zahrnuté do podmienok tohto rozhodnutia.
+
+Lehota platnosti rozhodnutia o stavebnom zámere:
+       Podľa § 61 ods. l Stavebného zákona rozhodnutie o stavebnom zámere platí dva roky
+odo dňa, keď nadobudlo právoplatnosť, nestráca však platnosť, ak bola v týchto lehotách
+podaná žiadosť o overenie projektu stavby. Rozhodnutie o stavebnom zámere stráca platnosť
+dňom straty platnosti overovacej doložky. Podľa§ 61 ods. 4 stavebného zákona rozhodnutie o
+stavebnom zámere je záväzné aj pre právnych nástupcov účastníkov konania. Podľa § 62 ods.
+3 stavebného zákona možno lehotu platnosti rozhodnutia o stavebnom zámere predÍžiť na
+žiadosť stavebníka podanú pred jej uplynutím najviac o dva roky.
+
+
+Správny poplatok:
+Správny poplatok podľa zákona č. 145/1995 Z. z. o správnych poplatkoch v znení neskorších
+predpisov vo výške 390,- € bol zaplatený dňa 20.05.2026. (Poplatok bol uhradený hromadne
+a to za úkony: za rozhodnutie o stavebnom zámere pre jednobytovú budovu vo výške 300 €
+a za overenie projektu stavby ak je projekt stavby posúdený spolu so stavebným zámerom vo
+výške 90 €).
+
+                                    Odôvodnenie
+       Dňa 20.05.2026 požiadal stavebník o vydanie rozhodnutia o stavebnom zámere na
+stavbu: "Rodinný dom A", na pozemku parc. č. KN-C 14132/373, k. ú. Prešov.
+
+       Stavebný úrad rozhodnutím zo dňa 28.05.2026 prerušil konanie a vyzval stavebníka na
+doloženie dokladov. Stavebník svojím podaním zo dňa 16.06.2026 doručil stavebnému úradu
+požadované doklady. Stavebný úrad následne dňa 10.08.2026 vydal oznámenie o začatí
+konania o stavebnom zámere verejnou vyhláškou podľa § 51 ods. 3 stavebného zákona. Pretože
+stavebnému úradu boli dobre známe pomery na stavenisku a žiadosť poskytovala dostatočný
+podklad pre posúdenie navrhovanej stavby, upustil od miestneho šetrenia a ústneho
+pojednávania podľa § 53 ods. 2 stavebného zákona a poskytol účastníkom konania 7
+pracovných dní od doručenia oznámenia na uplatnenie námietok k navrhovanej stavbe.
+Oznámenie o začatí konania o stavebnom zámere bolo vyvesené na úradnej tabuli mesta Prešov
+od 04.09.2026 do 21.09.2026. Námietky účastníkov konania neboli v stanovenej lehote
+vznesené. Predložená žiadosť bola preskúmaná z hľadísk uvedených v § 57, 55 , 58 a 63
+stavebného zákona a bolo zistené, že umiestnením a uskutočnením stavby nie sú ohrozené
+záujmy spoločnosti ani neprimerane obmedzené či ohrozené záujmy účastníkov konania.
+                                            ll
+
+
+       Dokumentácia stavby spÍňa všeobecné technické požiadavky na výstavbu podl'a § 19
+stavebného zákona. Stavebný úrad nezistil dôvody, ktoré by bránili povoleniu stavby.
+
+       K použitiu poľnohospodárskej pôdy pre výstavbu rodinného domu bolo vydané
+stanovisko Okresného úradu Prešov, pozemkový a lesný odbor č. OU-PO-PLOl-2026/054859-
+002 zo dňa 21.04.2026.
+
+      Stavebný úrad takto dospel k záveru, že stavebník spÍňa všetky podmienky pre vydanie
+rozhodnutia, a preto bolo potrebné rozhodnúť tak, ako je uvedené vo výrokovej časti tohto
+rozhodnutia.
+
+       Toto rozhodnutie o stavebnom zámere bude doručované verejnou vyhláškou podľa
+§ 26 Správneho poriadku v súlade s § 61 Stavebného zákona.
+
+
+Poučenie:
+
+
+       Proti tomuto rozhodnutiu má účastník konania právo podať odvolanie v súlade s § 53 a
+§54 Správneho poriadku v lehote do 15 dní odo dňa oznámenia (doručenia). Dňom oznámenia
+(doručenia) rozhodnutia verejnou vyhláškou je 15. deň odo dňa vyvesenia.
+
+
+       Odvolanie sa podáva na Mesto Prešov - stavebný úrad, Hlavná 73, 080 Ol Prešov,
+pričom odvolacím orgánom je Úrad pre územné plánovanie a výstavbu Slovenskej republiky.
+Toto rozhodnutie je preskúmateľné súdom až po vyčerpaní riadnych opravných prostriedkov.
+
+      Po správoplatnení tohto rozhodnutia Mesto Prešov- stavebný úrad overí projekt stavby
+v zmysle § 65 stavebného zákona.
+
+
+
+
+                                                                        Mgr. Ján Kovaľ
+                                                                       poverený riadením
+                                                                        stavebného úradu
+                                             12
+
+
+Rozhodnutie sa doručuje:
+
+-   účastníkom konania:
+- Verejnou vyhláškou
+
+    dotknutým orgánom:
+l. Mesto Prešov - Odbor hlavného architekta, Hlavná 73 , 080 Ol Prešov
+2. Krajský pamiatkový úrad Prešov, IČO 31755194, Hlavná 115,080 Ol Prešov
+3. Okresný úrad Prešov, pozemkový a lesný odbor, IČO 00151866, Masarykova 10, 080
+   Ol Prešov
+4. Okresný úrad Prešov, odbor starostlivosti o životné prostredie, Nám. Mieru 3, 080 Ol
+   Prešov, IČO: 00151866
+S. Ministerstvo obrany SR, Nám. Gen. Viesta 2, 832 47 Bratislava-Nové Mesto, IČO:
+   30 845 572
+
+-   dotknutým právnickým osobám:
+l. Slovak Telekom, a.s., IČO 35763469, Karadžičova 10, 825 13 Bratislava
+2. Východoslovenská distribučná, a. s., IČO 36599361 , Mlynská 31 , 042 91 Košice-Sever
+3. SPP- distribúcia, a.s., IČO 35910739, Plátennícka 19013/2, 821 05 Bratislava-Ružinov
+4. Východoslovenská vodárenská spoločnosť, a.s., IČO 36570460, Komenského 50, 040
+    Ol Košice
+
+CO/
+
+Mesto Prešov- stavebný úrad
+
+
+Úradný záznam:
+Verejná vyhláška, ktorou sa oznamuje vydanie rozhodnutia o stavebnom zámere stavby:
+"Rodinný dom A" bola vyvesená na úradnej a elektronickej tabuli mesta Prešov
+
+                                                         "                    27. NO~ 2UZ6
+                                                       dna .................................................... .
+
+
+                                                                                          _,_
+                                                                                           ~
+                                                                                                ..
+                                                                                                ~~ '
+                                                                                                       podpis
+                                                                             Hlavná č. 73
+                                                                      080 Ol PRE Š O V .
+                                                                                   - 1-
+
+
+Verejná vyhláška, ktorou sa oznamuje vydanie rozhodnutia o stavebnom zámere stavby:
+"Rodinný dom A" bola zvesená z úradnej a elektronickej tabule mesta Prešov
+
+
+
+                                                       dňa .................................................... .
+
+
+
+                                                                                    Pečiatka a podpis
+

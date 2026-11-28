@@ -1,0 +1,45 @@
+URL: https://www.obecklcov.sk/faktury?&eregister=faktury&ur_page=1&count=10&detail=1414879
+OBEC: Klčov (Levoča)
+NÁZOV: Ihrisko pre každé dieťa
+ZDROJ: web obce
+
+=== STRÁNKA https://www.obecklcov.sk/faktury?&eregister=faktury&ur_page=1&count=10&detail=1414879
+Faktúry | Klčov
+×
+Oficiálne stránky obce
+Klčov
+Faktúry
+zoznam faktúr
+Detail faktúry
+Číslo
+2026312
+Interné číslo
+2026312
+Predmet
+Ihrisko pre každé dieťa
+Typ faktúry
+odberateľská
+Splatnosť
+25-11-2026
+Dátum zverejnenia
+13-11-2026
+Dátum vystavenia
+26-10-2026
+Dátum úhrady
+30-10-2026
+Dátum evidencie
+29-10-2026
+Zmluvná strana
+Odberateľ
+: Obec Klčov, IČO: 00329240, Adresa: Klčov 112, Mesto: Klčov, PSČ: 05302
+Dodávateľ
+: SPORT PLAY s. r. o., IČO: 56372442, Adresa: Laborecká 462/12, Mesto: Košice - mestská časť Západ, PSČ: 04011
+Suma s DPH*
+54668.58
+Mena
+€
+*
+Uvedená cena je konečná. Ak je dodávateľ platcom DPH, cena je vrátane DPH.
+zoznam faktúr
+Generované portálom
+Uradne.sk

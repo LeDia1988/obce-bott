@@ -1,0 +1,169 @@
+URL: https://obec.dobraobec.sk/files/158/dokumenty/3216d_Návrh rozpočtu na roky 2027-2029.pdf
+OBEC: Nižný Komárnik (Svidník)
+NÁZOV: 3216d_Návrh rozpočtu na roky 2027-2029.pdf
+ZDROJ: web obce
+
+                                                                                                                            Obec Nižný Komárnik
+
+Obec         Nižný K omárnik
+IČO:          00330825
+                                                 Návrh rozpočtu na roky 2027-2029
+                                          schválený dňa __.12.2026 - č. uznesenia __/12/2026
+       Klasifikácia                                                                                      Rozpočet na roky
+                           Kód
+                                                               Text
+                          zdroja                                                          2027                2028               2029
+ funkčná     ekonomická
+PRÍJEM:
+                111003     41     Výnos dane z príjmov samospráve                          62.320,00 €        62.320,00 €         62.320,00 €
+                121001     41     Daň z pozemkov                                            3.247,00 €         3.247,00 €          3.247,00 €
+                121002     41     Daň zo stavieb                                              632,00 €           632,00 €            632,00 €
+                133001     41     Daň za psa                                                  140,00 €           140,00 €            140,00 €
+                133013     41     Poplatky za likvidáciu TKO                                4.446,00 €         4.446,00 €          4.446,00 €
+                212003     41     Príjmy z prenajatých budov- byty, KSB                     8.000,00 €         8.000,00 €          8.000,00 €
+                221002     41     Poplatky ostatné - správne                                   50,00 €            50,00 €             50,00 €
+                292012     41     Príjmy z dobropisov                                           0,00 €             0,00 €              0,00 €
+                             Spolu bežné príjmy - vlastné zdroje                           78.835,00 €        78.835,00 €         78.835,00 €
+                312001     111    Aktivačná činnosť                                             0,00 €             0,00 €              0,00 €
+                312001     111    Sociálne dávky                                           30.000,00 €        30.000,00 €         30.000,00 €
+                312001     111    Rodinné prídavky                                         15.000,00 €        15.000,00 €         15.000,00 €
+                312001     111    Voľby, sčítavanie obyvateľov                                  0,00 €             0,00 €              0,00 €
+                312012     111    REGOB                                                        60,00 €            60,00 €             60,00 €
+                312012     111    Register adries                                              18,00 €            18,00 €             18,00 €
+                312012     111    OÚ ŽP povodne                                                26,00 €            26,00 €             26,00 €
+                  315      72c    Transfer od DPO SR                                            0,00 €             0,00 €              0,00 €
+                             Spolu bežné príjmy - štátne zdroje                            45.104,00 €        45.104,00 €         45.104,00 €
+                                      BEŽNÉ PRÍJMY                                        123.939,00 €       123.939,00 €        123.939,00 €
+                454001     46     Použitie rezervného fondu                                     0,00 €             0,00 €              0,00 €
+                            FINANČNÉ OPERÁCIE - príjmové                                        0,00 €             0,00 €              0,00 €
+                                     SPOLU PRÍJMY                                         123.939,00 €       123.939,00 €        123.939,00 €
+                                                                                                                         Obec Nižný Komárnik
+     Klasifikácia                                                                                     Rozpočet na roky
+                         Kód
+                                                               Text
+                        zdroja                                                          2027               2028               2029
+ funkčná   ekonomická
+VÝDAJ:
+   0111       611.       41      Základný plat                                          24.060,00 €        24.060,00 €         24.060,00 €
+   0111       614.       41      Odmeny                                                      0,00 €             0,00 €              0,00 €
+   0111       621.       41      Poistné do VšZP 10 %                                    2.812,00 €         2.812,00 €          2.812,00 €
+   0111       623.       41      Poistné do ost. ZP                                          0,00 €             0,00 €              0,00 €
+   0111       625001     41      Nemocenské poistenie 1,4 %                                360,00 €           360,00 €            360,00 €
+   0111       625002     41      Na starobné poistenie 14 %                              3.600,00 €         3.600,00 €          3.600,00 €
+   0111       625003     41      Na úrazové poistenie 0,8 %                                205,00 €           205,00 €            205,00 €
+   0111       625004     41      Na invalidné poistenie 3 %                                770,00 €           770,00 €            770,00 €
+   0111       625005     41      Na poistenie v nezamestnanosti 1 %                        260,00 €           260,00 €            260,00 €
+   0111       625007     41      Na poistenie do rezervného fondu 4,7 %                  1.220,00 €         1.220,00 €          1.220,00 €
+   0111       632002     41      Vodné, stočné                                             100,00 €           100,00 €            100,00 €
+   0111       632003     41      Poštovné                                                  250,00 €           250,00 €            250,00 €
+   0111       632004     41      Internet                                                  300,00 €           300,00 €            300,00 €
+   0111       632005     41      Telefón                                                   650,00 €           650,00 €            650,00 €
+   0111       632006     41      Elektrina                                               4.000,00 €         4.000,00 €          4.000,00 €
+   0111       633001     41      Interiérové vybavenie                                   1.000,00 €         1.000,00 €          1.000,00 €
+   0111       633004     41      Pracovné stroje, prístroje a zariadenia                     0,00 €             0,00 €              0,00 €
+   0111       633006     41      Všeobecný materiál                                      2.000,00 €         2.000,00 €          2.000,00 €
+   0111       633016     41      Reprezentačné                                           1.497,00 €         1.497,00 €          1.497,00 €
+   0111       634001     41      PHM - vozidlo                                             600,00 €           600,00 €            600,00 €
+   0111       634002     41      Servis vozidla                                            200,00 €           200,00 €            200,00 €
+   0111       634003     41      PZP - vozidlo                                             180,00 €           180,00 €            180,00 €
+   0111       635004     41      Údržba prevádzkových strojov, prístrojov a zariadení      200,00 €           200,00 €            200,00 €
+   0111       635006     41      Údržba budov, priestorov a objektov                         0,00 €             0,00 €          3.000,00 €
+   0111       637001     41      Školenie                                                  200,00 €           200,00 €            200,00 €
+   0111       637003     41      Propagácia, reklama, inzercia                             300,00 €           300,00 €            300,00 €
+   0111       637004     41      Všeobecné služby                                        2.000,00 €         2.000,00 €          2.000,00 €
+   0111       637005     41      Špeciálne služby - audit, právnik                         600,00 €           600,00 €            600,00 €
+   0111       637012     41      Poplatky, odvody, dane                                    200,00 €           200,00 €            200,00 €
+   0111       637015     41      Poistné                                                   350,00 €           350,00 €            350,00 €
+   0111       637016     41      Prídel do soc. fondu                                      200,00 €           200,00 €            200,00 €
+   0111       637026     41      Odmeny a príspevky pre poslancov OZ                     1.500,00 €         1.500,00 €          1.500,00 €
+   0111       637027     41      Dohody                                                  1.000,00 €         1.000,00 €          1.000,00 €
+                                                                                                   Obec Nižný Komárnik
+0111   637040   41   Webstránka                                            300,00 €     300,00 €            300,00 €
+0111   642006   41   Na členské príspevky                                  400,00 €     400,00 €            400,00 €
+0111   642014   41   Tranfery jednotlivcovi - príspevok na stravovanie     300,00 €     300,00 €            300,00 €
+0111   653001   41   Manipulačné poplatky                                   40,00 €      40,00 €             40,00 €
+0111   653002   41   Provízie                                               50,00 €      50,00 €             50,00 €
+0111   651002   41   Splácanie úrokov z úveru                              500,00 €     500,00 €            500,00 €
+0111   651003   41   Splácanie úrokov ŠFRB                                  70,00 €      70,00 €             70,00 €
+0320   633010   41   DHZ - Pracovné odevy                                    0,00 €       0,00 €              0,00 €
+0320   642006   41   DHZ - členské                                         150,00 €     150,00 €            150,00 €
+0451   633006   41   Posypový materiál                                     300,00 €     300,00 €            300,00 €
+0451   637004   41   Odhŕňanie snehu                                     1.500,00 €   1.500,00 €          1.500,00 €
+0451   637015   41   Poistné                                                 0,00 €       0,00 €              0,00 €
+0510   633004   41   Prev.stroje, náradie, odpad. nádoby                   500,00 €     500,00 €            500,00 €
+0510   637004   41   Vývoz TKO                                           4.000,00 €   4.000,00 €          4.000,00 €
+0510   637012   41   TKO - zákonný poplatok                                500,00 €     500,00 €            500,00 €
+0520   633006   41   Všeobecný materiál ČOV                                500,00 €     500,00 €            500,00 €
+0520   632006   41   Energie ČOV                                         2.000,00 €   2.000,00 €          2.000,00 €
+0520   635006   41   Údržba ČOV                                            600,00 €     600,00 €            600,00 €
+0520   637004   41   Služby ČOV                                          1.000,00 €   1.000,00 €          1.000,00 €
+0520   633010   41   Pracovné odevy - ČOV                                   80,00 €      80,00 €             80,00 €
+0610   633006   41   Všeobecný materiál - nájomné byty                       0,00 €       0,00 €              0,00 €
+0610   635006   41   Rozvoj bývania- údržba nájomných bytov                  0,00 €       0,00 €              0,00 €
+0610   637004   41   Služby - nájomné byty                                 600,00 €     600,00 €            600,00 €
+0610   637005   41   Vypracovanie žiadosti - byty                          400,00 €     400,00 €            400,00 €
+0610   637015   41   Poistné                                               300,00 €     300,00 €            300,00 €
+0620   611.     41   Základný plat                                       1.944,00 €   1.944,00 €          1.944,00 €
+0620   621.     41   Poistné do VšZP 10 %                                  214,00 €     214,00 €            214,00 €
+0620   625001   41   Nemocenské poistenie 1,4 %                             28,00 €      28,00 €             28,00 €
+0620   625002   41   Na starobné poistenie 14 %                            273,00 €     273,00 €            273,00 €
+0620   625003   41   Na úrazové poistenie 0,8 %                             16,00 €      16,00 €             16,00 €
+0620   625004   41   Na invalidné poistenie 3 %                             60,00 €      60,00 €             60,00 €
+0620   625005   41   Na poistenie v nezamestnanosti 1 %                     20,00 €      20,00 €             20,00 €
+0620   625007   41   Na poistenie do rezervného fondu 4,7 %                 93,00 €      93,00 €             93,00 €
+0620   633011   41   Pitný režim - AČ                                      300,00 €     300,00 €            300,00 €
+0620   633015   41   Palivá a energie                                      300,00 €     300,00 €            300,00 €
+0620   637015   41   Poistné                                               300,00 €     300,00 €            300,00 €
+0640   632006   41   Energie VO                                            500,00 €     500,00 €            500,00 €
+                                                                                                        Obec Nižný Komárnik
+0640   633006    41     Všeobecný materiál - verejné osvetlenie               100,00 €       100,00 €            100,00 €
+0640   635006    41     Údržba verejného osvetlenia                           100,00 €       100,00 €            100,00 €
+0810   637002    41     Športový deň                                        1.000,00 €     1.000,00 €          1.000,00 €
+0820   633016    41     Reprezentačné                                         100,00 €       100,00 €            100,00 €
+0820   637002    41     Poplatky                                               20,00 €        20,00 €             20,00 €
+0840   632002    41     Vodné, stočné - cintorín                              150,00 €       150,00 €            150,00 €
+0840   637004    41     Všeobecné služby                                       30,00 €        30,00 €             30,00 €
+0860   637002    41     Konkurzy, súťaže                                    2.000,00 €     2.000,00 €          2.000,00 €
+                  Spolu bežné výdavky - vlastné zdroje                     72.252,00 €    72.252,00 €         75.252,00 €
+0111     611     111    Tarifný plat - REGOB, Register adries                  78,00 €        78,00 €             78,00 €
+0160     621     111    VšZP                                                    0,00 €         0,00 €              0,00 €
+0160   625002    111    Starobné poistenie                                      0,00 €         0,00 €              0,00 €
+0160   625003    111    Úrazové poistenie                                       0,00 €         0,00 €              0,00 €
+0160   625004    111    Invalidné poistenie                                     0,00 €         0,00 €              0,00 €
+0160   625007    111    Poistenie do RF                                         0,00 €         0,00 €              0,00 €
+0160   632001    111    Energie                                                 0,00 €         0,00 €              0,00 €
+0160   632003    111    Poštovné                                                0,00 €         0,00 €              0,00 €
+0160   632005    111    Telekomunikačné služby                                  0,00 €         0,00 €              0,00 €
+0160   633006    111    Všeobecný materiál, kancelárske potreby                 0,00 €         0,00 €              0,00 €
+0160   633016    111    Reprezentačné                                           0,00 €         0,00 €              0,00 €
+0160   634004    111    Prepravné                                               0,00 €         0,00 €              0,00 €
+0160   637007    111    Cestovné náhrady                                        0,00 €         0,00 €              0,00 €
+0160   637026    111    Odmeny členom a zapisovateľom VK                        0,00 €         0,00 €              0,00 €
+0160   637027    111    Dohody                                                  0,00 €         0,00 €              0,00 €
+0320   633010    72c    Pracovné odevy                                          0,00 €         0,00 €              0,00 €
+0560   633006    111    Všeobecný materiál - povodne                           26,00 €        26,00 €             26,00 €
+0620   633006    111    Všeobecný materiál AČ                                   0,00 €         0,00 €              0,00 €
+0620   633010    111    Ochranné pomôcky AČ                                     0,00 €         0,00 €              0,00 €
+1070   642026    111    Transfery na dávku v HN Bj                         45.000,00 €    45.000,00 €         45.000,00 €
+                   Spolu bežné výdavky - štátne zdroje                     45.104,00 €    45.104,00 €         45.104,00 €
+                          BEŽNÉ VÝ DAVK Y                                 117.356,00 €   117.356,00 €        120.356,00 €
+0620    716      41     Projektová dokumentácie - verejné priestranstvo         0,00 €         0,00 €              0,00 €
+0810    716      41     Projektová dokumentácie - ihrisko                       0,00 €         0,00 €              0,00 €
+                Spolu kapitálové výdavky - vlastné zdroje                       0,00 €         0,00 €              0,00 €
+                      K APITÁLOVÉ VÝ DAVK Y                                     0,00 €         0,00 €              0,00 €
+0170   821005    41     Splácanie istiny z úveru                            6.000,00 €     6.000,00 €          3.000,00 €
+                                                                                           Obec Nižný Komárnik
+  0170      821005    46   Splácanie istiny z úveru                0,00 €         0,00 €              0,00 €
+  0170      821007    41   Splácanie tuzemskej istiny ŠFRB       583,00 €       583,00 €            583,00 €
+  0170      821007    46   Splácanie tuzemskej istiny ŠFRB         0,00 €         0,00 €              0,00 €
+                       FINAČNÉ OPERÁCIE - výdavkové            6.583,00 €     6.583,00 €          3.583,00 €
+                              SPOLU VÝ DAVK Y                123.939,00 €   123.939,00 €        123.939,00 €
+
+                               SPOLU PRÍJMY                  123.939,00 €   123.939,00 €        123.939,00 €
+                              SPOLU VÝ DAVK Y                123.939,00 €   123.939,00 €        123.939,00 €
+
+
+                      CELK OVÉ HOSPODÁRENIE OBCE                   0,00 €         0,00 €              0,00 €
+
+Vypracovala: Mgr. Jana Leščišinová
+

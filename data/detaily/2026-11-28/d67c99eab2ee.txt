@@ -1,0 +1,431 @@
+URL: https://egov.kezmarok.sk/FileOutputHttpHandler.ashx?arguments=CKbxha8fHkMog%2fdbHhxhse7vVSsffU%2fis%2fAhAFcPiqsjKk2ErEFHWDlWvXwrPHOok10oyqDV%2bvai94Z0vBsSsqhvw4kpyPCC1Q%3d%3d
+OBEC: Kežmarok (Kežmarok)
+NÁZOV: FileOutputHttpHandler.ashx
+ZDROJ: web obce
+
+                                          MESTO KEŽMAROK
+                                                             Mestský úrad
+                                                Hlavné námestie 1, 060 01 Kežmarok
+
+
+
+
+                          Návrh rozpočtu Mesta Kežmarok
+                                            na roky 2026 - 2028
+
+
+
+
+Podľa podkladov jednotlivých oddelení a referátov MsÚ Kežmarok spracoval:
+Ing. Marián Matta
+Mgr. Rozália Halčinová
+
+
+
+
+Návrh rozpočtu zverejnený: 27.11.2026                                       Návrh rozpočtu zvesený:
+
+Rozpočet schválený:                                                         Rozpočet zverejnený:
+                       Rozpočet pre roky 2026 - 2028 - r e k a p i t u l á c i a v €
+ rozpočet 2026   rozpočet 2027    rozpočet 2028    rozpočet 2026   rozpočet 2027   rozpočet 2028   rozpočet 2026   rozpočet 2027   rozpočet 2028
+            Bežné príjmy vrátane RO                        Bežné výdavky vrátane RO                          Saldo bežného rozpočtu
+ 24 121 227      24 386 733        24 470 378      23 807 284     23 851 283     23 871 560          313 943          535 450        598 818
+               Kapitálové príjmy                        Kapitálové výdavky vrátane RO                      Saldo kapitálového rozpočtu
+  4 642 957       1 055 000        1 055 000        6 267 045          0              0            -1 624 088        1 055 000      1 055 000
+           Finančné operácie - príjmy                     Finančné operácie - výdavky                       Saldo finančných operácií
+  4 439 973           0                0            1 321 900      1 285 600      1 285 600         3 118 073       -1 285 600     -1 285 600
+                PRÍJMY SPOLU                                  VÝDAVKY SPOLU                            SALDO CELKOVÉHO ROZPOČTU
+ 33 204 157      25 441 733        25 525 378      31 396 229     25 136 883     25 157 160         1 807 928         304 850        368 218
+
+
+
+                                 Rekapitulácia rozpočtov rokov 2023 - 2025 v €
+                                   očakávaná                                        očakávaná                                       očakávaná
+  skut. 2023      skut. 2024                        skut. 2023      skut. 2024                      skut. 2023      skut. 2024
+                                   skut. 2025                                       skut. 2025                                      skut. 2025
+            Bežné príjmy vrátane RO                        Bežné výdavky vrátane RO                          Saldo bežného rozpočtu
+20 229 311,00 21 901 639,08      22 285 059,45    19 398 779,17 20 944 725,29 21 336 646,44         830 531,83      956 913,79     948 413,01
+               Kapitálové príjmy                         Kapitálové výdavky vrátane RO                     Saldo kapitálového rozpočtu
+ 5 401 800,00 2 983 409,70        1 631 175,54     6 013 734,41 1 968 147,87 4 251 761,20          -611 934,41     1 015 261,83 -2 620 585,66
+           Finančné operácie - príjmy                     Finančné operácie - výdavky                       Saldo finančných operácií
+ 1 431 405,00 1 455 930,75        4 077 110,95     1 545 391,92 2 507 035,62 1 273 115,38          -113 986,92    -1 051 104,87 2 803 995,57
+                PRÍJMY SPOLU                                   VÝDAVKY SPOLU                            SALDO CELKOVÉHO ROZPOČTU
+27 062 516,00 26 340 979,53      27 993 345,94    26 957 905,50 25 419 908,78 26 861 523,02         104 610,50      921 070,75    1 131 822,92
+                                                                 Sumár rozpočtu rokov 2022 - 2027 v €
+
+
+
+                                                                                                         Skutočnos      Schválený     Vyhliadkový   Vyhliadkový
+Príjmy vrátane príjmov RO                                 Skutočnosť      Skutočnosť        Rozpočet         ť           rozpočet      rozpočet      rozpočet
+Kód     Názov                                                2023             2024             2025        2025           2026          2027           2028
+    100 Daňové príjmy                                     11 120 000,00   10 795 353,67     9 280 000,00 9 253 898        9 903 280    11 434 113     11 434 113
+    200 Nedaňové príjmy                                    4 714 081,00    4 315 020,04     5 704 630,00 3 076 055        5 840 120     4 606 570      4 618 795
+    300 Granty a transfery                                 9 797 030,00    9 774 675,07     9 047 328,00 11 586 283      13 020 784     9 401 050      9 472 470
+    400 Príjmy z transakcií s fin. aktívami a pasívami       989 005,00    1 455 830,75       268 500,00 1 065 945        1 242 273             0              0
+    500 Prijaté úvery, pôžičky a návratné fin. výpomoci      442 400,00          100,00     6 304 000,00 3 011 166        3 197 700             0              0
+        SPOLU Príjmy                                      27 062 516,00   26 340 979,53    30 604 458,00 27 993 346      33 204 157    25 441 733     25 525 378
+v tom Vlastné príjmy rozpočtových organizácií:             1 076 700,00    1 702 306,05     2 072 730,00 2 449 834        2 750 855     2 750 855      2 750 855
+
+
+                                                                                                           Skutočnos    Schválený     Vyhliadkový   Vyhliadkový
+Výdavky vrátane výdavkov RO                               Skutočnosť      Skutočnosť        Rozpočet           ť         rozpočet      rozpočet      rozpočet
+Názov programu                                               2023             2024             2025        2025           2026          2027           2028
+Program 1: Plánovanie, manažment a kontrola                  119 884,50      207 914,10       783 200,00    241 873         474 600       176 600        190 910
+Program 2: Propagácia a marketing                            138 567,98      423 772,12       435 230,00    459 434         387 100       196 600        173 720
+Program 3: Interné služby                                  1 935 187,07    1 050 035,84       962 650,00 1 306 968        1 050 850       696 000        742 830
+Program 4: Služby občanom                                    210 353,26      179 397,83       119 830,00    124 800         242 650       126 600        122 880
+Program 5: Bezpečnosť, právo a poriadok                      355 836,44      269 333,19     2 959 600,00 1 079 640        2 072 750       140 500        182 980
+Program 6: Odpadové hospodárstvo                           1 041 942,92    1 022 162,79     1 115 500,00    924 253       1 185 050     1 173 000      1 017 500
+Program 7: Komunikácie                                     2 469 547,15    2 789 360,57     1 251 000,00 1 046 799          473 000       175 000        240 900
+Program 8: Doprava                                            76 058,40       51 771,55       253 200,00     52 578         207 850       140 000         77 000
+Program 9: Vzdelávanie                                     9 964 609,19   10 668 165,77     9 930 783,00 10 484 411      12 846 636    11 851 613     11 663 840
+Program 10: Šport                                            746 693,70      692 811,54       765 300,00    515 516         352 800       379 000        676 040
+Program 11: Kultúra                                          414 689,15      486 098,36       191 000,00    362 194         505 800       352 500        180 400
+Program 12: Prostredie pre život                           2 405 528,20      327 179,27     1 924 850,00    486 805         205 000       210 000        193 310
+Program 13: Sociálne služby                                2 174 665,90    2 344 737,26     2 533 700,00 2 745 863        4 374 520     2 705 070      2 764 320
+Program 14: Bývanie                                          375 603,99      380 861,25       421 950,00    433 681         436 950       516 450        484 750
+Program 15: Zdravotníctvo                                    597 589,10       96 987,95       919 000,00    940 924         132 800        35 000         33 000
+Program 16: Administratíva                                 3 931 148,55    4 429 319,39     5 931 665,00 5 655 784        6 447 873     6 257 950      6 407 780
+Program 17: Občania skrášľujú svoje mesto                         19,93            0,00         5 000,00          0               0         5 000          5 000
+Spolu výdavky                                             26 957 925,43   25 419 908,78    30 503 458,00 26 861 523      31 396 229    25 136 883     25 157 160
+
+Saldo celkového rozpočtu                                     104 590,57     921 070,75        101 000,00    1 131 823     1 807 928       304 850        368 218
+
+
+
+
+                                                                              Stránka 3
+                                                                             Bežné príjmy v €
+
+
+
+                                                                                                                                     Schválený Vyhliadkový Vyhliadkový
+super                                                      Skutočnosť        Skutočnosť          Rozpočet         Skutočnosť          rozpočet  rozpočet    rozpočet
+Kód         Názov                                              2023          2024                   2025             2025              2026           2027          2028
+      100 Daňové príjmy                                    11 120 000,00 10 795 353,67           9 280 000,00      9 253 897,67       9 903 280     11 434 113     11 434 113
+      110 Dane z príjmov, ziskov a kapitálového majetku     9 250 000,00          8 717 328       6 900 000,00      6 877 186,51      7 329 080      8 934 113      8 934 113
+      111 Daň z príjmov fyzických osôb                      9 250 000,00       8 717 327,83       6 900 000,00      6 877 186,51      7 329 080      8 934 113      8 934 113
+ 111003 Podiel z výnosu dane z príjmov FO a PO              9 250 000,00       8 717 327,83          6 900 000      6 877 186,51      7 329 080      8 934 113      8 934 113
+      120 Dane z majetku                                    1 155 000,00       1 296 009,08       1 374 000,00      1 392 609,65      1 514 000      1 437 000      1 437 000
+      121 Daň z nehnuteľností                               1 155 000,00       1 296 009,08       1 374 000,00      1 392 609,65      1 514 000      1 437 000      1 437 000
+ 121001 Z pozemkov                                            115 000,00         135 374,67            145 000        127 105,60        145 000        152 000        152 000
+ 121002 Zo stavieb                                            980 000,00       1 090 868,10       1 156 000,00      1 202 624,55      1 297 000      1 208 000      1 208 000
+  121002 zo stavieb                                             950 000,00        1 090 268,62        1 156 000       1 202 624,55      1 277 000      1 208 000      1 208 000
+  121002 z vymáhania nesplatených pohľadávok, exekúcie           30 000,00             599,48                0                0,00         20 000             0              0
+ 121003 Z bytov a nebytových priestorov                        60 000,00          69 766,31             73 000         62 879,50          72 000        77 000         77 000
+    130 Dane za tovary a služby                               715 000,00         780 062,57       1 006 000,00        981 780,61       1 060 200     1 063 000      1 063 000
+    133 Dane za špecifické služby                             715 000,00         780 062,57       1 006 000,00        981 780,61       1 060 200     1 063 000      1 063 000
+ 133001 Za psa                                                 14 400,00          13 540,15            15 000          15 061,19          16 000        15 000         15 000
+ 133004 Za predajné automaty                                      800,00              1 500              3 000          3 116,69           4 000         3 000          3 000
+ 133006 Za ubytovanie                                          13 500,00          17 979,50            20 000          18 009,89          20 200        20 000         20 000
+ 133012 Za užívanie verejného priestranstva                     1 300,00          18 410,67            15 000          19 239,73          25 000        15 000         15 000
+ 133013 Za komunálne odpady a drobné stavebné odpady          685 000,00         728 632,25        953 000,00         926 353,11        995 000      1 010 000      1 010 000
+  133013 za komunálne odpady a drobné stavebné odpady           560 000,00         709 779,10           943 000         893 089,63        950 000      1 000 000      1 000 000
+  133013 z vymáhania nesplatených pohľadávok, exekúcie          125 000,00          11 994,80            10 000          26 843,30         30 000        10 000         10 000
+  133013 Drobný stavebný odpad - zberný dvor                                         6 858,35                0            6 420,18         15 000        15 000         15 000
+          Sankcie uložené v daňovom konaní a iné vybrané
+      160 sankcie                                                    0,00          1 954,19               0,00          2 320,90        1 200,00      1 200,00       1 200,00
+        160 úroky z omeškania - DzN                                   0,00             539,10                0             909,40              0              0              0
+        160 úroky z omeškania - Daň za psa                            0,00           1 415,09                0                3,20           200            200            200
+        160 úroky z omeškania                                         0,00                  0                0            1 408,30          1 000         1 000          1 000
+      200 Nedaňové príjmy                                   3 564 081,00      3 504 163,79       3 661 830,00      2 828 343,00       3 730 120      3 556 570      3 568 795
+      210 Príjmy z podnikania a z vlastníctva majetku        1 520 610,00      1 222 717,48       1 284 830,00        541 415,83       1 073 100     1 059 700      1 059 700
+      211 Príjmy z podnikania                                   20 000,00         46 184,78          10 000,00         13 007,63          16 000        16 000         16 000
+ 211003 Dividendy                                               20 000,00                 0            10 000          13 007,63          16 000        16 000         16 000
+ 211004 Iné príjmy z podnikania                                      0,00         46 184,78                  0              0,00               0             0              0
+                                                                                                Bežné príjmy v €
+
+
+
+   212 Príjmy z vlastníctva                                                    1 500 610,00      1 176 532,70      1 274 830,00     528 408,20      1 057 100     1 043 700     1 043 700
+212002 Z prenajatých pozemkov                                                    258 050,00          92 475,08       188 000,00      103 251,42     151 000,00    156 000,00    156 000,00
+ 212002 Z prenajatých pozemkov                                                      40 000,00          30 668,59           35 000       47 448,86        60 000        60 000        60 000
+ 212002 Trhovisko - príjem z prenájmu trhového miesta                                  50,00                  0                0          582,50          1 000         1 000         1 000
+ 212002 Európske ľudové remeslo, trhy                                               43 000,00          50 029,20           45 000       42 065,70        40 000        45 000        45 000
+ 212002 Mestské lesy                                                               140 000,00                 0            73 000            0,00            0             0             0
+ 212002 Z nájmu hrobových miest                                                     35 000,00          11 777,29           35 000       13 154,36        50 000        50 000        50 000
+212003 Z prenajatých budov, priestorov a objektov                               1 239 360,00      1 081 265,43      1 083 600,00     424 185,78       902 800       884 400       884 400
+ 212003 Z prenajatých budov, priestorov a objektov - odd.majetkovo-právne           40 000,00          49 372,47           62 000      114 071,32       250 000        62 000        62 000
+        Z prenájmu - HA, ZŠ sv. Kríža, Stredná umelecká škola, Nemocnica Dr.
+ 212003 Alexandra DOCH                                                             250 000,00                 0           190 000            1,00            0             0             0
+ 212003 Z prenájmu nebytových priestorov v správe                                   60 000,00          46 851,82           50 000       35 707,28          200         50 000        50 000
+ 212003 Z prenájmu - správa tepelného hospodárstva                                       0,00                 0                0             0,00            0             0             0
+ 212003 Z prenájmu majetku - Združenie Región Tatry                                  9 500,00           9 487,58            9 500            0,00            0          9 500         9 500
+ 212003 Z prenájmu majetku - športoviská                                           116 000,00                 0                0             0,00            0             0             0
+ 212003 Z prenajatých budov, priestorov a objektov - byty                          410 000,00         416 969,03          620 000      175 413,85       620 000       620 000       620 000
+ 212003 Z prenájmu nebytových priestorov polikliniky Hviezdoslavova                 40 000,00          84 427,18           13 700       40 841,58          500             0             0
+ 212003 Z prenájmu majetku - B.BRAUN                                                15 000,00                 0                0             0,00            0             0             0
+ 212003 Z prenájmu majetku - B.BRAUN - CIZS                                        200 000,00                 0                0             0,00            0             0             0
+ 212003 Z prenájmu majetku - Kultúra                                                 1 500,00           4 835,00           20 000        4 543,00         5 000        20 000        20 000
+ 212003 Z prenájmu majetku v areáli Nemocnice, n.o. Huncovská                            0,00                 0             6 800        3 403,82            0          6 800         6 800
+ 212003 Z prenájmu majetku - Nemocnica Dr. Alexandra - CIZS                         80 000,00           450 000            89 000       32 961,08            0         89 000        89 000
+ 212003 Z prenájmu škôl a školských zariadení                                       17 300,00            19 255            22 500       17 175,65        27 000        27 000        27 000
+ 212003 Z prenájmu Zariadenia pre seniorov a Zariadenia opatrov.služby                 60,00                 67              100           67,20          100           100           100
+       Z prenajatých strojov, prístrojov, zariadení, techniky a
+212004 náradia                                                                      3 200,00          2 792,19          3 230,00         971,00         3 300         3 300         3 300
+ 212004 Z prenájmu - trhovisko                                                       3 000,00           2 468,00            3 000         630,00          3 000         3 000         3 000
+ 212004 Z prenájmu - Európske ľudové remeslo, Trhy                                       0,00               0,00               0             0,00            0             0             0
+ 212004 Z prenájmu škôl a školských zariadení                                         200,00             324,19              230          341,00           300           300           300
+   220 Administratívne a iné poplatky a platby                                  1 987 070,00      2 027 075,02      2 377 000,00    2 171 752,98     2 495 850     2 420 330     2 420 330
+   221 Administratívne poplatky                                                    47 020,00         54 345,75         50 020,00       95 009,22       110 020        50 000        50 000
+221004 Ostatné poplatky                                                            47 020,00         54 345,75         50 020,00       95 009,22       110 020        50 000        50 000
+ 221004 Správne poplatky - dane a poplatok                                             20,00                 75               20             2,00           20             0             0
+ 221004 Správne poplatky - Stavebný úrad                                            15 000,00            17 952            15 000       59 893,70        65 000        15 000        15 000
+ 221004 Správne poplatky - Matrika                                                  12 000,00          10 119,89           15 000       11 528,00        15 000        15 000        15 000
+ 221004 Správne poplatky - ostatné                                                  20 000,00          26 198,86           20 000       23 585,52        30 000        20 000        20 000
+                                                                               Bežné príjmy v €
+
+
+
+   222 Pokuty a penále                                           40 000,00          25 804,00        25 000,00       36 550,28        41 300       25 800       25 800
+ 222003 Za porušenie ostatných predpisov                         40 000,00          25 804,00        25 000,00       36 550,28        41 300       25 800       25 800
+ 222003 Úroky z omeškania úhrad Spravbytherm                            0,00               0,00              0            76,28          300            0            0
+ 222003 Za porušenie predpisov - Stavebný úrad                          0,00            116,00               0              0,00        1 000           0            0
+ 222003 Za porušenie ostatných predpisov - MsP                     40 000,00          25 088,00          25 000        36 474,00       40 000       25 800       25 800
+ 222003 Za porušenie ostatných predpisov - /záškoláci/                  0,00               0,00              0              0,00           0            0            0
+ 222003 Za porušenie predpisov - ostatné                                0,00            600,00               0              0,00           0            0            0
+       Poplatky a platby z nepriemyselného a náhodného
+   223 predaja a služieb                                      1 899 050,00       1 946 925,27     2 301 980,00    2 039 921,48     2 344 530    2 344 530    2 344 530
+223001 Za predaj výrobkov, tovarov a služieb                  1 162 795,00       1 283 592,63     1 597 880,00    1 278 328,11     1 439 880    1 439 880    1 439 880
+ 223001 Ostatné                                                         0,00            700,00               0           749,21         1 000           0            0
+ 223001 Autobusová stanica                                              0,00                 0          300 000             0,00           0            0            0
+ 223001 Poplatky - verejné WC                                       1 560,00           1 533,00           2 000         1 533,10        2 000        2 000        2 000
+ 223001 Poplatok za vykonanie sobášneho obradu                          0,00           6 550,00           7 000         8 050,00       10 000       10 000       10 000
+ 223001 Poplatok za parkovanie                                    135 000,00         147 585,73         140 000       136 783,97      207 000      200 000      200 000
+ 223001 MsP - PCO, poplatok za služby                              40 000,00          33 082,89          28 000        29 030,75       40 000       40 000       40 000
+ 223001 Európske ľudové remeslo, trhy - vstupné                   150 000,00           9 093,80              0              0,00           0            0            0
+ 223001 Mestská knižnica - poplatky za služby                       6 000,00           4 718,30           6 000         4 719,40        6 000        6 000        6 000
+ 223001 OPATROVATEĽKY - poplatok za opatr. službu                  72 000,00          52 517,45          60 000        60 298,29       72 000       80 000       80 000
+ 223001 Školy a školské zariadenia                                119 235,00           220 676          234 880         236 659       290 880      290 880      290 880
+ 223001 Zariadenie pre seniorov a Zariadenie opatrov.služby       639 000,00           807 135          820 000         800 504     811 000      811 000      811 000
+223002 Za materské školy a školské zariadenia                  157 279,00         232 259,00       263 400,00      303 372,00       413 950      413 950      413 950
+ 223002 Školy a školské zariadenia                                157 279,00           232 259          263 400         303 372       413 950      413 950      413 950
+223003 Za stravné                                              578 976,00         431 073,64       440 700,00      456 121,37       490 700      490 700      490 700
+ 223003 SPRÁVA - príjem za stravné                                 32 500,00           3 679,02              0          5 025,93        5 000        5 000        5 000
+ 223003 Školy a školské zariadenia                                489 476,00           343 538          355 700         368 104       400 700      400 700      400 700
+ 223003 Zariadenie pre seniorov a Zariadenie opatrov.služby        57 000,00            83 856           85 000          82 991      85 000       85 000       85 000
+2E+05 Príjem z predaja hnuteľného majetku                                                                    0          2 100              0            0            0
+   229 Ďaľšie administratívne a iné poplatky a platby             1 000,00                0,00            0,00          272,00             0            0            0
+229005 Za znečisťovanie ovzdušia                                    1 000,00               0,00            0,00          272,00            0          0,00         0,00
+   240 Úroky z domácich úverov, pôžičiek a vkladov                 101,00             171,87             0,00        2 189,18         2 200             0            0
+   242 Úroky z účtov finančného hospodárenia                       100,00              171,84            0,00        2 189,18         2 200             0            0
+    242 MsÚ                                                         100,00             171,84                0          2 189,18        2 200           0            0
+   244 Úroky z termínovaných vkladov                                   1,00               0,03               0            0,00             0            0            0
+   245 Úroky z návratných finančných výpomoci                          0,00               0,00               0            0,00             0            0            0
+   246 Úroky z realizácie cenných papierov                             0,00               0,00               0            0,00             0            0            0
+                                                                               Bežné príjmy v €
+
+
+
+   290 Iné nedaňové príjmy                                      56 300,00         254 199,42           0,00      112 985,01      158 970      76 540       88 765
+   291 Ostatné príjmy                                             6 300,00           1 413,40          0,00         1 401,17           0            0            0
+       Vrátené neoprávnene použité alebo zadržané
+291004 finančné prostriedky od fyzickej osoby                    6 300,00           1 413,40          0,00         1 401,17            0            0            0
+ 291004 ZPS a ZOS                                                   6 300,00           1 413,40           0               0,00         0            0            0
+   292 Ostatné príjmy                                           50 000,00         252 786,02           0,00      111 583,84      158 970      76 540       88 765
+292006 Príjmy z náhrad poistného plnenia                               0,00         14 053,34             0         2 606,41      50 000       50 000       50 000
+ 292006 MsÚ                                                            0,00            7 071,85           0           2 606,41         0            0            0
+ 292006 Školy a školské zariadenia + ZPS a ZOS                         0,00            6 981,49           0               0,00     50 000       50 000       50 000
+292008 Z odvodov z hazardných hier                               50 000,00          74 486,22             0        32 120,00           0           0            0
+292012 Z dobropisov                                                   0,00          67 298,35          0,00        63 665,18       72570       22570        22570
+ 292012 MsÚ                                                            0,00           58 108,18           0          58 636,28     50 000           0            0
+ 292012 Školy a školské zariadenia                                     0,00            9 190,17           0           5 028,90     20 470       20 470       20 470
+ 292012 Zariadenie pre seniorov a Zariadenie opatrov.služby            0,00                0,00           0               0,00     2 100        2 100        2 100
+292017 Vratky                                                         0,00         10 211,28           0,00        2 896,72       20430                     12225
+ 292017 MsÚ                                                            0,00             325,92            0            300,00       8 205           0            0
+ 292017 Školy a školské zariadenia + ZPS a ZOS                         0,00            9 885,36           0           2 596,72     12 225       12 225       12 225
+292019 Z refundácie                                                    0,00         13 157,94          0,00         9 279,87      12 470         470          470
+ 292019 MsÚ                                                            0,00           11 520,93           0           7 763,59     12 000           0            0
+ 292019 Zariadenie pre seniorov a Zariadenie opatrov.služby            0,00             985,61            0               0,00         0            0            0
+ 292019 Školy a školské zariadenia                                     0,00             651,40            0           1 516,28       470          470          470
+292027 Iné                                                             0,00         73 578,89          0,00         1 015,66       3 500        3 500        3 500
+ 292027 MsÚ                                                            0,00           73 578,89           0           1 015,66      3 500        3 500        3 500
+ 292027 Školy a školské zariadenia                                     0,00                0,00           0               0,00         0            0            0
+ 292027 Zariadenie pre seniorov a Zariadenie opatrov.služby            0,00                0,00           0               0,00         0            0            0
+   300 Granty a transfery                                     5 545 230,00      7 602 121,62      8 706 578    10 202 818,78 10 487 827     9 396 050    9 467 470
+   310 Tuzemské bežné granty a transfery                      5 520 550,00      7 602 121,62      8 706 578   10 202 818,78 10 487 827      9 396 050    9 467 470
+   311 Granty                                                          0,00         17 258,18          0,00        27 348,73      10 580       66 580      156 000
+    311 ERASMUS+                                                       0,00                0,00           0               0,00         0            0            0
+    311 Kultúrne podujatia mesta                                       0,00                0,00           0               0,00         0            0            0
+    311 Nadácia ČSOB - "Pozor zebra na ceste 2020"                     0,00                0,00           0               0,00         0            0            0
+    311 Športové podujatia mesta                                       0,00                0,00           0           2 500,00         0        15 000       15 000
+    311 Školy a školské zariadenia                                     0,00             799,80            0           2 420,00      5 580        5 580        5 580
+    311 Zariadenie pre seniorov a Zariadenie opatrov.služby            0,00           10 458,38           0          19 833,53     5 000        5 000        5 000
+    311 Civilná ochrana                                                0,00                0,00           0           2 595,20         0        35 000       35 000
+    311 Literárny Kežmarok                                             0,00            6 000,00           0               0,00         0         6 000         600
+                                                                                                     Bežné príjmy v €
+
+
+
+  312 Transfery v rámci verejnej správy                                              5 520 550,00      7 581 863,44     8 706 578,00    10 172 470,05    10 474 247    9 329 470    9 311 470
+312001 Zo štátneho rozpočtu                                                          1 054 330,00      2 193 332,90     1 792 580,00     2 626 947,24     2 345 510    1 697 730    1 697 730
+ 312001 Zo štátneho rozpočtu - Zariadenie pre seniorov                                  724 300,00         850 080,02         955 000       992 951,01    1 027 000    1 027 000    1 027 000
+ 312001 Zo štátneho rozpočtu - Zariadenie pre seniorov /mimoriad.odmeny/                      0,00                 0               0              0,00            0            0            0
+ 312001 Zo štátneho rozpočtu - Zariadenie pre seniorov /vitamíny/                             0,00                 0               0              0,00            0            0            0
+ 312001 Zo štátneho rozpočtu - Zariadenie opatrovateľskej služby                         68 200,00          81 899,98          90 000        89 567,99      98 000       98 000       98 000
+ 312001 Zo štátneho rozpočtu - Jedáleň ZPS a ZOS                                              0,00                 0               0                              0            0            0
+ 312001 Zo štátneho rozpočtu - nocľaháreň                                                     0,00                 0               0                              0            0            0
+ 312001 Školstvo - hmotná núdza pre ŠZŠ (z ÚPSVaR)                                        8 000,00          18 495,40          15 000        25 775,80        27 800       27 800       27 800
+ 312001 Školstvo - hmotná núdza podpora výchovy a vzdelávania (z ÚPSVaR)                   420,00             398,40             410            348,60          410          410          410
+        Školstvo - hmotná núdza - podpora k stravovacím návykom dieťaťa (z
+ 312001 ÚPSVaR)                                                                           9 460,00         510 434,80         507 300       517 273,40       522 300      522 300      522 300
+ 312001 Projekt - Monografia mesta Kežmarok                                                   0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Mobiliár k cyklochodníku                                                    0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - MŠ Cintorínska - zníženie energetickej náročnosti budov                     0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Vybavenie odborných učební - ZŠ Grundschule                                 0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Vybavenie odborných učební - ZŠ Nižná brána                                 0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Vybavenie odborných učební - ZŠ Fischera                                    0,00                 0               0              0,00            0            0            0
+        Projekt - Revitalizácia a údržba zelene - Projekt Vodozadržné opatrenia na
+ 312001 ulici Nižná brána, Kežmarok                                                           0,00                 0               0         20 988,84            0            0            0
+ 312001 Projekt - Energetický audit budov                                                     0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Pomoc osobám z Ukarjiny pri ich vstupe a integrácii na Slovensku            0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Putovanie po stopách histórie, kultúry: Nowy Targ-Kežmarok                  0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - Podpora opatrovateľskej služby v Kežmarku                             203 150,00                 0               0              0,00            0            0            0
+        Projekt - OPATROVATEĽKY - (POS II - EÚ) Podpora opatrovateľskej
+ 312001 služby II                                                                             0,00          13 187,88              0              0,00            0            0            0
+        Projekt - OPATROVATEĽKY - (Program Slovensko ESF 2021 - 2027
+ 312001 podaktivita 3) Podpora opatrovateľskej služby                                         0,00          14 444,12              0              0,00            0            0            0
+        Projekt - OPATROVATEĽKY - (Program Slovensko ESF 2021 - 2027
+ 312001 podaktivita 2) Podpora opatrovateľskej služby                                         0,00         215 918,04         190 320       265 250,57       266 000           0            0
+ 312001 Kultúra - mesto                                                                       0,00          10 000,00              0              0,00            0            0            0
+ 312001 Projekt - Modernizácia športového vybavenia MŠ Možiarska                              0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - ZŠ Grundschule - projekt asistenti učiteľa                                  0,00                 0               0              0,00            0            0            0
+ 312001 Projekt - ZŠ Grundschule - "Podpora pomáhajúcich profesií"                            0,00          70 440,28              0              0,00            0            0            0
+ 312001 Projekt - NP PRIM - Inklúzia v mater.školách ZŠ s MŠ Nižná brána                      0,00                 0               0              0,00            0            0            0
+ 312001 Dotácia - starostlivosť o vojnové hroby                                           2 460,00           2 629,10              0          2 860,90         3 300        3 500        3 500
+ 312001 Dotácia - Obnova pamätníka z II.sv.vojny "TANK"                                       0,00                 0               0              0,00            0            0            0
+ 312001 Dotácia - protipožiarna ochrana                                                       0,00                 0               0              0,00            0            0            0
+ 312001 Dotácia - obnova meštianskeho domu Hlavné námestie 46                                 0,00                 0               0              0,00            0            0            0
+ 312001 Dotácia - Mimoriadna situácia požiar Ministerstvo vnutra                              0,00                 0               0              0,00         8 400           0            0
+ 312001 Dotácia - COVID 19                                                                    0,00                 0               0              0,00            0            0            0
+ 312001 Dotácia zo ŠR - ÚPSVaR                                                                0,00         164 127,00              0         11 086,66            0            0            0
+ 312001 Dotácie na základe uznesenia vlády                                                    0,00                 0               0        395 301,37            0            0            0
+        Dotácia - Projekt PSK "Podpora usporiadania podujatia ATHMOSTREDa
+ 312001 2025"                                                                                 0,00                 0               0          5 000,00            0            0            0
+ 312001 Dotácia - FASTCARE                                                                    0,00                 0               0              0,00            0            0            0
+                                                                                                   Bežné príjmy v €
+
+
+
+ 312001 Dotácia - príspevok za ubytovanie odídenca                                         0,00          180 360,00              0         95 720,00       96 000           0            0
+ 312001 Sociálne - OPATROVATEĽKY MsÚ - /mimoriad.odmeny/-COVID 19                          0,00                  0               0              0,00           0            0            0
+ 312001 Sociálne - terénna sociálna práca                                             21 400,00                  0               0              0,00           0            0            0
+ 312001 Sociálne - terénna sociálna práca - COVID 19                                       0,00                  0               0              0,00           0            0            0
+ 312001 Sociálne - osobitný príjemca                                                   8 900,00           18 365,16          18 450        26 682,16       38 000       18 500       18 500
+ 312001 Sociálne - dotácia na výkon osobitného príjemcu                                   90,00             137,00             130            195,00         300          220          220
+ 312001 Z ÚPSVaR - správa mesta                                                            0,00                  0               0              0,00           0            0            0
+ 312001 Školy a školské zariadenia                                                     7 950,00             32 477           15 970             0,00           0            0            0
+ 312001 Zariadenie pre seniorov a Zariadenie opatrov.služby                                0,00                                  0              0,00           0            0            0
+        INFORMATIKA - projekt "Rozvoj governance a úrovne informačnej a
+ 312001 kybernetickej bezpečnsoti mesta KK"                                                0,00            9 938,39              0              0,00           0            0            0
+ 312001 INFORMATIKA - Projekt "STICS" (Smart - Platforma Facility management)              0,00                  0               0        152 944,94      235 000           0            0
+ 312001 TIPOS - PARTNER 34. ročníka festivalu Európske ľudové remeslo                      0,00                  0               0              0,00       12 000           0            0
+ 312001 Európske ľudové remeslo, Trhy,Projekt "57. ročník Literárneho Kežmarku"            0,00                  0               0         25 000,00           0            0            0
+ 312001 Projekt "67. ročník Literárneho Kežmarku"                                          0,00                  0               0              0,00       11 000           0            0
+3120001 Detské ihriská                                                                     0,00                  0               0              0,00           0            0            0
+312002 Zo štátneho účelového fondu                                                  23 000,00           55 663,90                0       31 780,39       35 000       40 000       40 000
+ 312002 Envirofond - príspevok na zneškodňovanie odpadu                               23 000,00           36 442,90              0         31 780,39       35 000       40 000       40 000
+ 312002 Projekt - Mestská knižnica - Akvizícia knižníc                                     0,00            4 000,00              0              0,00           0            0            0
+ 312002 Výsadba zelene                                                                     0,00           15 221,00              0              0,00           0            0            0
+312003 Zo zdravotných poisťovní                                                            0,00         67 777,20         230 000      262 371,20       300 000      300 000      300 000
+ 312003 Zariadenie pre seniorov a Zariadenie opatrov.služby                                0,00           67 777,20         230 000       262 371,20    300 000      300 000      300 000
+312007 Z rozpočtu obcí                                                              42 250,00           44 252,74         6 950,00       35 032,04       41 050       41 050       23 050
+ 312007 Stavebný úrad - príjem od miest a obcí                                        40 000,00           29 750,00              0         17 723,15       20 000       20 000        2 000
+ 312007 CVČ - príspevok na činnosť z rozpočtu obcí                                     1 500,00           13 492,74           6 000        16 348,59       20 000       20 000       20 000
+ 312007 Školy a školské zariadenia                                                       750,00            1 010,00            950            960,30        1 050        1 050        1 050
+312008 Z rozpočtu VÚC                                                                      0,00               0,00               0             0,00            0            0            0
+ 312008 Zariadenie pre seniorov                                                            0,00                0,00              0              0,00           0            0            0
+312011 Od ostatných subjektov verejnej správy                                              0,00               0,00               0        5 500,00     19 335,00     8 335,00     8 335,00
+ 312011 Projekt - 57. ročník Literárneho Kežmarku                                          0,00                0,00              0              0,00       11 000           0            0
+ 312011 Pedagogická prax                                                                   0,00                0,00              0              0,00        1 735        1 735        1 735
+ 312011 CVČ - príspevok na činnosť z RÚŠS                                                  0,00                0,00              0              0,00        6 600        6 600        6 600
+ 312011 Mestská knižnica Projekt - Čítanie otvára dvere do kúzelného sveta                 0,00                0,00              0              0,00           0            0            0
+        Mestská knižnica Projekt - Vybavenie knižníc a menšia knižničná
+ 312011 infraštruktúra                                                                     0,00                0,00              0              0,00           0            0            0
+ 312011 Mestská knižnica - Projekt - "Inšpiratívna knižnica"                               0,00                0,00              0          5 500,00           0            0            0
+       Zo štátneho rozpočtu na prenesený výkon štátnej
+312012 správy                                                                     4 400 970,00       5 220 836,70     6 677 048,00    7 210 839,18     7 752 687    7 250 690    7 250 690
+ 312012 Stavebný úrad - dotácia na prenesený výkon                                    72 000,00           64 922,78              0         24 976,22       22 000       22 000       22 000
+ 312012 Matričný úrad - dotácia na prenesený výkon                                    70 000,00           84 128,76          84 130        64 174,95       75 200       84 130       84 130
+ 312012 Registrácia obyvateľstva - dotácia na prenesený výkon                          5 400,00            5 050,32           5 100         5 028,54        5 000        5 100        5 100
+ 312012 Registrácia adries - dotácia na prenesený výkon                                  100,00              61,20             100            144,40         100          100          100
+ 312012 Školstvo - dotácie na prenesený výkon - normatíva                           3 846 690,00          4 385 326       6 039 412     6 378 084,08   6 869 651     6 643 360    6 643 360
+ 312012 Školstvo - dotácie - príspevok na rekreáciu                                        0,00                  0               0              0,00           0            0            0
+ 312012 Školstvo - príspevok na školy v prírode                                       25 500,00             20 550           24 600        14 700,00       25 050           0            0
+ 312012 Školstvo - asistenti                                                         127 971,00             68 496               0              0,00      337 430           0            0
+ 312012 Školstvo - dopravné                                                           16 910,00             16 530           18 700        17 701,00       18 700           0            0
+ 312012 Školstvo - vzdelávacie poukazy                                                55 384,00             57 004           57 900        56 812,00       55 200           0            0
+                                                                                              Bežné príjmy v €
+
+
+
+ 312012 Školstvo - predškoláci                                                    75 795,00           126 074         0     21 750,00        0         0         0
+ 312012 Školstvo - sociálne znevýhodnené prostredie                                1 050,00               350       200       500,00      2 250        0         0
+ 312012 Školstvo - príspevok na lyžiarske kurzy                                   31 500,00            22 650     29 250    22 800,00    22 650        0         0
+ 312012 Školstvo - edukačné publikácie                                                 0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - učebnice                                                       27 000,00            36 796     37 160    43 220,00    25 514        0         0
+ 312012 Školstvo - odchodné                                                            0,00            12 761         0      6 768,00        0         0         0
+ 312012 Školstvo - odstupné                                                            0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - Potreby pre žiakov z Ukrajiny                                       0,00           112 196         0     79 694,00        0         0         0
+ 312012 Školstvo - ZŠ Dr. Fischera - rozvojový projekt "Zlepšenie vybavenia ŠJ"        0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - ZŠ a MŠ Nižná brána - Plán obnovy a odolnosti                       0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - ZŠ a MŠ Nižná brána - Projekt "Modernejšia škola"                   0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - ZŠ a MŠ Nižná brána - Projekt "Pomocný vychovávateľ v MŠ"           0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - VVP                                                                 0,00                 0         0          0,00    19 950        0         0
+ 312012 Školstvo - podporné opatrenia                                                  0,00           117 891    357 506   429 007,00   169 524   450 000   450 000
+ 312012 Školstvo - profesijný rozvoj                                                   0,00                 0         0          0,00      705         0         0
+ 312012 Školstvo - mimoriadne výsledky žiakov                                          0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - špecifiká                                                           0,00                 0         0          0,00        0         0         0
+ 312012 Školstvo - jazykový kurz                                                                                                          7 690        0         0
+ 312012 Školstvo - rozvojové projekty                                                  0,00             4 000         0          0,00     3 000        0         0
+ 312012 Školský úrad - dotácia na prenesený výkon                                 20 350,00            21 828     20 510    42 829,00    43 000    42 800    42 800
+ 312012 Bytová politika - dotácia na prenesený výkon                              16 500,00          15 994,79        0          0,00        0         0         0
+ 312012 Doprava - dotácia na prenesený výkon                                        750,00             661,13       750       658,28       750      1 000     1 000
+ 312012 Ochrana živ. prostredia - dotácia na prenesený výkon                       1 650,00           1 852,16     1 730     1 991,71     2 200     2 200     2 200
+ 312012 Voľby do EP                                                                    0,00          17 669,44        0          0,00        0         0         0
+ 312012 Voľby do prezideta                                                             0,00          28 044,12        0          0,00        0         0         0
+ 312012 Voľby do samospráv, referendá - mestá a obce                               6 420,00                 0         0          0,00    34 333        0         0
+ 312012 Referendum 2026                                                                0,00                 0         0          0,00    12 790        0         0
+   315 Transfery od subjektov mimo verejnej správy                                   0,00          3 000,00       0,00     3 000,00     3 000          0         0
+   315 Transfery od subjektov mimo verejnej správy                                    0,00           3 000,00      0,00     3 000,00     3 000         0         0
+    315 MHZ - dotácia Dobrovoľný hasičský zbor                                         0,00           3 000,00        0      3 000,00     3 000        0         0
+   330 Zahraničné granty                                                             0,00               0,00      0,00         0,00          0         0         0
+331001 Zahraničné bežné granty                                                        0,00               0,00      0,00         0,00         0         0         0
+ 331001 MsÚ Projekt - ERAZMUS                                                          0,00               0,00        0          0,00        0         0         0
+ 331001 Školstvo - ERAZMUS                                                             0,00               0,00        0          0,00        0         0         0
+                                                                   Bežné príjmy v €
+
+
+
+   340 Zahraničné transfery                         24 680,00                0,00           0,00           0,00            0            0            0
+   341 Prostriedky z rozpočtu Európskej Únie          24 680,00              0,00           0,00            0,00           0            0            0
+    341 Projekt URBACT                                 24 680,00              0,00             0             0,00           0            0            0
+        SPOLU                                    20 229 311,00 21 901 639,08 21 648 408,00         22 285 059,45 24 121 227     24 386 733   24 470 378
+V tom vlastné príjmy rozpočtových organizácií:    1 076 700,00 1 702 306,05 2 072 730,00            2 449 833,95 2 750 855       2 750 855    2 750 855
+        Sociálne služby:                            702 360,00 1 018 438,25 1 135 100,00            1 170 947,00 1 204 600       1 204 600    1 204 600
+        Zariadenie pre seniorov                    508 360,00       744 600    860 100,00            900 314,00    928 600        928 600      928 600
+        Zariadenie opatrovateľskej služby            58 000,00       73 114      75 000,00             73 085,00     75 000         75 000       75 000
+        Jedáleň ZPS a ZOS                          136 000,00       200 725    200 000,00            197 548,00    201 000        201 000      201 000
+
+        Vzdelávanie:                               374 340,00         683 867,80      937 630,00    1 278 886,95    1 546 255    1 546 255    1 546 255
+        ZŠ s MŠ, Nižná brána - MŠ                   43 990,00            55 389        50 730,00       49 433,00       54 945       54 945       54 945
+        SpŠ Dr Fischera - škola                          0,00            17 184         5 000,00       52 846,00       63 190       63 190       63 190
+        SpŠ Dr Fischera - ŠKD                            0,00            10 530        26 550,00       32 049,00       42 920       42 920       42 920
+        SpŠ Dr Fischera - jedáleň                        0,00            64 594       130 700,00     177 863,29      209 460      209 460      209 460
+        SpŠ Dr Fischera - MŠ                             0,00            38 633       103 500,00     114 386,24      191 980      191 980      191 980
+        SpŠ Dr Fischera - EP                             0,00            19 939        67 470,00       57 151,24            0            0            0
+        SpŠ Hradné námestie - škola                      0,00              4 403       27 000,00       30 638,60     115 530      115 530      115 530
+        SpŠ Hradné námestie - ŠKD                        0,00            16 698        26 000,00       32 439,59       42 000       42 000       42 000
+        SpŠ Hradné námestie- jedáleň                     0,00            15 136        28 000,00       34 620,40       28 000       28 000       28 000
+        SpŠ Hradné námestie - MŠ                         0,00            43 707        63 500,00       86 772,75       93 690       93 690       93 690
+        ZŠ s MŠ, Nižná Brána - škola                 9 500,00              7 603       10 000,00     180 296,15      199 215      199 215      199 215
+        ZŠ s MŠ, Nižná brána - ŠKD                  10 300,00            14 670        16 200,00       18 888,00       26 790       26 790       26 790
+        ZŠ s MŠ, Nižná brána - jedáleň             255 550,00           246 763       267 250,00     263 288,46      265 245      265 245      265 245
+        Centrum voľného času                        19 800,00            52 630        45 500,00       54 722,35       91 600       91 600       91 600
+        ZUŠ A. Cígera                               35 200,00            75 990        70 230,00       93 491,88     121 690      121 690      121 690
+                                                                                                                                                           Kapitálové príjmy v €
+
+
+
+
+                                                                                 

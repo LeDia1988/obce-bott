@@ -1,0 +1,298 @@
+URL: https://cuet.slovensko.sk/en/dokument/73ae846c-dfff-4786-b02a-92b7d649bcbd
+OBEC: Ždaňa (Košice)
+NÁZOV: Návrh rozpočtu na roky 2027 - 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/73ae846c-dfff-4786-b02a-92b7d649bcbd
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu na roky 2027 - 2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Ždaňa (OVM)
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Obec Ždaňa (OVM)
+Published to:
+Registry case:
+Name of official document:
+Návrh rozpočtu na roky 2027 - 2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh rozpočtu na roky 2027 - 2029 obce Ždaňa.pdf
+Type and size:
+.pdf, 874.02 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/aca98d43-b9b9-40f1-93e1-450611ad5e93
+IČO:     00324973                                                                    Návrh rozpočtu                                                                         27.11.2026
+Názov: Obec Ždaňa
+
+
+Sídlo:   Jarmočná 118/4                                            za rok 2026, časť príjmy, iba za nenulové riadky
+          04411 Ždaňa
+
+              Analytické členenie                                                              Skutočnosť Skutočnosť        Schválený   Očakávaná       Návrh 2026   Návrh 2027   Návrh 2028
+              FNC      POL          S1   S2S3 ZDROJ      Text                                 rozpočet 2023 rozpočet 2024 rozpočet 2025 skutočnost
+                                                                                                                                            2025
+B                      111003                   41     Podiel na dani z prijmov FO                 638 248,51   587 678,21    547 252,00   551 302,00   494 648,00   542 140,00   558 784,00
+B                      121001                   41     Dan z pozemkov FO                             6 403,21     6 322,69      7 120,00     7 120,00    12 157,00    12 157,00    12 157,00
+B                      121002                   41     Dan zo stavieb FO                             5 804,95     5 448,19      6 700,00     6 700,00    10 720,00    10 720,00    10 720,00
+B                      121003                   41     Dan z bytov                                    301,20       244,39        500,00       500,00        500,00       500,00       500,00
+B                      121===       === == == ====     Súčet za POL_3                               12 509,36    12 015,27     14 320,00    14 320,00    23 377,00    23 377,00    23 377,00
+B                      133001                   41     Dan za psa                                    1 500,17     1 457,39      1 800,00     1 800,00     1 800,00     1 800,00     1 800,00
+B                      133013                   41     Poplatok za kom.odpady a DSO                 43 630,40    50 451,52     48 470,00    52 201,00    61 200,00    61 200,00    61 200,00
+B                      133013       1           41     Stavebný odpad                                 697,79       133,25       1 000,00     1 000,00     3 500,00     3 500,00     3 500,00
+B                      133013       === == == ====     Súčet za POL_4                               44 328,19    50 584,77     49 470,00    53 201,00    64 700,00    64 700,00    64 700,00
+B                      133===       === == == ====     Súčet za POL_3                               45 828,36    52 042,16     51 270,00    55 001,00    66 500,00    66 500,00    66 500,00
+B                      1=====       === == == ====     Súčet za POL_1                              696 586,23   651 735,64    612 842,00   620 623,00   584 525,00   632 017,00   648 661,00
+B                      212003                1 41      BD Nájom bytov                               48 598,05    48 666,80     48 800,00    48 800,00    48 800,00    48 800,00    48 800,00
+B                      212003                2 41      OcÚ Nájom z obchodných prevádzok              4 165,29     3 806,57     10 400,00    10 400,00    10 400,00    10 400,00    10 400,00
+B                      212003                3 71      KD - nájom prevádzka                          7 901,25     5 109,78      5 000,00     5 000,00     5 000,00     5 500,00     5 500,00
+B                      212003                == ====   Súčet za S2                                  60 664,59    57 583,15     64 200,00    64 200,00    64 200,00    64 700,00    64 700,00
+B                      212003       1    1      41     Z prenajatých budov, priestorov a objekto        30,00         30,00      100,00       100,00        100,00       100,00       100,00
+B                      212003       3           41     Prenájom priestorov Fut.ihrisko               2 500,00          0,00     1 500,00     1 500,00     1 500,00     1 500,00     1 500,00
+B                      212003       === == == ====     Súčet za POL_4                               63 194,59    57 613,15     65 800,00    65 800,00    65 800,00    66 300,00    66 300,00
+B                      221002                   41     Správne poplatky                              3 494,20     3 833,70      4 000,00     4 000,00     4 000,00     4 600,00     4 600,00
+B                      221002                5 41      Správne poplatky-stavebný úrad                 920,00       978,00       1 500,00     1 901,00     1 500,00     1 800,00     1 800,00
+B                      221002                == ====   Súčet za S2                                   4 414,20     4 811,70      5 500,00     5 901,00     5 500,00     6 400,00     6 400,00
+B                      221002       1    1      41     Matrika - Správne poplatky                    1 228,00     1 339,00      1 600,00     2 250,00     2 300,00     2 500,00     2 500,00
+B                      221002       === == == ====     Súčet za POL_4                                5 642,20     6 150,70      7 100,00     8 151,00     7 800,00     8 900,00     8 900,00
+B                      221004                   41     Ostatne poplatky                                 17,45          6,60        50,00        50,00         0,00         0,00          0,00
+B                      221===       === == == ====     Súčet za POL_3                                5 659,65     6 157,30      7 150,00     8 201,00     7 800,00     8 900,00     8 900,00
+B                      223001                   41     Prijmy za predaj tovarov a sluz               3 855,02     2 802,59      4 000,00     4 000,00     4 000,00     4 000,00     4 000,00
+B                      223001                1 71      KD - podnikateľská činnosť                   74 405,80    51 415,62     55 000,00    55 000,00    55 000,00    60 000,00    60 000,00
+B                      223001                2 72g     BD - Fond réžie - príjem                     10 924,26   11 413,75     11 000,00     13 166,00    11 000,00    11 000,00    11 000,00
+B                      223001                3 72j     BD - Fond údržby - príjem                     7 834,09     7 796,56      7 400,00     7 400,00     7 400,00     7 400,00     7 400,00
+B                      223001                == ====   Súčet za S2                                  97 019,17    73 428,52     77 400,00    79 566,00    77 400,00    82 400,00    82 400,00
+B                      223002                   41     Prijmy za MS                                  4 342,70     4 342,30          0,00         0,00         0,00         0,00          0,00
+B                      223002                   72g    MŠ školné                                         0,00          0,00     4 500,00     5 984,00     7 000,00     7 000,00     7 000,00
+B                      223002                   ====   Súčet za S3                                   4 342,70     4 342,30      4 500,00     5 984,00     7 000,00     7 000,00     7 000,00
+B                      223002       3           41     ZŠ príjmy                                     2 886,00          0,00         0,00         0,00         0,00         0,00          0,00
+                                                                              Strana 1 / 6
+IČO:     00324973                                                                    Návrh rozpočtu                                                                       27.11.2026
+Názov: Obec Ždaňa
+
+
+Sídlo:   Jarmočná 118/4                                        za rok 2026, časť príjmy, iba za nenulové riadky
+          04411 Ždaňa
+
+              Analytické členenie                                                             Skutočnosť Skutočnosť        Schválený   Očakávaná      Návrh 2026   Návrh 2027   Návrh 2028
+              FNC      POL          S1   S2S3 ZDROJ     Text                                 rozpočet 2023 rozpočet 2024 rozpočet 2025 skutočnost
+                                                                                                                                          2025
+B                      223002       === == == ====    Súčet za POL_4                              7 228,70      4 342,30      4 500,00     5 984,00     7 000,00     7 000,00     7 000,00
+B                      223===       === == == ====    Súčet za POL_3                            104 247,87     77 770,82     81 900,00    85 550,00    84 400,00    89 400,00    89 400,00
+B                      22====       === == == ====    Súčet za POL_2                            109 907,52     83 928,12     89 050,00    93 751,00    92 200,00    98 300,00    98 300,00
+B                      292006                 41      Z náhrad z poistného plnenia                    0,00       538,81           0,00         0,00         0,00         0,00           0,00
+B                      292012                 41      Príjmy z dobropisov                             0,00          0,00          0,00        35,00         0,00         0,00           0,00
+B                      292017                 41      Vratky                                        704,41       411,03           0,00         0,00         0,00         0,00           0,00
+B                      292017                 71      Z vratiek-DPH -podnikateľská činnosť          773,43          0,00          0,00         0,00         0,00         0,00           0,00
+B                      292017                 72g     BD - vratky                                     0,00       203,49           0,00         0,00         0,00         0,00           0,00
+B                      292017                 ====    Súčet za S3                                 1 477,84       614,52           0,00         0,00         0,00         0,00           0,00
+B                      292===       === == == ====    Súčet za POL_3                              1 477,84      1 153,33          0,00        35,00         0,00         0,00           0,00
+B                      2=====       === == == ====    Súčet za POL_1                            174 579,95    142 694,60    154 850,00   159 586,00   158 000,00   164 600,00   164 600,00
+B                      311                    11H     CVC od iých obcí                            1 454,67      1 134,56      1 500,00     1 902,00     1 500,00     1 500,00     1 500,00
+B                      311          1         72c     Granty FO a PO                                600,00       350,00           0,00     2 000,00         0,00         0,00           0,00
+B                      311          === == == ====    Súčet za POL_4                              2 054,67      1 484,56      1 500,00     3 902,00     1 500,00     1 500,00     1 500,00
+B                      312001                 11UA Príspevok - Ukrajina- ubytovanie              15 625,00      3 790,00      1 700,00     1 820,00         0,00         0,00           0,00
+B                      312001                 1AC1    Projekt pedago. asistentic 1AC1            13 965,80          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001                 1AC2    Projekt pedago. asistentic 1AC2             2 464,59          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001                 1AC3    Projekt pedago. asistentic 1AC3             1 452,15          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001                 1BB1    PPP - 1BB1                                 19 711,50     63 518,86     21 439,00    41 609,00    49 669,00         0,00           0,00
+B                      312001                 1BB2    PPP - 1BB2                                  3 478,50      6 082,88          0,00     7 000,00     8 765,00         0,00           0,00
+B                      312001                 3AC1    Projekt pedag.asistenti 3AC1               19 908,96          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001                 3AC2    Projekt pedag.asistenti 3AC2                3 513,86          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001                 3AC3    Projekt pedag.asistenti 3AC3                4 577,01          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001                 3BB1    PPP - 3BB1                                      0,00     10 668,38      9 511,00     9 511,00         0,00         0,00           0,00
+B                      312001                 3BB2    PPP - 3BB2                                      0,00      3 225,08      5 462,00     5 462,00         0,00         0,00           0,00
+B                      312001                 ====    Súčet za S3                                84 697,37     87 285,20    38 112,00     65 402,00    58 434,00         0,00           0,00
+B                      312001            11   111     Transfer na cestnú dopravu                     59,96         59,27         60,00        60,00        60,00        60,00          60,00
+B                      312001            12   111     Rodinne pridavky                              180,00          0,00       500,00       500,00        500,00       500,00       500,00
+B                      312001            13   111     Transfer ŽP                                   153,60       166,04        170,00       177,00        180,00       180,00       180,00
+B                      312001            14   111     REGOB - dotácia                               458,04       452,76        460,00       460,00        480,00       480,00       480,00
+B                      312001            14 1 111     ŠR register adries                             22,80         27,60         28,00        31,00        35,00        35,00          35,00
+B                      312001            14 == ====   Súčet za S2                                   480,84       480,36        488,00       491,00        515,00       515,00       515,00
+B                      312001            17   111     MŠ-zo štátneho rozpočtu 908                13 411,00          0,00          0,00         0,00         0,00         0,00           0,00
+B                      312001            19 1 111     VOĽBY zo ŠR                                 1 114,11      2 923,97          0,00         0,00     2 930,00     2 930,00           0,00
+                                                                            Strana 2 / 6
+IČO:     00324973                                                                       Návrh rozpočtu                                                                           27.11.2026
+Názov: Obec Ždaňa
+
+
+Sídlo:   Jarmočná 118/4                                          za rok 2026, časť príjmy, iba za nenulové riadky
+          04411 Ždaňa
+
+              Analytické členenie                                                                  Skutočnosť Skutočnosť        Schválený   Očakávaná        Návrh 2026   Návrh 2027   Návrh 2028
+              FNC      POL          S1    S2S3 ZDROJ      Text                                    rozpočet 2023 rozpočet 2024 rozpočet 2025 skutočnost
+                                                                                                                                               2025
+B                      312001             19 23 111     RERERENDUM 2023                                  340,00          0,00          0,00           0,00         0,00         0,00          0,00
+B                      312001             19 == ====    Súčet za S2                                    1 454,11      2 923,97          0,00           0,00     2 930,00     2 930,00          0,00
+B                      312001              2 29 111     ZŠ odchodné                                        0,00       938,00           0,00           0,00         0,00         0,00          0,00
+B                      312001             36     111    strava SŠI                                    26 454,80     31 900,00     26 500,00    26 500,00      26 500,00    26 500,00    26 500,00
+B                      312001             37     111    strava - predškoláci - MŠ, ŠMŠI                8 148,10      5 909,40      9 150,00     9 150,00       9 650,00     9 790,00     9 790,00
+B                      312001              4     111    UPSVR - Transfer na aktivitu trhu prace          353,08       620,35           0,00      650,00            0,00         0,00          0,00
+B                      312001              5   1 111    strava ZŠ                                     37 698,80     51 289,20     41 699,00    48 929,00      43 199,00    44 000,00    44 000,00
+B                      312001              6   1 111    Transfer na škol. pom. HN                        879,80      1 444,20      2 500,00     2 500,00       2 500,00     2 500,00     2 500,00
+B                      312001             == == ====    Súčet za S1                                  173 971,46    183 015,99   119 179,00    154 359,00     144 468,00    86 975,00    84 045,00
+B                      312001       100 23       111  Dotácia - ŠR - inflácia                         26 744,48          0,00          0,00           0,00         0,00         0,00          0,00
+B                      312001       17           1AA1 Kompostovani-dotácia EU 85%- Projekt 17              0,00          0,00    41 119,00    41 119,00            0,00         0,00          0,00
+B                      312001       17           1AA2 Kompostovani-dotácia ŠR 7%- Projekt 17               0,00          0,00      3 387,00     3 387,00           0,00         0,00          0,00
+B                      312001       17           ====   Súčet za S3                                        0,00          0,00     44 506,00    44 506,00           0,00         0,00          0,00
+B                      312001       19    23     1AA1   Podpora integr.opatr. v súvisl.s voj.UA       33 800,00          0,00          0,00           0,00         0,00         0,00          0,00
+B                      312001       22    23     111    MH - Dotácia-kompenzácia energie               9 815,01      3 496,28          0,00           0,00         0,00         0,00          0,00
+B                      312001       23           111    Envirofond-odpad                               1 277,74      1 281,33      1 282,00     1 282,00       1 282,00     1 282,00     1 282,00
+B                      312001       3            111    Matrika - Transfer na matricnu cinnost         9 606,95     10 647,00     10 647,00    10 742,00      10 800,00    10 800,00    10 800,00
+B                      312001       5            111    MŠ - Normatív -dotácia                             0,00          0,00    137 019,00   144 748,00     159 000,00   159 000,00   159 000,00
+B                      312001       5            1AA1   Interreg HU:SK - EU 85% - bežný príjem             0,00     12 008,22          0,00           0,00         0,00         0,00          0,00
+B                      312001       5            1AA2   Interreg HU:SK - ŠR 10%-bežný príjem               0,00      1 412,72          0,00           0,00         0,00         0,00          0,00
+B                      312001       5            ====   Súčet za S3                                        0,00     13 420,94    137 019,00   144 748,00     159 000,00   159 000,00   159 000,00
+B                      312001       501    2     111    ZŠ Transfer - normatívne 501                 785 018,00    725 988,00    706 181,00   712 480,00     733 829,00   757 483,00   773 845,00
+B                      312001       505    2 20 111     ZŠ Rozvojový projekt-505                       1 000,00          0,00          0,00     1 956,00           0,00         0,00          0,00
+B                      312001       6     17     111    MŠ predškoláci - ŠR - 908                          0,00     13 043,00          0,00     1 950,00       2 100,00     2 100,00     2 100,00
+B                      312001       781    2 23 111     ZŠ Edukačné publikácie -podpr.0781F-909        4 805,00      4 733,00          0,00           0,00         0,00         0,00          0,00
+B                      312001       901    2 15 111     ZŠ Transfer na vzdelávacie poukazy 901         5 318,00      5 459,00      3 500,00     4 934,00       3 500,00     3 600,00     4 600,00
+B                      312001       902    2 18 111     ZŠ Transfer asistent učiteľa-nenorm.902       28 236,00     21 690,00     71 176,00           0,00    77 029,00    84 310,00    86 400,00
+B                      312001       903    2     111    ZŠ Transfer - havarijný stav 903                   0,00     80 000,00          0,00           0,00         0,00         0,00          0,00
+B                      312001       904    2 16 111     ZŠ Transfer na dopravné - ŠR nenorm. 904       6 496,00      5 327,00      4 500,00     5 344,00       4 500,00     4 500,00     5 000,00
+B                      312001       907    2 17 111     ZŠ Transfer na soc.znevýhodnený nenor907 4 200,00            2 400,00      4 500,00           0,00     4 500,00     4 500,00     4 500,00
+B                      312001       909    2 23 111     ZŠ 909 - Edukačné publikácie -podpr.               0,00          0,00      5 000,00     5 805,00       5 800,00     5 800,00     6 000,00
+B                      312001       910    2 4 111      ZŠ 910 - Lyžiarsky kurz                        2 250,00          0,00      5 250,00           0,00     5 250,00     5 250,00     5 250,00
+B                      312001       911    2 5 111      ZŠ Škola v prírode-911                         2 100,00      1 050,00      5 250,00      900,00        5 250,00     5 250,00     5 250,00
+B                      312001       912    2 21 111     ZŠ Tansfer na špecifiká 912                    1 870,00          0,00          0,00     4 510,00           0,00         0,00          0,00
+                                                                                 Strana 3 / 6
+IČO:     00324973                                                                    Návrh rozpočtu                                                                                         27.11.2026
+Názov: Obec Ždaňa
+
+
+Sídlo:   Jarmočná 118/4                                         za rok 2026, časť príjmy, iba za nenulové riadky
+          04411 Ždaňa
+
+              Analytické členenie                                                                Skutočnosť Skutočnosť        Schválený   Očakávaná                  Návrh 2026     Návrh 2027     Návrh 2028
+              FNC      POL          S1    S2S3 ZDROJ     Text                                   rozpočet 2023 rozpočet 2024 rozpočet 2025 skutočnost
+                                                                                                                                                         2025
+B                      312001       914    2   111     ZŠ 914 - Podporné opatrenie                           0,00      25 944,00                 0,00    85 381,00           0,00           0,00           0,00
+B                      312001       === == == ====     Súčet za POL_4                             1 096 508,64      1 097 495,54      1 117 990,00 1 178 897,00      1 157 308,00   1 130 850,00   1 148 072,00
+B                      312012       24         111     Dotácia ŠR -prenes.výkon št.správy                    0,00     11 061,00                  0,00         0,00           0,00           0,00           0,00
+B                      312012       66         111     UUPV - Stavebný úrad - dotácia                        0,00             0,00               0,00     2 213,00           0,00           0,00           0,00
+B                      312012       800        111     MF - PVŠS - dotácia na pren.výk.št.správ              0,00             0,00               0,00    17 760,00           0,00           0,00           0,00
+B                      312012       800    2   111     MV - matrika - dotácia na PVŠS                        0,00             0,00               0,00      545,00            0,00           0,00           0,00
+B                      312012       800 == == ====     Súčet za S1                                           0,00             0,00               0,00    18 305,00           0,00           0,00           0,00
+B                      312012       === == == ====     Súčet za POL_4                                        0,00     11 061,00                  0,00    20 518,00           0,00           0,00           0,00
+B                      312===       === == == ====     Súčet za POL_3                             1 096 508,64      1 108 556,54      1 117 990,00 1 199 415,00      1 157 308,00   1 130 850,00   1 148 072,00
+B                      31====       === == == ====     Súčet za POL_2                             1 098 563,31      1 110 041,10      1 119 490,00 1 203 317,00      1 158 808,00   1 132 350,00   1 149 572,00
+B                      ======       === == == ====     Súčet za FNC_4 -                           1 969 729,49      1 904 471,34      1 887 182,00 1 983 526,00      1 901 333,00   1 928 967,00   1 962 833,00
+
+                                                    SPOLU ZA BEŽNÝ ROZPOČET                   1 969 729,49     1 904 471,34          1 887 182           1 983 526     1 901 333      1 928 967      1 962 833
+
+K                      233001                  43      Kapitálové príjmy z predaja pozemkov             481,38                0,00               0,00         0,00           0,00           0,00           0,00
+K                      239200                  43      Ostatné kapitálové príjmy                             0,00             0,00               0,00     4 150,00           0,00           0,00           0,00
+K                      23====       === == == ====     Súčet za POL_2                                   481,38                0,00               0,00     4 150,00           0,00           0,00           0,00
+K                      322001             27   1AA1 ZŠ zvýšenie kvality vzdelávania EU85%                    0,00             0,00      464 828,00      464 828,00    464 828,00            0,00           0,00
+K                      322001             27   1AA2 ZŠ zvýšenie kvality vzdelávania ŠR 7%                    0,00             0,00       38 280,00       38 280,00     38 280,00            0,00           0,00
+K                      322001             27   ==== Súčet za S3                                              0,00             0,00      503 108,00      503 108,00    503 108,00            0,00           0,00
+K                      322001       20    23   1AA1 MŠ exteriér - Dotácia EU85                               0,00      82 704,21                 0,00         0,00           0,00           0,00           0,00
+K                      322001       20    23   1AA2 MŠ exteriér - Dotácia ŠR10                               0,00       9 729,91                 0,00         0,00           0,00           0,00           0,00
+K                      322001       20    23   ==== Súčet za S3                                              0,00      92 434,12                 0,00         0,00           0,00           0,00           0,00
+K                      322001       20    24   111     UPSVR - dotácia - detské ihrisko              45 000,00                0,00               0,00         0,00           0,00           0,00           0,00
+K                      322001       20    == == ====   Súčet za S1                                   45 000,00         92 434,12                 0,00         0,00           0,00           0,00           0,00
+K                      322001       25         1AA1 Dom smútku - Dotácia EU75%                               0,00             0,00       75 000,00       75 136,00           0,00           0,00           0,00
+K                      322001       25         1AA2 Dom smútku - Dotácia ŠR25%                               0,00             0,00       25 000,00       13 260,00           0,00           0,00           0,00
+K                      322001       25         ==== Súčet za S3                                              0,00             0,00      100 000,00       88 396,00           0,00           0,00           0,00
+K                      322001       26         1AA1 Chodníky Abovská ul.- dotácia EU75%                      0,00             0,00       75 000,00       84 909,00           0,00           0,00           0,00
+K                      322001       26         1AA2 Chodníky Abovská ul.- dotácia ŠR25%                      0,00             0,00       25 000,00       14 984,00           0,00           0,00           0,00
+K                      322001       26         ==== Súčet za S3                                              0,00             0,00      100 000,00       99 893,00           0,00           0,00           0,00
+K                      322001       5          1AA1 Interreg HU - SK 85 % EU                                 0,00      28 599,50                 0,00         0,00           0,00           0,00           0,00
+K                      322001       5          1AA2 Interreg HU - SK 10 % ŠR                                 0,00       3 364,65                 0,00         0,00           0,00           0,00           0,00
+K                      322001       5          ==== Súčet za S3                                              0,00      31 964,15                 0,00         0,00           0,00           0,00           0,00
+K                      322001       55         1AA1 Modern.šport-rekre.areálu-ZŠ-viacúčel.EU                 0,00             0,00               0,00         0,00    182 856,00            0,00           0,00
+                                                                             Strana 4 / 6
+IČO:     00324973                                                                     Návrh rozpočtu                                                                                       27.11.2026
+Názov: Obec Ždaňa
+
+
+Sídlo:   Jarmočná 118/4                                        za rok 2026, časť príjmy, iba za nenulové riadky
+          04411 Ždaňa
+
+              Analytické členenie                                                                Skutočnosť Skutočnosť        Schválený   Očakávaná                    Návrh 2026   Návrh 2027   Návrh 2028
+              FNC      POL          S1   S2S3 ZDROJ     Text                                    rozpočet 2023 rozpočet 2024 rozpočet 2025 skutočnost
+                                                                                                                                                         2025
+K                      322001       55        1AA2 Modern.šport-rekre.areálu-ZŠ-viacúčel.ŠR                 0,00                0,00             0,00           0,00    15 059,00         0,00          0,00
+K                      322001       55        ==== Súčet za S3                                              0,00                0,00             0,00           0,00   197 915,00         0,00          0,00
+K                      322001       86        111  Šport.oddych.zóna-dotácia ŠR - 111              158 483,96                   0,00             0,00           0,00         0,00         0,00          0,00
+K                      322001       === == == ==== Súčet za POL_4                                  203 483,96          124 398,27       703 108,00      691 397,00     701 023,00         0,00          0,00
+K                      322002           49    45   Kap.trensfer na ČOV pri BD-Enviro fond                   0,00                0,00     75 000,00       75 000,00           0,00         0,00          0,00
+K                      322===       === == == ==== Súčet za POL_3                                  203 483,96          124 398,27       778 108,00      766 397,00     701 023,00         0,00          0,00
+K                      ======       === == == ==== Súčet za FNC_4 -                                203 965,34          124 398,27       778 108,00      770 547,00     701 023,00         0,00          0,00
+
+                                                   SPOLU ZA KAPITÁLOVÝ ROZPOČET                203 965,34          124 398,27          778 108            770 547         701 023           0             0
+
+F                      411005                 41      Vratka pôžičky - Od fyzickej osoby               146,00                   0,00             0,00           0,00         0,00         0,00          0,00
+F                      451                    43      Z realizácie ostat. fin. majetku-akcie                0,00                0,00             0,00    53 665,00           0,00         0,00          0,00
+F                      453                    11H     Prevod z predchádzajúcich rokov CVČ               55,00              382,50                0,00           0,00         0,00         0,00          0,00
+F                      453                    131M    Prostriedky z pred.rokov 2022                 26 780,79                   0,00             0,00           0,00         0,00         0,00          0,00
+F                      453                    131N    Prostriedky z pred.rokov 2023                         0,00        68 671,56                0,00           0,00         0,00         0,00          0,00
+F                      453                    131O    Zapojenie z roku 2024                                 0,00                0,00             0,00    43 389,00           0,00         0,00          0,00
+F                      453                    71      KD - prostriedky z pred.rokov                    684,07               89,39                0,00      149,00            0,00         0,00          0,00
+F                      453                    72f     Prostriedky z predchádzajúcich rokov           2 168,44              485,65                0,00     2 087,00           0,00         0,00          0,00
+F                      453                    72j     BD - prostr. z predchádz.rok.-Fond údržb         421,65            2 036,32                0,00     2 826,00           0,00         0,00          0,00
+F                      453                    ====    Súčet za S3                                   30 109,95           71 665,42                0,00    48 451,00           0,00         0,00          0,00
+F                      453          20   24   131N    Zapojenie z roku 2023-Ihrisko pre každé               0,00        45 000,00                0,00           0,00         0,00         0,00          0,00
+F                      453          === == == ====    Súčet za POL_4                                30 109,95          116 665,42                0,00    48 451,00           0,00         0,00          0,00
+F                      454001                 46      Z rezervného fondu obce a rezervného fon      24 078,22           52 126,69                0,00    39 785,00      25 356,00         0,00          0,00
+F                      454001       55        46      Modern.šport-rekre.areálu-ZŠ-viacúčel.RF              0,00                0,00             0,00           0,00     2 995,00         0,00          0,00
+F                      454001       === == == ====    Súčet za POL_4                                24 078,22           52 126,69                0,00    39 785,00      28 351,00         0,00          0,00
+F                      454003                 41      BD-zábezpeka - zapojenie do rozpočtu           2 861,25            2 965,00                0,00           0,00         0,00         0,00          0,00
+F                      454===       === == == ====    Súčet za POL_3                                26 939,47           55 091,69                0,00    39 785,00      28 351,00         0,00          0,00
+F                      456002                 41      BD - Prijaté finančné zábezpeky                2 965,00            4 151,00                0,00           0,00         0,00         0,00          0,00
+F                      456002                 71      Prijaté finančné zábezpeky Verejné obst.              0,00           100,00                0,00      100,00            0,00         0,00          0,00
+F                      456002                 ====    Súčet za S3                                    2 965,00            4 251,00                0,00      100,00            0,00         0,00          0,00
+F                      45====       === == == ====    Súčet za POL_2                                60 014,42          176 008,11                0,00   142 001,00      28 351,00         0,00          0,00
+F                      4=====       === == == ====    Súčet za POL_1                                60 160,42          176 008,11                0,00   142 001,00      28 351,00         0,00          0,00
+F                      513001       20   23   52      MŠ exteriér - krátkodobý úver                 92 434,12                   0,00             0,00           0,00         0,00         0,00          0,00
+F                      513001       25        52      Dom smútku - krátkodobý úver                          0,00                0,00             0,00    88 396,00           0,00         0,00          0,00
+F                      513001       26    1   52      Chodníky Abovskiá ul.-krátkodový úver                 0,00                0,00             0,00    90 176,00           0,00         0,00          0,00
+                                                                              Strana 5 / 6
+IČO:     00324973                                                                    Návrh rozpočtu                                                                                              27.11.2026
+Názov: Obec Ždaňa
+
+
+Sídlo:   Jarmočná 118/4                                         za rok 2026, časť príjmy, iba za nenulové riadky
+          04411 Ždaňa
+
+              Analytické členenie                                                                  Skutočnosť Skutočnosť        Schválený   Očakávaná                     Návrh 2026     Návrh 2027     Návrh 2028
+              FNC      POL          S1    S2S3 ZDROJ     Text                                     rozpočet 2023 rozpočet 2024 rozpočet 2025 skutočnost
+                                                                                                                                                              2025
+F                      513001       === == == ====     Súčet za POL_4                                  92 434,12                   0,00               0,00   178 572,00           0,00           0,00           0,00
+F                      513002             27   52      ZŠ zvýšenie kvality vzdelávania-úver 8%                 0,00                0,00       43 749,00            0,00           0,00           0,00           0,00
+F                      513002       26     2   52      Chodníky Abovská ul.-dlhod. úver 31.7.28                0,00                0,00               0,00    11 500,00           0,00           0,00           0,00
+F                      513002       500        52      Prima - Municipál Univerzál - dlhod.úver                0,00                0,00               0,00   500 000,00    250 000,00            0,00           0,00
+F                      513002       === == == ====     Súčet za POL_4                                          0,00                0,00       43 749,00      511 500,00    250 000,00            0,00           0,00
+F                      513===       === == == ====     Súčet za POL_3                                  92 434,12                   0,00       43 749,00      690 072,00    250 000,00            0,00           0,00
+F                      514002                  52      Dlhodobé úvery                        

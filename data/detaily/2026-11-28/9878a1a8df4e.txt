@@ -1,0 +1,325 @@
+URL: https://cuet.slovensko.sk/en/dokument/d48606e6-0df9-4d09-ac95-e7d3d61d39ff
+OBEC: Janovce (nejednoznačné: Bardejov / Poprad)
+NÁZOV: Návrh rozpočtu 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/d48606e6-0df9-4d09-ac95-e7d3d61d39ff
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Zverejňovanie na CUET - Obec Jánovce
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Zverejňovanie na CUET - Obec Jánovce
+Published to:
+15.12.2026
+Registry case:
+Name of official document:
+Návrh rozpočtu 2027-2029
+Document abstract:
+Návrh rozpočtu rok 2027-2029
+[https://www.janovce.sk/e_download.php?file=/data/uredni_deska/obsah517_1.pdf&original=návrh rozpočtu rok 2027-2029.pdf]_ _
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+návrh rozpočtu rok 2027-2029.pdf
+Type and size:
+.pdf, 915.05 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/74544bf4-a3b4-4e3e-85df-03939765e3f4
+                          Návrh rozpočtu na rok 2027-2029
+
+                                                                                                      očakávana
+Funč.kl. Ekon.kl. Zdroj                         Názov                     Čerpanie čerpanie Schválený skutočnosť   návrh    návrh     návrh
+                                                                           2024     2025     2026       2026       2027       2028      2029
+
+                          1-bežný rozpočet
+        111003   41       Výnos dane z príjmov FO                          218425   155217    173655      175355   188786    188786     188786
+        121001   41       Daň z pozemkov                                    21010    23000     22700       22700    22700     22700      22700
+        121002   41       Daň zo stavieb                                    12925    13500     13000       13000    13000     13000      13000
+        133001   41       Daň za psa                                          615      700       600         550      600       600        600
+        133012   41       Daň za užívanie verejného priestranstva             100      200       100         100      100       100        100
+        133013   41       Daň za zber a odvoz KO                            29000    29000     30000       30000    41000     41000      41000
+        133013   41       Daň za odvoz Bio odpadu                            5000     5000      5000        5000     2000      2000       2000
+        133015   41       Poplatok za rozvoj                                35000    18470      5300        2500     2000      2000       2000
+        212002   41       Príjmy z prenajatých pozemkov                      1750     1750      1750        2000     2050      2050       2050
+        212003   41       Príjmy z prenajmu Kultúrneho domu                  3500     1000      1000         400     1000      1000       1000
+        212003   41       Príjmy z prenajmu TJ                                100      100       100         100      100       100        100
+        221004   41       Overovanie                                         1000     1000      1000        1000     1000      1000       1000
+        221004   41       Rybársky lístok                                     250      300       265         150      265       265        265
+        222003   41       Prjmy z pokút za porušenie právnych predpisov       100      100       100         100      100       100        100
+        223001   41       Miestny rozhlas                                     150      300       200         350      350       350        350
+        223001   41       Cintorínske poplatky                               1000      600       600         600      600       600        600
+        223001   41       Stavebné poplatky - povolenia                      1000     3350      4000        5000     5000      5000       5000
+        223001   41       Príjem - za odpadové nádoby                         700      650       500         500      500       500        500
+        223001   41       Správne poplatky                                    100      200       300         300      300       300        300
+        223001   41       Rôzne poplatky - v zmysle VZN                       150      200       300         300      300       300        300
+        223001   41       Príjem - za odpadové vrecia na sep.zber               0      150       150         150      150       150        150
+        223002   41       MŠ poplatok za dochádzku dieťaťa                   6500        0         0           0        0         0          0
+        223002   72g      MŠ poplatok za dochádzku dieťaťa                      0     9480     13640       12000    12400     12400      12400
+        292012   41       Ostatné príjmy - z dobropisov                       100     5261       100        6970      500       500        500
+        311      72c      Grant - Dajme spolu gól                             300      300         0           0        0         0          0
+        312001   111      Dotácia z MFSR na výpadok príjmu DPFO              4071        0         0           0        0         0          0
+312001   111 Dotácia na triedený odpad                        2000      2665     2700     2100      2100     2100     2100
+312001   111 Dotácia na stravovanie detí v Mš                 2552      3512     4000     2800      3000     3000     3000
+312001   111 Dotácia na rozvoj regiónu TTSK                   2000         0        0        0         0        0        0
+312008   72C Služby z dotácie TTSK                               0         0        0     1000         0        0        0
+312001   111 Dotácia zo ŠR na voľby                           2760         0     2000     2600      1000     1000     1000
+312001   11UA Dotácia zo ŠR/príspevok na ubytov.odídencov     8500         0        0        0         0        0        0
+312012   111 Dotácia/prenes.výkon/ predškoláci MŠ             7717         0        0        0         0        0        0
+312012   111 Dotácia /prenes.výkon/ cestná doprava              25        25       25       25        25       25       25
+312012   111 Dotácia /prenes.výkon/ register adries             44        25       25       25        25       25       25
+312012   111 Dotácia /prenes.výkon/ REGOB - hlás.obyv.         167       167      167      167       169      169      169
+312012   111 Dotácia /prenes.výkon/ stavebný úrad              751       837      751        0         0        0        0
+312012   111 Dotácia /prenes.výkon/ životné prostredie          61        61       66       66        72       72       72
+312012   111 Normatívne financovanie MŠ                          0    129072   132822   147639    142639   142639   142639
+312012   111 Dotácia pedagogický asistent-nenorm.                0         0        0     3292      6584     6584     6584
+312012   111 Dotácia-výchovnovzdelávacie proces MŠ nenorm.              1000     1000     1445      1000     1000     1000
+312012   111 Dotácia na odmen                                           7300        0        0         0        0        0
+312012   11UA Dotácia/prenes.výkon/ MŠ na špecifiká           1634         0        0        0         0        0        0
+               1-bežný rozpočet                              371057   414492   417916   440284    451415   451415   451415
+              2-kapitálový rozpočet
+233001   43   Predaj pozemkov-majetkoprávne vysporiadanie     3340                  0         0        0        0        0
+322001   111 Projekt multifunkčné ihrisko                                           0    157600        0        0        0
+322001   111 Dotácia z TT na cykloprístrešok                                        0      4000        0        0        0
+322001   1111 Dotácia modernizácia MŠ                                                    375073        0        0        0
+               2-kapitálový rozpočet                          3340                  0   536 673        0        0        0
+               3-finančné operácie
+454001 41      Rezervný fond - na dorovnanie rozpočtu        40000     2500     50000        0     50000    50000    50000
+453    46      Projekt multifunkčné ihrisko                      0        0         0        0    157600   157600   157600
+453    46      Dotácia modernizácia MŠ                           0        0         0        0    375073   375073   375073
+               3-finančné operácie                           40000     2500     50000        0    582673   582673   582673
+
+                                                             414397   416992   467916   479510    1034088 1034088   1034088
+                         1-bežný rozpočet
+01.1.1    611      41    Ocú - tarifné platy                             65000   70000   73000   77800   75000   75000   75000
+01.1.1.   614      111   Odmeny z dotácií                                         2179       0       0       0       0       0
+01.1.1    621      41    Ocú - zdravotné poistenie - VšZP                 6500    7200    7500    9975    8500    8500    8500
+01.1.1    623      41    Ocú - zdravotné poistenie - UNION                 200       0     250       0       0       0       0
+01.1.1    625001   41    Ocú - poistné do SP - nemocenské                 1200    1200    1200    1200    1050    1050    1050
+01.1.1    625002   41    Ocú - poistné do SP - starobné                  10000   10000   10000   11400   10500   10500   10500
+01.1.1    625003   41    Ocú - poistné do SP - úrazové                     800     800     800     800     800     800     800
+01.1.1    625004   41    Ocú - poistné do SP - invalidné                  2400    2400    2400    2400    2400    2400    2400
+01.1.1    625005   41    Ocú - poistné do SP - v nezamestnanosti           900     900     900     900     900     900     900
+01.1.1    625007   41    Ocú - poistné do SP - RF                         3400    3300    3300    3300    3000    3000    3000
+01.1.1    627      41    Ocú - príspevok na doplnkové dôch.poistenie      2000    2200    2200    2200    2200    2200    2200
+01.1.1    631001   41    Ocú - cestovné výdavky                            500    1000    1000     300     500     500     500
+01.1.1    632001   41    Ocú - elektrická energia                         1800    1692    1800    1800       0       0       0
+01.1.1    632006   41    Ocú - elektrická energia                            0       0       0       0    1800    1800    1800
+01.1.1    632001   41    Ocú - plyn                                       9700    9700    9900    9900       0       0       0
+01.1.1    632007   41    Ocú - plyn                                          0       0       0       0    9900    9900    9900
+01.1.1    632002   41    Ocú - voda                                        200     300     350     350     350     350     350
+01.1.1    632003   41    Ocú - telefon, rozhlas, internet                 2500    2650    3000    3000    3000    3000    3000
+01.1.1    632003   41    Ocú - poštovné                                    500     500     500     500     500     500     500
+01.1.1    633002   41    Ocú - výpočtová technika                          200       0     200     800     200     200     200
+01.1.1    633006   111   Ocú - materiál / z dotácií na prenesený výkon     269     278     283     283     291     291     291
+01.1.1    633006   41    Ocú - všeobecný materiál                          500     500     500     700     500     500     500
+01.1.1    633006   41    Ocú - kancelárske potreby                         500    1000    1500    2100    1500    1500    1500
+01.1.1    633006   41    Ocú - čistiace a dezinfekčné prostriedky          100     100     100     100     100     100     100
+01.1.1    633009   41    Ocú - knihy, noviny, publikácie                   140     140     140       0     140     140     140
+01.1.1    633013   41    Ocú - softvér a licencie programov               4000    4000    4500    4500    5500    5500    5500
+01.1.1    633016   41    Ocú - reprezentačné / rôzne                      1000    1000    1000    1000    1000    1000    1000
+01.1.1    635002   41    Ocú - údržba výpočtovej techniky                  100     100     100     100     100     100     100
+01.1.1    635006   41    Ocú - údržba budov, priestorov a objektov         200     200     300     300     300     300     300
+01.1.1    635006   41    Ocú - údržba techniky                             200     200     200     200     200     200     200
+01.1.1    637001   41    Ocú - školenia, kurzy, semináre                   873     500     500     500     500     500     500
+01.1.1    637004   41    Ocú - všeob.služby / ostatné                    10600    5000    8800    9430    4700    4700    4700
+01.1.1    637004   41   Ocú - všeob.služby / spracovanie účtovníctva         4300    5600    5000    5000    5000    5000    5000
+01.1.1    637004   41   Ocú - všeob.služby / ochrana osobných údajov          710     960     800     960     960     960     960
+01.1.1    637004   41   Ocú - všeob.služby / auditorské                      1200    1200    1200    1300    1300    1300    1300
+01.1.1    637004   41   Ocú - všeob.služby / kominárske                       100     100     100     100     100     100     100
+01.1.1    637004   41   Ocú - všeob.služby / poplatky WEB stránky             350     350     350     840     880     880     880
+01.1.1    637004   41   Ocú - služba/Akcia - realizová z odmien poslancov     200       0       0    2600       0       0       0
+01.1.1.   637004   41   Ocú-reprezentačná návšteva Maďarksa                           150     150       0       0       0       0
+01.1.1.   637004   72c Služba z dotácie TTSK                                          440       0    1000       0       0       0
+01.1.1    637012   41   Ocú - poplatky banke                                  300     500     500     500     500     500     500
+01.1.1    637012   41   Poplatky - správne                                      0     100     100     100     100     100     100
+01.1.1    637014   41   Ocú - stravovanie zamestnancov                       2700    3500    3000    3000    3000    3000    3000
+01.1.1    637015   41   Ocú - poistenie budov a majetku                       500     500     500     500     500     500     500
+01.1.1    637027   41   Ocú - odmeny / Dohody                                3000    3000    5000    3500    3500    3500    3500
+01.1.1    641009   111 Ocú - prevod dotácie na stravovanie ŠJ V.Ú.           2552    3512    4000    2800    3000    3000    3000
+01.1.1    641013   111 Ocú - prevod dotácie na stavebný úrad V.Ú.             751     837     751       0       0       0       0
+01.1.1    642001   41   Ocú - transfery z rozpočtu obce / organizáciam       3000    3600    4800    3900    4150    4150    4150
+01.1.1    642006   41   Ocú - členské príspevky                              1700    1500    1500    3900    2200    2200    2200
+01.1.1    642014   11UA Ocú - vyplatenie príspevku FO- za ubyt. odídencov    8500       0       0       0       0       0       0
+01.1.1    642015   41   Na nemocenské dávky - PN                                0     400     500     500     200     200     200
+36678     631001   1111 Voľby -tarifný plat                                     0       0       0     170      80      80      80
+01.6.0    631001   111 Voľby - cestovné                                       120       0     120     144      60      60      60
+01.6.0    632003   111 Voľby - poštové služby                                  15       0      15       0      15      15      15
+01.6.0    632005   111 Voľby - telekomunikačné služby                          10       0      10      30      15      15      15
+01.6.0    633006   111 Voľby - materiál                                       100       0     100     167     100     100     100
+01.6.0    633016   111 Voľby - reprezentačné                                  100       0     100      57      40      40      40
+01.6.0    637014   111 Voľby - stravovanie                                    300       0     300     214      80      80      80
+01.6.0    637026   111 Voľby - odmeny členov OVK                             1465       0    1500    1758     560     560     560
+01.6.0    637027   111 Voľby - odmeny za doručovanie oznámení                  40       0      40      60      50      50      50
+02.2.0    637004   41   Ocú - všeob.služby / agenda CO                       1400    1400    1400    1400    1400    1400    1400
+04.5.1    633006   41   Ocú - materiál / posypová soľ na komunikácie          100     100     100     100     100     100     100
+04.5.1    633007   41   Ocú - dopravné značky                                 100     100     100       0       0       0       0
+05.1.0    633006   41   Ocú - smetné nádoby, vrecia                           800    1200    1000     500     500     500     500
+05.1.0    637004   41   Ocú - odvoz a uloženie odpadov                      29000   31665   32700   32700   41000   41000   41000
+06.2.0 633004    41    VZ - stroje a prístroje na údržbu               200    800     200    200    200    200    200
+06.2.0 633006    111   VZ - výsadba stromov z dotácie TTSK            2000      0       0      0      0      0      0
+06.2.0 633006    41    VZ - materiál                                   500    350     300   2020    300    300    300
+06.2.0 634001    41    VZ - benzín                                    1000   1000    1200   1200   1200   1200   1200
+05.01.0 632001   41    Elektrina - obecný dvor                           0    108    1100    470      0      0      0
+05.01.0 632006   41    Elektrina - obecný dvor                           0      0       0      0    500    500    500
+06.4.0 632001    41    VO - elektrická energia                        6000   6000    6000   4000      0      0      0
+06.4.0 632006    41    VO - elektrická energia                           0      0       0      0   5000   5000   5000
+06.4.0 633006    41    VO - materiál                                   300    300     300    300    300    300    300
+06.4.0 635006    41    VO - údržba a opravy                            200    200     200    200    200    200    200
+08.1.0 625002    41    TJ - poistné do SP - starobné                   360    360     360    360    360    360    360
+08.1.0 625003    41    TJ - poistné do SP - úrazové                     30     30      30     30     30     30     30
+08.1.0 625007    41    TJ - poistné do SP - RF                         140    140     140    140    140    140    140
+08.1.0 632001    41    TJ - elektrická energia                        2600   2600    2500   2500      0      0      0
+08.1.0 632006    41    TJ - elektrická energia                           0      0       0      0   2500   2500   2500
+08.1.0 632001    41    TJ - plyn                                      1000   1000    1100   1100      0      0      0
+08.1.0 632007    41    TJ - plyn                                         0      0       0      0   1100   1100   1100
+08.1.0 632002    41    TJ - voda                                       100    100     100    300    300    300    300
+08.1.0 633006    41    TJ - materiál                                   100    100     100    100    100    100    100
+08.1.0 634001    41    TJ - benzín                                     200    200     200    200    200    200    200
+08.1.0 635006    41    TJ - údržba budov a objektov                    100    100     100    230    100    100    100
+08.1.0 637027    41    TJ - odmeny / Dohody                           2800   2800    2800   3000   3000   3000   3000
+08.2.0 632001    41    KD - elektrická energia                        1100   1400    1400   1400      0      0      0
+08.2.0 632006    41    KD - elektrická energia                           0      0       0      0   1250   1250   1250
+08.2.0 632001    41    KD - plyn                                      5100   5100    5500   5500      0      0      0
+08.2.0 632007    41    KD - plyn                                         0      0       0      0   5500   5500   5500
+08.2.0 632002    41    KD - voda                                       400    250     250    750    750    750    750
+08.2.0 633006    41    KD - materiál                                   100    100     100    100    100    100    100
+08.2.0 633016    41    Ocú - reprezentačné / posedenie s dôchodcami   2000   2800    2000   2000   2000   2000   2000
+08.2.0 633016    41    Ocú - reprezentačné / Mikuláš                   600    800     600    600    600    600    600
+08.2.0 633016    41    Ocú - reprezentačné / Deň detí                  250    270     300    250    300    300    300
+8.2.0. 6330      41    Ocú - reprezentačné / Deň obce                           0   10000   5000      0      0      0
+08.2.0 635006    41    KD - údržba budov a objektov                   5100    200     200    200    200    200    200
+08.4.0 632001     41     CINT - elektrická energia                          900     900     900     900       0       0       0
+08.4.0 632006     41     CINT - elektrická energia                            0       0       0       0     900     900     900
+08.4.0 633006     41     CINT - materiál                                    100     100     100     100     100     100     100
+08.4.0 634001     41     CINT - benzín                                      200     400     400     400     400     400     400
+08.4.0 635006     41     CINT - údržba budov a objektov                     100     100     100     100     100     100     100
+09.1.1.1 611      111    MŠ-/norm.financ./ - tarifné platy                    0   76000   88000   94600   93800   93800   93800
+09.1.1.1 611      111    MŠ-pedagogický asistent/nenorm/ -tarifné platy       0       0       0    2420    4840    4840    4840
+09.1.1.1 611      41     MŠ - tarifné platy                               62000    6000       0       0       0       0       0
+09.1.1.1.614      1111   Odmeny z dotácií MŠ                                       5121       0       0       0       0       0
+09.1.1.1 621      111    MŠ- /norm.financ./ - VšZP                            0    6000    6000    7500    7000    7000    7000
+09.1.1.1 621      111    MŠ-pedag.asistent /VšZP                              0       0       0     266     532     532     532
+09.1.1.1 621      41     MŠ - zdravotné poistenie - VšZP                   5000     320       0       0       0       0       0
+09.1.1.1 623      111    MŠ - /norm.financ./ - UNION                          0    1800    2300    3700    3700    3700    3700
+09.1.1.1 623      111    MŠ-/norm.financ./- Dôvera                            0    1500    1500       0       0       0       0
+09.1.1.1.623      41     MŠ-/výdajńa stravy/ zdravotná poisť.VSZP                   400     400     400     400     400     400
+09.1.1.1 623      41     MŠ - zdravotné poistenie - UNION                  1500     180       0       0       0       0       0
+09.1.1.1 623      41     MŠ - zdravotné poistenie - Dôvera                 1000     120       0       0       0       0       0
+09.1.1.1 625001   111    MŠ -/norm.financ./ SP - nemocenské                   0    1000    1000    1400    1400    1400    1400
+09.1.1.1 625001   111    MŠ-pedag.asistent /SP-nemocenské                     0       0       0      34      68      68      68
+09.1.1.1 625001   41     MŠ - poistné do SP - nemocenské                   1200      90       0       0       0       0       0
+09.1.1.1 625002   111    MŠ- /norm.financ./ SP - starobné                     0    9300    9300   14000   13500   13500   13500
+09.1.1.1 625002   111    MŠ-pedag.asistent /SP-starobné                       0       0       0     340     680     680     680
+09.1.1.1 625002   41     MŠ - postné do SP - starobné                      9500     760       0       0       0       0       0
+09.1.1.1 625003   111    MŠ - /norm.financ./ SP - úrazové                     0     600     600     900     800     800     800
+09.1.1.1 625003   111    MŠ-pedag.asistent /SP-úrazové                        0       0       0      20      40      40      40
+09.1.1.1 625003   41     MŠ - poistné do SP - úrazové                       800      50       0       0       0       0       0
+09.1.1.1 625004   111    MŠ - /norm.financ./ SP - invalidné                   0    1800    1800    2800    2800    2800    2800
+09.1.1.1 625004   111    MŠ-pedag.asistent /SP-invalidné                      0       0       0      73     146     146     146
+09.1.1.1 625004   41     MŠ - poistnédo SP - invalidné                     2000     170       0       0       0       0       0
+09.1.1.1 625005   111    MŠ- /norm.financ./ SP - v nezamestnanosti            0     800     800     970     970     970     970
+09.1.1.1 625005   111    MŠ-pedag.asistent /SP-v nezamestnanosti              0       0       0      24      48      48      48
+09.1.1.1 625005   41     MŠ - poistné do SP - v nezamestnanosti            1000      60       0       0       0       0       0
+09.1.1.1 625007   111    MŠ - /norm.financ./ SP - RF                          0    2800    2800    4700    4600    4600    4600
+09.1.1.1 625007   111 MŠ-pedag.asistent /SP-RF                              0       0       0    115    230    230    230
+09.1.1.1 625007   41   MŠ - poistné do SP - RF                           3200     260       0      0      0      0      0
+09.1.1.1 627      111 MŠ - /norm.financ./ - príspevok DDP                   0    1100    2000   2000   2100   2100   2100
+09.1.1.1 627      41   MŠ - príspevok na doplnkové dôch.poistenie        1411     700       0    120      0      0      0
+09.1.1.1 632001   111 MŠ-/norm.financ./ - voda                              0    1000    1000   1000   1000   1000   1000
+09.1.1.1 632001   111 MŠ- /norm.financ./ - elektrická.energia               0    1500    1500   1000      0      0      0
+09.1.1.1 632006   111 MŠ- /norm.financ./ - elektrická.energia               0       0       0      0   1000   1000   1000
+09.1.1.1 632001   111 MŠ-/norm.financ./- plyn                               0   15701   11822   5589      0      0      0
+09.1.1.1 632007   111 MŠ-/norm.financ./- plyn                               0       0       0      0   2519   2519   2519
+09.1.1.1 632001   72g MŠ-plyn/z príspevkov od rodičov                       0       0       0   8550      0      0      0
+09.1.1.1 632007   72g MŠ-plyn/z príspevkov od rodičov                       0       0       0      0   6338   6338   6338
+09.1.1.1 632001   11UA MŠ plyn z dotácie na špecifiká                     875       0       0      0      0      0      0
+09.1.1.1 632001   41   MŠ - voda                                         1000       0       0      0      0      0      0
+09.1.1.1 632001   41   MŠ - elektrická.energia                           1500    1100     461      0      0      0      0
+09.1.1.1 632001   41   MŠ - plyn                                        13300       0   10000      0      0      0      0
+09.1.1.1 632003   111 MŠ - /norm. financ./ - telefón, internet, pošta       0     550     600    750    750    750    750
+09.1.1.1 632003   41   MŠ - telefón, internet                             300       0       0      0      0      0      0
+09.1.1.1 632003   41   MŠ - poštovné                                      100     100     100      0      0      0      0
+09.1.1.1 637004   111 Dotácia na výchovno-vzdelávaci proces nenor.          0       0       0   1445   1000   1000   1000
+09.1.1.1 633006   111 MŠ-/norm.financ./- materiál                           0    2000     800    500    600    600    600
+09.1.1.1 633006   111 MŠ - materiál / z dotácie na predškolákov          4917       0       0      0      0      0      0
+09.1.1.1 633006   11H MŠ - materiál z dotácie Dajme spolu gól             300     300       0      0      0      0      0
+09.1.1.1 633006   41   MŠ - materiál                                      150       0       0      0      0      0      0
+09.1.1.1 633006   41   MŠ - materiál / z príspevkov od rodičov           1200       0       0      0      0      0      0
+09.1.1.1 633006   72g MŠ - materiál / z príspevkov od rodičov               0    4000    5000   2450   3000   3000   3000
+09.1.1.1 637004   111 MŠ- /norm.financ./- všeob. služby                     0     500    1000   1250   1120   1120   1120
+09.1.1.1 637004   11UA MŠ - všeob. služby / z dotácie na špecifiká        759       0       0      0      0      0      0
+09.1.1.1 637004   41   MŠ - všeob. služby / z príspevkov od rodičov       500       0       0      0      0      0      0
+09.1.1.1 637004   72g MŠ - všeob. služby / z príspevkov od rodičov          0    2000    2000   2600   2000   2000   2000
+09.1.1.1 637014   41   MŠ - stravovanie zamestnancov                     4500    5500    6000      0      0      0      0
+09.1.1.1 637014   111 MŠ-/norm.financ./ stravovanie zamestnancov            0       0       0   4980   4980   4980   4980
+09.1.1.1 642030   111 MŠ- osobné a odmeny / z dotácie na predškolákov    2800      50       0      0      0      0      0
+09.6.0.1 611      41   MŠ - /Výdajňa stravy/ - tarifný plat                 0    2000    2000   2000   2000   2000   2000
+09.6.0.1 625001   41    MŠ - /Výdajňa stravy/ SP - nemocenské              0      100       100      100      100      100      100
+09.6.0.1 625002   41    MŠ - /Výdajňa stravy/ SP - starobné                0      389       300      300      300      300      300
+09.6.0.1 625003   41    MŠ - /Výdajňa stravy/ SP - úrazové                 0      100       100      100      100      100      100
+09.6.0.1 625004   41    MŠ - /Výdajňa stravy/ SP - invalidné               0      100       100      100      100      100      100
+09.6.0.1 625005   41    MŠ - /Výdajňa stravy/ SP - v nezamestnanosti       0      100       100      100      100      100      100
+09.6.0.1 625007   41    MŠ - /Výdajňa stravy/ SP - RF                      0      100       100      100      100      100      100
+09.6.0.1 631001   41    MŠ - /Výdajňa stravy/ - cestovné výdavky        1000     1200      1200     1200     1200     1200     1200
+10.2.0 637004     41    OPATROVATEĽSKÁ SLUŽBA                           6000     9000     10000    11100    11000    11000    11000
+                        1-bežný rozpočet                               351087   382682   411322   428884   409512   409512   409512
+                        2-kapitálový rozpočet
+01.1.1 716        41    Príprava projektov                                 0    20610     20000     8300     3654     3654     3654
+01.1.1 717002     41    Rekonštrukcia strechy obecného úradu           20000        0         0        0        0        0        0
+01.1.1 718004     41    Výmena plyn.kotla a príslušenstva Ocú           3500        0         0        0        0        0        0
+01.1.1. 718006    41    Modernizácia web stránky obce                      0        0        0      2600        0        0        0
+04.5.1 717003     41    Parkovisko pri TJ                               3000     2000         0        0        0        0        0
+05.1.0 717002     41    Oplotenie obecného dvora                       14300        0         0        0        0        0        0
+05.1.0 717002     41    Brána obecného dvora                               0     7700         0        0        0        0        0
+07.1.3 713005     41    Nákup defibrilátora                                0     3100         0        0        0        0        0
+08.1.0 717001     111   Multifunkčné ihrislo                               0        0         0        0        0        0        0
+08.1.0 716              Spolufinancovanie projektov                        0        0     36594      500    54750    54750    54750
+06.02.0 717001    111   Cykloprístrešok z dotácie TT                                          0     4000        0        0        0
+08.4.0 717002     41    Rekonštrukcia sochy Ježiša v RK cintoríne       2510        0         0        0        0        0        0
+08.4.0 717002     41    Svietidlá evanjelický cintorín                     0      900         0        0        0        0        0
+                        2-kapitálový rozpočet                           43310    34310    56594    15400    58404    58404    58404
+                                                                       394397   416992   467916   444284   467916   467916   467916
+
+
+
+
+                        návrh na rok 2027
+                        bežné príjmy                        451 415
+                        bežné výdavky                       409 512
+                        bežný rozpočet
+kapitálové príjmy        0
+kapitálové výdavky    58 404
+kapitálový rozpočet
+
+finančné operácie     582 673
+
+celkový rozpočet      566 172
+

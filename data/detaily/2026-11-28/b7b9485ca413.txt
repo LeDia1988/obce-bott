@@ -1,0 +1,503 @@
+URL: https://cuet.slovensko.sk/en/dokument/0ec6c7a5-1052-4381-8e52-93e1148c27f8
+OBEC: Vranov Nad Topľou (Vranov nad Topľou)
+NÁZOV: Návrh prog. rozpočtu mesta Vranov n. T. 2027-2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/0ec6c7a5-1052-4381-8e52-93e1148c27f8
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh prog. rozpočtu mesta Vranov n. T. 2027-2029
+Search publisher's RSS feeds
+Published on official board:
+Mesto Vranov nad Topľou (OVM)
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Mesto Vranov nad Topľou (OVM)
+Published to:
+12.12.2026
+Registry case:
+Name of official document:
+Návrh prog. rozpočtu mesta Vranov n. T. 2027-2029
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh programového rozpočtu mesta
+Vranov nad Topľou na roky 2027 – 2029
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+Návrh rozpočtu mesta Vranov nad Topľou 2027-2029 – kompletný materiál.pdf
+Type and size:
+.pdf, 3.54 MB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/ecfb67f2-6941-40aa-b1ac-084b6941ccfa
+      Mesto Vranov nad Topľou
+
+
+
+
+ Návrh programového rozpočtu mesta
+Vranov nad Topľou na roky 2027 – 2029
+
+
+
+
+             November 2026
+                                                   Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+
+
+Časť A – Textová časť
+
+Dôvodová správa
+Návrh rozpočtu mesta na rok 2027 a viacročného rozpočtu na roky 2028 – 2029 je zostavený ako
+programový rozpočet v súlade najmä s:
+   ústavným zákonom č. 493/2011 Z. z. o rozpočtovej zodpovednosti,
+   zákonom č. 583/2004 Z. z. o rozpočtových pravidlách územnej samosprávy a o zmene a
+    doplnení niektorých zákonov,
+   zákonom č. 523/2004 Z. z. o rozpočtových pravidlách verejnej správy a o zmene a doplnení
+    niektorých zákonov,
+   zákonom č. 564/2004 Z. z. o rozpočtovom určení výnosu dane z príjmov územnej samospráve a
+    nariadením vlády č. 668/2004 Z. z.,
+   zákonom č. 582/2004 Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a
+    drobné stavebné odpady,
+   zákonom č. 597/2003 Z. z. o financovaní základných škôl, stredných škôl a školských zariadení,
+   zákonom č. 448/2008 Z. z. o sociálnych službách v znení zákona č. 406/2025 Z. z. a nariadením
+    vlády č. 135/2026 Z. z.,
+   opatrením MF SR, ktorým sa ustanovuje rozpočtová klasifikácia,
+   VZN mesta o miestnych daniach a VZN o miestnom poplatku za komunálne odpady a drobné
+    stavebné odpady.
+Rozpočet na rok 2027 je záväzný, rozpočty na roky 2028 a 2029 nie sú záväzné (§ 9 ods. 3 zákona
+č. 583/2004 Z. z.). Rozpočet sa člení na bežný rozpočet, kapitálový rozpočet a finančné operácie (§
+10 ods. 3 zákona č. 583/2004 Z. z.); príjmy sú členené podľa ekonomickej klasifikácie, výdavky podľa
+funkčnej a ekonomickej klasifikácie a podľa programov. Súčasťou rozpočtu mesta sú rozpočty
+rozpočtových organizácií a príspevok príspevkovej organizácii zriadených mestom (§ 4 ods. 4
+zákona č. 583/2004 Z. z.).
+Miestne dane a miestny poplatok za komunálne odpady sa na rok 2027 nezvyšujú. Príjmy z
+nich sú rozpočtované podľa platných VZN a očakávanej skutočnosti roka 2026. Navrhuje sa úprava
+úhrad za sociálne služby v Zariadení pre seniorov.
+Originálne kompetencie sa financujú z vlastných príjmov mesta, najmä z podielu na dani z príjmov
+fyzických osôb. Prenesený výkon štátnej správy je financovaný z dotácií štátu: matrika, register
+obyvateľov, stavebný úrad, školský úrad, základné školstvo, Zariadenie pre seniorov a Zariadenie
+opatrovateľskej služby. Projekty z fondov EÚ a štátneho rozpočtu sú zahrnuté v rozsahu schválených
+projektov.
+Mzdové výdavky sú rozpočtované podľa návrhu mzdových prostriedkov na rok 2027 a minimálnej
+mzdy platnej od 1. 1. 2027. Valorizácia platov zamestnancov vo verejnej službe na rok 2027 v
+rozpočte zahrnutá nie je; ak bude dohodnutá, premietne sa do rozpočtu rozpočtovým opatrením.
+
+1. Celková bilancia rozpočtu
+Rozpočet na rok 2027 je zostavený ako vyrovnaný. Bežný rozpočet je prebytkový (1 417,8 tis. €),
+kapitálový rozpočet je schodkový (−705,4 tis. €) a finančné operácie sú v salde −712,4 tis. €.
+Ukazovateľ (tis. €)                      Rozpočet        Návrh 2027        Návrh 2028         Návrh 2029
+                                           2026
+                                         schválený
+Bežné príjmy                                34 806,3         36 779,1           36 900,2           37 425,3
+Bežné výdavky                               33 426,4         35 361,3           35 322,2           35 322,2
+Bežný rozpočet                               1 379,9          1 417,8            1 578,0            2 103,1
+Kapitálové príjmy                            7 231,7          1 942,1               50,0               50,0
+Kapitálové výdavky                           9 573,3          2 647,5              140,1              665,2
+Kapitálový rozpočet                         −2 341,6          −705,4               −90,1            −615,2
+
+                                              Strana 2
+                                                    Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+
+
+Ukazovateľ (tis. €)                       Rozpočet        Návrh 2027        Návrh 2028         Návrh 2029
+                                            2026
+                                          schválený
+Príjmové finančné operácie                    2 330,0            850,1                0,0                0,0
+Výdavkové finančné operácie                   1 368,3          1 562,5            1 487,9            1 487,9
+Finančné operácie                               961,7          −712,4            −1 487,9           −1 487,9
+Príjmy spolu                                 44 368,0         39 571,3           36 950,2           37 475,3
+Výdavky spolu                                44 368,0         39 571,3           36 950,2           37 475,3
+Celková bilancia                                  0,0              0,0                0,0                0,0
+
+
+
+2. Príjmová časť
+Príjmy rozpočtu mesta na rok 2027 predstavujú 39 571,3 tis. €: bežné príjmy 36 779,1 tis. €,
+kapitálové príjmy 1 942,1 tis. € a príjmové finančné operácie 850,1 tis. €.
+Ekonomická klasifikácia                        Rozpočet 2026        Návrh 2027 (tis.        Rozdiel (tis. €)
+                                              schválený (tis. €)          €)
+100 – Daňové príjmy                                   13 176,8             13 791,4                    614,6
+200 – Nedaňové príjmy                                  4 611,6               5 569,7                   958,1
+300 – Granty a transfery                              17 017,9             17 417,9                    400,0
+Bežné príjmy spolu                                    34 806,3             36 779,1                  1 972,8
+230 – Kapitálové príjmy                                   100,0                 50,0                   −50,0
+320 – Kapitálové granty a transfery                    7 131,7               1 892,1                −5 239,6
+Kapitálové príjmy spolu                                7 231,7               1 942,1                −5 289,6
+400, 500 – Príjmové finančné operácie                  2 330,0                 850,1                −1 479,9
+Príjmy celkom                                         44 368,0             39 571,3                 −4 796,7
+
+
+
+Bežné príjmy – 36 779,1 tis. €
+111003 – Výnos dane z príjmov poukázaný územnej samospráve – 10 300,4 tis. €. Výnos dane
+sa rozdeľuje podľa nariadenia vlády o rozdeľovaní výnosu dane z príjmov územnej samospráve,
+najmä podľa počtu obyvateľov, počtu žiakov a detí v školách a školských zariadeniach a počtu
+obyvateľov nad 62 rokov. Rozpočtuje sa podľa prognózy MF SR zo septembra 2026, čo je o 594,6
+tis. € viac ako v schválenom rozpočte 2026. Na roky 2028 a 2029 sa podľa tej istej prognózy počíta s
+výnosom 10 718,1 tis. € a 11 243,2 tis. €.
+121 – Daň z nehnuteľností – 1 630,0 tis. €. Daň z pozemkov, zo stavieb a z bytov a nebytových
+priestorov je rozpočtovaná podľa platného VZN o miestnych daniach, bez zmeny sadzieb.
+133 – Dane za špecifické služby – 221,0 tis. €. Daň za psa, za užívanie verejného priestranstva, za
+ubytovanie, za predajné automaty a nevýherné hracie prístroje, bez zmeny sadzieb; suma vychádza
+z očakávaného plnenia roka 2026.
+133013 – Miestny poplatok za komunálne odpady a drobné stavebné odpady – 1 640,0 tis. €.
+Sadzba poplatku sa na rok 2027 nemení. Poplatok je určený na úhradu výdavkov na zber, prepravu
+a zneškodňovanie komunálneho odpadu.
+200 – Nedaňové príjmy – 5 569,7 tis. €
+   212002 – z prenajatých pozemkov 105,0 tis. € (záhradky, podnikateľské účely a nájomné v
+    priemyselnom parku),
+   212003 – z prenajatých bytov 559,0 tis. €, z prenájmu budov a garáží 225,0 tis. € a z prenájmu
+    kotolní 177,0 tis. € podľa nájomnej zmluvy,
+   221004 – administratívne poplatky 110,0 tis. € a 222003 – pokuty a penále 25,0 tis. € (najmä
+    pokuty uložené mestskou políciou),
+   223001 – príjmy z predaja služieb 1 410,1 tis. € vrátane parkovného a rezidentského parkovania
+    (70,0 tis. €) a príjmov mestskej športovej haly a športovej haly Juh, z cintorínskych služieb 50,0
+    tis. € a za opatrovateľskú službu 347,0 tis. € – od roku 2027 dostávajú príspevok na
+    opatrovateľskú službu priamo občania a službu mestu uhrádzajú,
+
+                                               Strana 3
+                                                     Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+
+
+   223002, 223003 – príspevky rodičov za materské školy 191,0 tis. € a za stravovanie v školských
+    jedálňach pri MŠ 279,0 tis. €,
+   240 – úroky z vkladov 1,0 tis. €; 292 – ostatné príjmy 208,1 tis. € (dobropisy, refundácie, vratky a
+    vecné bremená) a odvod z hazardných hier 36,0 tis. €,
+   vlastné príjmy škôl a školských zariadení s právnou subjektivitou 940,0 tis. €,
+   príjmy Zariadenia pre seniorov a Zariadenia opatrovateľskej služby 906,5 tis. € (úhrady klientov,
+    strava, chránené dielne) vrátane úpravy úhrad za sociálne služby v Zariadení pre seniorov.
+Vlastné príjmy mesta (daňové a nedaňové) predstavujú 19 361,2 tis. €.
+300 – Granty a transfery – 17 417,9 tis. €
+   dotácia na prenesené kompetencie v základných školách 10 986,9 tis. € (vrátane príspevku iných
+    obcí na CVČ), dotácia na materské školy 2 858,3 tis. € a školský úrad 43,4 tis. €,
+   dotácia na stravu v školských jedálňach a dotácia na stravu a školské potreby cez ÚPSVaR
+    spolu 1 094,5 tis. €,
+   finančný príspevok na Zariadenie pre seniorov 1 096,3 tis. € a na Zariadenie opatrovateľskej
+    služby 107,7 tis. € podľa nariadenia vlády č. 135/2026 Z. z.,
+   príspevok obcí a štátu na spoločný obecný úrad a Centrum zdieľaných služieb 416,6 tis. €,
+   dotácie na matriku 77,6 tis. €, register obyvateľov 11,0 tis. € a ochranu prírody 2,5 tis. €,
+   dávky v hmotnej núdzi a osobitný príjemca 157,0 tis. €,
+   príspevky ÚPSVaR na terénnu sociálnu prácu 96,4 tis. €, komunitné centrum 68,5 tis. €, útulok
+    26,7 tis. €, chránené pracoviská 62,7 tis. € a na projekt podľa § 54j 38,0 tis. €,
+   dotácia na projekt Miestne občianske a podporné služby 116,6 tis. €,
+   Envirofond 40,0 tis. € a vojnové hroby 14,8 tis. €,
+   bežné dotácie na projekty Modernizácia ZŠ Kukučínova 28,0 tis. €, Vodozádržné opatrenia v
+    meste Vranov nad Topľou 39,1 tis. € a Modernizácia miestnej komunikácie ul. Dlhá 35,2 tis. €.
+
+Kapitálové príjmy – 1 942,1 tis. €
+Kapitálové granty 1 892,1 tis. € na projekty Modernizácia Základnej školy Kukučínova (400,4 tis. €),
+Výstavba infraštruktúry pri Kultúrnom centre (455,1 tis. €), Vodozádržné opatrenia v meste Vranov
+nad Topľou (534,2 tis. €) a Modernizácia miestnej komunikácie ul. Dlhá (502,3 tis. €). Príjem z
+predaja pozemkov je rozpočtovaný vo výške 50,0 tis. €.
+
+Príjmové finančné operácie – 850,1 tis. €
+   454 – prevod z peňažných fondov 203,0 tis. € (fond opráv bytov),
+   513 – prijatý úver 647,1 tis. € na financovanie investícií uvedených v časti 4 (spolufinancovanie
+    projektov, projektová dokumentácia, investície do nehnuteľného majetku a kapitálový transfer pre
+    Mestský dom kultúry),
+   453 – zostatok prostriedkov z predchádzajúcich rokov sa do rozpočtu zapojí po schválení
+    záverečného účtu za rok 2026.
+
+3. Výdavková časť – bežné výdavky
+Bežné výdavky sú rozpočtované vo výške 35 361,3 tis. €, o 1 934,9 tis. € viac ako v schválenom
+rozpočte 2026.
+Funkčná klasifikácia                            Rozpočet 2026        Návrh 2027 (tis.       Rozdiel (tis. €)
+                                               schválený (tis. €)          €)
+01 – Všeobecné verejné služby                           3 066,9               3 230,5                   163,6
+03 – Verejný poriadok a bezpečnosť                         560,5                634,8                    74,3
+04 – Ekonomická oblasť                                  1 638,3               1 438,4                 −199,9
+05 – Ochrana životného prostredia                       1 880,0               1 967,1                    87,1
+06 – Bývanie a občianska vybavenosť                     3 437,3               3 170,3                 −267,0
+08 – Rekreácia, kultúra a náboženstvo                   1 296,2               1 360,8                    64,6
+09 – Vzdelávanie                                       18 687,7             20 291,8                  1 604,1
+
+
+                                                Strana 4
+                                                     Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+
+
+Funkčná klasifikácia                            Rozpočet 2026        Návrh 2027 (tis.       Rozdiel (tis. €)
+                                               schválený (tis. €)          €)
+10 – Sociálne zabezpečenie                              2 859,5               3 267,6                   408,1
+Bežné výdavky spolu                                    33 426,4             35 361,3                  1 934,9
+
+
+01.1.1 – Výkonné a zákonodarné orgány – 2 836,6 tis. €. Výdavky na činnosť mestského úradu,
+primátora, mestského zastupiteľstva a hlavnej kontrolórky: mzdy a odvody, odmeny poslancom a
+členom komisií a výborov mestských častí (208,1 tis. € vrátane odvodov), energie, voda a
+komunikácie, materiál, údržba, mestský informačný systém (licencie, údržba softvéru, kybernetická
+bezpečnosť a GDPR), príspevok na stravovanie, sociálny fond, rekreačné poukazy, propagácia
+mesta, členské príspevky a výdavky spoločného obecného úradu a Centra zdieľaných služieb.
+01.1.2 – Finančná a rozpočtová oblasť – 64,5 tis. €. Poplatky banke, súdne a notárske poplatky,
+rezerva na súdne spory, audit a rating, právne služby a vianočná výzdoba.
+01.3.3 – Matrika – 77,6 tis. € – prenesený výkon štátnej správy financovaný dotáciou.
+01.7.0 – Transakcie verejného dlhu – 251,8 tis. € – úroky z úverov v komerčných bankách a zo
+ŠFRB.
+03 – Verejný poriadok a bezpečnosť – 634,8 tis. €. Mestská polícia 480,4 tis. € (mzdy 315,0 tis. €,
+poistné 122,9 tis. €, tovary a služby 42,6 tis. €), projekt Miestne občianske a podporné služby 148,7
+tis. € (občianske hliadky, financované najmä z dotácie projektu) a ochrana pred požiarmi 5,7 tis. €.
+04 – Ekonomická oblasť – 1 438,4 tis. €. Terénna sociálna práca a komunitné centrum 183,2 tis. €
+a chránené pracoviská 156,8 tis. €, ktoré sú z väčšej časti refundované z príspevkov ÚPSVaR.
+Správa a údržba miestnych komunikácií (04.5.1) 1 098,3 tis. €:
+   obnova zvislého a vodorovného dopravného značenia, živičné opravy a vysprávky, opravy
+    komunikácií a parkovacích plôch a riešenie havarijných stavov 883,4 tis. €,
+   splátka dodávateľského záväzku za rekonštrukciu komunikácií 128,3 tis. €,
+   zimná údržba – posypový materiál 25,0 tis. €, pohonné hmoty 20,0 tis. € a opravy miestnych
+    komunikácií po zime 10,0 tis. €,
+   zmluvný servis a údržba parkovacích automatov 30,6 tis. € a transakčné poplatky 1,0 tis. €.
+05.1.0 – Nakladanie s odpadmi – 1 674,0 tis. €. Zber, preprava a zneškodňovanie komunálneho
+odpadu vrátane mechanicko-biologickej úpravy 1 520,0 tis. €, rekonštrukcia stojísk pri bytových
+domoch 35,0 tis. €, nádoby na odpad 6,0 tis. €, likvidácia divokých skládok, monitoring a ostatné
+výdavky 34,5 tis. € a kompostáreň 78,5 tis. € – nakladanie s biologicky rozložiteľným odpadom
+zabezpečuje mesto vo vlastnej réžii.
+05.2.0 – Nakladanie s odpadovými vodami – 264,1 tis. €. Údržba dažďovej a splaškovej
+kanalizácie, prečerpávacích staníc a vodovodnej siete v majetku mesta, riešenie havarijných stavov
+a odvádzanie vôd 225,0 tis. € a bežné výdavky projektu Vodozádržné opatrenia 39,1 tis. €.
+05.4.0 – Karanténna stanica – 29,0 tis. € – prevádzka karanténnej stanice v novom režime od 1. 5.
+2027.
+06 – Bývanie a občianska vybavenosť – 3 170,3 tis. €. Rozvoj obcí (06.2.0) 1 707,7 tis. €: údržba
+verejnej zelene, čistenie mesta a detské ihriská 929,5 tis. €, údržba mestského majetku 324,6 tis. €,
+správa majetku mesta a pozemky 215,2 tis. €, mestská verejná doprava 100,0 tis. €, pohrebné a
+cintorínske služby 38,0 tis. €, priemyselný park 16,7 tis. €, projektová príprava 15,0 tis. € a bežné
+výdavky projektov Modernizácia miestnej komunikácie ul. Dlhá a Modernizácia ZŠ Kukučínova.
+Verejné osvetlenie (06.4.0) 278,0 tis. € – elektrická energia 220,0 tis. €, údržba 48,0 tis. €, výmena a
+opravy 10,0 tis. €. Bývanie a občianska vybavenosť (06.6.0) 1 184,7 tis. € – správa bytového fondu a
+nebytových priestorov mesta, hradená najmä z nájomného a záloh na služby.
+08 – Rekreácia, kultúra a náboženstvo – 1 360,8 tis. €
+
+
+
+                                                Strana 5
+                                                          Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+
+
+   šport: dotácia MŠK 110,0 tis. €, dotácie ďalším športovým klubom 25,0 tis. €, MFK, a. s., 290,0
+    tis. € vrátane prevádzky futbalových štadiónov, zimný štadión 150,0 tis. € a mestská športová
+    hala a športová hala Juh 150,5 tis. €,
+   príspevok Mestskému domu kultúry 424,0 tis. € (2026: 390,0 tis. €),
+   kultúrne služby 148,5 tis. €: kultúrno-spoločenské podujatia 90,0 tis. €, technické zabezpečenie
+    jarmokov a mestských podujatí 40,5 tis. €, partnerské mestá 10,0 tis. €, občianske obrady
+    (ZPOZ) 5,0 tis. € a kronika 3,0 tis. €; vojnové hroby 16,0 tis. €,
+   Vranovský a Lomnický hlásnik a regionálna televízia 19,3 tis. € a obradné siene 27,5 tis. €.
+Z výdavkov na kultúrno-spoločenské podujatia mesto zabezpečí najmä občianske obrady a slávnosti,
+tradičné podujatia (Dni mesta, Prvý občan roka, pietne akty, Fašiangy, Deň matiek, Deň učiteľov, Dni
+Lomnice a Dni Čemerného, Vranovské zborové slávnosti, Hornozemplínske folklórne slávnosti,
+Furmanské preteky, jarmoky, Mesiac úcty k starším, Pesničkový Mikuláš, adventné a vianočné
+podujatia, Športovec roka, Deň detí), letné podujatia a športové podujatia Nočný beh a Vranovská
+10-tka.
+09 – Vzdelávanie – 20 291,8 tis. €. Výdavky škôl a školských zariadení sú rozpočtované podľa
+návrhu programu 8. Prenesené kompetencie sú financované z normatívnych a nenormatívnych
+dotácií zo štátneho rozpočtu, originálne kompetencie (materské školy, školské kluby, školské jedálne,
+ZUŠ, CVČ, súkromné a cirkevné zariadenia) z podielu na dani z príjmov fyzických osôb a z vlastných
+príjmov škôl. Školský úrad je rozpočtovaný v 01.1.1.
+10 – Sociálne zabezpečenie – 3 267,6 tis. €
+   Zariadenie pre seniorov 2 040,1 tis. € a Zariadenie opatrovateľskej služby 257,9 tis. €; v
+    Zariadení pre seniorov sú rozpočtované mzdové prostriedky na dve zdravotné sestry a
+    opatrovateľku a osobné príplatky na stabilizáciu zamestnancov,
+   opatrovateľská služba v domácnosti 591,2 tis. €, stravovanie dôchodcov 8,0 tis. € a denné centrá
+    19,1 tis. €,
+   príspevky neštátnym subjektom v sociálnej oblasti 36,6 tis. €,
+   osobitný príjemca 157,0 tis. € (prídavky na deti 42,0 tis. €, dávky v hmotnej núdzi 115,0 tis. €) a
+    dotácia na stravu a školské potreby 117,5 tis. €, kryté príjmami od ÚPSVaR,
+   útulok 29,7 tis. €, jednorazové dávky v hmotnej núdzi 3,5 tis. €, sociálnoprávna ochrana 1,5 tis. €,
+    mimoriadny návratný finančný príspevok 1,5 tis. € a pochovanie 4,0 tis. €.
+
+4. Kapitálové výdavky
+Kapitálové výdavky sú rozpočtované vo výške 2 647,5 tis. €:
+Investícia                                                           tis. €               Financovanie
+Modernizácia miestnej komunikácie ul. Dlhá – okružná križovatka         546,0           dotácia 502,3 + úver 43,7
+Modernizácia Základnej školy Kukučínova                                 435,2           dotácia 400,4 + úver 34,8
+Výstavba infraštruktúry pri Kultúrnom centre                            494,7           dotácia 455,1 + úver 39,6
+Vodozádržné opatrenia v meste Vranov nad Topľou                         534,2                             dotácia
+Projektová dokumentácia k vyhláseným výzvam                             100,0                                úver
+Modernizácia strechy na Mestskom dome služieb                             70,0                               úver
+Komunitný priestor Kalinčiakova                                           37,5                               úver
+Výkup pozemkov (Čečková, ČOV, Ružová, Gavra) a pozemky                    91,5                               úver
+pre cyklotrasu
+Predplatená elektrina – Budovateľská ulica                               60,0                                 úver
+Mestský dom kultúry – obstaranie výťahu (kapitálový transfer)           170,0                                 úver
+Windows a SQL server, ortofotomapa; klimatizácia – chodba                62,6                       vlastné zdroje
+MsP
+Parkovacia rampa (splátka a montáž) a parkovacie automaty                30,7                       vlastné zdroje
+(splátka)
+Aktualizácia územného plánu mesta                                        15,0                       vlastné zdroje
+Kapitálové výdavky spolu                                              2 647,5
+
+
+
+
+                                                    Strana 6
+                                                     Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+
+
+5. Výdavkové finančné operácie
+Výdavkové finančné operácie sú rozpočtované vo výške 1 562,5 tis. €: splátky istín úverov v
+komerčných bankách a zo ŠFRB 1 544,2 tis. € a splátky lízingu 18,3 tis. €.
+
+6. Výdavky podľa programov
+Program                               Rozpočet       Bežné        Kapitálové       Finančné      Návrh 2027
+                                        2026        výdavky        výdavky         operácie        spolu
+                                      schválený       2027           2027            2027
+Program 1: Plánovanie, manažment a         438,5         294,4          222,5             0,0           516,9
+kontrola
+Program 2: Propagácia a marketing           111,5        102,1             0,0             0,0          102,1
+Program 3: Interné služby                 1 148,7        739,1           209,6             9,3          958,0
+Program 4: Služby občanom                   959,0        414,8             0,0             0,0          414,8
+Program 5: Bezpečnosť                       590,4        655,3             0,0             9,0          664,3
+Program 6: Odpadové hospodárstvo          2 015,0      1 938,1           534,2             0,0        2 472,3
+Program 7: Miestne komunikácie a          5 688,2      1 236,5           576,7             0,0        1 813,2
+doprava
+Program 8: Vzdelávanie                   19 599,3     20 355,7           435,2             0,0       20 790,9
+Program 9: Šport                            671,4        725,5             0,0             0,0          725,5
+Program 10: Kultúra                         505,0        524,0           170,0             0,0          694,0
+Program 11: Prostredie pre život          4 793,8      1 236,5           494,7             0,0        1 731,2
+Program 12: Sociálne služby               2 879,2      3 267,6             0,0             0,0        3 267,6
+Program 13: Bývanie a rozvoj mesta        1 112,4      1 201,3             0,0             0,0        1 201,3
+Program 14: Spoločný obecný úrad            359,2        416,6             0,0             0,0          416,6
+Program 15: Administratíva                3 496,4      2 253,8             4,5         1 544,2        3 802,4
+VÝDAVKY CELKOM                           44 368,0     35 361,3         2 647,5         1 562,5       39 571,3
+
+
+Rozpis programov na podprogramy a prvky vrátane zámerov, cieľov a merateľných ukazovateľov je v
+Časti C – Programový rozpočet – vecná časť.
+
+7. Dlh mesta
+Po prijatí úveru 647,1 tis. € a splátkach istín v roku 2027 sa predpokladá celková suma dlhu mesta
+(bez úverov zo ŠFRB) k 31. 12. 2027 vo výške 7 561,0 tis. €, čo predstavuje 21,9 % skutočných
+bežných príjmov predchádzajúceho rozpočtového roka (zákonný limit 60 %). Suma ročných splátok
+návratných zdrojov financovania vrátane úhrady výnosov predstavuje 7,4 % (zákonný limit 25 %).
+Podmienky použitia návratných zdrojov financovania podľa § 17 ods. 6 zákona č. 583/2004 Z. z. sú
+dodržané.
+
+8. Mestský dom kultúry
+Mestský dom kultúry, príspevková organizácia, predložil návrh rozpočtu na rok 2027 s bežným
+transferom z rozpočtu mesta vo výške 424,0 tis. €. Vlastné bežné príjmy sú rozpočtované vo výške
+308,8 tis. € (prenájom 22,8 tis. €, predaj služieb – kino, kultúrne predstavenia, rozhlas, reklama 280,0
+tis. €, ostatné príjmy 6,0 tis. €) a transfery zo štátneho rozpočtu, VÚC a fondov 15,0 tis. €. Bežné
+výdavky 743,3 tis. € zahŕňajú mzdy 308,0 tis. €, poistné 112,5 tis. €, tovary a služby 315,9 tis. €,
+členské príspevky a odchodné 6,2 tis. € a úroky z lízingu 0,7 tis. €. Návrh rozpočtu Mestského domu
+kultúry na roky 2027 – 2029 je prílohou tohto materiálu.
+
+9. Viacročný rozpočet na roky 2028 a 2029
+Bežné príjmy na roky 2028 a 2029 vychádzajú z prognózy výnosu dane z príjmov fyzických osôb MF
+SR, ostatné príjmy sú na úrovni roka 2027 bez jednorazových dotácií. Bežné výdavky sú na úrovni
+roka 2027 bez projektov, splátky istín sú podľa splátkových kalendárov. Kapitálové výdavky sú
+rozpočtované do výšky voľných zdrojov: 140,1 tis. € v roku 2028 a 665,2 tis. € v roku 2029. Rozpočty
+na roky 2028 a 2029 nie sú záväzné a ich ukazovatele sa spresnia pri zostavovaní rozpočtov na tieto
+roky.
+
+
+                                                Strana 7
+Časť B – Tabuľková časť
+Tabuľky obsahujú v súlade s § 9 a § 10 zákona č. 583/2004 Z. z. a čl. 9 ústavného zákona č. 493/2011 Z. z. skutočnosť za roky 2024 a 2025, schválený a upravený rozpočet roka
+2026, predpokladané plnenie roka 2026, návrh rozpočtu na rok 2027 a návrh rozpočtu na roky 2028 a 2029. Sumy sú v tis. €.
+
+Tabuľka 1 – Celková bilancia rozpočtu na roky 2027 – 2029
+Ukazovateľ                                               Skutočnosť      Skutočnosť      Rozpočet 2026    Rozpočet 2026    Predpokladané         Návrh            Návrh            Návrh
+                                                            2024            2025           schválený        upravený        plnenie 2026     rozpočtu 2027    rozpočtu 2028    rozpočtu 2029
+Bežné príjmy                                                  31 708,4        34 585,8         34 806,3         35 076,5         34 612,7          36 779,1         36 900,2         37 425,3
+Kapitálové príjmy                                              1 393,3         4 557,3          7 231,7          5 555,8           5 555,8          1 942,1             50,0             50,0
+PRÍJMY SPOLU                                                  33 101,7        39 143,2         42 038,0         40 632,3         40 168,5          38 721,2         36 950,2         37 475,3
+Bežné výdavky                                                 30 425,1        33 098,0         33 426,4         34 561,6         33 793,8          35 361,3         35 322,2         35 322,2
+Kapitálové výdavky                                             4 170,8         2 715,7          9 573,3         10 283,4         10 242,4           2 647,5            140,1            665,2
+VÝDAVKY SPOLU                                                 34 595,9        35 813,7         42 999,7         44 845,0         44 036,1          38 008,8         35 462,3         35 987,4
+BILANCIA                                                      −1 494,2         3 329,4          −961,7          −4 212,7         −3 867,6             712,4          1 487,9          1 487,9
+Finančné operácie príjmové                                     4 572,2         1 319,3          2 330,0          5 581,0           5 235,9            850,1                –                –
+Finančné operácie výdavkové                                    2 372,8         1 384,9          1 368,3          1 368,3           1 368,3          1 562,5          1 487,9          1 487,9
+CELKOVÁ BILANCIA                                                 705,2         3 263,8                –                –                 –                –                –                –
+
+
+
+
+Tabuľka 2 – Rozpočet príjmov podľa ekonomickej klasifikácie
+Ukazovateľ                                               Skutočnosť      Skutočnosť      Rozpočet 2026    Rozpočet 2026    Predpokladané         Návrh            Návrh            Návrh
+                                                            2024            2025           schválený        upravený        plnenie 2026     rozpočtu 2027    rozpočtu 2028    rozpočtu 2029
+A – BEŽNÉ PRÍJMY
+100 - Daňové príjmy                                           13 112,5        12 304,9         13 176,8         13 176,8         13 231,4          13 791,4         14 209,1         14 734,2
+110 - Dane z príjmov a kap. majetku                           10 598,1         8 774,3          9 705,8          9 705,8          9 795,9          10 300,4         10 718,1         11 243,2
+  111001 - Daň zo závislej činnosti                           10 598,1         8 774,3          9 705,8          9 705,8          9 795,9          10 300,4         10 718,1         11 243,2
+120 - Daň z majetku                                            1 275,5         1 718,7          1 630,0          1 630,0          1 630,0           1 630,0          1 630,0          1 630,0
+  121 - Daň z nehnuteľností                                    1 275,5         1 718,7          1 630,0          1 630,0          1 630,0           1 630,0          1 630,0          1 630,0
+130 - Dane za tovary a služby                                  1 238,9         1 811,9          1 841,0          1 841,0          1 805,4           1 861,0          1 861,0          1 861,0
+133 - Dane za špecifické služby                                  176,7           206,0            201,0            201,0            228,6             221,0            221,0            221,0
+  133 - Poplatok za KO a drobné stav. odpady                   1 062,2         1 605,9          1 640,0          1 640,0          1 576,9           1 640,0          1 640,0          1 640,0
+200 - Nedaňové príjmy                                          4 587,6         4 648,3          4 611,6          4 669,4          4 244,9           5 569,7          5 492,1          5 492,1
+210 - Príjmy z podnik. a vl. majetku                             900,5         1 313,7            995,0            995,0          1 137,8           1 066,0          1 066,0          1 066,0
+  Dividendy                                                        2,2             6,8                –                –                –                 –                –                –
+  212002 - Z prenajatých pozemkov                                 28,3           163,0             60,0             60,0            160,0             105,0            105,0            105,0
+  212003 - Z prenajatých bytov                                   458,6         1 143,8            557,5            557,5            678,3             559,0            559,0            559,0
+  212003 - Z prenajatých budov, garáží                           234,4               –            200,5            200,5            240,6             225,0            225,0            225,0
+  212003 – Z prenájmu kotolní                                    177,0             0,1            177,0            177,0             59,0             177,0            177,0            177,0
+220 - Administratívne a iné poplatky                           2 054,4         1 626,6          2 020,8          2 078,6          1 492,7           2 412,1          2 412,1          2 412,1
+  221004 - Administratívne poplatky                              125,1           115,6            100,0            100,0             96,7             110,0            110,0            110,0
+  222003 - Pokuty a penále za porušenie predp.                    12,4            16,0             15,0             15,0             24,3              25,0             25,0             25,0
+  223 - Ostatné poplatky                                       1 916,9         1 495,0          1 905,8          1 963,6          1 371,7           2 277,1          2 277,1          2 277,1
+      223001 - Príjmy z predaja služieb                        1 161,7           965,4          1 285,6          1 342,6            880,2           1 410,1          1 410,1          1 410,1
+      223001 - Z cintorínskych služieb                               –            96,0            115,0            115,0             68,9              50,0             50,0             50,0
+      223001 - Opatrovateľská služba                                 –            62,3             60,0             60,0             61,9             347,0            347,0            347,0
+      223002 - Príjmy školstva - MŠ                              515,9           165,3            198,2            198,2            159,7             191,0            191,0            191,0
+                                                                                                                                            Mesto Vranov nad Topľou – návrh rozpočtu na roky 2027 – 2029
+Ukazovateľ                                                            Skutočnosť      Skutočnosť      Rozpočet 2026    Rozpočet 2026    Predpokladané         Návrh            Návrh            Návrh
+                                                                         2024            2025           schválený        upravený        plnenie 2026     rozpočtu 2027    rozpočtu 2028    rozpočtu 2029
+      223003 - Príjmy za stravovanie - MŠ                                     239,3           206,0            247,0            247,8             201,1            279,0            279,0            279,0
+240 - Úroky z vkladov                                                           0,2             0,1              1,0              1,0               0,1              1,0              1,0              1,0
+290 - Iné nedaňové príjmy                                                     189,5           148,6            130,0            130,0             149,4            244,1            166,5            166,5
+   292 - Ostatné príjmy (vr. vecných bremien)                                 189,5           148,6            130,0            130,0             149,4            208,1            130,5            130,5
+   292008 - Z odvodov z hazardných hier                                           –               –                –                –                 –             36,0             36,0             36,0
+Príjmy škôl a školských zariadení s právnou subjektivitou                     852,0           871,9            701,8            701,8             701,8            940,0            940,0            940,0
+Príjmy Zariadenia pre seniorov a ZOS                                          591,0           687,4            763,0            763,0             763,0            906,5            906,5            906,5
+Vlastné príjmy celkom                                                      17 700,1        16 953,2         17 788,4         17 846,2         17 476,2          19 361,2         19 701,2         20 226,3
+300 - Granty a transfery                                                   14 008,3        17 632,7         17 017,9         17 230,3         17 136,5          17 417,9         17 199,0         17 199,0
+310 - Granty a transfery                                                   14 008,3        17 612,5         17 017,9         17 230,3         17 136,5          17 417,9         17 199,0         17 199,0
+      - dotácia zo ŠR - opatrovateľská služba                                     –           310,3            348,0            348,0             348,0                –                –                –
+      - dotácia zo ŠR - Envirofond                                                –            30,5             40,0             40,0              40,0             40,0             40,0             40,0
+      - dotácia zo ŠR - projekt § 54j                                             –            14,1                –                –                 –             38,0             38,0             38,0
+      - dotácia zo ŠR - matrika                                                   –            80,6             79,0             79,0              79,0             77,6             77,6             77,6
+      - dotácia zo ŠR - školstvo, ZŠ                                              –        10 999,3          9 921,4          9 921,4           9 921,4         10 986,9         10 986,9         10 986,9
+      - dotácia zo ŠR - školstvo MŠ                                               –         2 629,6          2 965,9          2 965,9           2 965,9          2 858,3          2 858,3          2 858,3
+      - dotácia zo ŠR - školský úrad                                              –            45,5             43,0             43,0              43,0             43,4             43,4             43,4
+      - dotácia zo ŠR - ZpS                                                       –           931,6          1 104,4          1 104,4           1 104,4          1 096,3          1 096,3          1 096,3
+      - dotácia zo ŠR - ZOS                                                       –            14,7                –                –                 –            107,7            107,7            107,7
+      - dotácia zo ŠR, obce - Spoločný obecný úrad a Centrum zdieľ.               –           257,5            359,2            359,2             359,2            416,6            416,6            416,6
+      sl.
+      - dotácia zo ŠR - register obyvateľov                                      –              6,9              6,9              6,9               6,9             11,0             11,0             11,0
+      - dotácia zo ŠR - ochrana prírody                                          –              2,7              2,7              2,7               2,7              2,5              2,5              2,5
+      - dotácia zo ŠR - dávky v hmotnej núdzi                                    –            110,4             95,0             95,0              95,0            157,0            157,0            157,0
+      - dotácia zo ŠR - strava v ŠJ a strava a školské potreby cez               –          1 153,6          1 186,8          1 186,8           1 186,8          1 094,5          1 094,5          1 094,5
+      ÚPSVaR
+      - dotácia ÚPSVaR - chránené pracoviská                                     –            45,9              52,4             52,4             52,4             62,7              62,7             62,7
+      - dotácia zo ŠR - vojnové hroby                                            –            14,0              14,0             14,0             14,0             14,8              14,8             14,8
+      - dotácia ÚPSVaR - útulok                                                  –            32,1             153,3            153,3            153,3             26,7              26,7             26,7
+      - dotácia ÚPSVaR - Komunitné centrum                                       –            57,0              71,0             71,0             71,0             68,5              68,5             68,5
+      - dotácia – Miestne občianske a podporné služby (MOPS,                     –           178,0             116,4            116,4            116,4            116,6                 –                –
+      občianske hliadky)
+      - Modernizácia Základnej školy Kukučínova                                   –               –             47,9             47,9             47,9              28,0                –                –
+      - Cyklotrasa Vranov – RO Domaša                                             –               –              2,5              2,5              2,5                 –                –                –
+      - Vodozádržné opatrenia v meste Vranov                                      –               –             44,4             44,4             44,4              39,1                –                –
+      - Modernizácia miestnej kom. ul. Dlhá                                       –               –             54,0             54,0           

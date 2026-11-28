@@ -1,0 +1,795 @@
+URL: https://cuet.slovensko.sk/en/dokument/756384d8-7622-4d38-a071-5435cd3af881
+OBEC: Šamudovce (Michalovce)
+NÁZOV: Navrh_VZN_c_4_2026_Prevadzkovy_poriadok_pohrebiska
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/756384d8-7622-4d38-a071-5435cd3af881
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Navrh_VZN_c_4_2026_Prevadzkovy_poriadok_pohrebiska
+Search publisher's RSS feeds
+Published on official board:
+Obec Šamudovce (OVM)
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Obec Šamudovce (OVM)
+Published to:
+11.12.2026
+Registry case:
+Name of official document:
+Navrh_VZN_c_4_2026_Prevadzkovy_poriadok_pohrebiska
+Document type:
+Iný elektronický dokument
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Úradná tabuľa orgánu verejnej moci
+Date of alternative publication start:
+27.11.2026
+Date of alternative publication end:
+11.12.2026
+Attachment name:
+Navrh_VZN_c_4_2026_Prevadzkovy_poriadok_pohrebiska.pdf
+Type and size:
+.pdf, 396.02 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/65d992a5-702d-46c8-bae3-c601d1911ed2
+                                     NÁVRH
+
+
+
+
+            VŠEOBECNE ZÁVÄZNÉ NARIADENIE
+              OBECNÉHO ZASTUPITEĽSTVA
+                  V ŠAMUDOVCIACH
+
+                                    č. 4/2026
+
+ ktorým sa schvaľuje Prevádzkový poriadok pohrebiska a Domu smútku
+                           Obce Šamudovce
+
+
+
+Návrh VZN: - vyvesený na úradnej tabuli obce dňa :
+
+Lehota na predloženie pripomienok k návrhu VZN do:
+
+Doručené pripomienky (počet) :
+
+Vyhodnotenie pripomienok k návrhu VZN uskutočnené dňa :
+
+Vyhodnotenie pripomienok k návrhu VZN doručené poslancom dňa :
+
+
+VZN schválené Obecným zastupiteľstvom v Šamudovciach dňa         uznesením č.
+
+VZN vyvesené na úradnej tabuli obce Šamudovce , dňa :
+
+                       VZN nadobúda účinnosť 01.01.2027
+
+
+                                    úradná pečiatka
+                                     s erbom obce
+        Všeobecne záväzné nariadenie obce Šamudovce
+                                       č. 4/2026
+
+
+Obecné zastupiteľstvo v Šamudovciach na základe samostatnej pôsobnosti podľa čl.68 Ústavy
+Slovenskej republiky a podľa § 4 ods. 3 písm. f) a g) a § 6 ods. 1 zákona č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a v súlade s § 18 ods. 2 zákona č. 131/2010
+Z.z. o pohrebníctve v platnom znení
+
+
+                                       vydáva
+
+       Všeobecne záväzné nariadenie č. 4/2026, ktorým sa schvaľuje
+    Prevádzkový poriadok pohrebiska a Domu smútku Obce Šamudovce
+
+                                         Čl. 1
+                                   Úvodné ustanovenia
+
+   1. Prevádzkový poriadok určuje podmienky, zásady a opatrenia, ktoré treba rešpektovať
+      pri prevádzkovaní pohrebiska v súlade so zákonom NR SR č. 131/2010 Z. z. o
+      pohrebníctve a o zmene a doplnení zákona č. 455/1991 Zb. o živnostenskom
+      podnikaní v znení neskorších predpisov a zákonom NR SR č. 355/2007 Z. z. o
+      ochrane, podpore a rozvoji verejného zdravia a o zmene a doplnení niektorých
+      zákonov v znení neskorších predpisov.
+   2. Úcta k pamiatke zosnulých prikazuje, aby pohrebiská, Dom smútku a obradné
+      miestnosti boli udržiavané v stave zodpovedajúcom ušľachtilým ľudským vzťahom,
+      ale aj aby sa pri ich používaní dodržiavali zdravotné a iné právne predpisy.
+   3. Tento prevádzkový poriadok pohrebiska sa vzťahuje na pohrebisko obce Šamudovce
+      nachádzajúce sa v katastrálnom území Šamudovce. Súčasťou pohrebiska je aj Dom
+      smútku.
+
+                                          Čl. 2
+                    Identifikačné údaje prevádzkovateľa pohrebiska
+
+   1. Verejné pohrebisko v obci Šamudovce je zriadené v súlade s § 15 Zákona č. 131/2010
+      Z.z. o pohrebníctve v znení neskorších predpisov.
+Pohrebisko:                        Pohrebisko obce Šamudovce, 072 01 Pozdišovce
+Prevádzkovateľ pohrebiska:         Obec Šamudovce
+Adresa:                            Obecný úrad Šamudovce 99, 072 01 Pozdišovce
+IČO:                               00325864
+Prevádzková doba:                  nepretržite
+                                      Čl. 3
+                             Prístup na pohrebisko
+
+1. Pohrebisko v obci Šamudovce je prístupné verejnosti nepretržite.
+2. Dom smútku je pre verejnosť prístupný spravidla pol hodinu pred pohrebom, na
+   základe požiadavky pozostalých i v inom čase po dohode so správcom pohrebiska.
+3. Právnické a fyzické osoby, ktoré na pohrebisku vykonávajú kamenárske, stavebné a
+   iné práce na základe objednávky nájomcov (ďalej len „kamenári“), sú povinné vopred
+   písomne, telefonicky alebo elektronicky nahlásiť začatie prác prevádzkovateľovi
+   pohrebiska a vyžiadať si jeho súhlas.
+4. Kamenári smú práce vykonávať len v pracovných dňoch v čase od 8:00 do 15:00 hod.
+   Vydávanie súhlasu na práce cez víkendy a sviatky je plne v kompetencii
+   prevádzkovateľa.
+5. Vjazd motorových vozidiel a stavebnej techniky na pohrebisko za účelom realizácie
+   stavebných úprav hrobového miesta je povolený len po trasách určených správcom
+   pohrebiska a s ohľadom na aktuálne poveternostné podmienky.
+6. Kamenári sú povinní vykonávať práce tak, aby nenarušovali pietu miesta,
+   neobmedzovali iných návštevníkov a nepoškodzovali okolité hrobové miesta, zeleň
+   ani majetok obce. Na tento účel nesmú stavebný materiál ani náradie opierať o
+   susedné pomníky.
+7. Kamenárska firma, ktorá práce realizuje, v plnom rozsahu zodpovedá za škody
+   spôsobené na susedných hroboch, pomníkoch, oplotení, chodníkoch, zeleni či
+   akomkoľvek majetku obce Šamudovce. Zistenú škodu je povinná bezodkladne na
+   vlastné náklady odstrániť a uviesť majetok do pôvodného stavu.
+8. Kamenári sú povinní po ukončení prác na vlastné náklady vyčistiť okolie hrobového
+   miesta a všetok stavebný odpad, zvyšky betónu a starého materiálu odviezť mimo
+   areálu pohrebiska. Je prísne zakázané hádzať stavebný odpad do kontajnerov určených
+   pre návštevníkov cintorína.
+                                         Čl. 4
+          Rozsah služieb poskytovaných prevádzkovateľom pohrebiska
+
+1. Služby poskytované prevádzkovateľom pohrebiska:
+   a) správa a údržba pohrebiska,
+   b) správa a údržba Domu smútku,
+   c) správa a údržba komunikácií a zelene na pohrebisku,
+   d) prevádzkovanie Domu smútku a zapožičiavanie obradnej siene,
+   e) vedenie evidencie súvisiacej s prevádzkovaním pohrebiska,
+   f) uzatváranie zmluvy o nájme hrobového miesta a vyberanie nájomného za hrobové
+      miesto,
+   g) umožnenie vstupu prevádzkovateľovi pohrebnej služby na pohrebisko, na
+      vykonanie pohrebnej služby podľa rozsahu dohodnutého s obstarávateľom
+      pohrebu,
+   h) správa a údržba chladiarenského zariadenia.
+
+2. Služby zabezpečované prostredníctvom pohrebnej služby a iných osôb:
+   a) výkopové práce súvisiace s pochovávaním alebo exhumáciou,
+   b) pochovávanie a činnosti s ním spojené, ako oblečenie ľudských pozostatkov,
+       uloženie do rakvy, preprava, uloženie do chladiaceho zariadenia, úprava pred
+       pietnym aktom, pietny akt, zasypanie hrobu a pod.,
+   c) vykonanie exhumácie
+
+                                        Čl. 5
+                        Povinnosti prevádzkovateľa pohrebiska
+
+1. Prevádzkovateľ je povinný:
+   a) prevziať ľudské pozostatky alebo ľudské ostatky, ak sú splnené podmienky
+      uvedené v zákone č. 131/2010 Z.z. o pohrebníctve v znení neskorších predpisov,
+   b) prevádzkovať pohrebisko v súlade so schváleným prevádzkovým poriadkom
+      pohrebiska,
+   c) viesť evidenciu pohrebiska podľa § 17 ods. 4 zákona č.131/2010 Z.z
+      o pohrebníctve v znení neskorších predpisov
+   d) umožniť prítomnosť obstarávateľa pohrebu a blízkych osôb pri konečnom uzavretí
+      rakvy pred pochovaním,
+   e) zdržať sa v styku s pozostalými necitlivého správania a pri smútočných obradoch
+      umožniť účasť cirkvi a iných osôb v súlade s prejavenou vôľou obstarávateľa
+      pohrebu,
+   f) počas trvania nájomnej zmluvy zabezpečiť nájomcovi prístup k hrobovému miestu
+      a zdržať sa akýchkoľvek zásahov do hrobového miesta okrem prípadov, keď je
+      potrebné bezodkladne zaistiť bezpečné prevádzkovanie pohrebiska, písomne o
+      takomto zásahu informovať nájomcu,
+   g) vykonávať dozor nad dodržiavaním tohto poriadku,
+   h) zabezpečovať estetický vzhľad pohrebiska, úpravu a údržbu ciest, výsadbu,
+      udržiavanie a polievanie zelene,
+   i) nahlasovať požiadavku na vývoz smetných nádob umiestnených na pohrebisku,
+   j) otvárať a zatvárať pohrebisko v súlade s prevádzkovou dobou pohrebiska.
+
+2. Prevádzkovateľ je povinný písomne informovať nájomcu o skutočnosti, že uplynie
+   lehota, za ktorú bolo nájomné zaplatené.
+3. Ak prevádzkovateľ zistí, že ľudské ostatky nie sú ani po uplynutí stanovenej tlecej
+   doby zotleté, je povinný tleciu dobu primerane predĺžiť a na tento účel si vyžiadať
+   posudok úradu verejného zdravotníctva; na základe tohto posudku upraví prevádzkový
+   poriadok pohrebiska.
+                                       Čl. 6
+                      Povinnosti nájomcu hrobového miesta
+
+1. Nájomca hrobového miesta je povinný:
+   a) dodržiavať ustanovenia prevádzkového poriadku, ktoré sa týkajú povinnosti
+      nájomcu hrobového miesta,
+   b) užívať hrobové miesto podľa nájomnej zmluvy, nájomca nie je oprávnený dať
+      hrobové miesto do podnájmu,
+   c) udržiavať prenajaté hrobové miesto v poriadku na vlastné náklady. Za hrobové
+      miesto sa považuje miesto na pohrebisku, ktoré je určené na vybudovanie hrobu,
+      hrobky alebo miesto na uloženie urny. Hrobové miesto musí byť najmä očistené,
+      odburinené a pokosené. Na pohrebisku je zakázané skladovať plastové a sklené
+      nádoby, plechovky a iné predmety.
+   d) písomne oznamovať prevádzkovateľovi pohrebiska všetky zmeny údajov, ktoré sú
+      potrebné na vedenie evidencie podľa §17 ods. 4 písm. a) zákona č. 131/2010 Z.z.
+   e) udržiavať poriadok na pohrebisku,
+   f) realizovať stavebné úpravy hrobového miesta len na základe povolenia
+      prevádzkovateľa pohrebiska, pričom za stavebnú úpravu sa považuje vybudovanie
+      alebo oprava obruby, osadenie alebo oprava pomníka (t.j. náhrobného kameňa),
+      náhrobnej dosky (platne) hrobového miesta, vybudovanie alebo oprava urnovej
+      schránky, vybudovanie alebo oprava hrobky. Príslušenstvo hrobu (pomníky, kríže
+      a pod.) musí byť osadené tak, aby neohrozovalo iných návštevníkov a okolité
+      hrobové miesta. Nájomca alebo osoba vykonávajúca stavebné úpravy hrobového
+      miesta ich nesmie opierať o príslušenstvo iných hrobov. Stavebné úpravy je
+      nájomca povinný nahlásiť prevádzkovateľovi pohrebiska pred ich uskutočnením a je
+      povinný prevádzkovateľovi pohrebiska nahlásiť aj ich skončenie.
+   g) udržiavať hrobové miesto pokosené, odburinené a očistené od rôznych nánosov do
+      vzdialenosti 0,5 m od hranice hrobového miesta tak, aby nebol narušený estetický
+      vzhľad pohrebiska,
+   h) zabezpečiť nápravu, ak príslušenstvo hrobového miesta ohrozuje bezpečnosť
+      prevádzky pohrebiska.
+2. Na pohrebisku je zakázané umiestňovať lavičky a podobné doplnkové zariadenia,
+    vysádzať alebo odstraňovať dreviny a kríky bez predchádzajúceho písomného súhlasu
+    prevádzkovateľa pohrebiska. Nájomcovia hrobových miest ani iné osoby nesmú bez
+    súhlasu prevádzkovateľa zasahovať do zelene vysadenej prevádzkovateľom
+    pohrebiska.
+3. Ak prevádzkovateľ zistí nedostatky v starostlivosti o prenajaté hrobové miesto a jeho
+     okolie, vyzve nájomcu, aby ich v primeranej lehote odstránil. Ak sa tak nestane, urobí
+     prevádzkovateľ potrebné opatrenia na náklady nájomcu hrobového miesta.
+
+                                          Čl. 7
+                           Povinnosti návštevníkov pohrebiska
+
+  1. Návštevníci pohrebiska sú povinní:
+     a) dodržiavať ustanovenia prevádzkového poriadku pohrebiska, ktoré sa týkajú
+         povinnosti návštevníkov,
+     b) správať sa na pohrebisku spôsobom, ktorý nenarušuje pietu a dôstojnosť miesta,
+     c) dbať o poriadok, čistotu a starostlivo zaobchádzať so zariadeniami, ktoré slúžia
+         verejnému záujmu,
+     d) rozsvecovať kahance a sviečky len na hrobovom mieste, alebo na to vyhradenom
+         mieste tak, aby nevzniklo nebezpečenstvo požiaru, prípadne poškodenie iných
+         hrobových miest alebo vybavenosti pohrebiska; v odôvodnených prípadoch môže
+         prevádzkovateľ rozsvecovanie kahancov a sviečok a manipuláciu s otvoreným
+         ohňom obmedziť alebo zakázať,
+     e) ukladať odpad na určené miesto podľa druhu odpadu.
+  2. Návštevníkom pohrebiska nie je na pohrebisku dovolené robiť hluk, fajčiť, požívať
+     alkoholické nápoje a iné návykové látky, vodiť a voľne púšťať psov a iné zvieratá,
+     jazdiť na bicykli, korčuliach, skateboarde a iných športových prostriedkoch a
+     vykonávať činnosti, ktoré nie sú vzhľadom na charakter pietneho miesta obvyklé.
+  3. Zakazuje sa akékoľvek umiestňovanie ponúk a reklám právnickými a fyzickými
+     osobami vo všetkých priestoroch a objektoch pohrebiska a na oplotení pohrebiska.
+  4. Vstup s motorovými vozidlami na pohrebisko je povolený iba:
+     a) na dopravu rakvy s ľudskými pozostatkami k hrobovému miestu,
+     b) na dopravu nevládnych alebo zdravotne postihnutých osôb,
+     c) na dovoz a odvoz kontajnerov na odpad,
+     d) na údržbu zelene a komunikácií na pohrebisku,
+     e) na dovoz a odvoz stavebného materiálu pri stavebných úpravách hrobového
+         miesta.
+
+                                       Čl. 8
+Ukladanie telesných pozostatkov a ľudských ostatkov do hrobu, plán hrobových miest
+
+  1. Ľudské pozostatky sa na pohrebisku ukladajú do hrobov a hrobiek a urnových miest.
+  2. O hrobovom mieste pre uloženie ľudských pozostatkov a ľudských ostatkov rozhoduje
+     prevádzkovateľ pohrebiska po dohode s budúcim nájomcom hrobového miesta.
+     Hrobové miesta sú očíslované podľa plánu miest na pochovávanie. Evidencia miest na
+    pochovávanie je uložená u prevádzkovateľa pohrebiska, kde je prístupná k
+    nahliadnutiu.
+3. Hrob na ukladanie ľudských pozostatkov musí spĺňať nasledovné podmienky:
+    a) hĺbka pre dospelú osobu a dieťa staršie ako 10 rokov musí byť najmenej 1,6 m; pre
+        dieťa mladšie ako 10 rokov najmenej 1,6 m, prehĺbený hrob musí mať hĺbku aspoň
+        2,2 m,
+    b) dno hrobu musí ležať najmenej 0,5 m nad hladinou podzemnej vody,
+    c) bočné vzdialenosti medzi jednotlivými hrobmi musia byť najmenej 0,3 m,
+    d) rakva s ľudskými pozostatkami musí byť po uložení do hrobu zasypaná skyprenou
+        zeminou vo výške 1,2 m.
+4. Pochovávajúca plocha musí byť zachovaná v rozmeroch:
+    a) pri jednotlivom hrobe max. 80 x 205 cm
+    b) pri detskom hrobe max. 50 x 100 cm
+    c) steny medzi jednotlivými hrobmi musia byť široké 60 cm
+5. Pri zhotovovaní rámu musia byť dodržané tieto rozmery:
+    a) jednotlivý hrob 110 x 245 cm /vnútorná miera 80 x 205 cm/
+    b) dvojhrob 220 x 245 cm /vnútorná miera 190 x 205 cm/
+    c) trojhrob 330 x 245 cm /vnútorná miera 300 x 205 cm/
+6. Ľudské ostatky musia byť uložené v hrobe najmenej do uplynutia tlecej doby, ktorá
+    podľa zloženia pôdy musí trvať najmenej 10 rokov ak tento poriadok neustanovuje
+    inak.
+7. Pred uplynutím tlecej doby sa môžu do toho istého hrobu uložiť ďalšie ľudské
+    pozostatky, ak je ich možné umiestniť nad úroveň naposledy pochovaných ľudských
+    ostatkov a vrstva uľahnutej zeminy nad vrchnou rakvou bude najmenej 1 m.
+8. Ak sa zistí, že ľudské ostatky nie sú ani po uplynutí stanovenej tlecej doby zotleté,
+    tlecia doba sa musí primerane predĺžiť na základe výsledkov hydrogeologického
+    prieskumu.
+9. Urny so spopolnenými ľudskými pozostatkami alebo ľudskými ostatkami možno
+    ukladať do existujúcich hrobov alebo hrobiek.
+10. Pri zhotovení urnového miesta musí byť dodržaný maximálny vonkajší rozmer platne
+    a obruby urnového miesta: 80 cm x 70 cm a bočná vzdialenosť medzi obrubami
+    jednotlivých urnových miest 20 cm.
+11. Základy musia byť založené do nezamŕzajúcej hĺbky a dimenzované so zreteľom na
+    únosnosť pôdy, základové murivo nesmie zasahovať do pochovávajúcej plochy.
+    Predné a zadné hrany obruby musia byť navzájom v rovnobežných priamkach, pokiaľ
+    správca pohrebiska nestanoví inak. Uskladnenie stavebného materiálu na pohrebisku
+    je povolené len na vyhradenom mieste, ktoré určí správca pohrebiska. Texty a úpravy
+    nápisov musia zodpovedať dôstojnosti a piete pohrebiska.
+
+                                       Čl. 9
+                             Americké pochovávanie
+
+1. Prevádzkovateľ pohrebiska pre tento spôsob pochovávania vyčlenil konkrétnu časť
+   pohrebiska. Vyčlenená časť pohrebiska je presne vytýčená a má zadaný presný počet
+   hrobov.
+2. Americký hrob je hrobové miesto, ktoré zahŕňa pomník a tiež plochu kde je uložená
+   hrobka.
+3. Pochovávať je možné do zeme bez stavby.
+4. V prípade, ak je vybudovaná hrobka (krypta), táto bude vyložená a zakrytá
+   betónovými panelmi a to tak, aby vrchné panely boli minimálne 20 cm pod úrovňou
+   trávnatého porastu. Takto pripravené miesto sa zakryje trávnatým porastom.
+5. Pomník v určenej časti na americké pochovávanie sa skladá z betónového základu
+   a nápisovej dosky. Betónový základ zabezpečuje a osádza výhradne prevádzkovateľ
+   pohrebiska, a to na úrovni alebo mierne nad úrovňou trávnatého porastu.
+6. Na celej vyčlenenej časti pohrebiska je zakázané budovať nadzemné stavby, ako sú
+   rámy, obruby, vyvýšené hrobky, krycie dosky nad úrovňou terénu, osádzať lavičky
+   alebo sadiť vlastné rastliny a dreviny a iné. Nájomca je oprávnený na betónový základ
+   osadiť len vodorovnú nápisovú dosku, ktorá nesmie presahovať pôdorys základu.
+   Doska musí byť z trvácneho a bezpečného materiálu (prírodný kameň, kov). Použitie
+   skla, plastov alebo iných krehkých a neštandardných materiálov sa zakazuje.
+7. Nápisná doska nesmie presahovať pôdorys betónového základu a nesmie byť
+   vyvýšená nad úroveň základu o viac ako 5 cm. V prípade porušenia zákazu je nájomca
+   hrobového miesta po výzve prevádzkovateľom pohrebiska povinný odstrániť tento
+   predmet a uviesť dotknuté miesto do pôvodného stavu na vlastné náklady.
+8. Na celej vyčlenenej časti pohrebiska určenej na americké pochovávanie je zakázané
+   ukladať na trávnatý koberec vence, kytice, sviečky, kahance, kamene, umelú trávu a
+   iné predmety. V prípade porušenia zákazu je nájomca hrobového miesta po výzve
+   prevádzkovateľom pohrebiska povinný odstrániť tento predmet a uviesť dotknuté
+   miesto do pôvodného stavu na vlastné náklady. V opačnom prípade budú všetky tieto
+   predmety odstránené z hrobového miesta prevádzkovateľom bez náhrady prípadnej
+   škody spôsobenej nájomcovi.
+9. Americké pochovávanie musí spĺňať rovnaké požiadavky na ukladanie ľudských
+   pozostatkov podľa prevádzkového poriadku pohrebiska a podľa zákona o
+   pohrebníctve.
+
+                                        Čl. 10
+                                   Dĺžka tlecej doby
+
+1. Dĺžka tlecej doby telesných ostatkov uložených v hrobe je 10 rokov od pochovania.
+2. Dĺžka tlecej doby telesných ostatkov uložených v hrobke je 20 rokov od pochovania.
+3. Ak sa zistí, že ľudské ostatky nie sú ani po uplynutí tejto tlecej doby zotleté, tlecia
+   doba sa primerane predĺži na základe posudku úradu verejného zdravotníctva
+   vypracovaného podľa výsledkov hydrogeologického prieskumu.
+
+                                       Čl. 11
+                         Spôsob vedenia evidencie pohrebiska
+
+1. Prevádzkovateľ pohrebiska je povinný podľa ustanovenia § 17 ods. 4 písm. a) zákona
+   o pohrebníctve viesť evidenciu pohrebiska, ktorá sa člení na:
+   A. evidenciu hrobových miest, ktorá musí obsahovať:
+      a) meno, priezvisko a dátum úmrtia osoby, ktorej ľudské ostatky sú uložené v
+          hrobovom mieste,
+      b) dátum uloženia ľudských pozostatkov alebo ľudských ostatkov s uvedením
+          hrobového miesta a hĺbky pochovania,
+      c) záznam o nebezpečnej chorobe, ak mŕtvy, ktorého ľudské pozostatky sa uložili
+          do hrobu alebo hrobky, bol nakazený nebezpečnou chorobou,
+      d) meno, priezvisko a adresu miesta trvalého pobytu, ak je nájomcom fyzická
+          osoba, alebo názov obce, ak je nájomcom obec,
+      e) dátum uzavretia zmluvy o nájme hrobového miesta a údaje o zmene nájomcu,
+      f) údaje o vypovedaní nájomnej zmluvy a dátum jej skončenia,
+      g) skutočnosť, či je hrob, hrobka alebo pohrebisko chránené ako národná kultúrna
+          pamiatka alebo pamätihodnosť obce podľa osobitného predpisu, alebo či ide o
+          vojnový hrob,
+      h) údaje o pochovaní potrateného ľudského plodu alebo predčasne odňatého
+          ľudského plodu,
+   B. evidenciu prevádzkovania pohrebiska, ktorá musí obsahovať údaje o
+      a) zákaze pochovávania a dobe jeho trvania, ak sa taký zákaz vydal,
+      b) zrušení pohrebiska.
+2. Plán hrobových miest sa nachádza u prevádzkovateľa a vedie sa v elektronickej
+   podobe.
+
+                                      Čl. 12
+                               Nakladanie s odpadmi
+
+1. Odpad vzniknutý pri údržbe hrobového miesta je povinný nájomca hrobového miesta
+   a návštevník pohrebiska odniesť na miesto na to určené na pohrebisku. Udržiavanie
+   vyhradeného miesta pre odpadky a ich odvoz zabezpečuje prevádzkovateľ pohrebiska.
+2. Je zakázané na pohrebisku spaľovať odpad, trávu a lístie.
+3. Zhotoviteľ prác po ukončení kamenárskych prác je povinný postarať sa o vyčistenie
+   okolia a odvoz prebytočného materiálu, ako aj iného odpadu, mimo areálu pohrebiska
+   na vlastné náklady.
+
+                                      Čl. 13
+                                 Pohrebná služba
+
+1. Prevádzkovateľ pohrebiska neprevádzkuje pohrebnú službu.
+2. Prevádzkovateľ pohrebiska je povinný umožniť prevádzkovateľovi pohrebnej služby
+   vstup na pohrebisko na vykonanie pohrebného aktu podľa rozsahu dohodnutého s
+   obstarávateľom pohrebu. Prevádzkovateľ pohrebnej služby sa riadi prevádzkovým
+   poriadkom pohrebiska, plánom pohrebných obradov a pochovávania určeným
+   správcom pohrebiska.
+3. Prevádzkovateľ pohrebnej služby vstupuje na pohrebisko za účelom prepravy
+   ľudských pozostatkov a ľudských ostatkov, prenosom rakvy a pochovania ľudských
+   pozostatkov a ľudských ostatkov do hrobu alebo hrobky, za účelom uloženia
+   spopolnených ľudských pozostatkov alebo ľudských ostatkov rozptylom alebo
+   uloženia urny s popolom do hrobu, hrobky alebo urnového miesta, za účelom
+   vykonania exhumácie ľudských ostatkov a ich opätovného pochovania.
+
+                                     Čl. 14
+                    Vznik a zánik užívania hrobového miesta
+
+1. Právo užívať hrobové miesto vzniká uzavretím nájomnej zmluvy. Z dôvodu
+   obmedzenej kapacity pohrebiska sa nové hrobové miesta do nájmu poskytujú
+   prednostne osobám, ktoré mali v čase úmrtia trvalý pobyt v obci Šamudovce, alebo
+   ktorých blízke osoby sú už na pohrebisku pochované.
+2. Prevádzkovateľ pohrebiska môže na žiadosť pozostalých uzavrieť zmluvu o rezervácii
+   jedného hrobového miesta. Rezervácia sa neuzatvára na konkrétne vopred určené
+   hrobové miesto, ale viaže sa výlučne na voľné miesto vedľa hrobového miesta, v
+   ktorom je pochovaný blízky príbuzný žiadateľa. Úhrada za rezerváciu sa platí
+   každoročne vopred podľa platného cenníka obce.“
+3. Užívacie právo na hrobové miesto vzniká uzatvorením nájomnej zmluvy. Nájomná
+   zmluva sa uzatvára na dobu neurčitú; nesmie sa vypovedať skôr ako po uplynutí tlecej
+   doby (t. j. minimálne 10 rokov) od uloženia posledných ľudských pozostatkov do
+   hrobu. Nájomné sa uhrádza každoročne vopred na príslušný kalendárny rok. V prípade
+   novovzniknutého hrobového miesta spojeného s pochovaním je nájomca povinný
+   uhrádzať nájomné ročne vopred tak, aby bol nájomný vzťah nepretržite udržiavaný v
+   platnosti minimálne po celú dĺžku zákonom stanovenej tlecej doby. Podrobnosti o
+   lehote splatnosti nájomného určuje nájomná zmluva.
+4. Prevádzkovateľ pohrebiska musí zabezpečiť počas trvania nájomnej zmluvy prístup k
+   hrobovému miestu a zdržať sa akýchkoľvek zásahov do hrobového miesta okrem
+    prípadov, ak je potrebné zabezpečiť prevádzkovanie pohrebiska. O pripravovanom
+    zásahu je prevádzkovateľ pohrebiska povinný vopred písomne informovať nájomcu; o
+    už uskutočnenom zásahu je prevádzkovateľ pohrebiska povinný bezodkladne písomne
+    informovať nájomcu.
+5. Pri úmrtí nájomcu hrobového miesta má prednostné právo na uzavretie novej
+    nájomnej zmluvy na hrobové miesto osoba blízka; ak je blízkych osôb viac, tá blízka
+    osoba, ktorá sa prihlási ako prvá. Prednostné právo na uzatvorenie nájomnej zmluvy
+    možno uplatniť najneskôr do jedného roka od úmrtia nájomcu hrobového miesta.
+6. Prevádzkovateľ pohrebiska je povinný vopred písomne upozorniť nájomcu na
+    vypovedanie nájomnej zmluvy v zákonom stanovenej lehote.
+7. Prevádzkovateľ pohrebiska nájomnú zmluvu vypovie, ak:
+    a) závažné okolnosti na pohrebisku znemožňujú trvanie nájmu hrobového miesta,
+    b) sa pohrebisko zruší,
+    c) nájomca ani po upozornení nezaplatil nájomné za užívanie hrobového miesta.
+8. Ak prevádzkovateľ pohrebiska vypovie nájomnú zmluvu z dôvodov v odseku 6 písm.
+    a) a b), musí so súhlasom nájomcu zabezpečiť iné hrobové miesto a na vlastné náklady
+    preložiť ľudské ostatky vrátane príslušenstva hrobu na nové hrobové miesto. Výpoveď
+    nájomnej zmluvy v týchto prípadoch je prevádzkovateľ pohrebiska povinný doručiť
+    nájomcovi najmenej jeden rok predo dňom, keď sa má hrobové miesto zrušiť.
+9. Ak prevádzkovateľ pohrebiska vypovie nájomnú zmluvu z dôvodu neuhradenia
+    nájomného, je povinný výpoveď nájomcovi doručiť. Výpovedná lehota uplynie jeden
+    rok odo dňa doručenia výpovede.
+10. Ak prevádzkovateľovi pohrebiska nie je známa adresa nájomcu alebo sídlo nájomcu,
+    uverejní túto informáciu na mieste obvyklom na pohrebisku.
+11. Ak prevádzkovateľ pohrebiska vypovedal nájomnú zmluvu z dôvodu uvedeného v
+    odseku 6 písm. c) a nájomca je známy, výpovedná lehota uplynie do jedného roka odo
+    dňa doručenia výpovede. Prevádzkovateľ pohrebiska vyzve nájomcu, aby najneskôr
+    do tejto lehoty odstránil z hrobového miesta príslušenstvo hrobu; ak ho v tejto lehote
+    neodstráni, po uplynutí výpovednej lehoty sa príslušenstvo hrobu považuje za
+    opustenú vec.
+12. Ak prevádzkovateľ pohrebiska vypovie nájomnú zmluvu z dôvodu uvedeného v
+    odseku 6 písm. c) a nájomca nie je známy, uverejní výpoveď nájomnej zmluvy na
+    mieste obvyklom na pohrebisku. Výpovedná lehota uplynie tri roky odo dňa, odkedy
+    nebolo nájomné zaplatené. Prevádzkovateľ pohrebiska ponechá po túto lehotu
+    príslušenstvo hrobu na hrobovom mieste s označením, že ide o trojročné uloženie,
+    počas ktorého sa môže nájomca prihlásiť; po uplynutí výpovednej doby sa
+    príslušenstvo hrobu považuje za opustenú vec.
+13. Ak prevádzkovateľ pohrebiska postupuje podľa odseku 10 a 11, musí zabezpečiť
+    obrazovú dokumentáciu hrobového miesta so stručným opisom stavu príslušenstva
+    hrobu.
+14. Osobitnú kategóriu hrobov tvoria hroby významných osobností celoslovenského
+    významu, regionálneho i miestneho významu, ako i hroby, ktorých náhrobné kamene
+    majú umeleckú a historickú hodnotu. Spomenutá kategória hrobov je označená ako
+    významné hroby. Tieto hrobové miesta sa nemôžu rušiť.
+
+
+
+                                     Čl. 15
+                               Zrušenie pohrebiska
+
+1. Pohrebisko môže zrušiť len Obec Šamudovce po uplynutí tlecej doby všetkých
+   ľudských ostatkov uložených na pohrebisku.
+2. Pohrebisko môže obec zrušiť pred uplynutím tlecej doby len:
+   a) na základe zákazu príslušného orgánu štátnej správy, ak by ďalším pochovávaním
+      na pohrebisku mohlo dôjsť k ohrozeniu zdravia ľudí alebo kvality podzemnej
+      vody,
+   b) z dôvodov verejného záujmu na základe podnetu príslušného orgánu štátnej
+      správy, verejný záujem musí byť riadne odôvodnený. Ten, v koho záujme sa
+      pohrebisko zruší, je povinný zabezpečiť a uhradiť exhumácie a preloženie
+      ľudských ostatkov, hrobov s príslušenstvom a hrobiek na nové hrobové miesto na
+      inom pohrebisku.
+3. Ďalšie povinnosti, ktoré sú spojené so zrušením pohrebiska, upravuje ustanovenie § 23
+   zákona o pohrebníctve.
+
+                                      Čl. 16
+                                    Priestupky
+
+1. Priestupku sa dopustí ten, kto
+   a) nedodržiava ustanovenia prevádzkového poriadku pohrebiska, ktoré sa týkajú
+       povinnosti nájomcu hrobového miesta podľa § 24 písm. a) zákona,
+   b) neužíva hrobové miesto podľa nájomnej zmluvy podľa § 24 písm. b) zákona,
+   c) neudržiava prenajaté hrobové miesto v poriadku na vlastné náklady podľa § 24
+       písm. c) zákona,
+   d) písomne neoznámi prevádzkovateľovi pohrebiska všetky zmeny údajov, ktoré sú
+       potrebné na vedenie evidencie podľa § 24 písm. d) zákona,
+   e) neudržiava poriadok na pohrebisku podľa § 24 písm. e) zákona,
+   f) nedodržiava ustanovenia prevádzkového poriadku pohrebiska, ktoré sa týkajú
+       povinností návštevníkov podľa § 25 písm. a) zákona,
+   g) nezachováva dôstojnosť pohrebiska podľa § 25 písm. b) zákona.
+2. Za priestupky podľa ods. 1 možno uložiť pokutu do 663 eur. Pri ukladaní pokuty sa
+   prihliada na závažnosť, spôsob, čas trvania a následky protiprávneho konania.
+   3. Za priestupky podľa zákona č. 131/2010 Z.z. o pohrebníctve možno uložiť blokovú
+      pokutu do výšky 66 eur.
+   4. Priestupky podľa odseku 1 prejednáva a sankcie za ne ukladá Obec Šamudovce.
+      Výnos z pokút je príjmom rozpočtu obce Šamudovce.
+
+
+
+                                           Čl. 17
+                                  Záverečné ustanovenia
+1. Pokiaľ tento prevádzkový poriadok neupravuje niektoré právne vzťahy na pohrebisku,
+   bude sa v prípade ich vzniku postupovať v zmysle zákona č. 131/2010 Z.z. o pohrebníctve
+   v znení neskorších predpisov.
+2. Toto všeobecne záväzné nariadenie bolo schválené obecným zastupiteľstvom obce
+   Šamudovce dňa              uznesením č.
+3. Toto všeobecne záväzné nariadenie nadobúda platnosť a účinnosť dňa 01.01.2027.
+4. Týmto všeobecne záväzným nariadením sa ruší VZN č.           , zo dňa,       ktoré bolo
+   schválené uznesením č.      .
+
+
+
+
+                                                                     Emil Ircha
+                                                                     Starosta Obce
+
+
+
+
+Prílohy:
+
+Príloha č. 1 Cenník služieb pahrebiska a nájomného za hrobové miesta
+Príloha č. 2 Zmluva o nájme hrobového miesta
+Príloha č. 3 Ohlásenie stavebných prác na pohrebisku a záväzné vyhlásenie kamenára
+                                                                              Príloha č. 1
+
+           Cenník služieb pohrebiska a nájomného za hrobové miesta
+1. Úhrada za prenájom miestnosti Domu smútku:
+
+Prvé dva dni prenájmu Domu smútku               17,00 €
+Každý ďalší deň navyše                          5,00 €
+
+
+2. Nájomné za hrobové miesta:
+
+Hrobové miesto                                   Nájomné na 1 rok v EUR
+Jeden hrob                                       1,00 €
+Dvojhrob                                         2,00 €
+Trojhrob a viachrob                              2,00 €
+Jednorazový poplatok za vymeranie hrobu          0,00 €
+alebo hrobky pre obyvateľa s trvalým pobytom
+v obci alebo obyvateľa, ktorý bol odhlásený z
+trvalého pobytu v obci z dôvodu odkázanosti
+na sociálnu službu alebo opatrovanie blízkeho
+príbuzného
+Jednorazový poplatok za vymeranie hrobu          300,00 €
+alebo hrobky pre obyvateľa bez trvalého
+pobytu v obci - za každé miesto
+Jednorazový administratívny poplatok na          300,00 €
+úhradu náklad spojených so zriadením
+a zaradením nového hrobového miesta do
+evidencie pohrebiska
+(Nájomcom s trvalým pobytom v obci
+Šamudovce a pri pochovaní zosnulého, ktorý
+mal v čase úmrtia trvalý pobyt v obci
+Šamudovce, sa poskytuje úľava vo výške 100
+%.)
+
+Rezervácia jedného hrobového miesta              2,00 €
+(neuzatvára sa na konkrétne miesto, ale viaže
+sa na miesto vedľa zosnulého rodinného
+príslušníka)
+
+
+
+3. Za hrobové miesto, v ktorom je občan pochovaný na náklady obce, sa nájomné neplatí.
+                                                                           Príloha č.2
+
+
+
+                              Zmluva o nájme hrobového miesta
+
+                                       č. HM/000/00
+
+    uzatvorená podľa § 663 až 684 Občianskeho zákonníka a zákona č. 131/2010 Z. z. o
+       pohrebníctve v znení neskorších predpisov (ďalej len "zákon o pohrebníctve")
+                                  (ďalej len ,,Zmluva“)
+
+
+                                       Článok I.
+                                     Zmluvné strany
+
+
+1. Prenajímateľ:
+
+Obec ŠAMUDOVCE
+So sídlom: Šamudovce 99, 072 01 Pozdišovce
+IČO: 00325864
+DIČ: 2020499470
+č.ú.: SK03 5600 0000 0043 5081 0001
+tel: 056/6424180
+e-mail: podatelna@obecsamudovce.sk
+www.obecsamudovce.sk
+Zastúpená: Emil Ircha
+       starosta obce
+
+(ďalej len ,,prenajímateľ“)
+
+
+2. Nájomca:
+
+Meno a priezvisko:
+Trvalý pobyt:
+Dátum narodenia:
+tel:
+email:
+(ďalej len ,,nájomca“)
+
+
+
+                                        Článok II.
+                                     Predmet zmluvy
+
+    1. Prenajímateľ, ktorý je prevádzkovateľom pohrebiska, prenecháva nájomcovi, za
+        nájomné, za podmienok uvedených v tejto zmluve, hrobové miesto, na pohrebisku
+        v Šamudovciach za účelom uloženia ľudských pozostatkov alebo ľudských ostatkov.
+        Hrobové miesto je identifikované evidenčným číslom: XX/xx
+
+                                        Článok III.
+                                         Nájomné
+
+     1. Za dočasné užívanie hrobového miesta a služby s tým spojené platí nájomca nájomné
+         podľa platného cenníka obce:
+            a. jeden hrob: 1,00 € za obdobie 1 kalendárneho roka
+            b. dvojhrob: 2,00 € za obdobie 1 kalendárneho roka
+            c. Trojhrob a viachrob: 2,00 € za obdobie 1 kalendárneho roka
+            d. rezervácia miesta: 2,00 € za obdobie 1 kalendárneho roka. Rezervácia sa
+                neuzatvára na konkrétne hrobové miesto, ale viaže sa na hrobové miesto vedľa
+                nebohého, ktorý je rodinným príslušníkom
+     2. Nájomné sa platí vždy na 1 kalendárny rok. Nájomca ho uhradí v hotovosti do
+         pokladne obce Šamudovce, alebo prevodom na účet prenajímateľa vedený v Prima
+         banke Slovensko a.s. Michalovce, č.ú.: IBAN SK03 5600 0000 0043 5081 0001.
+     3. Pri uzatvorení nájomnej zmluvy v priebehu kalendárneho roka je nájomné na daný rok
+         splatné v deň podpisu tejto zmluvy.
+     4. Nájomné na ďalšie kalendárne roky je splatné každoročne vopred, najneskôr do 31.
+         marca príslušného kalendárneho roka, za ktorý sa nájomné platí. Prevádzkovateľ nie
+         je povinný nájomcu na ročnú splatnosť osobitne písomne vyzývať.
+     5. Nájomca je povinný platiť nájomné ročne vopred bez prerušenia minimálne po celú
+         dĺžku tlecej doby (10 rokov) od uloženia ľudských pozostatkov do hrobu.
+         Nedodržanie tejto povinnosti a neplatenie ročného nájomného je dôvodom na
+         výpoveď nájomnej zmluvy zo strany prenajímateľa v súlade so zákonom o
+         pohrebníctve.
+     6. Výška nájomného sa riadi aktuálne platným Všeobecne záväzným nariadením obce
+         Šamudovce. V prípade zmeny výšky nájomného schválenej obecným zastupiteľstvom
+         je nájomca povinný od nadobudnutia účinnosti nového cenníka platiť novú sumu
+         nájomného bez nutnosti uzatvárania písomného dodatku k tejto zmluve. Zmenu
+         cenníka obec zverejní na úradnej tabuli a webovom sídle obce.
+
+
+                                       Článok IV.
+                                       Doba nájmu
+
+     1. Nájom vznikne dňom podpísania tejto zmluvy oboma zmluvnými stranami a
+        dojednáva sa na dobu neurčitú.
+
+                                       Článok V.
+                           Práva a povinnosti zmluvných strán
+
+1.   Prenajímateľ je povinný zabezpečiť počas trvania nájomnej zmluvy prístup k hrobovému
+     miestu a zdržať sa akýchkoľvek zásahov do hrobového miesta okrem prípadov, keď je
+     potrebné bezodkladne zaistiť bezpečné prevádzkovanie pohrebiska. O takom
+     pripravovanom zásahu je prevádzkovateľ pohrebiska povinný vopred písomne
+     informovať nájomcu, o už uskutočnenom zásahu je povinný bezodkladne písomne
+     informovať nájomcu.
+2.   Pri úmrtí nájomcu hrobového miesta má prednostné právo na uzavretie novej nájomnej
+     zmluvy na hrobové miesto osoba blízka (§ 116 Občianskeho zákonníka); ak je blízkych
+     osôb viac, tá blízka osoba, ktorá sa prihlási ako prvá. Prednostné právo na uzatvorenie
+     nájomnej zmluvy možno uplatniť najneskôr do jedného roka od úmrtia nájomcu
+     hrobového miesta.
+3. Nájomca hrobového miesta je povinný:
+          a) dodržiavať ustanovenia prevádzkového poriadku, ktoré sa týkajú povinností
+         nájomcu hrobového miesta,
+         b) dodržiavať ustanovenia prevádzkového poriadku, ktoré sa týkajú amerického
+             pochovávania na miestnom cintoríne
+         c) užívať hrobové miesto podľa nájomnej zmluvy,
+         d) udržiavať prenajaté hrobové miesto v poriadku na vlastné náklady, a to tak, aby
+             nepohoršovalo a nenarúšalo pietne miesto pohrebiska,
+         e) písomne oznamovať prevádzkovateľovi pohrebiska všetky zmeny údajov, ktoré
+             sú potrebné na vedenie evidencie podľa § 17 ods. 4 písm. a) zákona č. 131/2010
+             Z. z. o pohrebníctve,
+         f) správať sa na pohrebisku tak, aby na pohrebisku udržiaval poriadok.
+4. Nájomca je povinný oznámiť prenajímateľovi zmenu adresy pre doručovanie.
+Nedodržaním tejto povinnosti stráca nárok na doručovanie podľa ustanovení tejto zmluvy.
+5. Prenajímateľ je povinný:
+     a) zabezpečiť správu pohrebiska,
+     b) zabezpečiť údržbu komunikácií a zelene na pohrebisku,
+     c) zabezpečiť úhrady investičných a neinvestičných nákladov spojených s prevádzkou
+         pohrebiska
+     d) zabezpečiť zverejňovanie informácií o pohrebisku na mieste obvyklom.
+     e) zabezpečiť odvoz odpadu z pohrebiska,
+     f) zabezpečiť dodávku úžitkovej vody - okrem zimného obdobia.
+
+
+                                     Článok VI
+                      Ukončenie zmluvy o nájme hrobového miesta
+
+ 1.    Ukončenie nájomného vzťahu vzniknutého na základe tejto zmluvy je možné:
+   a) výpoveďou zo strany prenajímateľa z dôvodov stanovených zákonom
+   b) dohodou zmluvných strán
+ 2. Prevádzkovateľ pohrebiska nájomnú zmluvu vypovie, ak
+    a) závažné okolnosti na pohrebisku znemožňujú trvanie nájmu hrobového miesta na
+       ďalšiu dobu,
+    b) sa pohrebisko zruší,
+    c) nájomca ani po upozornení nezaplatil nájomné za užívanie hrobového miesta.
+ 3. Ak prevádzkovateľ pohrebiska vypovie nájomnú zmluvu z dôvodu neuhradenia
+       nájomného podľa ods. 2 písm. c), výpovedná lehota uplynie jeden rok odo dňa
+       doručenia výpovede. Ak adresa nájomcu nie je známa, výpoveď sa zverejní na mieste
+       obvyklom na pohrebisku a výpovedná lehota uplynie tri roky odo dňa, odkedy nebolo
+       nájomné zaplatené.
+ 4. Prenajímateľ písomne vyzve nájomcu, aby najneskôr do uplynutia výpovednej lehoty
+       odstránil z hrobového miesta príslušenstvo hrobu (pomník, krycie dosky a pod.). Ak
+       ho nájomca v tejto lehote neodstráni, po uplynutí výpovednej lehoty sa príslušenstvo
+       hrobu považuje za opustenú vec a prenajímateľ (obec) s ním naloží v súlade s § 135
+       Občianskeho zákonníka a § 22 ods. 12 zákona č. 131/2010 Z. z. o pohrebníctve v
+       znení neskorších predpisov.
+  5.     Pri úmrtí nájomcu hrobového miesta má prednostné právo na uzavretie novej
+         nájomnej zmluvy na hrobové miesto osoba blízka (§ 116 Občianskeho zákonníka) v
+         súlade s Čl. 14 ods. 4 tohto VZN a § 22 ods. 2 zákona č. 131/2010 Z. z. o
+         pohrebníctve. Ak je blízkych osôb viac, prednostné právo má tá blízka osoba, ktorá sa
+         prihlási ako prvá. Toto prednostné právo možno uplatniť najneskôr do jedného roka od
+         úmrtia pôvodného nájomcu.
+
+
+                                                   Článok VII
+                                              Záverečné ustanovenia
+
+  1.     Zmluvu možno meniť alebo upraviť na základe dohody oboch zmluvných strán len
+         písomnou formou podpísaním oboch zmluvných strán.
+  2.     Zmluvné vzťahy neupravené touto zmluvou sa budú riadiť príslušnými ustanoveniami
+         Občianskeho zákonníka a platnými právnymi predpismi o pohrebníctve.
+  3.     Zmluva je vyhotovená v dvoch vyhotoveniach, z ktorých každá zmluvná strana obdrží
+         po jednom vyhotovení.
+  4.     Zmluvné strany prehlasujú, že si zmluvu riadne prečítali, jej obsahu rozumejú,
+         uzavreli ju zo slobodnej vôle, čo potvrdzujú vlastnoručnými podpismi a súhlasia s
+         tým, že táto zmluva bude zverejnená na webovej stránke prenajímateľa.
+  5.     Zmluva nadobúda platnosť dňom podpísania zmluvnými stranami a účinnosť
+         nadobúda dňom nasledujúcim po dni jej zverejnenia na webovej stránke
+         prenajímateľa.
+
+
+
+
+V Šamudovciach dňa
+
+
+
+
+...........................................                           ............................................
+Prenajímateľ: Obec Šamudovce                            

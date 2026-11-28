@@ -1,0 +1,491 @@
+URL: https://cuet.slovensko.sk/en/dokument/662fac5f-caa1-4f30-97da-47ac8e3e77a3
+OBEC: Vechec (Vranov nad Topľou)
+NÁZOV: Návrh VZN_č.912026 o miestnych daniach
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/662fac5f-caa1-4f30-97da-47ac8e3e77a3
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh VZN_č.912026 o miestnych daniach
+Search publisher's RSS feeds
+Published on official board:
+Obec Vechec (OVM)
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Obec Vechec (OVM)
+Published to:
+16.12.2026
+Registry case:
+Name of official document:
+Návrh VZN_č.912026 o miestnych daniach
+Document type:
+Iný elektronický dokument
+Document abstract:
+Návrh VZN_č.912026 o miestnych daniach a miestnom poplatku za komunálne odpady a drobné stavebné odpady na území obce Vechec na rok 2027.
+Lehota na podanie pripomienok: do 07.12.2026
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Alternative publication type:
+Úradná tabuľa orgánu verejnej moci
+Date of alternative publication start:
+27.11.2026
+Date of alternative publication end:
+16.12.2026
+Attachment name:
+Návrh_VZN_č.912026_o_miestnych_daniach_a_miestnom_poplatku_za_komunálne_odpady_a_drobné_stavebné_odpady_na_rok_2027.pdf
+Type and size:
+.pdf, 367.44 kB
+Display Attachment
+Save Attachment
+Save original attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/1bc6759e-6ce0-426a-891b-a650941859b3
+                                 „Návrh“
+  Návrh VZN zverejnený na úradnej tabuli obce Vechec dňa: 27.11.2026
+  Lehota na podanie pripomienok: 07.12.2026
+  VZN vyvesené na úradnej tabuli v obci Vechec dňa: ____________
+  VZN nadobúda účinnosť dňa: ____________
+
+
+
+
+  Obecné zastupiteľstvo vo Vechci na základe § 6 zákona SNR č. 369/1990 Zb.
+o obecnom zriadení v znení neskorších predpisov a zákona NR SR č. 582/2004
+Z. z. o miestnych daniach a miestnom poplatku za komunálne odpady a drobné
+stavebné odpady v znení neskorších predpisov v y d á v a pre územie obce
+Vechec toto
+
+
+
+
+              VŠEOBECNE ZÁVÄZNÉHO NARIADENIA
+
+                            č.   91/2026
+ O MIESTNYCH DANIACH A MIESTNOM POPLATKU ZA
+
+  KOMUNÁLNE ODPADY A DROBNÉ STAVEBNÉ ODPADY
+
+
+                        na území obce Vechec
+
+
+
+                            na rok 2027
+
+
+
+
+                                    1
+                                  Č l á n o k I.
+                                Úvodné ustanovenie
+                                         §1
+
+   Miestnymi daňami, ktoré ukladá obec Vechec sú:
+a) daň z nehnuteľností
+b) daň za psa
+c) daň za užívanie verejného priestranstva
+d) daň za predajne automaty
+e) daň za nevýherne hracie prístroje
+
+   Miestnym poplatkom, ktorý ukladá obec Vechec je miestny poplatok za komunálne
+odpady a drobné stavebné odpady (ďalej len „poplatok“).
+   Zdaňovacím obdobím miestnych daní podľa písm. a), b), d) e) a poplatku je kalendárny
+rok.
+                                Č l á n o k II.
+                              DAŇ Z POZEMKOV
+                                          §2
+                                    Základ dane
+
+1. Základom dane z pozemkov u ornej pôdy, chmeľníc, viníc, ovocných sadov
+   a ostatných plôch, ak sa využívajú na poľnohospodárstvo, lesné hospodárstvo alebo
+   účel spojený s poľnohospodárstvom alebo lesným hospodárstvom je hodnota
+   pozemku bez porastov 0,3618 €/m2 vynásobená výmerou pozemkov v m2.
+2. Základom dane z pozemkov u trvalých trávnatých porastov je hodnota pozemku bez
+   porastov 0,0697 €/m2 vynásobená výmerou pozemkov v m2.
+3. Základom dane z pozemkov u lesných pozemkov, na ktorých sú hospodárske lesy,
+rybníky s chovom rýb a ostatné hospodársky využívané vodné plochy je hodnota
+pozemku bez porastov určená vynásobením výmery pozemkov v m2 a hodnoty pozemku vo
+výške 0,1029 €/m2. Hodnota pozemku sa použije, len ak daňovník hodnotu pozemku
+nepreukáže znaleckým posudkom.
+
+4. Hodnota pozemkov za každý i začatý m2 pozemku je:
+   a) 1,85 € za záhrady
+   b) 1,85 € za zastavané plochy a nádvoria, ostatné plochy okrem ostatných plôch podľa
+      bodu č.1
+   c) 18,58 € za stavebné pozemky
+5. Základom dane z pozemkov je hodnota pozemku podľa ods.4 vynásobená výmerou v m2.
+
+
+
+
+                                           2
+                                            §3
+                                        Sadzba dane
+
+1. Správca dane na území celej obce Vechec určuje ročnú sadzbu dane z pozemkov pre
+jednotlivé druhy pozemkov vo výške:
+a/ - orná pôda, chmeľnice, vinice, ovocné sady, trvalé trávnaté porasty a ostatné plochy, ak sa
+     využívajú na poľnohospodárstvo, lesné hospodárstvo alebo účel spojený
+     s poľnohospodárstvom alebo lesným hospodárstvom                              0,35 %
+b/ - záhrady                                                                      0,10 %
+c/ - lesné pozemky, na ktorých sú hosp. lesy, rybníky
+ s chovom rýb a ostatné hospodársky využívané vodné plochy                        0,40 %
+d/ - zastavané plochy a nádvoria, ostatné plochy, okrem ostatných plôch
+      podľa písm. a/                                                              0,35 %
+e/ - stavebné pozemky                                                             0,35 %
+
+
+
+                                  Č l á n o k III.
+                                DAŇ ZO STAVIEB
+                                            §4
+                                       Sadzba dane
+
+1. Správca dane určuje pre stavby na území obce ročnú sadzbu dane zo stavieb za
+     každý aj začatý m2 zastavanej plochy:
+    a) 0,079 € za stavby na bývanie a drobné stavby, ktoré majú doplnkovú funkciu pre
+        hlavnú stavbu
+    b) 0,165 € za stavby na pôdohospodársku produkciu, skleníky, stavby pre vodné
+        hospodárstvo, stavby využívané na skladovanie vlastnej pôdohospodárskej produkcie
+        vrátane stavieb na vlastnú administratívu
+    c) 0,199 € chaty a stavby na individuálnu rekreáciu
+    d) 0,079 € za samostatne stojace garáže
+    e) 0,790 € za priemyselné stavby, stavby slúžiace energetike, stavby slúžiace
+       stavebníctvu, stavby využívané na skladovanie vlastnej produkcie vrátane stavieb na
+       vlastnú administratívu
+    f) 0,790 € za stavby na ostatné podnikanie a na zárobkovú činnosť, skladovanie a
+        administratívu súvisiacu s ostatným podnikaním a so zárobkovou činnosťou
+    g) 0,500 € za ostatné stavby neuvedené v písmenách a) až f).
+ 2. Správca dane určuje pri viacpodlažných stavbách pre všetky druhy stavieb príplatok za
+     podlažie 0,04 za každé ďalšie podlažie okrem prvého nadzemného podlažia.
+ 3. Ak stavba slúži na viaceré účely, na ktoré sú určené rôzne sadzby podľa ods. 1 a príplatok
+     za podlažie podľa ods. 2, pomerná časť základu dane sa zistí ako pomer podlahovej
+     plochy časti stavby využívanej na jednotlivý účel využitia k celkovej podlahovej ploche
+     stavby.
+
+
+                                              3
+Na zaradenie stavby podľa ods. 1 je rozhodujúci účel jej využitia k 1. januáru zdaňovacieho
+obdobia.
+                                  Č l á n o k IV.
+                                 DAŇ Z BYTOV
+                                            §5
+                                      Sadzba dane
+
+    Správca dane určuje ročnú sadzba dane z bytov a nebytových priestorov 0,100 € za
+každý aj začatý m2 podlahovej plochy.
+
+
+
+
+                             Č l á n o k V.
+              Spoločné ustanovenia pre daň z nehnuteľnosti
+                                            §6
+                       Oslobodenie od dane a zníženie dane
+
+1.       Správca dane od dane z nehnuteľnosti oslobodzuje:
+a/ pozemky vo vyhlásených ochranných pásmach s tretím a štvrtým stupňom ochrany
+b/ pozemky, stavby alebo byty vo vlastníctve právnických osôb, ktoré nie sú založené alebo
+    zriadené na podnikanie
+c/ časti pozemkov, na ktorých sú zriadené stožiare rozvodu elektrickej energie
+d/ pozemky a stavby slúžiace na vykonávanie náboženských obradov
+2.       Správca dane poskytuje zníženie dane z nehnuteľnosti vo výške :
+a/ 50 % dane zo stavieb na pôdohospodársku produkciu
+b/ 50 % dane z pozemkov vo vlastníctve FO, na ktorých sú elektrické stĺpy a súčasne aj
+    trafostanica
+
+                                   Č l á n o k VI.
+                                   DAŇ ZA PSA
+                                             §7
+1. Predmetom dane za psa je pes starší ako 6 mesiacov chovaný fyzickou alebo právnickou
+   osobou, ktorá je:
+   a) vlastníkom psa alebo
+   b) držiteľom psa, ak sa nedá preukázať, kto psa vlastní.
+   Predmetom dane za psa nie je:
+   - pes chovaný na vedecké účely a výskumné účely
+   - pes umiestnený v útulku zvierat
+   - pes so špeciálnym výcvikom vo vlastníctve držiteľa preukazu FO a ŤZP alebo ŤZPS
+   - pes odídenca
+2. Základom dane je počet psov.
+
+                                             4
+3. Sadzba dane je za jedného psa a kalendárny rok 3,00 €.
+   Takto určená sadzba dane platí za každého ďalšieho psa u toho istého daňovníka
+
+                     Č l á n o k VII.
+       DAŇ ZA UŽÍVANIE VEREJNÉHO PRIESTRANSTVA
+                                               §8
+1.      Verejným priestranstvom na účely tohto VZN sú všetky verejnosti prístupné pozemky
+vo vlastníctve obce Vechec, ktorými sa rozumejú nasledovné miesta:
+a/ hlavné (štátne) a všetky vedľajšie (miestne) cestné komunikácie v celej svojej dĺžke
+a v šírke od krajnice po krajnicu,
+b/ vybudovaný chodník, príp. aj upravená plocha pre chodenie obyvateľov na celom území
+obce,
+c/ námestie pred OcÚ Vechec
+Predmetom dane za užívanie verejného priestranstva je osobitné užívanie verejného
+priestranstva.
+2.      Osobitným užívaním verejného priestranstva sa podľa tohto VZN rozumie
+a/ umiestnenie zariadenia slúžiaceho na poskytovanie služieb,
+b/ umiestnenie stavebného zariadenia, predajného zariadenia / ambulantný predaj/, zariadenie
+   cirkusu, zariadenie lunaparku a iných atrakcií,
+3.      Daňovníkom je fyzická osoba alebo právnická osoba, ktorá verejné priestranstvo
+užíva.
+4.      Základom dane za užívanie verejného priestranstva je výmera užívaného verejného
+priestranstva v m2.
+5.      Sadzba dane za užívanie verejného priestranstva je 0,04 € za každý aj začatý m2
+osobitne užívaného verejného priestranstva a za každý aj začatý deň
+6.      Sadzba dane za užívanie verejného priestranstva na ambulantný predaj max. 3 hod.
+paušálne:              do 20 m2              -       4€
+                               2
+                       od 20 m               -     15 €
+4. Daňová povinnosť vzniká začatím užívania verejného priestranstva a zaniká ukončením
+užívania verejného priestranstva.
+5. Daňovník je povinný osobne alebo písomne podať oznámenie o začatí užívania verejného
+priestranstva Obecnému úradu vo Vechci – a to pred začatím osobitného užívania verejného
+priestranstva, výnimočne v deň, v ktorom sa má realizovať užívanie verejného priestranstva.
+     Daňovník je tiež povinný ohlásiť do 3 dní každú skutočnosť, ktorá má alebo môže mať
+vplyv na výšku stanovenej, resp. zaplatenej dane. Daňovník je povinný oznámiť Obecnému
+úradu vo Vechci skutočnosť, že osobitné užívanie verejného priestranstva skončilo a verejné
+priestranstvo bolo uvedené do pôvodného stavu.
+6. Splatnosť platenia dane:
+a/ jednorázovo v hotovosti do pokladne obecného úradu vo Vechci,
+b/ pri dobe užívania verejného priestranstva najviac 15 dní pri ohlasovaní vzniku poplatkovej
+povinnosti na Obecnom úrade vo Vechci,
+c/ pri dobe užívania verejného priestranstva dlhšie ako 15 dní a to týždennými alebo
+mesačnými splátkami, pričom termín a spôsob splátok určí poverený zamestnanec správcu
+
+                                             5
+miestnej dane na Obecnom úrade vo Vechci pri ohlásení vzniku daňovej povinnosti
+daňovníkom.
+
+                       Č l á n o k VIII.
+            DAŇ ZA NEVÝHERNÉ HRACIE PRÍSTROJE
+                                               §9
+1.       Predmetom dane za nevýherné hracie prístroje sú hracie prístroje, ktoré sa spúšťajú
+alebo prevádzkujú za odplatu, pričom tieto hracie prístroje nevydávajú peňažnú výhru a sú
+prevádzkované v priestoroch prístupných verejnosti (ďalej len „nevýherné hracie prístroje“)
+2.       Nevýherné hracie prístroje sú:
+a/ elektronické prístroje na počítačové hry,
+b/ mechanické prístroje, elektronické prístroje, automaty a iné zariadenia na zábavné hry,
+3.       Daňovníkom je fyzická osoba alebo právnická osoba, ktorá nevýherné hracie prístroje
+prevádzkuje.
+4.       Základom dane je počet nevýherných hracích prístrojov.
+5.       Sadzba dane je 24 € za jeden nevýherný hrací prístroj/kalendárny rok
+6.       Daňová povinnosť vzniká dňom začatia prevádzkovania nevýherných hracích
+prístrojov a zaniká dňom ukončenia ich prevádzkovania.
+7.       Daňovník je povinný písomne oznámiť vznik daňovej povinnosti správcovi dane do
+30 dní od vzniku daňovej povinnosti a v tejto lehote zaplatiť daň na zdaňovacie obdobie alebo
+pomernú časť dane na zostávajúce mesiace zdaňovacieho obdobia, v ktorom vznikla daňová
+povinnosť. V ďalších zdaňovacích obdobiach je daň na zdaňovacie obdobie splatná bez
+vyrubenia do 31. januára tohto zdaňovacieho obdobia.
+8.       Ak daňová povinnosť zanikne v priebehu zdaňovacieho obdobia a daňovník to
+oznámi správcovi dane najneskôr do 30 dní odo dňa zániku daňovej povinnosti, správca dane
+vráti pomernú časť dane za zostávajúce dni zdaňovacieho obdobia, za ktoré bola daň
+zaplatená.
+9.       Oznamovaciu povinnosť si daňovník musí splniť písomným oznámením, ktoré doručí
+osobne alebo doporučeným listom na Obecný úrad vo Vechci. Písomné oznámenie pri vzniku
+daňovej povinnosti obsahuje - identifikačné údaje daňovníka, identifikáciu nevýherného
+hracieho prístroja, miesto prevádzkovania. Písomné oznámenie pri zániku daňovej povinnosti
+obsahuje – identifikačné údaje daňovníka, identifikáciu nevýherného hracieho prístroja,
+miesto doterajšieho hracieho prístroja.
+
+
+                             Č l á n o k IX.
+                     DAŇ ZA PREDAJNÉ AUTOMATY
+                                          § 10
+1.     Predmetom dane za predajné automaty sú prístroje a automaty, ktoré vydávajú tovar za
+odplatu.
+2.     Daňovníkom je FO alebo PO, ktorá predajné automaty prevádzkuje.
+3.     Základom dane je počet predajných automatov.
+
+                                             6
+4.       Sadzba dane je -   34 € za automat, ktorý obsahuje do 10 položiek predajného tovaru
+                        -   40 € za automat, ktorý obsahuje nad 10 položiek predajného tovaru
+
+5.     Daňová povinnosť vzniká dňom začatia prevádzkovania predajných automatov
+a zaniká dňom skončenia ich prevádzkovania.
+6.     Daňovník je povinný písomne oznámiť vznik daňovej povinnosti správcovi dane do 30
+dní od vzniku daňovej povinnosti a v tejto lehote zaplatiť daň na zdaňovacie obdobie alebo
+pomernú časť dane na zostávajúce mesiace zdaňovacieho obdobia, v ktorom vznikla daňová
+povinnosť. V ďalších zdaňovacích obdobiach je daň na zdaňovacie obdobie splatná bez
+vyrubenia do 31. januára tohto zdaňovacieho obdobia.
+
+                                     Č l á n o k X.
+                                    P O P LAT O K
+                                           § 11
+
+     1) Poplatok sa platí za komunálne odpady a drobné stavebné odpady, ktoré vznikajú na
+        území obce.
+     2) Poplatok platí poplatník, ktorým je:
+         a/ fyzická osoba, ktorá má v obci trvalý alebo prechodný pobyt alebo ktorá je na
+         území obce oprávnená užívať alebo užíva byt, nebytový priestor, pozemnú stavbu
+         alebo jej časť, alebo objekt, ktorý nie je stavbou, alebo záhradu, vinicu, ovocný sad,
+         trvalý trávny porast na iný účel ako na podnikanie, pozemok v zastavanom území obce
+         okrem lesného pozemku a pozemku, ktorý je v katastri nehnuteľnosti evidovaný ako
+         vodná plocha (ďalej len „nehnuteľnosť“),
+         b/ právnická osoba, ktorá je oprávnená užívať alebo užíva nehnuteľnosť nachádzajúcu
+         sa na území obce na iný účel ako na podnikanie
+         c/ podnikateľ, ktorý je oprávnený užívať alebo užíva nehnuteľnosť nachádzajúcu sa na
+         území obce na účel podnikania.
+     3) Poplatok od poplatníka v ustanovenej výške pre obec vyberá a za vybraný poplatok
+        ručí :
+         a/ vlastník nehnuteľnosti
+         b/ ak je nehnuteľnosť v spoluvlastníctve viacerých spoluvlastníkov alebo ak ide
+         o bytový dom, poplatok vyberá a za poplatok ručí zástupca alebo správca určený
+         spoluvlastníkmi, ak s výberom poplatku zástupca alebo správca súhlasí, ak nedošlo
+         k určeniu zástupcu alebo správcu, obec určí spomedzi vlastníkov alebo
+         spoluvlastníkov zástupcu, ktorý poplatok pre obec vyberie,
+         c/ správca, ak je vlastníkom nehnuteľnosti štát, vyšší územný celok alebo obec (ďalej
+         len „platiteľ“). Platiteľ a poplatník sa môžu písomne dohodnúť, že poplatok obci
+         odvedie priamo poplatník, za odvedenie poplatku obci ručí platiteľ.
+     4) Poplatková povinnosť vzniká dňom, ktorým nastane skutočnosť uvedená v ods. 2 tohto
+        ustanovenia. Poplatková povinnosť zaniká dňom, ktorým zanikne skutočnosť
+        zakladajúca vznik poplatkovej povinnosti.
+     5) Sadzba poplatku :
+        0,120 € za osobu a kalendárny deň – pre poplatníka podľa § 11 odst. 2 písm a,b,c
+
+
+
+                                               7
+     Poplatok pre poplatníkov podľa § 11 odst. 2 písm a, sa určí ako súčin sadzby poplatku
+     a počtu dní v kalendárnom roku, počas ktorých poplatník má alebo bude mať v obci
+     trvalý alebo prechodný pobyt alebo užíva nehnuteľnosť.
+     Pre poplatníkov podľa § 11 odst. 2 písm.b,c poplatok sa určí ako súčin sadzby
+     poplatku, počtu dní v kalendárnom roku, počas ktorých poplatníkovi vzniká
+     poplatková povinnosť a ukazovateľa dennej produkcie.
+     Ukazovateľ dennej produkcie sa určí ako súčet priemerného počtu zamestnancov
+     pripadajúcich na určené obdobie, neznížený o počet osôb, ktoré majú v obci trvalý
+     alebo prechodný pobyt vynásobený koeficientom.
+     Koeficient je stanovený : 1
+      b/ 0,032 € na 1 liter odpadu (nevážený množstvový zber komunálneho odpadu) –
+     pre poplatníkov podľa § 11 odst. 2 písm. b ,c, ktorí sú zapojení do množstvového
+     zberu. Poplatok sa urči ako súčin sadzby za 1 l odpadu, počtu vývozov za rok, objemu
+     zbernej nádoby v litroch a počtu zberných nádob, ktoré poplatník užíva v súlade so
+     zavedeným systémom zberu komunálnych odpadov a drobných stavebných odpadov.
+     c/ správca dane ustanovuje sadzbu poplatku za drobný stavebný odpad vo výške 0,020
+     € za kilogram odpadu.
+     Poplatok za odovzdaný drobný stavebný odpad poplatník po odvážení zaplatí
+     v hotovosti do pokladne na obecnom úrade vo Vechci.
+     Náklady na zbernú nádobu na zmesový komunálny odpad znáša pôvodný pôvodca
+     odpadu.
+6) Poplatníkom za odpady je každá fyzická alebo právnická osoba, ktorá takýto odpad
+    produkuje na území obce.
+7) Ak má poplatník v obci trvalý aj prechodný pobyt poplatok platí iba raz z dôvodu
+    trvalého pobytu.
+8) Ak v spoločnej domácnosti žije viacero poplatníkov povinnosti poplatníka môže na
+    seba prevziať jeden z nich.
+9) Obec v zmysle § 81 zákona č. 582/2004 Z.z. vyrubuje poplatok rozhodnutím na celé
+    zdaňovacie obdobie. Vyrubený poplatok je splatný do 15 dní odo dňa nadobudnutia
+    právoplatnosti rozhodnutia. Obec môže určiť platenie poplatku v splátkach, pričom
+    splátky poplatku sú splatné v lehotách určených obcou v rozhodnutí, ktorým sa
+    vyrubuje poplatok.
+10) Poplatník je povinný v priebehu zdaňovacieho obdobia oznámiť obci vznik a zánik
+    poplatkovej povinnosti do 30 dní odo dňa, kedy tieto zmeny nastali. Správca dane vráti
+    na základe žiadosti poplatok alebo jeho pomernú časť poplatníkovi, ktorému zanikla
+    povinnosť platiť poplatok v priebehu zdaňovacieho obdobia. Nárok na vrátenie
+    pomernej časti poplatku zaniká, ak poplatník v uvedenej lehote zánik poplatkovej
+    povinnosti neoznámi.
+11) Obec vráti poplatok alebo jeho pomernú časť poplatníkovi v zmysle § 82 odst. 1
+    zákona č.582/2004 Z.z. na základe písomnej žiadosti, ak mu zanikla povinnosť platiť
+    poplatok v priebehu zdaňovacieho obdobia a preukáže splnenie podmienok na vrátenie
+    poplatku alebo jeho pomernej časti.
+12) Obec poplatok zníži o 50% pre poplatníka, ktorý v danom roku dovŕši 70 a viac rokov
+    – viď. evidencia obyvateľov obce.
+
+
+
+
+                                          8
+13) Obec môže rozhodnutím znížiť poplatok o 50% na základe podanej žiadosti poplatníka,
+    ktorý je bezpríspevkovým darcom krvi – držiteľom akejkoľvek plakety profesora
+    MUDr.Jana Janského s trvalým pobytom v obci Vechec.
+14) Správca dane poplatok odpustí za obdobie, za ktoré poplatník obci preukáže na základe
+    podkladov, že viac ako 90 dní v zdaňovacom období sa nezdržiava alebo sa nezdržiaval
+    na území obce.
+    Správca dane odpustí poplatok osobe, ktorá dlhodobo žije v zahraničí.
+15) Podmienkou na odpustenie alebo zníženie poplatku je žiadosť poplatníka o zníženie
+    alebo odpustenie poplatku po predložení dokladov preukazujúcich túto skutočnosť,
+    ktorými sú najmä :
+     - potvrdenie zamestnávateľa zo zahraničia o trvaní pracovného pomeru
+     - potvrdenie o pobyte v zahraničí v slovenskom alebo českom jazyku
+     - potvrdenie zamestnávateľa so sídlom v SR o výkone práce poplatníka v zahraničí
+        a doklad príslušnej organizácie v zahraničí o jeho pobyte s presne uvedeným
+        dátumom
+     - potvrdenie zamestnávateľa so sídlo v SR, v ktorom tento potvrdí a uvedie počet
+        kalendárnych dní príslušného zdaňovacieho obdobia, v ktorom poplatník vykonáva
+        prácu mimo obec
+     - doklad, ktorý preukazuje ubytovanie poplatníka v mieste výkonu práce s presne
+        uvedeným dátumom
+     - doklad o ubytovaní žiaka alebo študenta (potvrdenie o ubytovaní, nájomná zmluva
+        a pod.)
+     - potvrdenie agentúry, ktorá sprostredkovala prácu v zahraničí
+     - sobášny list úradne zdokumentovaný na príslušnej slovenskej ambasáde alebo
+        úradne potvrdený na osobitnej matrike v SR s dokladom príslušného úradu
+        o pobyte. Všetky doklady musia byť v slovenskom alebo českom jazyku.
+     - potvrdenie, v ktorom preukáže, že zaplatil daň za TKO na celé zdaňovacie obdobie
+        na inom mieste než je trvalý pobyt poplatníka
+     - potvrdenie o umiestnení poplatníka v zariadení sociálnych služieb
+     - potvrdenie o výkone trestu odňatia slobody
+     - potvrdenie o prechodnom pobyte súčasne s vyrubením / zaplatením poplatku
+        v mieste prechodného pobytu
+16) Nárok na zníženie alebo odpustenie poplatku si poplatník uplatní najneskôr do 30 dní
+    po skončení zdaňovacieho obdobia, inak nárok na zníženie alebo odpustenie poplatku
+    zaniká.
+17) V prípade, že je potvrdenie zo zahraničia je v inom ako slovenskom a českom jazyku je
+    k dokladom potrebné doložiť preklad.
+
+
+
+
+                                          9
+                           Č l á n o k XI.
+                      ZÁVEREČNÉ USTANOVENIA
+                                           §12
+
+
+1. Miestne dane a poplatok je možné uhradiť (s uvedením prideleného variabilného symbolu):
+- BEZHOTOVOSTNE - prevodom na účet obce číslo SK97 0200 0000 0000 2382 3632
+   bankové spojenie: VÚB a.s., Vranov nad Topľou
+- HOTOVOSTNE - platbou v hotovosti do pokladne Obecného úradu vo Vechci
+2. Týmto nariadením sa zrušuje Všeobecne záväzné nariadenie o miestnych daniach a
+    miestnom poplatku za komunálne odpady a drobné stavebné odpady č. 89/2025.
+3. Návrh VZN č. 91/2026 bol vyvesený na verejné pripomienkovanie dňa 27.11.2026
+    a zvesený dňa xx.xx.2026
+4. Na VZN č. 91/2026 sa uznieslo Obecné zastupiteľstvo vo Vechci dňa xx.xx.2026
+    uznesením č. xx.xx.2026.
+5. Všeobecne záväzné nariadenie o miestnych daniach a miestnom poplatku za komunálne
+    odpady a drobné stavebné odpady nadobúda účinnosť dňa 01.01.2027
+
+
+
+
+                                                                Ladislav Tóth
+                                                                starosta obce
+
+
+
+
+                                            10
+

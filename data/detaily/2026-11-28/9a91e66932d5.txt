@@ -1,0 +1,316 @@
+URL: https://cuet.slovensko.sk/en/dokument/74b7c293-da13-4704-bd3e-860bb7d11e93
+OBEC: Bôrka (Rožňava)
+NÁZOV: Návrh rozpočtu 2027, 2028, 2029
+ZDROJ: CUET
+
+=== STRÁNKA https://cuet.slovensko.sk/en/dokument/74b7c293-da13-4704-bd3e-860bb7d11e93
+Central official electronic board - document
+Enter beta.slovensko.sk
+Change the contrast
+Main Page
+About Portal
+Help
+Contact
+Slovensky
+RSS CUET
+Published document Návrh rozpočtu 2027, 2028, 2029
+Search publisher's RSS feeds
+Published on official board:
+Obec Bôrka
+Published from:
+27.11.2026
+Registry symbol:
+Documents author:
+Obec Bôrka
+Published to:
+Registry case:
+Name of official document:
+Návrh rozpočtu 2027, 2028, 2029
+Document abstract:
+Checksum of request
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment. A canonicalization of the XML document must be done before checksum calculation.
+Canonicalization
+http://www.w3.org/TR/2001/REC-xml-c14n-20010315
+Type
+http://www.w3.org/2001/04/xmlenc#sha512
+Value
+Attachment name:
+navrh_rozpoctu__2027_2028_2029.pdf
+Type and size:
+.pdf, 680.14 kB
+Display Attachment
+Save Attachment
+Checksum of attachment
+Checksum is calculated using SHA512 and can be used to verify a downloaded attachment.
+Back to Search
+© 2013 - 2026, Slovensko.sk
+Information published at www.slovensko.sk are not legally binding.
+Provider and webmaster of the portal is
+Národná agentúra pre sieťové a elektronické služby
+.
+
+=== ODKAZ https://cuet.slovensko.sk/en/priloha/uloz/419bd058-124a-45ba-9218-a8235d8b02a1
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                                Strana 1
+Obecný úrad
+       Čerpanie od 01.01.2026 do 27.11.2026
+Príjmy
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                            Schválený     Upravený   Návrh 2027   Návrh 2028   Návrh 2029     Čerpanie       Rozdiel
+1                                               1-bežný rozpočet
+                             111003     41      Výnos dane z príjmov poukázaný územnej          239 642.00   239 642.00   264 475.00   273 658.00   290 180.00   203 425.05   36 216.95
+                                                samospráve
+                             121001     41      Daň z pozemkov                                    9 500.00    17 786.28    14 677.00    14 677.00    14 677.00    15 275.79    2 510.49
+                             121001     41      Daň z pozemkov min.r.                                 0.00       190.11         0.00         0.00         0.00       190.11        0.00
+                             121002     41      Daň zo stavieb                                    4 300.00     2 396.41     2 400.00     2 400.00     2 400.00     1 732.38      664.03
+                             121002     41      Daň zo stavieb min.r.                                 0.00       228.71         0.00         0.00         0.00       228.71        0.00
+                             133001     41      Daň za psa                                          300.00       252.48       250.00       250.00       250.00       209.99       42.49
+                             133001     41      Daň za za psa min.r.                                  0.00        60.00         0.00         0.00         0.00        60.00        0.00
+                             133012     41      Daň za užívanie verejného priestranstva             100.00       100.00       100.00       100.00       100.00         0.00      100.00
+                             133013     41      Za komunálne odpady a drobné stavebné            14 720.00    16 135.83    20 760.00    20 760.00    20 760.00     7 571.24    8 564.59
+                                                odpady
+                             133013     41      Za komunálne odpady a drobné stavebné            11 000.00    11 000.00    13 000.00    13 000.00    13 000.00     5 074.52    5 925.48
+                                                odpady
+                             212002     41      Z prenajatých pozemkov                              100.00       100.00       100.00       100.00       100.00        0.00       100.00
+                             212003     41      Z prenajatých budov, priestorov a objektov        1 000.00     1 000.00     1 000.00     1 000.00     1 000.00      640.00       360.00
+                             212004     41      Z prenajatých strojov, prístrojov, zariadení,         0.00         0.00         0.00         0.00         0.00        0.00         0.00
+                                                tech
+                             221002     41      Správne poplatky                                   450.00       574.00       550.00       550.00       550.00       680.00       -106.00
+                             221004     41      Ostatné poplatky                                   200.00       100.00       100.00       100.00       100.00         0.00        100.00
+                             223001     41      Za predaj výrobkov, tovarov a služieb              500.00       997.80       500.00       500.00       500.00       997.80          0.00
+                             223001     41      Príjem - predaj výrobkov, tovarov a služieb        200.00       200.00       200.00       200.00       200.00       159.65         40.35
+                                                cint.
+                             223001     41      Za predaj výrobkov, tovarov a služieb MR            30.00        30.00        30.00        30.00        30.00         0.00        30.00
+                             223001     41      Za predaj výr., tovar. a služ. vodné                50.00        50.00        50.00        50.00        50.00        47.45         2.55
+                             223001     41      Za predaj výrobkov, tovarov a služieb kuka         500.00       500.00       350.00       350.00       350.00       372.32       127.68
+                                                nád.
+                             223002     41      Za školy a školské zariadenia                       300.00       300.00       300.00       300.00       300.00         0.00       300.00
+                             242        41      Z vkladov                                             0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             292012     41      Z dobropisov                                          0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             292017     41      Z vratiek                                           500.00       775.34       500.00       500.00       500.00     8 030.14    -7 254.80
+                             311        111     Granty - Min.kult. SR - kaštieľ                       0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             311        71      PPA - granty                                      1 000.00     1 499.47     1 200.00     1 200.00     1 200.00     1 199.47       300.00
+                             311        71      Grant na komunitnú záhradu                            0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             312001     111     Zo ŠR na DPO                                      3 000.00     3 000.00     3 000.00     3 000.00     3 000.00     3 000.00         0.00
+                             312001     111     Príjem dot. VUC KE                                    0.00     2 000.00         0.00         0.00         0.00     2 000.00         0.00
+Vytlačené 27.11.2026 maria.krajnakova                                                                                                                                         31-136211110
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                             Strana 2
+Obecný úrad
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                         Schválený     Upravený   Návrh 2027   Návrh 2028   Návrh 2029     Čerpanie       Rozdiel
+                             312001     111     Príjem zo ŠR pren.výkon ŽP                         0.00         0.00         0.00         0.00         0.00         0.00          0.00
+                             312001     111     Príjem dot. zo ŠR MŠ                         150 000.00   150 000.00   150 000.00   150 000.00   150 000.00   146 187.00     3 813.00
+                             312001     111     Príjem dot. zo ŠR pedag.asist.                     0.00    16 508.00         0.00         0.00         0.00    16 508.00          0.00
+                             312001     111     Príjem dot. zo ŠR NP                               0.00     1 244.64         0.00         0.00         0.00     1 244.64          0.00
+                             312001     111     Príjem dot. zo ŠR NP                               0.00       971.34         0.00         0.00         0.00       971.34          0.00
+                             312001     111     Príjem dot zo ŠR na stravu MŠ                  6 000.00     6 028.40     6 000.00     6 000.00     6 000.00     6 028.40          0.00
+                             312001     111     Príjem dot. prac.pom MŚ                            0.00     6 607.40     6 600.00     6 600.00     6 600.00     6 607.40          0.00
+                             312001     111     Príjem dot. zo ŠR pov.šk. doch.               15 000.00    10 000.00         0.00         0.00         0.00         0.00   10 000.00
+                             312001     131P    Príjem zo ŠR na kaštieľ                        5 000.00     5 000.00         0.00         0.00         0.00         0.00     5 000.00
+                             312001     1AC1    Príjem dot. NP RT ESF                        172 150.00    39 750.55         0.00         0.00         0.00    39 750.55          0.00
+                             312001     1AC2    Príjem dot. NP RT ŠR                          30 581.00     7 014.81         0.00         0.00         0.00     7 014.81          0.00
+                             312001     3BB1    Príjem dot. MOPS ESF                          53 657.00    53 657.00    57 180.00    57 180.00    57 180.00    56 810.01    -3 153.01
+                             312001     3BB1    Príjem dot. NP RT ESF                              0.00   140 399.45    90 433.00    90 433.00    90 433.00    54 268.91   86 130.54
+                             312001     3BB1    Dot. NP ment. zaprac. ESF                          0.00     1 940.78         0.00         0.00         0.00     2 195.78      -255.00
+                             312001     3BB2    Príjem dot. MOPS ŠR                            9 469.00     9 469.00     8 614.00     8 614.00     8 614.00    10 025.44      -556.44
+                             312001     3BB2    Príjem do NP RT ŠR                                 0.00    27 566.19    15 959.00    15 959.00    15 959.00     9 576.87   17 989.32
+                             312001     3BB2    Dot. NP ment.zapr. ŠR                              0.00       342.51         0.00         0.00         0.00       387.51        -45.00
+                             312001     72h     Príjem dot. zo ŠR - DVHN                           0.00    30 837.00         0.00         0.00         0.00    36 498.00    -5 661.00
+                             312001     72h     Príjem dot. zo ŠR - PnD                            0.00    32 628.42         0.00         0.00         0.00    37 768.42    -5 140.00
+                             312002     111     Zo štátneho účelového fondu - enviro               0.00         0.00         0.00         0.00         0.00         0.00          0.00
+                             312012     111     Dot. OP - zo ŠR na úhradu nákladov               500.00       500.00       500.00       500.00       500.00       482.00         18.00
+                                                pren.výkonu
+                             312012     111     Príjem dot. pren.výk. stavebn. ŠR              1 000.00     1 000.00        0.00         0.00         0.00         0.00     1 000.00
+                             312012     111     Zo ŠR na ŽP                                       80.00        92.04       90.00        90.00        90.00        92.04         0.00
+                             312012     111     Príjem zo ŠR pren.výk. evid.obyv.                230.00       233.16      230.00       230.00       230.00       233.16         0.00
+                             312012     111     Príjem zo ŠR na úhr. nákladov pren.výk.           30.00        30.00       30.00        30.00         0.00         0.00        30.00
+                                                cest.dopr.
+                             312012     111     Príjem dotácie Voľby                               0.00     1 978.86         0.00         0.00         0.00     3 321.04   -1 342.18
+             *                                                                               731 089.00   842 717.98   659 178.00   668 361.00   684 853.00   686 865.94 155 852.04
+*1                                              1-bežný rozpočet                             731 089.00   842 717.98   659 178.00   668 361.00   684 853.00   686 865.94 155 852.04
+2                                               2-kapitálový rozpočet
+                             233001     43      Z predaja pozemkov                                 0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             322001     111     Kap.transf. zo ŠR                                  0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             322001     131P    Transfer - zo štátn. rozp. Kaštiel             5 000.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             322002     111     Kap. transf. - zo štátneho účelového fondu         0.00         0.00         0.00         0.00         0.00         0.00         0.00
+             *                                                                                 5 000.00         0.00         0.00         0.00         0.00         0.00         0.00
+*2                                              2-kapitálový rozpočet                          5 000.00         0.00         0.00         0.00         0.00         0.00         0.00
+3                                               3-finančné operácie
+                             453        111     Prostr.z predch.rok. - KT Kaštieľ                  0.00     5 000.00         0.00         0.00         0.00     5 000.00         0.00
+Vytlačené 27.11.2026 maria.krajnakova                                                                                                                                      31-152211110
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                         Strana 3
+Obecný úrad
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                     Schválený     Upravený   Návrh 2027   Návrh 2028   Návrh 2029     Čerpanie       Rozdiel
+                             453        111     Prostr.z predch.rok. - dot.ped.as.MŠ           0.00     3 076.00         0.00         0.00         0.00     3 076.00         0.00
+                             453        111     Prostr.z predch.rok. - strava MŠ               0.00     3 840.20         0.00         0.00         0.00     3 840.20         0.00
+                             453        3BB1    Prostr.z predch.rok. MOPS ESF                  0.00     7 348.32         0.00         0.00         0.00     7 348.32         0.00
+                             453        3BB1    Prostr. z predch.rok. RT ESF                   0.00    19 595.67         0.00         0.00         0.00    19 595.67         0.00
+                             453        3BB2    Prostr.z predch.rok. MOPS ŠR                   0.00     1 106.77         0.00         0.00         0.00     1 106.77         0.00
+                             453        3BB2    Prostr.z predch.rok. RT ŠR                     0.00     3 458.06         0.00         0.00         0.00     3 458.06         0.00
+                             454001     46      Z rezervného fondu obce a z rezervného    70 000.00    22 190.00   140 000.00   140 000.00   140 000.00    22 190.00         0.00
+                                                fondu vyšši
+             *                                                                            70 000.00    65 615.02   140 000.00   140 000.00   140 000.00    65 615.02         0.00
+*3                                              3-finančné operácie                       70 000.00    65 615.02   140 000.00   140 000.00   140 000.00    65 615.02         0.00
+                                                Spolu                                    806 089.00   908 333.00   799 178.00   808 361.00   824 853.00   752 480.96 155 852.04
+
+
+
+
+Vytlačené 27.11.2026 maria.krajnakova                                                                                                                                  31-168211110
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                          Strana 4
+Obecný úrad
+Výdaje
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                        Schválený    Upravený   Návrh 2027   Návrh 2028   Návrh 2029    Čerpanie       Rozdiel
+1                                               1-bežný rozpočet
+             01.1.1                             Výkonné a zákonodarné orgány
+                             611        111     OcÚ - plat osob.príj.                           500.00      506.00      500.00       500.00       500.00       537.00       -31.00
+                             611        41      OcÚ - tarif.plat                             90 000.00   90 000.00   95 000.00    95 000.00    95 000.00    82 292.51    7 707.49
+                             612002     111     Ostatné príplatky okrem osobných                  0.00        0.00        0.00         0.00         0.00         0.00         0.00
+                                                príplatkov
+                             614        111     OcÚ - odmeny zo ŠR                                0.00        0.00        0.00         0.00         0.00         0.00        0.00
+                             621        111     OcÚ - VšZP odm. zo ŠR                             0.00        0.00        0.00         0.00         0.00         0.00        0.00
+                             621        41      OcÚ - poistné do VšZP                         5 225.00    3 725.00    4 000.00     4 000.00     4 500.00     3 333.23      391.77
+                             623        41      OcÚ- poistné do ost. zdravotných poisť.       6 760.00    6 760.00    6 450.00     6 450.00     6 500.00     6 048.78      711.22
+                             625001     41      OcÚ - nemocenské poistenie                    1 260.00    1 260.00    1 330.00     1 330.00     1 330.00     1 172.53       87.47
+                             625002     41      OcÚ - starobné poistenie                     12 600.00   12 600.00   13 300.00    13 300.00    13 300.00    11 938.14      661.86
+                             625003     41      OcÚ- úrazové poistenie                          720.00      720.00      760.00       760.00       760.00       680.35       39.65
+                             625004     41      OcÚ - invalidné poistenie                     2 700.00    2 700.00    2 850.00     2 850.00     2 850.00     2 530.39      169.61
+                             625005     41      OcÚ - poistenie v nezamestnanosti               900.00      900.00      950.00       980.00       950.00       843.65       56.35
+                             625007     41      OcÚ - poistenie do rezervného fondu           4 280.00    4 280.00    4 515.00     4 515.00     4 515.00     4 036.88      243.12
+                                                solidarity
+                             631001     41      OcÚ - tuzemské cest.náhr.                       500.00      500.00       500.00       500.00       500.00      382.26      117.74
+                             632001     111     OcÚ - energie z dot.ŠR                            0.00        0.00         0.00         0.00         0.00        0.00         0.00
+                             632001     41      OcÚ - el. energie                             4 500.00        0.00     4 500.00     4 500.00         0.00        0.00         0.00
+                             632001     41      OcÚ - energie - pal. drevo                        0.00    1 539.30     2 000.00     2 000.00     2 000.00    1 539.30         0.00
+                             632002     41      OcÚ - vodné, stočné                             350.00      350.00       350.00       350.00       350.00      102.85      247.15
+                             632003     111     OcÚ -poštové služby zo ŠR                         0.00        0.00         0.00         0.00         0.00        0.00         0.00
+                             632003     41      OcÚ - poštové služby /spotr.cenín/              500.00      552.20       700.00       700.00       700.00      575.30       -23.10
+                             632004     41      OcÚ - komun. infraštr. web.str., aktu str.      200.00      200.00       200.00       200.00       200.00        0.00      200.00
+                             632005     41      OcÚ -telekomunikačné služby                     700.00      700.00       700.00       700.00       700.00      635.47        64.53
+                             632006     41      OcÚ - elektr.en.                                  0.00      637.72     1 000.00     1 000.00     1 000.00      637.72         0.00
+                             633001     41      OcÚ - interiérové vybavenie                   1 000.00    1 669.53     2 000.00     2 000.00     2 000.00    1 669.53         0.00
+                             633002     111     OcU - výpočtová technika ŠR                       0.00        0.00         0.00         0.00         0.00        0.00         0.00
+                             633002     41      OcU - výpočtová technika                      1 000.00    1 000.00     1 000.00     1 000.00     1 000.00        0.00    1 000.00
+                             633004     41      OcÚ - prevádzkové stroje, prístroje           1 000.00    1 000.00     1 000.00     1 000.00     1 000.00      279.21      720.79
+                             633006     111     OcÚ - kanc. materiál ŠR evid.obyv.              200.00      200.00       200.00       200.00       200.00      137.02        62.98
+                             633006     111     OcÚ - všeob. mat. EO ŠR                           0.00       26.69         0.00         0.00         0.00       26.69         0.00
+                             633006     41      OcÚ - všeobecný materiál                      2 600.00    2 627.26     2 800.00     2 900.00     3 000.00    2 691.48       -64.22
+                             633009     111     OcÚ - tlačivá evid. obyvat. ŠR                    0.00        0.00         0.00         0.00         0.00        0.00         0.00
+                             633009     41      OcÚ - knihy, časopisy, noviny ,                 700.00      700.00       700.00       700.00       700.00      419.92      280.08
+                             633013     41      OcÚ - softvér aktualiz.                       1 900.00    1 900.00     2 000.00     2 000.00     2 000.00    1 959.35       -59.35
+
+Vytlačené 27.11.2026 maria.krajnakova                                                                                                                                   31-168211110
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                          Strana 5
+Obecný úrad
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                      Schválený     Upravený   Návrh 2027   Návrh 2028   Návrh 2029     Čerpanie       Rozdiel
+                             633015     41      OcÚ - palivá služ.c.                            0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             633016     41      OcÚ - reprezentačné                         1 500.00     1 500.00     1 500.00     1 500.00     1 500.00       515.90      984.10
+                             634001     41      OcÚ - palivo, mazivá, oleje, špeciálne      1 500.00     1 500.00     1 700.00     1 700.00     1 700.00     1 540.92       -40.92
+                                                kvapaliny
+                             634002     41      OcÚ servis, údržba služ.auta                1 000.00     1 000.00     1 000.00     1 000.00     1 000.00       520.34      479.66
+                             634003     41      OcÚ - poistenie na auto                     1 800.00     1 800.00     1 600.00     1 600.00     1 600.00     1 171.96      628.04
+                             635004     41      OcÚ - oprava náradia, prístrojov            1 000.00     1 000.00     1 000.00     1 000.00     1 000.00        98.50      901.50
+                             635005     41      OcÚ - údržba špec.zariad.                     500.00       500.00       500.00       500.00       500.00         0.00      500.00
+                             635006     41      OcU - údržba budov, objektov alebo ich      1 000.00     1 000.00     1 000.00     1 000.00     1 000.00       420.00      580.00
+                                                častí
+                             636002     41      OcÚ - prenájom náradia                        100.00       100.00       100.00       100.00       100.00         0.00      100.00
+                             637001     41      OcÚ školenia, kurzy, semináre               1 000.00     1 098.00     1 200.00     1 200.00     1 200.00     1 230.00     -132.00
+                             637003     111     OcÚ - prop.rekl. ŠR                             0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             637003     41      OcU - propagácia, reklama a inzercia          200.00       200.00       200.00       200.00       200.00         0.00      200.00
+                             637004     111     OcÚ- všeob. služ. prop.rekl. ŠR                 0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             637004     41      OcÚ - všeob. služby                         2 000.00     2 000.00     1 500.00     1 500.00     1 500.00     1 239.06      760.94
+                             637005     41      OcÚ - špeciálne služby                      9 000.00     9 000.00     5 000.00     5 000.00     5 000.00     3 544.50    5 455.50
+                             637006     41      Náhrady - rekr.,rekond.pobyt prac.              0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             637014     41      OcÚ - stravovanie                           4 000.00     4 000.00     4 000.00     4 000.00     4 000.00     3 355.00      645.00
+                             637015     41      OcÚ - poistné majetku                       1 000.00     1 170.11     1 300.00     1 300.00     1 300.00     1 473.89     -303.78
+                             637016     41      OcÚ - prídel do sociálneho fondu            2 000.00     2 000.00     1 500.00     1 500.00     1 500.00     1 247.62      752.38
+                             637026     41      OcÚ - odmeny posl. OZ                       2 500.00     2 500.00     2 500.00     2 500.00     2 500.00     1 134.35    1 365.65
+                             637027     41      OcU - odm.na DoVP                           1 000.00     1 067.06     1 000.00     1 000.00     1 000.00       402.16      664.90
+                             637031     41      OcÚ - pokuty a penále                         200.00       497.75       500.00       500.00       500.00       521.75       -24.00
+                             637032     41      Mylné platby                                    0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             637037     111     OcÚ - vratky z dot.                             0.00     4 241.00         0.00         0.00         0.00     4 241.00         0.00
+                             637037     41      Vratky                                          0.00        23.00         0.00         0.00         0.00        23.00         0.00
+                             641013     111     OcU - prenes. výkon štátn. správy               0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             641013     41      OcU - prenes.výkon štatn.správy                 0.00         0.00         0.00         0.00         0.00         0.00         0.00
+                             642006     41      OcÚ - na členské príspevky                  1 500.00     1 500.00     1 700.00     1 700.00     1 700.00     1 440.03        59.97
+                             642012     41      OcÚ - na odstupné                          13 945.00    13 945.00         0.00         0.00         0.00         0.00   13 945.00
+                             642015     41      OcÚ - nemocenské dávky                        500.00       500.00       500.00       500.00       500.00         0.00      500.00
+                             653001     41      OcÚ - manip. popl.úver                          0.00         0.00         0.00         0.00         0.00         0.00         0.00
+             *01.1.1                            Výkonné a zákonodarné orgány              187 340.00   189 195.62   178 605.00   178 735.00   174 855.00   148 589.54   40 606.08
+             01.1.2                             Finančné a rozpočtové záležitosti
+                             637012     41      Finan. zálež. - poplatky a odvody banke     1 000.00     1 000.00     1 000.00     1 000.00     1 000.00      494.36       505.64
+             *01.1.2                            Finančné a rozpočtové záležitosti           1 000.00     1 000.00     1 000.00     1 000.00     1 000.00      494.36       505.64
+             01.6.0                             Všeobecné verejné služby inde
+                                                neklasifikované
+Vytlačené 27.11.2026 maria.krajnakova                                                                                                                                   31-183211110
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                     Strana 6
+Obecný úrad
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                     Schválený   Upravený   Návrh 2027   Návrh 2028   Návrh 2029   Čerpanie       Rozdiel
+                             621        111     Voľby - poistné do VšZP                       0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             623        111     Voľby - poist. do ost. ZP ŠR                  0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             625002     111     Voľby - starob. poist. zam.                   0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             625003     111     Voľby - úraz. poist. zam.                     0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             625004     111     Voľby - inval. poist. zam.                    0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             625007     111     Voľby - poist. do RF zam.                     0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             631001     111     Voľby - cest.náhr. ŠR                         0.00       16.80         0.00         0.00         0.00      16.80          0.00
+                             632003     111     Voľby - poštové služby                        0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             632004     111     Voľby - internet                              0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             632005     111     Voľby - telekomunikačné služby                0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             633006     111     Voľby - všeobecný materiál ŠR                 0.00       75.15         0.00         0.00         0.00     116.20        -41.05
+                             633016     111     Voľby - reprezentačné                         0.00      158.25         0.00         0.00         0.00     158.25          0.00
+                             634001     111     Voľby - palivo, mazivá                        0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             634002     111     Voľby - preprava                              0.00        0.00         0.00         0.00         0.00       0.00          0.00
+                             637007     111     Voľby - cest. náhr.inýmzam.                   0.00       31.53         0.00         0.00         0.00      13.40         18.13
+                             637014     111     Voľby - stravovanie ŠR                        0.00       96.05         0.00         0.00         0.00     163.05        -67.00
+                             637026     111     Voľby - odmeny zapis.                         0.00    2 088.24         0.00         0.00         0.00   2 088.24          0.00
+                             637027     111     Voľby - odm. DoVP                             0.00       67.06         0.00         0.00         0.00     157.25        -90.19
+                             637037     111     Voľby - vratky z dot.                         0.00        0.00         0.00         0.00         0.00       0.00          0.00
+             *01.6.0                            Všeobecné verejné služby inde                 0.00    2 533.08         0.00         0.00         0.00   2 713.19      -180.11
+                                                neklasifikované
+             03.2.0                             Ochrana pred požiarmi
+                             632002     41      Ochr. pred pož. - vodné, stočné             100.00     100.00        200.00       200.00       200.00     89.41        10.59
+                             633001     111     HS - interiér. vyb. skrine,lavičky            0.00       0.00          0.00         0.00         0.00      0.00         0.00
+                             633004     111     Ochr.pred pož. - prev.prístr. ŠR          3 000.00     500.00      2 000.00     2 000.00     2 000.00    397.71       102.29
+                             633004     41      Ochr. pred požiarom prevádzkové stroje,     500.00     500.00        500.00       500.00       500.00      0.00       500.00
+                                                prístroje
+                             633006     111     Ochr. pred. pož. - materiál z dot.            0.00      996.30     1 000.00     1 000.00     1 000.00     996.30        0.00
+                             633006     41      Ochr. pred. pož. - všeobecný materiál       500.00      500.00       500.00       500.00       500.00     401.11       98.89
+                             633010     111     HS - prac. odevy, obuv a prac. pom .          0.00    1 605.99         0.00         0.00         0.00   1 605.99        0.00
+                             634001     41      PZ - palivo, maz.ol.                        200.00      200.00       200.00       200.00       200.00       0.00      200.00
+                             634002     111     HS -servis, údržba, opr. a výd. IVECO         0.00        0.00         0.00         0.00         0.00       0.00        0.00
+                             635004     41      PZ - oprava a rev. hasp.prístr.             600.00      600.00       300.00       300.00       300.00     294.00      306.00
+                             635006     41      PZ - budov, objektov alebo ich častí        300.00      300.00       300.00       300.00       300.00       0.00      300.00
+                             637001     111     PZ - školenia, kurzy, semináre                0.00        0.00         0.00         0.00         0.00       0.00        0.00
+                             637004     41      PZ - všeob. služby                            0.00       50.00         0.00         0.00         0.00      50.00        0.00
+                             637005     41      Ochr. pred pož. - špeciálne služby          300.00      250.00       300.00       300.00       300.00       0.00      250.00
+             *03.2.0                            Ochrana pred požiarmi                     5 500.00    5 602.29     5 300.00     5 300.00     5 300.00   3 834.52    1 767.77
+             04.5.1                             Cestná doprava
+Vytlačené 27.11.2026 maria.krajnakova                                                                                                                              31-199211110
+Obec Bôrka                              Čerpanie finančného rozpočtu 2026 a návrh finančného rozpočtu na roky 2027, 2028, 2029                                    Strana 7
+Obecný úrad
+
+Druh         Funč.kl.        Ekon.kl.   Zdroj   Názov                                  Schválený    Upravený   Návrh 2027   Návrh 2028   Návrh 2029    Čerpanie       Rozdiel
+                             633006     41      Miestne komun. - všeobecný materiál     1 000.00    1 000.00     1 000.00     1 000.00     1 000.00     409.78       590.22
+                             635006     41      MK - údržba objektov alebo ich častí    1 000.00    1 000.00     1 000.00     1 000.00     1 000.00       0.00     1 000.00
+             *04.5.1                            Cestná doprava                          2 000.00    2 000.00     2 000.00     2 000.00     2 000.00     409.78     1 590.22
+             05.1.0                             Nakladanie s odpadmi
+                             633006     41      Odpad.hosp. - všeobecný materiál          500.00      500.00      500.00       500.00       500.00         0.00      500.00
+                             637004     111     ŽP - EF všeobecné služby                    0.00        0.00        0.00         0.00         0.00         0.00        0.00
+                             637004     41      Nakl. s odpadmi - všeobecné služby     20 000.00   20 000.00   20 000.00    20 000.00    20 000.00    17 062.96    2 937.04
+             *05.1.0                            Nakladanie s odpadmi                   20 500.00   20 500.00   20 500.00    20 500.00    20 500.00    17 062.96    3 437.04
+             05.2.0                             Nakladanie s odpadovými vodami
+                             637005     41      Nakl.s odpad.vod. -špec.služ.               0.00        0.00         0.00         0.00         0.00        0.00         0.00
+             *05.2.0                            Nakladanie s odpadovými vodami              0.00        0.00         0.00         0.00         0.00        0.00         0.00
+             06.2.0                             Rozvoj obcí
+                             611        111     Rozvoj obce - tarifný plat NP ŠR            0.00        0.00        0.00         0.00         0.00         0.00        0.00
+                             611        111     Rozvoj obce - poistné prac.NP ŠR            0.00        0.00        0.00         0.00         0.00         0.00        0.00
+                             611        3BB1    Rozvoj obce - zákl.plat NP MZ ESF           0.00    2 865.80        0.00         0.00         0.00     2 865.80        0.00
+                             611        3BB2    Rozvoj obce - zákl.plat NP MZ ŠR            0.00      507.82        0.00         0.00         0.00       507.82        0.00
+                             611        41      Rozvoj obce - tarif.plat vl. vklad     14 500.00   11 750.00   35 000.00    35 000.00    35 000.00     7 997.88    3 752.12
+                             612002     3BB1    MZ - výkon činn. mentora ESF                0.00      899.58        0.00         0.00         0.00       899.58        0.00
+                             612002     3BB2    MZ - výkon činn. ment.ŠR                    0.00      158.79        0.00         0.00         0.00       158.79        0.00
+                             614        111     Rozvoj obce - odmeny zo ŠR                  0.00        0.00        0.00         0.00         0.00         0.00        0.00
+                 

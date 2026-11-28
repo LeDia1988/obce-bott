@@ -1,0 +1,264 @@
+URL: https://www.stakcin.eu/wp-content/uploads/2026/11/Schvaleny-rozpocet-2027-2029-prijmy.pdf
+OBEC: Stakčín (Snina)
+NÁZOV: stiahnuť
+ZDROJ: web obce
+
+Obec Stakčín S/N 1                                                                                   N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený: 20.11.2026                                                                                Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                                 Zvesený:                                                                                       Strana č.   1
+                                   Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                              Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                    2028
+                                                                                                                                                                                       2024
+                                                                                                                                                                                         2029 2024
+                                                                                                                                                                                                 2029 2024
+  41      R          111003                     Prázdne stredisko                                        570 708,65   614 671,40        660 500,-       660 450,-      702 500,-       747 000,-      799 000,-
+  41      R          111003        301      MŠ - originálne                                              288 000,-    150 000,-         172 500,-       168 000,-      172 500,-       178 000,-      183 000,-
+  41      R          111003        CVČ-ZŠ   CVČ,ZAO-žiaci ZŠsMŠ                                            3 000,-      5 000,-           4 000,-         4 000,-        4 000,-
+  41      R          111003        CVČ;ZAO CVČ,záuj.aktivity občanov                                      11 000,-     11 000,-          12 000,-        12 000,-       12 000,-        12 000,-       12 000,-
+                     111003        Výnos dane z príjmov poukázaný územnej s                              872 708,65   780 671,40        849 000,-       844 450,-      891 000,-       937 000,-      994 000,-
+                     111 ***       DAN Z PRÍJMOV FYZICKEJ OSOBY                                          872 708,65   780 671,40        849 000,-       844 450,-      891 000,-       937 000,-      994 000,-
+  41      R          121001        FO       Fyzické osoby                                                  4 768,79     4 914,70          5 000,-          5 000,-       5 000,-         5 000,-         5 000,-
+  41      R          121001        PO       Právnické osoby                                               52 175,47    32 192,61         35 000,-         35 000,-      35 000,-        35 000,-        35 000,-
+                     121001        Daň z pozemkov - PO                                                    56 944,26    37 107,31         40 000,-         40 000,-      40 000,-        40 000,-        40 000,-
+  41      R          121002        FO        Fyzické osoby                                                 8 794,73     9 182,13          9 000,-          9 000,-       9 000,-         9 000,-         9 000,-
+  41      R          121002        PO        Právnické osoby                                               7 212,26    11 941,64         14 000,-         14 000,-      14 000,-        14 000,-        14 000,-
+                     121002        Daň zo stavieb - PO                                                    16 006,99    21 123,77         23 000,-         23 000,-      23 000,-        23 000,-        23 000,-
+  41      R          121003                     Prázdne stredisko                                           399,-           348,12           400,-           400,-         400,-           400,-           400,-
+                     121003        Daň z bytov                                                              399,-           348,12           400,-           400,-         400,-           400,-           400,-
+                     121 ***       DAŇ Z NEHNUTEĽNOSTÍ                                                    73 350,25    58 579,20         63 400,-         63 400,-      63 400,-        63 400,-        63 400,-
+  41      R          133001                     Prázdne stredisko                                          1 215,25     1 206,-            1 100,-         1 100,-       1 100,-         1 100,-         1 100,-
+                     133001        Daň za psa                                                              1 215,25     1 206,-            1 100,-         1 100,-       1 100,-         1 100,-         1 100,-
+  41      R          133006                     Prázdne stredisko                                          1 218,-          673,75           600,-           600,-         600,-           600,-           600,-
+                     133006        Daň za ubytovanie                                                       1 218,-          673,75           600,-           600,-         600,-           600,-           600,-
+  41      R          133012                     Prázdne stredisko                                           155,-            50,-            200,-           200,-         200,-           200,-           200,-
+                     133012        Dan za uzivanie verejneho priestranstva                                  155,-            50,-            200,-           200,-         200,-           200,-           200,-
+  41      R          133013                     Prázdne stredisko                                         35 568,09    50 518,43         55 000,-         55 000,-      55 000,-        55 000,-        55 000,-
+                     133013        Daň za kom.odpady a drob.stav.odpady                                   35 568,09    50 518,43         55 000,-         55 000,-      55 000,-        55 000,-        55 000,-
+                     133 ***       DANE ZA ŠPECIFICKÉ SLUŽBY                                              38 156,34    52 448,18         56 900,-         56 900,-      56 900,-        56 900,-        56 900,-
+  41      R          211003                     Prázdne stredisko                                          1 283,45
+                     211003        Dividendy                                                               1 283,45
+                     211 ***       PRÍJMY Z PODNIKANIA                                                     1 283,45
+  41      R          212002                     Prázdne stredisko                                          1 443,88     1 454,99           1 000,-         1 000,-       1 500,-         1 500,-         1 500,-
+                     212002        Prijmy z prenajatych pozemkov                                           1 443,88     1 454,99           1 000,-         1 000,-       1 500,-         1 500,-         1 500,-
+  41      R          212003                     Prázdne stredisko                                         17 245,02    14 465,02         12 000,-          7 000,-       7 000,-         7 000,-         7 000,-
+  41      R          212003        KD      Prenájom sály KD                                                                                                5 000,-       5 000,-         5 000,-         5 000,-
+  72j     R          212003        RO ZŠ   ZŠsMŠ Stakčín                                                     260,-        160,-             200,-            200,-         700,-           700,-           700,-
+                     212003        Nedaňové príjmy RO ZŠ s MŠ                                             17 505,02    14 625,02         12 200,-         12 200,-      12 700,-        12 700,-        12 700,-
+  41      R          212004                     Prázdne stredisko                                           363,50          363,50           370,-           370,-         370,-           370,-           370,-
+                     212004        Prijmy z prenajatych strojov,pristr.,zar                                 363,50          363,50           370,-           370,-         370,-           370,-           370,-
+                     212 ***       PRÍJMY Z VLASTNÍCTVA                                                   19 312,40    16 443,51         13 570,-         13 570,-      14 570,-        14 570,-        14 570,-
+  41      R          221002                     Prázdne stredisko                                          5 563,-      8 533,-            5 000,-         5 000,-       6 000,-         6 000,-         6 000,-
+Obec Stakčín S/N 1                                                                                   N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený: 20.11.2026                                                                                Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                                 Zvesený:                                                                                      Strana č.   2
+                                   Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                             Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024          2025         Schvávený rozp. Očakávaná skut.   2027 2028 2029
+                                                                                                                                                                                   2028
+                                                                                                                                                                                      2024
+                                                                                                                                                                                        2029 2024
+                                                                                                                                                                                                2029 2024
+                     221002        Správne poplatky                                                        5 563,-      8 533,-            5 000,-         5 000,-      6 000,-         6 000,-         6 000,-
+  41      R          221004                     Prázdne stredisko                                                           194,-
+                     221004        Ostatne poplatky                                                                         194,-
+                     221 ***       ADMINISTRATÍVNE POPLATKY                                                5 563,-      8 727,-            5 000,-         5 000,-      6 000,-         6 000,-         6 000,-
+  41      R          222003                     Prázdne stredisko                                           592,-            71,-
+                     222003        Za porusenie predpisov                                                   592,-            71,-
+                     222 ***       POKUTY, PENÁLE A INÉ SANKCIE                                             592,-            71,-
+  41      R          223001        400     Poplatky za opatrovateľ.službu                                    580,50       228,-              300,-                        300,-           300,-           300,-
+  41      R          223001        CINTOR. Cintorínske služby                                              1 678,-      2 687,-            2 500,-         2 500,-      2 500,-         2 500,-         2 500,-
+  41      R          223001        HROB.M. Nájom za hrobové miesto                                         1 160,-        810,-            2 000,-           500,-      3 000,-         3 000,-         3 000,-
+  41      R          223001        KOMPOST Predaj KOMPOSTÉROV                                                             120,-              230,-           230,-        200,-           200,-           200,-
+  41      R          223001        KOSENIE Kosenie krovinorezom,traktorom                                    723,-        910,-              900,-           900,-        900,-         1 000,-         1 000,-
+  41      R          223001        KUKA    Predaj KUKA nádob                                                 572,-      1 187,68             500,-           500,-        500,-         1 000,-           500,-
+  41      R          223001        PLOŠINA Vysokozdviž.plošina                                             1 701,-      1 155,-            1 500,-           500,-      1 000,-         1 000,-         1 000,-
+  41      R          223001        POŽIČ.  Požičanie                                                         267,10       246,70             400,-           400,-        400,-           400,-           400,-
+  41      R          223001        ROZHLAS Poplatky za miestny rozhlas                                       240,-         66,-              300,-           100,-        200,-           200,-           200,-
+  41      R          223001        TECH.ZD Technika ZD                                                     4 744,-        678,-            3 000,-         1 000,-      1 000,-         1 300,-           900,-
+  41      R          223001        TRAKT.  Traktor-služby, servis                                            740,-        748,-              600,-           600,-        600,-           700,-           600,-
+  41      R          223001        VRECIA  Vrecia na odpad KOSIT                                                          632,-                                           700,-           700,-           700,-
+  71      R          223001                Prázdne stredisko                                              17 908,-     20 919,-          16 000,-         16 000,-     16 000,-        16 000,-        16 000,-
+  72f     R          223001        RO ZŠ   ZŠsMŠ Stakčín                                                  13 810,10    15 576,30         13 100,-         13 100,-     14 100,-        14 100,-        14 100,-
+  72g     R          223001        RO ZŠ   ZŠsMŠ Stakčín                                                     109,75       100,-             100,-            100,-        100,-           100,-           100,-
+  72j     R          223001        RO ZŠ   ZŠsMŠ Stakčín                                                      16,60
+                     223001        Poplatky a platby                                                      44 250,05    46 063,68         41 430,-         36 430,-     41 500,-        42 500,-        41 500,-
+  72g     R          223002        RO ZŠ    ZŠsMŠ Stakčín                                                  5 025,-      4 750,-            5 000,-         5 000,-      6 000,-         6 000,-         6 000,-
+                     223002        Poplatky a platby                                                       5 025,-      4 750,-            5 000,-         5 000,-      6 000,-         6 000,-         6 000,-
+  72f     R          223003        RO ZŠ    ZŠsMŠ Stakčín                                                 18 108,23    19 132,49         19 100,-         19 100,-     18 100,-        18 100,-        18 100,-
+                     223003        Poplatky a platby za stravne                                           18 108,23    19 132,49         19 100,-         19 100,-     18 100,-        18 100,-        18 100,-
+  43      R          223004                     Prázdne stredisko                                           470,-
+                     223004        Poplatky a platby za prebytocny hnutelny                                 470,-
+                     223 ***       POPL.A PLATBY Z NEPRIEMYSEL. A NÁHODNÉHO                               67 853,28    69 946,17         65 530,-         60 530,-     65 600,-        66 600,-        65 600,-
+  41      R          242                        Prázdne stredisko                                           573,54          736,32                           200,-        200,-           200,-           200,-
+                     242           UROKY Z VKLADOV                                                          573,54          736,32                           200,-        200,-           200,-           200,-
+                     242 ***       Z VKLADOV                                                                573,54          736,32                           200,-        200,-           200,-           200,-
+  41      R          292006                     Prázdne stredisko                                                                                          1 340,-
+                     292006        Z náhrad z poistného plnenia                                                                                            1 340,-
+  41      R          292012                     Prázdne stredisko                                          1 148,42     8 120,73
+                     292012        Prijmy z dobropisov                                                     1 148,42     8 120,73
+Obec Stakčín S/N 1                                                                                   N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený: 20.11.2026                                                                                Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                                 Zvesený:                                                                                       Strana č.   3
+                                   Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                              Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024          2025         Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                    2028
+                                                                                                                                                                                       2024
+                                                                                                                                                                                         2029 2024
+                                                                                                                                                                                                 2029 2024
+  111     R          292017        VH           Vojnové hroby                              370                              235,40
+  41      R          292017                     Prázdne stredisko                                            224,24
+  72j     R          292017        RO ZŠ        ZŠsMŠ Stakčín                                                761,92     8 422,40                          11 741,-
+                     292017        Vratky                                                                    986,16     8 657,80                          11 741,-
+                     292 ***       OSTATNÉ PRÍJMY                                                          2 134,58    16 778,53                          13 081,-
+  71      R          311           FEST.    Folklórne slávnosti v obci                     FEST.           4 000,-      3 000,-
+  72c     R          311           RO ZŠ    ZŠsMŠ Stakčín                                                  1 800,-                                         4 300,-
+                     311           Granty-príjmy RO ZŠ s MŠ                                                5 800,-      3 000,-                            4 300,-
+                     311 ***       GRANTY                                                                  5 800,-      3 000,-                            4 300,-
+  111     R          312001        300HN   Dotácia na školské stravovanie                                 52 495,-     50 925,90                          60 500,-
+  111     R          312001        300ODME Dotácia na 800 EUR odmeny                                                    7 613,20
+  111     R          312001        300ŠP   ŽŠ -školské potreby                                               481,40       531,20                             481,-
+  111     R          312001        AČ      Aktivačná činnosť                               116A            4 663,15     4 205,10                           1 650,-
+  111     R          312001        AED     Automat.exter.defibrilátor                      AED                            420,-
+  111     R          312001        BEŽ.VÝD Dotácia z MF na bež.výdavky                     100            16 433,-
+  111     R          312001        EU-PAR. Voľby do Europarlamentu                         270             3 171,38
+  111     R          312001        ODMENY Dotácia na 800 EUR odmeny                        800                         19 058,22
+  111     R          312001        OSO-PRI Osobitný príjemca                               306               540,-        540,-                            2 000,-
+  111     R          312001        OVH     Oprava vojnových hrobov                         371            10 000,-
+  111     R          312001        REFEREN Referendum                                      291                                                             1 938,-
+  111     R          312001        VH      Vojnové hroby                                   370            31 032,-     33 768,-          35 000,-         37 865,-      41 000,-        43 000,-        45 000,-
+  111     R          312001        VOL-PR  Voľby prezidenta SR                             260             4 391,-
+  11UA    R          312001        UTEČ.UA Utečenci z UA                                   UTEČ.UA        25 316,-     13 580,-                            2 430,-
+  1AJ4    R          312001        ZEL.PLU "Pakt Zelené pľúca"                             ZEL.PLU                                                           559,-
+  1P01    R          312001        MZRK    MÚZEUM RUSÍNSKEJ KULTÚRY                        MZRK            9 000,-
+  3P01    R          312001        MZRK    MÚZEUM RUSÍNSKEJ KULTÚRY                        MZRK                        69 142,27                          3 259,-
+                     312001        Dotácia na rekonštr.Kaštieľa-MZRK                                     157 522,93   199 783,89         35 000,-       110 682,-       41 000,-        43 000,-        45 000,-
+  45      R          312002        EF           Dotácia z Envirofondu                      EF              3 945,95                                        3 777,-
+  45      R          312002        NÁDRŽE       Ekolog.zavlaž.ihriska                      NÁDRŽE          7 722,-
+                     312002        Dotácia z EF na ekolog.zavlažov.ihriska                                11 667,95                                        3 777,-
+  11H     R          312008        IHRISKO Detské ihrisko parinok                          IHRISKO                      2 000,-
+                     312008        Dotácia z PSK na revital.ihriska Parinok                                             2 000,-
+  11H     R          312011        FEST.     Folklórne slávnosti v obci                    FEST.                                                           3 000,-
+                     312011        Dotácia z FNPKNM na SFĽU                                                                                                3 000,-
+  111     R          312012        200          Matrika                                    200             6 706,86     7 085,74           7 400,-        7 200,-        7 200,-         7 200,-         7 200,-
+  111     R          312012        300ASIS      Asistent učiteľa ZŠ                                       39 956,-     49 868,-                          51 026,-
+  111     R          312012        300DOP       ZŠ - dopravné                                              2 253,-      2 173,-                           1 680,-
+  111     R          312012        300LYŽ.      ZŠ - Lyžiarsky kurz                                        2 032,-                                        2 550,-
+  111     R          312012        300M         ZŠ - mzdy                                                660 737,-    657 621,-         695 000,-       729 380,-      695 000,-       702 700,-      711 800,-
+  111     R          312012        300MSZP      MŠ - znevyh.prostredie                                                    450,-                             450,-
+Obec Stakčín S/N 1                                                                                   N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený: 20.11.2026                                                                                Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                                 Zvesený:                                                                                         Strana č.   4
+                                   Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                                Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024            2025       Schvávený rozp. Očakávaná skut.     2027 2028 2029
+                                                                                                                                                                                     2028
+                                                                                                                                                                                        2024
+                                                                                                                                                                                          2029 2024
+                                                                                                                                                                                                  2029 2024
+  111     R          312012        300MŠ   MŠ - prenesený výkon                                           13 471,-       1 950,-                            2 250,-
+  111     R          312012        300MVŽ Mimoriad.výsled.žiak.                                              200,-         300,-
+  111     R          312012        300NMŠ MŠ - prenesený výkon                                                         148 230,-        159 000,-        161 067,-      159 000,-        161 300,-      164 200,-
+  111     R          312012        300ODCH ZŠ - odchodné                                                   9 768,-                                         1 847,-
+  111     R          312012        300ODME Dotácia na 800 EUR odmeny                                                    29 987,-
+  111     R          312012        300PV   ZŠ - Pomocný vychovávateľ                                                                                      15 276,-
+  111     R          312012        300SZP  ZŠ - znevyh.prostredie                                          1 850,-       1 750,-                           2 925,-
+  111     R          312012        300ŠPEC Špecifiká                                                                     2 500,-
+  111     R          312012        300ŠPT  Podpor.opatr."ŠPT"                                              5 186,-      17 440,-                          22 437,-
+  111     R          312012        300ŠVP  ZŠ - Škola v prírode                                                          2 400,-
+  111     R          312012        300UČEB ZŠ - učebnice                                                   4 155,-       3 972,-                            2 541,-
+  111     R          312012        300VP   ZŠ - vzdelávacie poukazy                                        4 915,-       4 576,-                            4 672,-
+  111     R          312012        MK      Dotácia na dopravu                              250               101,61        101,52            100,-
+  111     R          312012        REGA    Register adries                                 REGA               30,80         40,40             30,-             20,-           20,-            20,-            20,-
+  111     R          312012        REGO    Register obyvateľstva                           REGO              776,16        775,50            770,-            776,-          780,-           780,-           780,-
+  111     R          312012        ÚPÚPV   Úrad pre územ.plán.a výstavbu                   ÚPÚPV                         3 851,83
+  111     R          312012        ŽP      Odmeny-životné prostredie                       240               284,65        307,16            300,-            332,-          330,-           330,-           330,-
+  1BB1    R          312012        POP3    NP POP3-NIVAM                                                   8 897,18
+  1BB2    R          312012        POP3    NP POP3-NIVAM                                                   1 070,31
+  3BB1    R          312012        POP3    NP POP3-NIVAM                                                   3 470,32
+  3BB2    R          312012        POP3    NP POP3-NIVAM                                                   1 112,19
+                     312012        Dotácia na školstvo-NP POP3-NIVAM-ŠR                                  766 973,08    935 379,15       862 600,-       1 006 429,-     862 330,-        872 330,-      884 330,-
+                     312 ***       TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                     936 163,96   1 137 163,04      897 600,-       1 123 888,-     903 330,-        915 330,-      929 330,-
+  72j     R          315           DHZ       Dotácia pre DHZ                               DHZ             3 000,-       2 998,80          3 000,-          3 000,-        3 000,-         3 000,-         3 000,-
+                     315           Dotácia z DPO SR                                                        3 000,-       2 998,80          3 000,-          3 000,-        3 000,-         3 000,-         3 000,-
+                     315 ***       TRANSF.OD SUBJEKT. NEZARAD.VO VER.SPRÁVE                                3 000,-       2 998,80          3 000,-          3 000,-        3 000,-         3 000,-         3 000,-
+  1AJ3    R          331001        ZEL.PLU "Pakt Zelené pľúca"                             ZEL.PLU                                                          3 726,-
+                     331001        Projekt "Pakt pre zelené pľúca"-z EÚ                                                                                     3 726,-
+                     331 ***       BEŽNÉ                                                                                                                    3 726,-
+
+                                   1 Časť I. Bežný rozpočet                                            2 026 491,45   2 147 563,15    1 954 000,-       2 192 045,-    2 004 000,-     2 063 000,-     2 133 000,-
+  43      R          233001                     Prázdne stredisko                                          2 571,72       1 647,26         2 000,-          2 000,-        2 000,-         2 000,-         2 000,-
+                     233001        Predaj pozemkov                                                         2 571,72       1 647,26         2 000,-          2 000,-        2 000,-         2 000,-         2 000,-
+                     233 ***       PRÍJEM Z PREDAJA POZEMKOV A NEHMOTNÝCH A                                2 571,72       1 647,26         2 000,-          2 000,-        2 000,-         2 000,-         2 000,-
+  111     R          322001        FOTOVOL Zabezp.fotovoltiky na OD                        FOTOVOL                                                        17 000,-
+  111     R          322001        IHRISKO Detské ihrisko parinok                          IHRISKO                                                        50 000,-
+  111     R          322001        MŠ      Rekonštrukcia MŠ                                911            21 330,80
+  111     R          322001        OLYMP   Obnova športovis.-viacúčel.ihr                  OLYMP                                                          62 956,-
+  1BA1    R          322001        ZPV     Zlepšenie podmien.vzdeláv.ZŠ                    ZPV                        1 055 945,76                        48 773,-
+  1BA2    R          322001        ZPV     Zlepšenie podmien.vzdeláv.ZŠ                    ZPV                          186 343,36                         8 607,-
+Obec Stakčín S/N 1                                                                                      N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený: 20.11.2026                                                                                   Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                                    Zvesený:                                                                                       Strana č.   5
+                                   Príjmy podľa ekonomickej klasifikácie                                      Skutočné plnenie                      2026                              Návrh rozpočtu
+
+  Zdroj   T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka           2024            2025       Schvávený rozp. Očakávaná skut.    2027 2028 2029
+                                                                                                                                                                                       2028
+                                                                                                                                                                                          2024
+                                                                                                                                                                                            2029 2024
+                                                                                                                                                                                                    2029 2024
+  1P01    R          322001        MZRK     MÚZEUM RUSÍNSKEJ KULTÚRY                       MZRK             500 000,-
+  1P02    R          322001        MZRK     MÚZEUM RUSÍNSKEJ KULTÚRY                       MZRK              99 991,51                                      87 042,-
+  3P01    R          322001        MZRK     MÚZEUM RUSÍNSKEJ KULTÚRY                       MZRK                            896 235,07                      124 804,-
+  3P02    R          322001        MZRK     MÚZEUM RUSÍNSKEJ KULTÚRY                       MZRK                             99 247,01
+                     322001        Dotácia na rekonštr.Kaštieľa-MZRK                                        621 322,31   2 237 771,20                      399 182,-
+  45      R          322002        OSVETLE Rekonštrukcia verej.osvetlenia                  OSVETLENIE        69 999,30
+                     322002        Dotácia z EF na rekonšt.verej.osvelenia                                   69 999,30
+  11H     R          322008        KULT.DO Modernizácia KD                                 KULT.DO                                                            7 000,-
+  1AJ1    R          322008        ENI       Projekt "ENI"-Karpat.mobility                 ENI                6 788,48
+                     322008        Dotácia z PSK-projekt "ENI" Karpat.mobil                                   6 788,48                                        7 000,-
+                     322 ***       TRANSFERY V RÁMCI VEREJNEJ SPRÁVY                                        698 110,09   2 237 771,20                      406 182,-
+
+                                   2 Časť I. Kapitálový rozpočet                                            700 681,81   2 239 418,46         2 000,-      408 182,-        2 000,-         2 000,-         2 000,-
+  111     R          453           MŠ       Rekonštrukcia MŠ                               911                             11 868,80
+  131N    R          453           300DOP ZŠ - dopravné                                                         209,06
+  131N    R          453           300M     ZŠ - mzdy                                                         9 233,-
+  131O    R          453           300DOP ZŠ - dopravné                                                                       154,86
+  131O    R          453           300M     ZŠ - mzdy                                                                      12 111,-
+  131P    R          453           300DOP ZŠ - dopravné                                                                                                         138,-
+  131P    R          453           300M     ZŠ - mzdy                                                                                                        19 400,-
+  1P01    R          453           MZRK     MÚZEUM RUSÍNSKEJ KULTÚRY                       MZRK               9 764,98
+  3P01    R          453           MZRK     MÚZEUM RUSÍNSKEJ KULTÚRY                       MZRK                             4 244,45                       214 825,-
+  45      R          453           NÁDRŽE Ekolog.zavlaž.ihriska                            NÁDRŽE                           7 722,-
+  45      R          453           OSVETLE Rekonštrukcia verej.osvetlenia                  OSVETLENIE        79 287,-      69 999,30
+  72f     R          453           RO ZŠ    ZŠsMŠ Stakčín                                                     2 658,07      1 157,33                         1 450,-
+                     453           Nevyčerp.prostriedky-potraviny ŠJ                                        101 152,11    107 257,74                       235 813,-
+                     453 ***       PROSTRIEDKY Z PREDCHÁDZAJÚCICH ROKOV                                     101 152,11    107 257,74                       235 813,-
+  46      R          454001                Prázdne stredisko                                                               26 716,12        44 000,-                       66 000,-
+  46      R          454001        CENTRUM Rekonštruk.centra obce                                                                          100 000,-                       50 000,-
+  46      R          454001        CESTY   Miestne komunikácie                                                                              30 000,-                       50 000,-
+  46      R          454001        MZRK    MÚZEUM RUSÍNSKEJ KULTÚRY                                                        54 996,75       160 000,-
+  46      R          454001        PD      Proj.dokum - pre VO                                                                              20 000,-                       28 000,-
+  46      R          454001        ZPV     Zlepšenie podmien.vzdeláv.ZŠ                                                                     40 000,-
+                     454001        Rekonštruk.ŠJ-proj.Zlepš.podmien.vzdel.                                                 81 712,87       394 000,-                      194 000,-
+                     454 ***       PREVOD PROSTRIEDKOV Z PEŇAŽNÝCH FONDOV                                                  81 712,87       394 000,-                      194 000,-
+  71      R          456002        FZ-VO      Finanč.zábezp.-VO                                              35 000,-
+                     456002        Prijaté finančné zábezpeky-proces VO                                      35 000,-
+                     456 ***       INÉ PRÍJMOVÉ FINANČNÉ OPERÁCIE                                            35 000,-
+
+                                   3 Časť II. Finančné operácie                                             136 152,11    188 970,61       394 000,-       235 813,-      194 000,-
+Obec Stakčín S/N 1                                                                                     N á v r h r o z p o č t u - podrobný výpis                   PRÍJMY
+Schválený: 20.11.2026                                                                                  Vyvesený: 23.11.2026
+Účínnosť: 01.01.2027                                                                                   Zvesený:                                                                                         Strana č.   6
+                                     Príjmy podľa ekonomickej klasifikácie                                   Skutočné plnenie                      2026                                Návrh rozpočtu
+
+  Zdroj     T Položka / podpoložka    Stredisko   Stredisko/Popis ekonomickej klasifikácie   Zákazka        2024            2025       Schvávený rozp. Očakávaná skut.     2027 2028 2029
+                                                                                                                                                                                       2028
+                                                                                                                                                                                          2024
+                                                                                                                                                                                            2029 2024
+                                                                                                                                                                                                    2029 2024
+
+                                     CELKOM P R Í J M Y                                                  2 863 325,37   4 575 952,22    2 350 000,-       2 836 040,-    2 200 000,-     2 065 000,-     2 135 000,-
+© IFOsoft
+

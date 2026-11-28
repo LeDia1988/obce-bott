@@ -1,0 +1,295 @@
+URL: https://zdiar.sk/download-attachment/14425
+OBEC: Ždiar (Poprad)
+NÁZOV: Návrh rozpočtu na rok 2027 a výhľadovo na rok 2028, 2029
+ZDROJ: web obce
+
+Návrh Rozpočet - Obec Ždiar, ZŠ s MŠ Ždiar na rok 2027 a výhľadovo na roky 2028, 2029
+
+
+Bežné príjmy v €:
+Kód Položka                               Schválený   Rok 2026        Očakávana      Rok 2027      Rok 2028      Rok 2029
+                                          rozpočet na schválený       skutočnosť
+                                          rok 2025                    2026
+41    111003 – podielové dane                 470 000        500 000        550 000        550 000       550 000       550 000
+41    121     - daň z nehnuteľnosti           105 000        125 000        125 000        125 000       125 000       125 000
+41    133001 – daň za psa                       2 000           2 800          2 800         2 500         2 500         2 500
+41    133006 – daň za ubytovanie               95 000        100 000        100 000        150 000       150 000       150 000
+41    133013 – odvoz TKO                       50 000          50 000         50 000        67 000        67 000        67 000
+41    133015 – za rozvoj                            -               -              -        50 000        50 000        50 000
+41    211003 – dividendy                          569             570            570           580           580           580
+41    212002 – za prenájom pozemku                240             280            280           280           280           280
+41    212003 – za prenájmy budov               37 000          37 000         37 000        37 000        37 000        37 000
+41    223001 – za služby vod., konvy           10 000         25 000         25 000         20 000        20 000        20 000
+41    221002 – správne poplatky                 5 000           5 000          5 000         3 000         3 000         3 000
+41    222003 – za porušenie predp.                  -               -              -             0             0             0
+41    229005 - zneč. ovzdušia                       -               -              -             0             0             0
+      242     - úroky banka                       600             700            700           600           600           600
+41    292012 – príjmy dobropisov                    -               -              -             0             0             0
+41    292027 – príjmy ÚZ. P                         0               0              0        10 000        10 000        10 000
+72c   312001 – od sub. VS                           -               -              -             0             0             0
+41    311 – granty                                100             100            100           100           100           100
+111   312001 – dotácia matrika dotácia           5700            4600           4600          7500          7500          7500
+      reg. obyv.
+      - dotácia stav. úrad ŽP                      0           1100           1100           1500          1500           1500
+111   312001 – dotácie Ukrajina, Zb.dv.            0              0              0              0             0              0
+111   312001 – strava ÚP                      40 000         42 500         42 500         46 000        46 000         46 000
+       Spolu obec:                           821 209        894 650        894 650      1 071 060     1 071 060      1 071 060
+       Finančné operácie
+46     454001- prevod RF                      0           0           0            0            0            0
+71     46002 – fin. zábezpeky                 0           0           0            0            0            0
+1BA    717002 Cyklotrasa dotácia              0           0           0    1 243 324    1 243 324    1 243 324
+111    300 Projekty                           0           0           0    1 170 000    1 170 000    1 170 000
+       Spolu za obec                  1 157 860     894 650     894 650    3 493 384    3 493 384    3 493 384
+131,   FP z min. roka ZŠ                 26 585      20 000      48 077       30 070       18 055       18 055
+72
+72     ZŠ, MŠ & ŠKD vlastné zdroje      21 605       22 327      26 674      32 716       32 050       32 050
+72     FP ZŠ s MŠ réžia ŠJ              45 972        5 000      68 978      72 000       69 000       66 000
+111    Dotácia ZŠ                      495 000      586 535     546 867     551 000      558 000      558 000
+111    Dotácia MŠ                            0      172 191     212 816     203 750      204 500      205 250
+       SPOLU:                        1 747 022    1 700 703   1 798 062   4 382 920    4 374 989    4 372 739
+Bežné výdaje za obec Ždiar v €:
+Klasifikácia          Položky                      Schválený   Rok         Očakáva Rok        Rok      Rok
+                                                   rozpočet na 2026        na        2027     2028     2029
+                                                   rok 2025    schválen    skutočn
+                                                               ý           osť 2026
+Správa obce - 0111    610 - mzdové náklady             150 000 242 000      242 000 198 000 198 000 198 000
+kód 41                620 - poistné                     53 000   90 000      90 000    81 000   81 000   81 000
+                      631 - cestovné náhrady                40       200         200      600      600      600
+                      632 - energie,pošt.sl.            32 600    32 600      32 600   37 000   37 000   37 000
+                      633 – materiál, repr. fond        73 000    50 000      50 000   65 000   65 000   65 000
+                      634 – poh. hm., oprava,pois.      17 000    17 000      17 000   15 000   15 000   15 000
+                      635 – údržba budov                     0     5 000       5 000    3 000    3 000    3 000
+                      637,642 - služby                 100 000 100 000      100 000 100 000 100 000 100 000
+111                   610 – mzdové náklady                2500      2750        2750     2900     2900     2900
+72 c                  637 – služby                        2500         0           0        0        0        0
+11UA                  642 – príspevok jednot. Ukr.        2350         0           0        0        0        0
+111                   637018-vrát. pr. – voľby             450         0           0        0        0        0
+
+                      Spolu                          433 440 539 550 539 550 502 500 502 500 502 500
+Voľby -0160           610-637                          2436        0       0       0       0       0
+                      Spolu                            2436        0       0       0       0       0
+Kontrolór - 0112      610 - mzdové náklady               4920      6000       6000      6200     6200      6200
+                      620 - poistné                      1720      2000       2000      2200     2200      2200
+                      637 – školenia                        0                              0        0         0
+                      637 – audit. služby                1920      2500       2500      3500     3500      3500
+                      637 – poplatky banke               2720      1000       1000      1200     1200      1200
+
+                      Spolu                           11 280    11 500      11 500   13 100    13 100   13 100
+Matrika – 0133        610 – mzdové náklady               2400      1200       1200      1500     1500      1500
+kód 111
+                     633 – materiál, ošatné         100         0        0        0        0        0
+                     637 – školenia                   0       200      200      400      400      400
+
+                     Spolu                        2 500     1 400    1 400    1 900    1 900    1 900
+Civilná ochrana -    637 – služby                   207       260      260      300      300      300
+0220
+                     Spolu                          207      260      260      300      300      300
+Požiarna ochrana -   632 – energie                 7240      5000     5000     6000     6000     6000
+0320
+kód 41               633 – materiál                 300       300      300      320      320      320
+                     634 – poh. hmoty a poist.      960      1500     1500     2500     2500     1500
+                     635 – údržba, poist           1380      1500     1500     1500     1500     1500
+                     637 – služby                    50      1000     1000     1200     1200     1200
+111                  633 – materiál                3000      3000     3000     2500     2500     2500
+                     637 – služby                     0         0        0        0        0        0
+
+                     Spolu                       12 930    12 300   12 300   14120    14 120   14120
+Údržba miest. Kom.   633 – materiál                2000      3000     3000     6000     6000     6000
+0451-41
+                     637 – údržba, ZÚ,oprava       16794    35000    35000    20000    20000    20000
+                     637 – údržba mim. sit.       61 000        0        0        0        0        0
+
+                     Spolu                       79 794    38 000   38 000   26 000   26 000   26 000
+Odvoz TKO - 0510     633 – materiál                5100         0        0        0        0        0
+                     637 – služby                 38000    50 000   50 000   67 000   67 000   67 000
+
+                     Spolu                        43 100   50 000   50 000   67 000   67 000   67 000
+ĆOV - 0520           610 – mzdové náklady        19 0000    6 000     6000     8000     8000     8000
+                     620 – poistné                  6400     2200     2200     2800     2800     2800
+                     633 – materiál                 2600      200      200     1000     1000     1000
+                         637,642 - služby                 800        0         0      1000     1000     1000
+                         Spolu
+                                                       28 800    8400      8400     12 800   12 800   12 800
+VPP - 0620               610 – mzdové náklady          28 000    15000     15000    30 000   30 000   30 000
+                         620 – poistné                 10 000     4 000     4 000   12 000   12 000   12 000
+                         633 – materiál                   613         0         0      500      500       50
+
+                         Spolu                         38 613   19 000    19 000    42 500   42 500   42 500
+Ver. osvetlenie - 0640   632 – energie                 13 000   10 000    10 000    15 000   15 000   15 000
+                         633 – materiál                   316      500       500       500      500      500
+                         Spolu                         13 316   10 500    10 500    15 500   15 500   15 500
+Byt. hosp. - 0660        632 – energie                 18 000   15 000    15 000    18 000   18 000   18 000
+                         633,637 – materiál,             1500     1500      1500      3000     3000     3000
+                         revízie,údr.
+
+                         Spolu                         19 500   16 500    16 500    21 000   21 000   21 000
+Knižnica - 08205         633 – materiál                     0        0         0         0        0        0
+                         637 – služby, odvody             360      750       750       800      800      800
+
+                         Spolu                           360      750       750       800      800      800
+Mies.rozhlas - 0830      633 -635 – materiál, údržba        0      100       100     5 000     5000    5 000
+
+                         Spolu                             0      100       100      5 000    5 000    5 000
+Transféry ZMOS,          642 – bežné transféry           5000     4500      4500      5500     5500     5500
+RZ -0840
+                         Spolu                          5000     4500      4500      5500     5500     5500
+Školenia - 0950          637 – služby                     700     1500      1500      2500     2500     2500
+                         Spolu                           700     1500      1500      2500     2500     2500
+Sociálne služby -        637 – služby                       0     1000      1000      1000     1000     1000
+10202
+                         Spolu                                 0   1000    1000    1 000   1 000   1 000
+                         Spolu za obec                   689 540 715 260 715 260 731 520 731 520 731 520
+
+Finančné operácie
+Fin. operácie – 71       819002-zábezbeka-vrátenie            0        35405           0          0           0     35 405
+                         Spolu za obec                        0        35405           0          0           0    35 405
+35405
+
+
+
+Kapitálové výdaje v €:
+
+                                               Schválený Rok 2026 Očakávana Rok 2027   Rok 2028   Rok 2029
+                                               rozpočet           skutočnosť
+                                               rok 2025           2026
+Správa obce –        714,717, 718 –prestavby            0       0           0        0          0                            0
+1BC1                 Rekonš. -zberný dvor
+1BA                  717002 Cyklotrasa                    0        0           0     1 243 324    1 243 324        1 243 324
+                     dotácia
+111                  300 Projekty                         0        0            0    1 170 000    1 170 000        1 170 000
+41                   717 – rekonštr.                 30 000   18 000       18 000       25 000       25 000           25 000
+Spolu                                                30 000   18 000      18 000    2 438 324    2 438 324        2 438 324
+Za obec
+Výdaje                               Rok 2025        Rok 2026     Očak.     Rok 2027 Rok 2028 Rok 2029
+                                     rozpočet                     Skutoč.
+                                                                  2026
+Bežné                                      689 540      715 260     715 260   731 520   731 520    731 520
+Kapitálové                                  30 000       18 000      18 000 2 438 324 2 438 324  2 438 324
+Fin. operácie – vrátenie zabezpeky               0       35 405           0         0         0     35 405
+                                           719 540      768 665     733 260 3 169 844 3 169 844  3 205 249
+Školstvo Základná škola s materskou školou Ždiar
+Bežné výdavky - Základná škola
+
+
+Prenesené kompetencie
+
+Kód zdroja   09211 Základná škola        Schválený    Rok       Očakávaná    Rok 2027   Rok 2028    Rok 2029
+                                          rozpočet    2026      skutočnosť
+                                           na rok                  2026
+                                            2025
+111          610 – mzdové náklady           268 914   317 000      309 022    320 000     325 000      325 000
+111          620- poistné                    99 364   120 250      114 183    119 000     121 000      121 000
+111          630–energie,tovary,služby       61 029    61 000       48 790     50 000      50 000       50 000
+111          640–bežné transféry              1 651     2 500        1 258      1 250       1 250        1 250
+131          630–energie,tovary,služby                              36 371     15 000      10 000       10 000
+Spolu                                     430 958 500 750         509 624    505 250     507 250      507 250
+
+
+
+             09111 Materská škola        Schválený    Rok       Očakávaná    Rok 2027   Rok 2028    Rok 2029
+                                          rozpočet    2026      skutočnosť
+                                           na rok                  2026
+                                            2025
+111          610 – mzdové náklady            90 135    97 000      113 084    112 000     112 500     113 000
+111          620 – poistné                   33 305    37 750       42 898     41 500      41 750      42 000
+111          630 – energie,tovary,služ       25 957    26 000       27 863     28 000      28 000      28 000
+111          640 – bežné transféry              500     3 050        2 932        500         500         500
+131          630–energie,tovary,služby                               9 648     15 000       8 000       8 000
+Spolu                                     149 897 163 800         196 425    197 000    190 750      191 500
+Podporné opatrenia
+
+
+Kód zdroja     09211 Základná škola        Schválený Rok 2026   Očakávaná     Rok 2027   Rok 2028   Rok 2029
+                                            rozpočet            skutočnosť
+                                             na rok                2026
+                                              2025
+111            610 – mzdové náklady            50 640    52 816      36 835     37 000     37 000      37 000
+111            620 – poistné                   18 535    18 746      13 609     13 750     13 750      13 750
+111            630 – energie,tovary,služ        7 972     3 216      10 230     10 000     10 000      10 000
+111            640 – bežné transféry                0         0           0          0          0           0
+131            630–energie,tovary,služby                      0         997         70         55          55
+Spolu                                        77 147     74 778      61 671      60 820     60 805     60 805
+
+
+
+               09111 Materská škola        Schválený Rok 2026   Očakávaná     Rok 2027   Rok 2028   Rok 2029
+                                            rozpočet            skutočnosť
+                                             na rok                2026
+                                              2025
+111            610 – mzdové náklady             2 226     4 451      17 418     14 450     14 450      14 450
+111            620 – poistné                      822     1 689       6 485      5 300      5 300       5 300
+111            630 – energie,tovary,služ        2 250     2 250       2 136      2 000      2 000       2 000
+111            640 – bežné transféry                0         0       1 061          0          0           0
+131            630–energie,tovary,služby
+Spolu                                         5 298       8 390     27 100      21 750     21 750     21 750
+Kód zdroja       09211 Projekt POP3-            Schválený      Rok       Očakávaná      Rok 2027       Rok 2028       Rok 2029
+                 ŠR,EU                           rozpočet      2026      skutočnosť
+                                                  na rok                    2026
+                                                   2025
+                 610 – mzdové náklady                7 512      7 980          9 448              -              -               -
+                 620 – poistné                       2 776      3 028          3 492
+                 630 – energie,tovary,služ
+Spolu:                                             10 288     11 008         12 940               -              -               -
+
+
+Originálne kompetencie
+
+Kód zdroja       0950 Školský klub             Schválený     Rok 2026    Očakávaná      Rok 2027       Rok 2028       Rok 2029
+                                              rozpočet na                skutočnosť
+                                                rok 2025                    2026
+41               610 – mzdové náklady               16 839      19 500        19 500       21 000         21 000         21 000
+41               620 – poistné                       6 233       7 250         7 250        7 760          7 760          7 760
+41               630- tovary,služby                    740         800           800          800            800            800
+41               640-bežné transféry                   250         250           250          250            250            250
+Spolu                                             24 062       27 800        27 800       29 810         29 810         29 810
+
+
+Kód zdroja       09603 Školská jedáleň          Schválený Rok      Očakávaná           Rok 2027       Rok 2028       Rok 2029
+                                                 rozpočet 2026     skutočnosť
+                                                  na rok              2026
+                                                   2025
+41               610 – mzdové náklady               67 404  67 500      67 500           67 500         67 500          67 500
+41               620 – poistné                      26 509  25 500      25 500           25 500         25 500          25 500
+41               630 – energie,tovary,služ.         14 281  15 500      15 500           10 000         10 000          10 000
+41               640 – bežné transféry               6 794     200         200              200            200             200
+Spolu:                                            114 988 108 700         108 700      103 200        103 200         103 200
+Školská jedáleň/Materská škola/ŠKD vlastné a cudzie zdroje 72 g,j,f
+                                             Schválený Rok          Očakávaná     Rok 2027   Rok 2028     Rok 2029
+                                            rozpočet na 2026        skutočnosť
+                                              rok 2025                 2026
+Základná škola 610 – mzdové náklady                           6 850       2 500      3 000       3 000        3 000
+                 620 – poistné                                1 977       1 108      1 100       1 100        1 100
+                 630 – energie,tovary,služ.        2 590      3 500       3 454      5 000       5 000        5 000
+Školská jedáleň 610 – mzdové náklady                          1 500       4 000      7 400       7 400        7 400
+                 620 – poistné                                  500       1 380      2 500       2 500        2 500
+                 630 – energie,tovary,služ.        9 500      5 000      18 598     20 100      20 100       20 100
+                 630 – tovary (potraviny)
+          ÚPSaV 630 – tovary (potraviny)          33 498     42 500      47 393     45 000      45 500       45 500
+Materská škola 630 – energie,tovary,služ.          4 650      4 500       2 000      6 066       5 400        5 400
+ŠKD              630 – energie,tovary,služ.        2 640      3 500       3 446      4 050       4 050        4 050
+Spolu:                                          52 878    69 827       83 879       94 216     94 050       94 050
+
+Rekapitulácia výdaje školstvo
+ Kompetencie                  Schválený           Rok 2026         Očakávaná         Rok 2027       Rok 2028          Rok 2029
+                           rozpočet na rok                         skutočnosť
+                                2025                                  2026
+ Prenesené                          580 855            664 550          706 049         702 250          698 000        698 750
+ Podporné opatrenia                  92 733             94 177          101 711          82 570           82 555         82 555
+ Originálne                         139 050            136 500          136 500         133 010          133 010        133 010
+ Spolu:                             812 637          895 227            944 260        917 830           913 565       914 315
+Celková rekapitulácia rozpočtu obec, RO
+
+             Rok 2025          Rok 2026         Očak. skutoč.    Rok 2027         Rok 2028         Rok 2029
+             schválený                          2026
+             rozpočet
+Príjmy           1 747 022        1 700 703         1 798 062       4 382 920        4 374 989        4 372 739
+Výdaje             1 532 177        1 663 892        1 677 520        4 087 674        4 083 409        4 119 564
+Rozdiel            214 845           36 811           120 542         295 246          291 580          253 175
+
+Vypracovala: Mgr. Mária Kovalčíková
+
+V Ždiari, 26.11.2026
+
+Vyvesené na úradnej tabuli: 27.11.2026
+Zverejnené na www.zdiar.sk: 27.11.2026
+

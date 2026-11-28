@@ -1,46 +1,57 @@
 {
- "datum": "2026-11-27",
- "obstaravania": [
-  {
-   "cpv": "Stavebné práce na stavbe cyklistických trás",
-   "datum": "27.11.2026",
-   "nazov": "Vybudovanie cyklistickej infraštruktúry - Cyklotrasa po nábreží Cirochy",
-   "nuts": "Prešovský kraj",
-   "obec": "Snina",
-   "obstaravatel": "Mesto Snina",
-   "okres": "Snina",
-   "projekcia": false,
-   "url": "https://www.uvo.gov.sk/vyhladavanie/vyhladavanie-zakaziek/detail/522342?cHash=f1650e5c7abaef6343f5b34d0959c05a",
-   "zdroj": "ÚVO"
-  },
-  {
-   "datum": "2026-11-27",
-   "nazov": "Slovensko – Nábytok – DNS - Nábytok",
-   "obec": "",
-   "obstaravatel": "Univerzita Pavla Jozefa Šafárika v Košiciach",
-   "okres": "",
-   "projekcia": false,
-   "url": "https://ted.europa.eu/sk/notice/-/detail/826891-2026",
-   "zdroj": "TED (EÚ)"
-  }
- ],
+ "datum": "2026-11-28",
+ "obstaravania": [],
  "prepojenia": [],
  "prvy_beh": false,
  "vyzvy": [
   {
    "kategoria": "ministerstvo",
-   "nazov": "Fond na spravodlivú transformáciu",
+   "nazov": "Veľký záujem o podporu inovácií a digitalizácie v regiónoch: Informačný seminár prilákal viac ako 220 účastníkov",
    "temy": [],
-   "url": "https://mirri.gov.sk/aktuality/fond-na-spravodlivu-transformaciu/",
+   "url": "https://mirri.gov.sk/aktuality/digitalna-agenda/velky-zaujem-o-podporu-inovacii-a-digitalizacie-v-regionoch-informacny-seminar-prilakal-viac-ako-220-ucastnikov/",
    "zdroj": "MIRRI – regionálny rozvoj",
    "zhoda_tem": false
   },
   {
-   "kategoria": "ministerstvo",
-   "nazov": "Minister Samuel Migaľ: Autobusy pre hornú Nitru budú. Čerpanie Fondu na spravodlivú transformáciu sme rozhýbali",
+   "kategoria": "eurofondy",
+   "nazov": "Pozvánka na on-line informačný seminár „Podpora zariadení na výrobu elektriny zo slnečnej energie v transformujúcich sa regiónoch“",
    "temy": [],
-   "url": "https://mirri.gov.sk/aktuality/fond-na-spravodlivu-transformaciu/minister-samuel-migal-autobusy-pre-hornu-nitru-budu-cerpanie-fondu-na-spravodlivu-transformaciu-sme-rozhybali/",
-   "zdroj": "MIRRI – regionálny rozvoj",
+   "url": "https://eurofondy.gov.sk/pozvanka-na-on-line-informacny-seminar-podpora-zariadeni-na-vyrobu-elektriny-zo-slnecnej-energie-v-transformujucich-sa-regionoch/",
+   "zdroj": "Eurofondy – Program Slovensko",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "eurofondy",
+   "nazov": "Pozvánka na on-line informačný seminár „Podpora spolupráce medzi MSP a strednými odbornými školami za účelom zlepšenia vzdelávania, odbornej prípravy a zručností“",
+   "temy": [],
+   "url": "https://eurofondy.gov.sk/pozvanka-na-on-line-informacny-seminar-podpora-spoluprace-medzi-msp-a-strednymi-odbornymi-skolami-za-ucelom-zlepsenia-vzdelavania-odbornej-pripravy-a-zrucnosti/",
+   "zdroj": "Eurofondy – Program Slovensko",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "eurofondy",
+   "nazov": "Pozvánka na on-line informačný seminár „Podpora coworkingových centier a podnikateľských inkubátorov“",
+   "temy": [],
+   "url": "https://eurofondy.gov.sk/pozvanka-na-on-line-informacny-seminar-podpora-coworkingovych-centier-a-podnikatelskych-inkubatorov/",
+   "zdroj": "Eurofondy – Program Slovensko",
+   "zhoda_tem": false
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "27. 11. 2026 – Sociálne Nadácia PSK podáva pomocnú ruku charite, na výstavbu nového útulku v Prešove darovala 150-tisíc eur Nadácia Prešovského samosprávneho kraja pre podporu rodiny opäť potvrdzuje, že osud najzraniteľnejších obyvateľov v regióne jej nie je ľahostajný. Podpisom darovacej zmluvy s G",
+   "temy": [
+    "Dotácia / výzva"
+   ],
+   "url": "https://psk.sk/nadacia-psk-podava-pomocnu-ruku-charite-na-vystavbu-noveho-utulku-v-presove-darovala-150-tisic-eur/",
+   "zdroj": "Prešovský samosprávny kraj",
+   "zhoda_tem": true
+  },
+  {
+   "kategoria": "kraj",
+   "nazov": "NÁVRH – VZN PSK č. xxx/2026 o poskytovaní dotácií z vlastných príjmov Prešovského samosprávneho kraja (PDF, 726 kB)",
+   "temy": [],
+   "url": "https://psk.sk/dokument/62a76f88-e325-42e8-8b8c-573346c1787a/stiahnut?force=false?force=false",
+   "zdroj": "Prešovský samosprávny kraj",
    "zhoda_tem": false
   }
  ],
